@@ -1,0 +1,846 @@
+{
+ "source_file": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "edition": "Twelfth Edition (2011)",
+ "note": "شماره صفحه‌ها چاپی است (بر اساس فهرست کتاب)؛ PDF گایتون به‌دلیل Git LFS در این اجرا دریافت نشد.",
+ "chapters": [
+  {
+   "num": 1,
+   "title": "Functional Organization of the Human Body and Control of the “Internal Environment”",
+   "printed_page": 3
+  },
+  {
+   "num": 2,
+   "title": "The Cell and Its Functions",
+   "printed_page": 11
+  },
+  {
+   "num": 3,
+   "title": "Genetic Control of Protein Synthesis, Cell Function, and Cell Reproduction",
+   "printed_page": 27
+  },
+  {
+   "num": 4,
+   "title": "Transport of Substances Through Cell Membranes",
+   "printed_page": 45
+  },
+  {
+   "num": 5,
+   "title": "Membrane Potentials and Action Potentials",
+   "printed_page": 57
+  },
+  {
+   "num": 6,
+   "title": "Contraction of Skeletal Muscle",
+   "printed_page": 71
+  },
+  {
+   "num": 7,
+   "title": "Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling",
+   "printed_page": 83
+  },
+  {
+   "num": 8,
+   "title": "Excitation and Contraction of Smooth Muscle",
+   "printed_page": 91
+  },
+  {
+   "num": 9,
+   "title": "Cardiac Muscle; The Heart as a Pump and Function of the Heart Valves",
+   "printed_page": 101
+  },
+  {
+   "num": 10,
+   "title": "Rhythmical Excitation of the Heart",
+   "printed_page": 115
+  },
+  {
+   "num": 11,
+   "title": "The Normal Electrocardiogram",
+   "printed_page": 121
+  },
+  {
+   "num": 12,
+   "title": "Electrocardiographic Interpretation of Cardiac Muscle and Coronary Blood Flow Abnormalities: Vectorial Analysi",
+   "printed_page": 129
+  },
+  {
+   "num": 13,
+   "title": "Cardiac Arrhythmias and Their Electrocardiographic Interpretation",
+   "printed_page": 143
+  },
+  {
+   "num": 14,
+   "title": "Overview of the Circulation; Biophysics of Pressure, Flow, and Resistance",
+   "printed_page": 157
+  },
+  {
+   "num": 15,
+   "title": "Vascular Distensibility and Functions of the Arterial and Venous Systems",
+   "printed_page": 167
+  },
+  {
+   "num": 16,
+   "title": "The Microcirculation and Lymphatic System: Capillary Fluid Exchange, Interstitial Fluid, and Lymph Flow",
+   "printed_page": 177
+  },
+  {
+   "num": 17,
+   "title": "Local and Humoral Control of Tissue Blood Flow",
+   "printed_page": 191
+  },
+  {
+   "num": 18,
+   "title": "Nervous Regulation of the Circulation, and Rapid Control of Arterial Pressure",
+   "printed_page": 201
+  },
+  {
+   "num": 19,
+   "title": "Role of the Kidneys in Long-Term Control of Arterial Pressure and in Hypertension: The Integrated System for A",
+   "printed_page": 213
+  },
+  {
+   "num": 20,
+   "title": "Cardiac Output, Venous Return, and Their Regulation",
+   "printed_page": 229
+  },
+  {
+   "num": 21,
+   "title": "Muscle Blood Flow and Cardiac Output During Exercise; the Coronary Circulation and Ischemic Heart Disease",
+   "printed_page": 243
+  },
+  {
+   "num": 22,
+   "title": "Cardiac Failure",
+   "printed_page": 255
+  },
+  {
+   "num": 23,
+   "title": "Heart Valves and Heart Sounds; Valvular and Congenital Heart Defects",
+   "printed_page": 265
+  },
+  {
+   "num": 24,
+   "title": "Circulatory Shock and Its Treatment",
+   "printed_page": 273
+  },
+  {
+   "num": 25,
+   "title": "The Body Fluid Compartments: Extracellular and Intracellular Fluids; Edema",
+   "printed_page": 285
+  },
+  {
+   "num": 26,
+   "title": "Urine Formation by the Kidneys: I. Glomerular Filtration, Renal Blood Flow, and Their Control",
+   "printed_page": 303
+  },
+  {
+   "num": 27,
+   "title": "Urine Formation by the Kidneys: II. Tubular Reabsorption and Secretion",
+   "printed_page": 323
+  },
+  {
+   "num": 28,
+   "title": "Urine Concentration and Dilution; Regulation of Extracellular Fluid Osmolarity and Sodium Concentration",
+   "printed_page": 345
+  },
+  {
+   "num": 29,
+   "title": "Renal Regulation of Potassium, Calcium, Phosphate, and Magnesium; Integration of Renal Mechanisms for Control ",
+   "printed_page": 361
+  },
+  {
+   "num": 30,
+   "title": "Acid-Base Regulation",
+   "printed_page": 379
+  },
+  {
+   "num": 31,
+   "title": "Diuretics, Kidney Diseases",
+   "printed_page": 397
+  },
+  {
+   "num": 32,
+   "title": "Red Blood Cells, Anemia, and Polycythemia",
+   "printed_page": 413
+  },
+  {
+   "num": 33,
+   "title": "Resistance of the Body to Infection: I. Leukocytes, Granulocytes, the Monocyte- Macrophage System, and Inflamm",
+   "printed_page": 423
+  },
+  {
+   "num": 34,
+   "title": "Resistance of the Body to Infection: II. Immunity and Allergy Innate Immunity",
+   "printed_page": 433
+  },
+  {
+   "num": 35,
+   "title": "Blood Types; Transfusion; Tissue and Organ Transplantation",
+   "printed_page": 445
+  },
+  {
+   "num": 36,
+   "title": "Hemostasis and Blood Coagulation",
+   "printed_page": 451
+  },
+  {
+   "num": 37,
+   "title": "Pulmonary Ventilation",
+   "printed_page": 465
+  },
+  {
+   "num": 38,
+   "title": "Pulmonary Circulation, Pulmonary Edema, Pleural Fluid",
+   "printed_page": 477
+  },
+  {
+   "num": 39,
+   "title": "Physical Principles of Gas Exchange; Diffusion of Oxygen and Carbon Dioxide Through the Respiratory Membrane",
+   "printed_page": 485
+  },
+  {
+   "num": 40,
+   "title": "Transport of Oxygen and Carbon Dioxide in Blood and Tissue Fluids",
+   "printed_page": 495
+  },
+  {
+   "num": 41,
+   "title": "Regulation of Respiration",
+   "printed_page": 505
+  },
+  {
+   "num": 42,
+   "title": "Respiratory Insufficiency—Pathophysiology, Diagnosis, Oxygen Therapy",
+   "printed_page": 515
+  },
+  {
+   "num": 43,
+   "title": "Aviation, High-Altitude, and Space Physiology",
+   "printed_page": 527
+  },
+  {
+   "num": 44,
+   "title": "Physiology of Deep-Sea Diving and Other Hyperbaric Conditions",
+   "printed_page": 535
+  },
+  {
+   "num": 45,
+   "title": "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters",
+   "printed_page": 543
+  },
+  {
+   "num": 46,
+   "title": "Sensory Receptors, Neuronal Circuits for Processing Information",
+   "printed_page": 559
+  },
+  {
+   "num": 47,
+   "title": "Somatic Sensations: I. General Organization, the Tactile and Position Senses",
+   "printed_page": 571
+  },
+  {
+   "num": 48,
+   "title": "Somatic Sensations: II. Pain, Headache, and Thermal Sensations",
+   "printed_page": 583
+  },
+  {
+   "num": 49,
+   "title": "The Eye: I. Optics of Vision",
+   "printed_page": 597
+  },
+  {
+   "num": 50,
+   "title": "The Eye: II. Receptor and Neural Function of the Retina",
+   "printed_page": 609
+  },
+  {
+   "num": 51,
+   "title": "The Eye: III. Central Neurophysiology of Vision",
+   "printed_page": 623
+  },
+  {
+   "num": 52,
+   "title": "The Sense of Hearing",
+   "printed_page": 633
+  },
+  {
+   "num": 53,
+   "title": "The Chemical Senses—Taste and Smell",
+   "printed_page": 645
+  },
+  {
+   "num": 54,
+   "title": "Motor Functions of the Spinal Cord; the Cord Reflexes",
+   "printed_page": 655
+  },
+  {
+   "num": 55,
+   "title": "Cortical and Brain Stem Control of Motor Function",
+   "printed_page": 667
+  },
+  {
+   "num": 56,
+   "title": "Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
+   "printed_page": 681
+  },
+  {
+   "num": 57,
+   "title": "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory",
+   "printed_page": 697
+  },
+  {
+   "num": 58,
+   "title": "Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus",
+   "printed_page": 711
+  },
+  {
+   "num": 59,
+   "title": "States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses",
+   "printed_page": 721
+  },
+  {
+   "num": 60,
+   "title": "The Autonomic Nervous System and the Adrenal Medulla",
+   "printed_page": 729
+  },
+  {
+   "num": 61,
+   "title": "Cerebral Blood Flow, Cerebrospinal Fluid, and Brain Metabolism",
+   "printed_page": 743
+  },
+  {
+   "num": 62,
+   "title": "General Principles of Gastrointestinal Function—Motility, Nervous Control, and Blood Circulation",
+   "printed_page": 753
+  }
+ ],
+ "concepts": [
+  {
+   "concept_fa": "سازمان سیستم عصبی و سیناپس",
+   "keywords": [
+    "synapse",
+    "neurotransmitter",
+    "action potential",
+    "synaptic cleft"
+   ],
+   "total_hits": 594,
+   "chapters": [
+    {
+     "chapter": 45,
+     "title": "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters",
+     "printed_page": 543,
+     "hits": 126
+    },
+    {
+     "chapter": 5,
+     "title": "Membrane Potentials and Action Potentials",
+     "printed_page": 57,
+     "hits": 94
+    },
+    {
+     "chapter": 8,
+     "title": "Excitation and Contraction of Smooth Muscle",
+     "printed_page": 91,
+     "hits": 73
+    },
+    {
+     "chapter": 7,
+     "title": "Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling",
+     "printed_page": 83,
+     "hits": 31
+    }
+   ]
+  },
+  {
+   "concept_fa": "گیرنده‌های حسی و مسیرهای صعودی",
+   "keywords": [
+    "sensory receptor",
+    "dorsal column",
+    "spinothalamic",
+    "dermatome"
+   ],
+   "total_hits": 120,
+   "chapters": [
+    {
+     "chapter": 47,
+     "title": "Somatic Sensations: I. General Organization, the Tactile and Position Senses",
+     "printed_page": 571,
+     "hits": 49
+    },
+    {
+     "chapter": 48,
+     "title": "Somatic Sensations: II. Pain, Headache, and Thermal Sensations",
+     "printed_page": 583,
+     "hits": 22
+    },
+    {
+     "chapter": 46,
+     "title": "Sensory Receptors, Neuronal Circuits for Processing Information",
+     "printed_page": 559,
+     "hits": 16
+    }
+   ]
+  },
+  {
+   "concept_fa": "درد و کنترل درد",
+   "keywords": [
+    "pain",
+    "nociceptor",
+    "referred pain",
+    "analgesia"
+   ],
+   "total_hits": 588,
+   "chapters": [
+    {
+     "chapter": 48,
+     "title": "Somatic Sensations: II. Pain, Headache, and Thermal Sensations",
+     "printed_page": 583,
+     "hits": 367
+    },
+    {
+     "chapter": 46,
+     "title": "Sensory Receptors, Neuronal Circuits for Processing Information",
+     "printed_page": 559,
+     "hits": 29
+    },
+    {
+     "chapter": 54,
+     "title": "Motor Functions of the Spinal Cord; the Cord Reflexes",
+     "printed_page": 655,
+     "hits": 26
+    },
+    {
+     "chapter": 21,
+     "title": "Muscle Blood Flow and Cardiac Output During Exercise; the Coronary Circulation and Ischemic Heart Disease",
+     "printed_page": 243,
+     "hits": 20
+    }
+   ]
+  },
+  {
+   "concept_fa": "بینایی",
+   "keywords": [
+    "retina",
+    "rod",
+    "cone",
+    "rhodopsin",
+    "visual cortex",
+    "photoreceptor"
+   ],
+   "total_hits": 1873,
+   "chapters": [
+    {
+     "chapter": 50,
+     "title": "The Eye: II. Receptor and Neural Function of the Retina",
+     "printed_page": 609,
+     "hits": 479
+    },
+    {
+     "chapter": 51,
+     "title": "The Eye: III. Central Neurophysiology of Vision",
+     "printed_page": 623,
+     "hits": 107
+    },
+    {
+     "chapter": 49,
+     "title": "The Eye: I. Optics of Vision",
+     "printed_page": 597,
+     "hits": 60
+    },
+    {
+     "chapter": 32,
+     "title": "Red Blood Cells, Anemia, and Polycythemia",
+     "printed_page": 413,
+     "hits": 53
+    }
+   ]
+  },
+  {
+   "concept_fa": "شنوایی",
+   "keywords": [
+    "cochlea",
+    "organ of Corti",
+    "hair cell",
+    "tympanic",
+    "auditory"
+   ],
+   "total_hits": 325,
+   "chapters": [
+    {
+     "chapter": 52,
+     "title": "The Sense of Hearing",
+     "printed_page": 633,
+     "hits": 218
+    },
+    {
+     "chapter": 55,
+     "title": "Cortical and Brain Stem Control of Motor Function",
+     "printed_page": 667,
+     "hits": 28
+    },
+    {
+     "chapter": 57,
+     "title": "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory",
+     "printed_page": 697,
+     "hits": 22
+    },
+    {
+     "chapter": 47,
+     "title": "Somatic Sensations: I. General Organization, the Tactile and Position Senses",
+     "printed_page": 571,
+     "hits": 8
+    }
+   ]
+  },
+  {
+   "concept_fa": "تعادل و سیستم دهلیزی",
+   "keywords": [
+    "semicircular",
+    "utricle",
+    "saccule",
+    "vestibular",
+    "otolith"
+   ],
+   "total_hits": 141,
+   "chapters": [
+    {
+     "chapter": 55,
+     "title": "Cortical and Brain Stem Control of Motor Function",
+     "printed_page": 667,
+     "hits": 97
+    },
+    {
+     "chapter": 56,
+     "title": "Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
+     "printed_page": 681,
+     "hits": 11
+    }
+   ]
+  },
+  {
+   "concept_fa": "چشایی و بویایی",
+   "keywords": [
+    "taste",
+    "olfactory",
+    "smell",
+    "gustatory"
+   ],
+   "total_hits": 407,
+   "chapters": [
+    {
+     "chapter": 53,
+     "title": "The Chemical Senses—Taste and Smell",
+     "printed_page": 645,
+     "hits": 304
+    },
+    {
+     "chapter": 58,
+     "title": "Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus",
+     "printed_page": 711,
+     "hits": 14
+    }
+   ]
+  },
+  {
+   "concept_fa": "نخاع و رفلکس‌ها",
+   "keywords": [
+    "spinal cord",
+    "stretch reflex",
+    "muscle spindle",
+    "Golgi tendon"
+   ],
+   "total_hits": 426,
+   "chapters": [
+    {
+     "chapter": 54,
+     "title": "Motor Functions of the Spinal Cord; the Cord Reflexes",
+     "printed_page": 655,
+     "hits": 152
+    },
+    {
+     "chapter": 48,
+     "title": "Somatic Sensations: II. Pain, Headache, and Thermal Sensations",
+     "printed_page": 583,
+     "hits": 26
+    },
+    {
+     "chapter": 55,
+     "title": "Cortical and Brain Stem Control of Motor Function",
+     "printed_page": 667,
+     "hits": 23
+    },
+    {
+     "chapter": 45,
+     "title": "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters",
+     "printed_page": 543,
+     "hits": 21
+    }
+   ]
+  },
+  {
+   "concept_fa": "حرکت و قشر حرکتی",
+   "keywords": [
+    "motor cortex",
+    "corticospinal",
+    "pyramidal",
+    "reticulospinal"
+   ],
+   "total_hits": 231,
+   "chapters": [
+    {
+     "chapter": 55,
+     "title": "Cortical and Brain Stem Control of Motor Function",
+     "printed_page": 667,
+     "hits": 130
+    },
+    {
+     "chapter": 56,
+     "title": "Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
+     "printed_page": 681,
+     "hits": 33
+    },
+    {
+     "chapter": 57,
+     "title": "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory",
+     "printed_page": 697,
+     "hits": 13
+    }
+   ]
+  },
+  {
+   "concept_fa": "مخچه",
+   "keywords": [
+    "cerebellum",
+    "Purkinje",
+    "ataxia",
+    "cerebellar"
+   ],
+   "total_hits": 475,
+   "chapters": [
+    {
+     "chapter": 56,
+     "title": "Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
+     "printed_page": 681,
+     "hits": 306
+    },
+    {
+     "chapter": 10,
+     "title": "Rhythmical Excitation of the Heart",
+     "printed_page": 115,
+     "hits": 31
+    },
+    {
+     "chapter": 55,
+     "title": "Cortical and Brain Stem Control of Motor Function",
+     "printed_page": 667,
+     "hits": 29
+    },
+    {
+     "chapter": 12,
+     "title": "Electrocardiographic Interpretation of Cardiac Muscle and Coronary Blood Flow Abnormalities: Vectorial Analysi",
+     "printed_page": 129,
+     "hits": 8
+    }
+   ]
+  },
+  {
+   "concept_fa": "عقده‌های قاعده‌ای",
+   "keywords": [
+    "basal ganglia",
+    "substantia nigra",
+    "Parkinson",
+    "putamen"
+   ],
+   "total_hits": 188,
+   "chapters": [
+    {
+     "chapter": 56,
+     "title": "Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
+     "printed_page": 681,
+     "hits": 103
+    },
+    {
+     "chapter": 55,
+     "title": "Cortical and Brain Stem Control of Motor Function",
+     "printed_page": 667,
+     "hits": 14
+    },
+    {
+     "chapter": 58,
+     "title": "Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus",
+     "printed_page": 711,
+     "hits": 11
+    }
+   ]
+  },
+  {
+   "concept_fa": "حافظه و یادگیری",
+   "keywords": [
+    "memory",
+    "hippocampus",
+    "long-term potentiation",
+    "learning"
+   ],
+   "total_hits": 266,
+   "chapters": [
+    {
+     "chapter": 57,
+     "title": "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory",
+     "printed_page": 697,
+     "hits": 133
+    },
+    {
+     "chapter": 58,
+     "title": "Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus",
+     "printed_page": 711,
+     "hits": 38
+    },
+    {
+     "chapter": 45,
+     "title": "Organization of the Nervous System, Basic Functions of Synapses, and Neurotransmitters",
+     "printed_page": 543,
+     "hits": 15
+    },
+    {
+     "chapter": 59,
+     "title": "States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses",
+     "printed_page": 721,
+     "hits": 14
+    }
+   ]
+  },
+  {
+   "concept_fa": "لیمبیک و هیجان",
+   "keywords": [
+    "limbic",
+    "amygdala",
+    "hypothalamus",
+    "emotion"
+   ],
+   "total_hits": 526,
+   "chapters": [
+    {
+     "chapter": 58,
+     "title": "Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus",
+     "printed_page": 711,
+     "hits": 162
+    },
+    {
+     "chapter": 57,
+     "title": "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory",
+     "printed_page": 697,
+     "hits": 32
+    },
+    {
+     "chapter": 59,
+     "title": "States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses",
+     "printed_page": 721,
+     "hits": 18
+    },
+    {
+     "chapter": 53,
+     "title": "The Chemical Senses—Taste and Smell",
+     "printed_page": 645,
+     "hits": 13
+    }
+   ]
+  },
+  {
+   "concept_fa": "EEG، خواب و صرع",
+   "keywords": [
+    "electroencephalogram",
+    "sleep",
+    "epilepsy",
+    "seizure",
+    "REM"
+   ],
+   "total_hits": 2279,
+   "chapters": [
+    {
+     "chapter": 59,
+     "title": "States of Brain Activity—Sleep, Brain Waves, Epilepsy, Psychoses",
+     "printed_page": 721,
+     "hits": 229
+    },
+    {
+     "chapter": 25,
+     "title": "The Body Fluid Compartments: Extracellular and Intracellular Fluids; Edema",
+     "printed_page": 285,
+     "hits": 89
+    },
+    {
+     "chapter": 56,
+     "title": "Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control",
+     "printed_page": 681,
+     "hits": 57
+    },
+    {
+     "chapter": 13,
+     "title": "Cardiac Arrhythmias and Their Electrocardiographic Interpretation",
+     "printed_page": 143,
+     "hits": 46
+    }
+   ]
+  },
+  {
+   "concept_fa": "سیستم اتونوم",
+   "keywords": [
+    "autonomic",
+    "sympathetic",
+    "parasympathetic",
+    "acetylcholine"
+   ],
+   "total_hits": 1326,
+   "chapters": [
+    {
+     "chapter": 60,
+     "title": "The Autonomic Nervous System and the Adrenal Medulla",
+     "printed_page": 729,
+     "hits": 433
+    },
+    {
+     "chapter": 18,
+     "title": "Nervous Regulation of the Circulation, and Rapid Control of Arterial Pressure",
+     "printed_page": 201,
+     "hits": 85
+    },
+    {
+     "chapter": 62,
+     "title": "General Principles of Gastrointestinal Function—Motility, Nervous Control, and Blood Circulation",
+     "printed_page": 753,
+     "hits": 63
+    },
+    {
+     "chapter": 7,
+     "title": "Excitation of Skeletal Muscle: Neuromuscular Transmission and Excitation-Contraction Coupling",
+     "printed_page": 83,
+     "hits": 61
+    }
+   ]
+  },
+  {
+   "concept_fa": "اعمال برتر مغز و تکلم",
+   "keywords": [
+    "Wernicke",
+    "Broca",
+    "cerebral dominance",
+    "speech"
+   ],
+   "total_hits": 113,
+   "chapters": [
+    {
+     "chapter": 57,
+     "title": "Cerebral Cortex, Intellectual Functions of the Brain, Learning, and Memory",
+     "printed_page": 697,
+     "hits": 71
+    },
+    {
+     "chapter": 55,
+     "title": "Cortical and Brain Stem Control of Motor Function",
+     "printed_page": 667,
+     "hits": 11
+    }
+   ]
+  }
+ ]
+}

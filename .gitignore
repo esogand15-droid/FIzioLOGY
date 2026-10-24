@@ -1,0 +1,21 @@
+# محیط اجرا
+.venv/
+__pycache__/
+*.pyc
+
+# کپی منابع اصلی (در ریشه مخزن موجود است؛ با اسکریپت ۰۱ بازتولید می‌شود)
+src/extracted/
+
+# داده‌های میانی حجیم (قابل بازتولید با scripts/)
+work/page_data/
+work/flows/
+work/flows_norm/
+work/extracted_text/
+work/transcripts/
+work/video_frames/
+work/slide_data/
+
+# تصاویر خام (با scripts/03_figures.py و scripts/09_appendix_pages.py بازتولید می‌شوند)
+images/extracted/*.jpg
+images/appendix/*.jpg
+images/normalized/

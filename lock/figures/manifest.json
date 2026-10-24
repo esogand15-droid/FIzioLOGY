@@ -1,0 +1,3366 @@
+{
+ "total_extracted": 438,
+ "used": 240,
+ "figures": [
+  {
+   "figure_id": "FIG-0088",
+   "final_figure_number": 1,
+   "file": "images/extracted/FIG-0088.jpg",
+   "source_id": "SRC-0010",
+   "page": 2,
+   "section_id": "CH01-S01",
+   "topic": "سازمان‌بندی کلی سیستم عصبی (CNS، PNS و اجزای آن)",
+   "px": [
+    600,
+    277
+   ],
+   "bytes": 38153
+  },
+  {
+   "figure_id": "FIG-0090",
+   "final_figure_number": 2,
+   "file": "images/extracted/FIG-0090.jpg",
+   "source_id": "SRC-0010",
+   "page": 14,
+   "section_id": "CH01-S01",
+   "topic": "سازمان‌بندی کلی سیستم عصبی (CNS، PNS و اجزای آن)",
+   "px": [
+    601,
+    244
+   ],
+   "bytes": 23666
+  },
+  {
+   "figure_id": "FIG-0093",
+   "final_figure_number": 3,
+   "file": "images/extracted/FIG-0093.jpg",
+   "source_id": "SRC-0010",
+   "page": 23,
+   "section_id": "CH01-S01",
+   "topic": "سازمان‌بندی کلی سیستم عصبی (CNS، PNS و اجزای آن)",
+   "px": [
+    601,
+    259
+   ],
+   "bytes": 31822
+  },
+  {
+   "figure_id": "FIG-0180",
+   "final_figure_number": 4,
+   "file": "images/extracted/FIG-0180.jpg",
+   "source_id": "SRC-0028",
+   "page": 22,
+   "section_id": "CH01-S01",
+   "topic": "سازمان‌بندی کلی سیستم عصبی (CNS، PNS و اجزای آن)",
+   "px": [
+    601,
+    249
+   ],
+   "bytes": 27694
+  },
+  {
+   "figure_id": "FIG-0089",
+   "final_figure_number": 5,
+   "file": "images/extracted/FIG-0089.jpg",
+   "source_id": "SRC-0010",
+   "page": 9,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    601,
+    374
+   ],
+   "bytes": 49175
+  },
+  {
+   "figure_id": "FIG-0091",
+   "final_figure_number": 6,
+   "file": "images/extracted/FIG-0091.jpg",
+   "source_id": "SRC-0010",
+   "page": 17,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    601,
+    286
+   ],
+   "bytes": 27136
+  },
+  {
+   "figure_id": "FIG-0095",
+   "final_figure_number": 7,
+   "file": "images/extracted/FIG-0095.jpg",
+   "source_id": "SRC-0010",
+   "page": 34,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    600,
+    162
+   ],
+   "bytes": 20934
+  },
+  {
+   "figure_id": "FIG-0096",
+   "final_figure_number": 8,
+   "file": "images/extracted/FIG-0096.jpg",
+   "source_id": "SRC-0010",
+   "page": 35,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    601,
+    343
+   ],
+   "bytes": 29388
+  },
+  {
+   "figure_id": "FIG-0166",
+   "final_figure_number": 9,
+   "file": "images/extracted/FIG-0166.jpg",
+   "source_id": "SRC-0028",
+   "page": 4,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    601,
+    249
+   ],
+   "bytes": 31100
+  },
+  {
+   "figure_id": "FIG-0172",
+   "final_figure_number": 10,
+   "file": "images/extracted/FIG-0172.jpg",
+   "source_id": "SRC-0028",
+   "page": 10,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    600,
+    184
+   ],
+   "bytes": 16281
+  },
+  {
+   "figure_id": "FIG-0173",
+   "final_figure_number": 11,
+   "file": "images/extracted/FIG-0173.jpg",
+   "source_id": "SRC-0028",
+   "page": 10,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    600,
+    151
+   ],
+   "bytes": 13357
+  },
+  {
+   "figure_id": "FIG-0175",
+   "final_figure_number": 12,
+   "file": "images/extracted/FIG-0175.jpg",
+   "source_id": "SRC-0028",
+   "page": 13,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    600,
+    328
+   ],
+   "bytes": 25169
+  },
+  {
+   "figure_id": "FIG-0181",
+   "final_figure_number": 13,
+   "file": "images/extracted/FIG-0181.jpg",
+   "source_id": "SRC-0028",
+   "page": 24,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    601,
+    246
+   ],
+   "bytes": 23038
+  },
+  {
+   "figure_id": "FIG-0182",
+   "final_figure_number": 14,
+   "file": "images/extracted/FIG-0182.jpg",
+   "source_id": "SRC-0028",
+   "page": 25,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    601,
+    285
+   ],
+   "bytes": 28454
+  },
+  {
+   "figure_id": "FIG-0183",
+   "final_figure_number": 15,
+   "file": "images/extracted/FIG-0183.jpg",
+   "source_id": "SRC-0028",
+   "page": 26,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    600,
+    291
+   ],
+   "bytes": 23255
+  },
+  {
+   "figure_id": "FIG-0184",
+   "final_figure_number": 16,
+   "file": "images/extracted/FIG-0184.jpg",
+   "source_id": "SRC-0028",
+   "page": 27,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    600,
+    225
+   ],
+   "bytes": 22200
+  },
+  {
+   "figure_id": "FIG-0185",
+   "final_figure_number": 17,
+   "file": "images/extracted/FIG-0185.jpg",
+   "source_id": "SRC-0028",
+   "page": 28,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    600,
+    198
+   ],
+   "bytes": 16921
+  },
+  {
+   "figure_id": "FIG-0186",
+   "final_figure_number": 18,
+   "file": "images/extracted/FIG-0186.jpg",
+   "source_id": "SRC-0028",
+   "page": 29,
+   "section_id": "CH01-S02",
+   "topic": "اجزای سلولی سیستم عصبی: نورون و سلول‌های گلیال",
+   "px": [
+    601,
+    188
+   ],
+   "bytes": 23601
+  },
+  {
+   "figure_id": "FIG-0174",
+   "final_figure_number": 19,
+   "file": "images/extracted/FIG-0174.jpg",
+   "source_id": "SRC-0028",
+   "page": 11,
+   "section_id": "CH01-S03",
+   "topic": "دندریت‌ها، آکسون و طبقه‌بندی مورفولوژیک نورون‌ها",
+   "px": [
+    601,
+    227
+   ],
+   "bytes": 29471
+  },
+  {
+   "figure_id": "FIG-0176",
+   "final_figure_number": 20,
+   "file": "images/extracted/FIG-0176.jpg",
+   "source_id": "SRC-0028",
+   "page": 14,
+   "section_id": "CH01-S03",
+   "topic": "دندریت‌ها، آکسون و طبقه‌بندی مورفولوژیک نورون‌ها",
+   "px": [
+    601,
+    292
+   ],
+   "bytes": 37898
+  },
+  {
+   "figure_id": "FIG-0177",
+   "final_figure_number": 21,
+   "file": "images/extracted/FIG-0177.jpg",
+   "source_id": "SRC-0028",
+   "page": 16,
+   "section_id": "CH01-S03",
+   "topic": "دندریت‌ها، آکسون و طبقه‌بندی مورفولوژیک نورون‌ها",
+   "px": [
+    600,
+    238
+   ],
+   "bytes": 26277
+  },
+  {
+   "figure_id": "FIG-0178",
+   "final_figure_number": 22,
+   "file": "images/extracted/FIG-0178.jpg",
+   "source_id": "SRC-0028",
+   "page": 18,
+   "section_id": "CH01-S03",
+   "topic": "دندریت‌ها، آکسون و طبقه‌بندی مورفولوژیک نورون‌ها",
+   "px": [
+    601,
+    570
+   ],
+   "bytes": 70597
+  },
+  {
+   "figure_id": "FIG-0098",
+   "final_figure_number": 23,
+   "file": "images/extracted/FIG-0098.jpg",
+   "source_id": "SRC-0010",
+   "page": 38,
+   "section_id": "CH01-S04",
+   "topic": "سیناپس: ساختار، انواع و ویژگی‌های هدایت سیناپسی",
+   "px": [
+    600,
+    166
+   ],
+   "bytes": 19328
+  },
+  {
+   "figure_id": "FIG-0165",
+   "final_figure_number": 24,
+   "file": "images/extracted/FIG-0165.jpg",
+   "source_id": "SRC-0028",
+   "page": 2,
+   "section_id": "CH01-S04",
+   "topic": "سیناپس: ساختار، انواع و ویژگی‌های هدایت سیناپسی",
+   "px": [
+    600,
+    262
+   ],
+   "bytes": 24307
+  },
+  {
+   "figure_id": "FIG-0167",
+   "final_figure_number": 25,
+   "file": "images/extracted/FIG-0167.jpg",
+   "source_id": "SRC-0028",
+   "page": 5,
+   "section_id": "CH01-S04",
+   "topic": "سیناپس: ساختار، انواع و ویژگی‌های هدایت سیناپسی",
+   "px": [
+    600,
+    291
+   ],
+   "bytes": 44489
+  },
+  {
+   "figure_id": "FIG-0168",
+   "final_figure_number": 26,
+   "file": "images/extracted/FIG-0168.jpg",
+   "source_id": "SRC-0028",
+   "page": 6,
+   "section_id": "CH01-S04",
+   "topic": "سیناپس: ساختار، انواع و ویژگی‌های هدایت سیناپسی",
+   "px": [
+    601,
+    265
+   ],
+   "bytes": 33130
+  },
+  {
+   "figure_id": "FIG-0169",
+   "final_figure_number": 27,
+   "file": "images/extracted/FIG-0169.jpg",
+   "source_id": "SRC-0028",
+   "page": 7,
+   "section_id": "CH01-S04",
+   "topic": "سیناپس: ساختار، انواع و ویژگی‌های هدایت سیناپسی",
+   "px": [
+    601,
+    282
+   ],
+   "bytes": 35521
+  },
+  {
+   "figure_id": "FIG-0170",
+   "final_figure_number": 28,
+   "file": "images/extracted/FIG-0170.jpg",
+   "source_id": "SRC-0028",
+   "page": 8,
+   "section_id": "CH01-S04",
+   "topic": "سیناپس: ساختار، انواع و ویژگی‌های هدایت سیناپسی",
+   "px": [
+    601,
+    251
+   ],
+   "bytes": 26458
+  },
+  {
+   "figure_id": "FIG-0092",
+   "final_figure_number": 29,
+   "file": "images/extracted/FIG-0092.jpg",
+   "source_id": "SRC-0010",
+   "page": 20,
+   "section_id": "CH01-S05",
+   "topic": "نوروترانسمیترها: میانجی‌های کوچک‌مولکول و نوروپپتیدها",
+   "px": [
+    600,
+    184
+   ],
+   "bytes": 19723
+  },
+  {
+   "figure_id": "FIG-0094",
+   "final_figure_number": 30,
+   "file": "images/extracted/FIG-0094.jpg",
+   "source_id": "SRC-0010",
+   "page": 29,
+   "section_id": "CH01-S05",
+   "topic": "نوروترانسمیترها: میانجی‌های کوچک‌مولکول و نوروپپتیدها",
+   "px": [
+    601,
+    389
+   ],
+   "bytes": 46753
+  },
+  {
+   "figure_id": "FIG-0099",
+   "final_figure_number": 31,
+   "file": "images/extracted/FIG-0099.jpg",
+   "source_id": "SRC-0010",
+   "page": 39,
+   "section_id": "CH01-S05",
+   "topic": "نوروترانسمیترها: میانجی‌های کوچک‌مولکول و نوروپپتیدها",
+   "px": [
+    600,
+    291
+   ],
+   "bytes": 34905
+  },
+  {
+   "figure_id": "FIG-0097",
+   "final_figure_number": 32,
+   "file": "images/extracted/FIG-0097.jpg",
+   "source_id": "SRC-0010",
+   "page": 36,
+   "section_id": "CH01-S06",
+   "topic": "گیرنده‌های پس‌سیناپسی: یونوتروپیک و متابوتروپیک",
+   "px": [
+    601,
+    289
+   ],
+   "bytes": 29581
+  },
+  {
+   "figure_id": "FIG-0171",
+   "final_figure_number": 33,
+   "file": "images/extracted/FIG-0171.jpg",
+   "source_id": "SRC-0028",
+   "page": 9,
+   "section_id": "CH01-S07",
+   "topic": "EPSP، IPSP، جمع‌بندی و هدایت الکتروتونیک",
+   "px": [
+    600,
+    249
+   ],
+   "bytes": 41196
+  },
+  {
+   "figure_id": "FIG-0179",
+   "final_figure_number": 34,
+   "file": "images/extracted/FIG-0179.jpg",
+   "source_id": "SRC-0028",
+   "page": 20,
+   "section_id": "CH01-S07",
+   "topic": "EPSP، IPSP، جمع‌بندی و هدایت الکتروتونیک",
+   "px": [
+    600,
+    247
+   ],
+   "bytes": 27309
+  },
+  {
+   "figure_id": "FIG-0187",
+   "final_figure_number": 35,
+   "file": "images/extracted/FIG-0187.jpg",
+   "source_id": "SRC-0032",
+   "page": 2,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    208
+   ],
+   "bytes": 29573
+  },
+  {
+   "figure_id": "FIG-0188",
+   "final_figure_number": 36,
+   "file": "images/extracted/FIG-0188.jpg",
+   "source_id": "SRC-0032",
+   "page": 3,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    601,
+    172
+   ],
+   "bytes": 19853
+  },
+  {
+   "figure_id": "FIG-0189",
+   "final_figure_number": 37,
+   "file": "images/extracted/FIG-0189.jpg",
+   "source_id": "SRC-0032",
+   "page": 5,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    601,
+    220
+   ],
+   "bytes": 24616
+  },
+  {
+   "figure_id": "FIG-0191",
+   "final_figure_number": 38,
+   "file": "images/extracted/FIG-0191.jpg",
+   "source_id": "SRC-0032",
+   "page": 8,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    228
+   ],
+   "bytes": 28645
+  },
+  {
+   "figure_id": "FIG-0192",
+   "final_figure_number": 39,
+   "file": "images/extracted/FIG-0192.jpg",
+   "source_id": "SRC-0032",
+   "page": 10,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    260
+   ],
+   "bytes": 34180
+  },
+  {
+   "figure_id": "FIG-0199",
+   "final_figure_number": 40,
+   "file": "images/extracted/FIG-0199.jpg",
+   "source_id": "SRC-0032",
+   "page": 19,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    601,
+    228
+   ],
+   "bytes": 31767
+  },
+  {
+   "figure_id": "FIG-0200",
+   "final_figure_number": 41,
+   "file": "images/extracted/FIG-0200.jpg",
+   "source_id": "SRC-0032",
+   "page": 20,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    223
+   ],
+   "bytes": 26693
+  },
+  {
+   "figure_id": "FIG-0201",
+   "final_figure_number": 42,
+   "file": "images/extracted/FIG-0201.jpg",
+   "source_id": "SRC-0032",
+   "page": 20,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    173
+   ],
+   "bytes": 21451
+  },
+  {
+   "figure_id": "FIG-0202",
+   "final_figure_number": 43,
+   "file": "images/extracted/FIG-0202.jpg",
+   "source_id": "SRC-0032",
+   "page": 21,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    206
+   ],
+   "bytes": 27425
+  },
+  {
+   "figure_id": "FIG-0213",
+   "final_figure_number": 44,
+   "file": "images/extracted/FIG-0213.jpg",
+   "source_id": "SRC-0036",
+   "page": 5,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    410
+   ],
+   "bytes": 52977
+  },
+  {
+   "figure_id": "FIG-0218",
+   "final_figure_number": 45,
+   "file": "images/extracted/FIG-0218.jpg",
+   "source_id": "SRC-0036",
+   "page": 12,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    404
+   ],
+   "bytes": 36970
+  },
+  {
+   "figure_id": "FIG-0219",
+   "final_figure_number": 46,
+   "file": "images/extracted/FIG-0219.jpg",
+   "source_id": "SRC-0036",
+   "page": 13,
+   "section_id": "CH02-S01",
+   "topic": "گیرنده‌های حسی: تعریف، سلول‌های اختصاصی و پایانه‌های عصبی",
+   "px": [
+    600,
+    461
+   ],
+   "bytes": 39988
+  },
+  {
+   "figure_id": "FIG-0190",
+   "final_figure_number": 47,
+   "file": "images/extracted/FIG-0190.jpg",
+   "source_id": "SRC-0032",
+   "page": 6,
+   "section_id": "CH02-S02",
+   "topic": "طبقه‌بندی گیرنده‌ها (مکانورسپتور، ترمورسپتور، کمورسپتور، نوسیسپتور)",
+   "px": [
+    601,
+    236
+   ],
+   "bytes": 24324
+  },
+  {
+   "figure_id": "FIG-0198",
+   "final_figure_number": 48,
+   "file": "images/extracted/FIG-0198.jpg",
+   "source_id": "SRC-0032",
+   "page": 17,
+   "section_id": "CH02-S02",
+   "topic": "طبقه‌بندی گیرنده‌ها (مکانورسپتور، ترمورسپتور، کمورسپتور، نوسیسپتور)",
+   "px": [
+    601,
+    187
+   ],
+   "bytes": 25091
+  },
+  {
+   "figure_id": "FIG-0193",
+   "final_figure_number": 49,
+   "file": "images/extracted/FIG-0193.jpg",
+   "source_id": "SRC-0032",
+   "page": 12,
+   "section_id": "CH02-S03",
+   "topic": "پتانسیل گیرنده و رابطه شدت محرک با دامنه",
+   "px": [
+    600,
+    164
+   ],
+   "bytes": 20535
+  },
+  {
+   "figure_id": "FIG-0194",
+   "final_figure_number": 50,
+   "file": "images/extracted/FIG-0194.jpg",
+   "source_id": "SRC-0032",
+   "page": 12,
+   "section_id": "CH02-S03",
+   "topic": "پتانسیل گیرنده و رابطه شدت محرک با دامنه",
+   "px": [
+    440,
+    389
+   ],
+   "bytes": 17790
+  },
+  {
+   "figure_id": "FIG-0195",
+   "final_figure_number": 51,
+   "file": "images/extracted/FIG-0195.jpg",
+   "source_id": "SRC-0032",
+   "page": 13,
+   "section_id": "CH02-S03",
+   "topic": "پتانسیل گیرنده و رابطه شدت محرک با دامنه",
+   "px": [
+    601,
+    233
+   ],
+   "bytes": 25776
+  },
+  {
+   "figure_id": "FIG-0196",
+   "final_figure_number": 52,
+   "file": "images/extracted/FIG-0196.jpg",
+   "source_id": "SRC-0032",
+   "page": 14,
+   "section_id": "CH02-S03",
+   "topic": "پتانسیل گیرنده و رابطه شدت محرک با دامنه",
+   "px": [
+    600,
+    172
+   ],
+   "bytes": 18600
+  },
+  {
+   "figure_id": "FIG-0197",
+   "final_figure_number": 53,
+   "file": "images/extracted/FIG-0197.jpg",
+   "source_id": "SRC-0032",
+   "page": 15,
+   "section_id": "CH02-S03",
+   "topic": "پتانسیل گیرنده و رابطه شدت محرک با دامنه",
+   "px": [
+    601,
+    365
+   ],
+   "bytes": 29342
+  },
+  {
+   "figure_id": "FIG-0203",
+   "final_figure_number": 54,
+   "file": "images/extracted/FIG-0203.jpg",
+   "source_id": "SRC-0032",
+   "page": 23,
+   "section_id": "CH02-S05",
+   "topic": "مسیر ستون خلفی-لمنیسکوس داخلی",
+   "px": [
+    600,
+    216
+   ],
+   "bytes": 23868
+  },
+  {
+   "figure_id": "FIG-0204",
+   "final_figure_number": 55,
+   "file": "images/extracted/FIG-0204.jpg",
+   "source_id": "SRC-0032",
+   "page": 23,
+   "section_id": "CH02-S05",
+   "topic": "مسیر ستون خلفی-لمنیسکوس داخلی",
+   "px": [
+    601,
+    135
+   ],
+   "bytes": 19096
+  },
+  {
+   "figure_id": "FIG-0205",
+   "final_figure_number": 56,
+   "file": "images/extracted/FIG-0205.jpg",
+   "source_id": "SRC-0032",
+   "page": 25,
+   "section_id": "CH02-S05",
+   "topic": "مسیر ستون خلفی-لمنیسکوس داخلی",
+   "px": [
+    601,
+    250
+   ],
+   "bytes": 32017
+  },
+  {
+   "figure_id": "FIG-0206",
+   "final_figure_number": 57,
+   "file": "images/extracted/FIG-0206.jpg",
+   "source_id": "SRC-0032",
+   "page": 27,
+   "section_id": "CH02-S05",
+   "topic": "مسیر ستون خلفی-لمنیسکوس داخلی",
+   "px": [
+    600,
+    349
+   ],
+   "bytes": 31618
+  },
+  {
+   "figure_id": "FIG-0207",
+   "final_figure_number": 58,
+   "file": "images/extracted/FIG-0207.jpg",
+   "source_id": "SRC-0032",
+   "page": 31,
+   "section_id": "CH02-S05",
+   "topic": "مسیر ستون خلفی-لمنیسکوس داخلی",
+   "px": [
+    600,
+    285
+   ],
+   "bytes": 32586
+  },
+  {
+   "figure_id": "FIG-0209",
+   "final_figure_number": 59,
+   "file": "images/extracted/FIG-0209.jpg",
+   "source_id": "SRC-0036",
+   "page": 2,
+   "section_id": "CH02-S05",
+   "topic": "مسیر ستون خلفی-لمنیسکوس داخلی",
+   "px": [
+    600,
+    438
+   ],
+   "bytes": 45343
+  },
+  {
+   "figure_id": "FIG-0210",
+   "final_figure_number": 60,
+   "file": "images/extracted/FIG-0210.jpg",
+   "source_id": "SRC-0036",
+   "page": 2,
+   "section_id": "CH02-S05",
+   "topic": "مسیر ستون خلفی-لمنیسکوس داخلی",
+   "px": [
+    600,
+    378
+   ],
+   "bytes": 26979
+  },
+  {
+   "figure_id": "FIG-0208",
+   "final_figure_number": 61,
+   "file": "images/extracted/FIG-0208.jpg",
+   "source_id": "SRC-0032",
+   "page": 32,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    601,
+    310
+   ],
+   "bytes": 28370
+  },
+  {
+   "figure_id": "FIG-0211",
+   "final_figure_number": 62,
+   "file": "images/extracted/FIG-0211.jpg",
+   "source_id": "SRC-0036",
+   "page": 3,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    601,
+    371
+   ],
+   "bytes": 35885
+  },
+  {
+   "figure_id": "FIG-0215",
+   "final_figure_number": 63,
+   "file": "images/extracted/FIG-0215.jpg",
+   "source_id": "SRC-0036",
+   "page": 8,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    600,
+    251
+   ],
+   "bytes": 26894
+  },
+  {
+   "figure_id": "FIG-0216",
+   "final_figure_number": 64,
+   "file": "images/extracted/FIG-0216.jpg",
+   "source_id": "SRC-0036",
+   "page": 9,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    600,
+    317
+   ],
+   "bytes": 41272
+  },
+  {
+   "figure_id": "FIG-0217",
+   "final_figure_number": 65,
+   "file": "images/extracted/FIG-0217.jpg",
+   "source_id": "SRC-0036",
+   "page": 11,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    600,
+    259
+   ],
+   "bytes": 22584
+  },
+  {
+   "figure_id": "FIG-0220",
+   "final_figure_number": 66,
+   "file": "images/extracted/FIG-0220.jpg",
+   "source_id": "SRC-0036",
+   "page": 14,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    601,
+    386
+   ],
+   "bytes": 32848
+  },
+  {
+   "figure_id": "FIG-0221",
+   "final_figure_number": 67,
+   "file": "images/extracted/FIG-0221.jpg",
+   "source_id": "SRC-0036",
+   "page": 22,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    600,
+    583
+   ],
+   "bytes": 69875
+  },
+  {
+   "figure_id": "FIG-0222",
+   "final_figure_number": 68,
+   "file": "images/extracted/FIG-0222.jpg",
+   "source_id": "SRC-0036",
+   "page": 23,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    600,
+    374
+   ],
+   "bytes": 31261
+  },
+  {
+   "figure_id": "FIG-0223",
+   "final_figure_number": 69,
+   "file": "images/extracted/FIG-0223.jpg",
+   "source_id": "SRC-0036",
+   "page": 24,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    601,
+    502
+   ],
+   "bytes": 41720
+  },
+  {
+   "figure_id": "FIG-0224",
+   "final_figure_number": 70,
+   "file": "images/extracted/FIG-0224.jpg",
+   "source_id": "SRC-0036",
+   "page": 26,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    601,
+    295
+   ],
+   "bytes": 26833
+  },
+  {
+   "figure_id": "FIG-0225",
+   "final_figure_number": 71,
+   "file": "images/extracted/FIG-0225.jpg",
+   "source_id": "SRC-0036",
+   "page": 27,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    600,
+    316
+   ],
+   "bytes": 29090
+  },
+  {
+   "figure_id": "FIG-0226",
+   "final_figure_number": 72,
+   "file": "images/extracted/FIG-0226.jpg",
+   "source_id": "SRC-0036",
+   "page": 28,
+   "section_id": "CH02-S06",
+   "topic": "مسیر اسپاینوتالامیک و انتقال درد و حرارت",
+   "px": [
+    600,
+    366
+   ],
+   "bytes": 31271
+  },
+  {
+   "figure_id": "FIG-0212",
+   "final_figure_number": 73,
+   "file": "images/extracted/FIG-0212.jpg",
+   "source_id": "SRC-0036",
+   "page": 4,
+   "section_id": "CH02-S07",
+   "topic": "قشر سوماتوسنسوری، نقشه بدن و نواحی برودمن",
+   "px": [
+    601,
+    354
+   ],
+   "bytes": 27279
+  },
+  {
+   "figure_id": "FIG-0214",
+   "final_figure_number": 74,
+   "file": "images/extracted/FIG-0214.jpg",
+   "source_id": "SRC-0036",
+   "page": 6,
+   "section_id": "CH02-S07",
+   "topic": "قشر سوماتوسنسوری، نقشه بدن و نواحی برودمن",
+   "px": [
+    600,
+    339
+   ],
+   "bytes": 37477
+  },
+  {
+   "figure_id": "FIG-0228",
+   "final_figure_number": 75,
+   "file": "images/extracted/FIG-0228.jpg",
+   "source_id": "SRC-0040",
+   "page": 4,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    428
+   ],
+   "bytes": 53992
+  },
+  {
+   "figure_id": "FIG-0230",
+   "final_figure_number": 76,
+   "file": "images/extracted/FIG-0230.jpg",
+   "source_id": "SRC-0040",
+   "page": 9,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    601,
+    436
+   ],
+   "bytes": 68296
+  },
+  {
+   "figure_id": "FIG-0232",
+   "final_figure_number": 77,
+   "file": "images/extracted/FIG-0232.jpg",
+   "source_id": "SRC-0040",
+   "page": 14,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    455
+   ],
+   "bytes": 48694
+  },
+  {
+   "figure_id": "FIG-0233",
+   "final_figure_number": 78,
+   "file": "images/extracted/FIG-0233.jpg",
+   "source_id": "SRC-0040",
+   "page": 15,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    425
+   ],
+   "bytes": 48395
+  },
+  {
+   "figure_id": "FIG-0239",
+   "final_figure_number": 79,
+   "file": "images/extracted/FIG-0239.jpg",
+   "source_id": "SRC-0040",
+   "page": 23,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    296
+   ],
+   "bytes": 46610
+  },
+  {
+   "figure_id": "FIG-0242",
+   "final_figure_number": 80,
+   "file": "images/extracted/FIG-0242.jpg",
+   "source_id": "SRC-0040",
+   "page": 27,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    542
+   ],
+   "bytes": 37202
+  },
+  {
+   "figure_id": "FIG-0256",
+   "final_figure_number": 81,
+   "file": "images/extracted/FIG-0256.jpg",
+   "source_id": "SRC-0044",
+   "page": 2,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    601,
+    511
+   ],
+   "bytes": 66344
+  },
+  {
+   "figure_id": "FIG-0257",
+   "final_figure_number": 82,
+   "file": "images/extracted/FIG-0257.jpg",
+   "source_id": "SRC-0044",
+   "page": 3,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    380,
+    542
+   ],
+   "bytes": 30158
+  },
+  {
+   "figure_id": "FIG-0258",
+   "final_figure_number": 83,
+   "file": "images/extracted/FIG-0258.jpg",
+   "source_id": "SRC-0044",
+   "page": 4,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    489,
+    357
+   ],
+   "bytes": 22804
+  },
+  {
+   "figure_id": "FIG-0259",
+   "final_figure_number": 84,
+   "file": "images/extracted/FIG-0259.jpg",
+   "source_id": "SRC-0044",
+   "page": 5,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    601,
+    553
+   ],
+   "bytes": 39282
+  },
+  {
+   "figure_id": "FIG-0260",
+   "final_figure_number": 85,
+   "file": "images/extracted/FIG-0260.jpg",
+   "source_id": "SRC-0044",
+   "page": 6,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    311,
+    601
+   ],
+   "bytes": 24272
+  },
+  {
+   "figure_id": "FIG-0261",
+   "final_figure_number": 86,
+   "file": "images/extracted/FIG-0261.jpg",
+   "source_id": "SRC-0044",
+   "page": 6,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    477,
+    422
+   ],
+   "bytes": 27611
+  },
+  {
+   "figure_id": "FIG-0262",
+   "final_figure_number": 87,
+   "file": "images/extracted/FIG-0262.jpg",
+   "source_id": "SRC-0044",
+   "page": 7,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    501,
+    412
+   ],
+   "bytes": 35314
+  },
+  {
+   "figure_id": "FIG-0263",
+   "final_figure_number": 88,
+   "file": "images/extracted/FIG-0263.jpg",
+   "source_id": "SRC-0044",
+   "page": 8,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    275
+   ],
+   "bytes": 28948
+  },
+  {
+   "figure_id": "FIG-0264",
+   "final_figure_number": 89,
+   "file": "images/extracted/FIG-0264.jpg",
+   "source_id": "SRC-0044",
+   "page": 8,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    420,
+    386
+   ],
+   "bytes": 21317
+  },
+  {
+   "figure_id": "FIG-0265",
+   "final_figure_number": 90,
+   "file": "images/extracted/FIG-0265.jpg",
+   "source_id": "SRC-0044",
+   "page": 9,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    434
+   ],
+   "bytes": 70855
+  },
+  {
+   "figure_id": "FIG-0266",
+   "final_figure_number": 91,
+   "file": "images/extracted/FIG-0266.jpg",
+   "source_id": "SRC-0044",
+   "page": 11,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    463
+   ],
+   "bytes": 56621
+  },
+  {
+   "figure_id": "FIG-0267",
+   "final_figure_number": 92,
+   "file": "images/extracted/FIG-0267.jpg",
+   "source_id": "SRC-0044",
+   "page": 14,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    367,
+    600
+   ],
+   "bytes": 32057
+  },
+  {
+   "figure_id": "FIG-0268",
+   "final_figure_number": 93,
+   "file": "images/extracted/FIG-0268.jpg",
+   "source_id": "SRC-0044",
+   "page": 14,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    332,
+    600
+   ],
+   "bytes": 27000
+  },
+  {
+   "figure_id": "FIG-0269",
+   "final_figure_number": 94,
+   "file": "images/extracted/FIG-0269.jpg",
+   "source_id": "SRC-0044",
+   "page": 15,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    269,
+    600
+   ],
+   "bytes": 24456
+  },
+  {
+   "figure_id": "FIG-0272",
+   "final_figure_number": 95,
+   "file": "images/extracted/FIG-0272.jpg",
+   "source_id": "SRC-0044",
+   "page": 19,
+   "section_id": "CH03-S01",
+   "topic": "ساختمان شبکیه و انواع سلول‌ها",
+   "px": [
+    600,
+    476
+   ],
+   "bytes": 42463
+  },
+  {
+   "figure_id": "FIG-0229",
+   "final_figure_number": 96,
+   "file": "images/extracted/FIG-0229.jpg",
+   "source_id": "SRC-0040",
+   "page": 7,
+   "section_id": "CH03-S03",
+   "topic": "تطابق به نور و تاریکی",
+   "px": [
+    600,
+    323
+   ],
+   "bytes": 34284
+  },
+  {
+   "figure_id": "FIG-0234",
+   "final_figure_number": 97,
+   "file": "images/extracted/FIG-0234.jpg",
+   "source_id": "SRC-0040",
+   "page": 18,
+   "section_id": "CH03-S04",
+   "topic": "دید رنگی و نظریه‌های آن",
+   "px": [
+    601,
+    447
+   ],
+   "bytes": 54443
+  },
+  {
+   "figure_id": "FIG-0235",
+   "final_figure_number": 98,
+   "file": "images/extracted/FIG-0235.jpg",
+   "source_id": "SRC-0040",
+   "page": 18,
+   "section_id": "CH03-S04",
+   "topic": "دید رنگی و نظریه‌های آن",
+   "px": [
+    600,
+    450
+   ],
+   "bytes": 35514
+  },
+  {
+   "figure_id": "FIG-0236",
+   "final_figure_number": 99,
+   "file": "images/extracted/FIG-0236.jpg",
+   "source_id": "SRC-0040",
+   "page": 19,
+   "section_id": "CH03-S04",
+   "topic": "دید رنگی و نظریه‌های آن",
+   "px": [
+    601,
+    430
+   ],
+   "bytes": 41098
+  },
+  {
+   "figure_id": "FIG-0240",
+   "final_figure_number": 100,
+   "file": "images/extracted/FIG-0240.jpg",
+   "source_id": "SRC-0040",
+   "page": 24,
+   "section_id": "CH03-S04",
+   "topic": "دید رنگی و نظریه‌های آن",
+   "px": [
+    600,
+    528
+   ],
+   "bytes": 49105
+  },
+  {
+   "figure_id": "FIG-0241",
+   "final_figure_number": 101,
+   "file": "images/extracted/FIG-0241.jpg",
+   "source_id": "SRC-0040",
+   "page": 25,
+   "section_id": "CH03-S04",
+   "topic": "دید رنگی و نظریه‌های آن",
+   "px": [
+    600,
+    440
+   ],
+   "bytes": 48569
+  },
+  {
+   "figure_id": "FIG-0270",
+   "final_figure_number": 102,
+   "file": "images/extracted/FIG-0270.jpg",
+   "source_id": "SRC-0044",
+   "page": 17,
+   "section_id": "CH03-S04",
+   "topic": "دید رنگی و نظریه‌های آن",
+   "px": [
+    600,
+    442
+   ],
+   "bytes": 40587
+  },
+  {
+   "figure_id": "FIG-0271",
+   "final_figure_number": 103,
+   "file": "images/extracted/FIG-0271.jpg",
+   "source_id": "SRC-0044",
+   "page": 18,
+   "section_id": "CH03-S04",
+   "topic": "دید رنگی و نظریه‌های آن",
+   "px": [
+    600,
+    500
+   ],
+   "bytes": 65078
+  },
+  {
+   "figure_id": "FIG-0273",
+   "final_figure_number": 104,
+   "file": "images/extracted/FIG-0273.jpg",
+   "source_id": "SRC-0044",
+   "page": 20,
+   "section_id": "CH03-S04",
+   "topic": "دید رنگی و نظریه‌های آن",
+   "px": [
+    600,
+    521
+   ],
+   "bytes": 42788
+  },
+  {
+   "figure_id": "FIG-0231",
+   "final_figure_number": 105,
+   "file": "images/extracted/FIG-0231.jpg",
+   "source_id": "SRC-0040",
+   "page": 12,
+   "section_id": "CH03-S05",
+   "topic": "پردازش عصبی شبکیه و میدان‌های گیرنده",
+   "px": [
+    601,
+    451
+   ],
+   "bytes": 60940
+  },
+  {
+   "figure_id": "FIG-0238",
+   "final_figure_number": 106,
+   "file": "images/extracted/FIG-0238.jpg",
+   "source_id": "SRC-0040",
+   "page": 22,
+   "section_id": "CH03-S05",
+   "topic": "پردازش عصبی شبکیه و میدان‌های گیرنده",
+   "px": [
+    343,
+    600
+   ],
+   "bytes": 39364
+  },
+  {
+   "figure_id": "FIG-0237",
+   "final_figure_number": 107,
+   "file": "images/extracted/FIG-0237.jpg",
+   "source_id": "SRC-0040",
+   "page": 21,
+   "section_id": "CH03-S06",
+   "topic": "مسیر بینایی، LGN و قشر بینایی",
+   "px": [
+    481,
+    601
+   ],
+   "bytes": 64938
+  },
+  {
+   "figure_id": "FIG-0243",
+   "final_figure_number": 108,
+   "file": "images/extracted/FIG-0243.jpg",
+   "source_id": "SRC-0040",
+   "page": 28,
+   "section_id": "CH03-S06",
+   "topic": "مسیر بینایی، LGN و قشر بینایی",
+   "px": [
+    600,
+    268
+   ],
+   "bytes": 21440
+  },
+  {
+   "figure_id": "FIG-0244",
+   "final_figure_number": 109,
+   "file": "images/extracted/FIG-0244.jpg",
+   "source_id": "SRC-0040",
+   "page": 28,
+   "section_id": "CH03-S06",
+   "topic": "مسیر بینایی، LGN و قشر بینایی",
+   "px": [
+    600,
+    278
+   ],
+   "bytes": 21047
+  },
+  {
+   "figure_id": "FIG-0274",
+   "final_figure_number": 110,
+   "file": "images/extracted/FIG-0274.jpg",
+   "source_id": "SRC-0044",
+   "page": 21,
+   "section_id": "CH03-S06",
+   "topic": "مسیر بینایی، LGN و قشر بینایی",
+   "px": [
+    600,
+    560
+   ],
+   "bytes": 41861
+  },
+  {
+   "figure_id": "FIG-0275",
+   "final_figure_number": 111,
+   "file": "images/extracted/FIG-0275.jpg",
+   "source_id": "SRC-0044",
+   "page": 21,
+   "section_id": "CH03-S06",
+   "topic": "مسیر بینایی، LGN و قشر بینایی",
+   "px": [
+    600,
+    393
+   ],
+   "bytes": 39936
+  },
+  {
+   "figure_id": "FIG-0245",
+   "final_figure_number": 112,
+   "file": "images/extracted/FIG-0245.jpg",
+   "source_id": "SRC-0040",
+   "page": 30,
+   "section_id": "CH03-S07",
+   "topic": "حرکات چشم، تطابق عدسی، مردمک و دید دوچشمی",
+   "px": [
+    219,
+    601
+   ],
+   "bytes": 27745
+  },
+  {
+   "figure_id": "FIG-0246",
+   "final_figure_number": 113,
+   "file": "images/extracted/FIG-0246.jpg",
+   "source_id": "SRC-0040",
+   "page": 31,
+   "section_id": "CH03-S07",
+   "topic": "حرکات چشم، تطابق عدسی، مردمک و دید دوچشمی",
+   "px": [
+    290,
+    600
+   ],
+   "bytes": 31123
+  },
+  {
+   "figure_id": "FIG-0277",
+   "final_figure_number": 114,
+   "file": "images/extracted/FIG-0277.jpg",
+   "source_id": "SRC-0046",
+   "page": 2,
+   "section_id": "CH04-S01",
+   "topic": "ساختار گوش خارجی، میانی و داخلی",
+   "px": [
+    601,
+    339
+   ],
+   "bytes": 29259
+  },
+  {
+   "figure_id": "FIG-0278",
+   "final_figure_number": 115,
+   "file": "images/extracted/FIG-0278.jpg",
+   "source_id": "SRC-0046",
+   "page": 5,
+   "section_id": "CH04-S01",
+   "topic": "ساختار گوش خارجی، میانی و داخلی",
+   "px": [
+    601,
+    365
+   ],
+   "bytes": 28844
+  },
+  {
+   "figure_id": "FIG-0288",
+   "final_figure_number": 116,
+   "file": "images/extracted/FIG-0288.jpg",
+   "source_id": "SRC-0046",
+   "page": 13,
+   "section_id": "CH04-S02",
+   "topic": "استخوانچه‌های شنوایی و تقویت صوت",
+   "px": [
+    506,
+    600
+   ],
+   "bytes": 36772
+  },
+  {
+   "figure_id": "FIG-0294",
+   "final_figure_number": 117,
+   "file": "images/extracted/FIG-0294.jpg",
+   "source_id": "SRC-0046",
+   "page": 23,
+   "section_id": "CH04-S02",
+   "topic": "استخوانچه‌های شنوایی و تقویت صوت",
+   "px": [
+    601,
+    321
+   ],
+   "bytes": 30616
+  },
+  {
+   "figure_id": "FIG-0292",
+   "final_figure_number": 118,
+   "file": "images/extracted/FIG-0292.jpg",
+   "source_id": "SRC-0046",
+   "page": 18,
+   "section_id": "CH04-S03",
+   "topic": "عضلات گوش میانی و رفلکس تضعیف",
+   "px": [
+    282,
+    600
+   ],
+   "bytes": 27844
+  },
+  {
+   "figure_id": "FIG-0293",
+   "final_figure_number": 119,
+   "file": "images/extracted/FIG-0293.jpg",
+   "source_id": "SRC-0046",
+   "page": 18,
+   "section_id": "CH04-S03",
+   "topic": "عضلات گوش میانی و رفلکس تضعیف",
+   "px": [
+    596,
+    536
+   ],
+   "bytes": 35637
+  },
+  {
+   "figure_id": "FIG-0279",
+   "final_figure_number": 120,
+   "file": "images/extracted/FIG-0279.jpg",
+   "source_id": "SRC-0046",
+   "page": 7,
+   "section_id": "CH04-S04",
+   "topic": "حلزون، پرده‌های آن و اندام کورتی",
+   "px": [
+    601,
+    204
+   ],
+   "bytes": 28729
+  },
+  {
+   "figure_id": "FIG-0280",
+   "final_figure_number": 121,
+   "file": "images/extracted/FIG-0280.jpg",
+   "source_id": "SRC-0046",
+   "page": 8,
+   "section_id": "CH04-S04",
+   "topic": "حلزون، پرده‌های آن و اندام کورتی",
+   "px": [
+    600,
+    535
+   ],
+   "bytes": 38702
+  },
+  {
+   "figure_id": "FIG-0281",
+   "final_figure_number": 122,
+   "file": "images/extracted/FIG-0281.jpg",
+   "source_id": "SRC-0046",
+   "page": 8,
+   "section_id": "CH04-S04",
+   "topic": "حلزون، پرده‌های آن و اندام کورتی",
+   "px": [
+    600,
+    465
+   ],
+   "bytes": 51017
+  },
+  {
+   "figure_id": "FIG-0283",
+   "final_figure_number": 123,
+   "file": "images/extracted/FIG-0283.jpg",
+   "source_id": "SRC-0046",
+   "page": 9,
+   "section_id": "CH04-S04",
+   "topic": "حلزون، پرده‌های آن و اندام کورتی",
+   "px": [
+    600,
+    367
+   ],
+   "bytes": 45582
+  },
+  {
+   "figure_id": "FIG-0284",
+   "final_figure_number": 124,
+   "file": "images/extracted/FIG-0284.jpg",
+   "source_id": "SRC-0046",
+   "page": 9,
+   "section_id": "CH04-S04",
+   "topic": "حلزون، پرده‌های آن و اندام کورتی",
+   "px": [
+    601,
+    334
+   ],
+   "bytes": 28558
+  },
+  {
+   "figure_id": "FIG-0289",
+   "final_figure_number": 125,
+   "file": "images/extracted/FIG-0289.jpg",
+   "source_id": "SRC-0046",
+   "page": 14,
+   "section_id": "CH04-S04",
+   "topic": "حلزون، پرده‌های آن و اندام کورتی",
+   "px": [
+    600,
+    442
+   ],
+   "bytes": 36315
+  },
+  {
+   "figure_id": "FIG-0290",
+   "final_figure_number": 126,
+   "file": "images/extracted/FIG-0290.jpg",
+   "source_id": "SRC-0046",
+   "page": 15,
+   "section_id": "CH04-S04",
+   "topic": "حلزون، پرده‌های آن و اندام کورتی",
+   "px": [
+    600,
+    247
+   ],
+   "bytes": 21559
+  },
+  {
+   "figure_id": "FIG-0285",
+   "final_figure_number": 127,
+   "file": "images/extracted/FIG-0285.jpg",
+   "source_id": "SRC-0046",
+   "page": 10,
+   "section_id": "CH04-S05",
+   "topic": "سلول‌های مویی و مکانیسم تحریک آن‌ها",
+   "px": [
+    601,
+    345
+   ],
+   "bytes": 41360
+  },
+  {
+   "figure_id": "FIG-0286",
+   "final_figure_number": 128,
+   "file": "images/extracted/FIG-0286.jpg",
+   "source_id": "SRC-0046",
+   "page": 10,
+   "section_id": "CH04-S05",
+   "topic": "سلول‌های مویی و مکانیسم تحریک آن‌ها",
+   "px": [
+    601,
+    298
+   ],
+   "bytes": 27988
+  },
+  {
+   "figure_id": "FIG-0287",
+   "final_figure_number": 129,
+   "file": "images/extracted/FIG-0287.jpg",
+   "source_id": "SRC-0046",
+   "page": 11,
+   "section_id": "CH04-S05",
+   "topic": "سلول‌های مویی و مکانیسم تحریک آن‌ها",
+   "px": [
+    601,
+    419
+   ],
+   "bytes": 40953
+  },
+  {
+   "figure_id": "FIG-0291",
+   "final_figure_number": 130,
+   "file": "images/extracted/FIG-0291.jpg",
+   "source_id": "SRC-0046",
+   "page": 17,
+   "section_id": "CH04-S06",
+   "topic": "تعیین فرکانس، بلندی و تشخیص جهت صوت",
+   "px": [
+    554,
+    416
+   ],
+   "bytes": 39593
+  },
+  {
+   "figure_id": "FIG-0423",
+   "final_figure_number": 131,
+   "file": "images/extracted/FIG-0423.jpg",
+   "source_id": "SRC-0058",
+   "page": 6,
+   "section_id": "CH05-S01",
+   "topic": "سازمان سیستم دهلیزی و لابیرنت",
+   "px": [
+    600,
+    330
+   ],
+   "bytes": 34800
+  },
+  {
+   "figure_id": "FIG-0424",
+   "final_figure_number": 132,
+   "file": "images/extracted/FIG-0424.jpg",
+   "source_id": "SRC-0058",
+   "page": 6,
+   "section_id": "CH05-S01",
+   "topic": "سازمان سیستم دهلیزی و لابیرنت",
+   "px": [
+    600,
+    405
+   ],
+   "bytes": 42059
+  },
+  {
+   "figure_id": "FIG-0425",
+   "final_figure_number": 133,
+   "file": "images/extracted/FIG-0425.jpg",
+   "source_id": "SRC-0058",
+   "page": 7,
+   "section_id": "CH05-S01",
+   "topic": "سازمان سیستم دهلیزی و لابیرنت",
+   "px": [
+    601,
+    179
+   ],
+   "bytes": 17010
+  },
+  {
+   "figure_id": "FIG-0426",
+   "final_figure_number": 134,
+   "file": "images/extracted/FIG-0426.jpg",
+   "source_id": "SRC-0058",
+   "page": 7,
+   "section_id": "CH05-S01",
+   "topic": "سازمان سیستم دهلیزی و لابیرنت",
+   "px": [
+    327,
+    600
+   ],
+   "bytes": 37345
+  },
+  {
+   "figure_id": "FIG-0428",
+   "final_figure_number": 135,
+   "file": "images/extracted/FIG-0428.jpg",
+   "source_id": "SRC-0058",
+   "page": 8,
+   "section_id": "CH05-S01",
+   "topic": "سازمان سیستم دهلیزی و لابیرنت",
+   "px": [
+    313,
+    601
+   ],
+   "bytes": 41501
+  },
+  {
+   "figure_id": "FIG-0429",
+   "final_figure_number": 136,
+   "file": "images/extracted/FIG-0429.jpg",
+   "source_id": "SRC-0058",
+   "page": 9,
+   "section_id": "CH05-S01",
+   "topic": "سازمان سیستم دهلیزی و لابیرنت",
+   "px": [
+    600,
+    276
+   ],
+   "bytes": 28424
+  },
+  {
+   "figure_id": "FIG-0430",
+   "final_figure_number": 137,
+   "file": "images/extracted/FIG-0430.jpg",
+   "source_id": "SRC-0058",
+   "page": 10,
+   "section_id": "CH05-S02",
+   "topic": "ماکولا، اتولیت و گیرنده‌های ساکول و اوتریکول",
+   "px": [
+    600,
+    540
+   ],
+   "bytes": 43282
+  },
+  {
+   "figure_id": "FIG-0431",
+   "final_figure_number": 138,
+   "file": "images/extracted/FIG-0431.jpg",
+   "source_id": "SRC-0058",
+   "page": 11,
+   "section_id": "CH05-S03",
+   "topic": "مجاری نیم‌دایره، آمپولا و کوپولا",
+   "px": [
+    601,
+    341
+   ],
+   "bytes": 54788
+  },
+  {
+   "figure_id": "FIG-0432",
+   "final_figure_number": 139,
+   "file": "images/extracted/FIG-0432.jpg",
+   "source_id": "SRC-0058",
+   "page": 12,
+   "section_id": "CH05-S03",
+   "topic": "مجاری نیم‌دایره، آمپولا و کوپولا",
+   "px": [
+    600,
+    354
+   ],
+   "bytes": 35869
+  },
+  {
+   "figure_id": "FIG-0433",
+   "final_figure_number": 140,
+   "file": "images/extracted/FIG-0433.jpg",
+   "source_id": "SRC-0058",
+   "page": 12,
+   "section_id": "CH05-S03",
+   "topic": "مجاری نیم‌دایره، آمپولا و کوپولا",
+   "px": [
+    601,
+    468
+   ],
+   "bytes": 28789
+  },
+  {
+   "figure_id": "FIG-0420",
+   "final_figure_number": 141,
+   "file": "images/extracted/FIG-0420.jpg",
+   "source_id": "SRC-0058",
+   "page": 3,
+   "section_id": "CH05-S04",
+   "topic": "مسیرهای دهلیزی، رفلکس‌ها و نقش مخچه در تعادل",
+   "px": [
+    600,
+    397
+   ],
+   "bytes": 28723
+  },
+  {
+   "figure_id": "FIG-0422",
+   "final_figure_number": 142,
+   "file": "images/extracted/FIG-0422.jpg",
+   "source_id": "SRC-0058",
+   "page": 5,
+   "section_id": "CH05-S04",
+   "topic": "مسیرهای دهلیزی، رفلکس‌ها و نقش مخچه در تعادل",
+   "px": [
+    600,
+    303
+   ],
+   "bytes": 25056
+  },
+  {
+   "figure_id": "FIG-0434",
+   "final_figure_number": 143,
+   "file": "images/extracted/FIG-0434.jpg",
+   "source_id": "SRC-0058",
+   "page": 13,
+   "section_id": "CH05-S04",
+   "topic": "مسیرهای دهلیزی، رفلکس‌ها و نقش مخچه در تعادل",
+   "px": [
+    601,
+    223
+   ],
+   "bytes": 26557
+  },
+  {
+   "figure_id": "FIG-0435",
+   "final_figure_number": 144,
+   "file": "images/extracted/FIG-0435.jpg",
+   "source_id": "SRC-0058",
+   "page": 13,
+   "section_id": "CH05-S04",
+   "topic": "مسیرهای دهلیزی، رفلکس‌ها و نقش مخچه در تعادل",
+   "px": [
+    247,
+    600
+   ],
+   "bytes": 19917
+  },
+  {
+   "figure_id": "FIG-0436",
+   "final_figure_number": 145,
+   "file": "images/extracted/FIG-0436.jpg",
+   "source_id": "SRC-0058",
+   "page": 14,
+   "section_id": "CH05-S04",
+   "topic": "مسیرهای دهلیزی، رفلکس‌ها و نقش مخچه در تعادل",
+   "px": [
+    419,
+    601
+   ],
+   "bytes": 45814
+  },
+  {
+   "figure_id": "FIG-0437",
+   "final_figure_number": 146,
+   "file": "images/extracted/FIG-0437.jpg",
+   "source_id": "SRC-0058",
+   "page": 14,
+   "section_id": "CH05-S04",
+   "topic": "مسیرهای دهلیزی، رفلکس‌ها و نقش مخچه در تعادل",
+   "px": [
+    601,
+    475
+   ],
+   "bytes": 44978
+  },
+  {
+   "figure_id": "FIG-0438",
+   "final_figure_number": 147,
+   "file": "images/extracted/FIG-0438.jpg",
+   "source_id": "SRC-0058",
+   "page": 15,
+   "section_id": "CH05-S04",
+   "topic": "مسیرهای دهلیزی، رفلکس‌ها و نقش مخچه در تعادل",
+   "px": [
+    601,
+    305
+   ],
+   "bytes": 41144
+  },
+  {
+   "figure_id": "FIG-0159",
+   "final_figure_number": 148,
+   "file": "images/extracted/FIG-0159.jpg",
+   "source_id": "SRC-0024",
+   "page": 8,
+   "section_id": "CH06-S01",
+   "topic": "اشاره‌های موجود در منابع (وضعیت: نیازمند بررسی)",
+   "px": [
+    600,
+    567
+   ],
+   "bytes": 45909
+  },
+  {
+   "figure_id": "FIG-0052",
+   "final_figure_number": 149,
+   "file": "images/extracted/FIG-0052.jpg",
+   "source_id": "SRC-0007",
+   "page": 4,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    600,
+    508
+   ],
+   "bytes": 34284
+  },
+  {
+   "figure_id": "FIG-0053",
+   "final_figure_number": 150,
+   "file": "images/extracted/FIG-0053.jpg",
+   "source_id": "SRC-0007",
+   "page": 4,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    564,
+    600
+   ],
+   "bytes": 44785
+  },
+  {
+   "figure_id": "FIG-0054",
+   "final_figure_number": 151,
+   "file": "images/extracted/FIG-0054.jpg",
+   "source_id": "SRC-0007",
+   "page": 5,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    600,
+    348
+   ],
+   "bytes": 29560
+  },
+  {
+   "figure_id": "FIG-0055",
+   "final_figure_number": 152,
+   "file": "images/extracted/FIG-0055.jpg",
+   "source_id": "SRC-0007",
+   "page": 6,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    600,
+    454
+   ],
+   "bytes": 45806
+  },
+  {
+   "figure_id": "FIG-0060",
+   "final_figure_number": 153,
+   "file": "images/extracted/FIG-0060.jpg",
+   "source_id": "SRC-0007",
+   "page": 9,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    479,
+    600
+   ],
+   "bytes": 39888
+  },
+  {
+   "figure_id": "FIG-0061",
+   "final_figure_number": 154,
+   "file": "images/extracted/FIG-0061.jpg",
+   "source_id": "SRC-0007",
+   "page": 10,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    600,
+    242
+   ],
+   "bytes": 26255
+  },
+  {
+   "figure_id": "FIG-0062",
+   "final_figure_number": 155,
+   "file": "images/extracted/FIG-0062.jpg",
+   "source_id": "SRC-0007",
+   "page": 12,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    600,
+    480
+   ],
+   "bytes": 36803
+  },
+  {
+   "figure_id": "FIG-0063",
+   "final_figure_number": 156,
+   "file": "images/extracted/FIG-0063.jpg",
+   "source_id": "SRC-0007",
+   "page": 13,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    600,
+    234
+   ],
+   "bytes": 25270
+  },
+  {
+   "figure_id": "FIG-0064",
+   "final_figure_number": 157,
+   "file": "images/extracted/FIG-0064.jpg",
+   "source_id": "SRC-0007",
+   "page": 14,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    600,
+    440
+   ],
+   "bytes": 44255
+  },
+  {
+   "figure_id": "FIG-0069",
+   "final_figure_number": 158,
+   "file": "images/extracted/FIG-0069.jpg",
+   "source_id": "SRC-0007",
+   "page": 19,
+   "section_id": "CH07-S01",
+   "topic": "سازمان‌بندی نخاع، واحد حرکتی و حس عمقی",
+   "px": [
+    600,
+    525
+   ],
+   "bytes": 51216
+  },
+  {
+   "figure_id": "FIG-0050",
+   "final_figure_number": 159,
+   "file": "images/extracted/FIG-0050.jpg",
+   "source_id": "SRC-0007",
+   "page": 2,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    600,
+    266
+   ],
+   "bytes": 23938
+  },
+  {
+   "figure_id": "FIG-0051",
+   "final_figure_number": 160,
+   "file": "images/extracted/FIG-0051.jpg",
+   "source_id": "SRC-0007",
+   "page": 3,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    600,
+    274
+   ],
+   "bytes": 21540
+  },
+  {
+   "figure_id": "FIG-0056",
+   "final_figure_number": 161,
+   "file": "images/extracted/FIG-0056.jpg",
+   "source_id": "SRC-0007",
+   "page": 7,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    600,
+    508
+   ],
+   "bytes": 44667
+  },
+  {
+   "figure_id": "FIG-0057",
+   "final_figure_number": 162,
+   "file": "images/extracted/FIG-0057.jpg",
+   "source_id": "SRC-0007",
+   "page": 7,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    601,
+    327
+   ],
+   "bytes": 30146
+  },
+  {
+   "figure_id": "FIG-0058",
+   "final_figure_number": 163,
+   "file": "images/extracted/FIG-0058.jpg",
+   "source_id": "SRC-0007",
+   "page": 8,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    601,
+    245
+   ],
+   "bytes": 27449
+  },
+  {
+   "figure_id": "FIG-0059",
+   "final_figure_number": 164,
+   "file": "images/extracted/FIG-0059.jpg",
+   "source_id": "SRC-0007",
+   "page": 8,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    450,
+    600
+   ],
+   "bytes": 27470
+  },
+  {
+   "figure_id": "FIG-0065",
+   "final_figure_number": 165,
+   "file": "images/extracted/FIG-0065.jpg",
+   "source_id": "SRC-0007",
+   "page": 16,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    601,
+    320
+   ],
+   "bytes": 18797
+  },
+  {
+   "figure_id": "FIG-0066",
+   "final_figure_number": 166,
+   "file": "images/extracted/FIG-0066.jpg",
+   "source_id": "SRC-0007",
+   "page": 17,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    600,
+    532
+   ],
+   "bytes": 42616
+  },
+  {
+   "figure_id": "FIG-0067",
+   "final_figure_number": 167,
+   "file": "images/extracted/FIG-0067.jpg",
+   "source_id": "SRC-0007",
+   "page": 18,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    600,
+    305
+   ],
+   "bytes": 15713
+  },
+  {
+   "figure_id": "FIG-0068",
+   "final_figure_number": 168,
+   "file": "images/extracted/FIG-0068.jpg",
+   "source_id": "SRC-0007",
+   "page": 18,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    600,
+    301
+   ],
+   "bytes": 14867
+  },
+  {
+   "figure_id": "FIG-0070",
+   "final_figure_number": 169,
+   "file": "images/extracted/FIG-0070.jpg",
+   "source_id": "SRC-0007",
+   "page": 20,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    600,
+    262
+   ],
+   "bytes": 27638
+  },
+  {
+   "figure_id": "FIG-0071",
+   "final_figure_number": 170,
+   "file": "images/extracted/FIG-0071.jpg",
+   "source_id": "SRC-0007",
+   "page": 22,
+   "section_id": "CH07-S02",
+   "topic": "رفلکس‌های کششی و تاندونی",
+   "px": [
+    600,
+    267
+   ],
+   "bytes": 31143
+  },
+  {
+   "figure_id": "FIG-0076",
+   "final_figure_number": 171,
+   "file": "images/extracted/FIG-0076.jpg",
+   "source_id": "SRC-0008",
+   "page": 6,
+   "section_id": "CH08-S01",
+   "topic": "هسته‌های ساقه مغز و سازمان‌بندی مسیرهای نزولی",
+   "px": [
+    600,
+    384
+   ],
+   "bytes": 39834
+  },
+  {
+   "figure_id": "FIG-0077",
+   "final_figure_number": 172,
+   "file": "images/extracted/FIG-0077.jpg",
+   "source_id": "SRC-0008",
+   "page": 8,
+   "section_id": "CH08-S01",
+   "topic": "هسته‌های ساقه مغز و سازمان‌بندی مسیرهای نزولی",
+   "px": [
+    451,
+    600
+   ],
+   "bytes": 27243
+  },
+  {
+   "figure_id": "FIG-0083",
+   "final_figure_number": 173,
+   "file": "images/extracted/FIG-0083.jpg",
+   "source_id": "SRC-0008",
+   "page": 16,
+   "section_id": "CH08-S01",
+   "topic": "هسته‌های ساقه مغز و سازمان‌بندی مسیرهای نزولی",
+   "px": [
+    582,
+    600
+   ],
+   "bytes": 46262
+  },
+  {
+   "figure_id": "FIG-0085",
+   "final_figure_number": 174,
+   "file": "images/extracted/FIG-0085.jpg",
+   "source_id": "SRC-0008",
+   "page": 20,
+   "section_id": "CH08-S01",
+   "topic": "هسته‌های ساقه مغز و سازمان‌بندی مسیرهای نزولی",
+   "px": [
+    601,
+    549
+   ],
+   "bytes": 28761
+  },
+  {
+   "figure_id": "FIG-0086",
+   "final_figure_number": 175,
+   "file": "images/extracted/FIG-0086.jpg",
+   "source_id": "SRC-0008",
+   "page": 21,
+   "section_id": "CH08-S01",
+   "topic": "هسته‌های ساقه مغز و سازمان‌بندی مسیرهای نزولی",
+   "px": [
+    378,
+    601
+   ],
+   "bytes": 41422
+  },
+  {
+   "figure_id": "FIG-0073",
+   "final_figure_number": 176,
+   "file": "images/extracted/FIG-0073.jpg",
+   "source_id": "SRC-0008",
+   "page": 2,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    600,
+    221
+   ],
+   "bytes": 15292
+  },
+  {
+   "figure_id": "FIG-0074",
+   "final_figure_number": 177,
+   "file": "images/extracted/FIG-0074.jpg",
+   "source_id": "SRC-0008",
+   "page": 3,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    600,
+    320
+   ],
+   "bytes": 28644
+  },
+  {
+   "figure_id": "FIG-0075",
+   "final_figure_number": 178,
+   "file": "images/extracted/FIG-0075.jpg",
+   "source_id": "SRC-0008",
+   "page": 4,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    600,
+    593
+   ],
+   "bytes": 78340
+  },
+  {
+   "figure_id": "FIG-0078",
+   "final_figure_number": 179,
+   "file": "images/extracted/FIG-0078.jpg",
+   "source_id": "SRC-0008",
+   "page": 10,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    582,
+    600
+   ],
+   "bytes": 48142
+  },
+  {
+   "figure_id": "FIG-0079",
+   "final_figure_number": 180,
+   "file": "images/extracted/FIG-0079.jpg",
+   "source_id": "SRC-0008",
+   "page": 11,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    600,
+    588
+   ],
+   "bytes": 34367
+  },
+  {
+   "figure_id": "FIG-0080",
+   "final_figure_number": 181,
+   "file": "images/extracted/FIG-0080.jpg",
+   "source_id": "SRC-0008",
+   "page": 12,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    600,
+    552
+   ],
+   "bytes": 35953
+  },
+  {
+   "figure_id": "FIG-0081",
+   "final_figure_number": 182,
+   "file": "images/extracted/FIG-0081.jpg",
+   "source_id": "SRC-0008",
+   "page": 12,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    600,
+    564
+   ],
+   "bytes": 58303
+  },
+  {
+   "figure_id": "FIG-0084",
+   "final_figure_number": 183,
+   "file": "images/extracted/FIG-0084.jpg",
+   "source_id": "SRC-0008",
+   "page": 18,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    600,
+    570
+   ],
+   "bytes": 48243
+  },
+  {
+   "figure_id": "FIG-0421",
+   "final_figure_number": 184,
+   "file": "images/extracted/FIG-0421.jpg",
+   "source_id": "SRC-0058",
+   "page": 4,
+   "section_id": "CH08-S03",
+   "topic": "قشر حرکتی و سازمان‌بندی آن",
+   "px": [
+    601,
+    296
+   ],
+   "bytes": 21492
+  },
+  {
+   "figure_id": "FIG-0082",
+   "final_figure_number": 185,
+   "file": "images/extracted/FIG-0082.jpg",
+   "source_id": "SRC-0008",
+   "page": 14,
+   "section_id": "CH08-S04",
+   "topic": "راه‌های هرمی و خارج هرمی و کنترل حرکات ارادی",
+   "px": [
+    600,
+    316
+   ],
+   "bytes": 30015
+  },
+  {
+   "figure_id": "FIG-0021",
+   "final_figure_number": 186,
+   "file": "images/extracted/FIG-0021.jpg",
+   "source_id": "SRC-0003",
+   "page": 3,
+   "section_id": "CH09-S01",
+   "topic": "اختلالات مخچه‌ای و یافته‌های بالینی",
+   "px": [
+    600,
+    547
+   ],
+   "bytes": 33734
+  },
+  {
+   "figure_id": "FIG-0025",
+   "final_figure_number": 187,
+   "file": "images/extracted/FIG-0025.jpg",
+   "source_id": "SRC-0003",
+   "page": 7,
+   "section_id": "CH09-S01",
+   "topic": "اختلالات مخچه‌ای و یافته‌های بالینی",
+   "px": [
+    573,
+    600
+   ],
+   "bytes": 46164
+  },
+  {
+   "figure_id": "FIG-0026",
+   "final_figure_number": 188,
+   "file": "images/extracted/FIG-0026.jpg",
+   "source_id": "SRC-0003",
+   "page": 8,
+   "section_id": "CH09-S01",
+   "topic": "اختلالات مخچه‌ای و یافته‌های بالینی",
+   "px": [
+    532,
+    600
+   ],
+   "bytes": 36662
+  },
+  {
+   "figure_id": "FIG-0027",
+   "final_figure_number": 189,
+   "file": "images/extracted/FIG-0027.jpg",
+   "source_id": "SRC-0003",
+   "page": 8,
+   "section_id": "CH09-S01",
+   "topic": "اختلالات مخچه‌ای و یافته‌های بالینی",
+   "px": [
+    513,
+    600
+   ],
+   "bytes": 39499
+  },
+  {
+   "figure_id": "FIG-0028",
+   "final_figure_number": 190,
+   "file": "images/extracted/FIG-0028.jpg",
+   "source_id": "SRC-0003",
+   "page": 9,
+   "section_id": "CH09-S01",
+   "topic": "اختلالات مخچه‌ای و یافته‌های بالینی",
+   "px": [
+    600,
+    557
+   ],
+   "bytes": 59686
+  },
+  {
+   "figure_id": "FIG-0029",
+   "final_figure_number": 191,
+   "file": "images/extracted/FIG-0029.jpg",
+   "source_id": "SRC-0003",
+   "page": 9,
+   "section_id": "CH09-S01",
+   "topic": "اختلالات مخچه‌ای و یافته‌های بالینی",
+   "px": [
+    600,
+    558
+   ],
+   "bytes": 77326
+  },
+  {
+   "figure_id": "FIG-0022",
+   "final_figure_number": 192,
+   "file": "images/extracted/FIG-0022.jpg",
+   "source_id": "SRC-0003",
+   "page": 4,
+   "section_id": "CH09-S02",
+   "topic": "ساختار مخچه و تقسیم‌بندی عملکردی",
+   "px": [
+    600,
+    372
+   ],
+   "bytes": 40857
+  },
+  {
+   "figure_id": "FIG-0023",
+   "final_figure_number": 193,
+   "file": "images/extracted/FIG-0023.jpg",
+   "source_id": "SRC-0003",
+   "page": 5,
+   "section_id": "CH09-S04",
+   "topic": "قشر مخچه: لایه‌ها، سلول‌ها و مدارهای موضعی",
+   "px": [
+    601,
+    476
+   ],
+   "bytes": 56886
+  },
+  {
+   "figure_id": "FIG-0024",
+   "final_figure_number": 194,
+   "file": "images/extracted/FIG-0024.jpg",
+   "source_id": "SRC-0003",
+   "page": 6,
+   "section_id": "CH09-S04",
+   "topic": "قشر مخچه: لایه‌ها، سلول‌ها و مدارهای موضعی",
+   "px": [
+    601,
+    418
+   ],
+   "bytes": 51584
+  },
+  {
+   "figure_id": "FIG-0031",
+   "final_figure_number": 195,
+   "file": "images/extracted/FIG-0031.jpg",
+   "source_id": "SRC-0004",
+   "page": 2,
+   "section_id": "CH10-S01",
+   "topic": "هسته‌های عقده‌های قاعده‌ای و اتصالات آن‌ها",
+   "px": [
+    600,
+    405
+   ],
+   "bytes": 32902
+  },
+  {
+   "figure_id": "FIG-0032",
+   "final_figure_number": 196,
+   "file": "images/extracted/FIG-0032.jpg",
+   "source_id": "SRC-0004",
+   "page": 3,
+   "section_id": "CH10-S01",
+   "topic": "هسته‌های عقده‌های قاعده‌ای و اتصالات آن‌ها",
+   "px": [
+    601,
+    410
+   ],
+   "bytes": 39191
+  },
+  {
+   "figure_id": "FIG-0033",
+   "final_figure_number": 197,
+   "file": "images/extracted/FIG-0033.jpg",
+   "source_id": "SRC-0004",
+   "page": 6,
+   "section_id": "CH10-S01",
+   "topic": "هسته‌های عقده‌های قاعده‌ای و اتصالات آن‌ها",
+   "px": [
+    600,
+    336
+   ],
+   "bytes": 30481
+  },
+  {
+   "figure_id": "FIG-0034",
+   "final_figure_number": 198,
+   "file": "images/extracted/FIG-0034.jpg",
+   "source_id": "SRC-0004",
+   "page": 9,
+   "section_id": "CH10-S01",
+   "topic": "هسته‌های عقده‌های قاعده‌ای و اتصالات آن‌ها",
+   "px": [
+    600,
+    293
+   ],
+   "bytes": 38265
+  },
+  {
+   "figure_id": "FIG-0035",
+   "final_figure_number": 199,
+   "file": "images/extracted/FIG-0035.jpg",
+   "source_id": "SRC-0004",
+   "page": 10,
+   "section_id": "CH10-S01",
+   "topic": "هسته‌های عقده‌های قاعده‌ای و اتصالات آن‌ها",
+   "px": [
+    536,
+    600
+   ],
+   "bytes": 36308
+  },
+  {
+   "figure_id": "FIG-0036",
+   "final_figure_number": 200,
+   "file": "images/extracted/FIG-0036.jpg",
+   "source_id": "SRC-0004",
+   "page": 10,
+   "section_id": "CH10-S01",
+   "topic": "هسته‌های عقده‌های قاعده‌ای و اتصالات آن‌ها",
+   "px": [
+    600,
+    580
+   ],
+   "bytes": 41512
+  },
+  {
+   "figure_id": "FIG-0037",
+   "final_figure_number": 201,
+   "file": "images/extracted/FIG-0037.jpg",
+   "source_id": "SRC-0004",
+   "page": 17,
+   "section_id": "CH10-S01",
+   "topic": "هسته‌های عقده‌های قاعده‌ای و اتصالات آن‌ها",
+   "px": [
+    601,
+    475
+   ],
+   "bytes": 39388
+  },
+  {
+   "figure_id": "FIG-0003",
+   "final_figure_number": 202,
+   "file": "images/extracted/FIG-0003.jpg",
+   "source_id": "SRC-0001",
+   "page": 8,
+   "section_id": "CH11-S01",
+   "topic": "انواع حافظه و طبقه‌بندی آن",
+   "px": [
+    600,
+    190
+   ],
+   "bytes": 15623
+  },
+  {
+   "figure_id": "FIG-0004",
+   "final_figure_number": 203,
+   "file": "images/extracted/FIG-0004.jpg",
+   "source_id": "SRC-0001",
+   "page": 9,
+   "section_id": "CH11-S01",
+   "topic": "انواع حافظه و طبقه‌بندی آن",
+   "px": [
+    600,
+    304
+   ],
+   "bytes": 24438
+  },
+  {
+   "figure_id": "FIG-0005",
+   "final_figure_number": 204,
+   "file": "images/extracted/FIG-0005.jpg",
+   "source_id": "SRC-0001",
+   "page": 15,
+   "section_id": "CH11-S01",
+   "topic": "انواع حافظه و طبقه‌بندی آن",
+   "px": [
+    600,
+    511
+   ],
+   "bytes": 44695
+  },
+  {
+   "figure_id": "FIG-0006",
+   "final_figure_number": 205,
+   "file": "images/extracted/FIG-0006.jpg",
+   "source_id": "SRC-0001",
+   "page": 16,
+   "section_id": "CH11-S01",
+   "topic": "انواع حافظه و طبقه‌بندی آن",
+   "px": [
+    445,
+    600
+   ],
+   "bytes": 54319
+  },
+  {
+   "figure_id": "FIG-0007",
+   "final_figure_number": 206,
+   "file": "images/extracted/FIG-0007.jpg",
+   "source_id": "SRC-0001",
+   "page": 17,
+   "section_id": "CH11-S01",
+   "topic": "انواع حافظه و طبقه‌بندی آن",
+   "px": [
+    600,
+    299
+   ],
+   "bytes": 40156
+  },
+  {
+   "figure_id": "FIG-0002",
+   "final_figure_number": 207,
+   "file": "images/extracted/FIG-0002.jpg",
+   "source_id": "SRC-0001",
+   "page": 2,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    591,
+    601
+   ],
+   "bytes": 57526
+  },
+  {
+   "figure_id": "FIG-0137",
+   "final_figure_number": 208,
+   "file": "images/extracted/FIG-0137.jpg",
+   "source_id": "SRC-0018",
+   "page": 2,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    584,
+    456
+   ],
+   "bytes": 24183
+  },
+  {
+   "figure_id": "FIG-0138",
+   "final_figure_number": 209,
+   "file": "images/extracted/FIG-0138.jpg",
+   "source_id": "SRC-0018",
+   "page": 3,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    600,
+    323
+   ],
+   "bytes": 40025
+  },
+  {
+   "figure_id": "FIG-0139",
+   "final_figure_number": 210,
+   "file": "images/extracted/FIG-0139.jpg",
+   "source_id": "SRC-0018",
+   "page": 4,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    601,
+    378
+   ],
+   "bytes": 30293
+  },
+  {
+   "figure_id": "FIG-0143",
+   "final_figure_number": 211,
+   "file": "images/extracted/FIG-0143.jpg",
+   "source_id": "SRC-0018",
+   "page": 6,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    524,
+    601
+   ],
+   "bytes": 60997
+  },
+  {
+   "figure_id": "FIG-0144",
+   "final_figure_number": 212,
+   "file": "images/extracted/FIG-0144.jpg",
+   "source_id": "SRC-0018",
+   "page": 7,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    601,
+    400
+   ],
+   "bytes": 34014
+  },
+  {
+   "figure_id": "FIG-0145",
+   "final_figure_number": 213,
+   "file": "images/extracted/FIG-0145.jpg",
+   "source_id": "SRC-0018",
+   "page": 7,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    600,
+    379
+   ],
+   "bytes": 42990
+  },
+  {
+   "figure_id": "FIG-0146",
+   "final_figure_number": 214,
+   "file": "images/extracted/FIG-0146.jpg",
+   "source_id": "SRC-0018",
+   "page": 8,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    601,
+    222
+   ],
+   "bytes": 29621
+  },
+  {
+   "figure_id": "FIG-0147",
+   "final_figure_number": 215,
+   "file": "images/extracted/FIG-0147.jpg",
+   "source_id": "SRC-0018",
+   "page": 9,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    601,
+    408
+   ],
+   "bytes": 37732
+  },
+  {
+   "figure_id": "FIG-0148",
+   "final_figure_number": 216,
+   "file": "images/extracted/FIG-0148.jpg",
+   "source_id": "SRC-0018",
+   "page": 13,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    601,
+    261
+   ],
+   "bytes": 34784
+  },
+  {
+   "figure_id": "FIG-0149",
+   "final_figure_number": 217,
+   "file": "images/extracted/FIG-0149.jpg",
+   "source_id": "SRC-0018",
+   "page": 13,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    600,
+    345
+   ],
+   "bytes": 31413
+  },
+  {
+   "figure_id": "FIG-0151",
+   "final_figure_number": 218,
+   "file": "images/extracted/FIG-0151.jpg",
+   "source_id": "SRC-0018",
+   "page": 14,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    600,
+    406
+   ],
+   "bytes": 39649
+  },
+  {
+   "figure_id": "FIG-0152",
+   "final_figure_number": 219,
+   "file": "images/extracted/FIG-0152.jpg",
+   "source_id": "SRC-0018",
+   "page": 14,
+   "section_id": "CH11-S02",
+   "topic": "هیپوکامپ، مدار Papez و ساختارهای مرتبط",
+   "px": [
+    601,
+    345
+   ],
+   "bytes": 48636
+  },
+  {
+   "figure_id": "FIG-0140",
+   "final_figure_number": 220,
+   "file": "images/extracted/FIG-0140.jpg",
+   "source_id": "SRC-0018",
+   "page": 5,
+   "section_id": "CH11-S03",
+   "topic": "مکانیسم‌های سلولی یادگیری: LTP و LTD",
+   "px": [
+    601,
+    335
+   ],
+   "bytes": 37856
+  },
+  {
+   "figure_id": "FIG-0141",
+   "final_figure_number": 221,
+   "file": "images/extracted/FIG-0141.jpg",
+   "source_id": "SRC-0018",
+   "page": 5,
+   "section_id": "CH11-S03",
+   "topic": "مکانیسم‌های سلولی یادگیری: LTP و LTD",
+   "px": [
+    600,
+    329
+   ],
+   "bytes": 42692
+  },
+  {
+   "figure_id": "FIG-0043",
+   "final_figure_number": 222,
+   "file": "images/extracted/FIG-0043.jpg",
+   "source_id": "SRC-0006",
+   "page": 2,
+   "section_id": "CH12-S01",
+   "topic": "ساختار و اجزای سیستم لیمبیک",
+   "px": [
+    600,
+    440
+   ],
+   "bytes": 36636
+  },
+  {
+   "figure_id": "FIG-0044",
+   "final_figure_number": 223,
+   "file": "images/extracted/FIG-0044.jpg",
+   "source_id": "SRC-0006",
+   "page": 3,
+   "section_id": "CH12-S01",
+   "topic": "ساختار و اجزای سیستم لیمبیک",
+   "px": [
+    600,
+    274
+   ],
+   "bytes": 24631
+  },
+  {
+   "figure_id": "FIG-0045",
+   "final_figure_number": 224,
+   "file": "images/extracted/FIG-0045.jpg",
+   "source_id": "SRC-0006",
+   "page": 4,
+   "section_id": "CH12-S01",
+   "topic": "ساختار و اجزای سیستم لیمبیک",
+   "px": [
+    258,
+    600
+   ],
+   "bytes": 39069
+  },
+  {
+   "figure_id": "FIG-0046",
+   "final_figure_number": 225,
+   "file": "images/extracted/FIG-0046.jpg",
+   "source_id": "SRC-0006",
+   "page": 5,
+   "section_id": "CH12-S03",
+   "topic": "هیپوتالاموس و تنظیم عملکردهای احشایی و غددی",
+   "px": [
+    600,
+    334
+   ],
+   "bytes": 28058
+  },
+  {
+   "figure_id": "FIG-0047",
+   "final_figure_number": 226,
+   "file": "images/extracted/FIG-0047.jpg",
+   "source_id": "SRC-0006",
+   "page": 6,
+   "section_id": "CH12-S03",
+   "topic": "هیپوتالاموس و تنظیم عملکردهای احشایی و غددی",
+   "px": [
+    600,
+    465
+   ],
+   "bytes": 48270
+  },
+  {
+   "figure_id": "FIG-0048",
+   "final_figure_number": 227,
+   "file": "images/extracted/FIG-0048.jpg",
+   "source_id": "SRC-0006",
+   "page": 7,
+   "section_id": "CH12-S03",
+   "topic": "هیپوتالاموس و تنظیم عملکردهای احشایی و غددی",
+   "px": [
+    600,
+    375
+   ],
+   "bytes": 46060
+  },
+  {
+   "figure_id": "FIG-0039",
+   "final_figure_number": 228,
+   "file": "images/extracted/FIG-0039.jpg",
+   "source_id": "SRC-0005",
+   "page": 2,
+   "section_id": "CH13-S01",
+   "topic": "الکتروانسفالوگرافی و امواج مغزی",
+   "px": [
+    601,
+    332
+   ],
+   "bytes": 36357
+  },
+  {
+   "figure_id": "FIG-0041",
+   "final_figure_number": 229,
+   "file": "images/extracted/FIG-0041.jpg",
+   "source_id": "SRC-0005",
+   "page": 13,
+   "section_id": "CH13-S02",
+   "topic": "خواب، مراحل آن و مکانیسم‌های آن",
+   "px": [
+    600,
+    327
+   ],
+   "bytes": 28199
+  },
+  {
+   "figure_id": "FIG-0040",
+   "final_figure_number": 230,
+   "file": "images/extracted/FIG-0040.jpg",
+   "source_id": "SRC-0005",
+   "page": 10,
+   "section_id": "CH13-S03",
+   "topic": "صرع، تشنج و مکانیسم‌های آن",
+   "px": [
+    600,
+    450
+   ],
+   "bytes": 38753
+  },
+  {
+   "figure_id": "FIG-0154",
+   "final_figure_number": 231,
+   "file": "images/extracted/FIG-0154.jpg",
+   "source_id": "SRC-0024",
+   "page": 2,
+   "section_id": "CH14-S01",
+   "topic": "مقایسه سیستم عصبی پیکری و اتونوم",
+   "px": [
+    600,
+    457
+   ],
+   "bytes": 37866
+  },
+  {
+   "figure_id": "FIG-0156",
+   "final_figure_number": 232,
+   "file": "images/extracted/FIG-0156.jpg",
+   "source_id": "SRC-0024",
+   "page": 4,
+   "section_id": "CH14-S01",
+   "topic": "مقایسه سیستم عصبی پیکری و اتونوم",
+   "px": [
+    601,
+    173
+   ],
+   "bytes": 20263
+  },
+  {
+   "figure_id": "FIG-0157",
+   "final_figure_number": 233,
+   "file": "images/extracted/FIG-0157.jpg",
+   "source_id": "SRC-0024",
+   "page": 5,
+   "section_id": "CH14-S01",
+   "topic": "مقایسه سیستم عصبی پیکری و اتونوم",
+   "px": [
+    600,
+    506
+   ],
+   "bytes": 44655
+  },
+  {
+   "figure_id": "FIG-0161",
+   "final_figure_number": 234,
+   "file": "images/extracted/FIG-0161.jpg",
+   "source_id": "SRC-0024",
+   "page": 13,
+   "section_id": "CH14-S01",
+   "topic": "مقایسه سیستم عصبی پیکری و اتونوم",
+   "px": [
+    444,
+    601
+   ],
+   "bytes": 67343
+  },
+  {
+   "figure_id": "FIG-0162",
+   "final_figure_number": 235,
+   "file": "images/extracted/FIG-0162.jpg",
+   "source_id": "SRC-0024",
+   "page": 14,
+   "section_id": "CH14-S01",
+   "topic": "مقایسه سیستم عصبی پیکری و اتونوم",
+   "px": [
+    601,
+    490
+   ],
+   "bytes": 73874
+  },
+  {
+   "figure_id": "FIG-0163",
+   "final_figure_number": 236,
+   "file": "images/extracted/FIG-0163.jpg",
+   "source_id": "SRC-0024",
+   "page": 16,
+   "section_id": "CH14-S01",
+   "topic": "مقایسه سیستم عصبی پیکری و اتونوم",
+   "px": [
+    380,
+    600
+   ],
+   "bytes": 35091
+  },
+  {
+   "figure_id": "FIG-0164",
+   "final_figure_number": 237,
+   "file": "images/extracted/FIG-0164.jpg",
+   "source_id": "SRC-0024",
+   "page": 16,
+   "section_id": "CH14-S01",
+   "topic": "مقایسه سیستم عصبی پیکری و اتونوم",
+   "px": [
+    587,
+    600
+   ],
+   "bytes": 54982
+  },
+  {
+   "figure_id": "FIG-0155",
+   "final_figure_number": 238,
+   "file": "images/extracted/FIG-0155.jpg",
+   "source_id": "SRC-0024",
+   "page": 3,
+   "section_id": "CH14-S02",
+   "topic": "تقسیم‌بندی سمپاتیک و پاراسمپاتیک و تفاوت‌های آناتومیک",
+   "px": [
+    601,
+    438
+   ],
+   "bytes": 61926
+  },
+  {
+   "figure_id": "FIG-0158",
+   "final_figure_number": 239,
+   "file": "images/extracted/FIG-0158.jpg",
+   "source_id": "SRC-0024",
+   "page": 7,
+   "section_id": "CH14-S03",
+   "topic": "نوروترانسمیترها و گیرنده‌های اتونوم",
+   "px": [
+    481,
+    601
+   ],
+   "bytes": 72116
+  },
+  {
+   "figure_id": "FIG-0160",
+   "final_figure_number": 240,
+   "file": "images/extracted/FIG-0160.jpg",
+   "source_id": "SRC-0024",
+   "page": 11,
+   "section_id": "CH14-S03",
+   "topic": "نوروترانسمیترها و گیرنده‌های اتونوم",
+   "px": [
+    600,
+    358
+   ],
+   "bytes": 54627
+  }
+ ]
+}

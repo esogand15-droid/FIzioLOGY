@@ -1,0 +1,1064 @@
+[
+ {
+  "source_id": "SRC-0001",
+  "rel_path": "تکمیلی - جزوات دکتر قدیری/دکتر قدیری - جلسه آخر.pdf",
+  "filename": "دکتر قدیری - جلسه آخر.pdf",
+  "type": "pdf",
+  "size": 893303,
+  "sha256": "c4e5343dcc9617236cd9069199934c50d9521b5084f3113b4b9468aef8573c39",
+  "pages": 17,
+  "n_figures": 9,
+  "quality": {
+   "n_words": 6055,
+   "common_ratio": 0.2329,
+   "avg_len": 3.48,
+   "repeat_ratio": 0.0,
+   "score": 30.25,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0002",
+  "rel_path": "تکمیلی - جزوات دکتر قدیری/فیزیو آفلاین اتونوم.pdf",
+  "filename": "فیزیو آفلاین اتونوم.pdf",
+  "type": "pdf",
+  "size": 3592770,
+  "sha256": "765a3d21f7cdf1ca70e52246a021a9be9bc0cfc74bbeff6b591bd9f66e4fff44",
+  "pages": 17,
+  "n_figures": 51,
+  "quality": {
+   "n_words": 6378,
+   "common_ratio": 0.238,
+   "avg_len": 4.19,
+   "repeat_ratio": 0.0557,
+   "score": 26.61,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0003",
+  "rel_path": "تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه اول دکتر قدیری.pdf",
+  "filename": "فیزیولوژی - جلسه اول دکتر قدیری.pdf",
+  "type": "pdf",
+  "size": 811742,
+  "sha256": "046c67629db0f191f1809fb08d4e3cd62a25e804e495fa157aae0d77c8e7b3f0",
+  "pages": 10,
+  "n_figures": 10,
+  "quality": {
+   "n_words": 2706,
+   "common_ratio": 0.2579,
+   "avg_len": 3.48,
+   "repeat_ratio": 0.0,
+   "score": 32.76,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0004",
+  "rel_path": "تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه دوم دکتر قدیری.pdf",
+  "filename": "فیزیولوژی - جلسه دوم دکتر قدیری.pdf",
+  "type": "pdf",
+  "size": 765827,
+  "sha256": "2e0acf81e93cba79ff216d5d435821f5fa166cd257f2a3b5ce32b488596283fa",
+  "pages": 20,
+  "n_figures": 9,
+  "quality": {
+   "n_words": 5788,
+   "common_ratio": 0.2313,
+   "avg_len": 3.63,
+   "repeat_ratio": 0.0002,
+   "score": 30.38,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0005",
+  "rel_path": "تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه سوم دکتر قدیری.pdf",
+  "filename": "فیزیولوژی - جلسه سوم دکتر قدیری.pdf",
+  "type": "pdf",
+  "size": 4248588,
+  "sha256": "74efaef90be530e4a041038a747fa956e99a50884c4ea4a673fac7baae6b9522",
+  "pages": 17,
+  "n_figures": 5,
+  "quality": {
+   "n_words": 6323,
+   "common_ratio": 0.2643,
+   "avg_len": 3.56,
+   "repeat_ratio": 0.0,
+   "score": 33.55,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0006",
+  "rel_path": "تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه چهارم دکتر قدیری.pdf",
+  "filename": "فیزیولوژی - جلسه چهارم دکتر قدیری.pdf",
+  "type": "pdf",
+  "size": 935989,
+  "sha256": "599dfa2e7e1065efd431bc066c27b08c1bcbae9d879529b55b6076194d43c80e",
+  "pages": 13,
+  "n_figures": 8,
+  "quality": {
+   "n_words": 3446,
+   "common_ratio": 0.2481,
+   "avg_len": 3.73,
+   "repeat_ratio": 0.0,
+   "score": 32.28,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0007",
+  "rel_path": "تکمیلی - جزوات دکتر قدیری/فیزیولوژی_جلسه_اول_دکتر_ایروان_پور.pdf",
+  "filename": "فیزیولوژی_جلسه_اول_دکتر_ایروان_پور.pdf",
+  "type": "pdf",
+  "size": 1846491,
+  "sha256": "c38e86e95a4c7e7a8d65556b44e47e18133c47ad22cfebd0984fdd7947c7bf79",
+  "pages": 23,
+  "n_figures": 28,
+  "quality": {
+   "n_words": 6017,
+   "common_ratio": 0.2621,
+   "avg_len": 3.57,
+   "repeat_ratio": 0.0,
+   "score": 33.35,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0008",
+  "rel_path": "تکمیلی - جزوات دکتر قدیری/فیزیولوژی_جلسه_دوم_دکتر_ایروان_پور.pdf",
+  "filename": "فیزیولوژی_جلسه_دوم_دکتر_ایروان_پور.pdf",
+  "type": "pdf",
+  "size": 1467670,
+  "sha256": "7a10995fbd27910d0c8ae2c3ac3e3e3d5123ff3965b844b3cf3c1a98ad51bba6",
+  "pages": 23,
+  "n_figures": 18,
+  "quality": {
+   "n_words": 6258,
+   "common_ratio": 0.2549,
+   "avg_len": 3.56,
+   "repeat_ratio": 0.0,
+   "score": 32.6,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0009",
+  "rel_path": "جلسه 1/جلسه 1 نوروفیزیولوژی مهر 1404.md",
+  "filename": "جلسه 1 نوروفیزیولوژی مهر 1404.md",
+  "type": "md",
+  "size": 101868,
+  "sha256": "210207d65ae50af7a3d6728920686db3aba25f0a5bf0a5bf27d8a5273eb6e49c",
+  "blocks": 288,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 10039,
+   "common_ratio": 0.2449,
+   "avg_len": 4.05,
+   "repeat_ratio": 0.0,
+   "score": 32.6,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0010",
+  "rel_path": "جلسه 1/جلسه 1 نوروفیزیولوژی مهر 1404.pdf",
+  "filename": "جلسه 1 نوروفیزیولوژی مهر 1404.pdf",
+  "type": "pdf",
+  "size": 5722772,
+  "sha256": "f600ea8de6781af2de09719594878fa0694b3d0d508b67bc254ef25dea3f5505",
+  "pages": 42,
+  "n_figures": 17,
+  "quality": {
+   "n_words": 9322,
+   "common_ratio": 0.1937,
+   "avg_len": 4.37,
+   "repeat_ratio": 0.0,
+   "score": 28.11,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0011",
+  "rel_path": "جلسه 1/نوروفیزیولوژی 01 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 01 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 44784,
+  "sha256": "70bd4f243d343b44a29ac78f09b81e5b4529dff3f20681bc77b535f8f0ea67c8",
+  "blocks": 71,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 5445,
+   "common_ratio": 0.0224,
+   "avg_len": 2.4,
+   "repeat_ratio": 0.0028,
+   "score": 6.77,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0012",
+  "rel_path": "جلسه 1/نوروفیزیولوژی 01 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 01 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 3375275,
+  "sha256": "e0d71949f75b1804f916b2ae1a4570552d73461407a163f79d1a258ab3fa0545",
+  "pages": 13,
+  "n_figures": 48,
+  "quality": {
+   "n_words": 4770,
+   "common_ratio": 0.0237,
+   "avg_len": 2.81,
+   "repeat_ratio": 0.0061,
+   "score": 7.37,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0013",
+  "rel_path": "جلسه 10 - مخچه/نوروفیزیولوژی 10 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 10 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 61805,
+  "sha256": "94bfb9e8e80c56e8b01a214e8523bc0f97d5395f5dcb67611ec25e58aaba4516",
+  "blocks": 439,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 6063,
+   "common_ratio": 0.051,
+   "avg_len": 3.87,
+   "repeat_ratio": 0.0033,
+   "score": 12.5,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0014",
+  "rel_path": "جلسه 10 - مخچه/نوروفیزیولوژی 10 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 10 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 1911590,
+  "sha256": "2f531d03d3a3ff2f86ff18345647f0ae1ef1249083083f7e5319f3c665d6c696",
+  "pages": 15,
+  "n_figures": 49,
+  "quality": {
+   "n_words": 6067,
+   "common_ratio": 0.0514,
+   "avg_len": 3.74,
+   "repeat_ratio": 0.0025,
+   "score": 12.37,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0015",
+  "rel_path": "جلسه 11 - عقده های قاعده ای/نوروفیزیولوژی 11 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 11 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 57660,
+  "sha256": "03c1af16b64a28e892139833383b32fba43786e82db357eeb30bac69d50fc39f",
+  "blocks": 464,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 8799,
+   "common_ratio": 0.1086,
+   "avg_len": 2.33,
+   "repeat_ratio": 0.0535,
+   "score": 10.18,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0016",
+  "rel_path": "جلسه 11 - عقده های قاعده ای/نوروفیزیولوژی 11 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 11 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 1596747,
+  "sha256": "e4732e55306405c6d74576fe6b7b78af7345684d4bbbf6fd6dc5eb0645beefcc",
+  "pages": 17,
+  "n_figures": 60,
+  "quality": {
+   "n_words": 8797,
+   "common_ratio": 0.1102,
+   "avg_len": 2.28,
+   "repeat_ratio": 0.0394,
+   "score": 11.64,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0017",
+  "rel_path": "جلسه 12 - حافظه و یادگیری/نوروفیزیولوژی 12 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 12 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 55992,
+  "sha256": "61ef8a14e1a80d619b0d0be6c489550dc406028eb6912353fa53df4141765b4d",
+  "blocks": 400,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 6054,
+   "common_ratio": 0.2035,
+   "avg_len": 3.72,
+   "repeat_ratio": 0.0781,
+   "score": 19.97,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0018",
+  "rel_path": "جلسه 12 - حافظه و یادگیری/نوروفیزیولوژی 12 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 12 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 1218400,
+  "sha256": "7190217c4e67d07a96dd2cefa09570187fb2727dd16db4454794121955a88ce0",
+  "pages": 14,
+  "n_figures": 48,
+  "quality": {
+   "n_words": 6058,
+   "common_ratio": 0.2037,
+   "avg_len": 3.64,
+   "repeat_ratio": 0.0619,
+   "score": 21.47,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0019",
+  "rel_path": "جلسه 13 - لیمبیک/نوروفیزیولوژی 13و14 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 13و14 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 57831,
+  "sha256": "8ddc9cee73bbec53d190c6ef28de55ac9197e2a266237bde0ca1b3e286b2650c",
+  "blocks": 397,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 6666,
+   "common_ratio": 0.2721,
+   "avg_len": 3.61,
+   "repeat_ratio": 0.0203,
+   "score": 32.4,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0020",
+  "rel_path": "جلسه 13 - لیمبیک/نوروفیزیولوژی 13و14 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 13و14 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 215884,
+  "sha256": "4e4dda46d598de90294ae7bec22c059598d746f382454b86810bc3ba121603e4",
+  "pages": 14,
+  "n_figures": 29,
+  "quality": {
+   "n_words": 6662,
+   "common_ratio": 0.2735,
+   "avg_len": 3.59,
+   "repeat_ratio": 0.0177,
+   "score": 32.76,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0021",
+  "rel_path": "جلسه 14 - فعالیت های مغزی/نوروفیزیولوژی 13و14 نهایی بهمن 1402 (2).md",
+  "filename": "نوروفیزیولوژی 13و14 نهایی بهمن 1402 (2).md",
+  "type": "md",
+  "size": 57831,
+  "sha256": "8ddc9cee73bbec53d190c6ef28de55ac9197e2a266237bde0ca1b3e286b2650c",
+  "blocks": 397,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 6666,
+   "common_ratio": 0.2721,
+   "avg_len": 3.61,
+   "repeat_ratio": 0.0203,
+   "score": 32.4,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0022",
+  "rel_path": "جلسه 14 - فعالیت های مغزی/نوروفیزیولوژی 13و14 نهایی بهمن 1402 (2).pdf",
+  "filename": "نوروفیزیولوژی 13و14 نهایی بهمن 1402 (2).pdf",
+  "type": "pdf",
+  "size": 215884,
+  "sha256": "4e4dda46d598de90294ae7bec22c059598d746f382454b86810bc3ba121603e4",
+  "pages": 14,
+  "n_figures": 29,
+  "quality": {
+   "n_words": 6662,
+   "common_ratio": 0.2735,
+   "avg_len": 3.59,
+   "repeat_ratio": 0.0177,
+   "score": 32.76,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0023",
+  "rel_path": "جلسه 15 - سیستم اتونوم/فیزیو آفلاین اتونوم.md",
+  "filename": "فیزیو آفلاین اتونوم.md",
+  "type": "md",
+  "size": 67066,
+  "sha256": "e8439d3150c6c13dddc168c713b4a402bbec1eff2bee721cbe30c9beddd8cd0e",
+  "blocks": 448,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 6384,
+   "common_ratio": 0.2365,
+   "avg_len": 4.27,
+   "repeat_ratio": 0.0846,
+   "score": 23.74,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0024",
+  "rel_path": "جلسه 15 - سیستم اتونوم/فیزیو آفلاین اتونوم.pdf",
+  "filename": "فیزیو آفلاین اتونوم.pdf",
+  "type": "pdf",
+  "size": 3592770,
+  "sha256": "765a3d21f7cdf1ca70e52246a021a9be9bc0cfc74bbeff6b591bd9f66e4fff44",
+  "pages": 17,
+  "n_figures": 51,
+  "quality": {
+   "n_words": 6378,
+   "common_ratio": 0.238,
+   "avg_len": 4.19,
+   "repeat_ratio": 0.0557,
+   "score": 26.61,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0025",
+  "rel_path": "جلسه 16 -پری لب/جزوه پری لب نورو فیزیولوژی عملی.md",
+  "filename": "جزوه پری لب نورو فیزیولوژی عملی.md",
+  "type": "md",
+  "size": 59195,
+  "sha256": "2c8cb19055ca5295bdb42b98916bfc5dd2775757dc6dc046e66c59dfdb493cfb",
+  "blocks": 358,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 6578,
+   "common_ratio": 0.2692,
+   "avg_len": 3.78,
+   "repeat_ratio": 0.0008,
+   "score": 34.4,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0026",
+  "rel_path": "جلسه 16 -پری لب/جزوه پری لب نورو فیزیولوژی عملی.pdf",
+  "filename": "جزوه پری لب نورو فیزیولوژی عملی.pdf",
+  "type": "pdf",
+  "size": 698310,
+  "sha256": "20805bb61271753a2cc13be3be14c7a33cef5ca5fbf4dc8b75dd1266d30b7634",
+  "pages": 16,
+  "n_figures": 1,
+  "quality": {
+   "n_words": 6576,
+   "common_ratio": 0.2692,
+   "avg_len": 3.78,
+   "repeat_ratio": 0.0008,
+   "score": 34.4,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0027",
+  "rel_path": "جلسه 2/جلسه ۲ نوروفیزیولوژی مهر 1404.md",
+  "filename": "جلسه ۲ نوروفیزیولوژی مهر 1404.md",
+  "type": "md",
+  "size": 100657,
+  "sha256": "18ad07623d984795066cf608ecd647b2530c30f7bcc530c84f48ea9af8311367",
+  "blocks": 185,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 10213,
+   "common_ratio": 0.236,
+   "avg_len": 3.92,
+   "repeat_ratio": 0.0002,
+   "score": 31.43,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0028",
+  "rel_path": "جلسه 2/جلسه ۲ نوروفیزیولوژی مهر 1404.pdf",
+  "filename": "جلسه ۲ نوروفیزیولوژی مهر 1404.pdf",
+  "type": "pdf",
+  "size": 6451486,
+  "sha256": "60c6a0ef19933b35d3bfff3fd88c08ec8f121a35b30a3c05da935f3ec0951523",
+  "pages": 30,
+  "n_figures": 29,
+  "quality": {
+   "n_words": 9646,
+   "common_ratio": 0.1979,
+   "avg_len": 4.17,
+   "repeat_ratio": 0.0002,
+   "score": 28.12,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0029",
+  "rel_path": "جلسه 2/نوروفیزیولوژی 02 نهایی بهمن 1402 (1).md",
+  "filename": "نوروفیزیولوژی 02 نهایی بهمن 1402 (1).md",
+  "type": "md",
+  "size": 64078,
+  "sha256": "b8a48f57c1931cb6e1facd3a11ea9b1fa9d98c0a409f87afcaf9f47e8a63aa06",
+  "blocks": 76,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 7868,
+   "common_ratio": 0.1209,
+   "avg_len": 2.58,
+   "repeat_ratio": 0.0038,
+   "score": 16.87,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0030",
+  "rel_path": "جلسه 2/نوروفیزیولوژی 02 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 02 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 5685372,
+  "sha256": "ff825e85dc66a17ca74502c5652c53904c17fc615f1a0e1cbe30a45924c6e914",
+  "pages": 19,
+  "n_figures": 67,
+  "quality": {
+   "n_words": 7786,
+   "common_ratio": 0.122,
+   "avg_len": 2.62,
+   "repeat_ratio": 0.0045,
+   "score": 16.99,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0031",
+  "rel_path": "جلسه 3/3 نوروفیزیولوژی مهر1404.md",
+  "filename": "3 نوروفیزیولوژی مهر1404.md",
+  "type": "md",
+  "size": 105354,
+  "sha256": "9b0a72e446ca761382a04aaab96d00d2b87c2c95e5b2dc209d6f1dc69e24986d",
+  "blocks": 273,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 11035,
+   "common_ratio": 0.2517,
+   "avg_len": 3.87,
+   "repeat_ratio": 0.0,
+   "score": 32.91,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0032",
+  "rel_path": "جلسه 3/3 نوروفیزیولوژی مهر1404.pdf",
+  "filename": "3 نوروفیزیولوژی مهر1404.pdf",
+  "type": "pdf",
+  "size": 6002567,
+  "sha256": "a94c14530ae66550ce65a421cf769865e02cef4180192f02717ae2a59aeb0af6",
+  "pages": 33,
+  "n_figures": 27,
+  "quality": {
+   "n_words": 10172,
+   "common_ratio": 0.1996,
+   "avg_len": 4.23,
+   "repeat_ratio": 0.0,
+   "score": 28.43,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0033",
+  "rel_path": "جلسه 3/نوروفیزیولوژی 03 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 03 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 50752,
+  "sha256": "a27cbe496d69d4ed0383d8aebb6d26284336a9f024e14bab34e18172b100cb8a",
+  "blocks": 53,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 4130,
+   "common_ratio": 0.0196,
+   "avg_len": 4.26,
+   "repeat_ratio": 0.0128,
+   "score": 9.2,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0034",
+  "rel_path": "جلسه 3/نوروفیزیولوژی 03 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 03 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 2647823,
+  "sha256": "4753fdb99d786b64a789755d320a99483c0ce8cbbe108e5c2bc83bbc1c49f1f1",
+  "pages": 13,
+  "n_figures": 36,
+  "quality": {
+   "n_words": 3279,
+   "common_ratio": 0.0189,
+   "avg_len": 5.41,
+   "repeat_ratio": 0.0281,
+   "score": 9.09,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0035",
+  "rel_path": "جلسه 4/جلسه ۴ نورو فیزیولوژی مهر1404.md",
+  "filename": "جلسه ۴ نورو فیزیولوژی مهر1404.md",
+  "type": "md",
+  "size": 131767,
+  "sha256": "34d6a454514dfe221babf87287b1b6826508f0230500ff6e9038707dade71d4a",
+  "blocks": 370,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 13996,
+   "common_ratio": 0.1669,
+   "avg_len": 3.78,
+   "repeat_ratio": 0.0,
+   "score": 24.24,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0036",
+  "rel_path": "جلسه 4/جلسه ۴ نورو فیزیولوژی مهر1404.pdf",
+  "filename": "جلسه ۴ نورو فیزیولوژی مهر1404.pdf",
+  "type": "pdf",
+  "size": 5849116,
+  "sha256": "1315ec72e0e3121e87280b79cfbd2b08a519d8066244160b96634f455c6158f1",
+  "pages": 29,
+  "n_figures": 22,
+  "quality": {
+   "n_words": 13355,
+   "common_ratio": 0.1368,
+   "avg_len": 4.07,
+   "repeat_ratio": 0.0,
+   "score": 21.82,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0037",
+  "rel_path": "جلسه 4/نوروفیزیولوژی 04 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 04 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 55411,
+  "sha256": "e10bfc088805e6c51f2460668075b01e59bc6cfc42af1321c5767ea99e9a82a8",
+  "blocks": 77,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 4488,
+   "common_ratio": 0.0263,
+   "avg_len": 4.34,
+   "repeat_ratio": 0.0236,
+   "score": 8.95,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0038",
+  "rel_path": "جلسه 4/نوروفیزیولوژی 04 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 04 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 5416024,
+  "sha256": "cbe646107fc47b7120a38a58f7801ebe1b6fd74ce2cac23853af9565d8f68575",
+  "pages": 16,
+  "n_figures": 44,
+  "quality": {
+   "n_words": 3751,
+   "common_ratio": 0.0323,
+   "avg_len": 5.2,
+   "repeat_ratio": 0.0443,
+   "score": 8.8,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0039",
+  "rel_path": "جلسه 5/فیزیو آفلاین بینایی.md",
+  "filename": "فیزیو آفلاین بینایی.md",
+  "type": "md",
+  "size": 154299,
+  "sha256": "a748f7ce5ca0eb514ec3b9ad67d79793421ff90ddb0058fa3403eac34e8066d2",
+  "blocks": 104,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 18006,
+   "common_ratio": 0.185,
+   "avg_len": 3.02,
+   "repeat_ratio": 0.0216,
+   "score": 22.38,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0040",
+  "rel_path": "جلسه 5/فیزیو آفلاین بینایی.pdf",
+  "filename": "فیزیو آفلاین بینایی.pdf",
+  "type": "pdf",
+  "size": 3070634,
+  "sha256": "1360059e46e798e91cf55d12a7c7ed06f52543f037cbd61c0e5ebf930297ae01",
+  "pages": 31,
+  "n_figures": 86,
+  "quality": {
+   "n_words": 14463,
+   "common_ratio": 0.2768,
+   "avg_len": 3.79,
+   "repeat_ratio": 0.0481,
+   "score": 30.45,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0041",
+  "rel_path": "جلسه 5/نوروفیزیولوژی 05 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 05 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 50857,
+  "sha256": "632482eacc504bfe45fe6f88bfa4b8f4196e0b30316c2ba83cecdb270f86cfd9",
+  "blocks": 64,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 6660,
+   "common_ratio": 0.0562,
+   "avg_len": 2.74,
+   "repeat_ratio": 0.0252,
+   "score": 8.57,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0042",
+  "rel_path": "جلسه 5/نوروفیزیولوژی 05 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 05 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 810101,
+  "sha256": "92e4001590fed1915f46f7218d5c5e08000d88847ec845ac3da421b414e8f8a4",
+  "pages": 13,
+  "n_figures": 25,
+  "quality": {
+   "n_words": 5457,
+   "common_ratio": 0.0702,
+   "avg_len": 3.37,
+   "repeat_ratio": 0.0581,
+   "score": 7.94,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0043",
+  "rel_path": "جلسه 5/نورو۵ تالیفی مهر1404.md",
+  "filename": "نورو۵ تالیفی مهر1404.md",
+  "type": "md",
+  "size": 106787,
+  "sha256": "c8e1fabf29cc6091ba13467438656f03cfcfb59b694ff23f9323d01f271f5f5d",
+  "blocks": 287,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 10902,
+   "common_ratio": 0.1983,
+   "avg_len": 3.86,
+   "repeat_ratio": 0.0,
+   "score": 27.55,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0044",
+  "rel_path": "جلسه 5/نورو۵ تالیفی مهر1404.pdf",
+  "filename": "نورو۵ تالیفی مهر1404.pdf",
+  "type": "pdf",
+  "size": 7317101,
+  "sha256": "18b54506630ea201a5ce5ab121f5c37a1b624f39c4b9e5d8e60bd683861534e9",
+  "pages": 25,
+  "n_figures": 30,
+  "quality": {
+   "n_words": 10251,
+   "common_ratio": 0.162,
+   "avg_len": 4.09,
+   "repeat_ratio": 0.0,
+   "score": 24.38,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0045",
+  "rel_path": "جلسه 6/نورو فیزیولوژی جلسه ۶ مهر1404.md",
+  "filename": "نورو فیزیولوژی جلسه ۶ مهر1404.md",
+  "type": "md",
+  "size": 106894,
+  "sha256": "5dc0b229ad00c025da5d3b16ffcc8909a87488a7bd732caddc3f213a20589542",
+  "blocks": 1356,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 10614,
+   "common_ratio": 0.1664,
+   "avg_len": 4.04,
+   "repeat_ratio": 0.0005,
+   "score": 24.67,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0046",
+  "rel_path": "جلسه 6/نورو فیزیولوژی جلسه ۶ مهر1404.pdf",
+  "filename": "نورو فیزیولوژی جلسه ۶ مهر1404.pdf",
+  "type": "pdf",
+  "size": 4059201,
+  "sha256": "0104d240704d25571bf1f59b7ae52c961ffe286e468ae8abdfc0e96a58a10eb0",
+  "pages": 23,
+  "n_figures": 164,
+  "quality": {
+   "n_words": 10612,
+   "common_ratio": 0.1665,
+   "avg_len": 4.04,
+   "repeat_ratio": 0.0005,
+   "score": 24.68,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0047",
+  "rel_path": "جلسه 6/نوروفیزیولوژی 06 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 06 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 58534,
+  "sha256": "793a2ed8aacb1f6f8d4cb082e617378ab93409019d02e536b46bc0d1a37b1ab4",
+  "blocks": 429,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 7624,
+   "common_ratio": 0.0202,
+   "avg_len": 2.6,
+   "repeat_ratio": 0.0674,
+   "score": 0.48,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0048",
+  "rel_path": "جلسه 6/نوروفیزیولوژی 06 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 06 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 1537041,
+  "sha256": "9f528f4b57e67d65f307588d418e154b1a61729707875752623d249d36eb1185",
+  "pages": 18,
+  "n_figures": 52,
+  "quality": {
+   "n_words": 7635,
+   "common_ratio": 0.0207,
+   "avg_len": 2.54,
+   "repeat_ratio": 0.0516,
+   "score": 1.99,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0049",
+  "rel_path": "جلسه 7/جزوه جلسه 8 پارت 2 بهمن 1402.md",
+  "filename": "جزوه جلسه 8 پارت 2 بهمن 1402.md",
+  "type": "md",
+  "size": 78637,
+  "sha256": "4932d55f778326fbdf5c580818a4c78005af2214098be8b7e4fa151628dcc971",
+  "blocks": 554,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 9771,
+   "common_ratio": 0.096,
+   "avg_len": 2.91,
+   "repeat_ratio": 0.0618,
+   "score": 9.24,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0050",
+  "rel_path": "جلسه 7/جزوه جلسه 8 پارت 2 بهمن 1402.pdf",
+  "filename": "جزوه جلسه 8 پارت 2 بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 1759514,
+  "sha256": "2eed3b8d0a5b7e69c74f26015f2a7a3cb29a11b129c3519f321099c8373b5873",
+  "pages": 20,
+  "n_figures": 65,
+  "quality": {
+   "n_words": 9804,
+   "common_ratio": 0.097,
+   "avg_len": 2.84,
+   "repeat_ratio": 0.0428,
+   "score": 11.09,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0051",
+  "rel_path": "جلسه 7/نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.md",
+  "filename": "نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.md",
+  "type": "md",
+  "size": 64735,
+  "sha256": "f5df973306a6029a0e9225f7f87ac5e684972d2703e5c3b5376bbae68574a22f",
+  "blocks": 514,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 8416,
+   "common_ratio": 0.0411,
+   "avg_len": 2.98,
+   "repeat_ratio": 0.0615,
+   "score": 3.92,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0052",
+  "rel_path": "جلسه 7/نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.pdf",
+  "filename": "نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.pdf",
+  "type": "pdf",
+  "size": 2167234,
+  "sha256": "8d8e30ad4c423a5481c0357de9597df479bd79c32ae87e66a4d6c3d8e6259584",
+  "pages": 22,
+  "n_figures": 90,
+  "quality": {
+   "n_words": 8416,
+   "common_ratio": 0.0416,
+   "avg_len": 2.91,
+   "repeat_ratio": 0.0447,
+   "score": 5.51,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0053",
+  "rel_path": "جلسه 8 - نخاع و رفلکس های نخاعی/جزوه جلسه 8 پارت 2 بهمن 1402 (1).md",
+  "filename": "جزوه جلسه 8 پارت 2 بهمن 1402 (1).md",
+  "type": "md",
+  "size": 78637,
+  "sha256": "4932d55f778326fbdf5c580818a4c78005af2214098be8b7e4fa151628dcc971",
+  "blocks": 554,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 9771,
+   "common_ratio": 0.096,
+   "avg_len": 2.91,
+   "repeat_ratio": 0.0618,
+   "score": 9.24,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0054",
+  "rel_path": "جلسه 8 - نخاع و رفلکس های نخاعی/جزوه جلسه 8 پارت 2 بهمن 1402.pdf",
+  "filename": "جزوه جلسه 8 پارت 2 بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 1759514,
+  "sha256": "2eed3b8d0a5b7e69c74f26015f2a7a3cb29a11b129c3519f321099c8373b5873",
+  "pages": 20,
+  "n_figures": 65,
+  "quality": {
+   "n_words": 9804,
+   "common_ratio": 0.097,
+   "avg_len": 2.84,
+   "repeat_ratio": 0.0428,
+   "score": 11.09,
+   "verdict": "نیمه‌مخدوش"
+  }
+ },
+ {
+  "source_id": "SRC-0055",
+  "rel_path": "جلسه 8 - نخاع و رفلکس های نخاعی/نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402 (1).md",
+  "filename": "نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402 (1).md",
+  "type": "md",
+  "size": 64735,
+  "sha256": "f5df973306a6029a0e9225f7f87ac5e684972d2703e5c3b5376bbae68574a22f",
+  "blocks": 514,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 8416,
+   "common_ratio": 0.0411,
+   "avg_len": 2.98,
+   "repeat_ratio": 0.0615,
+   "score": 3.92,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0056",
+  "rel_path": "جلسه 8 - نخاع و رفلکس های نخاعی/نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.pdf",
+  "filename": "نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.pdf",
+  "type": "pdf",
+  "size": 2167234,
+  "sha256": "8d8e30ad4c423a5481c0357de9597df479bd79c32ae87e66a4d6c3d8e6259584",
+  "pages": 22,
+  "n_figures": 90,
+  "quality": {
+   "n_words": 8416,
+   "common_ratio": 0.0416,
+   "avg_len": 2.91,
+   "repeat_ratio": 0.0447,
+   "score": 5.51,
+   "verdict": "مخدوش/نیازمند OCR دستی"
+  }
+ },
+ {
+  "source_id": "SRC-0057",
+  "rel_path": "جلسه 9 - اعمال حرکتی ساقه مغز و کورتکس/نوروفیزیولوژی 09 نهایی بهمن 1402.md",
+  "filename": "نوروفیزیولوژی 09 نهایی بهمن 1402.md",
+  "type": "md",
+  "size": 53233,
+  "sha256": "1b00a5c2b1dc1b46df6865126b5b1ca6ed9f90d2c2bbf8cb458932baf3c5bf9f",
+  "blocks": 398,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 5876,
+   "common_ratio": 0.1724,
+   "avg_len": 3.6,
+   "repeat_ratio": 0.0718,
+   "score": 17.25,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0058",
+  "rel_path": "جلسه 9 - اعمال حرکتی ساقه مغز و کورتکس/نوروفیزیولوژی 09 نهایی بهمن 1402.pdf",
+  "filename": "نوروفیزیولوژی 09 نهایی بهمن 1402.pdf",
+  "type": "pdf",
+  "size": 2692569,
+  "sha256": "78f2380777816b0e6766fb3b1b2f3db9c50193e111ce9a6df82ab02fc578bce1",
+  "pages": 15,
+  "n_figures": 58,
+  "quality": {
+   "n_words": 5884,
+   "common_ratio": 0.1751,
+   "avg_len": 3.51,
+   "repeat_ratio": 0.0525,
+   "score": 19.28,
+   "verdict": "قابل استفاده"
+  }
+ },
+ {
+  "source_id": "SRC-0059",
+  "rel_path": "رفرنس گایتون/Guyton and Hall Textbook of Medical Physiology English.md",
+  "filename": "Guyton and Hall Textbook of Medical Physiology English.md",
+  "type": "md",
+  "size": 5154371,
+  "sha256": "048287c76543f906710dd99543f6d9e023f0f5c5aa0b19a29d600810eb1dad2b",
+  "blocks": 50310,
+  "n_figures": 0,
+  "quality": {
+   "n_words": 0,
+   "common_ratio": 0.0,
+   "avg_len": 0.0,
+   "repeat_ratio": 0.0,
+   "score": 0.0,
+   "verdict": "خالی/غیرفارسی"
+  }
+ }
+]

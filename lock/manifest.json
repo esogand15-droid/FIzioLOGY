@@ -1,0 +1,130 @@
+[
+ {
+  "chapter_id": "CH01",
+  "title": "مقدمه، سازمان‌بندی سیستم عصبی و انتقال سیناپسی",
+  "sections": 8,
+  "paragraphs": 349,
+  "figures": 34,
+  "chars": 111473
+ },
+ {
+  "chapter_id": "CH02",
+  "title": "گیرنده‌های حسی، مسیرهای صعودی و درد",
+  "sections": 8,
+  "paragraphs": 418,
+  "figures": 40,
+  "chars": 131791
+ },
+ {
+  "chapter_id": "CH03",
+  "title": "حس بینایی",
+  "sections": 7,
+  "paragraphs": 337,
+  "figures": 40,
+  "chars": 129737
+ },
+ {
+  "chapter_id": "CH04",
+  "title": "حس شنوایی",
+  "sections": 8,
+  "paragraphs": 180,
+  "figures": 18,
+  "chars": 58537
+ },
+ {
+  "chapter_id": "CH05",
+  "title": "حس تعادل و سیستم دهلیزی",
+  "sections": 4,
+  "paragraphs": 43,
+  "figures": 23,
+  "chars": 17867
+ },
+ {
+  "chapter_id": "CH06",
+  "title": "حس چشایی و بویایی",
+  "sections": 1,
+  "paragraphs": 5,
+  "figures": 1,
+  "chars": 4165
+ },
+ {
+  "chapter_id": "CH07",
+  "title": "نخاع، رفلکس‌های نخاعی و حس عمقی",
+  "sections": 4,
+  "paragraphs": 66,
+  "figures": 23,
+  "chars": 27966
+ },
+ {
+  "chapter_id": "CH08",
+  "title": "اعمال حرکتی ساقه مغز و قشر حرکتی",
+  "sections": 5,
+  "paragraphs": 102,
+  "figures": 20,
+  "chars": 41639
+ },
+ {
+  "chapter_id": "CH09",
+  "title": "مخچه",
+  "sections": 5,
+  "paragraphs": 28,
+  "figures": 10,
+  "chars": 12368
+ },
+ {
+  "chapter_id": "CH10",
+  "title": "عقده‌های قاعده‌ای",
+  "sections": 3,
+  "paragraphs": 70,
+  "figures": 8,
+  "chars": 28217
+ },
+ {
+  "chapter_id": "CH11",
+  "title": "حافظه و یادگیری",
+  "sections": 4,
+  "paragraphs": 147,
+  "figures": 21,
+  "chars": 59154
+ },
+ {
+  "chapter_id": "CH12",
+  "title": "سیستم لیمبیک، هیجانات و هیپوتالاموس",
+  "sections": 4,
+  "paragraphs": 74,
+  "figures": 7,
+  "chars": 49433
+ },
+ {
+  "chapter_id": "CH13",
+  "title": "فعالیت‌های مغزی، EEG، خواب و صرع",
+  "sections": 4,
+  "paragraphs": 62,
+  "figures": 4,
+  "chars": 29363
+ },
+ {
+  "chapter_id": "CH14",
+  "title": "سیستم عصبی اتونوم",
+  "sections": 4,
+  "paragraphs": 78,
+  "figures": 12,
+  "chars": 35402
+ },
+ {
+  "chapter_id": "CH15",
+  "title": "اعمال برتر مغز، اختصاص نیمکره‌ها و تکلم",
+  "sections": 2,
+  "paragraphs": 68,
+  "figures": 7,
+  "chars": 27709
+ },
+ {
+  "chapter_id": "CH16",
+  "title": "معاینات نورولوژیک (آزمایشگاه) — جزوه پری‌لب",
+  "sections": 4,
+  "paragraphs": 76,
+  "figures": 0,
+  "chars": 33598
+ }
+]

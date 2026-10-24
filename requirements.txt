@@ -1,0 +1,7 @@
+pypdfium2>=4.30
+pillow>=10.0
+arabic-reshaper>=3.0
+python-bidi>=0.4.2
+reportlab>=4.0
+fpdf2>=2.7
+uharfbuzz>=0.37
