@@ -1,0 +1,1189 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "s12_reticular": {
+   "heading": "Control of Cerebral Activity by Continuous",
+   "chapter": 58,
+   "found": true,
+   "page_start": 711,
+   "page_end": 712,
+   "sentences": [
+    {
+     "page": 711,
+     "text": "Figure 58-1 shows a general system for controlling the level of activity of the brain."
+    },
+    {
+     "page": 711,
+     "text": "The central driving component of this system is an excitatory area located in the reticular substance of the pons and mesencephalon."
+    },
+    {
+     "page": 711,
+     "text": "This area is also known by the name bulboreticular facilitory area."
+    },
+    {
+     "page": 711,
+     "text": "We also discuss this area in Chapter 55 because it is the same brain stem reticular area that transmits facilitory signals downward to the spinal cord to maintain tone in the antigravity muscles and to control levels of activity of the spinal cord reflexes."
+    },
+    {
+     "page": 711,
+     "text": "In addition to these downward signals, this area also sends a profusion of signals in the upward direction."
+    },
+    {
+     "page": 711,
+     "text": "Most of these go first to the thalamus, where they excite a different set of neurons that transmit nerve signals to all regions of the cerebral cortex, as well as to multiple subcortical areas."
+    },
+    {
+     "page": 711,
+     "text": "The signals passing through the thalamus are of two types."
+    },
+    {
+     "page": 711,
+     "text": "One type is rapidly transmitted action potentials that excite the cerebrum for only a few milliseconds."
+    },
+    {
+     "page": 711,
+     "text": "These originate from large neuronal cell bodies that lie throughout the brain stem reticular area."
+    },
+    {
+     "page": 711,
+     "text": "Their nerve endings release the neurotransmitter substance acetylcholine, which serves as an excitatory agent, lasting for only a few milliseconds before it is destroyed."
+    },
+    {
+     "page": 711,
+     "text": "The second type of excitatory signal originates from large numbers of small neurons spread throughout the brain stem reticular excitatory area."
+    },
+    {
+     "page": 711,
+     "text": "Again, most of these pass to the thalamus, but this time through small, slowly conducting fibers that synapse mainly in the intralaminar nuclei of the thalamus and in the reticular nuclei over the surface of the thalamus."
+    },
+    {
+     "page": 711,
+     "text": "From here, additional small fibers are distributed everywhere in the cerebral cortex."
+    },
+    {
+     "page": 711,
+     "text": "The excitatory effect caused by this system of fibers can build up progressively for many seconds to a minute or more, which suggests that its signals are especially important for controlling longer-term background excitability level of the brain."
+    },
+    {
+     "page": 711,
+     "text": "The level of activity of the excitatory area in the brain stem, and therefore the level of activity of the entire brain, is determined to a great extent by the number and type of sensory signals that enter the brain from the periphery."
+    },
+    {
+     "page": 711,
+     "text": "Pain signals in particular increase activity in this excitatory area and therefore strongly excite the brain to attention."
+    },
+    {
+     "page": 711,
+     "text": "The importance of sensory signals in activating the excitatory area is demonstrated by the effect of cutting the brain stem above the point where the fifth cerebral nerves enter the pons."
+    },
+    {
+     "page": 711,
+     "text": "These nerves are the highest nerves entering the brain that transmit significant numbers of somatosensory signals into the brain."
+    },
+    {
+     "page": 711,
+     "text": "When all these input sensory signals are gone, the level of activity in the brain excitatory area diminishes abruptly, and the brain proceeds instantly to a state of greatly reduced activity, approaching a permanent state of coma."
+    },
+    {
+     "page": 711,
+     "text": "But when the brain stem is transected below the fifth nerves, which leaves much input of sensory signals from the facial and oral regions, the coma is averted."
+    },
+    {
+     "page": 712,
+     "text": "Therefore, any time the cerebral cortex becomes activated by either brain thought processes or motor processes, signals are sent from the cortex to the brain stem excitatory area, which in turn sends still more excitatory signals to the cortex."
+    },
+    {
+     "page": 712,
+     "text": "This helps to maintain the level of excitation of the cerebral cortex or even to enhance it."
+    },
+    {
+     "page": 712,
+     "text": "This is a general mechanism of positive feedback that allows any beginning activity in the cerebral cortex to support still more activity, thus leading to an “awake” mind."
+    },
+    {
+     "page": 712,
+     "text": "Therefore, electrical stimulation of a specific point in the thalamus generally activates its own specific small region of the cortex."
+    },
+    {
+     "page": 712,
+     "text": "Furthermore, signals regularly reverberate back and forth between the thalamus and the cerebral cortex, the thalamus exciting the cortex and the cortex then re-exciting the thalamus by way of return fibers."
+    },
+    {
+     "page": 712,
+     "text": "It has been suggested that the thinking process establishes long-term memories by activating such back-and-forth reverberation of signals."
+    },
+    {
+     "page": 712,
+     "text": "Can the thalamus also function to call forth specific memories from the cortex or to activate specific thought processes?"
+    },
+    {
+     "page": 712,
+     "text": "Proof of this is still lacking, but the thalamus does have appropriate neuronal circuitry for these purposes."
+    },
+    {
+     "page": 712,
+     "text": "Figure 58-1 shows still another area that is important in controlling brain activity."
+    },
+    {
+     "page": 712,
+     "text": "This is the reticular inhibitory area, located medially and ventrally in the medulla."
+    },
+    {
+     "page": 712,
+     "text": "In Chapter 55, we learned that this area can inhibit the reticular facilitory area of the upper brain stem and thereby decrease activity in the superior portions of the brain as well."
+    },
+    {
+     "page": 712,
+     "text": "One of the mechanisms for this is to excite serotonergic neurons; these in turn secrete the inhibitory neurohormone serotonin at crucial points in the brain; we discuss this in more detail later."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_neurohormonal": {
+   "heading": "Neurohormonal Control of Brain Activity",
+   "chapter": 58,
+   "found": true,
+   "page_start": 712,
+   "page_end": 713,
+   "sentences": [
+    {
+     "page": 712,
+     "text": "Aside from direct control of brain activity by specific transmission of nerve signals from the lower brain areas to the cortical regions of the brain, still another physiologic mechanism is very often used to control brain activity."
+    },
+    {
+     "page": 712,
+     "text": "This is to secrete excitatory or inhibitory neurotransmitter hormonal agents into the substance of the brain."
+    },
+    {
+     "page": 712,
+     "text": "These neurohormones often persist for minutes or hours and thereby provide long periods of control, rather than just instantaneous activation or inhibition."
+    },
+    {
+     "page": 712,
+     "text": "Norepinephrine usually functions as an excitatory hormone, whereas serotonin is usually inhibitory and dopamine is excitatory in some areas but inhibitory in others."
+    },
+    {
+     "page": 712,
+     "text": "As would be expected, these three systems have different effects on levels of excitability in different parts of the brain."
+    },
+    {
+     "page": 712,
+     "text": "The norepinephrine system spreads to virtually every area of the brain, whereas the serotonin and dopamine systems are directed much more to specific brain regions—the dopamine system mainly into the basal ganglial regions and the serotonin system more into the midline structures."
+    },
+    {
+     "page": 712,
+     "text": "Figure 58-3 shows the brain stem areas in the human brain for activating four neurohormonal systems, the same three discussed for the rat and one other, the acetylcholine system."
+    },
+    {
+     "page": 712,
+     "text": "Some of the specific functions of these are as follows: 1."
+    },
+    {
+     "page": 712,
+     "text": "The locus ceruleus and the norepinephrine system."
+    },
+    {
+     "page": 712,
+     "text": "The locus ceruleus is a small area located bilaterally and posteriorly at the juncture between the pons and mesencephalon."
+    },
+    {
+     "page": 712,
+     "text": "Chapter 58 Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus the brain to increased activity."
+    },
+    {
+     "page": 712,
+     "text": "However, it has inhibitory effects in a few brain areas because of inhibitory receptors at certain neuronal synapses."
+    },
+    {
+     "page": 712,
+     "text": "Chapter 59 covers how this system probably plays an important role in causing dreaming, thus leading to a type of sleep called rapid eye movement sleep (REM sleep)."
+    },
+    {
+     "page": 713,
+     "text": "The substantia nigra and the dopamine system."
+    },
+    {
+     "page": 713,
+     "text": "The substantia nigra is discussed in Chapter 56 in relation to the basal ganglia."
+    },
+    {
+     "page": 713,
+     "text": "It lies anteriorly in the superior mesencephalon, and its neurons send nerve endings mainly to the caudate nucleus and putamen of the cerebrum, where they secrete dopamine."
+    },
+    {
+     "page": 713,
+     "text": "Other neurons located in adjacent regions also secrete dopamine, but they send their endings into more ventral areas of the brain, especially to the hypothalamus and the limbic system."
+    },
+    {
+     "page": 713,
+     "text": "The dopamine is believed to act as an inhibitory transmitter in the basal ganglia, but in some other areas of the brain it is possibly excitatory."
+    },
+    {
+     "page": 713,
+     "text": "Also, remember from Chapter 56 that destruction of the dopaminergic neurons in the substantia nigra is the basic cause of Parkinson’s disease."
+    },
+    {
+     "page": 713,
+     "text": "The raphe nuclei and the serotonin system."
+    },
+    {
+     "page": 713,
+     "text": "In the midline of the pons and medulla are several thin nuclei called the raphe nuclei."
+    },
+    {
+     "page": 713,
+     "text": "Many of the neurons in these nuclei secrete serotonin."
+    },
+    {
+     "page": 713,
+     "text": "They send fibers into the diencephalon and a few fibers to the cerebral cortex; still other fibers descend to the spinal cord."
+    },
+    {
+     "page": 713,
+     "text": "The serotonin secreted at the cord fiber endings has the ability to suppress pain, which was discussed in Chapter 48."
+    },
+    {
+     "page": 713,
+     "text": "The serotonin released in the diencephalon and cerebrum almost certainly plays an essential inhibitory role to help cause normal sleep, as we discuss in Chapter 59."
+    },
+    {
+     "page": 713,
+     "text": "The gigantocellular neurons of the reticular excitatory area and the acetylcholine system."
+    },
+    {
+     "page": 713,
+     "text": "Earlier we discussed the gigantocellular neurons (giant cells) in the reticular excitatory area of the pons and mesencephalon."
+    },
+    {
+     "page": 713,
+     "text": "The fibers from these large cells divide immediately into two branches, one passing upward to the higher levels of the brain and the other passing downward through the reticulospinal tracts into the spinal cord."
+    },
+    {
+     "page": 713,
+     "text": "The neurohormone secreted at their terminals is acetylcholine."
+    },
+    {
+     "page": 713,
+     "text": "In most places, the acetylcholine functions as an excitatory neurotransmitter."
+    },
+    {
+     "page": 713,
+     "text": "Activation of these acetylcholine neurons leads to an acutely awake and excited nervous system."
+    },
+    {
+     "page": 713,
+     "text": "Thus, there are multiple neurohormonal systems in the brain, the activation of each of which plays its own role in controlling a different quality of brain function."
+    },
+    {
+     "page": 713,
+     "text": "These neurons send control signals upward into the diencephalon and cerebrum and downward into the spinal cord."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_sleepdef": {
+   "heading": "Sleep",
+   "chapter": 59,
+   "found": true,
+   "page_start": 721,
+   "page_end": 721,
+   "sentences": [
+    {
+     "page": 721,
+     "text": "Sleep is defined as unconsciousness from which the person can be aroused by sensory or other stimuli."
+    },
+    {
+     "page": 721,
+     "text": "It is to be distinguished from coma, which is unconsciousness from which the person cannot be aroused."
+    },
+    {
+     "page": 721,
+     "text": "There are multiple stages of sleep, from very light sleep to very deep sleep; sleep researchers also divide sleep into two entirely different types of sleep that have different qualities, as follows."
+    },
+    {
+     "page": 721,
+     "text": "They are called (1) slow-wave sleep, in which the brain waves are strong and of low frequency, as we discuss later, and (2) rapid eye movement sleep (REM sleep), in which the eyes undergo rapid movements despite the fact that the person is still asleep."
+    },
+    {
+     "page": 721,
+     "text": "Most sleep during each night is of the slow-wave variety; this is the deep, restful sleep that the person experiences during the first hour of sleep after having been awake for many hours."
+    },
+    {
+     "page": 721,
+     "text": "REM sleep, on the other hand, occurs in episodes that occupy about 25 percent of the sleep time in young adults; each episode normally recurs about every 90 minutes."
+    },
+    {
+     "page": 721,
+     "text": "This type of sleep is not so restful, and it is usually associated with vivid dreaming."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_slowwave": {
+   "heading": "Slow-Wave Sleep",
+   "chapter": 59,
+   "found": true,
+   "page_start": 721,
+   "page_end": 721,
+   "sentences": [
+    {
+     "page": 721,
+     "text": "Most of us can understand the characteristics of deep slow-wave sleep by remembering the last time we were kept awake for more than 24 hours and then the deep sleep that occurred during the first hour after going to sleep."
+    },
+    {
+     "page": 721,
+     "text": "This sleep is exceedingly restful and is associated with decreases in both peripheral vascular tone and many other vegetative functions of the body."
+    },
+    {
+     "page": 721,
+     "text": "For instance, there are 10 to 30 percent decreases in blood pressure, respiratory rate, and basal metabolic rate."
+    },
+    {
+     "page": 721,
+     "text": "Although slow-wave sleep is frequently called “dreamless sleep,” dreams and sometimes even nightmares do occur during slow-wave sleep."
+    },
+    {
+     "page": 721,
+     "text": "The difference between the dreams that occur in slow-wave sleep and those that occur in REM sleep is that those of REM sleep are associated with more bodily muscle activity."
+    },
+    {
+     "page": 721,
+     "text": "Also, the dreams of slow-wave sleep are usually not remembered because consolidation of the dreams in memory does not occur."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_rem": {
+   "heading": "REM Sleep (Paradoxical Sleep",
+   "chapter": 59,
+   "found": true,
+   "page_start": 721,
+   "page_end": 722,
+   "sentences": [
+    {
+     "page": 721,
+     "text": "In a normal night of sleep, bouts of REM sleep lasting 5 to 30 minutes usually appear on the average every 90 minutes."
+    },
+    {
+     "page": 721,
+     "text": "When the person is extremely sleepy, each bout of REM sleep is short and may even be absent."
+    },
+    {
+     "page": 721,
+     "text": "Conversely, as the person becomes more rested through the night, the durations of the REM bouts increase."
+    },
+    {
+     "page": 721,
+     "text": "REM sleep has several important characteristics: 1."
+    },
+    {
+     "page": 721,
+     "text": "It is an active form of sleep usually associated with dreaming and active bodily muscle movements."
+    },
+    {
+     "page": 721,
+     "text": "The person is even more difficult to arouse by sensory stimuli than during deep slow-wave sleep, and yet people usually awaken spontaneously in the morning during an episode of REM sleep."
+    },
+    {
+     "page": 721,
+     "text": "Muscle tone throughout the body is exceedingly depressed, indicating strong inhibition of the spinal muscle control areas."
+    },
+    {
+     "page": 721,
+     "text": "Heart rate and respiratory rate usually become irregular, which is characteristic of the dream state."
+    },
+    {
+     "page": 722,
+     "text": "Despite the extreme inhibition of the peripheral muscles, irregular muscle movements do occur."
+    },
+    {
+     "page": 722,
+     "text": "These are in addition to the rapid movements of the eyes."
+    },
+    {
+     "page": 722,
+     "text": "The brain is highly active in REM sleep, and overall brain metabolism may be increased as much as 20 percent."
+    },
+    {
+     "page": 722,
+     "text": "The electroencephalogram (EEG) shows a pattern of brain waves similar to those that occur during wakefulness."
+    },
+    {
+     "page": 722,
+     "text": "This type of sleep is also called paradoxical sleep because it is a paradox that a person can still be asleep despite marked activity in the brain."
+    },
+    {
+     "page": 722,
+     "text": "In summary, REM sleep is a type of sleep in which the brain is quite active."
+    },
+    {
+     "page": 722,
+     "text": "However, the brain activity is not channeled in the proper direction for the person to be fully aware of his or her surroundings, and therefore the person is truly asleep."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_sleeptheory": {
+   "heading": "Basic Theories of Sleep",
+   "chapter": 59,
+   "found": true,
+   "page_start": 722,
+   "page_end": 723,
+   "sentences": [
+    {
+     "page": 722,
+     "text": "An earlier theory of sleep was that the excitatory areas of the upper brain stem, the reticular activating system, simply fatigued during the waking day and became inactive as a result."
+    },
+    {
+     "page": 722,
+     "text": "This was called the passive theory of sleep."
+    },
+    {
+     "page": 722,
+     "text": "An important experiment changed this view to the current belief that sleep is caused by an active inhibitory process: it was discovered that transecting the brain stem at the level of the midpons creates a brain whose cortex never goes to sleep."
+    },
+    {
+     "page": 722,
+     "text": "In other words, a center located below the midpontile level of the brain stem appears to be required to cause sleep by inhibiting other parts of the brain."
+    },
+    {
+     "page": 722,
+     "text": "Stimulation of several specific areas of the brain can produce sleep with characteristics near those of natural sleep."
+    },
+    {
+     "page": 722,
+     "text": "Some of these areas are the following: 1."
+    },
+    {
+     "page": 722,
+     "text": "The most conspicuous stimulation area for causing almost natural sleep is the raphe nuclei in the lower half of the pons and in the medulla."
+    },
+    {
+     "page": 722,
+     "text": "These nuclei comprise a thin sheet of special neurons located in the midline."
+    },
+    {
+     "page": 722,
+     "text": "Nerve fibers from these nuclei spread locally in the brain stem reticular formation and also upward into the thalamus, hypothalamus, most areas of the limbic system, and even the neocortex of the cerebrum."
+    },
+    {
+     "page": 722,
+     "text": "In addition, fibers extend downward into the spinal cord, terminating in the posterior horns, where they can inhibit incoming sensory signals, including pain, as discussed in Chapter 48."
+    },
+    {
+     "page": 722,
+     "text": "Many nerve endings of fibers from these raphe neurons secrete serotonin."
+    },
+    {
+     "page": 722,
+     "text": "When a drug that blocks the formation of serotonin is administered to an animal, the animal often cannot sleep for the next several days."
+    },
+    {
+     "page": 722,
+     "text": "Therefore, it has been assumed that serotonin is a transmitter substance associated with production of sleep."
+    },
+    {
+     "page": 722,
+     "text": "Stimulation of some areas in the nucleus of the tractus solitarius can also cause sleep."
+    },
+    {
+     "page": 722,
+     "text": "This nucleus is the termination in the medulla and pons for visceral sensory signals entering by way of the vagus and glossopharyngeal nerves."
+    },
+    {
+     "page": 722,
+     "text": "Sleep can be promoted by stimulation of several regions in the diencephalon, including (1) the rostral part of the hypothalamus, mainly in the suprachiasmal area, and (2) an occasional area in the diffuse nuclei of the thalamus."
+    },
+    {
+     "page": 722,
+     "text": "This is also true of bilateral lesions in the medial rostral suprachiasmal area in the anterior hypothalamus."
+    },
+    {
+     "page": 722,
+     "text": "In both instances, the excitatory reticular nuclei of the mesencephalon and upper pons seem to become released from inhibition, thus causing the intense wakefulness."
+    },
+    {
+     "page": 722,
+     "text": "Indeed, sometimes lesions of the anterior hypothalamus can cause such intense wakefulness that the animal actually dies of exhaustion."
+    },
+    {
+     "page": 722,
+     "text": "One likely substance has been identified as muramyl peptide, a low-molecular-weight substance that accumulates in the cerebrospinal fluid and urine in animals kept awake for several days."
+    },
+    {
+     "page": 722,
+     "text": "When only micrograms of this sleep-producing substance are injected into the third ventricle, almost natural sleep occurs within a few minutes and the animal may stay asleep for several hours."
+    },
+    {
+     "page": 722,
+     "text": "Another substance that has similar effects in causing sleep is a nonapeptide isolated from the blood of sleeping animals."
+    },
+    {
+     "page": 722,
+     "text": "And still a third sleep factor, not yet identified molecularly, has been isolated from the neuronal tissues of the brain stem of animals kept awake for days."
+    },
+    {
+     "page": 722,
+     "text": "It is possible that prolonged wakefulness causes progressive accumulation of a sleep factor or factors in the brain stem or cerebrospinal fluid that lead to sleep."
+    },
+    {
+     "page": 722,
+     "text": "Why slow-wave sleep is broken periodically by REM sleep is not understood."
+    },
+    {
+     "page": 722,
+     "text": "However, drugs that mimic the action of acetylcholine increase the occurrence of REM sleep."
+    },
+    {
+     "page": 722,
+     "text": "Therefore, it has been postulated that the large acetylcholine-secreting neurons in the upper brain stem reticular formation might, through their extensive efferent fibers, activate many portions of the brain."
+    },
+    {
+     "page": 722,
+     "text": "This theoretically could cause the excess activity that occurs in certain brain regions in REM sleep, even though the signals are not channeled appropriately in the brain to cause normal conscious awareness that is characteristic of wakefulness."
+    },
+    {
+     "page": 722,
+     "text": "The preceding discussions have merely identified neuronal areas, transmitters, and mechanisms that are related to sleep."
+    },
+    {
+     "page": 722,
+     "text": "They have not explained the cyclical, reciprocal operation of the sleep-wakefulness cycle."
+    },
+    {
+     "page": 722,
+     "text": "There is as yet no definitive explanation."
+    },
+    {
+     "page": 722,
+     "text": "Therefore, we might suggest the following possible mechanism for causing the sleepwakefulness cycle."
+    },
+    {
+     "page": 723,
+     "text": "When the sleep centers are not activated, the mesencephalic and upper pontile reticular activating nuclei are released from inhibition, which allows the reticular activating nuclei to become spontaneously active."
+    },
+    {
+     "page": 723,
+     "text": "This in turn excites both the cerebral cortex and the peripheral nervous system, both of which send numerous positive feedback signals back to the same reticular activating nuclei to activate them still further."
+    },
+    {
+     "page": 723,
+     "text": "Therefore, once wakefulness begins, it has a natural tendency to sustain itself because of all this positive feedback activity."
+    },
+    {
+     "page": 723,
+     "text": "Then, after the brain remains activated for many hours, even the neurons themselves in the activating system presumably become fatigued."
+    },
+    {
+     "page": 723,
+     "text": "Consequently, the positive feedback cycle between the mesencephalic reticular nuclei and the cerebral cortex fades and the sleep-promoting effects of the sleep centers take over, leading to rapid transition from wakefulness back to sleep."
+    },
+    {
+     "page": 723,
+     "text": "This overall theory could explain the rapid transitions from sleep to wakefulness and from wakefulness to sleep."
+    },
+    {
+     "page": 723,
+     "text": "It could also explain arousal, the insomnia that occurs when a person’s mind becomes preoccupied with a thought, and the wakefulness that is produced by bodily physical activity."
+    },
+    {
+     "page": 723,
+     "text": "There is little doubt that sleep has important functions."
+    },
+    {
+     "page": 723,
+     "text": "It exists in all mammals and after total deprivation there is usually a period of “catch-up” or “rebound” sleep; after selective deprivation of REM or slow-wave sleep, there is also a selective rebound of these specific stages of sleep."
+    },
+    {
+     "page": 723,
+     "text": "Even mild sleep restriction over a few days may degrade cognitive and physical performance, overall productivity, and health of a person."
+    },
+    {
+     "page": 723,
+     "text": "The essential role of sleep in homeostasis is perhaps most vividly demonstrated by the fact that rats deprived of sleep for 2 to 3 weeks may actually die."
+    },
+    {
+     "page": 723,
+     "text": "Despite the obvious importance of sleep, our understanding of why sleep is an essential part of life is still limited."
+    },
+    {
+     "page": 723,
+     "text": "Sleep causes two major types of physiologic effects: first, effects on the nervous system itself, and second, effects on other functional systems of the body."
+    },
+    {
+     "page": 723,
+     "text": "The nervous system effects seem to be by far the more important because any person who has a transected spinal cord in the neck (and therefore has no sleep-wakefulness cycle below the transection) shows no harmful effects in the body beneath the level of transection that can be attributed directly to a sleep-wakefulness cycle."
+    },
+    {
+     "page": 723,
+     "text": "Lack of sleep certainly does, however, affect the functions of the central nervous system."
+    },
+    {
+     "page": 723,
+     "text": "Prolonged wakefulness is often associated with progressive malfunction of the thought processes and sometimes even causes abnormal behavioral activities."
+    },
+    {
+     "page": 723,
+     "text": "We are all familiar with the increased sluggishness of thought that occurs toward the end of a prolonged wakeful period, but in addition, a person can become irritable or even psychotic after forced wakefulness."
+    },
+    {
+     "page": 723,
+     "text": "Therefore, we can assume that sleep in multiple ways restores both normal levels of brain activity and normal “balance” among the different functions of the central nervous system."
+    },
+    {
+     "page": 723,
+     "text": "This might be likened to the “rezeroing” of electronic analog computers after prolonged use because computers of this type gradually lose their “baseline” of operation; it is reasonable to assume that the same effect occurs in the central nervous system because overuse of some brain areas during wakefulness could easily throw these areas out of balance with the remainder of the nervous system."
+    },
+    {
+     "page": 723,
+     "text": "Sleep has been postulated to serve many functions including (1) neural maturation, (2) facilitation of learning or memory, (3) cognition, and (4) conservation of metabolic energy."
+    },
+    {
+     "page": 723,
+     "text": "There is some evidence for each of these functions, as well as physiologic purposes of sleep, but evidence supporting each of these ideas has been challenged."
+    },
+    {
+     "page": 723,
+     "text": "We might postulate that the principal value of sleep is to restore natural balances among the neuronal centers."
+    },
+    {
+     "page": 723,
+     "text": "The specific physiologic functions of sleep, however, remain a mystery, and they are the subject of much research."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_brainwaves": {
+   "heading": "Brain Waves",
+   "chapter": 59,
+   "found": true,
+   "page_start": 723,
+   "page_end": 724,
+   "sentences": [
+    {
+     "page": 723,
+     "text": "Electrical recordings from the surface of the brain or even from the outer surface of the head demonstrate that there is continuous electrical activity in the brain."
+    },
+    {
+     "page": 723,
+     "text": "Both the intensity and the patterns of this electrical activity are determined by the level of excitation of different parts of the brain resulting from sleep, wakefulness, or brain diseases such as epilepsy or even psychoses."
+    },
+    {
+     "page": 723,
+     "text": "The intensities of brain waves recorded from the surface of the scalp range from 0 to 200 microvolts, and their frequencies range from once every few seconds to 50 or more per second."
+    },
+    {
+     "page": 723,
+     "text": "The character of the waves is dependent on the degree of activity in respective parts of the cerebral cortex, and the waves change markedly between the states of wakefulness and sleep and coma."
+    },
+    {
+     "page": 724,
+     "text": "Much of the time, the brain waves are irregular and no specific pattern can be discerned in the EEG."
+    },
+    {
+     "page": 724,
+     "text": "At other times, distinct patterns do appear, some of which are characteristic of specific abnormalities of the brain such as epilepsy, which is discussed later."
+    },
+    {
+     "page": 724,
+     "text": "Alpha waves are rhythmical waves that occur at frequencies between 8 and 13 cycles per second and are found in the EEGs of almost all normal adults when they are awake and in a quiet, resting state of cerebration."
+    },
+    {
+     "page": 724,
+     "text": "These waves occur most intensely in the occipital region but can also be recorded from the parietal and frontal regions of the scalp."
+    },
+    {
+     "page": 724,
+     "text": "Their voltage is usually about 50 microvolts."
+    },
+    {
+     "page": 724,
+     "text": "During deep sleep, the alpha waves disappear."
+    },
+    {
+     "page": 724,
+     "text": "When the awake person’s attention is directed to some specific type of mental activity, the alpha waves are replaced by asynchronous, higher-frequency but lower-voltage beta waves."
+    },
+    {
+     "page": 724,
+     "text": "Figure 59-2 shows the effect on the alpha waves of simply opening the eyes in bright light and then closing the eyes."
+    },
+    {
+     "page": 724,
+     "text": "Note that the visual sensations cause immediate cessation of the alpha waves and that these are replaced by lowvoltage, asynchronous beta waves."
+    },
+    {
+     "page": 724,
+     "text": "Beta waves occur at frequencies greater than 14 cycles per second and as high as 80 cycles per second."
+    },
+    {
+     "page": 724,
+     "text": "They are recorded mainly from the parietal and frontal regions during specific activation of these parts of the brain."
+    },
+    {
+     "page": 724,
+     "text": "Theta waves have frequencies between four and seven cycles per second."
+    },
+    {
+     "page": 724,
+     "text": "They occur normally in the parietal and temporal regions in children, but they also occur during emotional stress in some adults, particularly during disappointment and frustration."
+    },
+    {
+     "page": 724,
+     "text": "Theta waves also occur in many brain disorders, often in degenerative brain states."
+    },
+    {
+     "page": 724,
+     "text": "Delta waves include all the waves of the EEG with frequencies less than 3.5 cycles per second, and they often have voltages two to four times greater than most other types of brain waves."
+    },
+    {
+     "page": 724,
+     "text": "They occur in very deep sleep, in infancy, and in serious organic brain disease."
+    },
+    {
+     "page": 724,
+     "text": "They also occur in the cortex of animals that have had subcortical transections separating the cerebral cortex from the thalamus."
+    },
+    {
+     "page": 724,
+     "text": "Therefore, delta waves can occur strictly in the cortex independent of activities in lower regions of the brain."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_waveorigin": {
+   "heading": "Origin of Brain Waves",
+   "chapter": 59,
+   "found": true,
+   "page_start": 724,
+   "page_end": 724,
+   "sentences": [
+    {
+     "page": 724,
+     "text": "The discharge of a single neuron or single nerve fiber in the brain can never be recorded from the surface of the head."
+    },
+    {
+     "page": 724,
+     "text": "Instead, many thousands or even millions of neurons or fibers must fire synchronously; only then will the potentials from the individual neurons or fibers summate enough to be recorded all the way through the skull."
+    },
+    {
+     "page": 724,
+     "text": "Thus, the intensity of the brain waves from the scalp is determined mainly by the numbers of neurons and fibers that fire in synchrony with one another, not by the total level of electrical activity in the brain."
+    },
+    {
+     "page": 724,
+     "text": "In fact, strong nonsynchronous nerve signals often nullify one another in the recorded brain waves because of opposing polarities."
+    },
+    {
+     "page": 724,
+     "text": "Then, when the eyes were opened, the activity of the brain increased greatly, but synchronization of the signals became so little that the brain waves mainly nullified one another."
+    },
+    {
+     "page": 724,
+     "text": "The resultant effect was low voltage waves of generally high but irregular frequency, the beta waves."
+    },
+    {
+     "page": 724,
+     "text": "Alpha waves will not occur in the cerebral cortex without cortical connections with the thalamus."
+    },
+    {
+     "page": 724,
+     "text": "Conversely, stimulation in the nonspecific layer of reticular nuclei that surround the thalamus or in “diffuse” nuclei deep inside the thalamus often sets up electrical waves in the thalamocortical system at a frequency between 8 and 13 per second, which is the natural frequency of the alpha waves."
+    },
+    {
+     "page": 724,
+     "text": "Therefore, it is believed that the alpha waves result from spontaneous feedback oscillation in this diffuse thalamocortical system, possibly including the reticular activating system in the brain stem as well."
+    },
+    {
+     "page": 724,
+     "text": "This oscillation presumably causes both the periodicity of the alpha waves and the synchronous activation of literally millions of cortical neurons during each wave."
+    },
+    {
+     "page": 724,
+     "text": "Transection of the fiber tracts from the thalamus to the cerebral cortex, which blocks thalamic activation of the cortex and thereby eliminates the alpha waves, nevertheless does not block delta waves in the cortex."
+    },
+    {
+     "page": 724,
+     "text": "This indicates that some synchronizing mechanism can occur in the cortical neuronal system by itself—mainly independent of lower structures in the brain—to cause the delta waves."
+    },
+    {
+     "page": 724,
+     "text": "Delta waves also occur during deep slow-wave sleep; this suggests that the cortex then is mainly released from the activating influences of the thalamus and other lower centers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_eeglevels": {
+   "heading": "Effect of Varying Levels of Cerebral Activity",
+   "chapter": 59,
+   "found": true,
+   "page_start": null,
+   "page_end": null,
+   "sentences": [],
+   "repair_hits": 0
+  },
+  "s12_eegstages": {
+   "heading": "Changes in the EEG at Different Stages of Wakefulness",
+   "chapter": 59,
+   "found": true,
+   "page_start": 725,
+   "page_end": 725,
+   "sentences": [
+    {
+     "page": 725,
+     "text": "Alert wakefulness is characterized by high-frequency beta waves, whereas quiet wakefulness is usually associated with alpha waves, as demonstrated by the first two EEGs of the figure."
+    },
+    {
+     "page": 725,
+     "text": "Slow-wave sleep is divided into four stages."
+    },
+    {
+     "page": 725,
+     "text": "In the first stage, a stage of light sleep, the voltage of the EEG waves becomes low."
+    },
+    {
+     "page": 725,
+     "text": "This is broken by “sleep spindles” (i.e,, short spindle-shaped bursts of alpha waves that occur periodically)."
+    },
+    {
+     "page": 725,
+     "text": "In stages 2, 3, and 4 of slow-wave sleep, the frequency of the EEG becomes progressively slower until it reaches a frequency of only one to three waves per second in stage 4; these are delta waves."
+    },
+    {
+     "page": 725,
+     "text": "It is often difficult to tell the difference between this brain wave pattern and that of an awake, active person."
+    },
+    {
+     "page": 725,
+     "text": "The waves are irregular and of high frequency, which are normally suggestive of desynchronized nervous activity as found in the awake state."
+    },
+    {
+     "page": 725,
+     "text": "Therefore, REM sleep is frequently called desynchronized sleep because there is lack of synchrony in the firing of the neurons despite significant brain activity."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_epilepsy": {
+   "heading": "Epilepsy",
+   "chapter": 59,
+   "found": true,
+   "page_start": 725,
+   "page_end": 726,
+   "sentences": [
+    {
+     "page": 725,
+     "text": "Epilepsy (also called “seizures”) is characterized by uncontrolled excessive activity of either part or all of the central nervous system."
+    },
+    {
+     "page": 725,
+     "text": "A person who is predisposed to epilepsy has attacks when the basal level of excitability of the nervous system (or of the part that is susceptible to the epileptic state) rises above a certain critical threshold."
+    },
+    {
+     "page": 725,
+     "text": "As long as the degree of excitability is held below this threshold, no attack occurs."
+    },
+    {
+     "page": 725,
+     "text": "Epilepsy can be classified into three major types: grand mal epilepsy, petit mal epilepsy, and focal epilepsy."
+    },
+    {
+     "page": 725,
+     "text": "Grand mal epilepsy is characterized by extreme neuronal discharges in all areas of the brain—in the cerebral cortex, in the deeper parts of the cerebrum, and even in the brain stem."
+    },
+    {
+     "page": 725,
+     "text": "Also, discharges transmitted all the way into the spinal cord sometimes cause generalized tonic seizures of the entire body, followed toward the end of the attack by alternating tonic and spasmodic muscle contractions called tonic-clonic seizures."
+    },
+    {
+     "page": 725,
+     "text": "Often the person bites or “swallows” his or her tongue and may have difficulty breathing, sometimes to the extent that cyanosis occurs."
+    },
+    {
+     "page": 725,
+     "text": "Also, signals transmitted from the brain to the viscera frequently cause urination and defecation."
+    },
+    {
+     "page": 725,
+     "text": "The usual grand mal seizure lasts from a few seconds to 3 to 4 minutes."
+    },
+    {
+     "page": 725,
+     "text": "It is also characterized by postseizure depression of the entire nervous system; the person remains in stupor for 1 to many minutes after the seizure attack is over and then often remains severely fatigued and asleep for hours thereafter."
+    },
+    {
+     "page": 725,
+     "text": "This demonstrates that highvoltage, high-frequency discharges occur over the entire cortex."
+    },
+    {
+     "page": 725,
+     "text": "Furthermore, the same type of discharge occurs on both sides of the brain at the same time, demonstrating that the abnormal neuronal circuitry responsible for the attack strongly involves the basal regions of the brain that drive the two halves of the cerebrum simultaneously."
+    },
+    {
+     "page": 725,
+     "text": "In laboratory animals and even in human beings, grand mal attacks can be initiated by administering a neuronal stimulant such as the drug pentylenetetrazol."
+    },
+    {
+     "page": 725,
+     "text": "They can also be caused by insulin hypoglycemia or passage of alternating electrical current directly through the brain."
+    },
+    {
+     "page": 725,
+     "text": "Electrical recordings from the thalamus, as well as from the reticular formation of the brain stem during the grand mal attack, show typical high-voltage activity in both of these areas similar to that recorded from the cerebral cortex."
+    },
+    {
+     "page": 725,
+     "text": "Therefore, a grand mal attack presumably involves not only abnormal activation of the thalamus and cerebral cortex but also abnormal activation in the subthalamic brain stem portions of the brain-activating system itself."
+    },
+    {
+     "page": 726,
+     "text": "In such people, factors that can increase the excitability of the abnormal “epileptogenic” circuitry enough to precipitate attacks include (1) strong emotional stimuli, (2) alkalosis caused by overbreathing, (3) drugs, (4) fever, and (5) loud noises or flashing lights."
+    },
+    {
+     "page": 726,
+     "text": "Even in people who are not genetically predisposed, certain types of traumatic lesions in almost any part of the brain can cause excess excitability of local brain areas, as we discuss shortly; these, too, sometimes transmit signals into the activating systems of the brain to elicit grand mal seizures."
+    },
+    {
+     "page": 726,
+     "text": "The cause of the extreme neuronal overactivity during a grand mal attack is presumed to be massive simultaneous activation of many reverberating neuronal pathways throughout the brain."
+    },
+    {
+     "page": 726,
+     "text": "Presumably, the major factor that stops the attack after a few minutes is neuronal fatigue."
+    },
+    {
+     "page": 726,
+     "text": "A second factor is probably active inhibition by inhibitory neurons that have been activated by the attack."
+    },
+    {
+     "page": 726,
+     "text": "Petit mal epilepsy almost certainly involves the thalamocortical brain activating system."
+    },
+    {
+     "page": 726,
+     "text": "It is usually characterized by 3 to 30 seconds of unconsciousness (or diminished consciousness) during which time the person has twitchlike contractions of muscles usually in the head region, especially blinking of the eyes; this is followed by return of consciousness and resumption of previous activities."
+    },
+    {
+     "page": 726,
+     "text": "This total sequence is called the absence syndrome or absence epilepsy."
+    },
+    {
+     "page": 726,
+     "text": "The patient may have one such attack in many months or, in rare instances, may have a rapid series of attacks, one after the other."
+    },
+    {
+     "page": 726,
+     "text": "The usual course is for the petit mal attacks to appear first during late childhood and then to disappear by the age of 30."
+    },
+    {
+     "page": 726,
+     "text": "On occasion, a petit mal epileptic attack will initiate a grand mal attack."
+    },
+    {
+     "page": 726,
+     "text": "The spike and dome can be recorded over most or all of the cerebral cortex, showing that the seizure involves much or most of the thalamocortical activating system of the brain."
+    },
+    {
+     "page": 726,
+     "text": "In fact, animal studies suggest that it results from oscillation of (1) inhibitory thalamic reticular neurons (which are neurons) and (2) excitatory thalamocortical and corticothalamic neurons."
+    },
+    {
+     "page": 726,
+     "text": "Focal epilepsy can involve almost any local part of the brain, either localized regions of the cerebral cortex or deeper structures of both the cerebrum and brain stem."
+    },
+    {
+     "page": 726,
+     "text": "Most often, focal epilepsy results from some localized organic lesion or functional abnormality, such as (1) scar tissue in the brain that pulls on the adjacent neuronal tissue, (2) a tumor that compresses an area of the brain, (3) a destroyed area of brain tissue, or (4) congenitally deranged local circuitry."
+    },
+    {
+     "page": 726,
+     "text": "Lesions such as these can promote extremely rapid discharges in the local neurons; when the discharge rate rises above several hundred per second, synchronous waves begin to spread over adjacent cortical regions."
+    },
+    {
+     "page": 726,
+     "text": "These waves presumably result from localized reverberating circuits that gradually recruit adjacent areas of the cortex into the epileptic discharge zone."
+    },
+    {
+     "page": 726,
+     "text": "The process spreads to adjacent areas at a rate as slow as a few millimeters a minute to as fast as several centimeters per second."
+    },
+    {
+     "page": 726,
+     "text": "When such a wave of excitation spreads over the motor cortex, it causes progressive “march” of muscle contractions throughout the opposite side of the body, beginning most characteristically in the mouth region and marching progressively downward to the legs but at other times marching in the opposite direction."
+    },
+    {
+     "page": 726,
+     "text": "This is called jacksonian epilepsy."
+    },
+    {
+     "page": 726,
+     "text": "A focal epileptic attack may remain confined to a single area of the brain, but in many instances, the strong signals from the convulsing cortex excite the mesencephalic portion of the brain-activating system so greatly that a grand mal epileptic attack ensues as well."
+    },
+    {
+     "page": 726,
+     "text": "Another type of focal epilepsy is the so-called psychomotor seizure, which may cause (1) a short period of amnesia; (2) an attack of abnormal rage; (3) sudden anxiety, discomfort, or fear; and/or (4) a moment of incoherent speech or mumbling of some trite phrase."
+    },
+    {
+     "page": 726,
+     "text": "Sometimes the person cannot remember his or her activities during the attack, but at other times he or she is conscious of everything that he or she is doing but unable to control it."
+    },
+    {
+     "page": 726,
+     "text": "Attacks of this type frequently involve part of the limbic portion of the brain, such as the hippocampus, the amygdala, the septum, and/or portions of the temporal cortex."
+    },
+    {
+     "page": 726,
+     "text": "The EEG can be used to localize abnormal spiking waves originating in areas of organic brain disease that predispose to focal epileptic attacks."
+    },
+    {
+     "page": 726,
+     "text": "Once such a focal point is found, surgical excision of the focus frequently prevents future attacks."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s12_psychoses": {
+   "heading": "Psychotic Behavior and Dementia",
+   "chapter": 59,
+   "found": true,
+   "page_start": 726,
+   "page_end": 727,
+   "sentences": [
+    {
+     "page": 726,
+     "text": "Clinical studies of patients with different psychoses or different types of dementia have suggested that many of these conditions result from diminished function of neurons that secrete a specific neurotransmitter."
+    },
+    {
+     "page": 726,
+     "text": "Use of appropriate drugs to counteract loss of the respective neurotransmitter has been successful in treating some patients."
+    },
+    {
+     "page": 726,
+     "text": "In Chapter 56, we discussed the cause of Parkinson’s disease."
+    },
+    {
+     "page": 726,
+     "text": "This disease results from loss of neurons in the substantia nigra whose nerve endings secrete dopamine in the caudate nucleus and putamen."
+    },
+    {
+     "page": 726,
+     "text": "Also in Chapter 56, we pointed out that in Huntington’s disease, loss of GABA-secreting neurons and acetylcholine-secreting neurons is associated with specific abnormal motor patterns plus dementia occurring in the same patient."
+    },
+    {
+     "page": 726,
+     "text": "Much evidence has accumulated suggesting that mental depression psychosis, which occurs in about 8 million people in the United States, might be caused by diminished formation in the brain of norepinephrine or serotonin, or both."
+    },
+    {
+     "page": 727,
+     "text": "(New evidence has implicated still other neurotransmitters.) Depressed patients experience symptoms of grief, unhappiness, despair, and misery."
+    },
+    {
+     "page": 727,
+     "text": "In addition, they often lose their appetite and sex drive and have severe insomnia."
+    },
+    {
+     "page": 727,
+     "text": "Often associated with these is a state of psychomotor agitation despite the depression."
+    },
+    {
+     "page": 727,
+     "text": "Moderate numbers of norepinephrine-secreting neurons are located in the brain stem, especially in the locus ceruleus."
+    },
+    {
+     "page": 727,
+     "text": "These neurons send fibers upward to most parts of the brain limbic system, thalamus, and cerebral cortex."
+    },
+    {
+     "page": 727,
+     "text": "Also, many serotonin-producing neurons located in the midline raphe nuclei of the lower pons and medulla send fibers to many areas of the limbic system and to some other areas of the brain."
+    },
+    {
+     "page": 727,
+     "text": "A principal reason for believing that depression might be caused by diminished activity of norepinephrine- and serotonin-secreting neurons is that drugs that block secretion of norepinephrine and serotonin, such as reserpine, frequently cause depression."
+    },
+    {
+     "page": 727,
+     "text": "Conversely, about 70 percent of depressive patients can be treated effectively with drugs that increase the excitatory effects of norepinephrine and serotonin at the nerve endings—for instance, (1) monoamine oxidase inhibitors, which block destruction of norepinephrine and serotonin once they are formed, and (2) tricyclic antidepressants, such as imipramine and amitriptyline, which block reuptake of norepinephrine and serotonin by nerve endings so that these transmitters remain active for longer periods after secretion."
+    },
+    {
+     "page": 727,
+     "text": "Mental depression can be treated by electroconvulsive therapy—commonly called “shock therapy.” In this therapy, electrical current is passed through the brain to cause a generalized seizure similar to that of an epileptic attack."
+    },
+    {
+     "page": 727,
+     "text": "This has been shown to enhance norepinephrine activity."
+    },
+    {
+     "page": 727,
+     "text": "Some patients with mental depression alternate between depression and mania, which is called either bipolar disorder or manic-depressive psychosis, and fewer patients exhibit only mania without the depressive episodes."
+    },
+    {
+     "page": 727,
+     "text": "Drugs that diminish the formation or action of norepinephrine and serotonin, such as lithium compounds, can be effective in treating the manic phase of the condition."
+    },
+    {
+     "page": 727,
+     "text": "It is presumed that the norepinephrine and serotonin systems normally provide drive to the limbic areas of the brain to increase a person’s sense of well-being, to create happiness, contentment, good appetite, appropriate sex drive, and psychomotor balance—although too much of a good thing can cause mania."
+    },
+    {
+     "page": 727,
+     "text": "In support of this concept is the fact that pleasure and reward centers of the hypothalamus and surrounding areas receive large numbers of nerve endings from the norepinephrine and serotonin systems."
+    },
+    {
+     "page": 727,
+     "text": "Schizophrenia comes in many varieties."
+    },
+    {
+     "page": 727,
+     "text": "One of the most common types is seen in the person who hears voices and has delusions of grandeur, intense fear, or other types of feelings that are unreal."
+    },
+    {
+     "page": 727,
+     "text": "Many schizophrenics are highly paranoid, with a sense of persecution from outside sources."
+    },
+    {
+     "page": 727,
+     "text": "They may develop incoherent speech, dissociation of ideas, and abnormal sequences of thought, and they are often withdrawn, sometimes with abnormal posture and even rigidity."
+    },
+    {
+     "page": 727,
+     "text": "There are reasons to believe that schizophrenia results from one or more of three possibilities: (1) multiple areas in the cerebral cortex prefrontal lobes in which neural signals have become blocked or where processing of the signals becomes dysfunctional because many synapses normally excited by the neurotransmitter glutamate lose their responsiveness to this transmitter; (2) excessive excitement of a group of neurons that secrete dopamine in the behavioral centers of the brain, including in the frontal lobes; and/or (3) abnormal function of a crucial part of the brain’s limbic behavioral control system centered around the hippocampus."
+    },
+    {
+     "page": 727,
+     "text": "The reason for believing that the prefrontal lobes are involved in schizophrenia is that a schizophrenic-like pattern of mental activity can be induced in monkeys by making multiple minute lesions in widespread areas of the prefrontal lobes."
+    },
+    {
+     "page": 727,
+     "text": "Dopamine has been implicated as a possible cause of schizophrenia because many patients with Parkinson’s disease develop schizophrenic-like symptoms when they are treated with the drug called l-dopa."
+    },
+    {
+     "page": 727,
+     "text": "This drug releases dopamine in the brain, which is advantageous for treating Parkinson’s disease, but at the same time it depresses various portions of the prefrontal lobes and other related areas."
+    },
+    {
+     "page": 727,
+     "text": "It has been suggested that in schizophrenia excess dopamine is secreted by a group of dopamine-secreting neurons whose cell bodies lie in the ventral tegmentum of the mesencephalon, medial and superior to the substantia nigra."
+    },
+    {
+     "page": 727,
+     "text": "These neurons give rise to the so-called mesolimbic dopaminergic system that projects nerve fibers and dopamine secretion into the medial and anterior portions of the limbic system, especially into the hippocampus, amygdala, anterior caudate nucleus, and portions of the prefrontal lobes."
+    },
+    {
+     "page": 727,
+     "text": "All of these are powerful behavioral control centers."
+    },
+    {
+     "page": 727,
+     "text": "An even more compelling reason for believing that schizophrenia might be caused by excess production of dopamine is that many drugs that are effective in treating schizophrenia— such as chlorpromazine, haloperidol, and thiothixene— all either decrease secretion of dopamine at dopaminergic nerve endings or decrease the effect of dopamine on subsequent neurons."
+    },
+    {
+     "page": 727,
+     "text": "Finally, possible involvement of the hippocampus in schizophrenia was discovered recently when it was learned that in schizophrenia, the hippocampus is often reduced in size, especially in the dominant hemisphere."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}

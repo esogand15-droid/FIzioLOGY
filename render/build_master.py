@@ -229,6 +229,28 @@ SESSIONS = {
         divider_title="نوروفیزیولوژی:\nاز سیستم لیمبیک\nتا هیپوتالاموس",
         pdf_name="HumsYar_Neuro_Jalase11.pdf",
     ),
+    "s12": dict(
+        guyton_ch_num="۵۸ و ۵۹",
+        deck_ranges=((1, 4), (11, 14)),
+        deck_pages=14,
+        num="۱۲", n=12, of="۱۶",
+        guyton_ch="فصل‌های ۵۸ و ۵۹ (فعال‌سازی مغز، خواب، امواج مغزی و صرع)",
+        no1404=True,
+        single_part=True,
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر دستگاه فعال‌کنندهٔ مشبک و "
+              "تالاموس و کنترل هومورال (۱ تا ۵)، دو نفر سیستم‌های نوروهورمونی و "
+              "نوروترانسمیترهای ساقه (۶ تا ۹)، دو نفر خواب و مراحل و نظریه‌ها (۱۰ تا ۱۳)، "
+              "دو نفر اختلالات خواب و صرع و الکتروانسفالوگرام (۱۴ تا ۱۷) به‌همراه "
+              "گردآوری. این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.",
+        outline="s12_topics.json",
+        content=("s12_a.json", "s12_b.json", "s12_c.json"),
+        guyton="guyton_s12_excerpts.json",
+        chapter_anchor="ch-s12",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="فعالیت‌های مغزی، خواب و صرع",
+        divider_title="نوروفیزیولوژی:\nاز بیداری\nتا خواب و صرع",
+        pdf_name="HumsYar_Neuro_Jalase12.pdf",
+    ),
 }
 
 SESSION = "s01"
@@ -694,6 +716,7 @@ def roadmap(book: PDFBook, outline: dict, content: dict) -> None:
         "جزوه/اسلایدشان در اختیار تیم است؛ برای هر جلسه همان مسیر تکرار می‌شود: شناسنامه، "
         "متن با ارجاع، شکل‌ها، جمع‌بندی، کادرهای یادداشت و برگهٔ تحویل.")
     if cfg.get("no1404"):
+        book.ensure(300)   # heading + note + the coverage table start together
         book.h2("پوشش صفحه‌های جزوهٔ ۱۴۰۲ در این نسخه", anchor="roadmap-cover")
         _coverage_1402(book, outline, cfg)
         _remaining_sessions(book, cfg)
@@ -736,9 +759,17 @@ def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
         pages = [p for t in outline["topics"] for p in t.get("notes1402", [])]
         lo, hi = min(pages), max(pages)
         deck_pages = cfg.get("deck_pages") or hi
-        book.paragraph(f"منبع متنی این جلسه یک جزوهٔ {fa(deck_pages)} صفحه‌ای بهمن ۱۴۰۲ است و این "
-                       f"سند صفحه‌های {fa(lo)} تا {fa(hi)} آن را پوشش می‌دهد. جدول زیر می‌گوید هر "
-                       "صفحهٔ آن بازه در کدام مبحث این سند آمده است.")
+        ranges = cfg.get("deck_ranges")
+        if ranges:
+            span = " و ".join(f"{fa(a)} تا {fa(b)}" for a, b in ranges)
+            book.paragraph(f"منبع متنی این جلسه یک جزوهٔ {fa(deck_pages)} صفحه‌ای بهمن ۱۴۰۲ است "
+                           f"که محتوای دو جلسه را با هم دارد؛ سند حاضر فقط صفحه‌های {span} آن "
+                           "را پوشش می‌دهد و بقیهٔ صفحه‌ها به جلسهٔ دیگر تعلق دارند. جدول زیر "
+                           "می‌گوید هر یک از همین صفحه‌ها در کدام مبحث این سند آمده است.")
+        else:
+            book.paragraph(f"منبع متنی این جلسه یک جزوهٔ {fa(deck_pages)} صفحه‌ای بهمن ۱۴۰۲ "
+                           f"است و این سند صفحه‌های {fa(lo)} تا {fa(hi)} آن را پوشش می‌دهد. "
+                           "جدول زیر می‌گوید هر صفحهٔ آن بازه در کدام مبحث این سند آمده است.")
     else:
         book.paragraph("منبع این جلسه دو جزوهٔ بهمن ۱۴۰۲ است و هر جزوه شمارهٔ صفحهٔ خودش را "
                        "دارد؛ بنابراین پوشش را برای هر جزوه جدا می‌آوریم.")
@@ -751,19 +782,25 @@ def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
         if not per_page:
             continue
         lo_pg, hi_pg = min(per_page), max(per_page)
+        ranges = cfg.get("deck_ranges") or ((lo_pg, hi_pg),)
+        wanted = [pg for a, b in ranges for pg in range(a, b + 1)]
         rows = []
-        for pg in range(lo_pg, hi_pg + 1):
+        for pg in wanted:
             rows.append([fa(pg), "، ".join(per_page.get(pg, [])) or "— بدون مبحث —"])
-        gaps = sum(1 for pg in range(lo_pg, hi_pg + 1) if pg not in per_page)
+        gaps = sum(1 for pg in wanted if pg not in per_page)
         head = ("صفحهٔ جزوهٔ ۱۴۰۲" if single else "صفحهٔ " + part_label(cfg, int(
             part.translate(str.maketrans("۱۲", "12")))))
         where = ("" if single else " " + part_label(cfg, int(
             part.translate(str.maketrans("۱۲", "12")))))
+        span_txt = ("، ".join(f"{fa(a)} تا {fa(b)}" for a, b in ranges)
+                    if cfg.get("deck_ranges") else f"{fa(lo_pg)} تا {fa(hi_pg)}")
         book.table([head, "مبحث این جزوه"], rows,
                    widths=[CONTENT_W * 0.22, CONTENT_W * 0.78], size=7.6,
-                   caption=f"جدول {cfg['num']}-۱ — صفحه‌های {fa(lo_pg)} تا {fa(hi_pg)}{where} "
+                   caption=f"جدول {cfg['num']}-۱ — صفحه‌های {span_txt}{where} "
                            "جزوهٔ بهمن ۱۴۰۲ و مبحثی که آن‌ها را پوشش می‌دهد."
-                           + ("" if gaps else " در این بازه صفحهٔ بدون مبحث نمانده است."),
+                           + (" هر صفحهٔ این فهرست مبحث دارد."
+                              if cfg.get("deck_ranges") else
+                              ("" if gaps else " در این بازه صفحهٔ بدون مبحث نمانده است.")),
                    src="مقایسهٔ صفحه‌به‌صفحهٔ جزوه و مباحث این سند")
         book.spacer(4)
 
