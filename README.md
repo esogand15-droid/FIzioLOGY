@@ -7,9 +7,10 @@
 - هر جلسه یک سند جداگانه (هیچ فایلی جای‌گزین جلسهٔ قبل نمی‌شود):
   - جلسهٔ ۱ — **`pdf/HumsYar_Neuro_Jalase1.pdf`** (۶۴ صفحه)
   - جلسهٔ ۲ — **`pdf/HumsYar_Neuro_Jalase2.pdf`** (۵۷ صفحه)
+  - جلسهٔ ۳ — **`pdf/HumsYar_Neuro_Jalase3.pdf`** (۵۹ صفحه)
 - نسخهٔ اولیه جلسهٔ ۱ با نام **`HumsYar_Neuro_Special_Senses_Master.pdf`** هم دست‌نخورده نگه داشته شده است.
 - وضعیت دقیق کار: **`PROJECT_STATUS.md`**
-- گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**، **`reports/S02_QA_REPORT.md`**
+- گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**، **`reports/S02_QA_REPORT.md`**، **`reports/S03_QA_REPORT.md`**
 - فهرست دارایی‌ها و منابع: **`INVENTORY.md`**
 
 ## ساخت دوبارهٔ PDF

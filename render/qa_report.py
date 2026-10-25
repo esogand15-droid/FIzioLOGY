@@ -45,6 +45,10 @@ SESSIONS = {
                 outline="s02_topics.json",
                 content=("s02_a.json", "s02_b.json", "s02_c.json"),
                 report=REPO / "reports" / "S02_QA_REPORT.md"),
+    "s03": dict(pdf=REPO / "pdf" / "HumsYar_Neuro_Jalase3.pdf",
+                outline="s03_topics.json",
+                content=("s03_a.json", "s03_b.json", "s03_c.json"),
+                report=REPO / "reports" / "S03_QA_REPORT.md"),
 }
 
 SESSION = "s01"

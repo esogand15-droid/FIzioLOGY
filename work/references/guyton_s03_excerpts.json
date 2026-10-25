@@ -1,0 +1,1162 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "somatic_classes": {
+   "heading": "Classification of Somatic Senses",
+   "chapter": 47,
+   "found": true,
+   "page_start": 571,
+   "page_end": 571,
+   "sentences": [
+    {
+     "page": 571,
+     "text": "The somatic senses can be classified into three physiologic types: (1) the mechanoreceptive somatic senses, which include both tactile and position sensations that are stimulated by mechanical displacement of some tissue of the body; (2) the thermoreceptive senses, which detect heat and cold; and (3) the pain sense, which is activated by factors that damage the tissues."
+    },
+    {
+     "page": 571,
+     "text": "This chapter deals with the mechanoreceptive tactile and position senses."
+    },
+    {
+     "page": 571,
+     "text": "Chapter 48 discusses the thermoreceptive and pain senses."
+    },
+    {
+     "page": 571,
+     "text": "The tactile senses include touch, pressure, vibration, and tickle senses, and the position senses include static position and rate of movement senses."
+    },
+    {
+     "page": 571,
+     "text": "Somatic sensations are also often grouped together in other classes, as follows."
+    },
+    {
+     "page": 571,
+     "text": "Exteroreceptive sensations are those from the surface of the body."
+    },
+    {
+     "page": 571,
+     "text": "Proprioceptive sensations are those relating to the physical state of the body, including position sensations, tendon and muscle sensations, pressure sensations from the bottom of the feet, and even the sensation of equilibrium (which is often considered a “special” sensation rather than a somatic sensation)."
+    },
+    {
+     "page": 571,
+     "text": "Visceral sensations are those from the viscera of the body; in using this term, one usually refers specifically to sensations from the internal organs."
+    },
+    {
+     "page": 571,
+     "text": "Deep sensations are those that come from deep tissues, such as from fasciae, muscles, and bone."
+    },
+    {
+     "page": 571,
+     "text": "These include mainly “deep” pressure, pain, and vibration."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "tactile_interrelations": {
+   "heading": "Interrelations Among the Tactile Sensations",
+   "chapter": 47,
+   "found": true,
+   "page_start": 571,
+   "page_end": 573,
+   "sentences": [
+    {
+     "page": 571,
+     "text": "Although touch, pressure, and vibration are frequently classified as separate sensations, they are all detected by the same types of receptors."
+    },
+    {
+     "page": 571,
+     "text": "There are three principal differences among them: (1) touch sensation generally results from stimulation of tactile receptors in the skin or in tissues immediately beneath the skin; (2) pressure sensation generally results from deformation of deeper tissues; and (3) vibration sensation results from rapidly repetitive sensory signals, but some of the same types of receptors as those for touch and pressure are used."
+    },
+    {
+     "page": 571,
+     "text": "There are at least six entirely different types of tactile receptors, but many more similar to these also exist."
+    },
+    {
+     "page": 571,
+     "text": "Some were shown in Figure 46-1 of the previous chapter; their special characteristics are the following."
+    },
+    {
+     "page": 571,
+     "text": "First, some free nerve endings, which are found everywhere in the skin and in many other tissues, can detect touch and pressure."
+    },
+    {
+     "page": 571,
+     "text": "For instance, even light contact with the cornea of the eye, which contains no other type of nerve ending besides free nerve endings, can nevertheless elicit touch and pressure sensations."
+    },
+    {
+     "page": 571,
+     "text": "Second, a touch receptor with great sensitivity is the Meissner’s corpuscle (illustrated in Figure 46-1), an elongated encapsulated nerve ending of a large (type Aβ) myelinated sensory nerve fiber."
+    },
+    {
+     "page": 571,
+     "text": "Inside the capsulation are many branching terminal nerve filaments."
+    },
+    {
+     "page": 571,
+     "text": "These corpuscles are present in the nonhairy parts of the skin and are particularly abundant in the fingertips, lips, and other areas of the skin where one’s ability to discern spatial locations of touch sensations is highly developed."
+    },
+    {
+     "page": 571,
+     "text": "Meissner’s corpuscles adapt in a fraction of a second after they are stimulated, which means that they are particularly sensitive to movement of objects over the surface of the skin, as well as to low-frequency vibration."
+    },
+    {
+     "page": 572,
+     "text": "Third, the fingertips and other areas that contain large numbers of Meissner’s corpuscles usually also contain large numbers of expanded tip tactile receptors, one type of which is Merkel’s discs, shown in Figure 47-1."
+    },
+    {
+     "page": 572,
+     "text": "The hairy parts of the skin also contain moderate numbers of expanded tip receptors, even though they have almost no Meissner’s corpuscles."
+    },
+    {
+     "page": 572,
+     "text": "These receptors differ from Meissner’s corpuscles in that they transmit an initially strong but partially adapting signal and then a continuing weaker signal that adapts only slowly."
+    },
+    {
+     "page": 572,
+     "text": "Therefore, they are responsible for giving steady-state signals that allow one to determine continuous touch of objects against the skin."
+    },
+    {
+     "page": 572,
+     "text": "Merkel’s discs are often grouped together in a receptor organ called the Iggo dome receptor, which projects upward against the underside of the epithelium of the skin, as also shown in Figure 47-1."
+    },
+    {
+     "page": 572,
+     "text": "This causes the epithelium at this point to protrude outward, thus creating a dome and constituting an extremely sensitive receptor."
+    },
+    {
+     "page": 572,
+     "text": "Also note that the entire group of Merkel’s discs is innervated by a single large myelinated nerve fiber (type Aβ)."
+    },
+    {
+     "page": 572,
+     "text": "These receptors, along with the Meissner’s corpuscles discussed earlier, play extremely important roles in localizing touch sensations to specific surface areas of the body and in determining the texture of what is felt."
+    },
+    {
+     "page": 572,
+     "text": "Fourth, slight movement of any hair on the body stimulates a nerve fiber entwining its base."
+    },
+    {
+     "page": 572,
+     "text": "Thus, each hair and its basal nerve fiber, called the hair end-organ, are also touch receptors."
+    },
+    {
+     "page": 572,
+     "text": "A receptor adapts readily and, like Meissner’s corpuscles, detects mainly (a) movement of objects on the surface of the body or (b) initial contact with the body."
+    },
+    {
+     "page": 572,
+     "text": "Fifth, located in the deeper layers of the skin and also in still deeper internal tissues are many Ruffini’s endings, which are multibranched, encapsulated endings, as shown in Figure 46-1."
+    },
+    {
+     "page": 572,
+     "text": "These endings adapt very slowly and, therefore, are important for signaling continuous states of deformation of the tissues, such as heavy prolonged touch and pressure signals."
+    },
+    {
+     "page": 572,
+     "text": "They are also found in joint capsules and help to signal the degree of joint rotation."
+    },
+    {
+     "page": 572,
+     "text": "Sixth, pacinian corpuscles, which were discussed in detail in Chapter 46, lie both immediately beneath the skin and deep in the fascial tissues of the body."
+    },
+    {
+     "page": 572,
+     "text": "They are stimulated only by rapid local compression of the tissues because they adapt in a few hundredths of a second."
+    },
+    {
+     "page": 572,
+     "text": "Therefore, they are particularly important for detecting tissue vibration or other rapid changes in the mechanical state of the tissues."
+    },
+    {
+     "page": 572,
+     "text": "Almost all specialized sensory receptors, such as Meissner’s corpuscles, Iggo dome receptors, hair receptors, pacinian corpuscles, and Ruffini’s endings, transmit their signals in type Aβ nerve fibers that have transmission velocities ranging from 30 to 70 m/sec."
+    },
+    {
+     "page": 572,
+     "text": "Conversely, free nerve ending tactile receptors transmit signals mainly by way of the small type Aδ myelinated fibers that conduct at velocities of only 5 to 30 m/sec."
+    },
+    {
+     "page": 572,
+     "text": "Some tactile free nerve endings transmit by way of type C unmyelinated fibers at velocities from a fraction of a meter up to 2 m/sec; these send signals into the spinal cord and lower brain stem, probably subserving mainly the sensation of tickle."
+    },
+    {
+     "page": 572,
+     "text": "Thus, the more critical types of sensory signals—those that help to determine precise localization on the skin, minute gradations of intensity, or rapid changes in sensory signal intensity—are all transmitted in more rapidly conducting types of sensory nerve fibers."
+    },
+    {
+     "page": 572,
+     "text": "Conversely, the cruder types of signals, such as pressure, poorly localized touch, and especially tickle, are transmitted by way of much slower, very small nerve fibers that require much less space in the nerve bundle than the fast fibers."
+    },
+    {
+     "page": 572,
+     "text": "Detection of Vibration All tactile receptors are involved in detection of vibration, although different receptors detect different frequencies of vibration."
+    },
+    {
+     "page": 572,
+     "text": "Pacinian corpuscles can detect signal vibrations from 30 to 800 cycles per second because they respond extremely rapidly to minute and rapid deformations of the tissues, and they also transmit their signals over type Aβ nerve fibers, which can transmit as many as 1000 impulses per second."
+    },
+    {
+     "page": 572,
+     "text": "Low-frequency vibrations from 2 up to 80 cycles per second, in contrast, stimulate other tactile receptors, especially Meissner’s corpuscles, which are less rapidly adapting than pacinian corpuscles."
+    },
+    {
+     "page": 572,
+     "text": "Neurophysiologic studies have demonstrated the existence of very sensitive, rapidly adapting mechanoreceptive free nerve endings that elicit only the tickle and itch sensations."
+    },
+    {
+     "page": 572,
+     "text": "Furthermore, these endings are found almost exclusively in superficial layers of the skin, which is also the only tissue from which the tickle and itch sensations usually can be elicited."
+    },
+    {
+     "page": 572,
+     "text": "These sensations are transmitted by very small type C, unmyelinated fibers similar to those that transmit the aching, slow type of pain."
+    },
+    {
+     "page": 572,
+     "text": "Note the multiple numbers of Merkel’s discs connecting to a single large myelinated fiber and abutting tightly the undersurface of the epithelium."
+    },
+    {
+     "page": 572,
+     "text": "(From Iggo A, Muir AR: The structure and function of a slowly adapting touch The purpose of the itch sensation is presumably to call attention to mild surface stimuli such as a flea crawling on the skin or a fly about to bite, and the elicited signals then activate the scratch reflex or other maneuvers that rid the host of the irritant."
+    },
+    {
+     "page": 572,
+     "text": "Itch can be relieved by scratching if this removes the irritant or if the scratch is strong enough to elicit pain."
+    },
+    {
+     "page": 572,
+     "text": "The pain signals are believed to suppress the itch signals in the cord by lateral inhibition, as described in Chapter 48."
+    },
+    {
+     "page": 573,
+     "text": "Almost all sensory information from the somatic segments of the body enters the spinal cord through the dorsal roots of the spinal nerves."
+    },
+    {
+     "page": 573,
+     "text": "However, from the entry point into the cord and then to the brain, the sensory signals are carried through one of two alternative sensory pathways: (1) the dorsal column–medial lemniscal system or (2) the anterolateral system."
+    },
+    {
+     "page": 573,
+     "text": "These two systems come back together partially at the level of the thalamus."
+    },
+    {
+     "page": 573,
+     "text": "The dorsal column–medial lemniscal system, as its name implies, carries signals upward to the medulla of the brain mainly in the dorsal columns of the cord."
+    },
+    {
+     "page": 573,
+     "text": "Then, after the signals synapse and cross to the opposite side in the medulla, they continue upward through the brain stem to the thalamus by way of the medial lemniscus."
+    },
+    {
+     "page": 573,
+     "text": "Conversely, signals in the anterolateral system, immediately after entering the spinal cord from the dorsal spinal nerve roots, synapse in the dorsal horns of the spinal gray matter, then cross to the opposite side of the cord and ascend through the anterior and lateral white columns of the cord."
+    },
+    {
+     "page": 573,
+     "text": "They terminate at all levels of the lower brain stem and in the thalamus."
+    },
+    {
+     "page": 573,
+     "text": "The dorsal column–medial lemniscal system is composed of large, myelinated nerve fibers that transmit signals to the brain at velocities of 30 to 110 m/sec, whereas the anterolateral system is composed of smaller myelinated fibers that transmit signals at velocities ranging from a few meters per second up to 40 m/sec."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "differential_sensitivity": {
+   "heading": "Differential Sensitivity of Receptors",
+   "chapter": 46,
+   "found": true,
+   "page_start": 559,
+   "page_end": 559,
+   "sentences": [
+    {
+     "page": 559,
+     "text": "How do two types of sensory receptors detect different types of sensory stimuli?"
+    },
+    {
+     "page": 559,
+     "text": "The answer is, by “differential sensitivities.” That is, each type of receptor is highly sensitive to one type of stimulus for which it is designed and yet is almost nonresponsive to other types of sensory stimuli."
+    },
+    {
+     "page": 559,
+     "text": "Thus, the rods and cones of the eyes are highly responsive to light but are almost completely nonresponsive to normal ranges of heat, cold, pressure on the eyeballs, or chemical changes in the blood."
+    },
+    {
+     "page": 559,
+     "text": "The osmoreceptors of the supraoptic nuclei in the hypothalamus detect minute changes in the osmolality of the body fluids but have never been known to respond to sound."
+    },
+    {
+     "page": 559,
+     "text": "Finally, pain receptors in the skin are almost never stimulated by usual touch or pressure stimuli but do become highly active the moment tactile stimuli become severe enough to damage the tissues."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "labeled_line": {
+   "heading": "Modality of Sensation—The “Labeled Line”",
+   "chapter": 46,
+   "found": true,
+   "page_start": 559,
+   "page_end": 559,
+   "sentences": [
+    {
+     "page": 559,
+     "text": "Each of the principal types of sensation that we can experience—pain, touch, sight, sound, and so forth—is called a modality of sensation."
+    },
+    {
+     "page": 559,
+     "text": "Yet despite the fact that we experience these different modalities of sensation, nerve fibers transmit only impulses."
+    },
+    {
+     "page": 559,
+     "text": "Therefore, how do different nerve fibers transmit different modalities of sensation?"
+    },
+    {
+     "page": 559,
+     "text": "The answer is that each nerve tract terminates at a specific point in the central nervous system, and the type of sensation felt when a nerve fiber is stimulated is determined by the point in the nervous system to which the fiber leads."
+    },
+    {
+     "page": 559,
+     "text": "For instance, if a pain fiber is stimulated, the person perceives pain regardless of what type of stimulus excites the fiber."
+    },
+    {
+     "page": 559,
+     "text": "The stimulus can be electricity, overheating of the fiber, crushing of the fiber, or stimulation of the pain nerve ending by damage to the tissue cells."
+    },
+    {
+     "page": 559,
+     "text": "In all these instances, the person perceives pain."
+    },
+    {
+     "page": 559,
+     "text": "Likewise, if a touch fiber is stimulated by electrical excitation of a touch receptor or in any other way, the person perceives touch because touch fibers lead to specific touch areas in the brain."
+    },
+    {
+     "page": 559,
+     "text": "Similarly, fibers from the retina of the eye terminate in the vision areas of the brain, fibers from the ear terminate in the auditory areas of the brain, and temperature fibers terminate in the temperature areas."
+    },
+    {
+     "page": 559,
+     "text": "This specificity of nerve fibers for transmitting only one modality of sensation is called the labeled line principle."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "receptor_potential": {
+   "heading": "Local Electrical Currents at Nerve",
+   "chapter": 46,
+   "found": true,
+   "page_start": 560,
+   "page_end": 560,
+   "sentences": [
+    {
+     "page": 560,
+     "text": "All sensory receptors have one feature in common."
+    },
+    {
+     "page": 560,
+     "text": "Whatever the type of stimulus that excites the receptor, its immediate effect is to change the membrane electrical potential of the receptor."
+    },
+    {
+     "page": 560,
+     "text": "This change in potential is called a receptor potential."
+    },
+    {
+     "page": 560,
+     "text": "These four means of exciting receptors correspond in general with the different types of known sensory receptors."
+    },
+    {
+     "page": 560,
+     "text": "In all instances, the basic cause of the change in membrane potential is a change in membrane permeability of the receptor, which allows ions to diffuse more or Figure 46-1 Several types of somatic sensory nerve endings."
+    },
+    {
+     "page": 560,
+     "text": "Receptors in or on surface of medulla and in less readily through the membrane and thereby to change the transmembrane potential."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "max_receptor_potential": {
+   "heading": "Maximum Receptor Potential Amplitude",
+   "chapter": 46,
+   "found": true,
+   "page_start": 561,
+   "page_end": 562,
+   "sentences": [
+    {
+     "page": 561,
+     "text": "This is about the same maximum voltage recorded in action potentials and is also the change in voltage when the membrane becomes maximally permeable to sodium ions."
+    },
+    {
+     "page": 561,
+     "text": "When the receptor potential rises above the threshold for eliciting action potentials in the nerve fiber attached to the receptor, then action potentials occur, as illustrated in Figure 46-2."
+    },
+    {
+     "page": 561,
+     "text": "Note also that the more the receptor potential rises above the threshold level, the greater becomes the action potential frequency."
+    },
+    {
+     "page": 561,
+     "text": "The student should at this point restudy the anatomical structure of the pacinian corpuscle shown in Figure 46-1."
+    },
+    {
+     "page": 561,
+     "text": "Note that the corpuscle has a central nerve fiber extending through its core."
+    },
+    {
+     "page": 561,
+     "text": "Surrounding this are multiple concentric capsule layers, so compression anywhere on the outside of the corpuscle will elongate, indent, or otherwise deform the central fiber."
+    },
+    {
+     "page": 561,
+     "text": "Now study Figure 46-3, which shows only the central fiber of the pacinian corpuscle after all capsule layers but one have been removed."
+    },
+    {
+     "page": 561,
+     "text": "The tip of the central fiber inside the capsule is unmyelinated, but the fiber does become myelinated (the blue sheath shown in the figure) shortly before leaving the corpuscle to enter a peripheral sensory nerve."
+    },
+    {
+     "page": 561,
+     "text": "The figure also shows the mechanism by which a receptor potential is produced in the pacinian corpuscle."
+    },
+    {
+     "page": 561,
+     "text": "Observe the small area of the terminal fiber that has been deformed by compression of the corpuscle, and note that ion channels have opened in the membrane, allowing positively charged sodium ions to diffuse to the interior of the fiber."
+    },
+    {
+     "page": 561,
+     "text": "This creates increased positivity inside the fiber, which is the “receptor potential.” The receptor potential in turn induces a local circuit of current flow, shown by the arrows, that spreads along the nerve fiber."
+    },
+    {
+     "page": 561,
+     "text": "At the first node of Ranvier, which itself lies inside the capsule of the pacinian corpuscle, the local current flow depolarizes the fiber membrane at this node, which then sets off typical action potentials that are transmitted along the nerve fiber toward the central nervous system."
+    },
+    {
+     "page": 561,
+     "text": "Note that the amplitude increases rapidly at first but then progressively less rapidly at high stimulus strength."
+    },
+    {
+     "page": 561,
+     "text": "In turn, the frequency of repetitive action potentials transmitted from sensory receptors increases approximately in action potentials when the receptor potential rises above threshold level."
+    },
+    {
+     "page": 0,
+     "text": "(Modified from Loëwenstein WR: Excitation and inactivation in a receptor memFigure 46-4 Relation of amplitude of receptor potential to strength of a mechanical stimulus applied to a pacinian corpuscle."
+    },
+    {
+     "page": 562,
+     "text": "Putting this principle together with the data in Figure 46-4, one can see that very intense stimulation of the receptor causes progressively less and less additional increase in numbers of action potentials."
+    },
+    {
+     "page": 562,
+     "text": "This is an exceedingly important principle that is applicable to almost all sensory receptors."
+    },
+    {
+     "page": 562,
+     "text": "It allows the receptor to be sensitive to very weak sensory experience and yet not reach a maximum firing rate until the sensory experience is extreme."
+    },
+    {
+     "page": 562,
+     "text": "This allows the receptor to have an extreme range of response, from very weak to very intense."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "adaptation": {
+   "heading": "Mechanisms by Which Receptors Adapt",
+   "chapter": 46,
+   "found": true,
+   "page_start": 562,
+   "page_end": 562,
+   "sentences": [
+    {
+     "page": 562,
+     "text": "For instance, in the eye, the rods and cones adapt by changing the concentrations of their light-sensitive chemicals (which is discussed in Chapter 50)."
+    },
+    {
+     "page": 562,
+     "text": "In the case of the mechanoreceptors, the receptor that has been studied in greatest detail is the pacinian corpuscle."
+    },
+    {
+     "page": 562,
+     "text": "Adaptation occurs in this receptor in two ways."
+    },
+    {
+     "page": 562,
+     "text": "First, the pacinian corpuscle is a viscoelastic structure, so that when a distorting force is suddenly applied to one side of the corpuscle, this force is instantly transmitted by the viscous component of the corpuscle directly to the same side of the central nerve fiber, thus eliciting a receptor potential."
+    },
+    {
+     "page": 562,
+     "text": "However, within a few hundredths of a second, the fluid within the corpuscle redistributes and the receptor potential is no longer elicited."
+    },
+    {
+     "page": 562,
+     "text": "Thus, the receptor potential appears at the onset of compression but disappears within a small fraction of a second even though the compression continues."
+    },
+    {
+     "page": 562,
+     "text": "The second mechanism of adaptation of the pacinian corpuscle, but a much slower one, results from a process called accommodation, which occurs in the nerve fiber itself."
+    },
+    {
+     "page": 562,
+     "text": "That is, even if by chance the central core fiber should continue to be distorted, the tip of the nerve fiber itself gradually becomes “accommodated” to the stimulus."
+    },
+    {
+     "page": 562,
+     "text": "This probably results from progressive “inactivation” of the sodium channels in the nerve fiber membrane, which means that sodium current flow through the channels causes them gradually to close, an effect that seems to occur for all or most cell membrane sodium channels, as was explained in Chapter 5."
+    },
+    {
+     "page": 562,
+     "text": "Presumably, these same two general mechanisms of adaptation apply also to the other types of mechanoreceptors."
+    },
+    {
+     "page": 562,
+     "text": "That is, part of the adaptation results from readjustments in the structure of the receptor itself, and part from an electrical type of accommodation in the terminal nerve fibril."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "tonic_phasic": {
+   "heading": "Slowly Adapting Receptors Detect",
+   "chapter": 46,
+   "found": true,
+   "page_start": 562,
+   "page_end": 563,
+   "sentences": [
+    {
+     "page": 562,
+     "text": "Therefore, they keep the brain constantly apprised of the status of the body and its relation to its surroundings."
+    },
+    {
+     "page": 562,
+     "text": "For instance, impulses from the muscle spindles and Golgi tendon apparatuses allow the nervous system to know the status of muscle contraction and load on the muscle tendon at each instant."
+    },
+    {
+     "page": 562,
+     "text": "Because the slowly adapting receptors can continue to transmit information for many hours, they are called tonic receptors."
+    },
+    {
+     "page": 563,
+     "text": "Rapidly Adapting Receptors Detect Change in Stiadapt rapidly cannot be used to transmit a continuous signal because these receptors are stimulated only when the stimulus strength changes."
+    },
+    {
+     "page": 563,
+     "text": "Yet they react strongly while a change is actually taking place."
+    },
+    {
+     "page": 563,
+     "text": "Therefore, these receptors are called rate receptors, movement receptors, or phasic receptors."
+    },
+    {
+     "page": 563,
+     "text": "Thus, in the case of the pacinian corpuscle, sudden pressure applied to the tissue excites this receptor for a few milliseconds, and then its excitation is over even though the pressure continues."
+    },
+    {
+     "page": 563,
+     "text": "But later, it transmits a signal again when the pressure is released."
+    },
+    {
+     "page": 563,
+     "text": "In other words, the pacinian corpuscle is exceedingly important in apprising the nervous system of rapid tissue deformations, but it is useless for transmitting information about constant conditions in the body."
+    },
+    {
+     "page": 563,
+     "text": "If one knows the rate at which some change in bodily status is taking place, one can predict in one’s mind the state of the body a few seconds or even a few minutes later."
+    },
+    {
+     "page": 563,
+     "text": "For instance, the receptors of the semicircular canals in the vestibular apparatus of the ear detect the rate at which the head begins to turn when one runs around a curve."
+    },
+    {
+     "page": 563,
+     "text": "Using this information, a person can predict how much he or she will turn within the next 2 seconds and can adjust the motion of the legs ahead of time to keep from losing balance."
+    },
+    {
+     "page": 563,
+     "text": "Likewise, receptors located in or near the joints help detect the rates of movement of the different parts of the body."
+    },
+    {
+     "page": 563,
+     "text": "For instance, when one is running, information from the joint rate receptors allows the nervous system to predict where the feet will be during any precise fraction of the next second."
+    },
+    {
+     "page": 563,
+     "text": "Therefore, appropriate motor signals can be transmitted to the muscles of the legs to make any necessary anticipatory corrections in position so that the person will not fall."
+    },
+    {
+     "page": 563,
+     "text": "Loss of this predictive function makes it impossible for the person to run."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "dorsal_column": {
+   "heading": "Dorsal Column—Medial Lemniscal Pathway",
+   "chapter": 47,
+   "found": true,
+   "page_start": 574,
+   "page_end": 574,
+   "sentences": [
+    {
+     "page": 574,
+     "text": "From there, second-order neurons decussate immediately to the opposite side of the brain stem and continue upward through the medial lemnisci to the thalamus."
+    },
+    {
+     "page": 574,
+     "text": "In this pathway through the brain stem, each medial lemniscus is joined by additional fibers from the sensory nuclei of the trigeminal nerve; these fibers subserve the same sensory functions for the head that the dorsal column fibers subserve for the body."
+    },
+    {
+     "page": 574,
+     "text": "In the thalamus, the medial lemniscal fibers terminate in the thalamic sensory relay area, called the ventrobasal complex."
+    },
+    {
+     "page": 574,
+     "text": "From the ventrobasal complex, third-order nerve fibers project, as shown in Figure 47-4, mainly to the postcentral gyrus of the cerebral cortex, which is called somatic sensory area I (as shown in Figure 47-6, these fibers also project to a smaller area in the lateral parietal cortex called somatic sensory area II)."
+    },
+    {
+     "page": 574,
+     "text": "One of the distinguishing features of the dorsal column– medial lemniscal system is a distinct spatial orientation of nerve fibers from the individual parts of the body that is maintained throughout."
+    },
+    {
+     "page": 574,
+     "text": "For instance, in the dorsal columns of the spinal cord, the fibers from the lower parts of the body lie toward the center of the cord, whereas those that enter the cord at progressively higher segmental levels form successive layers laterally."
+    },
+    {
+     "page": 574,
+     "text": "In the thalamus, distinct spatial orientation is still maintained, with the tail end of the body represented by the most lateral portions of the ventrobasal complex and the head and face represented by the medial areas of the complex."
+    },
+    {
+     "page": 574,
+     "text": "Because of the crossing of the medial lemnisci in the medulla, the left side of the body is represented in the right side of the thalamus, and the right side of the body in the left side of the thalamus."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "dorsal_overall": {
+   "heading": "Overall Characteristics of Signal Transmission",
+   "chapter": 47,
+   "found": true,
+   "page_start": 577,
+   "page_end": 579,
+   "sentences": [
+    {
+     "page": 577,
+     "text": "The upper curves of the figure show that the cortical neurons that discharge to the greatest extent are those in a central part of the cortical “field” for each respective receptor."
+    },
+    {
+     "page": 577,
+     "text": "Thus, a weak stimulus causes only the centralmost neurons to fire."
+    },
+    {
+     "page": 577,
+     "text": "A stronger stimulus causes still more neurons to fire, but those in the center discharge at a considerably more rapid rate than do those farther away from the center."
+    },
+    {
+     "page": 578,
+     "text": "A method frequently used to test tactile discrimination is to determine a person’s so-called “two-point” discriminatory ability."
+    },
+    {
+     "page": 578,
+     "text": "In this test, two needles are pressed lightly against the skin at the same time, and the person determines whether two points of stimulus are felt or one point."
+    },
+    {
+     "page": 578,
+     "text": "On the tips of the fingers, a person can normally distinguish two separate points even when the needles are as close together as 1 to 2 millimeters."
+    },
+    {
+     "page": 578,
+     "text": "However, on the person’s back, the needles must usually be as far apart as 30 to 70 millimeters before two separate points can be detected."
+    },
+    {
+     "page": 578,
+     "text": "The reason for this difference is the different numbers of specialized tactile receptors in the two areas."
+    },
+    {
+     "page": 578,
+     "text": "Figure 47-10 shows the mechanism by which the dorsal column pathway (as well as all other sensory pathways) transmits two-point discriminatory information."
+    },
+    {
+     "page": 578,
+     "text": "This figure shows two adjacent points on the skin that are strongly stimulated, as well as the areas of the somatosensory cortex (greatly enlarged) that are excited by signals from the two stimulated points."
+    },
+    {
+     "page": 578,
+     "text": "The blue curve shows the spatial pattern of cortical excitation when both skin points are stimulated simultaneously."
+    },
+    {
+     "page": 578,
+     "text": "Note that the resultant zone of excitation has two separate peaks."
+    },
+    {
+     "page": 578,
+     "text": "These two peaks, separated by a valley, allow the sensory cortex to detect the presence of two stimulatory points, rather than a single point."
+    },
+    {
+     "page": 578,
+     "text": "The capability of the sensorium to distinguish this presence of two points of stimulation is strongly influenced by another mechanism, lateral inhibition, as explained in the next section."
+    },
+    {
+     "page": 578,
+     "text": "For instance, consider an excited neuron in a dorsal column nucleus."
+    },
+    {
+     "page": 578,
+     "text": "Aside from the central excitatory signal, short lateral pathways transmit inhibitory signals to the surrounding neurons."
+    },
+    {
+     "page": 578,
+     "text": "That is, these signals pass through additional interneurons that secrete an inhibitory transmitter."
+    },
+    {
+     "page": 578,
+     "text": "The importance of lateral inhibition is that it blocks lateral spread of the excitatory signals and, therefore, increases the degree of contrast in the sensory pattern perceived in the cerebral cortex."
+    },
+    {
+     "page": 578,
+     "text": "In the case of the dorsal column system, lateral inhibitory signals occur at each synaptic level—for instance, in (1) the dorsal column nuclei of the medulla, (2) the ventrobasal nuclei of the thalamus, and (3) the cortex itself."
+    },
+    {
+     "page": 578,
+     "text": "At each of these levels, the lateral inhibition helps to block lateral spread of the excitatory signal."
+    },
+    {
+     "page": 578,
+     "text": "As a result, the peaks Figure 47-9 Transmission of a pinpoint stimulus signal to the cerebral cortex."
+    },
+    {
+     "page": 578,
+     "text": "The blue curve represents the pattern of cortical stimulation without “surround” inhibition, and the two red curves represent the pattern when “surround” inhibition does occur."
+    },
+    {
+     "page": 579,
+     "text": "This effect is demonstrated by the two red curves in Figure 47-10, showing complete separation of the peaks when the intensity of lateral inhibition is great."
+    },
+    {
+     "page": 579,
+     "text": "The dorsal column system is also of particular importance in apprising the sensorium of rapidly changing peripheral conditions."
+    },
+    {
+     "page": 579,
+     "text": "Based on recorded action potentials, this system can recognize changing stimuli that occur in as little as 1/400 of a second."
+    },
+    {
+     "page": 579,
+     "text": "Vibratory signals are rapidly repetitive and can be detected as vibration up to 700 cycles per second."
+    },
+    {
+     "page": 579,
+     "text": "The higher-frequency vibratory signals originate from the pacinian corpuscles in the skin and deeper tissues, but lower-frequency signals (below about 200 per second) can originate from Meissner’s corpuscles as well."
+    },
+    {
+     "page": 579,
+     "text": "These signals are transmitted only in the dorsal column pathway."
+    },
+    {
+     "page": 579,
+     "text": "For this reason, application of vibration (e.g., from a “tuning fork”) to different peripheral parts of the body is an important tool used by neurologists for testing functional integrity of the dorsal columns."
+    },
+    {
+     "page": 579,
+     "text": "The ultimate goal of most sensory stimulation is to apprise the psyche of the state of the body and its surroundings."
+    },
+    {
+     "page": 579,
+     "text": "Therefore, it is important that we discuss briefly some of the principles related to transmission of sensory stimulus intensity to the higher levels of the nervous system."
+    },
+    {
+     "page": 579,
+     "text": "One question that comes to mind is, how is it possible for the sensory system to transmit sensory experiences of tremendously varying intensities?"
+    },
+    {
+     "page": 579,
+     "text": "For instance, the auditory system can detect the weakest possible whisper but can also discern the meanings of an explosive sound, even though the sound intensities of these two experiences can vary more than 10 billion times; the eyes can see visual images with light intensities that vary as much as a half million times; and the skin can detect pressure differences of 10,000 to 100,000 times."
+    },
+    {
+     "page": 579,
+     "text": "As a partial explanation of these effects, Figure 46-4 in the previous chapter shows the relation of the receptor potential produced by the pacinian corpuscle to the intensity of the sensory stimulus."
+    },
+    {
+     "page": 579,
+     "text": "At low stimulus intensity, slight changes in intensity increase the potential markedly, whereas at high levels of stimulus intensity, further increases in receptor potential are slight."
+    },
+    {
+     "page": 579,
+     "text": "Thus, the pacinian corpuscle is capable of accurately measuring extremely minute changes in stimulus at low-intensity levels, but at high-intensity levels, the change in stimulus must be much greater to cause the same amount of change in receptor potential."
+    },
+    {
+     "page": 579,
+     "text": "The transduction mechanism for detecting sound by the cochlea of the ear demonstrates still another method for separating gradations of stimulus intensity."
+    },
+    {
+     "page": 579,
+     "text": "When sound stimulates a specific point on the basilar membrane, weak sound stimulates only those hair cells at the point of maximum sound vibration."
+    },
+    {
+     "page": 579,
+     "text": "But as the sound intensity increases, many more hair cells in each direction farther away from the maximum vibratory point also become stimulated."
+    },
+    {
+     "page": 579,
+     "text": "Thus, signals are transmitted over progressively increasing numbers of nerve fibers, which is another mechanism by which stimulus intensity is transmitted to the central nervous system."
+    },
+    {
+     "page": 579,
+     "text": "This mechanism, plus the direct effect of stimulus intensity on impulse rate in each nerve fiber, as well as several other mechanisms, makes it possible for some sensory systems to operate reasonably faithfully at stimulus intensity levels changing as much as millions of times."
+    },
+    {
+     "page": 579,
+     "text": "Were it not for the tremendous intensity range of sensory reception that we can experience, the various sensory systems would more often than not be operating in the wrong range."
+    },
+    {
+     "page": 579,
+     "text": "This is demonstrated by the attempts of most people, when taking photographs with a camera, to adjust the light exposure without using a light meter."
+    },
+    {
+     "page": 579,
+     "text": "Left to intuitive judgment of light intensity, a person almost always overexposes the film on bright days and greatly underexposes the film at twilight."
+    },
+    {
+     "page": 579,
+     "text": "Yet that person’s own eyes are capable of discriminating with great detail visual objects in bright sunlight or at twilight; the camera cannot do this without very special manipulation because of the narrow critical range of light intensity required for proper exposure of film."
+    },
+    {
+     "page": 579,
+     "text": "In the mid-1800s, Weber first and Fechner later proposed the principle that gradations of stimulus strength are discriminated approximately in proportion to the logarithm of stimulus strength."
+    },
+    {
+     "page": 579,
+     "text": "That is, a person already holding 30 grams weight in his or her hand can barely detect an additional 1-gram increase in weight."
+    },
+    {
+     "page": 579,
+     "text": "And, when already holding 300 grams, he or she can barely detect a 10-gram increase in weight."
+    },
+    {
+     "page": 579,
+     "text": "Thus, in this instance, the ratio of the change in stimulus strength required for detection remains essentially constant, about 1 to 30, which is what the logarithmic principle means."
+    },
+    {
+     "page": 579,
+     "text": "To express this mathematically."
+    },
+    {
+     "page": 579,
+     "text": "More recently, it has become evident that the WeberFechner principle is quantitatively accurate only for higher intensities of visual, auditory, and cutaneous sensory experience and applies only poorly to most other types of sensory experience."
+    },
+    {
+     "page": 579,
+     "text": "Yet the Weber-Fechner principle is still a good one to remember because it emphasizes that the greater the background sensory intensity, the greater an additional change must be for the psyche to detect the change."
+    },
+    {
+     "page": 579,
+     "text": "Another attempt by physiopsychologists to find a good mathematical relation is the following formula, known as the power law."
+    },
+    {
+     "page": 579,
+     "text": "In this formula, the exponent y and the constants K and k are different for each type of sensation."
+    },
+    {
+     "page": 579,
+     "text": "When this power law relation is plotted on a graph using double logarithmic coordinates, as shown in Figure 47-11, and when appropriate quantitative values for the constants y, K, and k are found, a linear relation can be attained between interpreted stimulus strength and actual stimulus strength over a large range for almost any type of sensory perception."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "position_sense": {
+   "heading": "Position Senses",
+   "chapter": 47,
+   "found": true,
+   "page_start": 100,
+   "page_end": 582,
+   "sentences": [
+    {
+     "page": 580,
+     "text": "The position senses are frequently also called proprioceptive senses."
+    },
+    {
+     "page": 580,
+     "text": "They can be divided into two subtypes: (1) static position sense, which means conscious perception of the orientation of the different parts of the body with respect to one another, and (2) rate of movement sense, also called kinesthesia or dynamic proprioception."
+    },
+    {
+     "page": 580,
+     "text": "Knowledge of position, both static and dynamic, depends on knowing the degrees of angulation of all joints in all planes and their rates of change."
+    },
+    {
+     "page": 580,
+     "text": "Therefore, multiple different types of receptors help to determine joint angulation and are used together for position sense."
+    },
+    {
+     "page": 580,
+     "text": "Both skin tactile receptors and deep receptors near the joints are used."
+    },
+    {
+     "page": 580,
+     "text": "In the case of the fingers, where skin receptors are in great abundance, as much as half of position recognition is believed to be detected through the skin receptors."
+    },
+    {
+     "page": 580,
+     "text": "Conversely, for most of the larger joints of the body, deep receptors are more important."
+    },
+    {
+     "page": 580,
+     "text": "For determining joint angulation in midranges of motion, among the most important receptors are the muscle spindles."
+    },
+    {
+     "page": 580,
+     "text": "They are also exceedingly important in helping to control muscle movement, as we shall see in Chapter 54."
+    },
+    {
+     "page": 580,
+     "text": "When the angle of a joint is changing, some muscles are being stretched while others are loosened, and the net stretch information from the spindles is transmitted into the computational system of the spinal cord and higher regions of the dorsal column system for deciphering joint angulations."
+    },
+    {
+     "page": 580,
+     "text": "At the extremes of joint angulation, stretch of the ligaments and deep tissues around the joints is an additional important factor in determining position."
+    },
+    {
+     "page": 580,
+     "text": "Types of sensory endings used for this are the pacinian corpuscles, Ruffini’s endings, and receptors similar to the Golgi tendon receptors found in muscle tendons."
+    },
+    {
+     "page": 580,
+     "text": "The pacinian corpuscles and muscle spindles are especially adapted for detecting rapid rates of change."
+    },
+    {
+     "page": 580,
+     "text": "It is likely that these are the receptors most responsible for detecting rate of movement."
+    },
+    {
+     "page": 580,
+     "text": "Thus, the signals from the individual joint receptors are used to tell the psyche how much each joint is rotated."
+    },
+    {
+     "page": 580,
+     "text": "The anterolateral pathway for transmitting sensory signals up the spinal cord and into the brain, in contrast to the dorsal column pathway, transmits sensory signals that do not require highly discrete localization of the signal source and do not require discrimination of fine gradations of intensity."
+    },
+    {
+     "page": 580,
+     "text": "These types of signals include pain, heat, cold, crude tactile, tickle, itch, and sexual sensations."
+    },
+    {
+     "page": 580,
+     "text": "In Chapter 48, pain and temperature sensations are discussed specifically."
+    },
+    {
+     "page": 580,
+     "text": "Anatomy of the Anterolateral Pathway The spinal cord anterolateral fibers originate mainly in dorsal horn laminae I, IV, V, and VI (see Figure 47-2)."
+    },
+    {
+     "page": 580,
+     "text": "These laminae are where many of the dorsal root sensory nerve fibers terminate after entering the cord."
+    },
+    {
+     "page": 580,
+     "text": "As shown in Figure 47-13, the anterolateral fibers cross immediately in the anterior commissure of the cord to the opposite anterior and lateral white columns, where they turn upward toward the brain by way of the anterior spinothalamic and lateral spinothalamic tracts."
+    },
+    {
+     "page": 500,
+     "text": "Note that the power law does not hold at either very weak or very strong stimulus strengths."
+    },
+    {
+     "page": 100,
+     "text": "(Data from Mountcastle VB, Poggie GF, Werner G: The relation of thalamic cell response to peripheral stimuli varied over an intensive continuum."
+    },
+    {
+     "page": 100,
+     "text": "J Neurophysiol 26:807, The upper terminus of the two spinothalamic tracts is mainly twofold: (1) throughout the reticular nuclei of the brain stem and (2) in two different nuclear complexes of the thalamus, the ventrobasal complex and the intralaminar nuclei."
+    },
+    {
+     "page": 581,
+     "text": "In general, the tactile signals are transmitted mainly into the ventrobasal complex, terminating in some of the same thalamic nuclei where the dorsal column tactile signals terminate."
+    },
+    {
+     "page": 581,
+     "text": "From here, the signals are transmitted to the somatosensory cortex along with the signals from the dorsal columns."
+    },
+    {
+     "page": 581,
+     "text": "Conversely, only a small fraction of the pain signals project directly to the ventrobasal complex of the thalamus."
+    },
+    {
+     "page": 581,
+     "text": "Instead, most pain signals terminate in the reticular nuclei of the brain stem and from there are relayed to the intralaminar nuclei of the thalamus where the pain signals are further processed, as discussed in greater detail in Chapter 48."
+    },
+    {
+     "page": 581,
+     "text": "In general, the same principles apply to transmission in the anterolateral pathway as in the dorsal column–medial lemniscal system, except for the following differences: (1) the velocities of transmission are only one-third to one-half those in the dorsal column–medial lemniscal system, ranging between 8 and 40 m/sec; (2) the degree of spatial localization of signals is poor; (3) the gradations of intensities are also far less accurate, most of the sensations being recognized in 10 to 20 gradations of strength, rather than as many as 100 gradations for the dorsal column system; and (4) the ability to transmit rapidly changing or rapidly repetitive signals is poor."
+    },
+    {
+     "page": 581,
+     "text": "Thus, it is evident that the anterolateral system is a cruder type of transmission system than the dorsal column–medial lemniscal system."
+    },
+    {
+     "page": 581,
+     "text": "Even so, certain modalities of sensation are transmitted only in this system and not at all in the dorsal column–medial lemniscal system."
+    },
+    {
+     "page": 581,
+     "text": "They are pain, temperature, tickle, itch, and sexual sensations, in addition to crude touch and pressure."
+    },
+    {
+     "page": 581,
+     "text": "When the somatosensory cortex of a human being is destroyed, that person loses most critical tactile sensibilities, but a slight degree of crude tactile sensibility does return."
+    },
+    {
+     "page": 581,
+     "text": "Therefore, it must be assumed that the thalamus (as well as other lower centers) has a slight ability to discriminate tactile sensation, even though the thalamus normally functions mainly to relay this type of information to the cortex."
+    },
+    {
+     "page": 581,
+     "text": "Conversely, loss of the somatosensory cortex has little effect on one’s perception of pain sensation and only a moderate effect on the perception of temperature."
+    },
+    {
+     "page": 581,
+     "text": "Therefore, there is much reason to believe that the lower brain stem, the thalamus, and other associated basal regions of the brain play dominant roles in discrimination of these sensibilities."
+    },
+    {
+     "page": 581,
+     "text": "It is interesting that these sensibilities appeared very early in the phylogenetic development of animals, whereas the critical tactile sensibilities and the somatosensory cortex were late developments."
+    },
+    {
+     "page": 581,
+     "text": "In addition to somatosensory signals transmitted from the periphery to the brain, corticofugal signals are transmitted in the backward direction from the cerebral cortex to the lower sensory relay stations of the thalamus, medulla, and spinal cord; they control the intensity of sensitivity of the sensory input."
+    },
+    {
+     "page": 581,
+     "text": "Corticofugal signals are almost entirely inhibitory, so when sensory input intensity becomes too great, the corticofugal signals automatically decrease transmission in Figure 47-13 Anterior and lateral divisions of the anterolateral sensory pathway."
+    },
+    {
+     "page": 582,
+     "text": "This does two things: First, it decreases lateral spread of the sensory signals into adjacent neurons and, therefore, increases the degree of sharpness in the signal pattern."
+    },
+    {
+     "page": 582,
+     "text": "Second, it keeps the sensory system operating in a range of sensitivity that is not so low that the signals are ineffectual nor so high that the system is swamped beyond its capacity to differentiate sensory patterns."
+    },
+    {
+     "page": 582,
+     "text": "This principle of corticofugal sensory control is used by all sensory systems, not only the somatic system, as explained in subsequent chapters."
+    },
+    {
+     "page": 582,
+     "text": "Each spinal nerve innervates a “segmental field” of the skin called a dermatome."
+    },
+    {
+     "page": 582,
+     "text": "The different dermatomes are shown in Figure 47-14."
+    },
+    {
+     "page": 582,
+     "text": "They are shown in the figure as if there were distinct borders between the adjacent dermatomes, which is far from true because much overlap exists from segment to segment."
+    },
+    {
+     "page": 582,
+     "text": "The figure shows that the anal region of the body lies in the dermatome of the most distal cord segment, dermatome S5."
+    },
+    {
+     "page": 582,
+     "text": "In the embryo, this is the tail region and the most distal portion of the body."
+    },
+    {
+     "page": 582,
+     "text": "The legs originate embryologically from the lumbar and upper sacral segments (L2 to S3), rather than from the distal sacral segments, which is evident from the dermatomal map."
+    },
+    {
+     "page": 582,
+     "text": "One can use a dermatomal map as shown in Figure 47-14 to determine the level in the spinal cord at which a cord injury has occurred when the peripheral sensations are disturbed by the injury."
+    },
+    {
+     "page": 582,
+     "text": "Baker SN: Oscillatory interactions between sensorimotor cortex and the periphery, Curr Opin Neurobiol 17:649, 2007."
+    },
+    {
+     "page": 582,
+     "text": "Bosco G, Poppele RE: Proprioception from a spinocerebellar perspective, Physiol Rev 81:539, 2001."
+    },
+    {
+     "page": 582,
+     "text": "Cohen YE, Andersen RA: A common reference frame for movement plans in the posterior parietal cortex, Nat Rev Neurosci 3:553, 2002."
+    },
+    {
+     "page": 582,
+     "text": "Craig AD: Pain mechanisms: labeled lines versus convergence in central processing, Annu Rev Neurosci 26:1, 2003."
+    },
+    {
+     "page": 582,
+     "text": "Fontanini A, Katz DB: Behavioral states, network states, and sensory response variability, J Neurophysiol 100:1160, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Fox K: Experience-dependent plasticity mechanisms for neural rehabilitation in somatosensory cortex, Philos Trans R Soc Lond B Biol Sci 364:369, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Hsiao S: Central mechanisms of tactile shape perception, Curr Opin Neurobiol 18:418, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Johansson RS, Flanagan JR: Coding and use of tactile signals from the fingertips in object manipulation tasks, Nat Rev Neurosci 10:345, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Kaas JH: The evolution of the complex sensory and motor systems of the human brain, Brain Res Bull 75:384, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Kaas JH, Qi HX, Burish MJ, et al: Cortical and subcortical plasticity in the brains of humans, primates, and rats after damage to sensory afferents in the dorsal columns of the spinal cord, Exp Neurol 209:407, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Knutsen PM, Ahissar E: Orthogonal coding of object location, Trends Neurosci 32:101, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Pelli DG, Tillman KA: The uncrowded window of object recognition, Nat Neurosci 11:1129, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Suga N, Ma X: Multiparametric corticofugal modulation and plasticity in the auditory system, Nat Rev Neurosci 4:783, 2003."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "dermatomes": {
+   "heading": "Segmental Fields of Sensation—Dermatomes",
+   "chapter": 47,
+   "found": true,
+   "page_start": 582,
+   "page_end": 582,
+   "sentences": [
+    {
+     "page": 582,
+     "text": "Each spinal nerve innervates a “segmental field” of the skin called a dermatome."
+    },
+    {
+     "page": 582,
+     "text": "The different dermatomes are shown in Figure 47-14."
+    },
+    {
+     "page": 582,
+     "text": "They are shown in the figure as if there were distinct borders between the adjacent dermatomes, which is far from true because much overlap exists from segment to segment."
+    },
+    {
+     "page": 582,
+     "text": "The figure shows that the anal region of the body lies in the dermatome of the most distal cord segment, dermatome S5."
+    },
+    {
+     "page": 582,
+     "text": "In the embryo, this is the tail region and the most distal portion of the body."
+    },
+    {
+     "page": 582,
+     "text": "The legs originate embryologically from the lumbar and upper sacral segments (L2 to S3), rather than from the distal sacral segments, which is evident from the dermatomal map."
+    },
+    {
+     "page": 582,
+     "text": "One can use a dermatomal map as shown in Figure 47-14 to determine the level in the spinal cord at which a cord injury has occurred when the peripheral sensations are disturbed by the injury."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}
