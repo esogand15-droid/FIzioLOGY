@@ -205,7 +205,7 @@ SESSIONS = {
               "آفازی‌ها (۱۳ تا ۱۸) به‌همراه گردآوری. این تقسیم پیشنهاد است، نه تصمیم "
               "نهایی تیم.",
         outline="s10_topics.json",
-        content=("s10_a.json", "s10_b.json", "s10_c.json"),
+        content=("s10_a.json", "s10_b.json", "s10_c.json", "s10_d.json"),
         guyton="guyton_s10_excerpts.json",
         chapter_anchor="ch-s10",
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
@@ -392,6 +392,8 @@ def deck_short(cfg: dict) -> str:
 
 def pages_1402(t: dict) -> str:
     """1402 pages of a topic; sessions with two decks show the part of each page."""
+    if t.get("supp"):
+        return f"«{t['supp']['label']}» ص {page_range(t['supp']['pages'])}"
     if t.get("notes1402_p2"):
         return (f"پارت ۱: {page_range(t.get('notes1402', []))} · "
                 f"پارت ۲: {page_range(t['notes1402_p2'])}")
@@ -701,7 +703,10 @@ def topic_head(book: PDFBook, t: dict, idx: int, total: int, outline: dict,
     book.ensure(120)
     book.h2(t["title"], anchor=anchor)
     pre = "؛ ".join(f"مبحث {tno(p['topic_id'])} — {p.get('level','')}" for p in t["prerequisites"])
-    if t.get("notes1402_p2") and t.get("notes1402"):
+    if t.get("supp"):
+        src_pages = (f"نکات تکمیلی «{t['supp']['label']}»: "
+                     f"ص {page_range(t['supp']['pages'])}")
+    elif t.get("notes1402_p2") and t.get("notes1402"):
         src_pages = (f"صفحه‌های {deck_label(cfg)}: پارت ۱ ص {page_range(t.get('notes1402', []))} · "
                      f"پارت ۲ ص {page_range(t['notes1402_p2'])}")
     elif t.get("notes1402_p2"):
@@ -752,6 +757,8 @@ def render_blocks(book: PDFBook, blocks, gsections: dict) -> None:
                             accent=K.TEAL, tint=K.TEAL_LL,
                             kicker=b.get("kicker", ""), footer=b.get("footer", ""))
         elif kind == "handoff":
+            # the delivery sheet is one box: never let it split across two pages
+            book.ensure(185)
             book.label_card(b.get("title", "برگهٔ تحویل مبحث"), b.get("rows", []),
                             accent=K.AMBER, tint=K.AMBER_BG,
                             kicker=b.get("kicker", ""), tick=True,
@@ -964,7 +971,8 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
          cfg["chapter_anchor"], 0),
     ]
     for i, t in enumerate(outline["topics"], start=1):
-        toc_rows.append((f"{i:02d}", t["title"], t["topic_id"], 1))
+        num = (f"ت{fa(t['supp']['index'])}" if t.get("supp") else f"{i:02d}")
+        toc_rows.append((num, t["title"], t["topic_id"], 1))
     toc_rows += [
         ("ر", "نقشهٔ جلسات آینده", "roadmap", 0),
         ("ر", (f"پوشش صفحه‌های {deck_label(SESSIONS[SESSION])}" if cfg.get("no1404")
@@ -993,7 +1001,18 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
              "پیش‌نویس ویرایشی — بازبینی علمی در جریان"])
     chapter_opener(book, outline, {"sections": guyton}, cfg)
 
+    supp_open = False
     for i, t in enumerate(outline["topics"], start=1):
+        if t.get("supp") and not supp_open:
+            supp_open = True
+            sup = t["supp"]
+            divider(book, "بخش تکمیلی · نکات دکتر قدیری",
+                    "نکات تکمیلی\nو آنچه در جزوهٔ\nرسمی نبود",
+                    sup.get("divider_sub", "جزوه‌های تکمیلی دکتر قدیری (مهر ۱۴۰۳)"),
+                    [sup.get("bullets", "متن این بخش از جزوهٔ تکمیلی است، نه از جزوهٔ درس رسمی؛ "
+                                        "هر مبحث ارجاع صفحهٔ خودش را دارد."),
+                     "جای این نکات در مبحث‌های قبلی همین سند علامت‌گذاری شده است.",
+                     "طرح و بخش‌بندی، همان طرح تأییدشدهٔ جزوه است."])
         topic_head(book, t, i, len(outline["topics"]), outline, cfg)
         render_blocks(book, content.get(t["topic_id"], []), guyton)
 

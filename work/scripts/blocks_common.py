@@ -72,8 +72,9 @@ def note(size, title):
     return {"type": "note", "size": size, "title": title}
 
 
-def idcard(n, why, goals, prereq, suggested, terms, footer):
-    return {"type": "idcard", "title": f"شناسنامهٔ آموزشی — مبحث {n}",
+def idcard(n, why, goals, prereq, suggested, terms, footer, label=None):
+    lab = label or f"مبحث {n}"
+    return {"type": "idcard", "title": f"شناسنامهٔ آموزشی — {lab}",
             "kicker": "قبل از شروع این مبحث بخوانید",
             "rows": [
                 {"label": "چرا این مبحث مهم است", "text": why},
@@ -86,7 +87,8 @@ def idcard(n, why, goals, prereq, suggested, terms, footer):
             "src": "نقشهٔ مباحث و پیش‌نیازهای همین جزوه"}
 
 
-def handoff(n, title, sources, checks, extra=""):
+def handoff(n, title, sources, checks, extra="", label=None):
+    lab = label or f"مبحث {n}"
     rows = [
         {"label": "نویسنده و بازبین علمی",
          "text": "نویسنده: ……………………………   بازبین علمی: ……………………………"},
@@ -95,7 +97,7 @@ def handoff(n, title, sources, checks, extra=""):
     ]
     if extra:
         rows.append({"label": "یادداشت گردآورنده", "text": extra})
-    return {"type": "handoff", "title": f"برگهٔ تحویل — مبحث {n}: {title}",
+    return {"type": "handoff", "title": f"برگهٔ تحویل — {lab}: {title}",
             "kicker": "این برگه را نویسندهٔ مبحث پر می‌کند", "rows": rows,
             "src": "برگهٔ تحویل تیم یادداشت‌نویسی"}
 
