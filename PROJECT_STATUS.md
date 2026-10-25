@@ -15,7 +15,7 @@
 | `pdf/HumsYar_Neuro_Jalase8.pdf` (جلسهٔ ۸) | ۶۱ | ۱۰٬۸۶۸٬۰۳۳ | `ce57e301…8db97597` | `reports/S08_QA_REPORT.md` — `blocks=233 figures=24 embedded=24 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase9.pdf` (جلسهٔ ۹) | ۷۶ | ۸٬۳۷۰٬۵۲۷ | `ca070721…83fe62` | `reports/S09_QA_REPORT.md` — `blocks=286 figures=26 embedded=26 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase10.pdf` (جلسهٔ ۱۰ — با بخش تکمیلی) | ۶۵ | ۴٬۸۷۶٬۱۱۸ | `4b9170c1…683212` | `reports/S10_QA_REPORT.md` — `blocks=273 figures=12 embedded=12 problems=0 warnings=0` |
-| `pdf/HumsYar_Neuro_Jalase11.pdf` (جلسهٔ ۱۱) | ۳۳ | — | — | `reports/S11_QA_REPORT.md` — `blocks=127 problems=0 warnings=0` |
+| `pdf/HumsYar_Neuro_Jalase11.pdf` (جلسهٔ ۱۱ — با بخش تکمیلی) | ۴۷ | ۳۳۵٬۱۶۵ | `3c8b0f84…06801b` | `reports/S11_QA_REPORT.md` — `blocks=187 figures=0 embedded=0 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase12.pdf` (جلسهٔ ۱۲) | ۳۸ | ۲۸۹٬۷۷۳ | `0a3c28dc…e932` | `reports/S12_QA_REPORT.md` — `blocks=133 figures=0 embedded=0 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase13.pdf` (جلسهٔ ۱۳) | ۴۲ | ۶٬۲۴۲٬۷۵۱ | `61809911…8850ae1` | `reports/S13_QA_REPORT.md` — `blocks=131 figures=12 embedded=12 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase14.pdf` (جلسهٔ ۱۴) | ۵۰ | ۸٬۰۷۷٬۴۱۰ | `dca7269e…c46e83` | `reports/S14_QA_REPORT.md` — `blocks=169 figures=17 embedded=17 problems=0 warnings=0` |
@@ -1007,6 +1007,17 @@
 - **QA (اجرا روی فایل واقعی):** ۶۵ صفحه، ۴٬۸۷۶٬۵۵۵ بایت، `sha256 4b9170c1d90a2b00d96de9d8e212f114d5e8f57eef64b1dd31449e35ab683212`، `blocks=273 figures=12 embedded=12 problems=0 warnings=0`.
 - تغییرهای فنی: `pages_1402`/`topic_head` شاخهٔ `supp`؛ ستون «ص منبع» در نقشهٔ درخت مباحث برای جلسه‌های دارای مبحث تکمیلی؛ جداکنندهٔ بخش پیش از نخستین مبحث تکمیلی؛ `ensure(185)` پیش از برگهٔ تحویل (کارت دیگر بین دو صفحه نصف نمی‌شود)؛ `idcard()`/`handoff()` پارامتر `label`؛ ثبت `s10_d.json` در `build_master` و `qa_report`.
 - نقشهٔ کامل باقی‌مانده‌ها (۱۰۷ صفحهٔ تکمیلی در صف + ۴۷ صفحهٔ استفاده‌نشدهٔ جزوه‌های رسمی، از ۱۲۳ و ۴۷ صفحهٔ یگانه) با مقصد هر صفحه: **`reports/AUDIT_OFFICIAL_PLAN.md` §۳**.
+
+---
+
+## ۲-چ. نشست ۲۰ — «نکات تکمیلی دکتر قدیری» در جلسهٔ ۱۱ (لیمبیک)
+
+- منبع: `تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه چهارم دکتر قدیری.pdf` (۱۳ صفحه، مهر ۱۴۰۳).
+- **همهٔ صفحه‌های ۲ تا ۱۳ تخصیص یافته‌اند** (`mk_s11_supp.py`: `unused pages: []`).
+- شش مبحث تازه (۱۹ در کل): سامانهٔ لیمبیک و اجزایش (ص۲–۴)، هسته‌های هیپوتالاموس و محور هورمونی (۴–۶)، اتونوم/دما/تغذیه و قاعدهٔ تحریک–تخریب (۷–۹)، خواب و خشم و مرز هیپوتالاموس با آمیگدال (۸–۱۰)، آمیگدال و سندرم کلور–بوسی (۱۰–۱۲)، هیپوکامپ و رمزگذاری (۱۳).
+- آنچه در جزوهٔ رسمی نبود و اکنون هست: جدول هسته–هورمون (پاراونتریکولار/اکسیتوسین، سوپرااپتیک/ADH)، سندرم کالمن، شش نشانهٔ کلور–بوسی با علل، تفکیک خشم هیپوتالاموسی از خشم آمیگدالی، و قاعدهٔ یک‌طرفهٔ حافظه/یادگیری.
+- عدد: ۳۳ → **۴۷ صفحه** · مبحث ۱۳ → **۱۹** · بلوک ۱۲۷ → **۱۸۷**. `QA: problems=0 warnings=0` (شکل: ۰ — جزوهٔ منبع شکل ندارد).
+- سند جلسهٔ ۱۱ هم مثل جلسهٔ ۱۰ فاقد شکل است؛ این نقص از قبل وجود داشت و با این افزودن برطرف نشد (کمبود شکل منبع است، نه ویرایش).
 
 ---
 

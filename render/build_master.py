@@ -228,7 +228,7 @@ SESSIONS = {
               "تصمیم نهایی تیم.",
         deck_desc="متن پایهٔ این جلسه: تعریف و اجزای سیستم لیمبیک، جایگاه هیپوتالاموس، رفتار و پاداش و تنبیه، هیپوکامپ، آمیگدال و اختلالات روانی.",
         outline="s11_topics.json",
-        content=("s11_a.json", "s11_b.json", "s11_c.json"),
+        content=("s11_a.json", "s11_b.json", "s11_c.json", "s11_d.json"),
         guyton="guyton_s11_excerpts.json",
         chapter_anchor="ch-s11",
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],

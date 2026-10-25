@@ -444,6 +444,8 @@ class PDFBook:
     def bullets(self, items, style: TextStyle | None = None, level: int = 0) -> None:
         self._touch()
         style = style or TextStyle(size=10.4, leading=17.6, justify=False)
+        # never leave a single bullet alone at the foot of a page
+        self.ensure(min(len(items), 2) * style.leading + 8)
         for item in items:
             indent = 16 + level * 14
             lines = self.wrap(item, style.font, style.size, CONTENT_W - indent - 4)
@@ -466,6 +468,8 @@ class PDFBook:
     def numbered(self, items, style: TextStyle | None = None, start: int = 1) -> None:
         self._touch()
         style = style or TextStyle(size=10.4, leading=17.6, justify=False)
+        # never leave a single numbered item alone at the foot of a page
+        self.ensure(min(len(items), 2) * style.leading + 8)
         for idx, item in enumerate(items, start=start):
             num = str(idx).translate(FA_DIGITS)
             lines = self.wrap(item, style.font, style.size, CONTENT_W - 30)
