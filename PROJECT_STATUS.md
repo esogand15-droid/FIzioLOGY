@@ -14,7 +14,7 @@
 | `pdf/HumsYar_Neuro_Jalase7.pdf` (جلسهٔ ۷) | ۸۴ | ۱۷٬۲۶۰٬۴۲۷ | `e43ee896…f6db81b964` | `reports/S07_QA_REPORT.md` — `blocks=254 figures=49 embedded=49 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase8.pdf` (جلسهٔ ۸) | ۶۱ | ۱۰٬۸۶۸٬۰۳۳ | `ce57e301…8db97597` | `reports/S08_QA_REPORT.md` — `blocks=233 figures=24 embedded=24 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase9.pdf` (جلسهٔ ۹) | ۷۶ | ۸٬۳۷۰٬۵۲۷ | `ca070721…83fe62` | `reports/S09_QA_REPORT.md` — `blocks=286 figures=26 embedded=26 problems=0 warnings=0` |
-| `pdf/HumsYar_Neuro_Jalase10.pdf` (جلسهٔ ۱۰ — با بخش تکمیلی) | ۶۵ | ۴٬۸۷۶٬۵۵۵ | `0c4675c5…213a0e` | `reports/S10_QA_REPORT.md` — `blocks=273 figures=12 embedded=12 problems=0 warnings=0` |
+| `pdf/HumsYar_Neuro_Jalase10.pdf` (جلسهٔ ۱۰ — با بخش تکمیلی) | ۶۵ | ۴٬۸۷۶٬۱۱۸ | `4b9170c1…683212` | `reports/S10_QA_REPORT.md` — `blocks=273 figures=12 embedded=12 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase11.pdf` (جلسهٔ ۱۱) | ۳۳ | — | — | `reports/S11_QA_REPORT.md` — `blocks=127 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase12.pdf` (جلسهٔ ۱۲) | ۳۸ | ۲۸۹٬۷۷۳ | `0a3c28dc…e932` | `reports/S12_QA_REPORT.md` — `blocks=133 figures=0 embedded=0 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase13.pdf` (جلسهٔ ۱۳) | ۴۲ | ۶٬۲۴۲٬۷۵۱ | `61809911…8850ae1` | `reports/S13_QA_REPORT.md` — `blocks=131 figures=12 embedded=12 problems=0 warnings=0` |
@@ -1004,8 +1004,8 @@
 - شش مبحث تازه (۲۴ مبحث در کل): اختصاص عمل نیمکره‌ها (ص۲–۵)، از تجربهٔ حسی تا حافظه (ص۵–۸)، تثبیت حافظه و هیپوکامپ (ص۸–۱۱)، عادت کردن و حساس شدن (ص۱۰–۱۲)، فراموشی/دمانس/آلزایمر (ص۱۲–۱۳)، زنجیرهٔ تکلم و چهار آفازی (ص۱۳–۱۷).
 - بخش تازه یک صفحهٔ جداکننده دارد («بخش تکمیلی · نکات دکتر قدیری») و در فهرست مطالب با شمارهٔ «ت۱…ت۶» می‌آید تا با مبحث‌های رسمی جلسه قاطی نشود.
 - در مبحث ۱۷ (نیمکرهٔ غالب) کادر ارجاع به «نکتهٔ تکمیلی ۱» اضافه شد.
-- **QA (اجرا روی فایل واقعی):** ۶۵ صفحه، ۴٬۸۷۶٬۵۵۵ بایت، `sha256 0c4675c5270d31ab3fccd9d14d686b2beea830c1d2ebf880f40c604bc2213a0e`، `blocks=273 figures=12 embedded=12 problems=0 warnings=0`.
-- تغییرهای فنی: `pages_1402`/`topic_head` شاخهٔ `supp`؛ جداکنندهٔ بخش پیش از نخستین مبحث تکمیلی؛ `ensure(185)` پیش از برگهٔ تحویل (کارت دیگر بین دو صفحه نصف نمی‌شود)؛ `idcard()`/`handoff()` پارامتر `label`؛ ثبت `s10_d.json` در `build_master` و `qa_report`.
+- **QA (اجرا روی فایل واقعی):** ۶۵ صفحه، ۴٬۸۷۶٬۵۵۵ بایت، `sha256 4b9170c1d90a2b00d96de9d8e212f114d5e8f57eef64b1dd31449e35ab683212`، `blocks=273 figures=12 embedded=12 problems=0 warnings=0`.
+- تغییرهای فنی: `pages_1402`/`topic_head` شاخهٔ `supp`؛ ستون «ص منبع» در نقشهٔ درخت مباحث برای جلسه‌های دارای مبحث تکمیلی؛ جداکنندهٔ بخش پیش از نخستین مبحث تکمیلی؛ `ensure(185)` پیش از برگهٔ تحویل (کارت دیگر بین دو صفحه نصف نمی‌شود)؛ `idcard()`/`handoff()` پارامتر `label`؛ ثبت `s10_d.json` در `build_master` و `qa_report`.
 - نقشهٔ کامل باقی‌مانده‌ها (۱۰۷ صفحهٔ تکمیلی در صف + ۴۷ صفحهٔ استفاده‌نشدهٔ جزوه‌های رسمی، از ۱۲۳ و ۴۷ صفحهٔ یگانه) با مقصد هر صفحه: **`reports/AUDIT_OFFICIAL_PLAN.md` §۳**.
 
 ---

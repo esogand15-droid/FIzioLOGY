@@ -393,7 +393,7 @@ def deck_short(cfg: dict) -> str:
 def pages_1402(t: dict) -> str:
     """1402 pages of a topic; sessions with two decks show the part of each page."""
     if t.get("supp"):
-        return f"«{t['supp']['label']}» ص {page_range(t['supp']['pages'])}"
+        return f"قدیری: {page_range(t['supp']['pages'])}"
     if t.get("notes1402_p2"):
         return (f"پارت ۱: {page_range(t.get('notes1402', []))} · "
                 f"پارت ۲: {page_range(t['notes1402_p2'])}")
@@ -671,7 +671,8 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
         rows.append([tno(t["topic_id"]), sub, pages_1402(t),
                      {"small": "کوچک", "medium": "متوسط", "large": "بزرگ"}
                      .get(t.get("notes_size"), "متوسط")])
-    book.table(["#", "مبحث", f"ص {deck_short(cfg)}", "حجم"], rows,
+    has_supp = any(t.get("supp") for t in outline["topics"])
+    book.table(["#", "مبحث", "ص منبع" if has_supp else f"ص {deck_short(cfg)}", "حجم"], rows,
                widths=[CONTENT_W * 0.08, CONTENT_W * 0.68, CONTENT_W * 0.16, CONTENT_W * 0.08],
                size=8.2,
                caption=f"جدول {cfg['num']}-۰ — {fa(len(outline['topics']))} مبحث جلسهٔ {cfg['num']}. "
