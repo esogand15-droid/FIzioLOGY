@@ -128,6 +128,24 @@ SESSIONS = {
         divider_title="نوروفیزیولوژی:\nاز صدا\nتا فهم صدا",
         pdf_name="HumsYar_Neuro_Jalase6.pdf",
     ),
+    "s07": dict(
+        num="۷", n=7, of="۱۶",
+        guyton_ch="فصل‌های ۵۴ و ۵۵",
+        no1404=True,
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر برای آناتومی نخاع، نورون حرکتی و "
+              "واحد حرکتی (۱ تا ۶)، دو نفر برای دوک عضلانی و رفلکس کشش (۷ تا ۱۲)، دو نفر "
+              "برای مهار متقابل، اندام وتری و رفلکس‌های نخاعی (۱۳ تا ۲۲)، دو نفر برای قشر "
+              "حرکتی و مسیرهای نزولی و ضایعات (۲۳ تا ۲۸) به‌همراه گردآوری. این تقسیم "
+              "پیشنهاد است، نه تصمیم نهایی تیم.",
+        outline="s07_topics.json",
+        content=("s07_a.json", "s07_b.json", "s07_c.json"),
+        guyton="guyton_s07_excerpts.json",
+        chapter_anchor="ch-s07",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="نخاع، رفلکس‌های نخاعی و مسیرهای نزولی",
+        divider_title="نوروفیزیولوژی:\nاز قوس رفلکس\nتا مسیر نزولی",
+        pdf_name="HumsYar_Neuro_Jalase7.pdf",
+    ),
 }
 
 SESSION = "s01"
@@ -180,6 +198,14 @@ def tno(tid: str) -> str:
 def page_range(pages) -> str:
     """Printed list of 1402 pages; an empty list means the deck has none for that topic."""
     return "، ".join(fa(p) for p in pages) if pages else "—"
+
+
+def pages_1402(t: dict) -> str:
+    """1402 pages of a topic; sessions with two decks show the part of each page."""
+    if t.get("notes1402_p2"):
+        return (f"پارت ۱: {page_range(t.get('notes1402', []))} · "
+                f"پارت ۲: {page_range(t['notes1402_p2'])}")
+    return page_range(t.get("notes1402", []))
 
 
 def cover_page(book: PDFBook, cfg: dict, outline: dict) -> None:
@@ -260,9 +286,27 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
     ])
 
     book.h2("منابعی که این جزوه بر آن‌ها بنا شده", anchor="front-sources")
-    book.table(
-        ["منبع", "چه چیزی از آن در این جزوه آمده", "شکل ارجاع در متن"],
-        [
+    if cfg.get("no1404"):
+        source_rows = [
+            ["جزوهٔ بهمن ۱۴۰۲ (نوشتهٔ دانشجوی سال‌بالاتر) — پارت ۱",
+             "متن پایهٔ نیمهٔ نخست این جلسه: آناتومی نخاع، واحد حرکتی، دوک عضلانی، "
+             "رفلکس‌های کشش و خم‌کننده، رفلکس‌های نخاعی و شوک نخاعی.",
+             "«جزوهٔ بهمن ۱۴۰۲ (پارت ۱)، ص …»"],
+            ["جزوهٔ بهمن ۱۴۰۲ (نوشتهٔ دانشجوی سال‌بالاتر) — پارت ۲",
+             "تکرار رفلکس‌های نخاعی با شکل‌های تازه، سپس قشر حرکتی، مسیرهای نزولی و ضایعات.",
+             "«جزوهٔ بهمن ۱۴۰۲ (پارت ۲)، ص …»"],
+            ["اسلایدهای انگلیسی کلاس",
+             "جدول‌ها، فهرست‌ها و شکل‌های اصلی درس (منبع اولویت‌دار برای شکل‌ها).",
+             "«اسلاید کلاس، ص …»"],
+            [GUYTON_ED,
+             f"متن اصلی انگلیسی {cfg['guyton_ch']}، همراه با ترجمهٔ روان تحریریه در همان کادر.",
+             "«گایتون، فصل …، ص …»"],
+            ["جزوات تکمیلی دکتر قدیری",
+             "منبع کمکی برای جلسات بعد؛ در این نسخه استفاده نشده است.",
+             "—"],
+        ]
+    else:
+        source_rows = [
             ["جزوهٔ مهر ۱۴۰۴ — دکتر خوارزمی",
              "متن پایهٔ همهٔ مباحث؛ ترتیب و دسته‌بندی مطالب هم از آن گرفته شده است.",
              "«جزوهٔ مهر ۱۴۰۴، ص …»"],
@@ -278,7 +322,10 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
             ["جزوات تکمیلی دکتر قدیری",
              "منبع کمکی برای جلسات بعد؛ در این نسخه استفاده نشده است.",
              "—"],
-        ],
+        ]
+    book.table(
+        ["منبع", "چه چیزی از آن در این جزوه آمده", "شکل ارجاع در متن"],
+        source_rows,
         widths=[CONTENT_W * 0.34, CONTENT_W * 0.40, CONTENT_W * 0.26],
         size=8.3,
         caption="جدول ۰-۱ — منابع این جلسه و شکل ارجاع به آن‌ها در متن.",
@@ -302,16 +349,20 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
         "تا اختلاف دیده شود.", kind="warn", title="وضعیت این نسخه")
     book.h3("دو نکتهٔ ویرایشی که در خواندن به آن برمی‌خورید")
     book.bullets([
-        "املای چند واژه در جزوهٔ ۱۴۰۴ اشتباه تایپ شده است (مثلاً «اطالعات» به‌جای «اطلاعات» یا "
-        "«عضالت» به‌جای «عضلات»). در این جزوه املای درست نوشته شده؛ اگر جایی از منبع عیناً "
-        "نقل شده و املا نادرست است، در همان جمله اصلاح شده است.",
-        "صفحه‌های جزوهٔ ۱۴۰۲ با خواندن تصویر همان صفحه به متن فارسی برگردانده شده‌اند. اگر "
-        "عبارتی روی صفحه ناخوانا یا بریده بوده، به‌جای حدس زدن، در متن «…» گذاشته شده و در "
-        "همان مبحث یادداشت شده است."
-        if any(t.get("notes1402") for t in outline["topics"]) else
-        "جزوهٔ ورودی «جلسه ۵» بهمن ۱۴۰۲ در سیزده صفحه به درد و سردرد می‌پردازد و محتوای "
-        "بینایی ندارد؛ بنابراین در این سند هیچ ارجاعی به ۱۴۰۲ نیامده و همهٔ مباحث فقط بر "
-        "جزوهٔ مهر ۱۴۰۴ و گایتون فصل‌های ۵۰ و ۵۱ استوارند.",
+        ("صفحه‌های جزوهٔ بهمن ۱۴۰۲ در این جلسه بدون لایهٔ متن قابل استفاده بوده‌اند؛ متن آن‌ها "
+         "با خواندن تصویر همان صفحه به فارسی برگردانده شده است. اگر عبارتی روی صفحه ناخوانا یا "
+         "بریده بوده، به‌جای حدس زدن، در متن «…» گذاشته شده و در همان مبحث یادداشت شده است."
+         if cfg.get("no1404") else
+         "املای چند واژه در جزوهٔ ۱۴۰۴ اشتباه تایپ شده است (مثلاً «اطالعات» به‌جای «اطلاعات» یا "
+         "«عضالت» به‌جای «عضلات»). در این جزوه املای درست نوشته شده؛ اگر جایی از منبع عیناً "
+         "نقل شده و املا نادرست است، در همان جمله اصلاح شده است."),
+        ("این جلسه جزوهٔ مهر ۱۴۰۴ ندارد؛ بنابراین در تمام سند هیچ ارجاعی به ۱۴۰۴ نیامده و متن "
+         "فقط بر دو پارت جزوهٔ بهمن ۱۴۰۲ و گایتون فصل‌های ۵۴ و ۵۵ استوار است. دو پارت هر دو از "
+         "صفحهٔ ۱ شروع می‌شوند، پس شمارهٔ پارت همیشه در ارجاع نوشته شده است."
+         if cfg.get("no1404") else
+         "صفحه‌های جزوهٔ ۱۴۰۲ با خواندن تصویر همان صفحه به متن فارسی برگردانده شده‌اند. اگر "
+         "عبارتی روی صفحه ناخوانا یا بریده بوده، به‌جای حدس زدن، در متن «…» گذاشته شده و در "
+         "همان مبحث یادداشت شده است."),
     ])
 
 
@@ -327,7 +378,7 @@ def work_division(book: PDFBook, outline: dict, cfg: dict) -> None:
         pre = "، ".join(f"مبحث {tno(p['topic_id'])} ({p.get('level', '')})"
                         for p in t["prerequisites"]) or "—"
         rows.append([tno(t["topic_id"]), t["title"],
-                     page_range(t["notes1402"]), pre, "⋯"])
+                     pages_1402(t), pre, "⋯"])
     book.table(["#", "مبحث", "ص ۱۴۰۲", "پیش‌نیاز", "نویسنده"],
                rows, widths=[CONTENT_W * 0.07, CONTENT_W * 0.55, CONTENT_W * 0.14,
                              CONTENT_W * 0.15, CONTENT_W * 0.09],
@@ -360,18 +411,30 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
     p1402 = [p for t in outline["topics"] for p in t.get("notes1402", [])]
     rng04 = (f"صفحه‌های {fa(min(p1404))} تا {fa(max(p1404))}") if p1404 else "—"
     rng02 = (f"{fa(max(p1402))} صفحه") if p1402 else "—"
-    src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
-                f"منبع اصلی متن: جزوهٔ مهر ۱۴۰۴ ({rng04})")
-    if p1402:
-        src_line += f" · منبع دوم: جزوهٔ ورودی بهمن ۱۴۰۲ ({rng02})."
+    if cfg.get("no1404"):
+        parts = []
+        if p1402:
+            parts.append(f"پارت ۱ در {fa(max(p1402))} صفحه")
+        p2 = [p for t in outline["topics"] for p in t.get("notes1402_p2", [])]
+        if p2:
+            parts.append(f"پارت ۲ در {fa(max(p2))} صفحه")
+        src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
+                    f"منبع اصلی متن: جزوهٔ بهمن ۱۴۰۲ ({' و '.join(parts)})؛ چون هر پارت "
+                    "شمارهٔ صفحهٔ خودش را دارد، در همهٔ ارجاع‌ها شمارهٔ پارت هم نوشته شده است. "
+                    "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد.")
     else:
-        src_line += " · این جلسه جزوهٔ متناظر ۱۴۰۲ ندارد."
+        src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
+                    f"منبع اصلی متن: جزوهٔ مهر ۱۴۰۴ ({rng04})")
+        if p1402:
+            src_line += f" · منبع دوم: جزوهٔ ورودی بهمن ۱۴۰۲ ({rng02})."
+        else:
+            src_line += " · این جلسه جزوهٔ متناظر ۱۴۰۲ ندارد."
     book.paragraph(src_line + ".")
     book.h2("نقشهٔ درخت مباحث", anchor=f"{cfg['chapter_anchor']}-tree")
     rows = []
     for t in outline["topics"]:
         sub = t["title"]
-        rows.append([tno(t["topic_id"]), sub, page_range(t["notes1402"]), t["notes_size"]])
+        rows.append([tno(t["topic_id"]), sub, pages_1402(t), t["notes_size"]])
     book.table(["#", "مبحث", "ص ۱۴۰۲", "اندازه"], rows,
                widths=[CONTENT_W * 0.08, CONTENT_W * 0.68, CONTENT_W * 0.16, CONTENT_W * 0.08],
                size=8.2,
@@ -400,7 +463,16 @@ def topic_head(book: PDFBook, t: dict, idx: int, total: int, outline: dict) -> N
     anchor = t["topic_id"]
     book.h2(t["title"], anchor=anchor)
     pre = "؛ ".join(f"مبحث {tno(p['topic_id'])} — {p.get('level','')}" for p in t["prerequisites"])
-    meta = f"مبحث {fa(idx)} از {fa(total)} · صفحه‌های جزوهٔ ۱۴۰۴: {page_range(t.get('p1404', []))}"
+    if t.get("notes1402_p2") and t.get("notes1402"):
+        src_pages = (f"صفحه‌های جزوهٔ ۱۴۰۲: پارت ۱ ص {page_range(t.get('notes1402', []))} · "
+                     f"پارت ۲ ص {page_range(t['notes1402_p2'])}")
+    elif t.get("notes1402_p2"):
+        src_pages = f"صفحه‌های جزوهٔ ۱۴۰۲ (پارت ۲): {page_range(t['notes1402_p2'])}"
+    elif outline.get("no1404") or not t.get("p1404"):
+        src_pages = f"صفحه‌های جزوهٔ ۱۴۰۲ (پارت {t.get('notes_part', '۱')}): {page_range(t.get('notes1402', []))}"
+    else:
+        src_pages = f"صفحه‌های جزوهٔ ۱۴۰۴: {page_range(t.get('p1404', []))}"
+    meta = f"مبحث {fa(idx)} از {fa(total)} · {src_pages}"
     if pre:
         meta += " · پیش‌نیاز: " + pre
     book.paragraph(meta, TextStyle(size=8.3, color=K.MUTED, justify=False))
@@ -480,6 +552,11 @@ def roadmap(book: PDFBook, outline: dict, content: dict) -> None:
         "سند جلسه‌های پیشین دست‌نخورده بایگانی می‌شود. جلسه‌های زیر شناسایی شده‌اند و "
         "جزوه/اسلایدشان در اختیار تیم است؛ برای هر جلسه همان مسیر تکرار می‌شود: شناسنامه، "
         "متن با ارجاع، شکل‌ها، جمع‌بندی، کادرهای یادداشت و برگهٔ تحویل.")
+    if cfg.get("no1404"):
+        book.h2("پوشش صفحه‌های جزوهٔ ۱۴۰۲ در این نسخه", anchor="roadmap-cover")
+        _coverage_1402(book, outline, cfg)
+        _remaining_sessions(book, cfg)
+        return
     book.h2("پوشش صفحه‌های جزوهٔ ۱۴۰۴ در این نسخه", anchor="roadmap-cover")
     per_page = {}
     for t in outline["topics"]:
@@ -509,6 +586,35 @@ def roadmap(book: PDFBook, outline: dict, content: dict) -> None:
                                                    if uncovered == 0 else ""),
                src="مقایسهٔ صفحه‌به‌صفحهٔ جزوه و مباحث این سند")
 
+    _remaining_sessions(book, cfg)
+
+
+def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
+    """Page coverage of a session whose source is two 1402 decks, each from page 1."""
+    book.paragraph("منبع این جلسه دو پارت جزوهٔ بهمن ۱۴۰۲ است و هر پارت شمارهٔ صفحهٔ خودش را "
+                   "دارد؛ بنابراین پوشش را برای هر پارت جدا می‌آوریم.")
+    for part, key in (("۱", "notes1402"), ("۲", "notes1402_p2")):
+        per_page = {}
+        for t in outline["topics"]:
+            for pg in t.get(key, []):
+                per_page.setdefault(pg, []).append(tno(t["topic_id"]))
+        if not per_page:
+            continue
+        lo_pg, hi_pg = min(per_page), max(per_page)
+        rows = []
+        for pg in range(lo_pg, hi_pg + 1):
+            rows.append([fa(pg), "، ".join(per_page.get(pg, [])) or "— بدون مبحث —"])
+        gaps = sum(1 for pg in range(lo_pg, hi_pg + 1) if pg not in per_page)
+        book.table(["صفحهٔ پارت " + part, "مبحث این جزوه"], rows,
+                   widths=[CONTENT_W * 0.22, CONTENT_W * 0.78], size=7.6,
+                   caption=f"جدول {cfg['num']}-۱ — صفحه‌های {fa(lo_pg)} تا {fa(hi_pg)} پارت {part} "
+                           "جزوهٔ بهمن ۱۴۰۲ و مبحثی که آن‌ها را پوشش می‌دهد."
+                           + ("" if gaps else " در این بازه صفحهٔ بدون مبحث نمانده است."),
+                   src="مقایسهٔ صفحه‌به‌صفحهٔ جزوه و مباحث این سند")
+        book.spacer(4)
+
+
+def _remaining_sessions(book: PDFBook, cfg: dict) -> None:
     book.h2("جلسه‌های باقی‌مانده", anchor="roadmap-sessions")
     remaining = [
         ["۲", "سیناپس، پتانسیل عمل و هدایت عصبی", "دارد", "دارد"],

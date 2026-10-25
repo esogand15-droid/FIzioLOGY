@@ -1,0 +1,1912 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "s7_organization": {
+   "heading": "Organization of the Spinal Cord",
+   "chapter": 54,
+   "found": true,
+   "page_start": 655,
+   "page_end": 656,
+   "sentences": [
+    {
+     "page": 655,
+     "text": "Figure 54-1 shows the typical organization of the cord gray matter in a single cord segment."
+    },
+    {
+     "page": 655,
+     "text": "Sensory signals enter the cord almost entirely through the sensory (posterior) roots."
+    },
+    {
+     "page": 655,
+     "text": "After entering the cord, every sensory signal travels to two separate destinations: (1) One branch of the sensory nerve terminates almost immediately in the gray matter of the cord and elicits local segmental cord reflexes and other local effects."
+    },
+    {
+     "page": 655,
+     "text": "(2) Another branch transmits signals to higher levels of the nervous system—to higher levels in the cord itself, to the brain stem, or even to the cerebral cortex, as described in earlier chapters."
+    },
+    {
+     "page": 655,
+     "text": "Each segment of the spinal cord (at the level of each spinal nerve) has several million neurons in its gray matter."
+    },
+    {
+     "page": 655,
+     "text": "Aside from the sensory relay neurons discussed in Chapters 47 and 48, the other neurons are of two types: (1) anterior motor neurons and (2) interneurons."
+    },
+    {
+     "page": 655,
+     "text": "They give rise to the nerve fibers that leave the cord by way of the anterior roots and directly innervate the skeletal muscle fibers."
+    },
+    {
+     "page": 655,
+     "text": "The neurons are of two types, alpha motor neurons and gamma motor neurons."
+    },
+    {
+     "page": 656,
+     "text": "Stimulation of a single alpha nerve fiber excites anywhere from three to several hundred skeletal muscle fibers, which are collectively called the motor unit."
+    },
+    {
+     "page": 656,
+     "text": "Transmission of nerve impulses into skeletal muscles and their stimulation of the muscle motor units are discussed in Chapters 6 and 7."
+    },
+    {
+     "page": 656,
+     "text": "Along with the alpha motor neurons, which excite contraction of the skeletal muscle fibers, about one half as many much smaller gamma motor neurons are located in the spinal cord anterior horns."
+    },
+    {
+     "page": 656,
+     "text": "These gamma motor neurons transmit impulses through much smaller type A gamma (Aγ) motor nerve fibers, averaging 5 micrometers in diameter, which go to small, special skeletal muscle fibers called intrafusal fibers, shown in Figures 54-2 and 54-3."
+    },
+    {
+     "page": 656,
+     "text": "These fibers constitute the middle of the muscle spindle, which helps control basic muscle “tone,” as discussed later in this chapter."
+    },
+    {
+     "page": 656,
+     "text": "These cells are about 30 times as numerous as the anterior motor neurons."
+    },
+    {
+     "page": 656,
+     "text": "They are small and highly excitable, often exhibiting spontaneous activity and capable of firing as rapidly as 1500 times per second."
+    },
+    {
+     "page": 656,
+     "text": "The interconnections among the interneurons and anterior motor neurons are responsible for most of the integrative functions of the spinal cord that are discussed in the remainder of this chapter."
+    },
+    {
+     "page": 656,
+     "text": "Essentially all the different types of neuronal circuits described in Chapter 46 are found in the interneuron pool of cells of the spinal cord, including diverging, converging, repetitive-discharge, and other types of circuits."
+    },
+    {
+     "page": 656,
+     "text": "In this chapter, we examine many applications of these different circuits in the performance of specific reflex acts by the spinal cord."
+    },
+    {
+     "page": 656,
+     "text": "Only a few incoming sensory signals from the spinal nerves or signals from the brain terminate directly on the anterior motor neurons."
+    },
+    {
+     "page": 656,
+     "text": "Instead, almost all these signals are transmitted first through interneurons, where they are appropriately processed."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_renshaw": {
+   "heading": "Renshaw Cells Transmit Inhibitory Signals to Surrounding",
+   "chapter": 54,
+   "found": true,
+   "page_start": 656,
+   "page_end": 656,
+   "sentences": [
+    {
+     "page": 656,
+     "text": "Also located in the anterior horns of the spinal cord, in close association with the motor neurons, are a large number of small neurons called Renshaw cells."
+    },
+    {
+     "page": 656,
+     "text": "Almost immediately after the anterior motor neuron axon leaves the body of the neuron, collateral branches from the axon pass to adjacent Renshaw cells."
+    },
+    {
+     "page": 656,
+     "text": "These are inhibitory cells that transmit inhibitory signals to the surrounding motor neurons."
+    },
+    {
+     "page": 656,
+     "text": "Thus, stimulation of each motor neuron tends to inhibit adjacent motor neurons, an effect called lateral inhibition."
+    },
+    {
+     "page": 656,
+     "text": "This effect is important for the following major reason: The motor system uses this lateral inhibition to focus, or sharpen, its signals in the same way that the sensory system uses the same principle to allow unabated transmission of the primary signal in the desired direction while suppressing the tendency for signals to spread laterally."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_multisegmental": {
+   "heading": "Multisegmental Connections from One Spinal Cord Level to Other Levels",
+   "chapter": 54,
+   "found": true,
+   "page_start": 656,
+   "page_end": 657,
+   "sentences": [
+    {
+     "page": 656,
+     "text": "More than half of all the nerve fibers that ascend and descend in the spinal cord are propriospinal fibers."
+    },
+    {
+     "page": 656,
+     "text": "These fibers run from one segment of the cord to another."
+    },
+    {
+     "page": 656,
+     "text": "Note also both motor and sensory innervation of the muscle spindle."
+    },
+    {
+     "page": 657,
+     "text": "X i sensory fibers enter the cord from the posterior cord roots, they bifurcate and branch both up and down the spinal cord; some of the branches transmit signals to only a segment or two, while others transmit signals to many segments."
+    },
+    {
+     "page": 657,
+     "text": "These ascending and descending propriospinal fibers of the cord provide pathways for the multisegmental reflexes described later in this chapter, including reflexes that coordinate simultaneous movements in the forelimbs and hindlimbs."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_receptors": {
+   "heading": "Muscle Sensory Receptors",
+   "chapter": 54,
+   "found": true,
+   "page_start": 657,
+   "page_end": 657,
+   "sentences": [
+    {
+     "page": 657,
+     "text": "Proper control of muscle function requires not only excitation of the muscle by spinal cord anterior motor neurons but also continuous feedback of sensory information from each muscle to the spinal cord, indicating the functional status of each muscle at each instant."
+    },
+    {
+     "page": 657,
+     "text": "That is, what is the length of the muscle, what is its instantaneous tension, and how rapidly is its length or tension changing?"
+    },
+    {
+     "page": 657,
+     "text": "The signals from these two receptors are either entirely or almost entirely for the purpose of intrinsic muscle control."
+    },
+    {
+     "page": 657,
+     "text": "They operate almost completely at a subconscious level."
+    },
+    {
+     "page": 657,
+     "text": "Even so, they transmit tremendous amounts of information not only to the spinal cord but also to the cerebellum and even to the cerebral cortex, helping each of these portions of the nervous system function to control muscle contraction."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_spindle_structure": {
+   "heading": "Structure and Motor Innervation of the Muscle Spindle",
+   "chapter": 54,
+   "found": true,
+   "page_start": 657,
+   "page_end": 657,
+   "sentences": [
+    {
+     "page": 657,
+     "text": "Each spindle is 3 to 10 millimeters long."
+    },
+    {
+     "page": 657,
+     "text": "It is built around 3 to 12 tiny intrafusal muscle fibers that are pointed at their ends and attached to the glycocalyx of the surrounding large extrafusal skeletal muscle fibers."
+    },
+    {
+     "page": 657,
+     "text": "Each intrafusal muscle fiber is a tiny skeletal muscle fiber."
+    },
+    {
+     "page": 657,
+     "text": "However, the central region of each of these fibers— that is, the area midway between its two ends—has few or no actin and myosin filaments."
+    },
+    {
+     "page": 657,
+     "text": "Therefore, this central portion does not contract when the ends do."
+    },
+    {
+     "page": 657,
+     "text": "Instead, it functions as a sensory receptor, as described later."
+    },
+    {
+     "page": 657,
+     "text": "The end portions that do contract are excited by small gamma motor nerve fibers that originate from small type A gamma motor neurons in the anterior horns of the spinal cord, as described earlier."
+    },
+    {
+     "page": 657,
+     "text": "These gamma motor nerve fibers are also called gamma efferent fibers, in contradistinction to the large alpha efferent fibers (type A alpha nerve fibers) that innervate the extrafusal skeletal muscle."
+    },
+    {
+     "page": 657,
+     "text": "The receptor portion of the muscle spindle is its central portion."
+    },
+    {
+     "page": 657,
+     "text": "In this area, the intrafusal muscle fibers do not have myosin and actin contractile elements."
+    },
+    {
+     "page": 657,
+     "text": "They are stimulated by stretching of this midportion of the spindle."
+    },
+    {
+     "page": 657,
+     "text": "One can readily see that the muscle spindle receptor can be excited in two ways: 1."
+    },
+    {
+     "page": 657,
+     "text": "Lengthening the whole muscle stretches the midportion of the spindle and, therefore, excites the receptor."
+    },
+    {
+     "page": 657,
+     "text": "Even if the length of the entire muscle does not change, contraction of the end portions of the spindle’s intrafusal fibers stretches the midportion of the spindle and therefore excites the receptor."
+    },
+    {
+     "page": 657,
+     "text": "Two types of sensory endings are found in this central receptor area of the muscle spindle."
+    },
+    {
+     "page": 657,
+     "text": "They are the primary ending and the secondary ending."
+    },
+    {
+     "page": 657,
+     "text": "In the center of the receptor area, a large sensory nerve fiber encircles the central portion of each intrafusal fiber, forming the so-called primary ending or annulospiral ending."
+    },
+    {
+     "page": 657,
+     "text": "This nerve fiber is a type Ia fiber averaging 17 micrometers in diameter, and it transmits sensory signals to the spinal cord at a velocity of 70 to 120 m/sec, as rapidly as any type of nerve fiber in the entire body."
+    },
+    {
+     "page": 657,
+     "text": "Usually one but sometimes two smaller sensory nerve fibers—type II fibers with an average diameter of 8 micrometers—innervate the receptor region on one or both sides of the primary ending, as shown in Figures 54-3 and 54-4."
+    },
+    {
+     "page": 657,
+     "text": "This sensory ending is called the secondary ending; sometimes it encircles the intrafusal fibers in the same way that the type Ia fiber does, but often it spreads like branches on a bush."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_intrafusal": {
+   "heading": "Division of the Intrafusal Fibers into Nuclear Bag and Nuclear Chain Fibers",
+   "chapter": 54,
+   "found": true,
+   "page_start": 657,
+   "page_end": 657,
+   "sentences": [
+    {
+     "page": 657,
+     "text": "The primary sensory nerve ending (the 17-micrometer sensory fiber) is excited by both the nuclear bag intrafusal fibers and the nuclear chain fibers."
+    },
+    {
+     "page": 657,
+     "text": "Conversely, the secondary ending (the 8-micrometer sensory fiber) is usually excited only by nuclear chain fibers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_primary_secondary": {
+   "heading": "Response of Both the Primary and the Secondary",
+   "chapter": 54,
+   "found": true,
+   "page_start": 658,
+   "page_end": 658,
+   "sentences": [
+    {
+     "page": 658,
+     "text": "When the receptor portion of the muscle spindle is stretched slowly, the number of impulses transmitted from both the primary and the secondary endings increases almost directly in proportion to the degree of stretching and the endings continue to transmit these impulses for several minutes."
+    },
+    {
+     "page": 658,
+     "text": "This effect is called the static response of the spindle receptor, meaning simply that both the primary and secondary endings continue to transmit their signals for at least several minutes if the muscle spindle itself remains stretched."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_rate_change": {
+   "heading": "Response of the Primary Ending",
+   "chapter": 54,
+   "found": true,
+   "page_start": 658,
+   "page_end": 658,
+   "sentences": [
+    {
+     "page": 658,
+     "text": "This excess stimulus of the primary ending is called the dynamic response, which means that the primary ending responds extremely actively to a rapid rate of change in spindle length."
+    },
+    {
+     "page": 658,
+     "text": "Even when the length of a spindle receptor increases only a fraction of a micrometer for only a fraction of a second, the primary receptor transmits tremendous numbers of excess impulses to the large 17-micrometer sensory nerve fiber, but only while the length is actually increasing."
+    },
+    {
+     "page": 658,
+     "text": "As soon as the length stops increasing, this extra rate of impulse discharge returns to the level of the much smaller static response that is still present in the signal."
+    },
+    {
+     "page": 658,
+     "text": "Conversely, when the spindle receptor shortens, exactly opposite sensory signals occur."
+    },
+    {
+     "page": 658,
+     "text": "Thus, the primary ending sends extremely strong, either positive or negative, signals to the spinal cord to apprise it of any change in length of the spindle receptor."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_gamma_control": {
+   "heading": "Control of Intensity of the Static and Dynamic Responses by the Gamma",
+   "chapter": 54,
+   "found": true,
+   "page_start": 658,
+   "page_end": 658,
+   "sentences": [
+    {
+     "page": 658,
+     "text": "The gamma motor nerves to the muscle spindle can be divided into two types: gamma-dynamic (gamma-d) and gamma-static (gamma-s)."
+    },
+    {
+     "page": 658,
+     "text": "The first of these excites mainly the nuclear bag intrafusal fibers, and the second excites mainly the nuclear chain intrafusal fibers."
+    },
+    {
+     "page": 658,
+     "text": "When the gamma-d fibers excite the nuclear bag fibers, the dynamic response of the muscle spindle becomes tremendously enhanced, whereas the static response is hardly affected."
+    },
+    {
+     "page": 658,
+     "text": "Conversely, stimulation of the gamma-s fibers, which excite the nuclear chain fibers, enhances the static response while having little influence on the dynamic response."
+    },
+    {
+     "page": 658,
+     "text": "Subsequent paragraphs illustrate that these two types of muscle spindle responses are important in different types of muscle control."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_continuous": {
+   "heading": "Continuous Discharge of the Muscle Spindles",
+   "chapter": 54,
+   "found": true,
+   "page_start": 658,
+   "page_end": 658,
+   "sentences": [
+    {
+     "page": 658,
+     "text": "Stretching the muscle spindles increases the rate of firing, whereas shortening the spindle decreases the rate of firing."
+    },
+    {
+     "page": 658,
+     "text": "Thus, the spindles can send to the spinal cord either positive signals—that is, increased numbers of impulses to indicate stretch of a muscle—or negative signals—belownormal numbers of impulses to indicate that the muscle is unstretched."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_stretch_reflex": {
+   "heading": "Muscle Stretch Reflex",
+   "chapter": 54,
+   "found": true,
+   "page_start": 658,
+   "page_end": 659,
+   "sentences": [
+    {
+     "page": 658,
+     "text": "The simplest manifestation of muscle spindle function is the muscle stretch reflex."
+    },
+    {
+     "page": 658,
+     "text": "Whenever a muscle is stretched suddenly, excitation of the spindles causes reflex contraction of the large skeletal muscle fibers of the stretched muscle and also of closely allied synergistic muscles."
+    },
+    {
+     "page": 658,
+     "text": "Figure 54-5 demonstrates the basic circuit of the muscle spindle stretch reflex, showing a type Ia proprioceptor nerve fiber originating in a muscle spindle and entering a dorsal root of the spinal cord."
+    },
+    {
+     "page": 658,
+     "text": "A branch of this fiber then goes directly to the anterior horn of the cord gray matter and synapses with anterior motor neurons that send motor nerve fibers back to the same muscle from which the muscle spindle fiber originated."
+    },
+    {
+     "page": 659,
+     "text": "X i the spindle."
+    },
+    {
+     "page": 659,
+     "text": "Most type II fibers from the muscle spindle terminate on multiple interneurons in the cord gray matter, and these transmit delayed signals to the anterior motor neurons or serve other functions."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_dynamic_static_reflex": {
+   "heading": "Dynamic Stretch Reflex and Static Stretch",
+   "chapter": 54,
+   "found": true,
+   "page_start": 659,
+   "page_end": 659,
+   "sentences": [
+    {
+     "page": 659,
+     "text": "The stretch reflex can be divided into two components: the dynamic stretch reflex and the static stretch reflex."
+    },
+    {
+     "page": 659,
+     "text": "The dynamic stretch reflex is elicited by the potent dynamic signal transmitted from the primary sensory endings of the muscle spindles, caused by rapid stretch or unstretch."
+    },
+    {
+     "page": 659,
+     "text": "That is, when a muscle is suddenly stretched or unstretched, a strong signal is transmitted to the spinal cord; this causes an instantaneous strong reflex contraction (or decrease in contraction) of the same muscle from which the signal originated."
+    },
+    {
+     "page": 659,
+     "text": "Thus, the reflex functions to oppose sudden changes in muscle length."
+    },
+    {
+     "page": 659,
+     "text": "The dynamic stretch reflex is over within a fraction of a second after the muscle has been stretched (or unstretched) to its new length, but then a weaker static stretch reflex continues for a prolonged period thereafter."
+    },
+    {
+     "page": 659,
+     "text": "This reflex is elicited by the continuous static receptor signals transmitted by both primary and secondary endings."
+    },
+    {
+     "page": 659,
+     "text": "The importance of the static stretch reflex is that it causes the degree of muscle contraction to remain reasonably constant, except when the person’s nervous system specifically wills otherwise."
+    },
+    {
+     "page": 659,
+     "text": "An especially important function of the stretch reflex is its ability to prevent oscillation or jerkiness of body movements."
+    },
+    {
+     "page": 659,
+     "text": "This is a damping, or smoothing, function, as explained in the following paragraph."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_damping": {
+   "heading": "Damping Mechanism in Smoothing Muscle",
+   "chapter": 54,
+   "found": true,
+   "page_start": 659,
+   "page_end": 659,
+   "sentences": [
+    {
+     "page": 659,
+     "text": "Signals from the spinal cord are often transmitted to a muscle in an unsmooth form, increasing in intensity for a few milliseconds, then decreasing in intensity, then changing to another intensity level, and so forth."
+    },
+    {
+     "page": 659,
+     "text": "When the muscle spindle apparatus is not functioning satisfactorily, the muscle contraction is jerky during the course of such a signal."
+    },
+    {
+     "page": 659,
+     "text": "In curve A, the muscle spindle reflex of the excited muscle is intact."
+    },
+    {
+     "page": 659,
+     "text": "Note that the contraction is relatively smooth, even though the motor nerve to the muscle is excited at a slow frequency of only eight signals per second."
+    },
+    {
+     "page": 659,
+     "text": "Curve B illustrates the same experiment in an animal whose muscle spindle sensory nerves had been sectioned 3 months earlier."
+    },
+    {
+     "page": 659,
+     "text": "Note the unsmooth muscle contraction."
+    },
+    {
+     "page": 659,
+     "text": "Thus, curve A graphically demonstrates the damping mechanism’s ability to smooth muscle contractions, even though the primary input signals to the muscle motor system may themselves be jerky."
+    },
+    {
+     "page": 659,
+     "text": "This effect can also be called a signal averaging function of the muscle spindle reflex."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_voluntary_gamma": {
+   "heading": "Role of the Muscle Spindle in Voluntary",
+   "chapter": 54,
+   "found": true,
+   "page_start": 659,
+   "page_end": 659,
+   "sentences": [
+    {
+     "page": 659,
+     "text": "To understand the importance of the gamma efferent system, one should recognize that 31 percent of all the motor nerve fibers to the muscle are the small type A gamma efferent fibers rather than large type A alpha motor fibers."
+    },
+    {
+     "page": 659,
+     "text": "Whenever signals are transmitted from the motor cortex or from any other area of the brain to the alpha motor neurons, in most instances the gamma motor neurons are stimulated simultaneously, an effect called coactivation of the alpha and gamma motor neurons."
+    },
+    {
+     "page": 659,
+     "text": "This causes both the extrafusal skeletal muscle fibers and the muscle spindle intrafusal muscle fibers to contract at the same time."
+    },
+    {
+     "page": 659,
+     "text": "The purpose of contracting the muscle spindle intrafusal fibers at the same time that the large skeletal muscle fibers contract is twofold: First, it keeps the length of the receptor portion of the muscle spindle from changing during the course of the whole muscle contraction."
+    },
+    {
+     "page": 659,
+     "text": "Therefore, coactivation keeps the muscle spindle reflex from opposing the muscle contraction."
+    },
+    {
+     "page": 659,
+     "text": "Second, it maintains the proper damping function of the muscle spindle, regardless of any change in muscle length."
+    },
+    {
+     "page": 659,
+     "text": "For instance, if the muscle spindle did not contract and relax along with the large muscle fibers, the receptor portion of the spindle would sometimes be flail and sometimes be overstretched, in neither instance operating under optimal conditions for spindle function."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_brain_gamma": {
+   "heading": "Brain Areas for Control of the Gamma",
+   "chapter": 54,
+   "found": true,
+   "page_start": 659,
+   "page_end": 659,
+   "sentences": [
+    {
+     "page": 659,
+     "text": "The gamma efferent system is excited specifically by signals from the bulboreticular facilitatory region of the brain stem and, secondarily, by impulses transmitted into the bulboreticular area from (1) the cerebellum, (2) the basal ganglia, and (3) the cerebral cortex."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_position_stabilize": {
+   "heading": "Muscle Spindle System Stabilizes Body Position",
+   "chapter": 54,
+   "found": true,
+   "page_start": 660,
+   "page_end": 660,
+   "sentences": [
+    {
+     "page": 660,
+     "text": "One of the most important functions of the muscle spindle system is to stabilize body position during tense motor action."
+    },
+    {
+     "page": 660,
+     "text": "To do this, the bulboreticular facilitatory region and its allied areas of the brain stem transmit excitatory signals through the gamma nerve fibers to the intrafusal muscle fibers of the muscle spindles."
+    },
+    {
+     "page": 660,
+     "text": "This shortens the ends of the spindles and stretches the central receptor regions, thus increasing their signal output."
+    },
+    {
+     "page": 660,
+     "text": "However, if the spindles on both sides of each joint are activated at the same time, reflex excitation of the skeletal muscles on both sides of the joint also increases, producing tight, tense muscles opposing each other at the joint."
+    },
+    {
+     "page": 660,
+     "text": "The net effect is that the position of the joint becomes strongly stabilized, and any force that tends to move the joint from its current position is opposed by highly sensitized stretch reflexes operating on both sides of the joint."
+    },
+    {
+     "page": 660,
+     "text": "Any time a person must perform a muscle function that requires a high degree of delicate and exact positioning, excitation of the appropriate muscle spindles by signals from the bulboreticular facilitatory region of the brain stem stabilizes the positions of the major joints."
+    },
+    {
+     "page": 660,
+     "text": "This aids tremendously in performing the additional detailed voluntary movements (of fingers or other body parts) required for intricate motor procedures."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_clinical_stretch": {
+   "heading": "Clinical Applications of the Stretch Reflex",
+   "chapter": 54,
+   "found": true,
+   "page_start": 660,
+   "page_end": 660,
+   "sentences": [
+    {
+     "page": 660,
+     "text": "Almost every time a clinician performs a physical examination on a patient, he or she elicits multiple stretch reflexes."
+    },
+    {
+     "page": 660,
+     "text": "The purpose is to determine how much background excitation, or “tone,” the brain is sending to the spinal cord."
+    },
+    {
+     "page": 660,
+     "text": "This reflex is elicited as follows."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_knee_jerk": {
+   "heading": "Knee Jerk and Other Muscle Jerks",
+   "chapter": 54,
+   "found": true,
+   "page_start": 660,
+   "page_end": 660,
+   "sentences": [
+    {
+     "page": 660,
+     "text": "Clinically, a method used to determine the sensitivity of the stretch reflexes is to elicit the knee jerk and other muscle jerks."
+    },
+    {
+     "page": 660,
+     "text": "The knee jerk can be elicited by simply striking the patellar tendon with a reflex hammer; this instantaneously stretches the quadriceps muscle and excites a dynamic stretch reflex that causes the lower leg to “jerk” forward."
+    },
+    {
+     "page": 660,
+     "text": "Similar reflexes can be obtained from almost any muscle of the body either by striking the tendon of the muscle or by striking the belly of the muscle itself."
+    },
+    {
+     "page": 660,
+     "text": "In other words, sudden stretch of muscle spindles is all that is required to elicit a dynamic stretch reflex."
+    },
+    {
+     "page": 660,
+     "text": "The muscle jerks are used by neurologists to assess the degree of facilitation of spinal cord centers."
+    },
+    {
+     "page": 660,
+     "text": "When large numbers of facilitatory impulses are being transmitted from the upper regions of the central nervous system into the cord, the muscle jerks are greatly exaggerated."
+    },
+    {
+     "page": 660,
+     "text": "Conversely, if the facilitatory impulses are depressed or abrogated, the muscle jerks are considerably weakened or absent."
+    },
+    {
+     "page": 660,
+     "text": "These reflexes are used most frequently in determining the presence or absence of muscle spasticity caused by lesions in the motor areas of the brain or diseases that excite the bulboreticular facilitatory area of the brain stem."
+    },
+    {
+     "page": 660,
+     "text": "Ordinarily, large lesions in the motor areas of the cerebral cortex but not in the lower motor control areas (especially lesions caused by strokes or brain tumors) cause greatly exaggerated muscle jerks in the muscles on the opposite side of the body."
+    },
+    {
+     "page": 660,
+     "text": "Under some conditions, the muscle jerks can oscillate, a phenomenon can be explained particularly well in relation to ankle clonus, as follows."
+    },
+    {
+     "page": 660,
+     "text": "If a person standing on the tip ends of the feet suddenly drops his or her body downward and stretches the gastrocnemius muscles, stretch reflex impulses are transmitted from the muscle spindles into the spinal cord."
+    },
+    {
+     "page": 660,
+     "text": "These impulses reflexively excite the stretched muscle, which lifts the body up again."
+    },
+    {
+     "page": 660,
+     "text": "After a fraction of a second, the reflex contraction of the muscle dies out and the body falls again, thus stretching the spindles a second time."
+    },
+    {
+     "page": 660,
+     "text": "Again, a dynamic stretch reflex lifts the body, but this too dies out after a fraction of a second, and the body falls once more to begin a new cycle."
+    },
+    {
+     "page": 660,
+     "text": "In this way, the stretch reflex of the gastrocnemius muscle continues to oscillate, often for long periods; this is clonus."
+    },
+    {
+     "page": 660,
+     "text": "Clonus ordinarily occurs only when the stretch reflex is highly sensitized by facilitatory impulses from the brain."
+    },
+    {
+     "page": 660,
+     "text": "For instance, in a decerebrate animal, in which the stretch reflexes are highly facilitated, clonus develops readily."
+    },
+    {
+     "page": 660,
+     "text": "To determine the degree of facilitation of the spinal cord, neurologists test patients for clonus by suddenly stretching a muscle and applying a steady stretching force to it."
+    },
+    {
+     "page": 660,
+     "text": "If clonus occurs, the degree of facilitation is certain to be high."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_gto_structure": {
+   "heading": "Golgi Tendon Organ Helps Control Muscle",
+   "chapter": 54,
+   "found": true,
+   "page_start": 661,
+   "page_end": 661,
+   "sentences": [
+    {
+     "page": 661,
+     "text": "About 10 to 15 muscle fibers are usually connected to each Golgi tendon organ, and the organ is stimulated when this small bundle of muscle fibers is “tensed” by contracting or stretching the muscle."
+    },
+    {
+     "page": 661,
+     "text": "Thus, the major difference in excitation of the Golgi tendon organ versus the muscle spindle is that the spindle detects muscle length and changes in muscle length, whereas the tendon organ detects muscle tension as reflected by the tension in itself."
+    },
+    {
+     "page": 661,
+     "text": "The tendon organ, like the primary receptor of the muscle spindle, has both a dynamic response and a static response, reacting intensely when the muscle tension suddenly increases (the dynamic response) but settling down within a fraction of a second to a lower level of steadystate firing that is almost directly proportional to the muscle tension (the static response)."
+    },
+    {
+     "page": 661,
+     "text": "Thus, Golgi tendon organs provide the nervous system with instantaneous information on the degree of tension in each small segment of each muscle."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_gto_transmission": {
+   "heading": "Transmission of Impulses from the Tendon",
+   "chapter": 54,
+   "found": true,
+   "page_start": 661,
+   "page_end": 661,
+   "sentences": [
+    {
+     "page": 661,
+     "text": "Signals from the tendon organ are transmitted through large, rapidly conducting type Ib nerve fibers that average 16 micrometers in diameter, only slightly smaller than those from the primary endings of the muscle spindle."
+    },
+    {
+     "page": 661,
+     "text": "These fibers, like those from the primary spindle endings, transmit signals both into local areas of the cord and, after synapsing in a dorsal horn of the cord, through long fiber pathways such as the spinocerebellar tracts into the cerebellum and through still other tracts to the cerebral cortex."
+    },
+    {
+     "page": 661,
+     "text": "The local cord signal excites a single inhibitory interneuron that inhibits the anterior motor neuron."
+    },
+    {
+     "page": 661,
+     "text": "This local circuit directly inhibits the individual muscle without affecting adjacent muscles."
+    },
+    {
+     "page": 661,
+     "text": "The relation between signals to the brain and function of the cerebellum and other parts of the brain for muscle control is discussed in Chapter 56."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_gto_inhibitory": {
+   "heading": "Inhibitory Nature of the Tendon Reflex",
+   "chapter": 54,
+   "found": true,
+   "page_start": 661,
+   "page_end": 661,
+   "sentences": [
+    {
+     "page": 661,
+     "text": "This reflex is entirely inhibitory."
+    },
+    {
+     "page": 661,
+     "text": "Thus, this reflex provides a negative feedback mechanism that prevents the development of too much tension on the muscle."
+    },
+    {
+     "page": 661,
+     "text": "When tension on the muscle and, therefore, on the tendon becomes extreme, the inhibitory effect from the tendon organ can be so great that it leads to a sudden reaction in the spinal cord that causes instantaneous relaxation of the entire muscle."
+    },
+    {
+     "page": 661,
+     "text": "This effect is called the lengthening reaction; it is probably a protective mechanism to prevent tearing of the muscle or avulsion of the tendon from its attachments to the bone."
+    },
+    {
+     "page": 661,
+     "text": "We know, for instance, that direct electrical stimulation of muscles in the laboratory, which cannot be opposed by this negative reflex, can occasionally cause such destructive effects."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_gto_equalize": {
+   "heading": "Possible Role of the Tendon Reflex to Equalize",
+   "chapter": 54,
+   "found": true,
+   "page_start": 661,
+   "page_end": 661,
+   "sentences": [
+    {
+     "page": 661,
+     "text": "That is, those fibers that exert excess tension become inhibited by the reflex, whereas those that exert too little tension become more excited because of absence of reflex inhibition."
+    },
+    {
+     "page": 661,
+     "text": "This spreads the muscle load over all the fibers and prevents damage in isolated areas of a muscle where small numbers of fibers might be overloaded."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_flexor": {
+   "heading": "Flexor Reflex and the Withdrawal Reflexes",
+   "chapter": 54,
+   "found": true,
+   "page_start": 661,
+   "page_end": 662,
+   "sentences": [
+    {
+     "page": 661,
+     "text": "In the spinal or decerebrate animal, almost any type of cutaneous sensory stimulus from a limb is likely to cause the flexor muscles of the limb to contract, thereby withdrawing the limb from the stimulating object."
+    },
+    {
+     "page": 661,
+     "text": "This is called the flexor reflex."
+    },
+    {
+     "page": 662,
+     "text": "In its classic form, the flexor reflex is elicited most powerfully by stimulation of pain endings, such as by a pinprick, heat, or a wound, for which reason it is also called a nociceptive reflex, or simply a pain reflex."
+    },
+    {
+     "page": 662,
+     "text": "Stimulation of touch receptors can also elicit a weaker and less prolonged flexor reflex."
+    },
+    {
+     "page": 662,
+     "text": "If some part of the body other than one of the limbs is painfully stimulated, that part will similarly be withdrawn from the stimulus, but the reflex may not be confined to flexor muscles, even though it is basically the same type of reflex."
+    },
+    {
+     "page": 662,
+     "text": "Therefore, the many patterns of these reflexes in the different areas of the body are called withdrawal reflexes."
+    },
+    {
+     "page": 662,
+     "text": "In this instance, a painful stimulus is applied to the hand; as a result, the flexor muscles of the upper arm become excited, thus withdrawing the hand from the painful stimulus."
+    },
+    {
+     "page": 662,
+     "text": "The pathways for eliciting the flexor reflex do not pass directly to the anterior motor neurons but instead pass first into the spinal cord interneuron pool of neurons and only secondarily to the motor neurons."
+    },
+    {
+     "page": 662,
+     "text": "The shortest possible circuit is a three- or four-neuron pathway; however, most of the signals of the reflex traverse many more neurons and involve the following basic types of circuits: (1) diverging circuits to spread the reflex to the necessary muscles for withdrawal; (2) circuits to inhibit the antagonist muscles, called reciprocal inhibition circuits; and (3) circuits to cause afterdischarge lasting many fractions of a second after the stimulus is over."
+    },
+    {
+     "page": 662,
+     "text": "Figure 54-10 shows a typical myogram from a flexor muscle during a flexor reflex."
+    },
+    {
+     "page": 662,
+     "text": "Within a few milliseconds after a pain nerve begins to be stimulated, the flexor response appears."
+    },
+    {
+     "page": 662,
+     "text": "Then, in the next few seconds, the reflex begins to fatigue, which is characteristic of essentially all complex integrative reflexes of the spinal cord."
+    },
+    {
+     "page": 662,
+     "text": "Finally, after the stimulus is over, the contraction of the muscle returns toward the baseline, but because of afterdischarge, it takes many milliseconds for this to occur."
+    },
+    {
+     "page": 662,
+     "text": "The duration of afterdischarge depends on the intensity of the sensory stimulus that elicited the reflex; a weak tactile stimulus causes almost no afterdischarge, but after a strong pain stimulus, the afterdischarge may last for a second or more."
+    },
+    {
+     "page": 662,
+     "text": "The afterdischarge that occurs in the flexor reflex almost certainly results from both types of repetitive discharge circuits discussed in Chapter 46."
+    },
+    {
+     "page": 662,
+     "text": "Electrophysiologic studies indicate that immediate afterdischarge, lasting for about 6 to 8 milliseconds, results from repetitive firing of the excited interneurons themselves."
+    },
+    {
+     "page": 662,
+     "text": "Also, prolonged afterdischarge occurs after strong pain stimuli, almost certainly resulting from recurrent pathways that initiate oscillation in reverberating interneuron circuits."
+    },
+    {
+     "page": 662,
+     "text": "These, in turn, transmit impulses to the anterior motor neurons, sometimes for several seconds after the incoming sensory signal is over."
+    },
+    {
+     "page": 662,
+     "text": "Thus, the flexor reflex is appropriately organized to withdraw a pained or otherwise irritated part of the body from a stimulus."
+    },
+    {
+     "page": 662,
+     "text": "Further, because of afterdischarge, the reflex can hold the irritated part away from the stimulus for 0.1 to 3 seconds after the irritation is over."
+    },
+    {
+     "page": 662,
+     "text": "During this time, other reflexes and actions of the central nervous system can move the entire body away from the painful stimulus."
+    },
+    {
+     "page": 662,
+     "text": "The pattern of withdrawal that results when the flexor reflex is elicited depends on which sensory nerve is stimulated."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_crossed": {
+   "heading": "Crossed Extensor Reflex",
+   "chapter": 54,
+   "found": true,
+   "page_start": 663,
+   "page_end": 663,
+   "sentences": [
+    {
+     "page": 663,
+     "text": "About 0.2 to 0.5 second after a stimulus elicits a flexor reflex in one limb, the opposite limb begins to extend."
+    },
+    {
+     "page": 663,
+     "text": "This is called the crossed extensor reflex."
+    },
+    {
+     "page": 663,
+     "text": "Extension of the opposite limb can push the entire body away from the object causing the painful stimulus in the withdrawn limb."
+    },
+    {
+     "page": 663,
+     "text": "Because the crossed extensor reflex usually does not begin until 200 to 500 milliseconds after onset of the initial pain stimulus, it is certain that many interneurons are involved in the circuit between the incoming sensory neuron and the motor neurons of the opposite side of the cord responsible for the crossed extension."
+    },
+    {
+     "page": 663,
+     "text": "After the painful stimulus is removed, the crossed extensor reflex has an even longer period of afterdischarge than does the flexor reflex."
+    },
+    {
+     "page": 663,
+     "text": "Again, it is presumed that this prolonged afterdischarge results from reverberating circuits among the interneuronal cells."
+    },
+    {
+     "page": 663,
+     "text": "Figure 54-11 shows a typical myogram recorded from a muscle involved in a crossed extensor reflex."
+    },
+    {
+     "page": 663,
+     "text": "This demonstrates the relatively long latency before the reflex begins and the long afterdischarge at the end of the stimulus."
+    },
+    {
+     "page": 663,
+     "text": "The prolonged afterdischarge is of benefit in holding the pained area of the body away from the painful object until other nervous reactions cause the entire body to move away."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_reciprocal": {
+   "heading": "Reciprocal Inhibition and Reciprocal",
+   "chapter": 54,
+   "found": true,
+   "page_start": 663,
+   "page_end": 663,
+   "sentences": [
+    {
+     "page": 663,
+     "text": "We previously pointed out several times that excitation of one group of muscles is often associated with inhibition of another group."
+    },
+    {
+     "page": 663,
+     "text": "For instance, when a stretch reflex excites one muscle, it often simultaneously inhibits the antagonist muscles."
+    },
+    {
+     "page": 663,
+     "text": "This is the phenomenon of reciprocal inhibition, and the neuronal circuit that causes this reciprocal relation is called reciprocal innervation."
+    },
+    {
+     "page": 663,
+     "text": "Likewise, reciprocal relations often exist between the muscles on the two sides of the body, as exemplified by the flexor and extensor muscle reflexes described earlier."
+    },
+    {
+     "page": 663,
+     "text": "Figure 54-12 shows a typical example of reciprocal inhibition."
+    },
+    {
+     "page": 663,
+     "text": "In this instance, a moderate but prolonged flexor reflex is elicited from one limb of the body; while this reflex is still being elicited, a stronger flexor reflex is elicited in the limb on the opposite side of the body."
+    },
+    {
+     "page": 663,
+     "text": "This stronger reflex sends reciprocal inhibitory signals to the first limb and depresses its degree of flexion."
+    },
+    {
+     "page": 663,
+     "text": "Finally, removal of the stronger reflex allows the original reflex to reassume its previous intensity."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_postural": {
+   "heading": "Postural and Locomotive Reflexes of the Cord",
+   "chapter": 54,
+   "found": true,
+   "page_start": 663,
+   "page_end": 664,
+   "sentences": [
+    {
+     "page": 663,
+     "text": "Pressure on the footpad of a decerebrate animal causes the limb to extend against the pressure applied to the foot."
+    },
+    {
+     "page": 663,
+     "text": "Indeed, this reflex is so strong that if an animal whose spinal cord has been transected for several months—that is, after the reflexes have become exaggerated—is placed on its feet, the reflex often stiffens the limbs sufficiently to support the weight of the body."
+    },
+    {
+     "page": 663,
+     "text": "This reflex is called the positive supportive reaction."
+    },
+    {
+     "page": 663,
+     "text": "The positive supportive reaction involves a complex circuit in the interneurons similar to the circuits responsible for the flexor and cross extensor reflexes."
+    },
+    {
+     "page": 663,
+     "text": "The locus of the pressure on the pad of the foot determines the direction in which the limb will extend; pressure on one side causes extension in that direction, an effect called the magnet reaction."
+    },
+    {
+     "page": 663,
+     "text": "This helps keep an animal from falling to that side."
+    },
+    {
+     "page": 664,
+     "text": "This is called the cord righting reflex."
+    },
+    {
+     "page": 664,
+     "text": "Such a reflex demonstrates that some relatively complex reflexes associated with posture are integrated in the spinal cord."
+    },
+    {
+     "page": 664,
+     "text": "Indeed, an animal with a well-healed transected thoracic cord between the levels for forelimb and hindlimb innervation can right itself from the lying position and even walk using its hindlimbs in addition to its forelimbs."
+    },
+    {
+     "page": 664,
+     "text": "In the case of an opossum with a similar transection of the thoracic cord, the walking movements of the hindlimbs are hardly different from those in a normal opossum—except that the hindlimb walking movements are not synchronized with those of the forelimbs."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_stepping": {
+   "heading": "Stepping and Walking Movements",
+   "chapter": 54,
+   "found": true,
+   "page_start": 664,
+   "page_end": 664,
+   "sentences": [
+    {
+     "page": 664,
+     "text": "Indeed, even when the lumbar portion of the spinal cord is separated from the remainder of the cord and a longitudinal section is made down the center of the cord to block neuronal connections between the two sides of the cord and between the two limbs, each hindlimb can still perform individual stepping functions."
+    },
+    {
+     "page": 664,
+     "text": "Forward flexion of the limb is followed a second or so later by backward extension."
+    },
+    {
+     "page": 664,
+     "text": "Then flexion occurs again, and the cycle is repeated over and over."
+    },
+    {
+     "page": 664,
+     "text": "This oscillation back and forth between flexor and extensor muscles can occur even after the sensory nerves have been cut, and it seems to result mainly from mutually reciprocal inhibition circuits within the matrix of the cord itself, oscillating between the neurons controlling agonist and antagonist muscles."
+    },
+    {
+     "page": 664,
+     "text": "The sensory signals from the footpads and from the position sensors around the joints play a strong role in controlling foot pressure and frequency of stepping when the foot is allowed to walk along a surface."
+    },
+    {
+     "page": 664,
+     "text": "In fact, the cord mechanism for control of stepping can be even more complex."
+    },
+    {
+     "page": 664,
+     "text": "For instance, if the top of the foot encounters an obstruction during forward thrust, the forward thrust will stop temporarily; then, in rapid sequence, the foot will be lifted higher and proceed forward to be placed over the obstruction."
+    },
+    {
+     "page": 664,
+     "text": "This is the stumble reflex."
+    },
+    {
+     "page": 664,
+     "text": "Thus, the cord is an intelligent walking controller."
+    },
+    {
+     "page": 664,
+     "text": "If the lumbar spinal cord is not split down its center, every time stepping occurs in the forward direction in one limb, the opposite limb ordinarily moves backward."
+    },
+    {
+     "page": 664,
+     "text": "This effect results from reciprocal innervation between the two limbs."
+    },
+    {
+     "page": 664,
+     "text": "If a well-healed spinal animal (with spinal transection in the neck above the forelimb area of the cord) is held up from the floor and its legs are allowed to dangle, the stretch on the limbs occasionally elicits stepping reflexes that involve all four limbs."
+    },
+    {
+     "page": 664,
+     "text": "In general, stepping occurs diagonally between the forelimbs and hindlimbs."
+    },
+    {
+     "page": 664,
+     "text": "This diagonal response is another manifestation of reciprocal innervation, this time occurring the entire distance up and down the cord between the forelimbs and hindlimbs."
+    },
+    {
+     "page": 664,
+     "text": "Such a walking pattern is called a mark time reflex."
+    },
+    {
+     "page": 664,
+     "text": "Another type of reflex that occasionally develops in a spinal animal is the galloping reflex, in which both forelimbs move backward in unison while both hindlimbs move forward."
+    },
+    {
+     "page": 664,
+     "text": "This often occurs when almost equal stretch or pressure stimuli are applied to the limbs on both sides of the body at the same time; unequal stimulation elicits the diagonal walking reflex."
+    },
+    {
+     "page": 664,
+     "text": "This is in keeping with the normal patterns of walking and galloping because in walking, only one forelimb and one hindlimb at a time are stimulated, which would predispose the animal to continue walking."
+    },
+    {
+     "page": 664,
+     "text": "Conversely, when the animal strikes the ground during galloping, both forelimbs and both hindlimbs are stimulated about equally; this predisposes the animal to keep galloping and, therefore, continues this pattern of motion."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_scratch": {
+   "heading": "Scratch Reflex",
+   "chapter": 54,
+   "found": true,
+   "page_start": 664,
+   "page_end": 664,
+   "sentences": [
+    {
+     "page": 664,
+     "text": "An especially important cord reflex in some animals is the scratch reflex, which is initiated by itch or tickle sensation."
+    },
+    {
+     "page": 664,
+     "text": "It involves two functions: (1) a position sense that allows the paw to find the exact point of irritation on the surface of the body and (2) a to-and-fro scratching movement."
+    },
+    {
+     "page": 664,
+     "text": "The position sense of the scratch reflex is a highly developed function."
+    },
+    {
+     "page": 664,
+     "text": "If a flea is crawling as far forward as the shoulder of a spinal animal, the hind paw can still find its position, even though 19 muscles in the limb must be contracted simultaneously in a precise pattern to bring the paw to the position of the crawling flea."
+    },
+    {
+     "page": 664,
+     "text": "To make the reflex even more complicated, when the flea crosses the midline, the first paw stops scratching and the opposite paw begins the to-and-fro motion and eventually finds the flea."
+    },
+    {
+     "page": 664,
+     "text": "The to-and-fro movement, like the stepping movements of locomotion, involves reciprocal innervation circuits that cause oscillation."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_spasm": {
+   "heading": "Spinal Cord Reflexes That Cause Muscle Spasm",
+   "chapter": 54,
+   "found": true,
+   "page_start": 664,
+   "page_end": 665,
+   "sentences": [
+    {
+     "page": 664,
+     "text": "In human beings, local muscle spasm is often observed."
+    },
+    {
+     "page": 664,
+     "text": "In many, if not most, instances, localized pain is the cause of the local spasm."
+    },
+    {
+     "page": 664,
+     "text": "One type of clinically important spasm occurs in muscles that surround a broken bone."
+    },
+    {
+     "page": 664,
+     "text": "The spasm results from pain impulses initiated from the broken edges of the bone, which cause the muscles that surround the area to contract tonically."
+    },
+    {
+     "page": 664,
+     "text": "Pain relief obtained by injecting a local anesthetic at the broken edges of the bone relieves the spasm; a deep general anesthetic of the entire body, such as ether anesthesia, also relieves the spasm."
+    },
+    {
+     "page": 664,
+     "text": "One of these two anesthetic procedures is often necessary before the spasm can be overcome sufficiently for the two ends of the bone to be set back into their appropriate positions."
+    },
+    {
+     "page": 665,
+     "text": "Here again, relief of the pain caused by the peritonitis allows the spastic muscle to relax."
+    },
+    {
+     "page": 665,
+     "text": "The same type of spasm often occurs during surgical operations; for instance, during abdominal operations, pain impulses from the parietal peritoneum often cause the abdominal muscles to contract extensively, sometimes extruding the intestines through the surgical wound."
+    },
+    {
+     "page": 665,
+     "text": "For this reason, deep anesthesia is usually required for intra-abdominal operations."
+    },
+    {
+     "page": 665,
+     "text": "Still another type of local spasm is the typical muscle cramp."
+    },
+    {
+     "page": 665,
+     "text": "Electromyographic studies indicate that the cause of at least some muscle cramps is as follows: Any local irritating factor or metabolic abnormality of a muscle, such as severe cold, lack of blood flow, or overexercise, can elicit pain or other sensory signals transmitted from the muscle to the spinal cord, which in turn cause reflex feedback muscle contraction."
+    },
+    {
+     "page": 665,
+     "text": "The contraction is believed to stimulate the same sensory receptors even more, which causes the spinal cord to increase the intensity of contraction."
+    },
+    {
+     "page": 665,
+     "text": "Thus, positive feedback develops, so a small amount of initial irritation causes more and more contraction until a full-blown muscle cramp ensues."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_autonomic": {
+   "heading": "Autonomic Reflexes in the Spinal Cord",
+   "chapter": 54,
+   "found": true,
+   "page_start": 665,
+   "page_end": 665,
+   "sentences": [
+    {
+     "page": 665,
+     "text": "Many types of segmental autonomic reflexes are integrated in the spinal cord, most of which are discussed in other chapters."
+    },
+    {
+     "page": 665,
+     "text": "Briefly, these include (1) changes in vascular tone resulting from changes in local skin heat (see Chapter 73); (2) sweating, which results from localized heat on the surface of the body (see Chapter 73); (3) intestinointestinal reflexes that control some motor functions of the gut (see Chapter 62); (4) peritoneointestinal reflexes that inhibit gastrointestinal motility in response to peritoneal irritation (see Chapter 66); and (5) evacuation reflexes for emptying the full bladder (see Chapter 31) or the colon (see Chapter 63)."
+    },
+    {
+     "page": 665,
+     "text": "In addition, all the segmental reflexes can at times be elicited simultaneously in the form of the so-called mass reflex, described next."
+    },
+    {
+     "page": 665,
+     "text": "In a spinal animal or human being, sometimes the spinal cord suddenly becomes excessively active, causing massive discharge in large portions of the cord."
+    },
+    {
+     "page": 665,
+     "text": "The usual stimulus that causes this is a strong pain stimulus to the skin or excessive filling of a viscus, such as overdistention of the bladder or the gut."
+    },
+    {
+     "page": 665,
+     "text": "Regardless of the type of stimulus, the resulting reflex, called the mass reflex, involves large portions or even all of the cord."
+    },
+    {
+     "page": 665,
+     "text": "The effects are (1) a major portion of the body’s skeletal muscles goes into strong flexor spasm; (2) the colon and bladder are likely to evacuate; (3) the arterial pressure often rises to maximal values, sometimes to a systolic pressure well over 200 mm Hg; and (4) large areas of the body break out into profuse sweating."
+    },
+    {
+     "page": 665,
+     "text": "Because the mass reflex can last for minutes, it presumably results from activation of great numbers of reverberating circuits that excite large areas of the cord at once."
+    },
+    {
+     "page": 665,
+     "text": "This is similar to the mechanism of epileptic seizures, which involve reverberating circuits that occur in the brain instead of in the cord."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_spinal_shock": {
+   "heading": "Spinal Cord Transection and Spinal Shock",
+   "chapter": 54,
+   "found": true,
+   "page_start": 665,
+   "page_end": 665,
+   "sentences": [
+    {
+     "page": 665,
+     "text": "When the spinal cord is suddenly transected in the upper neck, at first, essentially all cord functions, including the cord reflexes, immediately become depressed to the point of total silence, a reaction called spinal shock."
+    },
+    {
+     "page": 665,
+     "text": "The reason for this is that normal activity of the cord neurons depends to a great extent on continual tonic excitation by the discharge of nerve fibers entering the cord from higher centers, particularly discharge transmitted through the reticulospinal tracts, vestibulospinal tracts, and corticospinal tracts."
+    },
+    {
+     "page": 665,
+     "text": "After a few hours to a few weeks, the spinal neurons gradually regain their excitability."
+    },
+    {
+     "page": 665,
+     "text": "This seems to be a natural characteristic of neurons everywhere in the nervous system—that is, after they lose their source of facilitatory impulses, they increase their own natural degree of excitability to make up at least partially for the loss."
+    },
+    {
+     "page": 665,
+     "text": "In most nonprimates, excitability of the cord centers returns essentially to normal within a few hours to a day or so, but in human beings, the return is often delayed for several weeks and occasionally is never complete; conversely, sometimes recovery is excessive, with resultant hyperexcitability of some or all cord functions."
+    },
+    {
+     "page": 665,
+     "text": "Some of the spinal functions specifically affected during or after spinal shock are the following: 1."
+    },
+    {
+     "page": 665,
+     "text": "At onset of spinal shock, the arterial blood pressure falls instantly and drastically—sometimes to as low as 40 mm Hg—thus demonstrating that sympathetic nervous system activity becomes blocked almost to extinction."
+    },
+    {
+     "page": 665,
+     "text": "The pressure ordinarily returns to normal within a few days, even in human beings."
+    },
+    {
+     "page": 665,
+     "text": "All skeletal muscle reflexes integrated in the spinal cord are blocked during the initial stages of shock."
+    },
+    {
+     "page": 665,
+     "text": "In lower animals, a few hours to a few days are required for these reflexes to return to normal; in human beings, 2 weeks to several months are sometimes required."
+    },
+    {
+     "page": 665,
+     "text": "In both animals and humans, some reflexes may eventually become hyperexcitable, particularly if a few facilitatory pathways remain intact between the brain and the cord while the remainder of the spinal cord is transected."
+    },
+    {
+     "page": 665,
+     "text": "The first reflexes to return are the stretch reflexes, followed in order by the progressively more complex reflexes: flexor reflexes, postural antigravity reflexes, and remnants of stepping reflexes."
+    },
+    {
+     "page": 665,
+     "text": "The sacral reflexes for control of bladder and colon evacuation are suppressed in human beings for the first few weeks after cord transection, but in most cases they eventually return."
+    },
+    {
+     "page": 665,
+     "text": "These effects are discussed in Chapters 31 and 66."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_motor_cortex": {
+   "heading": "Motor Cortex and Corticospinal Tract",
+   "chapter": 55,
+   "found": true,
+   "page_start": 667,
+   "page_end": 667,
+   "sentences": [
+    {
+     "page": 667,
+     "text": "Figure 55-1 shows the functional areas of the cerebral cortex."
+    },
+    {
+     "page": 667,
+     "text": "Anterior to the central cortical sulcus, occupying approximately the posterior one third of the frontal lobes, is the motor cortex."
+    },
+    {
+     "page": 667,
+     "text": "Posterior to the central sulcus is the somatosensory cortex (an area discussed in detail in earlier chapters), which feeds the motor cortex many of the signals that initiate motor activities."
+    },
+    {
+     "page": 667,
+     "text": "The motor cortex itself is divided into three subareas, each of which has its own topographical representation of muscle groups and specific motor functions: (1) the primary motor cortex, (2) the premotor area, and (3) the supplementary motor area."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_primary_motor": {
+   "heading": "Primary Motor Cortex",
+   "chapter": 55,
+   "found": true,
+   "page_start": 667,
+   "page_end": 667,
+   "sentences": [
+    {
+     "page": 667,
+     "text": "It begins laterally in the sylvian fissure, spreads superiorly to the uppermost portion of the brain, and then dips deep into the longitudinal fissure."
+    },
+    {
+     "page": 667,
+     "text": "This mapping was done by electrically stimulating the different areas of the motor cortex in human beings who were undergoing neurosurgical operations."
+    },
+    {
+     "page": 667,
+     "text": "Note that more than one half of the entire primary motor cortex is concerned with controlling the muscles of the hands and the muscles of speech."
+    },
+    {
+     "page": 667,
+     "text": "Point stimulation in these hand and speech motor areas on rare occasion causes contraction of a single muscle; most often, stimulation contracts a group of muscles instead."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_premotor": {
+   "heading": "Premotor Area",
+   "chapter": 55,
+   "found": true,
+   "page_start": 668,
+   "page_end": 668,
+   "sentences": [
+    {
+     "page": 668,
+     "text": "The topographical organization of the premotor cortex is roughly the same as that of the primary motor cortex, with the mouth and face areas located most laterally; as one moves upward, the hand, arm, trunk, and leg areas are encountered."
+    },
+    {
+     "page": 668,
+     "text": "Nerve signals generated in the premotor area cause much more complex “patterns” of movement than the discrete patterns generated in the primary motor cortex."
+    },
+    {
+     "page": 668,
+     "text": "For instance, the pattern may be to position the shoulders and arms so that the hands are properly oriented to perform specific tasks."
+    },
+    {
+     "page": 668,
+     "text": "To achieve these results, the most anterior part of the premotor area first develops a “motor image” of the total muscle movement that is to be performed."
+    },
+    {
+     "page": 668,
+     "text": "Then, in the posterior premotor cortex, this image excites each successive pattern of muscle activity required to achieve the image."
+    },
+    {
+     "page": 668,
+     "text": "This posterior part of the premotor cortex sends its signals either directly to the primary motor cortex to excite specific muscles or, often, by way of the basal ganglia and thalamus back to the primary motor cortex."
+    },
+    {
+     "page": 668,
+     "text": "A special class of neurons called mirror neurons becomes active when a person performs a specific motor task or when he or she observes the same task performed by others."
+    },
+    {
+     "page": 668,
+     "text": "Thus, the activity of these neurons “mirrors” the behavior of another person as though the observer was performing the specific motor task."
+    },
+    {
+     "page": 668,
+     "text": "Mirror neurons are located in the premotor cortex and the inferior parietal cortex (and perhaps in other regions of the brain) and were first discovered in monkeys."
+    },
+    {
+     "page": 668,
+     "text": "However, brain imaging studies indicate that these neurons are also present in humans and may serve the same functions as observed in monkeys—to transform sensory representations of acts that are heard or seen into motor representations of these acts."
+    },
+    {
+     "page": 668,
+     "text": "Many neurophysiologists believe that these mirror neurons may be important for understanding the actions of other people and for learning new skills by imitation."
+    },
+    {
+     "page": 668,
+     "text": "Thus, the premotor cortex, basal ganglia, thalamus, and primary motor cortex constitute a complex overall system for the control of complex patterns of coordinated muscle activity."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_supplementary": {
+   "heading": "Supplementary Motor Area",
+   "chapter": 55,
+   "found": true,
+   "page_start": 668,
+   "page_end": 668,
+   "sentences": [
+    {
+     "page": 668,
+     "text": "The supplementary motor area has yet another topographical organization for the control of motor function."
+    },
+    {
+     "page": 668,
+     "text": "It lies mainly in the longitudinal fissure but extends a few centimeters onto the superior frontal cortex."
+    },
+    {
+     "page": 668,
+     "text": "Contractions elicited by stimulating this area are often bilateral rather than unilateral."
+    },
+    {
+     "page": 668,
+     "text": "For instance, stimulation frequently leads to bilateral grasping movements of both hands simultaneously; these movements are perhaps rudiments of the hand functions required for climbing."
+    },
+    {
+     "page": 668,
+     "text": "In general, this area functions in concert with the premotor area to provide body-wide attitudinal movements, fixation movements of the different segments of the body, positional movements of the head and eyes, and so forth, as background for the finer motor control of the arms and hands by the premotor area and primary motor cortex."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_specialized": {
+   "heading": "Some Specialized Areas of Motor Control",
+   "chapter": 55,
+   "found": true,
+   "page_start": 668,
+   "page_end": 669,
+   "sentences": [
+    {
+     "page": 668,
+     "text": "These regions have been localized either by electrical stimulation or by noting the loss of motor function when destructive lesions occur in specific cortical areas."
+    },
+    {
+     "page": 668,
+     "text": "Some of the more important regions are the following."
+    },
+    {
+     "page": 668,
+     "text": "Figure 55-3 shows a premotor area labeled “word formation” lying immediately anterior to the primary motor cortex and immediately above the sylvian fissure."
+    },
+    {
+     "page": 668,
+     "text": "This region is called Broca’s area."
+    },
+    {
+     "page": 668,
+     "text": "(Redrawn from Penfield and tongue during speech."
+    },
+    {
+     "page": 668,
+     "text": "Thus, the premotor neuronal activities related to speech are highly complex."
+    },
+    {
+     "page": 669,
+     "text": "In the premotor area immediately above Broca’s area is a locus for controlling voluntary eye movements."
+    },
+    {
+     "page": 669,
+     "text": "Damage to this area prevents a person from voluntarily moving the eyes toward different objects."
+    },
+    {
+     "page": 669,
+     "text": "Instead, the eyes tend to lock involuntarily onto specific objects, an effect controlled by signals from the occipital visual cortex, as explained in Chapter 51."
+    },
+    {
+     "page": 669,
+     "text": "This frontal area also controls eyelid movements such as blinking."
+    },
+    {
+     "page": 669,
+     "text": "Slightly higher in the motor association area, electrical stimulation elicits head rotation."
+    },
+    {
+     "page": 669,
+     "text": "This area is closely associated with the eye movement field; it directs the head toward different objects."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_transmission": {
+   "heading": "Transmission of Signals from the Motor",
+   "chapter": 55,
+   "found": true,
+   "page_start": 669,
+   "page_end": 669,
+   "sentences": [
+    {
+     "page": 669,
+     "text": "Cortex to the Muscles Motor signals are transmitted directly from the cortex to the spinal cord through the corticospinal tract and indirectly through multiple accessory pathways that involve the basal ganglia, cerebellum, and various nuclei of the brain stem."
+    },
+    {
+     "page": 669,
+     "text": "In general, the direct pathways are concerned more with discrete and detailed movements, especially of the distal segments of the limbs, particularly the hands and fingers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_corticospinal": {
+   "heading": "Corticospinal (Pyramidal) Tract",
+   "chapter": 55,
+   "found": true,
+   "page_start": 669,
+   "page_end": 670,
+   "sentences": [
+    {
+     "page": 669,
+     "text": "The corticospinal tract originates about 30 percent from the primary motor cortex, 30 percent from the premotor and supplementary motor areas, and 40 percent from the somatosensory areas posterior to the central sulcus."
+    },
+    {
+     "page": 669,
+     "text": "After leaving the cortex, it passes through the posterior limb of the internal capsule (between the caudate nucleus and the putamen of the basal ganglia) and then downward through the brain stem, forming the pyramids of the medulla."
+    },
+    {
+     "page": 669,
+     "text": "The majority of the pyramidal fibers then cross in the lower medulla to the opposite side and descend into the lateral corticospinal tracts of the cord, finally terminating principally on the interneurons in the intermediate regions of the cord gray matter; a few terminate on sensory relay neurons in the dorsal horn, and a very few terminate directly on the anterior motor neurons that cause muscle contraction."
+    },
+    {
+     "page": 669,
+     "text": "A few of the fibers do not cross to the opposite side in the medulla but pass ipsilaterally down the cord in the ventral corticospinal tracts."
+    },
+    {
+     "page": 669,
+     "text": "Many, if not most, of these fibers eventually cross to the opposite side of the cord either in the neck or in the upper thoracic region."
+    },
+    {
+     "page": 669,
+     "text": "These fibers may be concerned with control of bilateral postural movements by the supplementary motor cortex."
+    },
+    {
+     "page": 669,
+     "text": "The most impressive fibers in the pyramidal tract are a population of large myelinated fibers with a mean diameter of 16 micrometers."
+    },
+    {
+     "page": 669,
+     "text": "These fibers originate from giant pyramidal cells, called Betz cells, that are found only in the primary motor cortex."
+    },
+    {
+     "page": 669,
+     "text": "The Betz cells are about 60 micrometers in diameter, and their fibers transmit nerve impulses to the spinal cord at a velocity of about 70 m/sec, the most rapid rate of transmission of any signals from the brain to the cord."
+    },
+    {
+     "page": 669,
+     "text": "There are about 34,000 of these large Betz cell fibers in each corticospinal tract."
+    },
+    {
+     "page": 669,
+     "text": "The total number of fibers in each corticospinal tract is more than 1 million, so these large fibers represent only 3 percent of the total."
+    },
+    {
+     "page": 669,
+     "text": "The other 97 percent are mainly fibers smaller than 4 micrometers in diameter that conduct background tonic signals to the motor areas of the cord."
+    },
+    {
+     "page": 669,
+     "text": "The motor cortex gives rise to large numbers of additional, mainly small, fibers that go to deep regions in the cerebrum and brain stem, including the following: 1."
+    },
+    {
+     "page": 669,
+     "text": "The axons from the giant Betz cells send short collaterals back to the cortex itself."
+    },
+    {
+     "page": 669,
+     "text": "These collaterals are believed to inhibit adjacent regions of the cortex when the Betz cells discharge, thereby “sharpening” the boundaries of the excitatory signal."
+    },
+    {
+     "page": 669,
+     "text": "A large number of fibers pass from the motor cortex into the caudate nucleus and putamen."
+    },
+    {
+     "page": 669,
+     "text": "From there, additional pathways extend into the brain stem and spinal cord, as discussed in the next chapter, mainly to control body postural muscle contractions."
+    },
+    {
+     "page": 670,
+     "text": "A moderate number of motor fibers pass to red nuclei of the midbrain."
+    },
+    {
+     "page": 670,
+     "text": "From these, additional fibers pass down the cord through the rubrospinal tract."
+    },
+    {
+     "page": 670,
+     "text": "A moderate number of motor fibers deviate into the reticular substance and vestibular nuclei of the brain stem; from there, signals go to the cord by way of reticulospinal and vestibulospinal tracts, and others go to the cerebellum by way of reticulocerebellar and vestibulocerebellar tracts."
+    },
+    {
+     "page": 670,
+     "text": "A tremendous number of motor fibers synapse in the pontile nuclei, which give rise to the pontocerebellar fibers, carrying signals into the cerebellar hemispheres."
+    },
+    {
+     "page": 670,
+     "text": "Collaterals also terminate in the inferior olivary nuclei, and from there, secondary olivocerebellar fibers transmit signals to multiple areas of the cerebellum."
+    },
+    {
+     "page": 670,
+     "text": "Thus, the basal ganglia, brain stem, and cerebellum all receive strong motor signals from the corticospinal system every time a signal is transmitted down the spinal cord to cause a motor activity."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_sensory_input": {
+   "heading": "Incoming Sensory Fiber Pathways to the Motor Cortex",
+   "chapter": 55,
+   "found": true,
+   "page_start": 670,
+   "page_end": 670,
+   "sentences": [
+    {
+     "page": 670,
+     "text": "The functions of the motor cortex are controlled mainly by nerve signals from the somatosensory system but also, to some degree, from other sensory systems such as hearing and vision."
+    },
+    {
+     "page": 670,
+     "text": "Once the sensory information is received, the motor cortex operates in association with the basal ganglia and cerebellum to excite an appropriate course of motor action."
+    },
+    {
+     "page": 670,
+     "text": "The more important incoming fiber pathways to the motor cortex are the following: 1."
+    },
+    {
+     "page": 670,
+     "text": "Subcortical fibers from adjacent regions of the cerebral cortex, especially from (a) the somatosensory areas of the parietal cortex, (b) the adjacent areas of the frontal cortex anterior to the motor cortex, and (c) the visual and auditory cortices."
+    },
+    {
+     "page": 670,
+     "text": "Subcortical fibers that arrive through the corpus callosum from the opposite cerebral hemisphere."
+    },
+    {
+     "page": 670,
+     "text": "These fibers connect corresponding areas of the cortices in the two sides of the brain."
+    },
+    {
+     "page": 670,
+     "text": "Somatosensory fibers that arrive directly from the ventrobasal complex of the thalamus."
+    },
+    {
+     "page": 670,
+     "text": "These relay mainly cutaneous tactile signals and joint and muscle signals from the peripheral body."
+    },
+    {
+     "page": 670,
+     "text": "Tracts from the ventrolateral and ventroanterior nuclei of the thalamus, which in turn receive signals from the cerebellum and basal ganglia."
+    },
+    {
+     "page": 670,
+     "text": "These tracts provide signals that are necessary for coordination among the motor control functions of the motor cortex, basal ganglia, and cerebellum."
+    },
+    {
+     "page": 670,
+     "text": "Fibers from the intralaminar nuclei of the thalamus."
+    },
+    {
+     "page": 670,
+     "text": "These fibers control the general level of excitability of the motor cortex in the same way they control the general level of excitability of most other regions of the cerebral cortex."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_red_nucleus": {
+   "heading": "Red Nucleus Serves as an Alternative Pathway",
+   "chapter": 55,
+   "found": true,
+   "page_start": 670,
+   "page_end": 671,
+   "sentences": [
+    {
+     "page": 670,
+     "text": "The red nucleus, located in the mesencephalon, functions in close association with the corticospinal tract."
+    },
+    {
+     "page": 670,
+     "text": "These fibers synapse in the lower portion of the red nucleus, the magnocellular portion, which contains large neurons similar in size to the Betz cells in the motor cortex."
+    },
+    {
+     "page": 670,
+     "text": "These large neurons then give rise to the rubrospinal tract, which crosses to the opposite side in the lower brain stem and follows a course immediately adjacent and anterior to the corticospinal tract into the lateral columns of the spinal cord."
+    },
+    {
+     "page": 670,
+     "text": "The rubrospinal fibers terminate mostly on the interneurons of the intermediate areas of the cord gray matter, along with the corticospinal fibers, but some of the rubrospinal fibers terminate directly on anterior motor neurons, along with some corticospinal fibers."
+    },
+    {
+     "page": 670,
+     "text": "The red nucleus also has close connections with the cerebellum, similar to the connections between the motor cortex and the cerebellum."
+    },
+    {
+     "page": 670,
+     "text": "Philadelphia: magnocellular portion of the red nucleus has a somatographic representation of all the muscles of the body, as is true of the motor cortex."
+    },
+    {
+     "page": 670,
+     "text": "Therefore, stimulation of a single point in this portion of the red nucleus causes contraction of either a single muscle or a small group of muscles."
+    },
+    {
+     "page": 670,
+     "text": "However, the fineness of representation of the different muscles is far less developed than in the motor cortex."
+    },
+    {
+     "page": 670,
+     "text": "This is especially true in human beings, who have relatively small red nuclei."
+    },
+    {
+     "page": 671,
+     "text": "The corticorubrospinal pathway serves as an accessory route for transmission of relatively discrete signals from the motor cortex to the spinal cord."
+    },
+    {
+     "page": 671,
+     "text": "When the corticospinal fibers are destroyed but the corticorubrospinal pathway is intact, discrete movements can still occur, except that the movements for fine control of the fingers and hands are considerably impaired."
+    },
+    {
+     "page": 671,
+     "text": "Wrist movements are still functional, which is not the case when the corticorubrospinal pathway is also blocked."
+    },
+    {
+     "page": 671,
+     "text": "Therefore, the pathway through the red nucleus to the spinal cord is associated with the corticospinal system."
+    },
+    {
+     "page": 671,
+     "text": "Further, the rubrospinal tract lies in the lateral columns of the spinal cord, along with the corticospinal tract, and terminates on the interneurons and motor neurons that control the more distal muscles of the limbs."
+    },
+    {
+     "page": 671,
+     "text": "Therefore, the corticospinal and rubrospinal tracts together are called the lateral motor system of the cord, in contradistinction to a vestibuloreticulospinal system, which lies mainly medially in the cord and is called the medial motor system of the cord, as discussed later in this chapter."
+    },
+    {
+     "page": 671,
+     "text": "The term extrapyramidal motor system is widely used in clinical circles to denote all those portions of the brain and brain stem that contribute to motor control but are not part of the direct corticospinal-pyramidal system."
+    },
+    {
+     "page": 671,
+     "text": "These include pathways through the basal ganglia, the reticular formation of the brain stem, the vestibular nuclei, and often the red nuclei."
+    },
+    {
+     "page": 671,
+     "text": "This is such an all-inclusive and diverse group of motor control areas that it is difficult to ascribe specific neurophysiologic functions to the so-called extrapyramidal system as a whole."
+    },
+    {
+     "page": 671,
+     "text": "In fact, the pyramidal and extrapyramidal systems are extensively interconnected and interact to control movement."
+    },
+    {
+     "page": 671,
+     "text": "For these reasons, the term “extrapyramidal” is being used less often both clinically and physiologically."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_patterns": {
+   "heading": "Patterns of Movement Elicited by Spinal Cord",
+   "chapter": 55,
+   "found": true,
+   "page_start": 672,
+   "page_end": 672,
+   "sentences": [
+    {
+     "page": 672,
+     "text": "From Chapter 54, recall that the spinal cord can provide certain specific reflex patterns of movement in response to sensory nerve stimulation."
+    },
+    {
+     "page": 672,
+     "text": "Many of these same patterns are also important when the cord’s anterior motor neurons are excited by signals from the brain."
+    },
+    {
+     "page": 672,
+     "text": "For example, the stretch reflex is functional at all times, helping to damp any oscillations of the motor movements initiated from the brain, and probably also providing at least part of the motive power required to cause muscle contractions when the intrafusal fibers of the muscle spindles contract more than the large skeletal muscle fibers do, thus eliciting reflex “servo-assist” stimulation of the muscle, in addition to the direct stimulation by the corticospinal fibers."
+    },
+    {
+     "page": 672,
+     "text": "Also, when a brain signal excites a muscle, it is usually unnecessary to transmit an inverse signal to relax the antagonist muscle at the same time; this is achieved by the reciprocal innervation circuit that is always present in the cord for coordinating the function of antagonistic pairs of muscles."
+    },
+    {
+     "page": 672,
+     "text": "Finally, other cord reflex mechanisms, such as withdrawal, stepping and walking, scratching, and postural mechanisms, can each be activated by “command” signals from the brain."
+    },
+    {
+     "page": 672,
+     "text": "Thus, simple command signals from the brain can initiate many normal motor activities, particularly for such functions as walking and attaining different postural attitudes of the body."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_lesions": {
+   "heading": "Effect of Lesions in the Motor Cortex or in the Corticospinal",
+   "chapter": 55,
+   "found": true,
+   "page_start": 672,
+   "page_end": 673,
+   "sentences": [
+    {
+     "page": 672,
+     "text": "The motor control system can be damaged by the common abnormality called a “stroke.” This is caused by either a ruptured blood vessel that hemorrhages into the brain or by thrombosis of one of the major arteries supplying the brain."
+    },
+    {
+     "page": 672,
+     "text": "In either case, the result is loss of blood supply to the cortex or to the corticospinal tract where it passes through the internal capsule between the caudate nucleus and the putamen."
+    },
+    {
+     "page": 672,
+     "text": "Also, experiments have been performed in animals to selectively remove different parts of the motor cortex."
+    },
+    {
+     "page": 673,
+     "text": "If the sublying caudate nucleus and adjacent premotor and supplementary motor areas are not damaged, gross postural and limb “fixation” movements can still occur, but there is loss of voluntary control of discrete movements of the distal segments of the limbs, especially of the hands and fingers."
+    },
+    {
+     "page": 673,
+     "text": "This does not mean that the hand and finger muscles themselves cannot contract; rather, the ability to control the fine movements is gone."
+    },
+    {
+     "page": 673,
+     "text": "From these observations, one can conclude that the area pyramidalis is essential for voluntary initiation of finely controlled movements, especially of the hands and fingers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s7_spasticity": {
+   "heading": "Muscle Spasticity Caused by Lesions",
+   "chapter": 55,
+   "found": true,
+   "page_start": 673,
+   "page_end": 673,
+   "sentences": [
+    {
+     "page": 673,
+     "text": "Most lesions of the motor cortex, especially those caused by a stroke, involve not only the primary motor cortex but also adjacent parts of the brain such as the basal ganglia."
+    },
+    {
+     "page": 673,
+     "text": "In these instances, muscle spasm almost invariably occurs in the afflicted muscle areas on the opposite side of the body (because the motor pathways cross to the opposite side)."
+    },
+    {
+     "page": 673,
+     "text": "This spasm results mainly from damage to accessory pathways from the nonpyramidal portions of the motor cortex."
+    },
+    {
+     "page": 673,
+     "text": "These pathways normally inhibit the vestibular and reticular brain stem motor nuclei."
+    },
+    {
+     "page": 673,
+     "text": "When these nuclei cease their state of inhibition (i.e., are “disinhibited”), they become spontaneously active and cause excessive spastic tone in the involved muscles, as we discuss more fully later in the chapter."
+    },
+    {
+     "page": 673,
+     "text": "This is the spasticity that normally accompanies a “stroke” in a human being."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}
