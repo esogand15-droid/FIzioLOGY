@@ -251,6 +251,27 @@ SESSIONS = {
         divider_title="نوروفیزیولوژی:\nاز بیداری\nتا خواب و صرع",
         pdf_name="HumsYar_Neuro_Jalase12.pdf",
     ),
+    "s13": dict(
+        guyton_ch_num="۶۰",
+        deck_pages=17,
+        num="۱۳", n=13, of="۱۶",
+        guyton_ch="فصل ۶۰ (سیستم اتونوم و مدولای آدرنال)",
+        no1404=True,
+        single_part=True,
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر مقایسهٔ اتونوم و پیکری و "
+              "پایانه‌ها و مسیر دو نورونی (۱ تا ۴)، دو نفر آناتومی سمپاتیک و پاراسمپاتیک "
+              "و جدول مقایسه (۵ تا ۷)، دو نفر نوروترانسمیترها و گیرنده‌های آدرنرژیک و "
+              "کولینرژیک (۸ تا ۱۲)، دو نفر جدول اندام‌ها و جمع‌بندی (۱۳ تا ۱۶) به‌همراه "
+              "گردآوری. این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.",
+        outline="s13_topics.json",
+        content=("s13_a.json", "s13_b.json", "s13_c.json"),
+        guyton="guyton_s13_excerpts.json",
+        chapter_anchor="ch-s13",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="سیستم عصبی اتونوم",
+        divider_title="نوروفیزیولوژی:\nاز گانگلیون\nتا اندام",
+        pdf_name="HumsYar_Neuro_Jalase13.pdf",
+    ),
 }
 
 SESSION = "s01"
@@ -493,7 +514,7 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
          "نقل شده و املا نادرست است، در همان جمله اصلاح شده است."),
         (f"این جلسه جزوهٔ مهر ۱۴۰۴ ندارد؛ بنابراین در تمام سند هیچ ارجاعی به ۱۴۰۴ نیامده و متن "
          f"فقط بر جزوهٔ بهمن ۱۴۰۲ و گایتون فصل {cfg.get('guyton_ch_num', '۵۵')} استوار است. "
-         f"جزوهٔ ۱۴۰۲ این جلسه یک پارت {fa(max(p for t in outline['topics'] for p in t.get('notes1402', [0])))} "
+         f"جزوهٔ ۱۴۰۲ این جلسه یک پارت {fa(cfg.get('deck_pages') or max(p for t in outline['topics'] for p in t.get('notes1402', [0])))} "
          "صفحه‌ای است، پس در ارجاع‌ها فقط شمارهٔ صفحه آمده است."
          if cfg.get("single_part") else
          "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد؛ بنابراین در تمام سند هیچ ارجاعی به ۱۴۰۴ نیامده و متن "
@@ -622,6 +643,9 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
 
 def topic_head(book: PDFBook, t: dict, idx: int, total: int, outline: dict) -> None:
     anchor = t["topic_id"]
+    # a topic never starts at the very bottom of a page: heading + meta + the
+    # first lines of its identification card stay together
+    book.ensure(120)
     book.h2(t["title"], anchor=anchor)
     pre = "؛ ".join(f"مبحث {tno(p['topic_id'])} — {p.get('level','')}" for p in t["prerequisites"])
     if t.get("notes1402_p2") and t.get("notes1402"):

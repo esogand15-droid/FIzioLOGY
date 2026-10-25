@@ -1,0 +1,1226 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "s13_general": {
+   "heading": "General Organization of the Autonomic",
+   "chapter": 60,
+   "found": true,
+   "page_start": 729,
+   "page_end": 729,
+   "sentences": [
+    {
+     "page": 729,
+     "text": "The autonomic nervous system is activated mainly by centers located in the spinal cord, brain stem, and hypothalamus."
+    },
+    {
+     "page": 729,
+     "text": "Also, portions of the cerebral cortex, especially of the limbic cortex, can transmit signals to the lower centers and in this way influence autonomic control."
+    },
+    {
+     "page": 729,
+     "text": "The autonomic nervous system also often operates through visceral reflexes."
+    },
+    {
+     "page": 729,
+     "text": "That is, subconscious sensory signals from a visceral organ can enter the autonomic ganglia, the brain stem, or the hypothalamus and then return subconscious reflex responses directly back to the visceral organ to control its activities."
+    },
+    {
+     "page": 729,
+     "text": "The efferent autonomic signals are transmitted to the various organs of the body through two major subdivisions called the sympathetic nervous system and the parasympathetic nervous system, the characteristics and functions of which follow."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_symp_anat": {
+   "heading": "Physiologic Anatomy of the Sympathetic Nervous System",
+   "chapter": 60,
+   "found": true,
+   "page_start": 729,
+   "page_end": 730,
+   "sentences": [
+    {
+     "page": 729,
+     "text": "Figure 60-1 shows the general organization of the peripheral portions of the sympathetic nervous system."
+    },
+    {
+     "page": 729,
+     "text": "Shown specifically in the figure are (1) one of the two paravertebral sympathetic chains of ganglia that are interconnected with the spinal nerves on the side of the vertebral column, (2) two prevertebral ganglia (the celiac and hypogastric), and (3) nerves extending from the ganglia to the different internal organs."
+    },
+    {
+     "page": 729,
+     "text": "The sympathetic nerve fibers originate in the spinal cord along with spinal nerves between cord segments T-1 and L-2 and pass first into the sympathetic chain and then to the tissues and organs that are stimulated by the sympathetic nerves."
+    },
+    {
+     "page": 729,
+     "text": "The sympathetic nerves are different from skeletal motor nerves in the following way: Each sympathetic pathway from the cord to the stimulated tissue is composed of two neurons, a preganglionic neuron and a postganglionic neuron, in contrast to only a single neuron in the skeletal motor pathway."
+    },
+    {
+     "page": 729,
+     "text": "Immediately after the spinal nerve leaves the spinal canal, the preganglionic sympathetic fibers leave the spinal nerve and pass through a white ramus into one of the ganglia of the sympathetic chain."
+    },
+    {
+     "page": 729,
+     "text": "Then the course of the fibers can be one of the following three: (1) It can synapse with postganglionic sympathetic neurons in the ganglion that it enters; (2) it can pass upward or downward in the chain and synapse in one of the other ganglia of the chain; or (3) it can pass for variable distances through the chain and then through one of the sympathetic nerves radiating outward from the chain, finally synapsing in a peripheral sympathetic ganglion."
+    },
+    {
+     "page": 729,
+     "text": "The postganglionic sympathetic neuron thus originates either in one of the sympathetic chain ganglia or in one of the peripheral sympathetic ganglia."
+    },
+    {
+     "page": 729,
+     "text": "From either of these two sources, the postganglionic fibers then travel to their destinations in the various organs."
+    },
+    {
+     "page": 729,
+     "text": "These sympathetic fibers are all very small type C fibers, and they extend to all parts of the body by way of the skeletal nerves."
+    },
+    {
+     "page": 729,
+     "text": "They control the blood vessels, sweat glands, and piloerector muscles of the hairs."
+    },
+    {
+     "page": 729,
+     "text": "About 8 percent of the fibers in the average skeletal nerve are sympathetic fibers, a fact that indicates their great importance."
+    },
+    {
+     "page": 730,
+     "text": "The sympathetic pathways that originate in the different segments of the spinal cord are not necessarily distributed to the same part of the body as the somatic spinal nerve fibers from the same segments."
+    },
+    {
+     "page": 730,
+     "text": "Instead, the sympathetic fibers from cord segment T-1 generally pass up the sympathetic chain to terminate in the head; from T-2 to terminate in the neck; from T-3, T-4, T-5, and T-6 into the thorax; from T-7, T-8, T-9, T-10, and T-11 into the abdomen; and from T-12, L-1, and L-2 into the legs."
+    },
+    {
+     "page": 730,
+     "text": "This distribution is only approximate and overlaps greatly."
+    },
+    {
+     "page": 730,
+     "text": "The distribution of sympathetic nerves to each organ is determined partly by the locus in the embryo from which the organ originated."
+    },
+    {
+     "page": 730,
+     "text": "For instance, the heart receives many sympathetic nerve fibers from the neck portion of the sympathetic chain because the heart originated in the neck of the embryo before translocating into the thorax."
+    },
+    {
+     "page": 730,
+     "text": "Likewise, the abdominal organs receive most of their sympathetic innervation from the lower thoracic spinal cord segments because most of the primitive gut originated in this area."
+    },
+    {
+     "page": 730,
+     "text": "There they end directly on modified neuronal cells that secrete epinephrine and norepinephrine into the blood stream."
+    },
+    {
+     "page": 730,
+     "text": "These secretory cells embryologically are derived from nervous tissue and are actually themselves postganglionic neurons; indeed, they even have rudimentary nerve fibers, and it is the endings of these fibers that secrete the adrenal hormones epinephrine and norepinephrine."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_para_anat": {
+   "heading": "Physiologic Anatomy of the Parasympathetic",
+   "chapter": 60,
+   "found": true,
+   "page_start": 730,
+   "page_end": 731,
+   "sentences": [
+    {
+     "page": 730,
+     "text": "About 75 percent of all parasympathetic nerve fibers are in the vagus nerves (cranial nerve X), passing to the entire thoracic and abdominal regions of the body."
+    },
+    {
+     "page": 730,
+     "text": "Therefore, a physiologist speaking of the parasympathetic nervous system often thinks mainly of the two vagus nerves."
+    },
+    {
+     "page": 730,
+     "text": "The vagus nerves supply parasympathetic nerves to the heart, lungs, esophagus, stomach, entire small intestine, proximal half of the colon, liver, gallbladder, pancreas, kidneys, and upper portions of the ureters."
+    },
+    {
+     "page": 730,
+     "text": "Parasympathetic fibers in the third cranial nerve go to the pupillary sphincter and ciliary muscle of the eye."
+    },
+    {
+     "page": 731,
+     "text": "And fibers from the ninth cranial nerve go to the parotid gland."
+    },
+    {
+     "page": 731,
+     "text": "The sacral parasympathetic fibers are in the pelvic nerves, which pass through the spinal nerve sacral plexus on each side of the cord at the S-2 and S-3 levels."
+    },
+    {
+     "page": 731,
+     "text": "These fibers then distribute to the descending colon, rectum, urinary bladder, and lower portions of the ureters."
+    },
+    {
+     "page": 731,
+     "text": "Also, this sacral group of parasympathetics supplies nerve signals to the external genitalia to cause erection."
+    },
+    {
+     "page": 731,
+     "text": "However, except in the case of a few cranial parasympathetic nerves, the preganglionic fibers pass uninterrupted all the way to the organ that is to be controlled."
+    },
+    {
+     "page": 731,
+     "text": "In the wall of the organ are located the postganglionic neurons."
+    },
+    {
+     "page": 731,
+     "text": "The preganglionic fibers synapse with these, and extremely short postganglionic fibers, a fraction of a millimeter to several centimeters in length, leave the neurons to innervate the tissues of the organ."
+    },
+    {
+     "page": 731,
+     "text": "This location of the parasympathetic postganglionic neurons in the visceral organ itself is quite different from the arrangement of the sympathetic ganglia because the cell bodies of the sympathetic postganglionic neurons are almost always located in the ganglia of the sympathetic chain or in various other discrete ganglia in the abdomen, rather than in the excited organ itself."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_transmitters": {
+   "heading": "Cholinergic and Adrenergic Fibers",
+   "chapter": 60,
+   "found": true,
+   "page_start": 731,
+   "page_end": 731,
+   "sentences": [
+    {
+     "page": 731,
+     "text": "Those fibers that secrete acetylcholine are said to be cholinergic."
+    },
+    {
+     "page": 731,
+     "text": "Those that secrete norepinephrine are said to be adrenergic, a term derived from adrenalin, which is an alternate name for epinephrine."
+    },
+    {
+     "page": 731,
+     "text": "All preganglionic neurons are cholinergic in both the sympathetic and the parasympathetic nervous systems."
+    },
+    {
+     "page": 731,
+     "text": "Acetylcholine or acetylcholine-like substances, when applied to the ganglia, will excite both sympathetic and parasympathetic postganglionic neurons."
+    },
+    {
+     "page": 731,
+     "text": "Either all or almost all of the postganglionic neurons of the parasympathetic system are also cholinergic."
+    },
+    {
+     "page": 731,
+     "text": "Conversely, most of the postganglionic sympathetic neurons are adrenergic."
+    },
+    {
+     "page": 731,
+     "text": "However, the postganglionic sympathetic nerve fibers to the sweat glands, to the piloerector muscles of the hairs, and to a very few blood vessels are cholinergic."
+    },
+    {
+     "page": 731,
+     "text": "Thus, the terminal nerve endings of the parasympathetic system all or virtually all secrete acetylcholine."
+    },
+    {
+     "page": 731,
+     "text": "Almost all of the sympathetic nerve endings secrete norepinephrine, but a few secrete acetylcholine."
+    },
+    {
+     "page": 731,
+     "text": "These neurotransmitters in turn act on the different organs to cause respective parasympathetic or sympathetic effects."
+    },
+    {
+     "page": 731,
+     "text": "Therefore, acetylcholine is called a parasympathetic transmitter and norepinephrine is called a sympathetic transmitter."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_secretion": {
+   "heading": "Mechanisms of Transmitter Secretion",
+   "chapter": 60,
+   "found": true,
+   "page_start": 732,
+   "page_end": 732,
+   "sentences": [
+    {
+     "page": 732,
+     "text": "A few of the postganglionic autonomic nerve endings, especially those of the parasympathetic nerves, are similar to but much smaller than those of the skeletal neuromuscular junction."
+    },
+    {
+     "page": 732,
+     "text": "However, many of the parasympathetic nerve fibers and almost all the sympathetic fibers merely touch the effector cells of the organs that they innervate as they pass by; or in some instances, they terminate in connective tissue located adjacent to the cells that are to be stimulated."
+    },
+    {
+     "page": 732,
+     "text": "Where these filaments touch or pass over or near the cells to be stimulated, they usually have bulbous enlargements called varicosities; it is in these varicosities that the transmitter vesicles of acetylcholine or norepinephrine are synthesized and stored."
+    },
+    {
+     "page": 732,
+     "text": "Also in the varicosities are large numbers of mitochondria that supply adenosine triphosphate, which is required to energize acetylcholine or norepinephrine synthesis."
+    },
+    {
+     "page": 732,
+     "text": "When an action potential spreads over the terminal fibers, the depolarization process increases the permeability of the fiber membrane to calcium ions, allowing these ions to diffuse into the nerve terminals or nerve varicosities."
+    },
+    {
+     "page": 732,
+     "text": "The calcium ions in turn cause the terminals or varicosities to empty their contents to the exterior."
+    },
+    {
+     "page": 732,
+     "text": "Thus, the transmitter substance is secreted."
+    },
+    {
+     "page": 732,
+     "text": "The basic chemical reaction of this synthesis is the following: Choline acetyltransferaseÆæææ Once acetylcholine is secreted into a tissue by a cholinergic nerve ending, it persists in the tissue for a few seconds while it performs its nerve signal transmitter function."
+    },
+    {
+     "page": 732,
+     "text": "Then it is split into an acetate ion and choline, catalyzed by the enzyme acetylcholinesterase that is bound with collagen and glycosaminoglycans in the local connective tissue."
+    },
+    {
+     "page": 732,
+     "text": "This is the same mechanism for acetylcholine signal transmission and subsequent acetylcholine destruction that occurs at the neuromuscular junctions of skeletal nerve fibers."
+    },
+    {
+     "page": 732,
+     "text": "The choline that is formed is then transported back into the terminal nerve ending, where it is used again and again for synthesis of new acetylcholine."
+    },
+    {
+     "page": 732,
+     "text": "The basic steps are the following: In the adrenal medulla, this reaction goes still one step further to transform about 80 per cent of the norepinephrine into epinephrine, as follows: After secretion of norepinephrine by the terminal nerve endings, it is removed from the secretory site in three ways: (1) reuptake into the adrenergic nerve endings by an active transport process—accounting for removal of 50 to 80 percent of the secreted norepinephrine; (2) diffusion away from the nerve endings into the surrounding body fluids and then into the blood—accounting for removal of most of the remaining norepinephrine; and (3) destruction of small amounts by tissue enzymes (one of these enzymes is monoamine oxidase, which is found in the nerve endings, and another is catechol-O-methyl transferase, which is present diffusely in all tissues)."
+    },
+    {
+     "page": 732,
+     "text": "Ordinarily, the norepinephrine secreted directly into a tissue remains active for only a few seconds, demonstrating that its reuptake and diffusion away from the tissue are rapid."
+    },
+    {
+     "page": 732,
+     "text": "However, the norepinephrine and epinephrine secreted into the blood by the adrenal medullae remain active until they diffuse into some tissue, where they can be destroyed by catechol-O-methyl transferase; this occurs mainly in the liver."
+    },
+    {
+     "page": 732,
+     "text": "Therefore, when secreted into the blood, both norepinephrine and epinephrine remain active for 10 to 30 seconds; but their activity declines to extinction over 1 to several minutes."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_receptors": {
+   "heading": "Receptors on the Effector Organs",
+   "chapter": 60,
+   "found": true,
+   "page_start": 732,
+   "page_end": 733,
+   "sentences": [
+    {
+     "page": 732,
+     "text": "Before acetylcholine, norepinephrine, or epinephrine secreted at an autonomic nerve ending can stimulate an effector organ, it must first bind with specific receptors on the effector cells."
+    },
+    {
+     "page": 732,
+     "text": "The receptor is on the outside of the cell membrane, bound as a prosthetic group to a protein molecule that penetrates all the way through the cell membrane."
+    },
+    {
+     "page": 732,
+     "text": "When the transmitter substance binds with the receptor, this causes a conformational change in the structure of the protein molecule."
+    },
+    {
+     "page": 732,
+     "text": "In turn, the altered protein molecule excites or inhibits the cell, most often by (1) causing a change in cell membrane permeability to one or more ions or (2) activating or inactivating an enzyme attached to the other end of the receptor protein, where it protrudes into the interior of the cell."
+    },
+    {
+     "page": 732,
+     "text": "For instance, sodium and/or calcium ion channels frequently become opened and allow rapid influx of the respective ions into the cell, usually depolarizing the cell membrane and exciting the cell."
+    },
+    {
+     "page": 732,
+     "text": "At other times, potassium channels are opened, allowing potassium ions to diffuse out of the cell, and this usually inhibits the cell because loss of electropositive potassium ions creates hypernegativity inside the cell."
+    },
+    {
+     "page": 733,
+     "text": "In some cells, the changed intracellular ion environment will cause an internal cell action, such as a direct effect of calcium ions to promote smooth muscle contraction."
+    },
+    {
+     "page": 733,
+     "text": "The enzyme often is attached to the receptor protein where the receptor protrudes into the interior of the cell."
+    },
+    {
+     "page": 733,
+     "text": "For instance, binding of norepinephrine with its receptor on the outside of many cells increases the activity of the enzyme adenylyl cyclase on the inside of the cell, and this causes formation of cyclic adenosine monophosphate (cAMP)."
+    },
+    {
+     "page": 733,
+     "text": "The cAMP in turn can initiate any one of many different intracellular actions, the exact effect depending on the chemical machinery of the effector cell."
+    },
+    {
+     "page": 733,
+     "text": "It is easy to understand how an autonomic transmitter substance can cause inhibition in some organs or excitation in others."
+    },
+    {
+     "page": 733,
+     "text": "This is usually determined by the nature of the receptor protein in the cell membrane and the effect of receptor binding on its conformational state."
+    },
+    {
+     "page": 733,
+     "text": "In each organ, the resulting effects are likely to be different from those in other organs."
+    },
+    {
+     "page": 733,
+     "text": "Acetylcholine activates mainly two types of receptors."
+    },
+    {
+     "page": 733,
+     "text": "They are called muscarinic and nicotinic receptors."
+    },
+    {
+     "page": 733,
+     "text": "The reason for these names is that muscarine, a poison from toadstools, activates only muscarinic receptors and will not activate nicotinic receptors, whereas nicotine activates only nicotinic receptors; acetylcholine activates both of them."
+    },
+    {
+     "page": 733,
+     "text": "Muscarinic receptors are found on all effector cells that are stimulated by the postganglionic cholinergic neurons of either the parasympathetic nervous system or the sympathetic system."
+    },
+    {
+     "page": 733,
+     "text": "Nicotinic receptors are found in the autonomic ganglia at the synapses between the preganglionic and postganglionic neurons of both the sympathetic and parasympathetic systems."
+    },
+    {
+     "page": 733,
+     "text": "(Nicotinic receptors are also present at many nonautonomic nerve endings—for instance, at the neuromuscular junctions in skeletal muscle [discussed in Chapter 7].) An understanding of the two types of receptors is especially important because specific drugs are frequently used as medicine to stimulate or block one or the other of the two types of receptors."
+    },
+    {
+     "page": 733,
+     "text": "There are also two major types of adrenergic receptors, alpha receptors and beta receptors."
+    },
+    {
+     "page": 733,
+     "text": "The beta receptors in turn are divided into beta1, beta2 and beta3 receptors because certain chemicals affect only certain beta receptors."
+    },
+    {
+     "page": 733,
+     "text": "Also, there is a division of alpha receptors into alpha1 and alpha2 receptors."
+    },
+    {
+     "page": 733,
+     "text": "Norepinephrine and epinephrine, both of which are secreted into the blood by the adrenal medulla, have slightly different effects in exciting the alpha and beta receptors."
+    },
+    {
+     "page": 733,
+     "text": "Norepinephrine excites mainly alpha receptors but excites the beta receptors to a lesser extent as well."
+    },
+    {
+     "page": 733,
+     "text": "Conversely, epinephrine excites both types of receptors approximately equally."
+    },
+    {
+     "page": 733,
+     "text": "Therefore, the relative effects of norepinephrine and epinephrine on different effector organs are determined by the types of receptors in the organs."
+    },
+    {
+     "page": 733,
+     "text": "If they are all beta receptors, epinephrine will be the more effective excitant."
+    },
+    {
+     "page": 733,
+     "text": "Note that certain alpha functions are excitatory, whereas others are inhibitory."
+    },
+    {
+     "page": 733,
+     "text": "Likewise, certain beta functions are excitatory and others are inhibitory."
+    },
+    {
+     "page": 733,
+     "text": "Therefore, alpha and beta receptors are not necessarily associated with excitation or inhibition but simply with the affinity of the hormone for the receptors in the given effector organ."
+    },
+    {
+     "page": 733,
+     "text": "A synthetic hormone chemically similar to epinephrine and norepinephrine, isopropyl norepinephrine, has an extremely strong action on beta receptors but essentially no action on alpha receptors."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_effects": {
+   "heading": "Effects of Sympathetic and Parasympathetic Stimulation",
+   "chapter": 60,
+   "found": true,
+   "page_start": 735,
+   "page_end": 736,
+   "sentences": [
+    {
+     "page": 735,
+     "text": "Two functions of the eyes are controlled by the autonomic nervous system."
+    },
+    {
+     "page": 735,
+     "text": "They are (1) the pupillary opening and (2) the focus of the lens."
+    },
+    {
+     "page": 735,
+     "text": "Sympathetic stimulation contracts the meridional fibers of the iris that dilate the pupil, whereas parasympathetic stimulation contracts the circular muscle of the iris to constrict the pupil."
+    },
+    {
+     "page": 735,
+     "text": "The parasympathetics that control the pupil are reflexly stimulated when excess light enters the eyes, which is explained in Chapter 51; this reflex reduces the pupillary opening and decreases the amount of light that strikes the retina."
+    },
+    {
+     "page": 735,
+     "text": "Conversely, the sympathetics become stimulated during periods of excitement and increase pupillary opening at these times."
+    },
+    {
+     "page": 735,
+     "text": "Focusing of the lens is controlled almost entirely by the parasympathetic nervous system."
+    },
+    {
+     "page": 735,
+     "text": "The lens is normally held in a flattened state by intrinsic elastic tension of its radial ligaments."
+    },
+    {
+     "page": 735,
+     "text": "Parasympathetic excitation contracts the ciliary muscle, which is a ringlike body of smooth muscle fibers that encircles the outside ends of the lens radial ligaments."
+    },
+    {
+     "page": 735,
+     "text": "This contraction releases the tension on the ligaments and allows the lens to become more convex, causing the eye to focus on objects near at hand."
+    },
+    {
+     "page": 735,
+     "text": "The detailed focusing mechanism is discussed in Chapters 49 and 51 in relation to function of the eyes."
+    },
+    {
+     "page": 735,
+     "text": "The nasal, lacrimal, salivary, and many gastrointestinal glands are strongly stimulated by the parasympathetic nervous system, usually resulting in copious quantities of watery secretion."
+    },
+    {
+     "page": 735,
+     "text": "The glands of the alimentary tract most strongly stimulated by the parasympathetics are those of the upper tract, especially those of the mouth and stomach."
+    },
+    {
+     "page": 735,
+     "text": "On the other hand, the glands of the small and large intestines are controlled principally by local factors in the intestinal tract itself and by the intestinal enteric nervous system and much less by the autonomic nerves."
+    },
+    {
+     "page": 735,
+     "text": "Sympathetic stimulation has a direct effect on most alimentary gland cells to cause formation of a concentrated secretion that contains high percentages of enzymes and mucus."
+    },
+    {
+     "page": 735,
+     "text": "But it also causes vasoconstriction of the blood vessels that supply the glands and in this way sometimes reduces their rates of secretion."
+    },
+    {
+     "page": 735,
+     "text": "The sweat glands secrete large quantities of sweat when the sympathetic nerves are stimulated, but no effect is caused by stimulating the parasympathetic nerves."
+    },
+    {
+     "page": 735,
+     "text": "However, the sympathetic fibers to most sweat glands are cholinergic (except for a few adrenergic fibers to the palms and soles), in contrast to almost all other sympathetic fibers, which are adrenergic."
+    },
+    {
+     "page": 735,
+     "text": "Furthermore, the sweat glands are stimulated primarily by centers in the hypothalamus that are usually considered to be parasympathetic centers."
+    },
+    {
+     "page": 735,
+     "text": "Therefore, sweating could be called a parasympathetic function, even though it is controlled by nerve fibers that anatomically are distributed through the sympathetic nervous system."
+    },
+    {
+     "page": 735,
+     "text": "The apocrine glands in the axillae secrete a thick, odoriferous secretion as a result of sympathetic stimulation, but they do not respond to parasympathetic stimulation."
+    },
+    {
+     "page": 735,
+     "text": "This secretion actually functions as a lubricant to allow easy sliding motion of the inside surfaces under the shoulder joint."
+    },
+    {
+     "page": 735,
+     "text": "The apocrine glands, despite their close embryological relation to sweat glands, are activated by adrenergic fibers rather than by cholinergic fibers and are also controlled by the sympathetic centers of the central nervous system rather than by the parasympathetic centers."
+    },
+    {
+     "page": 735,
+     "text": "The gastrointestinal system has its own intrinsic set of nerves known as the intramural plexus or the intestinal enteric nervous system, located in the walls of the gut."
+    },
+    {
+     "page": 735,
+     "text": "Also, both parasympathetic and sympathetic stimulation originating in the brain can affect gastrointestinal activity mainly by increasing or decreasing specific actions in the gastrointestinal intramural plexus."
+    },
+    {
+     "page": 735,
+     "text": "Parasympathetic stimulation, in general, increases overall degree of activity of the gastrointestinal tract by promoting peristalsis and relaxing the sphincters, thus allowing rapid propulsion of contents along the tract."
+    },
+    {
+     "page": 735,
+     "text": "This propulsive effect is associated with simultaneous increases in rates of secretion by many of the gastrointestinal glands, described earlier."
+    },
+    {
+     "page": 735,
+     "text": "Normal function of the gastrointestinal tract is not very dependent on sympathetic stimulation."
+    },
+    {
+     "page": 735,
+     "text": "However, strong sympathetic stimulation inhibits peristalsis and increases the tone of the sphincters."
+    },
+    {
+     "page": 735,
+     "text": "The net result is greatly slowed propulsion of food through the tract and sometimes decreased secretion as well—even to the extent of sometimes causing constipation."
+    },
+    {
+     "page": 735,
+     "text": "In general, sympathetic stimulation increases the overall activity of the heart."
+    },
+    {
+     "page": 735,
+     "text": "This is accomplished by increasing both the rate and force of heart contraction."
+    },
+    {
+     "page": 735,
+     "text": "Parasympathetic stimulation causes mainly opposite effects—decreased heart rate and strength of contraction."
+    },
+    {
+     "page": 735,
+     "text": "To express these effects in another way, sympathetic stimulation increases the effectiveness of the heart as a pump, as required during heavy exercise, whereas parasympathetic stimulation decreases heart pumping, allowing the heart to rest between bouts of strenuous activity."
+    },
+    {
+     "page": 735,
+     "text": "Most systemic blood vessels, especially those of the abdominal viscera and skin of the limbs, are constricted by sympathetic stimulation."
+    },
+    {
+     "page": 735,
+     "text": "Parasympathetic stimulation has almost no effects on most blood vessels except to dilate vessels in certain restricted areas, such as in the blush area of the face."
+    },
+    {
+     "page": 735,
+     "text": "Under some conditions, the beta function of the sympathetics causes vascular dilation instead of the usual sympathetic vascular constriction, but this occurs rarely except after drugs have paralyzed the sympathetic alpha vasoconstrictor effects, which, in most blood vessels, are usually far dominant over the beta effects."
+    },
+    {
+     "page": 735,
+     "text": "The arterial pressure is determined by two factors: propulsion of blood by the heart and resistance to flow of blood through the peripheral blood vessels."
+    },
+    {
+     "page": 735,
+     "text": "Sympathetic stimulation increases both propulsion by the heart and resistance to flow, which usually causes a marked acute increase in arterial pressure but often very little change in long-term pressure unless the sympathetics stimulate the kidneys to retain salt and water at the same time."
+    },
+    {
+     "page": 736,
+     "text": "Conversely, moderate parasympathetic stimulation via the vagal nerves decreases pumping by the heart but has virtually no effect on vascular peripheral resistance."
+    },
+    {
+     "page": 736,
+     "text": "Therefore, the usual effect is a slight decrease in arterial pressure."
+    },
+    {
+     "page": 736,
+     "text": "But very strong vagal parasympathetic stimulation can almost stop or occasionally actually stop the heart entirely for a few seconds and cause temporary loss of all or most arterial pressure."
+    },
+    {
+     "page": 736,
+     "text": "Because of the great importance of the sympathetic and parasympathetic control systems, they are discussed many times in this text in relation to multiple body functions."
+    },
+    {
+     "page": 736,
+     "text": "In general, most of the entodermal structures, such as the ducts of the liver, gallbladder, ureter, urinary bladder, and bronchi, are inhibited by sympathetic stimulation but excited by parasympathetic stimulation."
+    },
+    {
+     "page": 736,
+     "text": "Sympathetic stimulation also has multiple metabolic effects such as release of glucose from the liver, increase in blood glucose concentration, increase in glycogenolysis in both liver and muscle, increase in skeletal muscle strength, increase in basal metabolic rate, and increase in mental activity."
+    },
+    {
+     "page": 736,
+     "text": "Finally, the sympathetics and parasympathetics are involved in execution of the male and female sexual acts, as explained in Chapters 80 and 81."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_adrenal": {
+   "heading": "Function of the Adrenal Medullae",
+   "chapter": 60,
+   "found": true,
+   "page_start": 736,
+   "page_end": 736,
+   "sentences": [
+    {
+     "page": 736,
+     "text": "Stimulation of the sympathetic nerves to the adrenal medullae causes large quantities of epinephrine and norepinephrine to be released into the circulating blood, and these two hormones in turn are carried in the blood to all tissues of the body."
+    },
+    {
+     "page": 736,
+     "text": "On average, about 80 percent of the secretion is epinephrine and 20 percent is norepinephrine, although the relative proportions can change considerably under different physiologic conditions."
+    },
+    {
+     "page": 736,
+     "text": "The circulating epinephrine and norepinephrine have almost the same effects on the different organs as the effects caused by direct sympathetic stimulation, except that the effects last 5 to 10 times as long because both of these hormones are removed from the blood slowly over a period of 2 to 4 minutes."
+    },
+    {
+     "page": 736,
+     "text": "Epinephrine causes almost the same effects as those caused by norepinephrine, but the effects differ in the following respects: First, epinephrine, because of its greater effect in stimulating the beta receptors, has a greater effect on cardiac stimulation than does norepinephrine."
+    },
+    {
+     "page": 736,
+     "text": "Second, epinephrine causes only weak constriction of the blood vessels in the muscles, in comparison with much stronger constriction caused by norepinephrine."
+    },
+    {
+     "page": 736,
+     "text": "Because the muscle vessels represent a major segment of the vessels of the body, this difference is of special importance because norepinephrine greatly increases the total peripheral resistance and elevates arterial pressure, whereas epinephrine raises the arterial pressure to a lesser extent but increases the cardiac output more."
+    },
+    {
+     "page": 736,
+     "text": "A third difference between the actions of epinephrine and norepinephrine relates to their effects on tissue metabolism."
+    },
+    {
+     "page": 736,
+     "text": "Epinephrine has 5 to 10 times as great a metabolic effect as norepinephrine."
+    },
+    {
+     "page": 736,
+     "text": "Indeed, the epinephrine secreted by the adrenal medullae can increase the metabolic rate of the whole body often to as much as 100 percent above normal, in this way increasing the activity and excitability of the body."
+    },
+    {
+     "page": 736,
+     "text": "It also increases the rates of other metabolic activities, such as glycogenolysis in the liver and muscle, and glucose release into the blood."
+    },
+    {
+     "page": 736,
+     "text": "In summary, stimulation of the adrenal medullae causes release of the hormones epinephrine and norepinephrine, which together have almost the same effects throughout the body as direct sympathetic stimulation, except that the effects are greatly prolonged, lasting 2 to 4 minutes after the stimulation is over."
+    },
+    {
+     "page": 736,
+     "text": "Therefore, the organs are actually stimulated in two ways: directly by the sympathetic nerves and indirectly by the adrenal medullary hormones."
+    },
+    {
+     "page": 736,
+     "text": "The two means of stimulation support each other, and either can, in most instances, substitute for the other."
+    },
+    {
+     "page": 736,
+     "text": "For instance, destruction of the direct sympathetic pathways to the different body organs does not abrogate sympathetic excitation of the organs because norepinephrine and epinephrine are still released into the circulating blood and indirectly cause stimulation."
+    },
+    {
+     "page": 736,
+     "text": "Likewise, loss of the two adrenal medullae usually has little effect on the operation of the sympathetic nervous system because the direct pathways can still perform almost all the necessary duties."
+    },
+    {
+     "page": 736,
+     "text": "Thus, the dual mechanism of sympathetic stimulation provides a safety factor, one mechanism substituting for the other if it is missing."
+    },
+    {
+     "page": 736,
+     "text": "Another important value of the adrenal medullae is the capability of epinephrine and norepinephrine to stimulate structures of the body that are not innervated by direct sympathetic fibers."
+    },
+    {
+     "page": 736,
+     "text": "For instance, the metabolic rate of every cell of the body is increased by these hormones, especially by epinephrine, even though only a small proportion of all the cells in the body are innervated directly by sympathetic fibers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_tone": {
+   "heading": "Sympathetic and Parasympathetic “Tone”",
+   "chapter": 60,
+   "found": true,
+   "page_start": 737,
+   "page_end": 737,
+   "sentences": [
+    {
+     "page": 737,
+     "text": "Normally, the sympathetic and parasympathetic systems are continually active, and the basal rates of activity are known, respectively, as sympathetic tone and parasympathetic tone."
+    },
+    {
+     "page": 737,
+     "text": "The value of tone is that it allows a single nervous system both to increase and decrease the activity of a stimulated organ."
+    },
+    {
+     "page": 737,
+     "text": "For instance, sympathetic tone normally keeps almost all the systemic arterioles constricted to about one-half their maximum diameter."
+    },
+    {
+     "page": 737,
+     "text": "By increasing the degree of sympathetic stimulation above normal, these vessels can be constricted even more; conversely, by decreasing the stimulation below normal, the arterioles can be dilated."
+    },
+    {
+     "page": 737,
+     "text": "If it were not for the continual background sympathetic tone, the sympathetic system could cause only vasoconstriction, never vasodilation."
+    },
+    {
+     "page": 737,
+     "text": "Another interesting example of tone is the background “tone” of the parasympathetics in the gastrointestinal tract."
+    },
+    {
+     "page": 737,
+     "text": "Surgical removal of the parasympathetic supply to most of the gut by cutting the vagus nerves can cause serious and prolonged gastric and intestinal “atony” with resulting blockage of much of the normal gastrointestinal propulsion and consequent serious constipation, thus demonstrating that parasympathetic tone to the gut is normally very much required."
+    },
+    {
+     "page": 737,
+     "text": "This tone can be decreased by the brain, thereby inhibiting gastrointestinal motility, or it can be increased, thereby promoting increased gastrointestinal activity."
+    },
+    {
+     "page": 737,
+     "text": "These quantities are considerable—indeed, enough to maintain the blood pressure almost up to normal even if all direct sympathetic pathways to the cardiovascular system are removed."
+    },
+    {
+     "page": 737,
+     "text": "Therefore, it is obvious that much of the overall tone of the sympathetic nervous system results from basal secretion of epinephrine and norepinephrine in addition to the tone resulting from direct sympathetic stimulation."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_denervation": {
+   "heading": "Effect of Loss of Sympathetic or Parasympathetic",
+   "chapter": 60,
+   "found": true,
+   "page_start": 737,
+   "page_end": 737,
+   "sentences": [
+    {
+     "page": 737,
+     "text": "Immediately after a sympathetic or parasympathetic nerve is cut, the innervated organ loses its sympathetic or parasympathetic tone."
+    },
+    {
+     "page": 737,
+     "text": "In the case of the blood vessels, for instance, cutting the sympathetic nerves results within 5 to 30 seconds in almost maximal vasodilation."
+    },
+    {
+     "page": 737,
+     "text": "However, over minutes, hours, days, or weeks, intrinsic tone in the smooth muscle of the vessels increases—that is, increased tone caused by increased smooth muscle contractile force that is not the result of sympathetic stimulation but of chemical adaptations in the smooth muscle fibers themselves."
+    },
+    {
+     "page": 737,
+     "text": "This intrinsic tone eventually restores almost normal vasoconstriction."
+    },
+    {
+     "page": 737,
+     "text": "Essentially the same effects occur in most other effector organs whenever sympathetic or parasympathetic tone is lost."
+    },
+    {
+     "page": 737,
+     "text": "That is, intrinsic compensation soon develops to return the function of the organ almost to its normal basal level."
+    },
+    {
+     "page": 737,
+     "text": "However, in the parasympathetic system, the compensation sometimes requires many months."
+    },
+    {
+     "page": 737,
+     "text": "For instance, loss of parasympathetic tone to the heart after cardiac vagotomy increases the heart rate to 160 beats per minute in a dog, and this will still be partially elevated 6 months later."
+    },
+    {
+     "page": 737,
+     "text": "During the first week or so after a sympathetic or parasympathetic nerve is destroyed, the innervated organ becomes more sensitive to injected norepinephrine or acetylcholine, respectively."
+    },
+    {
+     "page": 737,
+     "text": "Then the stellate ganglion is removed, and normal sympathetic tone is lost."
+    },
+    {
+     "page": 737,
+     "text": "At first, the blood flow rises markedly because of the lost vascular tone, but over a period of days to weeks the blood flow returns much of the way back toward normal because of progressive increase in intrinsic tone of the vascular musculature itself, thus partially compensating for the loss of sympathetic tone."
+    },
+    {
+     "page": 737,
+     "text": "Then another test dose of norepinephrine is administered, and the blood flow decreases much more than before, demonstrating that the blood vessels have become about two to four times as responsive to norepinephrine as previously."
+    },
+    {
+     "page": 737,
+     "text": "This phenomenon is called denervation supersensitivity."
+    },
+    {
+     "page": 737,
+     "text": "It occurs in both sympathetic and parasympathetic organs but to far greater extent in some organs than in others, occasionally increasing the response more than 10-fold."
+    },
+    {
+     "page": 737,
+     "text": "The cause of denervation supersensitivity is only partially known."
+    },
+    {
+     "page": 737,
+     "text": "Part of the answer is that the number of receptors in the postsynaptic membranes of the effector cells increases—sometimes manyfold—when norepinephrine or acetylcholine is no longer released at the synapses, a process called “up-regulation” of the receptors."
+    },
+    {
+     "page": 737,
+     "text": "Therefore, when a dose of the hormone is now injected into the circulating blood, the effector reaction is vastly enhanced."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_reflexes": {
+   "heading": "Autonomic Reflexes",
+   "chapter": 60,
+   "found": true,
+   "page_start": 738,
+   "page_end": 738,
+   "sentences": [
+    {
+     "page": 738,
+     "text": "Many visceral functions of the body are regulated by autonomic reflexes."
+    },
+    {
+     "page": 738,
+     "text": "Throughout this text, the functions of these reflexes are discussed in relation to individual organ systems; to illustrate their importance, a few are presented here briefly."
+    },
+    {
+     "page": 738,
+     "text": "Several reflexes in the cardiovascular system help to control the arterial blood pressure and the heart rate."
+    },
+    {
+     "page": 738,
+     "text": "One of these is the baroreceptor reflex, which is described in Chapter 18 along with other cardiovascular reflexes."
+    },
+    {
+     "page": 738,
+     "text": "Briefly, stretch receptors called baroreceptors are located in the walls of several major arteries, including especially the internal carotid arteries and the arch of the aorta."
+    },
+    {
+     "page": 738,
+     "text": "When these become stretched by high pressure, signals are transmitted to the brain stem, where they inhibit the sympathetic impulses to the heart and blood vessels and excite the parasympathetics; this allows the arterial pressure to fall back toward normal."
+    },
+    {
+     "page": 738,
+     "text": "For instance, the smell of appetizing food or the presence of food in the mouth initiates signals from the nose and mouth to the vagal, glossopharyngeal, and salivatory nuclei of the brain stem."
+    },
+    {
+     "page": 738,
+     "text": "These in turn transmit signals through the parasympathetic nerves to the secretory glands of the mouth and stomach, causing secretion of digestive juices sometimes even before food enters the mouth."
+    },
+    {
+     "page": 738,
+     "text": "When fecal matter fills the rectum at the other end of the alimentary canal, sensory impulses initiated by stretching the rectum are sent to the sacral portion of the spinal cord, and a reflex signal is transmitted back through the sacral parasympathetics to the distal parts of the colon; these result in strong peristaltic contractions that cause defecation."
+    },
+    {
+     "page": 738,
+     "text": "Emptying of the urinary bladder is controlled in the same way as emptying the rectum; stretching of the bladder sends impulses to the sacral cord, and this in turn causes reflex contraction of the bladder and relaxation of the urinary sphincters, thereby promoting micturition."
+    },
+    {
+     "page": 738,
+     "text": "Also important are the sexual reflexes, which are initiated both by psychic stimuli from the brain and by stimuli from the sexual organs."
+    },
+    {
+     "page": 738,
+     "text": "Impulses from these sources converge on the sacral cord and, in the male, result first in erection, mainly a parasympathetic function, and then ejaculation, partially a sympathetic function."
+    },
+    {
+     "page": 738,
+     "text": "Other autonomic control functions include reflex contributions to the regulation of pancreatic secretion, gallbladder emptying, kidney excretion of urine, sweating, blood glucose concentration, and many other visceral functions, all of which are discussed in detail at other points in this text."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_mass": {
+   "heading": "Stimulation of Discrete Organs",
+   "chapter": 60,
+   "found": true,
+   "page_start": 738,
+   "page_end": 738,
+   "sentences": [
+    {
+     "page": 738,
+     "text": "This frequently occurs when the hypothalamus is activated by fright or fear or severe pain."
+    },
+    {
+     "page": 738,
+     "text": "The result is a widespread reaction throughout the body called the alarm or stress response, which is discussed shortly."
+    },
+    {
+     "page": 738,
+     "text": "At other times, activation occurs in isolated portions of the sympathetic nervous system."
+    },
+    {
+     "page": 738,
+     "text": "Important examples are the following: (1) During the process of heat regulation, the sympathetics control sweating and blood flow in the skin without affecting other organs innervated by the afferent fibers travel centrally in the peripheral nerves to the sympathetic ganglia and spinal cord and cause highly localized reflex responses."
+    },
+    {
+     "page": 738,
+     "text": "For instance, heating a skin area causes local vasodilation and enhanced local sweating, whereas cooling causes opposite effects."
+    },
+    {
+     "page": 738,
+     "text": "(3) Many of the sympathetic reflexes that control gastrointestinal functions operate by way of nerve pathways that do not even enter the spinal cord, merely passing from the gut mainly to the paravertebral ganglia, and then back to the gut through sympathetic nerves to control motor or secretory activity."
+    },
+    {
+     "page": 738,
+     "text": "Control functions by the parasympathetic system are often highly specific."
+    },
+    {
+     "page": 738,
+     "text": "For instance, parasympathetic cardiovascular reflexes usually act only on the heart to increase or decrease its rate of beating."
+    },
+    {
+     "page": 738,
+     "text": "Likewise, other parasympathetic reflexes cause secretion mainly by the mouth glands and in other instances secretion is mainly by the stomach glands."
+    },
+    {
+     "page": 738,
+     "text": "Finally, the rectal emptying reflex does not affect other parts of the bowel to a major extent."
+    },
+    {
+     "page": 738,
+     "text": "Yet there is often association between closely allied parasympathetic functions."
+    },
+    {
+     "page": 738,
+     "text": "For instance, although salivary secretion can occur independently of gastric secretion, these two also often occur together, and pancreatic secretion frequently occurs at the same time."
+    },
+    {
+     "page": 738,
+     "text": "Also, the rectal emptying reflex often initiates a urinary bladder emptying reflex, resulting in simultaneous emptying of both the bladder and the rectum."
+    },
+    {
+     "page": 738,
+     "text": "Conversely, the bladder emptying reflex can help initiate rectal emptying."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_alarm": {
+   "heading": "“Alarm” or “Stress” Response of the Sympathetic",
+   "chapter": 60,
+   "found": true,
+   "page_start": 738,
+   "page_end": 739,
+   "sentences": [
+    {
+     "page": 738,
+     "text": "When large portions of the sympathetic nervous system discharge at the same time—that is, a mass discharge—this increases in many ways the ability of the body to perform vigorous muscle activity."
+    },
+    {
+     "page": 738,
+     "text": "Let us summarize these ways: 1."
+    },
+    {
+     "page": 738,
+     "text": "Increased arterial pressure 2."
+    },
+    {
+     "page": 738,
+     "text": "Increased blood flow to active muscles concurrent with decreased blood flow to organs such as the gastrointestinal tract and the kidneys that are not needed for rapid motor activity 3."
+    },
+    {
+     "page": 738,
+     "text": "Increased rates of cellular metabolism throughout the 5."
+    },
+    {
+     "page": 738,
+     "text": "Increased glycolysis in the liver and in muscle The sum of these effects permits a person to perform far more strenuous physical activity than would otherwise be possible."
+    },
+    {
+     "page": 738,
+     "text": "Because either mental or physical stress can excite the sympathetic system, it is frequently said that the purpose of the sympathetic system is to provide extra activation of the body in states of stress: this is called the sympathetic stress response."
+    },
+    {
+     "page": 739,
+     "text": "The sympathetic system is especially strongly activated in many emotional states."
+    },
+    {
+     "page": 739,
+     "text": "For instance, in the state of rage, which is elicited to a great extent by stimulating the hypothalamus, signals are transmitted downward through the reticular formation of the brain stem and into the spinal cord to cause massive sympathetic discharge; most aforeis called the sympathetic alarm reaction."
+    },
+    {
+     "page": 739,
+     "text": "It is also called the fight or flight reaction because an animal in this state decides almost instantly whether to stand and fight or to run."
+    },
+    {
+     "page": 739,
+     "text": "In either event, the sympathetic alarm reaction makes the animal’s subsequent activities vigorous."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s13_brainstem": {
+   "heading": "Medullary, Pontine, and Mesencephalic Control",
+   "chapter": 60,
+   "found": true,
+   "page_start": 739,
+   "page_end": 740,
+   "sentences": [
+    {
+     "page": 739,
+     "text": "Control of each of these is discussed at appropriate points in this text."
+    },
+    {
+     "page": 739,
+     "text": "Some of the most important factors controlled in the brain stem are arterial pressure, heart rate, and respiratory rate."
+    },
+    {
+     "page": 739,
+     "text": "Indeed, transection of the brain stem above the midpontine level allows basal control of arterial pressure to continue as before but prevents its modulation by higher nervous centers such as the hypothalamus."
+    },
+    {
+     "page": 739,
+     "text": "Conversely, transection immediately below the medulla causes the arterial pressure to fall to less than one-half normal."
+    },
+    {
+     "page": 739,
+     "text": "Closely associated with the cardiovascular regulatory centers in the brain stem are the medullary and pontine centers for regulation of respiration, which are discussed in Chapter 41."
+    },
+    {
+     "page": 739,
+     "text": "Although this is not considered to be an autonomic function, it is one of the involuntary functions of the body."
+    },
+    {
+     "page": 739,
+     "text": "For instance, stimulation in appropriate areas mainly of the posterior hypothalamus can activate the medullary cardiovascular control centers strongly enough to increase arterial pressure to more than twice normal."
+    },
+    {
+     "page": 739,
+     "text": "Likewise, other hypothalamic centers control body temperature, increase or decrease salivation and gastrointestinal activity, and cause bladder emptying."
+    },
+    {
+     "page": 739,
+     "text": "To some extent, therefore, the autonomic centers in the brain stem act as relay stations for control activities initiated at higher levels of the brain, especially in the hypothalamus."
+    },
+    {
+     "page": 739,
+     "text": "In Chapters 58 and 59, it is pointed out also that many of our behavioral responses are mediated through (1) the hypothalamus, (2) the reticular areas of the brain stem, and (3) the autonomic nervous system."
+    },
+    {
+     "page": 739,
+     "text": "Indeed, some higher areas of the brain can alter function of the whole autonomic nervous system or of portions of it strongly enough to cause severe autonomic-induced disease such as peptic ulcer of the stomach or duodenum, constipation, heart palpitation, or even heart attack."
+    },
+    {
+     "page": 739,
+     "text": "From the foregoing discussion, it is obvious that intravenous injection of norepinephrine causes essentially the same effects throughout the body as sympathetic stimulation."
+    },
+    {
+     "page": 739,
+     "text": "Therefore, norepinephrine is called a sympathomimetic or adrenergic drug."
+    },
+    {
+     "page": 739,
+     "text": "Epinephrine and methoxamine are also sympathomimetic drugs, and there are many others."
+    },
+    {
+     "page": 739,
+     "text": "They differ from one another in the degree to which they stimulate different sympathetic effector organs and in their duration of action."
+    },
+    {
+     "page": 739,
+     "text": "Norepinephrine and epinephrine have actions as short as 1 to 2 minutes, whereas the actions of some other commonly used sympathomimetic drugs last for 30 minutes to 2 hours."
+    },
+    {
+     "page": 740,
+     "text": "Certain drugs have an indirect sympathomimetic action instead of directly exciting adrenergic effector organs."
+    },
+    {
+     "page": 740,
+     "text": "These drugs include ephedrine, tyramine, and amphetamine."
+    },
+    {
+     "page": 740,
+     "text": "Their effect is to cause release of norepinephrine from its storage vesicles in the sympathetic nerve endings."
+    },
+    {
+     "page": 740,
+     "text": "The released norepinephrine in turn causes the sympathetic effects."
+    },
+    {
+     "page": 740,
+     "text": "The synthesis and storage of norepinephrine in the sympathetic nerve endings can be prevented."
+    },
+    {
+     "page": 740,
+     "text": "The best known drug that causes this effect is reserpine."
+    },
+    {
+     "page": 740,
+     "text": "Release of norepinephrine from the sympathetic endings can be blocked."
+    },
+    {
+     "page": 740,
+     "text": "This can be caused by guanethidine."
+    },
+    {
+     "page": 740,
+     "text": "The sympathetic alpha receptors can be blocked."
+    },
+    {
+     "page": 740,
+     "text": "Two drugs that cause this effect are phenoxybenzamine and phentolamine."
+    },
+    {
+     "page": 740,
+     "text": "The sympathetic beta receptors can be blocked."
+    },
+    {
+     "page": 740,
+     "text": "A drug that blocks beta1 and beta2 receptors is propranolol."
+    },
+    {
+     "page": 740,
+     "text": "One that blocks mainly beta1 receptors is metoprolol."
+    },
+    {
+     "page": 740,
+     "text": "Sympathetic activity can be blocked by drugs that block transmission of nerve impulses through the autonomic ganglia."
+    },
+    {
+     "page": 740,
+     "text": "They are discussed in a later section, but an important drug for blockade of both sympathetic and parasympathetic transmission through the ganglia is hexamethonium."
+    },
+    {
+     "page": 740,
+     "text": "Acetylcholine injected intravenously usually does not cause exactly the same effects throughout the body as parasympathetic stimulation because most of the acetylcholine is destroyed by cholinesterase in the blood and body fluids before it can reach all the effector organs."
+    },
+    {
+     "page": 740,
+     "text": "Yet a number of other drugs that are not so rapidly destroyed can produce typical widespread parasympathetic effects, and they are called parasympathomimetic drugs."
+    },
+    {
+     "page": 740,
+     "text": "Two commonly used parasympathomimetic drugs are pilocarpine and methacholine."
+    },
+    {
+     "page": 740,
+     "text": "They act directly on the muscarinic type of cholinergic receptors."
+    },
+    {
+     "page": 740,
+     "text": "Some drugs do not have a direct effect on parasympathetic effector organs but do potentiate the effects of the naturally secreted acetylcholine at the parasympathetic endings."
+    },
+    {
+     "page": 740,
+     "text": "They are the same drugs as those discussed in Chapter 7 that potentiate the effect of acetylcholine at the neuthus preventing rapid destruction of the acetylcholine liberated at parasympathetic nerve endings."
+    },
+    {
+     "page": 740,
+     "text": "As a consequence, the quantity of acetylcholine increases with successive stimuli and the degree of action also increases."
+    },
+    {
+     "page": 740,
+     "text": "These drugs do not affect the nicotinic action of acetylcholine on the postganglionic neurons or on skeletal muscle."
+    },
+    {
+     "page": 740,
+     "text": "The preganglionic neurons of both the parasympathetic and the sympathetic nervous systems secrete acetylcholine at their endings, and this acetylcholine in turn stimulates the postganglionic neurons."
+    },
+    {
+     "page": 740,
+     "text": "Furthermore, injected acetylcholine can also stimulate the postganglionic neurons of both systems, thereby causing at the same time both sympathetic and parasympathetic effects throughout the body."
+    },
+    {
+     "page": 740,
+     "text": "Nicotine is another drug that can stimulate postganglionic neurons in the same manner as acetylcholine because the membranes of these neurons all contain the nicotinic type of acetylcholine receptor."
+    },
+    {
+     "page": 740,
+     "text": "Therefore, drugs that cause autonomic effects by stimulating postganglionic neurons are called nicotinic drugs."
+    },
+    {
+     "page": 740,
+     "text": "Some other drugs, such as methacholine, have both nicotinic and muscarinic actions, whereas pilocarpine has only muscarinic actions."
+    },
+    {
+     "page": 740,
+     "text": "Nicotine excites both the sympathetic and parasympathetic postganglionic neurons at the same time, resulting in strong sympathetic vasoconstriction in the abdominal organs and limbs but at the same time resulting in parasympathetic effects such as increased gastrointestinal activity and, sometimes, slowing of the heart."
+    },
+    {
+     "page": 740,
+     "text": "Many important drugs block impulse transmission from the autonomic preganglionic neurons to the postganglionic neurons, including tetraethyl ammonium ion, hexamethonium ion, and pentolinium."
+    },
+    {
+     "page": 740,
+     "text": "These drugs block acetylcholine stimulation of the postganglionic neurons in both the sympathetic and the parasympathetic systems simultaneously."
+    },
+    {
+     "page": 740,
+     "text": "They are often used for blocking sympathetic activity but seldom for blocking parasympathetic activity because their effects of sympathetic blockade usually far overshadow the effects of parasympathetic blockade."
+    },
+    {
+     "page": 740,
+     "text": "The ganglionic blocking drugs especially can reduce the arterial pressure in many patients with hypertension, but these drugs are not useful clinically because their effects are difficult to control."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}
