@@ -1,0 +1,653 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "s8_brainstem": {
+   "heading": "Role of the Brain Stem in Controlling",
+   "chapter": 55,
+   "found": true,
+   "page_start": 673,
+   "page_end": 673,
+   "sentences": [
+    {
+     "page": 673,
+     "text": "The brain stem consists of the medulla, pons, and mesencephalon."
+    },
+    {
+     "page": 673,
+     "text": "In one sense, it is an extension of the spinal cord upward into the cranial cavity because it contains motor and sensory nuclei that perform motor and sensory functions for the face and head regions in the same way that the spinal cord performs these functions from the neck down."
+    },
+    {
+     "page": 673,
+     "text": "But in another sense, the brain stem is its own master because it provides many special control functions, such as the following: 4."
+    },
+    {
+     "page": 673,
+     "text": "Control of many stereotyped movements of the Finally, the brain stem serves as a way station for “command signals” from higher neural centers."
+    },
+    {
+     "page": 673,
+     "text": "In the following sections, we discuss the role of the brain stem in controlling whole-body movement and equilibrium."
+    },
+    {
+     "page": 673,
+     "text": "Especially important for these purposes are the brain stem’s reticular nuclei and vestibular nuclei."
+    },
+    {
+     "page": 673,
+     "text": "Figure 55-7 shows the locations of the reticular and vestibular nuclei in the brain stem."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_reticular_antagonism": {
+   "heading": "Excitatory-Inhibitory Antagonism Between",
+   "chapter": 55,
+   "found": true,
+   "page_start": 673,
+   "page_end": 674,
+   "sentences": [
+    {
+     "page": 673,
+     "text": "The reticular nuclei are divided into two major groups: (1) pontine reticular nuclei, located slightly posteriorly and laterally in the pons and extending into the mesencephalon, and (2) medullary reticular nuclei, which extend through the entire medulla, lying ventrally and medially near the midline."
+    },
+    {
+     "page": 673,
+     "text": "These two sets of nuclei function mainly antagonistically to each other, with the pontine exciting the antigravity muscles and the medullary relaxing these same muscles."
+    },
+    {
+     "page": 673,
+     "text": "The fibers of this pathway terminate on the medial anterior motor neurons that excite the axial muscles of the body, which support the body against gravity—that is, the muscles of the vertebral column and the extensor muscles of the limbs."
+    },
+    {
+     "page": 673,
+     "text": "The pontine reticular nuclei have a high degree of natural excitability."
+    },
+    {
+     "page": 673,
+     "text": "In addition, they receive strong excitatory signals from the vestibular nuclei, as well as from deep nuclei of the cerebellum."
+    },
+    {
+     "page": 674,
+     "text": "The medullary reticular nuclei receive strong input collaterals from (1) the corticospinal tract, (2) the rubrospinal tract, and (3) other motor pathways."
+    },
+    {
+     "page": 674,
+     "text": "These normally activate the medullary reticular inhibitory system to counterbalance the excitatory signals from the pontine reticular system, so under normal conditions the body muscles are not abnormally tense."
+    },
+    {
+     "page": 674,
+     "text": "Yet some signals from higher areas of the brain can “disinhibit” the medullary system when the brain wishes to excite the pontine system to cause standing."
+    },
+    {
+     "page": 674,
+     "text": "At other times, excitation of the medullary reticular system can inhibit antigravity muscles in certain portions of the body to allow those portions to perform special motor activities."
+    },
+    {
+     "page": 674,
+     "text": "The excitatory and inhibitory reticular nuclei constitute a controllable system that is manipulated by motor signals from the cerebral cortex and elsewhere to provide necessary background muscle contractions for standing against gravity and to inhibit appropriate groups of muscles as needed so that other functions can be performed."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_vestibular_antigravity": {
+   "heading": "Role of the Vestibular Nuclei to Excite",
+   "chapter": 55,
+   "found": true,
+   "page_start": 674,
+   "page_end": 674,
+   "sentences": [
+    {
+     "page": 674,
+     "text": "Without this support of the vestibular nuclei, the pontine reticular system would lose much of its excitation of the axial antigravity muscles."
+    },
+    {
+     "page": 674,
+     "text": "The specific role of the vestibular nuclei, however, is to selectively control the excitatory signals to the different antigravity muscles to maintain equilibrium in response to signals from the vestibular apparatus."
+    },
+    {
+     "page": 674,
+     "text": "We discuss this more fully later in the chapter."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_decerebrate": {
+   "heading": "The Decerebrate Animal Develops Spastic Rigidity",
+   "chapter": 55,
+   "found": true,
+   "page_start": 674,
+   "page_end": 674,
+   "sentences": [
+    {
+     "page": 674,
+     "text": "When the brain stem of an animal is sectioned below the midlevel of the mesencephalon, but the pontine and medullary reticular systems, as well as the vestibular system, are left intact, the animal develops a condition called decerebrate rigidity."
+    },
+    {
+     "page": 674,
+     "text": "This rigidity does not occur in all muscles of the body but does occur in the antigravity muscles—the muscles of the neck and trunk and the extensors of the legs."
+    },
+    {
+     "page": 674,
+     "text": "The cause of decerebrate rigidity is blockage of normally strong input to the medullary reticular nuclei from the cerebral cortex, the red nuclei, and the basal ganglia."
+    },
+    {
+     "page": 674,
+     "text": "Lacking this input, the medullary reticular inhibitor system becomes nonfunctional; full overactivity of the pontine excitatory system occurs, and rigidity develops."
+    },
+    {
+     "page": 674,
+     "text": "We shall see later that other causes of rigidity occur in other neuromotor diseases, especially lesions of the basal ganglia."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_vestibular_intro": {
+   "heading": "Vestibular Sensations and Maintenance",
+   "chapter": 55,
+   "found": true,
+   "page_start": null,
+   "page_end": null,
+   "sentences": [],
+   "repair_hits": 0
+  },
+  "s8_vestibular_apparatus": {
+   "heading": "Vestibular Apparatus",
+   "chapter": 55,
+   "found": true,
+   "page_start": 674,
+   "page_end": 674,
+   "sentences": [
+    {
+     "page": 674,
+     "text": "It is encased in a system of bony tubes and chambers located in the petrous portion of the temporal bone, called the bony labyrinth."
+    },
+    {
+     "page": 674,
+     "text": "Within this system are membranous tubes and chambers called the membranous labyrinth."
+    },
+    {
+     "page": 674,
+     "text": "The membranous labyrinth is the functional part of the vestibular apparatus."
+    },
+    {
+     "page": 674,
+     "text": "It is composed mainly of the cochlea (ductus cochlearis); three semicircular canals; and two large chambers, the utricle and saccule."
+    },
+    {
+     "page": 674,
+     "text": "The cochlea is the major sensory organ for hearing (see Chapter 52) and has little to do with equilibrium."
+    },
+    {
+     "page": 674,
+     "text": "However, the semicircular canals, the utricle, and the saccule are all integral parts of the equilibrium mechanism."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_saccule": {
+   "heading": "Saccule for Detecting",
+   "chapter": 55,
+   "found": true,
+   "page_start": 674,
+   "page_end": 676,
+   "sentences": [
+    {
+     "page": 674,
+     "text": "The macula of the utricle lies mainly in the horizontal plane on the inferior surface of the utricle and plays an important role in determining orientation of the head when the head is upright."
+    },
+    {
+     "page": 674,
+     "text": "Conversely, the macula of the saccule is located mainly in a vertical plane and signals head orientation when the person is lying down."
+    },
+    {
+     "page": 674,
+     "text": "Each macula is covered by a gelatinous layer in which many small calcium carbonate crystals called statoconia are embedded."
+    },
+    {
+     "page": 674,
+     "text": "The bases and sides of in the spinal cord to excite (solid lines) or inhibit (dashed lines) the anterior motor neurons that control the body’s axial musculature."
+    },
+    {
+     "page": 675,
+     "text": "The calcified statoconia have a specific gravity two to three times the specific gravity of the surrounding fluid and tissues."
+    },
+    {
+     "page": 675,
+     "text": "The weight of the statoconia bends the cilia in the direction of gravitational pull."
+    },
+    {
+     "page": 675,
+     "text": "The kinocilium is always located to one side, and the stereocilia become progressively shorter toward the other side of the cell."
+    },
+    {
+     "page": 675,
+     "text": "Minute filamentous attachments, almost invisible even to the electron microscope, connect the tip of each stereocilium to the next longer stereocilium and, finally, to the kinocilium."
+    },
+    {
+     "page": 675,
+     "text": "Because of these attachments, when the stereocilia and kinocilium bend in the direction of the kinocilium, the filamentous attachments tug in sequence on the stereocilia, pulling them outward from the cell body."
+    },
+    {
+     "page": 675,
+     "text": "This opens several hundred fluid channels in the neuronal cell membrane around the bases of the stereocilia, and these channels are capable of conducting large numbers of positive ions."
+    },
+    {
+     "page": 675,
+     "text": "Therefore, positive ions pour into the cell from the surrounding endolymphatic fluid, causing the pile of stereocilia in the opposite direction (backward to the kinocilium) reduces the tension on the attachments; this closes the ion channels, thus causing receptor hyperpolarization."
+    },
+    {
+     "page": 675,
+     "text": "Under normal resting conditions, the nerve fibers leading from the hair cells transmit continuous nerve impulses at a rate of about 100 per second."
+    },
+    {
+     "page": 675,
+     "text": "When the stereocilia are bent toward the kinocilium, the impulse traffic increases, often to several hundred per second; conversely, bending the cilia away from the kinocilium decreases the impulse traffic, often turning it off completely."
+    },
+    {
+     "page": 675,
+     "text": "Therefore, as the orientation of the head in space changes and the weight of the statoconia bends the cilia, appropriate signals are transmitted to the brain to control equilibrium."
+    },
+    {
+     "page": 675,
+     "text": "In each macula, each of the hair cells is oriented in a different direction so that some of the hair cells are stimulated when the head bends forward, some are stimulated when it bends backward, others are stimulated when it SemiFigure 55-9 Membranous labyrinth and organization of the crista ampullaris and the macula."
+    },
+    {
+     "page": 676,
+     "text": "Therefore, a different pattern of excitation occurs in the macular nerve fibers for each orientation of the head in the gravitational field."
+    },
+    {
+     "page": 676,
+     "text": "It is this “pattern” that apprises the brain of the head’s orientation in space."
+    },
+    {
+     "page": 676,
+     "text": "The three semicircular ducts in each vestibular apparatus, known as the anterior, posterior, and lateral (horizontal) semicircular ducts, are arranged at right angles to one another so that they represent all three planes in space."
+    },
+    {
+     "page": 676,
+     "text": "When the head is bent forward about 30 degrees, the lateral semicircular ducts are approximately horizontal with respect to the surface of the earth; the anterior ducts are in vertical planes that project forward and 45 degrees outward, whereas the posterior ducts are in vertical planes that project backward and 45 degrees outward."
+    },
+    {
+     "page": 676,
+     "text": "Each semicircular duct has an enlargement at one of its ends called the ampulla, and the ducts and ampulla are filled with a fluid called endolymph."
+    },
+    {
+     "page": 676,
+     "text": "On top of this crista is a loose gelatinous tissue mass, the cupula."
+    },
+    {
+     "page": 676,
+     "text": "When a person’s head begins to rotate in any direction, the inertia of the fluid in one or more of the semicircular ducts causes the fluid to remain stationary while the semicircular duct rotates with the head."
+    },
+    {
+     "page": 676,
+     "text": "Rotation of the head in the opposite direction causes the cupula to bend to the opposite side."
+    },
+    {
+     "page": 676,
+     "text": "Into the cupula are projected hundreds of cilia from hair cells located on the ampullary crest."
+    },
+    {
+     "page": 676,
+     "text": "The kinocilia of these hair cells are all oriented in the same direction in the cupula, and bending the cupula in that direction causes depolarization of the hair cells, whereas bending it in the opposite direction hyperpolarizes the cells."
+    },
+    {
+     "page": 676,
+     "text": "Then, from the hair cells, appropriate signals are sent by way of the vestibular nerve to apprise the central nervous system of a change in rotation of the head and the rate of change in each of the three planes of space."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_utricle_saccule": {
+   "heading": "Function of the Utricle and Saccule",
+   "chapter": 55,
+   "found": true,
+   "page_start": 676,
+   "page_end": 676,
+   "sentences": [
+    {
+     "page": 676,
+     "text": "It is especially important that the hair cells are all oriented in different directions in the maculae of the utricles and saccules so that with different positions of the head, different hair cells become stimulated."
+    },
+    {
+     "page": 676,
+     "text": "The “patterns” of stimulation of the different hair cells apprise the brain of the position of the head with respect to the pull of gravity."
+    },
+    {
+     "page": 676,
+     "text": "In turn, the vestibular, cerebellar, and reticular motor nerve systems of the brain excite appropriate postural muscles to maintain proper equilibrium."
+    },
+    {
+     "page": 676,
+     "text": "This utricle and saccule system functions extremely effectively for maintaining equilibrium when the head is in the near-vertical position."
+    },
+    {
+     "page": 676,
+     "text": "Indeed, a person can determine as little as half a degree of dysequilibrium when the body leans from the precise upright position."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_linear_acceleration": {
+   "heading": "Detection of Linear Acceleration",
+   "chapter": 55,
+   "found": true,
+   "page_start": 676,
+   "page_end": 676,
+   "sentences": [
+    {
+     "page": 676,
+     "text": "When the body is suddenly thrust forward—that is, when the body accelerates— the statoconia, which have greater mass inertia than the surrounding fluid, fall backward on the hair cell cilia, and information of dysequilibrium is sent into the nervous centers, causing the person to feel as though he or she were falling backward."
+    },
+    {
+     "page": 676,
+     "text": "This automatically causes the person to lean forward until the resulting anterior shift of the statoconia exactly equals the tendency for the statoconia to fall backward because of the acceleration."
+    },
+    {
+     "page": 676,
+     "text": "At this point, the nervous system senses a state of proper equilibrium and leans the body forward no farther."
+    },
+    {
+     "page": 676,
+     "text": "Thus, the maculae operate to maintain equilibrium during linear acceleration in exactly the same manner as they operate during static equilibrium."
+    },
+    {
+     "page": 676,
+     "text": "The maculae do not operate for the detection of linear velocity."
+    },
+    {
+     "page": 676,
+     "text": "When runners first begin to run, they must lean far forward to keep from falling backward because of initial acceleration, but once they have achieved running speed, if they were running in a vacuum, they would not have to lean forward."
+    },
+    {
+     "page": 676,
+     "text": "When running in air, they lean forward to maintain equilibrium only because of air resistance against their bodies; in this instance, it is not the maculae that make them lean but air pressure acting on pressure endorgans in the skin, which initiate appropriate equilibrium adjustments to prevent falling."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_rotation": {
+   "heading": "Detection of Head Rotation",
+   "chapter": 55,
+   "found": true,
+   "page_start": 677,
+   "page_end": 677,
+   "sentences": [
+    {
+     "page": 677,
+     "text": "When the head suddenly begins to rotate in any direction (called angular acceleration), the endolymph in the semicircular ducts, because of its inertia, tends to remain stationary while the semicircular ducts turn."
+    },
+    {
+     "page": 677,
+     "text": "This causes relative fluid flow in the ducts in the direction opposite to head rotation."
+    },
+    {
+     "page": 677,
+     "text": "Figure 55-12 shows a typical discharge signal from a single hair cell in the crista ampullaris when an animal is rotated for 40 seconds, demonstrating that (1) even when the cupula is in its resting position, the hair cell emits a tonic discharge of about 100 impulses per second; (2) when the animal begins to rotate, the hairs bend to one side and the rate of discharge increases greatly; and (3) with continued rotation, the excess discharge of the hair cell gradually subsides back to the resting level during the next few seconds."
+    },
+    {
+     "page": 677,
+     "text": "The reason for this adaptation of the receptor is that within the first few seconds of rotation, back resistance to the flow of fluid in the semicircular duct and past the bent cupula causes the endolymph to begin rotating as rapidly as the semicircular canal itself; then, in another 5 to 20 seconds, the cupula slowly returns to its resting position in the middle of the ampulla because of its own elastic recoil."
+    },
+    {
+     "page": 677,
+     "text": "When the rotation suddenly stops, exactly opposite effects take place: The endolymph continues to rotate while the semicircular duct stops."
+    },
+    {
+     "page": 677,
+     "text": "This time, the cupula bends in the opposite direction, causing the hair cell to stop discharging entirely."
+    },
+    {
+     "page": 677,
+     "text": "Thus, the semicircular duct transmits a signal of one polarity when the head begins to rotate and of opposite polarity when it stops rotating."
+    },
+    {
+     "page": 677,
+     "text": "All they detect is that the person’s head is beginning or stopping to rotate in one direction or another."
+    },
+    {
+     "page": 677,
+     "text": "Therefore, the function of the semicircular ducts is not to maintain static equilibrium or to maintain equilibrium during steady directional or rotational movements."
+    },
+    {
+     "page": 677,
+     "text": "Yet loss of function of the semicircular ducts does cause a person to have poor equilibrium when attempting to perform rapid, intricate changing body movements."
+    },
+    {
+     "page": 677,
+     "text": "The function of the semicircular ducts can be explained by the following illustration: If a person is running forward rapidly and then suddenly begins to turn to one side, he or she will fall off balance a fraction of a second later unless appropriate corrections are made ahead of time."
+    },
+    {
+     "page": 677,
+     "text": "But the maculae of the utricle and saccule cannot detect that he or she is off balance until after this has occurred."
+    },
+    {
+     "page": 677,
+     "text": "The semicircular ducts, however, will have already detected that the person is turning, and this information can easily apprise the central nervous system of the fact that the person will fall off balance within the next fraction of a second or so unless some anticipatory correction is made."
+    },
+    {
+     "page": 677,
+     "text": "In other words, the semicircular duct mechanism predicts that dysequilibrium is going to occur and thereby causes the equilibrium centers to make appropriate anticipatory preventive adjustments."
+    },
+    {
+     "page": 677,
+     "text": "This helps the person maintain balance before the situation can be corrected."
+    },
+    {
+     "page": 677,
+     "text": "Removal of the flocculonodular lobes of the cerebellum prevents normal detection of semicircular duct signals but has less effect on detecting macular signals."
+    },
+    {
+     "page": 677,
+     "text": "It is especially interesting that the cerebellum serves as a “predictive” organ for most rapid movements of the body, as well as for those having to do with equilibrium."
+    },
+    {
+     "page": 677,
+     "text": "These other functions of the cerebellum are discussed in the following chapter."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_eye_stabilization": {
+   "heading": "Vestibular Mechanisms for Stabilizing",
+   "chapter": 55,
+   "found": true,
+   "page_start": 677,
+   "page_end": 677,
+   "sentences": [
+    {
+     "page": 677,
+     "text": "When a person changes his or her direction of movement rapidly or even leans the head sideways, forward, or backward, it would be impossible to maintain a stable image on the retinas unless the person had some automatic control mechanism to stabilize the direction of the eyes’ gaze."
+    },
+    {
+     "page": 677,
+     "text": "In addition, the eyes would be of little use in detecting an image unless they remained “fixed” on each object long enough to gain a clear image."
+    },
+    {
+     "page": 677,
+     "text": "Fortunately, each time the head is suddenly rotated, signals from the semicircular ducts cause the eyes to rotate in a direction equal and opposite to the rotation of the head."
+    },
+    {
+     "page": 677,
+     "text": "This results from reflexes transmitted through the vestibular nuclei and the medial longitudinal fasciculus to the oculomotor nuclei."
+    },
+    {
+     "page": 677,
+     "text": "These reflexes are described in Chapter 51."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_other_factors": {
+   "heading": "Other Factors Concerned with Equilibrium",
+   "chapter": 55,
+   "found": true,
+   "page_start": 677,
+   "page_end": 678,
+   "sentences": [
+    {
+     "page": 677,
+     "text": "The vestibular apparatus detects the orientation and movement only of the head."
+    },
+    {
+     "page": 677,
+     "text": "Therefore, it is essential that the nervous centers also receive appropriate information about the orientation of the head with respect to the body."
+    },
+    {
+     "page": 678,
+     "text": "Among the most important proprioceptive information needed for the maintenance of equilibrium is that transmitted by joint receptors of the neck."
+    },
+    {
+     "page": 678,
+     "text": "When the head is leaned in one direction by bending the neck, impulses from the neck proprioceptors keep the signals originating in the vestibular apparatus from giving the person a sense of dysequilibrium."
+    },
+    {
+     "page": 678,
+     "text": "They do this by transmitting signals that exactly oppose the signals transmitted from the vestibular apparatus."
+    },
+    {
+     "page": 678,
+     "text": "However, when the entire body leans in one direction, the impulses from the vestibular apparatus are not opposed by signals from the neck proprioceptors; therefore, in this case, the person does perceive a change in equilibrium status of the entire body."
+    },
+    {
+     "page": 678,
+     "text": "Proprioceptive information from parts of the body other than the neck is also important in the maintenance of equilibrium."
+    },
+    {
+     "page": 678,
+     "text": "For instance, pressure sensations from the footpads tell one (1) whether weight is distributed equally between the two feet and (2) whether weight on the feet is more forward or backward."
+    },
+    {
+     "page": 678,
+     "text": "Exteroceptive information is especially necessary for the maintenance of equilibrium when a person is running."
+    },
+    {
+     "page": 678,
+     "text": "The air pressure against the front of the body signals that a force is opposing the body in a direction different from that caused by gravitational pull; as a result, the person leans forward to oppose this."
+    },
+    {
+     "page": 678,
+     "text": "After destruction of the vestibular apparatus, and even after loss of most proprioceptive information from the body, a person can still use the visual mechanisms reasonably effectively for maintaining equilibrium."
+    },
+    {
+     "page": 678,
+     "text": "Even a slight linear or rotational movement of the body instantaneously shifts the visual images on the retina, and this information is relayed to the equilibrium centers."
+    },
+    {
+     "page": 678,
+     "text": "Some people with bilateral destruction of the vestibular apparatus have almost normal equilibrium as long as their eyes are open and all motions are performed slowly."
+    },
+    {
+     "page": 678,
+     "text": "But when moving rapidly or when the eyes are closed, equilibrium is immediately lost."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_connections": {
+   "heading": "Neuronal Connections of the Vestibular",
+   "chapter": 55,
+   "found": true,
+   "page_start": 678,
+   "page_end": 678,
+   "sentences": [
+    {
+     "page": 678,
+     "text": "Most of the vestibular nerve fibers terminate in the brain stem in the vestibular nuclei, which are located approximately at the junction of the medulla and the pons."
+    },
+    {
+     "page": 678,
+     "text": "Some fibers pass directly to the brain stem reticular nuclei without synapsing and also to the cerebellar fastigial, uvular, and flocculonodular lobe nuclei."
+    },
+    {
+     "page": 678,
+     "text": "The fibers that end in the brain stem vestibular nuclei synapse with second-order neurons that also send fibers into the cerebellum, the vestibulospinal tracts, the medial longitudinal fasciculus, and other areas of the brain stem, particularly the reticular nuclei."
+    },
+    {
+     "page": 678,
+     "text": "The primary pathway for the equilibrium reflexes begins in the vestibular nerves, where the nerves are excited by the vestibular apparatus."
+    },
+    {
+     "page": 678,
+     "text": "The pathway then passes to the vestibular nuclei and cerebellum."
+    },
+    {
+     "page": 678,
+     "text": "Next, signals are sent into the reticular nuclei of the brain stem, as well as down the spinal cord by way of the vestibulospinal and reticulospinal tracts."
+    },
+    {
+     "page": 678,
+     "text": "The signals to the cord control the interplay between facilitation and inhibition of the many antigravity muscles, thus automatically controlling equilibrium."
+    },
+    {
+     "page": 678,
+     "text": "The flocculonodular lobes of the cerebellum are especially concerned with dynamic equilibrium signals from the semicircular ducts."
+    },
+    {
+     "page": 678,
+     "text": "In fact, destruction of these lobes results in almost exactly the same clinical symptoms as destruction of the semicircular ducts themselves."
+    },
+    {
+     "page": 678,
+     "text": "That is, severe injury to either the lobes or the ducts causes loss of dynamic equilibrium during rapid changes in direction of motion but does not seriously disturb equilibrium under static conditions."
+    },
+    {
+     "page": 678,
+     "text": "It is believed that the uvula of the cerebellum plays a similar important role in static equilibrium."
+    },
+    {
+     "page": 678,
+     "text": "Signals transmitted upward in the brain stem from both the vestibular nuclei and the cerebellum by way of the medial longitudinal fasciculus cause corrective movements of the eyes every time the head rotates, so the eyes remain fixed on a specific visual object."
+    },
+    {
+     "page": 678,
+     "text": "Signals also pass upward (either through this same tract or through reticular tracts) to the cerebral cortex, terminating in a primary cortical center for equilibrium located in the parietal lobe deep in the sylvian fissure on the opposite side of the fissure from the auditory area of the superior temporal gyrus."
+    },
+    {
+     "page": 678,
+     "text": "These signals apprise the psyche of the equilibrium status of the body."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s8_stereotyped": {
+   "heading": "Functions of Brain Stem Nuclei",
+   "chapter": 55,
+   "found": true,
+   "page_start": 678,
+   "page_end": 678,
+   "sentences": [
+    {
+     "page": 678,
+     "text": "Rarely, a baby is born without brain structures above the mesencephalic region, a condition called anencephaly."
+    },
+    {
+     "page": 678,
+     "text": "Some of these babies have been kept alive for many months."
+    },
+    {
+     "page": 678,
+     "text": "They are able to perform some stereotyped movements for feeding, such as suckling, extrusion of unpleasant food from the mouth, and moving the hands to the mouth to suck the fingers."
+    },
+    {
+     "page": 678,
+     "text": "In addition, they can yawn and stretch."
+    },
+    {
+     "page": 678,
+     "text": "They can cry and can follow objects with movements of the eyes and head."
+    },
+    {
+     "page": 678,
+     "text": "Also, placing pressure on the upper anterior parts of their legs causes them to pull to the sitting position."
+    },
+    {
+     "page": 678,
+     "text": "It is clear that many of the stereotyped motor functions of the human being are integrated in the brain stem."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}

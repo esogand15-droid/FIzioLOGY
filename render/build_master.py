@@ -146,6 +146,26 @@ SESSIONS = {
         divider_title="نوروفیزیولوژی:\nاز قوس رفلکس\nتا مسیر نزولی",
         pdf_name="HumsYar_Neuro_Jalase7.pdf",
     ),
+    "s08": dict(
+        num="۸", n=8, of="۱۶",
+        guyton_ch="فصل ۵۵ (بخش ساقهٔ مغز و تعادل)",
+        no1404=True,
+        single_part=True,
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر برای دستگاه شبکه‌ای، "
+              "مسیرهای رتیکول‌واسپاینال و سفتی دِسِبره (۱ تا ۷)، دو نفر برای لابیرنت، "
+              "ماکولا و ترارسانی سلول مویی (۸ تا ۱۲)، دو نفر برای رفتار ماکولا، مجاری "
+              "نیم‌دایره و سازش (۱۳ تا ۱۶)، دو نفر برای مسیر مرکزی، بازتاب "
+              "دهلیزی-چشمی و عوامل دیگر تعادل (۱۷ تا ۲۱) به‌همراه گردآوری. این تقسیم "
+              "پیشنهاد است، نه تصمیم نهایی تیم.",
+        outline="s08_topics.json",
+        content=("s08_a.json", "s08_b.json", "s08_c.json"),
+        guyton="guyton_s08_excerpts.json",
+        chapter_anchor="ch-s08",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="ساقهٔ مغز، حس تعادل و کنترل وضعیت",
+        divider_title="نوروفیزیولوژی:\nاز ساقهٔ مغز\nتا تعادل بدن",
+        pdf_name="HumsYar_Neuro_Jalase8.pdf",
+    ),
 }
 
 SESSION = "s01"
@@ -286,7 +306,23 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
     ])
 
     book.h2("منابعی که این جزوه بر آن‌ها بنا شده", anchor="front-sources")
-    if cfg.get("no1404"):
+    if cfg.get("no1404") and cfg.get("single_part"):
+        source_rows = [
+            ["جزوهٔ بهمن ۱۴۰۲ (نوشتهٔ دانشجوی سال‌بالاتر)",
+             "متن پایه و ترتیب مباحث این جلسه: ساقهٔ مغز، دستگاه شبکه‌ای و مسیرهای "
+             "رتیکول‌واسپاینال، سپس دستگاه دهلیزی و تعادل و در پایان ارتباط‌های مرکزی آن.",
+             "«جزوهٔ بهمن ۱۴۰۲، ص …»"],
+            ["اسلایدهای انگلیسی کلاس",
+             "جدول‌ها، فهرست‌ها و شکل‌های اصلی درس (منبع اولویت‌دار برای شکل‌ها).",
+             "«اسلاید کلاس، ص …»"],
+            [GUYTON_ED,
+             f"متن اصلی انگلیسی {cfg['guyton_ch']}، همراه با ترجمهٔ روان تحریریه در همان کادر.",
+             "«گایتون، فصل ۵۵، ص …»"],
+            ["جزوات تکمیلی دکتر قدیری",
+             "منبع کمکی برای جلسات بعد؛ در این نسخه استفاده نشده است.",
+             "—"],
+        ]
+    elif cfg.get("no1404"):
         source_rows = [
             ["جزوهٔ بهمن ۱۴۰۲ (نوشتهٔ دانشجوی سال‌بالاتر) — پارت ۱",
              "متن پایهٔ نیمهٔ نخست این جلسه: آناتومی نخاع، واحد حرکتی، دوک عضلانی، "
@@ -357,6 +393,10 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
          "«عضالت» به‌جای «عضلات»). در این جزوه املای درست نوشته شده؛ اگر جایی از منبع عیناً "
          "نقل شده و املا نادرست است، در همان جمله اصلاح شده است."),
         ("این جلسه جزوهٔ مهر ۱۴۰۴ ندارد؛ بنابراین در تمام سند هیچ ارجاعی به ۱۴۰۴ نیامده و متن "
+         "فقط بر جزوهٔ بهمن ۱۴۰۲ و گایتون فصل ۵۵ استوار است. جزوهٔ ۱۴۰۲ این جلسه یک پارت "
+         "۱۵ صفحه‌ای است، پس در ارجاع‌ها فقط شمارهٔ صفحه آمده است."
+         if cfg.get("single_part") else
+         "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد؛ بنابراین در تمام سند هیچ ارجاعی به ۱۴۰۴ نیامده و متن "
          "فقط بر دو پارت جزوهٔ بهمن ۱۴۰۲ و گایتون فصل‌های ۵۴ و ۵۵ استوار است. دو پارت هر دو از "
          "صفحهٔ ۱ شروع می‌شوند، پس شمارهٔ پارت همیشه در ارجاع نوشته شده است."
          if cfg.get("no1404") else
@@ -413,15 +453,22 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
     rng02 = (f"{fa(max(p1402))} صفحه") if p1402 else "—"
     if cfg.get("no1404"):
         parts = []
-        if p1402:
+        if p1402 and cfg.get("single_part"):
+            parts.append(f"{fa(max(p1402))} صفحه")
+        elif p1402:
             parts.append(f"پارت ۱ در {fa(max(p1402))} صفحه")
         p2 = [p for t in outline["topics"] for p in t.get("notes1402_p2", [])]
         if p2:
             parts.append(f"پارت ۲ در {fa(max(p2))} صفحه")
-        src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
-                    f"منبع اصلی متن: جزوهٔ بهمن ۱۴۰۲ ({' و '.join(parts)})؛ چون هر پارت "
-                    "شمارهٔ صفحهٔ خودش را دارد، در همهٔ ارجاع‌ها شمارهٔ پارت هم نوشته شده است. "
-                    "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد.")
+        if cfg.get("single_part"):
+            src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
+                        f"منبع اصلی متن: جزوهٔ بهمن ۱۴۰۲ ({' و '.join(parts)}). "
+                        "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد و جزوهٔ ۱۴۰۲ آن یک پارت است.")
+        else:
+            src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
+                        f"منبع اصلی متن: جزوهٔ بهمن ۱۴۰۲ ({' و '.join(parts)})؛ چون هر پارت "
+                        "شمارهٔ صفحهٔ خودش را دارد، در همهٔ ارجاع‌ها شمارهٔ پارت هم نوشته شده است. "
+                        "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد.")
     else:
         src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
                     f"منبع اصلی متن: جزوهٔ مهر ۱۴۰۴ ({rng04})")
@@ -434,8 +481,10 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
     rows = []
     for t in outline["topics"]:
         sub = t["title"]
-        rows.append([tno(t["topic_id"]), sub, pages_1402(t), t["notes_size"]])
-    book.table(["#", "مبحث", "ص ۱۴۰۲", "اندازه"], rows,
+        rows.append([tno(t["topic_id"]), sub, pages_1402(t),
+                     {"small": "کوچک", "medium": "متوسط", "large": "بزرگ"}
+                     .get(t.get("notes_size"), "متوسط")])
+    book.table(["#", "مبحث", "ص ۱۴۰۲", "حجم"], rows,
                widths=[CONTENT_W * 0.08, CONTENT_W * 0.68, CONTENT_W * 0.16, CONTENT_W * 0.08],
                size=8.2,
                caption=f"جدول {cfg['num']}-۰ — {fa(len(outline['topics']))} مبحث جلسهٔ {cfg['num']}. "
@@ -468,6 +517,8 @@ def topic_head(book: PDFBook, t: dict, idx: int, total: int, outline: dict) -> N
                      f"پارت ۲ ص {page_range(t['notes1402_p2'])}")
     elif t.get("notes1402_p2"):
         src_pages = f"صفحه‌های جزوهٔ ۱۴۰۲ (پارت ۲): {page_range(t['notes1402_p2'])}"
+    elif outline.get("single_part"):
+        src_pages = f"صفحه‌های جزوهٔ ۱۴۰۲: {page_range(t.get('notes1402', []))}"
     elif outline.get("no1404") or not t.get("p1404"):
         src_pages = f"صفحه‌های جزوهٔ ۱۴۰۲ (پارت {t.get('notes_part', '۱')}): {page_range(t.get('notes1402', []))}"
     else:
@@ -591,8 +642,13 @@ def roadmap(book: PDFBook, outline: dict, content: dict) -> None:
 
 def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
     """Page coverage of a session whose source is two 1402 decks, each from page 1."""
-    book.paragraph("منبع این جلسه دو پارت جزوهٔ بهمن ۱۴۰۲ است و هر پارت شمارهٔ صفحهٔ خودش را "
-                   "دارد؛ بنابراین پوشش را برای هر پارت جدا می‌آوریم.")
+    if cfg.get("single_part"):
+        book.paragraph("منبع متنی این جلسه یک جزوهٔ ۱۵ صفحه‌ای بهمن ۱۴۰۲ است. جدول زیر می‌گوید "
+                       "هر صفحهٔ آن جزوه در کدام مبحث این سند آمده است.")
+    else:
+        book.paragraph("منبع این جلسه دو پارت جزوهٔ بهمن ۱۴۰۲ است و هر پارت شمارهٔ صفحهٔ خودش را "
+                       "دارد؛ بنابراین پوشش را برای هر پارت جدا می‌آوریم.")
+    single = cfg.get("single_part")
     for part, key in (("۱", "notes1402"), ("۲", "notes1402_p2")):
         per_page = {}
         for t in outline["topics"]:
@@ -605,9 +661,11 @@ def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
         for pg in range(lo_pg, hi_pg + 1):
             rows.append([fa(pg), "، ".join(per_page.get(pg, [])) or "— بدون مبحث —"])
         gaps = sum(1 for pg in range(lo_pg, hi_pg + 1) if pg not in per_page)
-        book.table(["صفحهٔ پارت " + part, "مبحث این جزوه"], rows,
+        head = "صفحهٔ جزوهٔ ۱۴۰۲" if single else "صفحهٔ پارت " + part
+        where = "" if single else " پارت " + part
+        book.table([head, "مبحث این جزوه"], rows,
                    widths=[CONTENT_W * 0.22, CONTENT_W * 0.78], size=7.6,
-                   caption=f"جدول {cfg['num']}-۱ — صفحه‌های {fa(lo_pg)} تا {fa(hi_pg)} پارت {part} "
+                   caption=f"جدول {cfg['num']}-۱ — صفحه‌های {fa(lo_pg)} تا {fa(hi_pg)}{where} "
                            "جزوهٔ بهمن ۱۴۰۲ و مبحثی که آن‌ها را پوشش می‌دهد."
                            + ("" if gaps else " در این بازه صفحهٔ بدون مبحث نمانده است."),
                    src="مقایسهٔ صفحه‌به‌صفحهٔ جزوه و مباحث این سند")
@@ -692,7 +750,8 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
         toc_rows.append((f"{i:02d}", t["title"], t["topic_id"], 1))
     toc_rows += [
         ("ر", "نقشهٔ جلسات آینده", "roadmap", 0),
-        ("ر", "پوشش صفحه‌های جزوهٔ ۱۴۰۴", "roadmap-cover", 1),
+        ("ر", ("پوشش صفحه‌های جزوهٔ ۱۴۰۲" if cfg.get("no1404")
+               else "پوشش صفحه‌های جزوهٔ ۱۴۰۴"), "roadmap-cover", 1),
         ("ر", "جلسه‌های باقی‌مانده", "roadmap-sessions", 1),
     ]
     for num, title, anchor, indent in toc_rows:
