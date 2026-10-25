@@ -48,7 +48,8 @@ PAGE_MAP = {
     "s01-T13": [36, 37, 38], "s01-T14": [38, 39, 40, 41, 42],
 }
 
-SIMPLE_TYPES = {"h3", "guyton", "note", "figure", "facsimile"}
+SIMPLE_TYPES = {"h3", "guyton", "guytonpair", "note", "figure", "facsimile",
+                "idcard", "handoff"}
 
 
 def sha256(path: Path) -> str:
@@ -117,7 +118,8 @@ def main() -> int:
             by_type[kind] = by_type.get(kind, 0) + 1
             if kind not in SIMPLE_TYPES | {"p", "ul", "ol", "callout"}:
                 problems.append(f"{tid}#{i}: unknown block type {kind!r}")
-            if kind in {"p", "ul", "ol", "callout"} and not b.get("src"):
+            if kind in {"p", "ul", "ol", "callout", "guytonpair", "idcard", "handoff"} \
+                    and not b.get("src"):
                 problems.append(f"{tid}#{i}: block without src")
             if kind in {"figure", "facsimile"}:
                 if not (REPO / b["asset"]).exists():
@@ -220,7 +222,7 @@ def main() -> int:
     for tid in topics:
         blocks = content.get(tid, [])
         figs = sum(1 for b in blocks if b.get("type") in ("figure", "facsimile"))
-        guy = sum(1 for b in blocks if b.get("type") == "guyton")
+        guy = sum(1 for b in blocks if b.get("type") in ("guyton", "guytonpair"))
         notes = sum(1 for b in blocks if b.get("type") == "note")
         lines.append(f"| {tid} | {len(blocks)} | {figs} | {guy} | {notes} | "
                      f"{book.heading_pages.get(tid, '—')} |")

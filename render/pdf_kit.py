@@ -580,6 +580,159 @@ class PDFBook:
         c.line(x_left - 8, self.py(self.y), x_left - 8, self.py(start_y + head_h - 14))
         self.y += 10
 
+    def guyton_pair(self, title: str, citation: str, english, fa_text: str,
+                    fa_label: str = "ترجمهٔ روان متن بالا (ترجمهٔ تحریریهٔ این جزوه — نقل‌قول از ترجمهٔ رسمی فارسی نیست)",
+                    note: str = "") -> None:
+        """English Guyton excerpt followed by an editorial Persian translation.
+
+        ``english`` is a list of ``{"text": str, "page": int|None}`` items and is
+        drawn LTR exactly as printed in the source.  ``fa_text`` is this team's
+        fluent translation and is drawn RTL in a clearly separate band, so the
+        two voices can never be confused on paper.
+        """
+        self._touch()
+        c = self.c
+        accent = HexColor("#312e81")
+        soft = HexColor("#f7f8ff")
+        en = TextStyle(size=8.9, leading=13.4, color=HexColor("#1f2937"), justify=False,
+                       align="left")
+        fa = TextStyle(size=10.0, leading=17.0, color=HexColor("#111827"), justify=True)
+        lab = TextStyle(size=8.2, leading=14, color=HexColor("#4338ca"), justify=False)
+        x_left = A4W - M_RIGHT - CONTENT_W + 10
+        bar_x = x_left - 8
+
+        def bar(y0: float, y1: float, color) -> None:
+            c.setStrokeColor(color)
+            c.setLineWidth(2.2)
+            c.line(bar_x, self.py(y1), bar_x, self.py(y0))
+
+        self.ensure(70)
+        # ---- header
+        top = self.y
+        c.setFillColor(soft)
+        c.rect(M_LEFT, self.py(top + 30), CONTENT_W, 30, stroke=0, fill=1)
+        bar(top, top + 30, HexColor("#c7d2fe"))
+        draw_shaped(c, A4W - M_RIGHT - 4, self.py(top + 13), shape("گایتون — " + title),
+                    "VazirB", 10, accent, align="right")
+        draw_shaped(c, A4W - M_RIGHT - 4, self.py(top + 25), shape(citation), "VazirL", 7.6,
+                    MUTED, align="right")
+        self.y = top + 30
+        # ---- English source text (LTR, never re-flowed by hand)
+        for para in english:
+            for line in self.wrap(para["text"], en.font, en.size, CONTENT_W - 34):
+                self.ensure(en.leading)
+                bar(self.y, self.y + en.leading, HexColor("#c7d2fe"))
+                draw_shaped(c, x_left, self.py(self.y + en.leading * 0.76), line,
+                            en.font, en.size, en.color)
+                self.y += en.leading
+            pg = para.get("page")
+            if pg:
+                self.ensure(11)
+                bar(self.y, self.y + 11, HexColor("#c7d2fe"))
+                draw_shaped(c, x_left, self.py(self.y + 8), f"[p. {pg}]", "Vazir", 7.0, MUTED)
+                self.y += 11
+        # ---- Persian editorial translation band
+        self.ensure(26)
+        top = self.y
+        c.setFillColor(HexColor("#eef2ff"))
+        c.rect(M_LEFT, self.py(top + 17), CONTENT_W, 17, stroke=0, fill=1)
+        draw_shaped(c, A4W - M_RIGHT - 6, self.py(top + 11), shape(fa_label), "VazirM", 8.2,
+                    HexColor("#4338ca"), align="right")
+        self.y = top + 17
+        fa_paras = (fa_text if isinstance(fa_text, (list, tuple))
+                    else [t.strip() for t in str(fa_text).split("\n\n") if t.strip()])
+        for pi, para in enumerate(fa_paras):
+            fa_lines = self.wrap(para.replace("\n", " "), fa.font, fa.size, CONTENT_W - 34)
+            for i, line in enumerate(fa_lines):
+                self.ensure(fa.leading)
+                c.setFillColor(CARD)
+                c.rect(M_LEFT, self.py(self.y + fa.leading), CONTENT_W, fa.leading, stroke=0,
+                       fill=1)
+                bar(self.y, self.y + fa.leading, BLUE)
+                self.draw_line(line, self.y, fa, CONTENT_W - 34, A4W - M_RIGHT - 6,
+                               justify=i < len(fa_lines) - 1)
+                self.y += fa.leading
+            if pi < len(fa_paras) - 1:
+                self.y += 2
+        if note:
+            self.ensure(18)
+            n = TextStyle(size=8.6, leading=13.6, color=HexColor("#4338ca"), justify=False)
+            for line in self.wrap(note, n.font, n.size, CONTENT_W - 30):
+                self.draw_line(line, self.y, n, CONTENT_W - 30, A4W - M_RIGHT - 6)
+                self.y += n.leading
+        self.y += 9
+
+    def label_card(self, title: str, rows, accent=TEAL, tint=TEAL_LL, kicker: str = "",
+                   tick: bool = False, footer: str = "") -> None:
+        """A ruled card of labelled rows (topic identity card / hand-off sheet).
+
+        Each row is drawn with its own background so a long card can flow across
+        a page break without cutting a row in half or losing its rules.
+        """
+        self._touch()
+        c = self.c
+        head_h = 24
+        self.ensure(head_h + 40)
+        top = self.y
+        c.setFillColor(accent)
+        c.roundRect(M_LEFT, self.py(top + head_h), CONTENT_W, head_h, 5, stroke=0, fill=1)
+        draw_shaped(c, A4W - M_RIGHT - 9, self.py(top + 15), shape(title), "VazirB", 10.2,
+                    CARD, align="right")
+        if kicker:
+            draw_shaped(c, M_LEFT + 9, self.py(top + 15), shape(kicker), "Vazir", 7.6,
+                        CARD)
+        self.y = top + head_h
+        body = TextStyle(size=9.5, leading=15.4, color=BODY, justify=False)
+        lab = TextStyle(size=8.2, leading=12, color=accent, justify=False)
+        for row in rows:
+            label = row.get("label", "")
+            items = row.get("items")
+            text = row.get("text", "")
+            box_w = 15 if (tick and items is not None) else 0
+            indent = 14 if (items is not None and not tick) else 0
+            entries: list[tuple[str, bool]] = []      # (line, starts_a_new_item)
+            if items is not None:
+                for it in items:
+                    wrapped = self.wrap(it, body.font, body.size,
+                                        CONTENT_W - 46 - box_w - indent)
+                    for j, ln in enumerate(wrapped):
+                        entries.append((ln, j == 0))
+            elif text:
+                entries = [(ln, False) for ln in
+                           self.wrap(text, body.font, body.size, CONTENT_W - 46)]
+            row_h = 15 + len(entries) * body.leading + 5
+            self.ensure(row_h)
+            top = self.y
+            c.setFillColor(tint)
+            c.rect(M_LEFT, self.py(top + row_h), CONTENT_W, row_h, stroke=0, fill=1)
+            c.setFillColor(accent)
+            c.rect(A4W - M_RIGHT - 2.6, self.py(top + row_h), 2.6, row_h, stroke=0, fill=1)
+            c.setStrokeColor(LINE)
+            c.setLineWidth(0.5)
+            c.line(M_LEFT, self.py(top + row_h), A4W - M_RIGHT, self.py(top + row_h))
+            draw_shaped(c, A4W - M_RIGHT - 9, self.py(top + 11), shape(label), "VazirB", 8.2,
+                        accent, align="right")
+            yy = top + 15
+            for line, starts in entries:
+                if tick and items is not None and starts:
+                    c.setStrokeColor(accent)
+                    c.setLineWidth(0.9)
+                    c.rect(M_LEFT + 8, self.py(yy + 12.5), 8.4, 8.4, stroke=1, fill=0)
+                if items is not None and not tick and starts:
+                    c.setFillColor(accent)
+                    c.circle(A4W - M_RIGHT - 13, self.py(yy + 8.6), 1.6, stroke=0, fill=1)
+                self.draw_line(line, yy, body, CONTENT_W - 46 - box_w - indent,
+                               A4W - M_RIGHT - 9 - indent, justify=False)
+                yy += body.leading
+            self.y = top + row_h
+        if footer:
+            self.ensure(18)
+            f = TextStyle(size=8.2, leading=13, color=MUTED, justify=False)
+            for line in self.wrap(footer, f.font, f.size, CONTENT_W - 10):
+                self.draw_line(line, self.y + 3, f, CONTENT_W - 10, A4W - M_RIGHT - 4)
+                self.y += f.leading
+        self.y += 8
+
     def note_box(self, height_mm: float, title: str = "یادداشت عضو تیم",
                  subtitle: str = "HumsYar · team workspace", tag: str = "") -> None:
         self._touch()
