@@ -11,4 +11,4 @@ work/page_renders/
 output/
 
 # generated figure counter (regenerable: rm content/.figseq then run mk_s0*_*.py)
-content/.figseq
+content/.figseq*

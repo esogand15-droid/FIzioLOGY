@@ -4,7 +4,9 @@ import json, pathlib, sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from blocks_common import (SRC04, SRC02, p, ul, ol, h3, callout, fig, note, idcard,
-                           handoff, guyton, gq)
+                           handoff, guyton, gq, set_session)
+
+set_session("۳")
 
 TOPICS = []
 

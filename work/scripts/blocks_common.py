@@ -36,8 +36,20 @@ def callout(text, src, kind="key", title=None):
 
 
 _FA = "۰۱۲۳۴۵۶۷۸۹"
-_SEQ = _pathlib.Path(__file__).resolve().parents[2] / "content" / ".figseq"
-_N = [int(_SEQ.read_text().strip())] if _SEQ.exists() else [0]
+
+# figure numbering state: every session numbers its figures "شکل <جلسه>-N"
+FIG = {"session": "۳", "n": 0, "file": None}
+
+
+def set_session(num: str, reset: bool = False) -> None:
+    """Select the session number used by :func:`fig` (and renumber from 1)."""
+    FIG["session"] = num
+    FIG["file"] = _pathlib.Path(__file__).resolve().parents[2] / "content" / f".figseq_s{num}"
+    if reset:
+        FIG["file"].unlink(missing_ok=True)
+        FIG["n"] = 0
+    else:
+        FIG["n"] = int(FIG["file"].read_text().strip()) if FIG["file"].exists() else 0
 
 
 def _fa(n):
@@ -45,13 +57,15 @@ def _fa(n):
 
 
 def fig(asset, caption, src, folder="notes_1404"):
-    """Figure block; the "شکل ۳-N" prefix is assigned automatically in order."""
+    """Figure block; the "شکل <جلسه>-N" prefix is assigned automatically in order."""
     import re as _re
-    _N[0] += 1
-    _SEQ.write_text(str(_N[0]), encoding="utf-8")
-    body = _re.sub(r"^شکل ۳-[۰-۹]+ — ", "", caption)
+    if FIG["file"] is None:
+        set_session(FIG["session"])
+    FIG["n"] += 1
+    FIG["file"].write_text(str(FIG["n"]), encoding="utf-8")
+    body = _re.sub(r"^شکل [۰-۹]+-[۰-۹]+ — ", "", caption)
     return {"type": "figure", "asset": f"images/{folder}/{asset}.png",
-            "caption": f"شکل ۳-{_fa(_N[0])} — {body}", "src": src}
+            "caption": f"شکل {FIG['session']}-{_fa(FIG['n'])} — {body}", "src": src}
 
 
 def note(size, title):
@@ -97,8 +111,10 @@ def guyton(chapter, pages, title, english, fa, note_text, src_pages):
 import json as _json
 import pathlib as _pathlib
 
-_EXC_PATH = _pathlib.Path(__file__).resolve().parents[2] / "work" / "references" / "guyton_s03_excerpts.json"
-_EXC = _json.loads(_EXC_PATH.read_text(encoding="utf-8"))["sections"]
+_EXC_DIR = _pathlib.Path(__file__).resolve().parents[2] / "work" / "references"
+_EXC = {}
+for _f in sorted(_EXC_DIR.glob("guyton_s*_excerpts.json")):
+    _EXC.update(_json.loads(_f.read_text(encoding="utf-8"))["sections"])
 _INDEX = []
 for _sec, _v in _EXC.items():
     for _s in _v.get("sentences", []):

@@ -1,0 +1,1694 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "somatosensory_areas": {
+   "heading": "Somatosensory Cortex",
+   "chapter": 47,
+   "found": true,
+   "page_start": 574,
+   "page_end": 575,
+   "sentences": [
+    {
+     "page": 574,
+     "text": "Before discussing the role of the cerebral cortex in somatic sensation, we need to give an orientation to the various areas of the cortex."
+    },
+    {
+     "page": 574,
+     "text": "Figure 47-5 is a map of the human cerebral cortex, showing that it is divided into about 50 distinct areas called Brodmann’s areas based on histological structural differences."
+    },
+    {
+     "page": 575,
+     "text": "Note in the figure the large central fissure (also called central sulcus) that extends horizontally across the brain."
+    },
+    {
+     "page": 575,
+     "text": "In general, sensory signals from all modalities of sensation terminate in the cerebral cortex immediately posterior to the central fissure."
+    },
+    {
+     "page": 575,
+     "text": "And, generally, the anterior half of the parietal lobe is concerned almost entirely with reception and interpretation of somatosensory signals."
+    },
+    {
+     "page": 575,
+     "text": "But the posterior half of the parietal lobe provides still higher levels of interpretation."
+    },
+    {
+     "page": 575,
+     "text": "Visual signals terminate in the occipital lobe, and auditory signals terminate in the temporal lobe."
+    },
+    {
+     "page": 575,
+     "text": "Conversely, that portion of the cerebral cortex anterior to the central fissure and constituting the posterior half of the frontal lobe is called the motor cortex and is devoted almost entirely to control of muscle contractions and body movements."
+    },
+    {
+     "page": 575,
+     "text": "A major share of this motor control is in response to somatosensory signals received from the sensory portions of the cortex, which keep the motor cortex informed at each instant about the positions and motions of the different body parts."
+    },
+    {
+     "page": 575,
+     "text": "Figure 47-6 shows two separate sensory areas in the anterior parietal lobe called somatosensory area I and somatosensory area II."
+    },
+    {
+     "page": 575,
+     "text": "The reason for this division into two areas is that a distinct and separate spatial orientation of the different parts of the body is found in each of these two areas."
+    },
+    {
+     "page": 575,
+     "text": "However, somatosensory area I is so much more extensive and so much more important than somatosensory area II that in popular usage, the term “somatosensory cortex” almost always means area I."
+    },
+    {
+     "page": 575,
+     "text": "By contrast, localization is poor in somatosensory area II, although roughly, the face is represented anteriorly, the arms centrally, and the legs posteriorly."
+    },
+    {
+     "page": 575,
+     "text": "Little is known about the function of somatosensory area II."
+    },
+    {
+     "page": 575,
+     "text": "It is known that signals enter this area from the brain stem, transmitted upward from both sides of the body."
+    },
+    {
+     "page": 575,
+     "text": "In addition, many signals come secondarily from somatosensory area I, as well as from other sensory areas of the brain, even from the visual and auditory areas."
+    },
+    {
+     "page": 575,
+     "text": "Projections from somatosensory area I are required for function of somatosensory area II."
+    },
+    {
+     "page": 575,
+     "text": "However, removal of parts of somatosensory area II has no apparent effect on the response of neurons in somatosensory area I."
+    },
+    {
+     "page": 575,
+     "text": "Thus, much of what we know about somatic sensation appears to be explained by the functions of somatosensory area I."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cortical_map": {
+   "heading": "Spatial Orientation of Signals from Different Parts",
+   "chapter": 47,
+   "found": true,
+   "page_start": 576,
+   "page_end": 576,
+   "sentences": [
+    {
+     "page": 576,
+     "text": "Somatosensory area I lies immediately behind the central fissure, located in the postcentral gyrus of the human cerebral cortex (in Brodmann’s areas 3, 1, and 2)."
+    },
+    {
+     "page": 576,
+     "text": "Figure 47-7 shows a cross section through the brain at the level of the postcentral gyrus, demonstrating representations of the different parts of the body in separate regions of somatosensory area I."
+    },
+    {
+     "page": 576,
+     "text": "Note, however, that each lateral side of the cortex receives sensory information almost exclusively from the opposite side of the body."
+    },
+    {
+     "page": 576,
+     "text": "Some areas of the body are represented by large areas in the somatic cortex—the lips the greatest of all, followed by the face and thumb—whereas the trunk and lower part of the body are represented by relatively small areas."
+    },
+    {
+     "page": 576,
+     "text": "The sizes of these areas are directly proportional to the number of specialized sensory receptors in each respective peripheral area of the body."
+    },
+    {
+     "page": 576,
+     "text": "For instance, a great number of specialized nerve endings are found in the lips and thumb, whereas only a few are present in the skin of the body trunk."
+    },
+    {
+     "page": 576,
+     "text": "Note also that the head is represented in the most lateral portion of somatosensory area I, and the lower part of the body is represented medially."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cortical_layers": {
+   "heading": "Layers of the Somatosensory Cortex and Their",
+   "chapter": 47,
+   "found": true,
+   "page_start": 576,
+   "page_end": 576,
+   "sentences": [
+    {
+     "page": 576,
+     "text": "As would be expected, the neurons in each layer perform functions different from those in other layers."
+    },
+    {
+     "page": 576,
+     "text": "Some of these functions are: 1."
+    },
+    {
+     "page": 576,
+     "text": "The incoming sensory signal excites neuronal layer IV first; then the signal spreads toward the surface of the cortex and also toward deeper layers."
+    },
+    {
+     "page": 576,
+     "text": "Layers I and II receive diffuse, nonspecific input signals from lower brain centers that facilitate specific regions of the cortex; this system is described in Chapter 57."
+    },
+    {
+     "page": 576,
+     "text": "This input mainly controls the overall level of excitability of the respective regions stimulated."
+    },
+    {
+     "page": 576,
+     "text": "The neurons in layers II and III send axons to related portions of the cerebral cortex on the opposite side of the brain through the corpus callosum."
+    },
+    {
+     "page": 576,
+     "text": "The neurons in layers V and VI send axons to the deeper parts of the nervous system."
+    },
+    {
+     "page": 576,
+     "text": "Those in layer V are generally larger and project to more distant areas, such as to the basal ganglia, brain stem, and spinal cord, where they control signal transmission."
+    },
+    {
+     "page": 576,
+     "text": "From layer VI, especially large numbers of axons extend to the thalamus, providing signals from the cerebral cortex that interact with and help to control the excitatory levels of incoming sensory signals entering the thalamus."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cortical_columns": {
+   "heading": "The Sensory Cortex Is Organized in Vertical",
+   "chapter": 47,
+   "found": true,
+   "page_start": 577,
+   "page_end": 577,
+   "sentences": [
+    {
+     "page": 577,
+     "text": "Functionally, the neurons of the somatosensory cortex are arranged in vertical columns extending all the way through the six layers of the cortex, each column having a diameter of 0.3 to 0.5 millimeter and containing perhaps 10,000 neuronal cell bodies."
+    },
+    {
+     "page": 577,
+     "text": "Each of these columns serves a single specific sensory modality, some columns responding to stretch receptors around joints, some to stimulation of tactile hairs, others to discrete localized pressure points on the skin, and so forth."
+    },
+    {
+     "page": 577,
+     "text": "At layer IV, where the input sensory signals first enter the cortex, the columns of neurons function almost entirely separately from one another."
+    },
+    {
+     "page": 577,
+     "text": "At other levels of the columns, interactions occur that initiate analysis of the meanings of the sensory signals."
+    },
+    {
+     "page": 577,
+     "text": "In the most anterior 5 to 10 millimeters of the postcentral gyrus, located deep in the central fissure in Brodmann’s area 3a, an especially large share of the vertical columns respond to muscle, tendon, and joint stretch receptors."
+    },
+    {
+     "page": 577,
+     "text": "Many of the signals from these sensory columns then spread anteriorly, directly to the motor cortex located immediately forward of the central fissure."
+    },
+    {
+     "page": 577,
+     "text": "These signals play a major role in controlling the effluent motor signals that activate sequences of muscle contraction."
+    },
+    {
+     "page": 577,
+     "text": "As one moves posteriorly in somatosensory area I, more and more of the vertical columns respond to slowly adapting cutaneous receptors, and then still farther posteriorly, greater numbers of the columns are sensitive to deep pressure."
+    },
+    {
+     "page": 577,
+     "text": "In the most posterior portion of somatosensory area I, about 6 percent of the vertical columns respond only when a stimulus moves across the skin in a particular direction."
+    },
+    {
+     "page": 577,
+     "text": "Thus, this is a still higher order of interpretation of sensory signals; the process becomes even more complex as the signals spread farther backward from somatosensory area I into the parietal cortex, an area called the somatosensory association area, as we discuss subsequently."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s1_functions": {
+   "heading": "Functions of Somatosensory Area I",
+   "chapter": 47,
+   "found": true,
+   "page_start": 577,
+   "page_end": 577,
+   "sentences": [
+    {
+     "page": 577,
+     "text": "Widespread bilateral excision of somatosensory area I causes loss of the following types of sensory judgment: 1."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to localize discretely the different sensations in the different parts of the body."
+    },
+    {
+     "page": 577,
+     "text": "However, he or she can localize these sensations crudely, such as to a particular hand, to a major level of the body trunk, or to one of the legs."
+    },
+    {
+     "page": 577,
+     "text": "Thus, it is clear that the brain stem, thalamus, or parts of the cerebral cortex not normally considered to be concerned with somatic sensations can perform some degree of localization."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to judge critical degrees of pressure against the body."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to judge the weights of objects."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to judge shapes or forms of objects."
+    },
+    {
+     "page": 577,
+     "text": "This is called astereognosis."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to judge texture of materials because this type of judgment depends on highly critical sensations caused by movement of the fingers over the surface to be judged."
+    },
+    {
+     "page": 577,
+     "text": "Note that in the list nothing has been said about loss of pain and temperature sense."
+    },
+    {
+     "page": 577,
+     "text": "In specific absence of only somatosensory area I, appreciation of these sensory modalities is still preserved both in quality and intensity."
+    },
+    {
+     "page": 577,
+     "text": "But the sensations are poorly localized, indicating that pain and temperature localization depend greatly on the topographical map of the body in somatosensory area I to localize the source."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "association_area": {
+   "heading": "Somatosensory Association Areas",
+   "chapter": 47,
+   "found": true,
+   "page_start": 577,
+   "page_end": 577,
+   "sentences": [
+    {
+     "page": 577,
+     "text": "Therefore, these areas are called somatosensory association areas."
+    },
+    {
+     "page": 577,
+     "text": "Electrical stimulation in a somatosensory association area can occasionally cause an awake person to experience a complex body sensation, sometimes even the “feeling” of an object such as a knife or a ball."
+    },
+    {
+     "page": 577,
+     "text": "Therefore, it seems clear that the somatosensory association area combines information arriving from multiple points in the primary somatosensory area to decipher its meaning."
+    },
+    {
+     "page": 577,
+     "text": "This also fits with the anatomical arrangement of the neuronal tracts that enter the somatosensory association area because it receives signals from (1) somatosensory area I, (2) the ventrobasal nuclei of the thalamus, (3) other areas of the thalamus, (4) the visual cortex, and (5) the auditory cortex."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "amorphosynthesis": {
+   "heading": "Effect of Removing the Somatosensory Association",
+   "chapter": 47,
+   "found": true,
+   "page_start": 577,
+   "page_end": 577,
+   "sentences": [
+    {
+     "page": 577,
+     "text": "When the somatosensory association area is removed on one side of the brain, the person loses ability to recognize complex objects and complex forms felt on the opposite side of the body."
+    },
+    {
+     "page": 577,
+     "text": "In addition, he or she loses most of the sense of form of his or her own body or body parts on the opposite side."
+    },
+    {
+     "page": 577,
+     "text": "In fact, the person is mainly oblivious to the opposite side of the body—that is, forgets that it is there."
+    },
+    {
+     "page": 577,
+     "text": "Therefore, he or she also often forgets to use the other side for motor functions as well."
+    },
+    {
+     "page": 577,
+     "text": "Likewise, when feeling objects, the person tends to recognize only one side of the object and forgets that the other side even exists."
+    },
+    {
+     "page": 577,
+     "text": "This complex sensory deficit is called amorphosynthesis."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "spatial_discrimination": {
+   "heading": "Two-Point Discrimination",
+   "chapter": 47,
+   "found": true,
+   "page_start": 578,
+   "page_end": 578,
+   "sentences": [
+    {
+     "page": 578,
+     "text": "In this test, two needles are pressed lightly against the skin at the same time, and the person determines whether two points of stimulus are felt or one point."
+    },
+    {
+     "page": 578,
+     "text": "On the tips of the fingers, a person can normally distinguish two separate points even when the needles are as close together as 1 to 2 millimeters."
+    },
+    {
+     "page": 578,
+     "text": "However, on the person’s back, the needles must usually be as far apart as 30 to 70 millimeters before two separate points can be detected."
+    },
+    {
+     "page": 578,
+     "text": "The reason for this difference is the different numbers of specialized tactile receptors in the two areas."
+    },
+    {
+     "page": 578,
+     "text": "Figure 47-10 shows the mechanism by which the dorsal column pathway (as well as all other sensory pathways) transmits two-point discriminatory information."
+    },
+    {
+     "page": 578,
+     "text": "This figure shows two adjacent points on the skin that are strongly stimulated, as well as the areas of the somatosensory cortex (greatly enlarged) that are excited by signals from the two stimulated points."
+    },
+    {
+     "page": 578,
+     "text": "The blue curve shows the spatial pattern of cortical excitation when both skin points are stimulated simultaneously."
+    },
+    {
+     "page": 578,
+     "text": "Note that the resultant zone of excitation has two separate peaks."
+    },
+    {
+     "page": 578,
+     "text": "These two peaks, separated by a valley, allow the sensory cortex to detect the presence of two stimulatory points, rather than a single point."
+    },
+    {
+     "page": 578,
+     "text": "The capability of the sensorium to distinguish this presence of two points of stimulation is strongly influenced by another mechanism, lateral inhibition, as explained in the next section."
+    },
+    {
+     "page": 578,
+     "text": "For instance, consider an excited neuron in a dorsal column nucleus."
+    },
+    {
+     "page": 578,
+     "text": "Aside from the central excitatory signal, short lateral pathways transmit inhibitory signals to the surrounding neurons."
+    },
+    {
+     "page": 578,
+     "text": "That is, these signals pass through additional interneurons that secrete an inhibitory transmitter."
+    },
+    {
+     "page": 578,
+     "text": "The importance of lateral inhibition is that it blocks lateral spread of the excitatory signals and, therefore, increases the degree of contrast in the sensory pattern perceived in the cerebral cortex."
+    },
+    {
+     "page": 578,
+     "text": "In the case of the dorsal column system, lateral inhibitory signals occur at each synaptic level—for instance, in (1) the dorsal column nuclei of the medulla, (2) the ventrobasal nuclei of the thalamus, and (3) the cortex itself."
+    },
+    {
+     "page": 578,
+     "text": "At each of these levels, the lateral inhibition helps to block lateral spread of the excitatory signal."
+    },
+    {
+     "page": 578,
+     "text": "The blue curve represents the pattern of cortical stimulation without “surround” inhibition, and the two red curves represent the pattern when “surround” inhibition does occur."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "intensity": {
+   "heading": "Interpretation of Sensory Stimulus Intensity",
+   "chapter": 47,
+   "found": true,
+   "page_start": 579,
+   "page_end": 579,
+   "sentences": [
+    {
+     "page": 579,
+     "text": "The ultimate goal of most sensory stimulation is to apprise the psyche of the state of the body and its surroundings."
+    },
+    {
+     "page": 579,
+     "text": "Therefore, it is important that we discuss briefly some of the principles related to transmission of sensory stimulus intensity to the higher levels of the nervous system."
+    },
+    {
+     "page": 579,
+     "text": "One question that comes to mind is, how is it possible for the sensory system to transmit sensory experiences of tremendously varying intensities?"
+    },
+    {
+     "page": 579,
+     "text": "For instance, the auditory system can detect the weakest possible whisper but can also discern the meanings of an explosive sound, even though the sound intensities of these two experiences can vary more than 10 billion times; the eyes can see visual images with light intensities that vary as much as a half million times; and the skin can detect pressure differences of 10,000 to 100,000 times."
+    },
+    {
+     "page": 579,
+     "text": "At low stimulus intensity, slight changes in intensity increase the potential markedly, whereas at high levels of stimulus intensity, further increases in receptor potential are slight."
+    },
+    {
+     "page": 579,
+     "text": "Thus, the pacinian corpuscle is capable of accurately measuring extremely minute changes in stimulus at low-intensity levels, but at high-intensity levels, the change in stimulus must be much greater to cause the same amount of change in receptor potential."
+    },
+    {
+     "page": 579,
+     "text": "The transduction mechanism for detecting sound by the cochlea of the ear demonstrates still another method for separating gradations of stimulus intensity."
+    },
+    {
+     "page": 579,
+     "text": "When sound stimulates a specific point on the basilar membrane, weak sound stimulates only those hair cells at the point of maximum sound vibration."
+    },
+    {
+     "page": 579,
+     "text": "But as the sound intensity increases, many more hair cells in each direction farther away from the maximum vibratory point also become stimulated."
+    },
+    {
+     "page": 579,
+     "text": "Thus, signals are transmitted over progressively increasing numbers of nerve fibers, which is another mechanism by which stimulus intensity is transmitted to the central nervous system."
+    },
+    {
+     "page": 579,
+     "text": "This mechanism, plus the direct effect of stimulus intensity on impulse rate in each nerve fiber, as well as several other mechanisms, makes it possible for some sensory systems to operate reasonably faithfully at stimulus intensity levels changing as much as millions of times."
+    },
+    {
+     "page": 579,
+     "text": "Were it not for the tremendous intensity range of sensory reception that we can experience, the various sensory systems would more often than not be operating in the wrong range."
+    },
+    {
+     "page": 579,
+     "text": "This is demonstrated by the attempts of most people, when taking photographs with a camera, to adjust the light exposure without using a light meter."
+    },
+    {
+     "page": 579,
+     "text": "Left to intuitive judgment of light intensity, a person almost always overexposes the film on bright days and greatly underexposes the film at twilight."
+    },
+    {
+     "page": 579,
+     "text": "Yet that person’s own eyes are capable of discriminating with great detail visual objects in bright sunlight or at twilight; the camera cannot do this without very special manipulation because of the narrow critical range of light intensity required for proper exposure of film."
+    },
+    {
+     "page": 579,
+     "text": "In the mid-1800s, Weber first and Fechner later proposed the principle that gradations of stimulus strength are discriminated approximately in proportion to the logarithm of stimulus strength."
+    },
+    {
+     "page": 579,
+     "text": "That is, a person already holding 30 grams weight in his or her hand can barely detect an additional 1-gram increase in weight."
+    },
+    {
+     "page": 579,
+     "text": "And, when already holding 300 grams, he or she can barely detect a 10-gram increase in weight."
+    },
+    {
+     "page": 579,
+     "text": "Thus, in this instance, the ratio of the change in stimulus strength required for detection remains essentially constant, about 1 to 30, which is what the logarithmic principle means."
+    },
+    {
+     "page": 579,
+     "text": "To express this mathematically."
+    },
+    {
+     "page": 579,
+     "text": "More recently, it has become evident that the WeberFechner principle is quantitatively accurate only for higher intensities of visual, auditory, and cutaneous sensory experience and applies only poorly to most other types of sensory experience."
+    },
+    {
+     "page": 579,
+     "text": "Yet the Weber-Fechner principle is still a good one to remember because it emphasizes that the greater the background sensory intensity, the greater an additional change must be for the psyche to detect the change."
+    },
+    {
+     "page": 579,
+     "text": "Another attempt by physiopsychologists to find a good mathematical relation is the following formula, known as the power law."
+    },
+    {
+     "page": 579,
+     "text": "In this formula, the exponent y and the constants K and k are different for each type of sensation."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "thalamus_role": {
+   "heading": "Function of the Thalamus in Somatic Sensation",
+   "chapter": 47,
+   "found": true,
+   "page_start": 581,
+   "page_end": 581,
+   "sentences": [
+    {
+     "page": 581,
+     "text": "When the somatosensory cortex of a human being is destroyed, that person loses most critical tactile sensibilities, but a slight degree of crude tactile sensibility does return."
+    },
+    {
+     "page": 581,
+     "text": "Therefore, it must be assumed that the thalamus (as well as other lower centers) has a slight ability to discriminate tactile sensation, even though the thalamus normally functions mainly to relay this type of information to the cortex."
+    },
+    {
+     "page": 581,
+     "text": "Conversely, loss of the somatosensory cortex has little effect on one’s perception of pain sensation and only a moderate effect on the perception of temperature."
+    },
+    {
+     "page": 581,
+     "text": "Therefore, there is much reason to believe that the lower brain stem, the thalamus, and other associated basal regions of the brain play dominant roles in discrimination of these sensibilities."
+    },
+    {
+     "page": 581,
+     "text": "It is interesting that these sensibilities appeared very early in the phylogenetic development of animals, whereas the critical tactile sensibilities and the somatosensory cortex were late developments."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "corticofugal": {
+   "heading": "Cortical Control of Sensory",
+   "chapter": 47,
+   "found": true,
+   "page_start": 581,
+   "page_end": 582,
+   "sentences": [
+    {
+     "page": 581,
+     "text": "In addition to somatosensory signals transmitted from the periphery to the brain, corticofugal signals are transmitted in the backward direction from the cerebral cortex to the lower sensory relay stations of the thalamus, medulla, and spinal cord; they control the intensity of sensitivity of the sensory input."
+    },
+    {
+     "page": 582,
+     "text": "This does two things: First, it decreases lateral spread of the sensory signals into adjacent neurons and, therefore, increases the degree of sharpness in the signal pattern."
+    },
+    {
+     "page": 582,
+     "text": "Second, it keeps the sensory system operating in a range of sensitivity that is not so low that the signals are ineffectual nor so high that the system is swamped beyond its capacity to differentiate sensory patterns."
+    },
+    {
+     "page": 582,
+     "text": "This principle of corticofugal sensory control is used by all sensory systems, not only the somatic system, as explained in subsequent chapters."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "pain_protective": {
+   "heading": "Pain Is a Protective Mechanism",
+   "chapter": 48,
+   "found": true,
+   "page_start": 583,
+   "page_end": 583,
+   "sentences": [
+    {
+     "page": 583,
+     "text": "Even such simple activities as sitting for a long time on the ischia can cause tissue destruction because of lack of blood flow to the skin where it is compressed by the weight of the body."
+    },
+    {
+     "page": 583,
+     "text": "When the skin becomes painful as a result of the ischemia, the person normally shifts weight subconsciously."
+    },
+    {
+     "page": 583,
+     "text": "But a person who has lost the pain sense, as after spinal cord injury, fails to feel the pain and, therefore, fails to shift."
+    },
+    {
+     "page": 583,
+     "text": "This soon results in total breakdown and desquamation of the skin at the areas of pressure."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "fast_slow_pain": {
+   "heading": "Types of Pain and Their Qualities—Fast",
+   "chapter": 48,
+   "found": true,
+   "page_start": 583,
+   "page_end": 583,
+   "sentences": [
+    {
+     "page": 583,
+     "text": "Pain has been classified into two major types: fast pain and slow pain."
+    },
+    {
+     "page": 583,
+     "text": "Fast pain is felt within about 0.1 second after a pain stimulus is applied, whereas slow pain begins only after 1 second or more and then increases slowly over many seconds and sometimes even minutes."
+    },
+    {
+     "page": 583,
+     "text": "During the course of this chapter, we shall see that the conduction pathways for these two types of pain are different and that each of them has specific qualities."
+    },
+    {
+     "page": 583,
+     "text": "Fast pain is also described by many alternative names, such as sharp pain, pricking pain, acute pain, and electric pain."
+    },
+    {
+     "page": 583,
+     "text": "This type of pain is felt when a needle is stuck into the skin, when the skin is cut with a knife, or when the skin is acutely burned."
+    },
+    {
+     "page": 583,
+     "text": "It is also felt when the skin is subjected to electric shock."
+    },
+    {
+     "page": 583,
+     "text": "Fast-sharp pain is not felt in most deeper tissues of the body."
+    },
+    {
+     "page": 583,
+     "text": "Slow pain also goes by many names, such as slow burning pain, aching pain, throbbing pain, nauseous pain, and chronic pain."
+    },
+    {
+     "page": 583,
+     "text": "This type of pain is usually associated with tissue destruction."
+    },
+    {
+     "page": 583,
+     "text": "It can lead to prolonged, almost unbearable suffering."
+    },
+    {
+     "page": 583,
+     "text": "It can occur both in the skin and in almost any deep tissue or organ."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "pain_receptors": {
+   "heading": "Pain Receptors Are Free Nerve Endings",
+   "chapter": 48,
+   "found": true,
+   "page_start": 583,
+   "page_end": 583,
+   "sentences": [
+    {
+     "page": 583,
+     "text": "They are widespread in the superficial layers of the skin, as well as in certain internal tissues, such as the periosteum, the arterial walls, the joint surfaces, and the falx and tentorium in the cranial vault."
+    },
+    {
+     "page": 583,
+     "text": "Most other deep tissues are only sparsely supplied with pain endings; nevertheless, any widespread tissue damage can summate to cause the slow-chronic-aching type of pain in most of these areas."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "pain_stimuli": {
+   "heading": "Three Types of Stimuli Excite Pain Receptors",
+   "chapter": 48,
+   "found": true,
+   "page_start": 583,
+   "page_end": 583,
+   "sentences": [
+    {
+     "page": 583,
+     "text": "Pain can be elicited by multiple types of stimuli."
+    },
+    {
+     "page": 583,
+     "text": "They are classified as mechanical, thermal, and chemical pain stimuli."
+    },
+    {
+     "page": 583,
+     "text": "In general, fast pain is elicited by the mechanical and thermal types of stimuli, whereas slow pain can be elicited by all three types."
+    },
+    {
+     "page": 583,
+     "text": "Some of the chemicals that excite the chemical type of pain are bradykinin, serotonin, histamine, potassium ions, acids, acetylcholine, and proteolytic enzymes."
+    },
+    {
+     "page": 583,
+     "text": "In addition, prostaglandins and substance P enhance the sensitivity of pain endings but do not directly excite them."
+    },
+    {
+     "page": 583,
+     "text": "The chemical substances are especially important in stimulating the slow, suffering type of pain that occurs after tissue injury."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "pain_nonadapting": {
+   "heading": "Nonadapting Nature of Pain Receptors",
+   "chapter": 48,
+   "found": true,
+   "page_start": 583,
+   "page_end": 584,
+   "sentences": [
+    {
+     "page": 583,
+     "text": "In fact, under some conditions, excitation of pain fibers becomes progressively greater, especially so for slow-aching-nauseous pain, as the pain stimulus continues."
+    },
+    {
+     "page": 583,
+     "text": "This increase in sensitivity of the pain receptors is called hyperalgesia."
+    },
+    {
+     "page": 584,
+     "text": "One can readily understand the importance of this failure of pain receptors to adapt because it allows the pain to keep the person apprised of a tissue-damaging stimulus as long as it persists."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "tissue_damage": {
+   "heading": "Rate of Tissue Damage as a Stimulus for Pain",
+   "chapter": 48,
+   "found": true,
+   "page_start": 584,
+   "page_end": 584,
+   "sentences": [
+    {
+     "page": 584,
+     "text": "This is also the temperature at which the tissues begin to be damaged by heat; indeed, the tissues are eventually destroyed if the temperature remains above this level indefinitely."
+    },
+    {
+     "page": 584,
+     "text": "Therefore, it is immediately apparent that pain resulting from heat is closely correlated with the rate at which damage to the tissues is occurring and not with the total damage that has already occurred."
+    },
+    {
+     "page": 584,
+     "text": "The intensity of pain is also closely correlated with the rate of tissue damage from causes other than heat, such as bacterial infection, tissue ischemia, tissue contusion, and so forth."
+    },
+    {
+     "page": 584,
+     "text": "Most of the chemicals listed earlier that excite the chemical pain receptors can be found in these extracts."
+    },
+    {
+     "page": 584,
+     "text": "One chemical that seems to be more painful than others is bradykinin."
+    },
+    {
+     "page": 584,
+     "text": "Many researchers have suggested that bradykinin might be the agent most responsible for causing pain following tissue damage."
+    },
+    {
+     "page": 584,
+     "text": "Also, the intensity of the pain felt correlates with the local increase in potassium ion concentration or the increase in proteolytic enzymes that directly attack the nerve endings and excite pain by making the nerve membranes more permeable to ions."
+    },
+    {
+     "page": 584,
+     "text": "When blood flow to a tissue is blocked, the tissue often becomes very painful within a few minutes."
+    },
+    {
+     "page": 584,
+     "text": "The greater the rate of metabolism of the tissue, the more rapidly the pain appears."
+    },
+    {
+     "page": 584,
+     "text": "For instance, if a blood pressure cuff is placed around the upper arm and inflated until the arterial blood flow ceases, exercise of the forearm muscles sometimes can cause muscle pain within 15 to 20 seconds."
+    },
+    {
+     "page": 584,
+     "text": "In the absence of muscle exercise, the pain may not appear for 3 to 4 minutes even though the muscle blood flow remains zero."
+    },
+    {
+     "page": 584,
+     "text": "One of the suggested causes of pain during ischemia is accumulation of large amounts of lactic acid in the tissues, formed as a consequence of anaerobic metabolism (metabolism without oxygen)."
+    },
+    {
+     "page": 584,
+     "text": "It is also probable that other chemical agents, such as bradykinin and proteolytic enzymes, are formed in the tissues because of cell damage and that these, in addition to lactic acid, stimulate the pain nerve endings."
+    },
+    {
+     "page": 584,
+     "text": "Muscle spasm is also a common cause of pain, and it is the basis of many clinical pain syndromes."
+    },
+    {
+     "page": 584,
+     "text": "This pain probably results partially from the direct effect of muscle spasm in stimulating mechanosensitive pain receptors, but it might also result from the indirect effect of muscle spasm to compress the blood vessels and cause ischemia."
+    },
+    {
+     "page": 584,
+     "text": "Also, the spasm increases the rate of metabolism in the muscle tissue, thus making the relative ischemia even greater, creating ideal conditions for the release of chemical pain-inducing substances."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "dual_pathways": {
+   "heading": "Dual Pathways for Transmission of Pain",
+   "chapter": 48,
+   "found": true,
+   "page_start": 584,
+   "page_end": 585,
+   "sentences": [
+    {
+     "page": 584,
+     "text": "Signals into the Central Nervous System Even though all pain receptors are free nerve endings, these endings use two separate pathways for transmitting pain signals into the central nervous system."
+    },
+    {
+     "page": 584,
+     "text": "The two pathways mainly correspond to the two types of pain—a fastsharp pain pathway and a slow-chronic pain pathway."
+    },
+    {
+     "page": 584,
+     "text": "The fast-sharp pain signals are elicited by either mechanical or thermal pain stimuli; they are transmitted in the peripheral nerves to the spinal cord by small type Aδ fibers at velocities between 6 and 30 m/sec."
+    },
+    {
+     "page": 584,
+     "text": "Conversely, the slow-chronic type of pain is elicited mostly by chemical types of pain stimuli but sometimes by persisting mechanical or thermal stimuli."
+    },
+    {
+     "page": 584,
+     "text": "This slow-chronic pain is transmitted to the spinal cord by type C fibers at velocities between 0.5 and 2 m/sec."
+    },
+    {
+     "page": 584,
+     "text": "Because of this double system of pain innervation, a sudden painful stimulus often gives a “double” pain sensation: a fast-sharp pain that is transmitted to the brain by the Aδ fiber pathway, followed a second or so later by a slow pain that is transmitted by the C fiber pathway."
+    },
+    {
+     "page": 584,
+     "text": "The sharp pain apprises the person rapidly of a damaging influence and, therefore, plays an important role in making the person react immediately to remove himself or herself from the stimulus."
+    },
+    {
+     "page": 584,
+     "text": "The slow pain tends to become greater over time."
+    },
+    {
+     "page": 585,
+     "text": "On entering the spinal cord from the dorsal spinal roots, the pain fibers terminate on relay neurons in the dorsal horns."
+    },
+    {
+     "page": 585,
+     "text": "Here again, there are two systems for processing the pain signals on their way to the brain, as shown in Figures 48-2 and 48-3."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "neo_paleo": {
+   "heading": "Dual Pain Pathways in the Cord and Brain",
+   "chapter": 48,
+   "found": true,
+   "page_start": 585,
+   "page_end": 586,
+   "sentences": [
+    {
+     "page": 585,
+     "text": "On entering the spinal cord, the pain signals take two pathways to the brain, through (1) the neospinothalamic tract and (2) the paleospinothalamic tract."
+    },
+    {
+     "page": 585,
+     "text": "Aδ pain fibers transmit mainly mechanical and acute thermal pain."
+    },
+    {
+     "page": 585,
+     "text": "These give rise to long fibers that cross immediately to the opposite side of the cord through the anterior commissure and then turn upward, passing to the brain in the anterolateral columns."
+    },
+    {
+     "page": 585,
+     "text": "A few fibers of the neospinothalamic tract terminate in the reticular areas of the brain stem, but most pass all the way to the thalamus without interruption, terminating in the ventrobasal complex along with the dorsal column–medial lemniscal tract for tactile sensations, as was discussed in Chapter 47."
+    },
+    {
+     "page": 585,
+     "text": "A few fibers also terminate in the posterior nuclear group of the thalamus."
+    },
+    {
+     "page": 585,
+     "text": "From these thalamic areas, the signals are transmitted to other basal areas of the brain, as well as to the somatosensory cortex."
+    },
+    {
+     "page": 585,
+     "text": "The fast-sharp type of pain can be localized much more exactly in the different parts of the body than can slow-chronic pain."
+    },
+    {
+     "page": 585,
+     "text": "However, when only pain receptors are stimulated, without the simultaneous stimulation of tactile receptors, even fast pain may be poorly localized, often only within 10 centimeters or so of the stimulated area."
+    },
+    {
+     "page": 585,
+     "text": "Yet when tactile receptors that excite the dorsal column–medial lemniscal system are simultaneously stimulated, the localization can be nearly exact."
+    },
+    {
+     "page": 585,
+     "text": "This is one of the most widely used excitatory transmitters in the central nervous system, usually having a duration of action lasting for only a few milliseconds."
+    },
+    {
+     "page": 585,
+     "text": "Most of the signals then pass through one or more additional short fiber neurons within the dorsal horns themselves before entering mainly lamina V, also in the dorsal horn."
+    },
+    {
+     "page": 585,
+     "text": "Here the last neurons in the series give rise to long axons that mostly join the fibers from the fast pain pathway, passing first through the anterior commissure to the opposite side of the cord, then upward to the brain in the anterolateral pathway."
+    },
+    {
+     "page": 586,
+     "text": "Research suggests that type C pain fiber terminals entering the spinal cord release both glutamate transmitter and substance P transmitter."
+    },
+    {
+     "page": 586,
+     "text": "The glutamate transmitter acts instantaneously and lasts for only a few milliseconds."
+    },
+    {
+     "page": 586,
+     "text": "Substance P is released much more slowly, building up in concentration over a period of seconds or even minutes."
+    },
+    {
+     "page": 586,
+     "text": "In fact, it has been suggested that the “double” pain sensation one feels after a pinprick might result partly from the fact that the glutamate transmitter gives a faster pain sensation, whereas the substance P transmitter gives a more lagging sensation."
+    },
+    {
+     "page": 586,
+     "text": "Regardless of the yet unknown details, it seems clear that glutamate is the neurotransmitter most involved in transmitting fast pain into the central nervous system, and substance P is concerned with slowchronic pain."
+    },
+    {
+     "page": 586,
+     "text": "Only one tenth to one fourth of the fibers pass all the way to the thalamus."
+    },
+    {
+     "page": 586,
+     "text": "Instead, most terminate in one of three areas: (1) the reticular nuclei of the medulla, pons, and mesencephalon; (2) the tectal area of the mesencephalon deep to the superior and inferior colliculi; or (3) the periaqueductal gray region surrounding the aqueduct of Sylvius."
+    },
+    {
+     "page": 586,
+     "text": "These lower regions of the brain appear to be important for feeling the suffering types of pain, because animals whose brains have been sectioned above the mesencephalon to block pain signals from reaching the cerebrum still evince undeniable evidence of suffering when any part of the body is traumatized."
+    },
+    {
+     "page": 586,
+     "text": "From the brain stem pain areas, multiple short-fiber neurons relay the pain signals upward into the intralaminar and ventrolateral nuclei of the thalamus and into certain portions of the hypothalamus and other basal regions of the brain."
+    },
+    {
+     "page": 586,
+     "text": "Localization of pain transmitted by way of the paleospinothalamic pathway is imprecise."
+    },
+    {
+     "page": 586,
+     "text": "For instance, slow-chronic pain can usually be localized only to a major part of the body, such as to one arm or leg but not to a specific point on the arm or leg."
+    },
+    {
+     "page": 586,
+     "text": "This is in keeping with the multisynaptic, diffuse connectivity of this pathway."
+    },
+    {
+     "page": 586,
+     "text": "It explains why patients often have serious difficulty in localizing the source of some chronic types of pain."
+    },
+    {
+     "page": 586,
+     "text": "Therefore, it is likely that pain impulses entering the brain stem reticular formation, the thalamus, and other lower brain centers cause conscious perception of pain."
+    },
+    {
+     "page": 586,
+     "text": "This does not mean that the cerebral cortex has nothing to do with normal pain appreciation; electrical stimulation of cortical somatosensory areas does cause a human being to perceive mild pain from about 3 percent of the points stimulated."
+    },
+    {
+     "page": 586,
+     "text": "However, it is believed that the cortex plays an especially important role in interpreting pain quality, even though pain perception might be principally the function of lower centers."
+    },
+    {
+     "page": 586,
+     "text": "In fact, these two areas constitute part of the brain’s principal “arousal system,” which is discussed in Chapter 59."
+    },
+    {
+     "page": 586,
+     "text": "This explains why it is almost impossible for a person to sleep when he or she is in severe pain."
+    },
+    {
+     "page": 586,
+     "text": "To do this, the pain nervous pathways can be cut at any one of several points."
+    },
+    {
+     "page": 586,
+     "text": "If the pain is in the lower part of the body, a cordotomy in the thoracic region of the spinal cord often relieves the pain for a few weeks to a few months."
+    },
+    {
+     "page": 586,
+     "text": "To do this, the spinal cord on the side opposite to the pain is partially cut in its anterolateral quadrant to interrupt the anterolateral sensory pathway."
+    },
+    {
+     "page": 586,
+     "text": "A cordotomy, however, is not always successful in relieving pain, for two reasons."
+    },
+    {
+     "page": 586,
+     "text": "First, many pain fibers from the upper part of the body do not cross to the opposite side of the spinal cord until they have reached the brain, so the cordotomy does not transect these fibers."
+    },
+    {
+     "page": 586,
+     "text": "Second, pain frequently returns several months later, partly as a result of sensitization of other pathways that normally are too weak to be effectual (e.g., sparse pathways in the dorsolateral cord)."
+    },
+    {
+     "page": 586,
+     "text": "Another experimental operative procedure to relieve pain has been to cauterize specific pain areas in the intralaminar nuclei in the thalamus, which often relieves suffering types of pain while leaving intact one’s appreciation of “acute” pain, an important protective mechanism."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "analgesia": {
+   "heading": "Pain Suppression (“Analgesia”) System",
+   "chapter": 48,
+   "found": true,
+   "page_start": 586,
+   "page_end": 587,
+   "sentences": [
+    {
+     "page": 586,
+     "text": "The degree to which a person reacts to pain varies tremendously."
+    },
+    {
+     "page": 586,
+     "text": "This results partly from a capability of the brain itself to suppress input of pain signals to the nervous system by activating a pain control system, called an analgesia system."
+    },
+    {
+     "page": 586,
+     "text": "It consists of three major components: (1) The periaqueductal gray and periventricular areas of the mesencephalon and upper pons surround the aqueduct of Sylvius and portions of the third and fourth ventricles."
+    },
+    {
+     "page": 586,
+     "text": "Neurons from these areas send signals to (2) the raphe magnus nucleus, a thin midline nucleus located in the lower pons and upper medulla, and the nucleus reticularis paragigantocellularis, located laterally in the medulla."
+    },
+    {
+     "page": 586,
+     "text": "From these nuclei, second-order signals are transmitted down the dorsolateral columns in the spinal cord to (3) a pain inhibitory complex located in the dorsal horns of the spinal cord."
+    },
+    {
+     "page": 586,
+     "text": "At this point, the analgesia signals can block the pain before it is relayed to the brain."
+    },
+    {
+     "page": 587,
+     "text": "Electrical stimulation either in the periaqueductal gray area or in the raphe magnus nucleus can suppress many strong pain signals entering by way of the dorsal spinal roots."
+    },
+    {
+     "page": 587,
+     "text": "Also, stimulation of areas at still higher levels of the brain that excite the periaqueductal gray area can also suppress pain."
+    },
+    {
+     "page": 587,
+     "text": "Some of these areas are (1) the periventricular nuclei in the hypothalamus, lying adjacent to the third ventricle, and (2) to a lesser extent, the medial forebrain bundle, also in the hypothalamus."
+    },
+    {
+     "page": 587,
+     "text": "Several transmitter substances are involved in the analgesia system; especially involved are enkephalin and serotonin."
+    },
+    {
+     "page": 587,
+     "text": "Many nerve fibers derived from the periventricular nuclei and from the periaqueductal gray area secrete enkephalin at their endings."
+    },
+    {
+     "page": 587,
+     "text": "Fibers originating in this area send signals to the dorsal horns of the spinal cord to secrete serotonin at their endings."
+    },
+    {
+     "page": 587,
+     "text": "The serotonin causes local cord neurons to secrete enkephalin as well."
+    },
+    {
+     "page": 587,
+     "text": "The enkephalin is believed to cause both presynaptic and postsynaptic inhibition of incoming type C and type Aδ pain fibers where they synapse in the dorsal horns."
+    },
+    {
+     "page": 587,
+     "text": "Thus, the analgesia system can block pain signals at the initial entry point to the spinal cord."
+    },
+    {
+     "page": 587,
+     "text": "In fact, it can also block many local cord reflexes that result from pain signals, especially withdrawal reflexes described in Chapter 54."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "opiates": {
+   "heading": "Brain’s Opiate System—Endorphins",
+   "chapter": 48,
+   "found": true,
+   "page_start": 587,
+   "page_end": 587,
+   "sentences": [
+    {
+     "page": 587,
+     "text": "In subsequent studies, it has been found that morphine-like agents, mainly the opiates, also act at many other points in the analgesia system, including the dorsal horns of the spinal cord."
+    },
+    {
+     "page": 587,
+     "text": "Because most drugs that alter excitability of neurons do so by acting on synaptic receptors, it was assumed that the “morphine receptors” of the analgesia system must be receptors for some morphinelike neurotransmitter that is naturally secreted in the brain."
+    },
+    {
+     "page": 587,
+     "text": "Therefore, an extensive search was undertaken for the natural opiate of the brain."
+    },
+    {
+     "page": 587,
+     "text": "About a dozen such opiate-like substances have now been found at different points of the nervous system; all are breakdown products of three large and prodynorphin."
+    },
+    {
+     "page": 587,
+     "text": "Among the more important of these opiate-like substances are b-endorphin, met-enkephalin, leu-enkephalin, and dynorphin."
+    },
+    {
+     "page": 587,
+     "text": "The two enkephalins are found in the brain stem and spinal cord, in the portions of the analgesia system described earlier, and β-endorphin is present in both the hypothalamus and the pituitary gland."
+    },
+    {
+     "page": 587,
+     "text": "Dynorphin is found mainly in the same areas as the enkephalins, but in much lower quantities."
+    },
+    {
+     "page": 587,
+     "text": "Thus, although the fine details of the brain’s opiate system are not understood, activation of the analgesia system by nervous signals entering the periaqueductal gray and periventricular areas, or inactivation of pain pathways by morphine-like drugs, can almost totally suppress many pain signals entering through the peripheral nerves."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "gate_tactile": {
+   "heading": "Inhibition of Pain Transmission by Simultaneous",
+   "chapter": 48,
+   "found": true,
+   "page_start": 588,
+   "page_end": 588,
+   "sentences": [
+    {
+     "page": 588,
+     "text": "This presumably results from local lateral inhibition in the spinal cord."
+    },
+    {
+     "page": 588,
+     "text": "It explains why such simple maneuvers as rubbing the skin near painful areas is often effective in relieving pain."
+    },
+    {
+     "page": 588,
+     "text": "And it probably also explains why liniments are often useful for pain relief."
+    },
+    {
+     "page": 588,
+     "text": "This mechanism and the simultaneous psychogenic excitation of the central analgesia system are probably also the basis of pain relief by acupuncture."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "referred_pain": {
+   "heading": "Referred Pain",
+   "chapter": 48,
+   "found": true,
+   "page_start": 588,
+   "page_end": 588,
+   "sentences": [
+    {
+     "page": 588,
+     "text": "Often a person feels pain in a part of the body that is fairly remote from the tissue causing the pain."
+    },
+    {
+     "page": 588,
+     "text": "This is called referred pain."
+    },
+    {
+     "page": 588,
+     "text": "For instance, pain in one of the visceral organs often is referred to an area on the body surface."
+    },
+    {
+     "page": 588,
+     "text": "Knowledge of the different types of referred pain is important in clinical diagnosis because in many visceral ailments the only clinical sign is referred pain."
+    },
+    {
+     "page": 588,
+     "text": "Figure 48-5 shows the probable mechanism by which most pain is referred."
+    },
+    {
+     "page": 588,
+     "text": "In the figure, branches of visceral pain fibers are shown to synapse in the spinal cord on the same second-order neurons (1 and 2) that receive pain signals from the skin."
+    },
+    {
+     "page": 588,
+     "text": "When the visceral pain fibers are stimulated, pain signals from the viscera are conducted through at least some of the same neurons that conduct pain signals from the skin, and the person has the feeling that the sensations originate in the skin itself."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "visceral_pain": {
+   "heading": "Visceral Pain",
+   "chapter": 48,
+   "found": true,
+   "page_start": 588,
+   "page_end": 590,
+   "sentences": [
+    {
+     "page": 588,
+     "text": "Pain from the different viscera of the abdomen and chest is one of the few criteria that can be used for diagnosing visceral inflammation, visceral infectious disease, and other visceral ailments."
+    },
+    {
+     "page": 588,
+     "text": "Often, the viscera have sensory receptors for no other modalities of sensation besides pain."
+    },
+    {
+     "page": 588,
+     "text": "Also, visceral pain differs from surface pain in several important aspects."
+    },
+    {
+     "page": 588,
+     "text": "One of the most important differences between surface pain and visceral pain is that highly localized types of damage to the viscera seldom cause severe pain."
+    },
+    {
+     "page": 588,
+     "text": "For instance, a surgeon can cut the gut entirely in two in a patient who is awake without causing significant pain."
+    },
+    {
+     "page": 588,
+     "text": "Conversely, any stimulus that causes diffuse stimulation of pain nerve endings throughout a viscus causes pain that can be severe."
+    },
+    {
+     "page": 588,
+     "text": "For instance, ischemia caused by occluding the blood supply to a large area of gut stimulates many diffuse pain fibers at the same time and can result in extreme pain."
+    },
+    {
+     "page": 588,
+     "text": "Any stimulus that excites pain nerve endings in diffuse areas of the viscera can cause visceral pain."
+    },
+    {
+     "page": 588,
+     "text": "Such stimuli include ischemia of visceral tissue, chemical damage to the surfaces of the viscera, spasm of the smooth muscle of a hollow viscus, excess distention of a hollow viscus, and stretching of the connective tissue surrounding or within the viscus."
+    },
+    {
+     "page": 588,
+     "text": "Essentially all visceral pain that originates in the thoracic and abdominal cavities is transmitted through small type C pain fibers and, therefore, can transmit only the chronic-achingsuffering type of pain."
+    },
+    {
+     "page": 588,
+     "text": "Ischemia causes visceral pain in the same way that it does in other tissues, presumably because of the formation of acidic metabolic end products or tissue-degenerative products such as bradykinin, proteolytic enzymes, or others that stimulate pain nerve endings."
+    },
+    {
+     "page": 588,
+     "text": "On occasion, damaging substances leak from the gastrointestinal tract into the peritoneal cavity."
+    },
+    {
+     "page": 588,
+     "text": "For instance, proteolytic acidic gastric juice may leak through a ruptured gastric or duodenal ulcer."
+    },
+    {
+     "page": 588,
+     "text": "This juice causes widespread digestion of the visceral peritoneum, thus stimulating broad areas of pain fibers."
+    },
+    {
+     "page": 588,
+     "text": "The pain is usually excruciatingly severe."
+    },
+    {
+     "page": 588,
+     "text": "Spasm of a portion of the gut, the gallbladder, a bile duct, a ureter, or any other hollow viscus can cause pain, possibly by mechanical stimulation of the pain nerve endings."
+    },
+    {
+     "page": 588,
+     "text": "Or the spasm might cause diminished blood flow to the muscle, combined with the muscle’s increased metabolic need for nutrients, thus causing severe pain."
+    },
+    {
+     "page": 588,
+     "text": "Often pain from a spastic viscus occurs in the form of cramps, with the pain increasing to a high degree of severity and then subsiding."
+    },
+    {
+     "page": 588,
+     "text": "This process continues intermittently, once every few minutes."
+    },
+    {
+     "page": 588,
+     "text": "The intermittent cycles result from periods of contraction of smooth muscle."
+    },
+    {
+     "page": 588,
+     "text": "For instance, each time a peristaltic wave travels along an overly excitable spastic gut, a cramp occurs."
+    },
+    {
+     "page": 589,
+     "text": "Extreme overfilling of a hollow viscus also can result in pain, presumably because of overstretch of the tissues themselves."
+    },
+    {
+     "page": 589,
+     "text": "Overdistention can also collapse the blood vessels that encircle the viscus or that pass into its wall, thus perhaps promoting ischemic pain."
+    },
+    {
+     "page": 589,
+     "text": "A few visceral areas are almost completely insensitive to pain of any type."
+    },
+    {
+     "page": 589,
+     "text": "These include the parenchyma of the liver and the alveoli of the lungs."
+    },
+    {
+     "page": 589,
+     "text": "Yet the liver capsule is extremely sensitive to both direct trauma and stretch, and the bile ducts are also sensitive to pain."
+    },
+    {
+     "page": 589,
+     "text": "In the lungs, even though the alveoli are insensitive, both the bronchi and the parietal pleura are very sensitive to pain."
+    },
+    {
+     "page": 589,
+     "text": "When a disease affects a viscus, the disease process often spreads to the parietal peritoneum, pleura, or pericardium."
+    },
+    {
+     "page": 589,
+     "text": "These parietal surfaces, like the skin, are supplied with extensive pain innervation from the peripheral spinal nerves."
+    },
+    {
+     "page": 589,
+     "text": "Therefore, pain from the parietal wall overlying a viscus is frequently sharp."
+    },
+    {
+     "page": 589,
+     "text": "An example can emphasize the difference between this pain and true visceral pain: a knife incision through the parietal peritoneum is very painful, whereas a similar cut through the visceral peritoneum or through a gut wall is not very painful, if painful at all."
+    },
+    {
+     "page": 589,
+     "text": "Pain from the different viscera is frequently difficult to localize, for a number of reasons."
+    },
+    {
+     "page": 589,
+     "text": "First, the patient’s brain does not know from firsthand experience that the different internal organs exist; therefore, any pain that originates internally can be localized only generally."
+    },
+    {
+     "page": 589,
+     "text": "Second, sensations from the abdomen and thorax are transmitted through two pathways to the central nervous system—the true visceral pathway and the parietal pathway."
+    },
+    {
+     "page": 589,
+     "text": "True visceral pain is transmitted via pain sensory fibers within the autonomic nerve bundles, and the sensations are referred to surface areas of the body often far from the painful organ."
+    },
+    {
+     "page": 589,
+     "text": "Conversely, parietal sensations are conducted directly into local spinal nerves from the parietal peritoneum, pleura, or pericardium, and these sensations are usually localized directly over the painful area."
+    },
+    {
+     "page": 589,
+     "text": "When visceral pain is referred to the surface of the body, the person generally localizes it in the dermatomal segment from which the visceral organ originated in the embryo, not necessarily where the visceral organ now lies."
+    },
+    {
+     "page": 589,
+     "text": "For instance, the heart originated in the neck and upper thorax, so the heart’s visceral pain fibers pass upward along the sympathetic sensory nerves and enter the spinal cord between segments C-3 and T-5."
+    },
+    {
+     "page": 589,
+     "text": "These are the areas of the body surface that send their own somatosensory nerve fibers into the C-3 to T-5 cord segments."
+    },
+    {
+     "page": 589,
+     "text": "Most frequently, the pain is on the left side rather than on the right because the left side of the heart is much more frequently involved in coronary disease than the right."
+    },
+    {
+     "page": 589,
+     "text": "The stomach originated approximately from the seventh to ninth thoracic segments of the embryo."
+    },
+    {
+     "page": 589,
+     "text": "Therefore, stomach pain is referred to the anterior epigastrium above the umbilicus, which is the surface area of the body subserved by the seventh through ninth thoracic segments."
+    },
+    {
+     "page": 589,
+     "text": "Figure 48-6 shows several other surface areas to which visceral pain is referred from other organs, representing in general the areas in the embryo from which the respective organs originated."
+    },
+    {
+     "page": 589,
+     "text": "Pain from the viscera is frequently localized to two surface areas of the body at the same time because of the dual transmission of pain through the referred visceral pathway and the direct parietal pathway."
+    },
+    {
+     "page": 590,
+     "text": "Pain impulses also often originate in the parietal peritoneum where the inflamed appendix touches or is adherent to the abdominal wall."
+    },
+    {
+     "page": 590,
+     "text": "These cause pain of the sharp type directly over the irritated peritoneum in the right lower quadrant of the abdomen."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "hyperalgesia": {
+   "heading": "Some Clinical Abnormalities of Pain",
+   "chapter": 48,
+   "found": true,
+   "page_start": 590,
+   "page_end": 590,
+   "sentences": [
+    {
+     "page": 590,
+     "text": "A pain nervous pathway sometimes becomes excessively excitable; this gives rise to hyperalgesia, which means hypersensitivity to pain."
+    },
+    {
+     "page": 590,
+     "text": "Possible causes of hyperalgesia are (1) excessive sensitivity of the pain receptors themselves, which is called primary hyperalgesia, and (2) facilitation of sensory transmission, which is called secondary hyperalgesia."
+    },
+    {
+     "page": 590,
+     "text": "An example of primary hyperalgesia is the extreme sensitivity of sunburned skin, which results from sensitization of the skin pain endings by local tissue products from the burn—perhaps histamine, and prostaglandins, and others."
+    },
+    {
+     "page": 590,
+     "text": "Secondary hyperalgesia frequently results from lesions in the spinal cord or the thalamus."
+    },
+    {
+     "page": 590,
+     "text": "Several of these lesions are discussed in subsequent sections."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "herpes_tic": {
+   "heading": "Herpes Zoster (Shingles)",
+   "chapter": 48,
+   "found": true,
+   "page_start": 590,
+   "page_end": 590,
+   "sentences": [
+    {
+     "page": 590,
+     "text": "Occasionally herpesvirus infects a dorsal root ganglion."
+    },
+    {
+     "page": 590,
+     "text": "This causes severe pain in the dermatomal segment subserved by the ganglion, thus eliciting a segmental type of pain that circles halfway around the body."
+    },
+    {
+     "page": 590,
+     "text": "The disease is called herpes zoster, or “shingles,” because of a skin eruption that often ensues."
+    },
+    {
+     "page": 590,
+     "text": "The cause of the pain is presumably infection of the pain neuronal cells in the dorsal root ganglion by the virus."
+    },
+    {
+     "page": 590,
+     "text": "In addition to causing pain, the virus is carried by neuronal cytoplasmic flow outward through the neuronal peripheral axons to their cutaneous origins."
+    },
+    {
+     "page": 590,
+     "text": "Here the virus causes a rash that vesiculates within a few days and then crusts over within another few days, all of this occurring within the dermatomal area served by the infected dorsal root."
+    },
+    {
+     "page": 590,
+     "text": "Lancinating pain occasionally occurs in some people over one side of the face in the sensory distribution area (or part of the area) of the fifth or ninth nerves; this phenomenon is called tic douloureux (or trigeminal neuralgia or glossopharyngeal neuralgia)."
+    },
+    {
+     "page": 590,
+     "text": "The pain feels like sudden electrical shocks, and it may appear for only a few seconds at a time or may be almost continuous."
+    },
+    {
+     "page": 590,
+     "text": "Often it is set off by exceedingly sensitive trigger areas on the surface of the face, in the mouth, or inside the throat—almost always by a mechanoreceptive stimulus rather than a pain stimulus."
+    },
+    {
+     "page": 590,
+     "text": "For instance, when the patient swallows a bolus of food, as the food touches a tonsil, it might set off a severe lancinating pain in the mandibular portion of the fifth nerve."
+    },
+    {
+     "page": 590,
+     "text": "The pain of tic douloureux can usually be blocked by surgically cutting the peripheral nerve from the hypersensitive area."
+    },
+    {
+     "page": 590,
+     "text": "The sensory portion of the fifth nerve is often sectioned immediately inside the cranium, where the motor and sensory roots of the fifth nerve separate from each other, so that the motor portions, which are necessary for many jaw movements, can be spared while the sensory elements are destroyed."
+    },
+    {
+     "page": 590,
+     "text": "This operation leaves the side of the face anesthetic, which in itself may be annoying."
+    },
+    {
+     "page": 590,
+     "text": "Furthermore, sometimes the operation is unsuccessful, indicating that the lesion that causes the pain might be in the sensory nucleus in the brain stem and not in the peripheral nerves."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "brown_sequard": {
+   "heading": "Brown-Séquard Syndrome",
+   "chapter": 48,
+   "found": true,
+   "page_start": 590,
+   "page_end": 590,
+   "sentences": [
+    {
+     "page": 590,
+     "text": "If the spinal cord is transected entirely, all sensations and motor functions distal to the segment of transection are blocked, but if the spinal cord is transected on only one side, the Brown-Séquard syndrome occurs."
+    },
+    {
+     "page": 590,
+     "text": "All motor functions are blocked on the side of the transection in all segments below the level of the transection."
+    },
+    {
+     "page": 590,
+     "text": "Yet only some of the modalities of sensation are lost on the transected side, and others are lost on the opposite side."
+    },
+    {
+     "page": 590,
+     "text": "The sensations of pain, heat, and cold—sensations served by the spinothalamic pathway—are lost on the opposite side of the body in all dermatomes two to six segments below the level of the transection."
+    },
+    {
+     "page": 590,
+     "text": "By contrast, the sensations that are transmitted only in the dorsal and dorsolateral columns—kinesthetic and position sensations, vibration sensation, discrete localization, and two-point discrimination—are lost on the side of the transection in all dermatomes below the level of the transection."
+    },
+    {
+     "page": 590,
+     "text": "Discrete “light touch” is impaired on the side of the transection because the principal pathway for the transmission of light touch, the dorsal column, is transected."
+    },
+    {
+     "page": 590,
+     "text": "That is, the fibers in this column do not cross to the opposite side until they reach the medulla of the brain."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "thermal_rec": {
+   "heading": "Thermal Receptors and Their Excitation",
+   "chapter": 48,
+   "found": true,
+   "page_start": 592,
+   "page_end": 593,
+   "sentences": [
+    {
+     "page": 592,
+     "text": "The human being can perceive different gradations of cold and heat, from freezing cold to cold to cool to indifferent to warm to hot to burning hot."
+    },
+    {
+     "page": 592,
+     "text": "Thermal gradations are discriminated by at least three types of sensory receptors: cold receptors, warmth receptors, and pain receptors."
+    },
+    {
+     "page": 592,
+     "text": "The pain receptors are stimulated only by extreme degrees of heat or cold and, therefore, are responsible, along with the cold and warmth receptors, for “freezing cold” and “burning hot” sensations."
+    },
+    {
+     "page": 592,
+     "text": "The cold and warmth receptors are located immediately under the skin at discrete separated spots."
+    },
+    {
+     "page": 592,
+     "text": "In most areas of the body, there are 3 to 10 times as many cold spots as warmth spots, and the number in different areas of the body varies from 15 to 25 cold spots per square centimeter in the lips to 3 to 5 cold spots per square centimeter in the finger to less than 1 cold spot per square centimeter in some broad surface areas of the trunk."
+    },
+    {
+     "page": 592,
+     "text": "Although the existence of distinctive warmth nerve endings is quite certain, on the basis of psychological tests, they have not been identified histologically."
+    },
+    {
+     "page": 592,
+     "text": "They are presumed to be free nerve endings because warmth signals are transmitted mainly over type C nerve fibers at transmission velocities of only 0.4 to 2 m/sec."
+    },
+    {
+     "page": 592,
+     "text": "A definitive cold receptor, however, has been identified."
+    },
+    {
+     "page": 592,
+     "text": "It is a special, small type Aδ myelinated nerve ending that branches several times, the tips of which protrude into the bottom surfaces of basal epidermal cells."
+    },
+    {
+     "page": 592,
+     "text": "Signals are transmitted from these receptors via type Aδ nerve fibers at velocities of about 20 m/sec."
+    },
+    {
+     "page": 592,
+     "text": "Some cold sensations are believed to be transmitted in type C nerve fibers as well, which suggests that some free nerve endings also might function as cold receptors."
+    },
+    {
+     "page": 592,
+     "text": "Note especially that these fibers respond differently at different levels of temperature."
+    },
+    {
+     "page": 592,
+     "text": "For instance, in the very cold region, only the cold-pain fibers are stimulated (if the skin becomes even colder so that it nearly freezes or actually does freeze, these fibers cannot be stimulated)."
+    },
+    {
+     "page": 592,
+     "text": "As the temperature rises to +10 ° to 15 °C, the cold-pain impulses cease, but the cold receptors begin to be stimulated, reaching peak stimulation at about 24 °C and fading out slightly above 40 °C."
+    },
+    {
+     "page": 592,
+     "text": "Above about 30 °C, the warmth receptors begin to be stimulated, but these also fade out at about 49 °C."
+    },
+    {
+     "page": 592,
+     "text": "Finally, at around 45 °C, the heat-pain fibers begin to be stimulated by heat and, paradoxically, some of the cold fibers begin to be stimulated again, possibly because of damage to the cold endings caused by the excessive heat."
+    },
+    {
+     "page": 592,
+     "text": "One can also understand why extreme degrees of both cold and heat can be painful and why both these sensations, when intense enough, may give almost the same quality of sensation—that is, freezing cold and burning hot sensations feel almost alike."
+    },
+    {
+     "page": 592,
+     "text": "When a cold receptor is suddenly subjected to an abrupt fall in temperature, it becomes strongly stimulated at first, but this stimulation fades rapidly during the first few seconds and progressively more slowly during the next 30 minutes or more."
+    },
+    {
+     "page": 592,
+     "text": "In other words, the receptor “adapts” to a great extent, but never 100 percent."
+    },
+    {
+     "page": 592,
+     "text": "Thus, it is evident that the thermal senses respond markedly to changes in temperature, in addition to being able to respond to steady states of temperature."
+    },
+    {
+     "page": 592,
+     "text": "This means that when the temperature of the skin is actively IndifferFigure 48-10 Discharge frequencies at different skin temperatures of a cold-pain fiber, a cold fiber, a warmth fiber, and a heat-pain fiber."
+    },
+    {
+     "page": 593,
+     "text": "Conversely, if the temperature is actively rising, the person feels much warmer than he or she would at the same temperature if it were constant."
+    },
+    {
+     "page": 593,
+     "text": "The response to changes in temperature explains the extreme degree of heat one feels on first entering a tub of hot water and the extreme degree of cold felt on going from a heated room to the out-of-doors on a cold day."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "thermal_mech": {
+   "heading": "Mechanism of Stimulation of Thermal Receptors",
+   "chapter": 48,
+   "found": true,
+   "page_start": 593,
+   "page_end": 593,
+   "sentences": [
+    {
+     "page": 593,
+     "text": "It is believed that the cold and warmth receptors are stimulated by changes in their metabolic rates, and that these changes result from the fact that temperature alters the rate of intracellular chemical reactions more than twofold for each 10 °C change."
+    },
+    {
+     "page": 593,
+     "text": "In other words, thermal detection probably results not from direct physical effects of heat or cold on the nerve endings but from chemical stimulation of the endings as modified by temperature."
+    },
+    {
+     "page": 593,
+     "text": "However, when a large skin area is stimulated all at once, the thermal signals from the entire area summate."
+    },
+    {
+     "page": 593,
+     "text": "For instance, rapid changes in temperature as little as 0.01 °C can be detected if this change affects the entire surface of the body simultaneously."
+    },
+    {
+     "page": 593,
+     "text": "Conversely, temperature changes 100 times as great often will not be detected when the affected skin area is only 1 square centimeter in size."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "thermal_trans": {
+   "heading": "Transmission of Thermal Signals in the Nervous",
+   "chapter": 48,
+   "found": true,
+   "page_start": 593,
+   "page_end": 593,
+   "sentences": [
+    {
+     "page": 593,
+     "text": "In general, thermal signals are transmitted in pathways parallel to those for pain signals."
+    },
+    {
+     "page": 593,
+     "text": "On entering the spinal cord, the signals travel for a few segments upward or downward in the tract of Lissauer and then terminate mainly in laminae I, II, and III of the dorsal horns—the same as for pain."
+    },
+    {
+     "page": 593,
+     "text": "After a small amount of processing by one or more cord neurons, the signals enter long, ascending thermal fibers that cross to the opposite anterolateral sensory tract and terminate in both (1) the reticular areas of the brain stem and (2) the ventrobasal complex of the thalamus."
+    },
+    {
+     "page": 593,
+     "text": "A few thermal signals are also relayed to the cerebral somatic sensory cortex from the ventrobasal complex."
+    },
+    {
+     "page": 593,
+     "text": "Occasionally a neuron in cortical somatic sensory area I has been found by microelectrode studies to be directly responsive to either cold or warm stimuli on a specific area of the skin."
+    },
+    {
+     "page": 593,
+     "text": "However, removal of the entire cortical postcentral gyrus in the human being reduces but does not abolish the ability to distinguish gradations of temperature."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}
