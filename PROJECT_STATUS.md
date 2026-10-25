@@ -8,7 +8,7 @@
 | `pdf/HumsYar_Neuro_Jalase1.pdf` (جلسهٔ ۱) | ۶۴ | ۱۶٬۴۲۵٬۹۰۹ | `6380ff1a…9cfed4d1` | `reports/S01_QA_REPORT.md` — `blocks=314 figures=24 embedded=24 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase2.pdf` (جلسهٔ ۲) | ۵۷ | ۲۱٬۴۷۶٬۱۷۹ | `bf080f7b…1929e628` | `reports/S02_QA_REPORT.md` — `blocks=230 figures=27 embedded=27 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase3.pdf` (جلسهٔ ۳) | ۵۹ | ۱۵٬۸۸۱٬۲۲۸ | `a46e1b8c…bab2798` | `reports/S03_QA_REPORT.md` — `blocks=236 figures=24 embedded=24 problems=0 warnings=0` |
-| `pdf/HumsYar_Neuro_Jalase4.pdf` (جلسهٔ ۴) | ۶۰ | ۶٬۷۳۲٬۶۲۹ | `5200f9bd…221627d5` | `reports/S04_QA_REPORT.md` — `blocks=233 figures=14 embedded=14 problems=0 warnings=0` |
+| `pdf/HumsYar_Neuro_Jalase4.pdf` (جلسهٔ ۴ — با بخش تکمیلی) | ۶۴ | ۶٬۷۹۱٬۸۹۹ | `ce7eac36…d511d3cc` | `reports/S04_QA_REPORT.md` — `blocks=244 figures=15 embedded=15 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase5.pdf` (جلسهٔ ۵) | ۷۶ | ۹٬۵۴۵٬۴۰۶ | `7b01abb6…ce0f494` | `reports/S05_QA_REPORT.md` — `blocks=262 figures=26 embedded=26 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase6.pdf` (جلسهٔ ۶) | ۷۰ | ۸٬۵۷۶٬۶۰۷ | `0eeee9d6…79d4aa6` | `reports/S06_QA_REPORT.md` — `blocks=240 figures=23 embedded=23 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase7.pdf` (جلسهٔ ۷ — با بخش تکمیلی) | ۱۰۹ | ۱۷٬۳۷۳٬۱۱۴ | `00579392…f8bf46` | `reports/S07_QA_REPORT.md` — `blocks=352 figures=49 embedded=49 problems=0 warnings=0` |
@@ -1054,6 +1054,17 @@
   ۱۱ ناحیهٔ ۶، میدان چشمی، SMA · ۱۲ هرمی/خارج هرمی و کوریگوبولبار (مدیال–لترال) ·
   ۱۳ وستیبولار، رتیکولار، بابینسکی و دکورتیکه/دسریبره.
 - عدد: ۸۴ → **۱۰۹ صفحه** · مبحث ۲۸ → **۴۱** · بلوک ۲۵۴ → **۳۵۲**. `QA: problems=0 warnings=0` · شکل‌ها ۴۹ (بدون تغییر).
+
+---
+
+## ۲-ی. نشست ۲۴ — «سردرد» از جزوهٔ ۱۴۰۲ در جلسهٔ ۴
+
+- منبع: `جلسه 5/نوروفیزیولوژی 05 نهایی بهمن 1402.pdf` (۱۳ ص، درد و سردرد). لایهٔ متنی این فایل خراب است (جابه‌جایی نویسه‌ها)؛ صفحه‌ها **بصری** خوانده شدند و متن با فارسی پاک بازنویسی شده.
+- تخصیص صفحه‌ها: ص۱–۳ → مبحث ۱۱–۱۳ · ص۴–۶ → مبحث ۱۲ و ۱۴ · ص۷–۸ → مبحث ۱۵ · ص۹–۱۰ → مبحث ۱۶ · ص۱۱–۱۲ → مبحث ۱۷ و ۱۸ · **ص۱۳ (سردرد) → نکتهٔ تکمیلی ۱**. هیچ صفحه‌ای بی‌مبحث نماند.
+- شکاف واقعی: سند جلسهٔ ۴ هیچ محتوایی دربارهٔ سردرد نداشت (جست‌وجوی «سردرد/میگرن/مننژ» = صفر). اکنون: سردرد به‌عنوان درد ارجاعی، منشأ داخل‌جمجمه‌ای (التهاب مننژ، کشیدگی سینوس‌های وریدی، کاهش فشار CSF با ۲۰–۳۰ سی‌سی، الکل)، منشأ خارج‌جمجمه‌ای (اسپاسم گردن و پوست سر، عفونت سینوس، اختلالات چشمی و عضلات مژگانی)، و نقشهٔ سه‌ناحیه‌ای ارجاع.
+- شکل تازه از خود همین جزوه استخراج شد: `images/notes_1402/notes05_p013_fig01.png` (نقشهٔ نواحی ارجاع سردرد) و در `images/INDEX.json` ثبت شد.
+- عدد: ۶۰ → **۶۴ صفحه** · مبحث ۱۹ → **۲۰** · بلوک ۲۳۳ → **۲۴۴** · شکل ۱۴ → **۱۵**. `QA: problems=0 warnings=0`.
+- در همان صفحه یک جملهٔ جزوه دو سازوکار الکل را در یک نفس می‌آورد؛ در سند به‌صورت کادر «نکتهٔ ویرایشی» جدا شده و تصریح شده که تفکیک، کار تحریریه است نه نقل جزوه.
 
 ---
 

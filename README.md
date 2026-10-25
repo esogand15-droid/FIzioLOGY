@@ -8,7 +8,7 @@
   - جلسهٔ ۱ — **`pdf/HumsYar_Neuro_Jalase1.pdf`** (۶۴ صفحه)
   - جلسهٔ ۲ — **`pdf/HumsYar_Neuro_Jalase2.pdf`** (۵۷ صفحه)
   - جلسهٔ ۳ — **`pdf/HumsYar_Neuro_Jalase3.pdf`** (۵۹ صفحه)
-  - جلسهٔ ۴ — **`pdf/HumsYar_Neuro_Jalase4.pdf`** (۶۰ صفحه)
+  - جلسهٔ ۴ — **`pdf/HumsYar_Neuro_Jalase4.pdf`** (۶۴ صفحه — با بخش تکمیلی «سردرد» از جزوهٔ ۱۴۰۲)
   - جلسهٔ ۵ — **`pdf/HumsYar_Neuro_Jalase5.pdf`** (۷۶ صفحه)
   - جلسهٔ ۶ — **`pdf/HumsYar_Neuro_Jalase6.pdf`** (۷۰ صفحه — حس شنوایی)
   - جلسهٔ ۷ — **`pdf/HumsYar_Neuro_Jalase7.pdf`** (۱۰۹ صفحه — نخاع، رفلکس‌های نخاعی و مسیرهای نزولی، به‌همراه بخش «نکات تکمیلی دکتر ایروان‌پور»)

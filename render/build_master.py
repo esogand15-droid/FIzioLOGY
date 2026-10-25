@@ -87,7 +87,7 @@ SESSIONS = {
               "کدگذاری شدت، میدان گیرنده و مهار جانبی (۸ تا ۱۰)، دو نفر برای درد و حرارت "
               "(۱۱ تا ۱۹) به‌همراه گردآوری. این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.",
         outline="s04_topics.json",
-        content=("s04_a.json", "s04_b.json", "s04_c.json"),
+        content=("s04_a.json", "s04_b.json", "s04_c.json", "s04_d.json"),
         guyton="guyton_s04_excerpts.json",
         chapter_anchor="ch-s04",
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
@@ -1009,8 +1009,8 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
             supp_open = True
             sup = t["supp"]
             who = sup.get("short", "قدیری").split("/")[0]
-            divider(book, f"بخش تکمیلی · نکات دکتر {who}",
-                    "نکات تکمیلی\nو آنچه در جزوهٔ\nرسمی نبود",
+            divider(book, sup.get("divider_kicker", f"بخش تکمیلی · نکات دکتر {who}"),
+                    sup.get("divider_title", "نکات تکمیلی\nو آنچه در جزوهٔ\nرسمی نبود"),
                     sup.get("divider_sub", f"جزوه‌های تکمیلی دکتر {who} (مهر ۱۴۰۳)"),
                     [sup.get("bullets", "متن این بخش از جزوهٔ تکمیلی است، نه از جزوهٔ درس رسمی؛ "
                                         "هر مبحث ارجاع صفحهٔ خودش را دارد."),

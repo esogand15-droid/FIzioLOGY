@@ -9960,6 +9960,23 @@
    "caption": "",
    "topic_ids": [],
    "used_in": "pending"
+  },
+  {
+   "asset_id": "notes05_p013_fig01",
+   "source_id": "notes05",
+   "page": 13,
+   "index_on_page": 1,
+   "w": 460,
+   "h": 406,
+   "exported": true,
+   "path": "images/notes_1402/notes05_p013_fig01.png",
+   "sha256": "c04197c26b39cf2ca4ce3c5b97743ae939bd8bce7e97833e82565ba5f51c1192",
+   "kind": "fig",
+   "caption": "نقشهٔ نواحی ارجاع سردرد",
+   "topic_ids": [
+    "s04-T20"
+   ],
+   "used_in": "s04 master notes (supplement: headache)"
   }
  ],
  "note": "Facsimile pages (*_facsimile.png) are page renders of sources whose text layer is unreliable; they are faithful copies, not OCR."
