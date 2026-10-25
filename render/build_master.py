@@ -141,7 +141,7 @@ SESSIONS = {
         deck_desc="متن پایهٔ نیمهٔ نخست این جلسه: آناتومی نخاع، واحد حرکتی، دوک عضلانی، رفلکس‌های کشش و خم‌کننده، رفلکس‌های نخاعی و شوک نخاعی.",
         deck_desc_p2="تکرار رفلکس‌های نخاعی با شکل‌های تازه، سپس قشر حرکتی، مسیرهای نزولی و ضایعات.",
         outline="s07_topics.json",
-        content=("s07_a.json", "s07_b.json", "s07_c.json"),
+        content=("s07_a.json", "s07_b.json", "s07_c.json", "s07_d.json"),
         guyton="guyton_s07_excerpts.json",
         chapter_anchor="ch-s07",
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
@@ -1008,9 +1008,10 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
         if t.get("supp") and not supp_open:
             supp_open = True
             sup = t["supp"]
-            divider(book, "بخش تکمیلی · نکات دکتر قدیری",
+            who = sup.get("short", "قدیری").split("/")[0]
+            divider(book, f"بخش تکمیلی · نکات دکتر {who}",
                     "نکات تکمیلی\nو آنچه در جزوهٔ\nرسمی نبود",
-                    sup.get("divider_sub", "جزوه‌های تکمیلی دکتر قدیری (مهر ۱۴۰۳)"),
+                    sup.get("divider_sub", f"جزوه‌های تکمیلی دکتر {who} (مهر ۱۴۰۳)"),
                     [sup.get("bullets", "متن این بخش از جزوهٔ تکمیلی است، نه از جزوهٔ درس رسمی؛ "
                                         "هر مبحث ارجاع صفحهٔ خودش را دارد."),
                      "جای این نکات در مبحث‌های قبلی همین سند علامت‌گذاری شده است.",
