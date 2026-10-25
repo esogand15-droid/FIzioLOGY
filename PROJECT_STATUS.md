@@ -8,13 +8,13 @@
 | `pdf/HumsYar_Neuro_Jalase1.pdf` (جلسهٔ ۱) | ۶۴ | ۱۶٬۴۲۵٬۹۰۹ | `6380ff1a…9cfed4d1` | `reports/S01_QA_REPORT.md` — `blocks=314 figures=24 embedded=24 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase2.pdf` (جلسهٔ ۲) | ۵۷ | ۲۱٬۴۷۶٬۱۷۹ | `bf080f7b…1929e628` | `reports/S02_QA_REPORT.md` — `blocks=230 figures=27 embedded=27 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase3.pdf` (جلسهٔ ۳) | ۵۹ | ۱۵٬۸۸۱٬۲۲۸ | `a46e1b8c…bab2798` | `reports/S03_QA_REPORT.md` — `blocks=236 figures=24 embedded=24 problems=0 warnings=0` |
-| `pdf/HumsYar_Neuro_Jalase4.pdf` (جلسهٔ ۴ — با بخش تکمیلی) | ۶۴ | ۶٬۷۹۱٬۸۹۹ | `ce7eac36…d511d3cc` | `reports/S04_QA_REPORT.md` — `blocks=244 figures=15 embedded=15 problems=0 warnings=0` |
+| `pdf/HumsYar_Neuro_Jalase4.pdf` (جلسهٔ ۴ — با بخش تکمیلی) | ۶۸ | ۶٬۷۹۸٬۶۴۰ | `58330bb0…892cae33` | `reports/S04_QA_REPORT.md` — `blocks=245 figures=15 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase5.pdf` (جلسهٔ ۵) | ۷۶ | ۹٬۵۴۵٬۴۰۶ | `7b01abb6…ce0f494` | `reports/S05_QA_REPORT.md` — `blocks=262 figures=26 embedded=26 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase6.pdf` (جلسهٔ ۶) | ۷۰ | ۸٬۵۷۶٬۶۰۷ | `0eeee9d6…79d4aa6` | `reports/S06_QA_REPORT.md` — `blocks=240 figures=23 embedded=23 problems=0 warnings=0` |
-| `pdf/HumsYar_Neuro_Jalase7.pdf` (جلسهٔ ۷ — با بخش تکمیلی) | ۱۰۹ | ۱۷٬۳۷۳٬۱۱۴ | `00579392…f8bf46` | `reports/S07_QA_REPORT.md` — `blocks=352 figures=49 embedded=49 problems=0 warnings=0` |
+| `pdf/HumsYar_Neuro_Jalase7.pdf` (جلسهٔ ۷ — با بخش تکمیلی) | ۱۱۷ | ۱۷٬۴۰۵٬۲۴۸ | `e425ae1e…509c7fb2` | `reports/S07_QA_REPORT.md` — `blocks=365 figures=49 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase8.pdf` (جلسهٔ ۸) | ۶۱ | ۱۰٬۸۶۸٬۰۳۳ | `ce57e301…8db97597` | `reports/S08_QA_REPORT.md` — `blocks=233 figures=24 embedded=24 problems=0 warnings=0` |
-| `pdf/HumsYar_Neuro_Jalase9.pdf` (جلسهٔ ۹ — با بخش تکمیلی) | ۹۶ | ۸٬۴۵۹٬۷۴۶ | `91360513…55020` | `reports/S09_QA_REPORT.md` — `blocks=364 figures=26 embedded=26 problems=0 warnings=0` |
-| `pdf/HumsYar_Neuro_Jalase10.pdf` (جلسهٔ ۱۰ — با بخش تکمیلی) | ۶۵ | ۴٬۸۷۶٬۱۱۸ | `4b9170c1…683212` | `reports/S10_QA_REPORT.md` — `blocks=273 figures=12 embedded=12 problems=0 warnings=0` |
+| `pdf/HumsYar_Neuro_Jalase9.pdf` (جلسهٔ ۹ — با بخش تکمیلی) | ۱۰۰ | ۸٬۴۸۱٬۱۰۲ | `525d111a…b82d2293` | `reports/S09_QA_REPORT.md` — `blocks=374 figures=26 problems=0 warnings=0` |
+| `pdf/HumsYar_Neuro_Jalase10.pdf` (جلسهٔ ۱۰ — با بخش تکمیلی) | ۶۹ | ۴٬۸۹۱٬۴۹۰ | `a693f58d…d8800f1e` | `reports/S10_QA_REPORT.md` — `blocks=279 figures=12 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase11.pdf` (جلسهٔ ۱۱ — با بخش تکمیلی) | ۴۷ | ۳۳۵٬۱۶۵ | `3c8b0f84…06801b` | `reports/S11_QA_REPORT.md` — `blocks=187 figures=0 embedded=0 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase12.pdf` (جلسهٔ ۱۲ — با بخش تکمیلی) | ۵۳ | ۳۶۱٬۵۳۱ | `0ede135f…7715f9` | `reports/S12_QA_REPORT.md` — `blocks=199 figures=0 embedded=0 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase13.pdf` (جلسهٔ ۱۳) | ۴۲ | ۶٬۲۴۲٬۷۵۱ | `61809911…8850ae1` | `reports/S13_QA_REPORT.md` — `blocks=131 figures=12 embedded=12 problems=0 warnings=0` |
@@ -1065,6 +1065,25 @@
 - شکل تازه از خود همین جزوه استخراج شد: `images/notes_1402/notes05_p013_fig01.png` (نقشهٔ نواحی ارجاع سردرد) و در `images/INDEX.json` ثبت شد.
 - عدد: ۶۰ → **۶۴ صفحه** · مبحث ۱۹ → **۲۰** · بلوک ۲۳۳ → **۲۴۴** · شکل ۱۴ → **۱۵**. `QA: problems=0 warnings=0`.
 - در همان صفحه یک جملهٔ جزوه دو سازوکار الکل را در یک نفس می‌آورد؛ در سند به‌صورت کادر «نکتهٔ ویرایشی» جدا شده و تصریح شده که تفکیک، کار تحریریه است نه نقل جزوه.
+
+## ۲-ک. نشست ۲۵ — گایتون ویرایش ۱۲ (۲۰۱۱) داخل بخش‌های تکمیلی چهار جلسه
+
+- درخواست کاربر: «متن گایتون ۲۰۱۱ را با ترجمهٔ فارسی و شمارهٔ فصل و صفحه، به همان سبک جلسه‌های قبلی، به این بخش‌ها اضافه کن» — و رد صریح نتیجهٔ قبلی («گایتون قابل بررسی نیست»).
+- **تصحیح یک ادعای قدیمی:** فایل `.pdf` گایتون در مخزن اشاره‌گر LFS است، اما **همان کتاب به‌صورت مارک‌داون کامل و خوانا در مخزن هست** (`رفرنس گایتون/Guyton and Hall Textbook of Medical Physiology English.md`، ۱۳۰٬۶۳۴ خط). پس نقل مستقیم انگلیسی با شمارهٔ صفحهٔ چاپی ممکن است. جملهٔ «گایتون در دسترس نبود» در گزارش‌های QA فقط به **ترجمهٔ فارسی نشر رسمی** اشاره دارد و درست است؛ دربارهٔ متن انگلیسی درست نیست.
+- **زیرساخت تازه:** `work/scripts/guyton_supp_excerpts.py` → `work/references/guyton_supp_excerpts.json` (۲۶ بخش، جمله‌های کلمه‌به‌کلمه با شمارهٔ صفحه؛ وصله‌های بازچسباندن واژه‌های شکسته مثل «cor tex» در همین اسکریپت ثبت شده‌اند).
+- **افزودن:** `work/scripts/supp_guyton_pairs.py` + `content/guyton/supp_pairs.json` — **۳۰ جفت گایتون** به بخش‌های تکمیلی افزوده شد (ج۴: ۱ · ج۷: ۱۳ · ج۹: ۱۰ · ج۱۰: ۶). هر بلوک: عنوان، `chapter`, `pages`, جمله‌های انگلیسی با `page`، ترجمهٔ تحریریه، `note` کوتاه و `src` کامل.
+- **جلوگیری از شکستن:** `guyton_atomic=True` برای ج۴/ج۷/ج۹/ج۱۰ فعال شد تا جفت گایتون هرگز بین دو صفحه نصف نشود (پیش‌تر در ج۱۴ همین پرچم وجود داشت).
+- عدد نهایی (اجرا روی فایل واقعی):
+
+| سند | قبل | بعد | بلوک | شکل | QA |
+| --- | --- | --- | --- | --- | --- |
+| `Jalase4` | ۶۴ | **۶۸** | ۲۴۴ → **۲۴۵** | ۱۵ | `problems=0 warnings=0` |
+| `Jalase7` | ۱۰۹ | **۱۱۷** | ۳۵۲ → **۳۶۵** | ۴۹ | `problems=0 warnings=0` |
+| `Jalase9` | ۹۶ | **۱۰۰** | ۳۶۴ → **۳۷۴** | ۲۶ | `problems=0 warnings=0` |
+| `Jalase10` | ۶۵ | **۶۹** | ۲۷۳ → **۲۷۹** | ۱۲ | `problems=0 warnings=0` |
+
+- نمونهٔ بازبینی‌شده: `Jalase4` ص۶۵ = جفت کامل سردرد، انگلیسی چپ‌چین با `[p. 590]` و `[p. 591]`، نوار فارسی جدا با برچسب «ترجمهٔ روان … (نقل‌قول از ترجمهٔ رسمی فارسی نیست)» و یادداشت تحریریه زیر آن.
+- قاعدهٔ رعایت‌شده: هیچ جملهٔ گایتون بازنویسی نشد؛ جملات از فایل با ایندکس انتخاب می‌شوند، پس غلط تایپی نمی‌تواند به‌عنوان «نقل قول» وارد سند شود.
 
 ---
 

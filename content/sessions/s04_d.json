@@ -125,6 +125,33 @@
     "src": "جزوهٔ بهمن ۱۴۰۲ (جلسهٔ ۵ — درد و سردرد)، ص ۱۳"
    },
    {
+    "type": "guytonpair",
+    "chapter": "48",
+    "pages": "pp. 590–591",
+    "title": "سردرد: درد ارجاعی از ساختارهای عمقی سر",
+    "english": [
+     {
+      "text": "Headaches are a type of pain referred to the surface of the head from deep head structures.",
+      "page": 590
+     },
+     {
+      "text": "Some headaches result from pain stimuli arising inside the cranium, but others result from pain arising outside the cranium, such as from the nasal sinuses.",
+      "page": 590
+     },
+     {
+      "text": "Conversely, tugging on the venous sinuses around the brain, damaging the tentorium, or stretching the dura at the base of the brain can cause intense pain that is recognized as headache.",
+      "page": 591
+     },
+     {
+      "text": "The brain tissues themselves are almost totally insensitive to pain.",
+      "page": 591
+     }
+    ],
+    "fa": "سردرد، دردی است که از ساختارهای عمقی سر به سطح سر ارجاع می‌شود. بخشی از سردردها از محرک‌های دردناک درون جمجمه می‌آیند و بخشی از دردی که بیرون جمجمه است، مانند درد سینوس‌های بینی. در مقابل، کشیدن سینوس‌های وریدی اطراف مغز، آسیب به چادرینه یا کشش سخت‌شامهٔ قاعدهٔ مغز می‌تواند درد شدیدی بسازد که به‌عنوان سردرد شناخته می‌شود. خود بافت مغز تقریباً به‌طور کامل به درد حساس نیست.",
+    "note": "همین چهار جمله، تفکیک «داخل جمجمه / خارج جمجمه» را که در این نکتهٔ تکمیلی از جزوه آمد، با متن اصلی مستند می‌کند؛ شکل ۴۸-۹ گایتون نیز همان نقشهٔ سه‌ناحیه‌ای ارجاع است.",
+    "src": "گایتون، فصل 48، ص ۵۹۰–۵۹۱ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "handoff",
     "title": "برگهٔ تحویل — نکتهٔ تکمیلی ۱: سردرد به‌عنوان درد ارجاعی",
     "kicker": "این برگه را نویسندهٔ مبحث پر می‌کند",

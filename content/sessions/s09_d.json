@@ -82,6 +82,29 @@
     "src": "جزوهٔ دکتر قدیری — مخچه (مهر ۱۴۰۳)، ص ۳"
    },
    {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 689",
+    "title": "دیس‌دیادوکوکینزی: وقتی حرکت پیش‌بینی نمی‌شود",
+    "english": [
+     {
+      "text": "When the motor control system fails to predict where the different parts of the body will be at a given time, it “loses” perception of the parts during rapid motor movements.",
+      "page": 689
+     },
+     {
+      "text": "As a result, the succeeding movement may begin much too early or much too late, so no orderly “progression of movement” can occur.",
+      "page": 689
+     },
+     {
+      "text": "This is called dysdiadochokinesia.",
+      "page": 689
+     }
+    ],
+    "fa": "وقتی دستگاه کنترل حرکتی نمی‌تواند پیش‌بینی کند هر بخش بدن در لحظهٔ معین کجاست، در حرکات سریع «درک» آن بخش را از دست می‌دهد. در نتیجه حرکت بعدی ممکن است بسیار زودتر یا بسیار دیرتر شروع شود و «پیشروی منظم حرکت» رخ ندهد. به این حالت دیس‌دیادوکوکینزی گفته می‌شود.",
+    "note": "همین «از دست رفتن پیشروی منظم» است که در نکتهٔ تکمیلی ۱ به‌عنوان کندی حرکت و نارسایی در رسیدن به هدف توضیح داده شد.",
+    "src": "گایتون، فصل 56، ص ۶۸۹ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "note",
     "size": "medium",
     "title": "یادداشت عضو تیم — سه آزمون کنار تخت را با نتیجهٔ مورد انتظار در یک جدول بنویسید"
@@ -205,6 +228,25 @@
     "src": "جزوهٔ دکتر قدیری — مخچه (مهر ۱۴۰۳)، ص ۴"
    },
    {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 689",
+    "title": "عقده‌های قاعده‌ای: دستگاه کمکی، نه مستقل",
+    "english": [
+     {
+      "text": "The basal ganglia, like the cerebellum, constitute another accessory motor system that functions usually not by itself but in close association with the cerebral cortex and cor ticospinal motor control system.",
+      "page": 689
+     },
+     {
+      "text": "In fact, the basal ganglia receive most of their input signals from the cerebral cortex itself and also return almost all their output signals back to the cortex.",
+      "page": 689
+     }
+    ],
+    "fa": "عقده‌های قاعده‌ای، مانند مخچه، دستگاه حرکتی کمکی دیگری هستند که معمولاً به‌تنهایی کار نمی‌کنند، بلکه در همراهی نزدیک با قشر مغز و دستگاه کنترل حرکتی کورتیکواسپاینال عمل می‌کنند. در واقع عقده‌های قاعده‌ای بیشتر ورودی خود را از خودِ قشر مغز می‌گیرند و تقریباً همهٔ خروجی خود را هم به قشر برمی‌گردانند.",
+    "note": "همین «ورودی از قشر و خروجی به قشر» پاسخ همان تفکیک نکتهٔ تکمیلی ۲ است: مخچه و عقده‌ها هر دو کمکی‌اند، ولی حلقهٔ مخچه‌ای از راه هسته‌های ساقه هم می‌گذرد.",
+    "src": "گایتون، فصل 56، ص ۶۸۹ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "callout",
     "kind": "key",
     "text": "نقشهٔ اتصال: فستیجیال با لوب فلوکولونودولار؛ دندانه‌دار با نیمکره‌ها؛ بینابینی با کرمینه و نواحی اطرافش، یعنی مخچهٔ نخاعی.",
@@ -316,6 +358,29 @@
     "type": "p",
     "text": "دو نورون دیگر در تصویر، نورون‌های ورودی مخچه‌اند که از قسمت‌های مختلف بدن در ساقهٔ مغز می‌آیند: خزه‌ای و صعودی. تفاوتشان در مسیر است — خزه‌ای ابتدا نورون گرانولی را تحریک می‌کند و گرانولی با پورکنژ ارتباط می‌گیرد، اما صعودی مستقیم بالا می‌رود و با پورکنژ سیناپس می‌دهد.",
     "src": "جزوهٔ دکتر قدیری — مخچه (مهر ۱۴۰۳)، ص ۶"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 684",
+    "title": "واحد کارکردی مخچه: پورکینیه، دانه‌ای، مولکولی",
+    "english": [
+     {
+      "text": "This functional unit centers on a single, very large Purkinje cell and on a corresponding deep nuclear cell.",
+      "page": 684
+     },
+     {
+      "text": "To the top and right in Figure 56 7, the three major layers of the cerebellar cortex are shown: the molecular layer, Purkinje cell layer, and granule cell layer.",
+      "page": 684
+     },
+     {
+      "text": "Beneath these cortical layers, in the center of the cerebellar mass, are the deep cerebellar nuclei that send output signals to other parts of the nervous system.",
+      "page": 684
+     }
+    ],
+    "fa": "این واحد کارکردی حول یک سلول پورکینیهٔ بسیار بزرگ و یک سلول هستهٔ عمقی متناظر آن ساخته شده است. در سمت بالا و راست شکل، سه لایهٔ اصلی قشر مخچه دیده می‌شود: لایهٔ مولکولی، لایهٔ سلول‌های پورکینیه و لایهٔ دانه‌ای. زیر این لایه‌های قشری، در مرکز تودهٔ مخچه، هسته‌های عمقی مخچه قرار دارند که سیگنال خروجی به سایر بخش‌های دستگاه عصبی می‌فرستند.",
+    "note": "همان سه لایه‌ای که در نکتهٔ تکمیلی ۳ از جزوه آمد؛ این‌جا هسته‌های عمقی هم به‌عنوان مقصد خروجی پورکینیه سر جای خود می‌نشینند.",
+    "src": "گایتون، فصل 56، ص ۶۸۴ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -440,6 +505,29 @@
     "src": "جزوهٔ دکتر قدیری — مخچه (مهر ۱۴۰۳)، ص ۸–۹"
    },
    {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 684",
+    "title": "تحریک مستقیم، مهار پورکینیه‌ای: تعادل هستهٔ عمقی",
+    "english": [
+     {
+      "text": "This cell is continually under both excitatory and inhibitory influences.",
+      "page": 684
+     },
+     {
+      "text": "The excitatory influences arise from direct connections with afferent fibers that enter the cerebellum from the brain or the periphery.",
+      "page": 684
+     },
+     {
+      "text": "The inhibitory influence arises entirely from the Purkinje cell in the cortex of the cerebellum.",
+      "page": 684
+     }
+    ],
+    "fa": "سلول هستهٔ عمقی به‌طور پیوسته زیر نفوذ تحریکی و مهاری است. تأثیرهای تحریکی از ارتباط مستقیم با لیف‌های آوران می‌آید که از مغز یا محیط به مخچه وارد می‌شوند. تأثیر مهاری کاملاً از سلول پورکینیه در قشر مخچه می‌آید.",
+    "note": "این همان «تحریک اولیه، مهار ثانویه»ی نکتهٔ تکمیلی ۴ است؛ اگر تعادل به نفع مهار بیفتد، زمان‌بندی خروجی مخچه به هم می‌ریزد.",
+    "src": "گایتون، فصل 56، ص ۶۸۴ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "note",
     "size": "medium",
     "title": "یادداشت عضو تیم — نمودار «تحریک کوتاه / مهار بلند» را روی یک محور زمان بکشید"
@@ -539,6 +627,25 @@
     "type": "p",
     "text": "در مخچه، نورون‌های سبدی، ستاره‌ای و گلژی همین کار را می‌کنند. مثال جزوه: نورون‌های سبدی وقتی با سلول‌های پورکنژ سیناپس می‌دهند، مهار جانبی را انجام می‌دهند؛ سلول‌های کناری مهار و نورون وسطی تحریک می‌شود و سیگنال دقیق‌تر و هدفمندتر می‌شود.",
     "src": "جزوهٔ دکتر قدیری — مخچه (مهر ۱۴۰۳)، ص ۱۰"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 682",
+    "title": "نقشهٔ توپوگرافیک مخچه: تنه در ورمیس، اندام در ناحیهٔ میانی",
+    "english": [
+     {
+      "text": "In the same manner that the cerebral sensory cortex, motor cortex, basal ganglia, red nuclei, and reticular formation all have topographical representations of the different parts of the body, so also is this true for the vermis and intermediate zones of the cerebellum.",
+      "page": 682
+     },
+     {
+      "text": "Note that the axial portions of the body lie in the vermis part of the cerebellum, whereas the limbs and facial regions lie in the intermediate zones.",
+      "page": 682
+     }
+    ],
+    "fa": "همان‌گونه که قشر حسی و حرکتی، عقده‌های قاعده‌ای، هسته‌های قرمز و دستگاه مشبکی نمایش توپوگرافیک بخش‌های مختلف بدن را دارند، ورمیس و نواحی میانی مخچه هم چنین نمایشی دارند. دقت کنید بخش‌های محوری بدن در ناحیهٔ ورمیس قرار می‌گیرند، در حالی که اندام‌ها و نواحی صورت در نواحی میانی جای دارند.",
+    "note": "همین تقسیم «محوری در ورمیس، اندامی در میانی» است که در نکتهٔ تکمیلی ۵ با مثال نقشهٔ نقطهای جزوه باز شد.",
+    "src": "گایتون، فصل 56، ص ۶۸۲ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -654,6 +761,29 @@
     "type": "p",
     "text": "زیر تالاموس دو هستهٔ دیگر دیده می‌شود: هستهٔ ساب‌تالامیک که دقیقاً زیر تالاموس است و مادهٔ سیاه که پایین‌تر و در مغز میانی قرار دارد و پایین‌ترین هستهٔ این مجموعه است. مادهٔ سیاه حاوی مقدار زیادی ملانین است.",
     "src": "جزوهٔ دکتر قدیری — عقده‌های قاعده‌ای (مهر ۱۴۰۳)، ص ۴"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 690",
+    "title": "پنج جزء عقده‌ها و کپسول داخلی",
+    "english": [
+     {
+      "text": "On each side of the brain, these ganglia consist of the caudate nucleus, putamen, globus pallidus, substantia nigra, and subthalamic nucleus.",
+      "page": 690
+     },
+     {
+      "text": "Note also that almost all motor and sensory nerve fibers connecting the cerebral cortex and spinal cord pass through the space that lies between the major masses of the basal ganglia, the caudate nucleus and the putamen.",
+      "page": 690
+     },
+     {
+      "text": "This space is called the internal capsule of the brain.",
+      "page": 690
+     }
+    ],
+    "fa": "در هر نیمهٔ مغز، عقده‌های قاعده‌ای از هستهٔ دمی، پوتامن، گلوبوس پالیدوس، هستهٔ سیاه و هستهٔ زیرتالاموسی تشکیل شده‌اند. تقریباً همهٔ لیف‌های حرکتی و حسی که قشر مغز را به نخاع وصل می‌کنند از فضایی می‌گذرند که بین دو تودهٔ اصلی عقده‌های قاعده‌ای، یعنی هستهٔ دمی و پوتامن، قرار دارد. این فضا کپسول داخلی مغز نامیده می‌شود.",
+    "note": "همان پنج جزئی که در نکتهٔ تکمیلی ۶ از جزوه شمرده شد؛ ذکر کپسول داخلی این‌جا نشان می‌دهد چرا آسیب عقده‌ها و آسیب کپسول، الگوی حرکتی متفاوتی می‌دهند.",
+    "src": "گایتون، فصل 56، ص ۶۹۰ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -777,6 +907,25 @@
     "src": "جزوهٔ دکتر قدیری — عقده‌های قاعده‌ای (مهر ۱۴۰۳)، ص ۷"
    },
    {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 690",
+    "title": "چهار مدار و دو مسیر: پوتامن و دمی",
+    "english": [
+     {
+      "text": "To the right is the major circuitry of the basal ganglia system, showing the tremendous interconnections among the basal ganglia themselves plus extensive input and output pathways between the other motor regions of the brain and the basal ganglia.",
+      "page": 690
+     },
+     {
+      "text": "In the next few sections we concentrate especially on two major circuits, the putamen circuit and the caudate circuit.",
+      "page": 690
+     }
+    ],
+    "fa": "در سمت راست، مدارهای اصلی دستگاه عقده‌های قاعده‌ای دیده می‌شود: ارتباط‌های بسیار زیاد میان خود عقده‌ها، به‌همراه مسیرهای ورودی و خروجی گسترده بین سایر نواحی حرکتی مغز و عقده‌های قاعده‌ای. در بخش‌های بعدی به‌ویژه روی دو مدار اصلی تمرکز می‌کنیم: مدار پوتامن و مدار دمی.",
+    "note": "همان تفکیک «مدار حرکتی (پوتامن) و مدار شناختی (دمی)» است که در نکتهٔ تکمیلی ۷ از جزوه با پنج کارکرد باز شد.",
+    "src": "گایتون، فصل 56، ص ۶۹۰ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "note",
     "size": "medium",
     "title": "یادداشت عضو تیم — چهار مدار را در یک جدول با ستون ورودی/خروجی بنویسید"
@@ -878,6 +1027,33 @@
     "type": "p",
     "text": "سوم، کمک به ایجاد برانگیختگی قشری از طریق ارتباط با هستهٔ قرمز و تشکیلات مشبک: اگر عقده‌ها آسیب ببینند و مخصوصاً مدار سینگولیت درگیر شود، فرد دچار رکود و رخوت می‌شود، انگار همیشه کاهش تحریک‌پذیری و خواب‌آلودگی دارد. چون هر سیگنال حسی از طریق تشکیلات مشبک در مغز میانی به تمام قشر می‌رسد و قشر را آماده و آلارم نگه می‌دارد.",
     "src": "جزوهٔ دکتر قدیری — عقده‌های قاعده‌ای (مهر ۱۴۰۳)، ص ۹"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 695",
+    "title": "سلسله‌مراتب کنترل حرکت و منبع انگیزش",
+    "english": [
+     {
+      "text": "At a still higher level of control is another combined cerebral and basal ganglia circuit, beginning in the thinking processes of the cerebrum to provide overall sequential steps of action for responding to each new situation, such as planning one’s immediate motor response to an assailant who hits the person in the face or one’s sequential response to an unexpectedly fond embrace.",
+      "page": 695
+     },
+     {
+      "text": "What is it that arouses us from inactivity and sets into play our trains of movement?",
+      "page": 695
+     },
+     {
+      "text": "Basically, the brain has an older core located beneath, anterior, and lateral to the thalamus—including the hypothalamus, amygdala, hippocampus, septal region anterior to the hypothalamus and thalamus, and even old regions of the thalamus and cerebral cortex themselves—all of which function together to initiate most motor and other functional activities of the brain.",
+      "page": 695
+     },
+     {
+      "text": "These areas are collectively called the limbic system of the brain.",
+      "page": 695
+     }
+    ],
+    "fa": "در سطحی حتی بالاتر، مدار مشترک دیگری از قشر و عقده‌های قاعده‌ای قرار دارد که از فرایندهای اندیشیدن در مغز آغاز می‌شود تا گام‌های پشت‌سرهم کلیِ عمل را برای پاسخ به هر موقعیت تازه بسازد؛ مثلاً برنامه‌ریزی پاسخ حرکتی فوری به کسی که به صورت فرد مشت زده است، یا پاسخ پشت‌سرهم به یک در آغوش‌گرفتن پیش‌بینی‌نشده. اما چه چیزی ما را از بی‌حرکتی بیرون می‌کشد و زنجیره‌های حرکتی را به راه می‌اندازد؟ در واقع مغز هستهٔ کهن‌تری دارد که زیر، جلوی و کنار تالاموس قرار گرفته است — شامل هیپوتالاموس، آمیگدال، هیپوکامپ، ناحیهٔ سپتوم جلوی هیپوتالاموس و تالاموس و حتی نواحی کهن تالاموس و قشر مغز — و همهٔ این‌ها با هم بیشتر فعالیت‌های حرکتی و کارکردی مغز را آغاز می‌کنند. این نواحی در مجموع دستگاه لیمبیک مغز نامیده می‌شوند.",
+    "note": "گایتون همین فصل را با جمع‌بندی سلسله‌مراتبی تمام می‌کند: نخاع، ساقهٔ مغز، قشر، و در آخر دستگاه لیمبیک به‌عنوان منبع انگیزش. این چهارچوب، جای «رفتار سازمان‌یافته» را در همین نقشه روشن می‌کند.",
+    "src": "گایتون، فصل 56، ص ۶۹۵ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -1002,6 +1178,29 @@
     "type": "p",
     "text": "کرهٔ هانتینگتون: بیماری ژنتیکی با درگیری کروموزوم شمارهٔ ۴ و معمولاً اتوزوم غالب؛ اگر یکی از والدین ژن را داشته باشد، احتمال انتقال ۵۰ درصد و اگر روی کروموزوم Y باشد، احتمال انتقال به پسر صد درصد است. بروز معمولاً بعد از سی سالگی است و بیماری کشنده است، نه به این معنا که فرد از علائم می‌میرد، بلکه خود فرایند بیماری او را به سمت مرگ می‌برد.",
     "src": "جزوهٔ دکتر قدیری — عقده‌های قاعده‌ای (مهر ۱۴۰۳)، ص ۱۳–۱۴"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 694",
+    "title": "هانتینگتون: از دست رفتن نورون‌های GABA",
+    "english": [
+     {
+      "text": "Huntington’s disease is a hereditary disorder that usually begins causing symptoms at age 30 to 40 years.",
+      "page": 694
+     },
+     {
+      "text": "It is characterized at first by flicking movements in individual muscles and then progressive severe distortional movements of the entire body.",
+      "page": 694
+     },
+     {
+      "text": "The abnormal movements of Huntington’s disease are believed to be caused by loss of most of the cell bodies of the GABA secreting neurons in the caudate nucleus and putamen and of acetylcholine secreting neurons in many parts of the brain.",
+      "page": 694
+     }
+    ],
+    "fa": "بیماری هانتینگتون یک اختلال ارثی است که معمولاً در سن ۳۰ تا ۴۰ سالگی علائم ایجاد می‌کند. در ابتدا با حرکات پرشی در عضلات منفرد و سپس با حرکات پیچشی شدید و پیشروندهٔ کل بدن مشخص می‌شود. باور بر این است که حرکات غیرطبیعی هانتینگتون از فقدان بیشتر جسم سلولی نورون‌های ترشح‌کنندهٔ GABA در هستهٔ دمی و پوتامن ناشی می‌شود.",
+    "note": "همین فقدان GABA توضیح می‌دهد چرا در هانتینگتون مسیر غیرمستقیم از کار می‌افتد و کره پیدا می‌شود؛ جزوه همین را با شرح‌حال بالینی گفته بود.",
+    "src": "گایتون، فصل 56، ص ۶۹۴ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "note",
@@ -1132,6 +1331,25 @@
     "type": "p",
     "text": "و آخرین حلقه: در اعتیاد، سطح تحمل هسته تغییر می‌کند؛ احساس خوشایندی که فرد از یک کار می‌گرفت با همان دوز نرمال به دست نمی‌آید و دوز بالاتری لازم است تا همان احساس رضایت ساخته شود.",
     "src": "جزوهٔ دکتر قدیری — عقده‌های قاعده‌ای (مهر ۱۴۰۳)، ص ۲۰"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "56",
+    "pages": "p. 693",
+    "title": "پارکینسون: لرزش استراحت و آکینزی",
+    "english": [
+     {
+      "text": "This tremor is quite different from that of cerebellar disease because it occurs during all waking hours and therefore is an involuntary tremor, in contradistinction to cerebellar tremor, which occurs only when the person performs intentionally initiated movements and therefore is called intention tremor.",
+      "page": 693
+     },
+     {
+      "text": "The akinesia that occurs in Parkinson’s disease is often much more distressing to the patient than are the symptoms of muscle rigidity and tremor, because to perform even the simplest movement in severe parkinsonism, the person must exert the highest degree of concentration.",
+      "page": 693
+     }
+    ],
+    "fa": "این لرزش با لرزش بیماری مخچه‌ای کاملاً متفاوت است، چون در تمام ساعات بیداری رخ می‌دهد و بنابراین لرزش غیرارادی است؛ در حالی که لرزش مخچه‌ای فقط وقتی رخ می‌دهد که فرد حرکت ارادی انجام می‌دهد و به همین دلیل لرزش ارادی (قصدی) نامیده می‌شود. آکینزی در پارکینسون اغلب برای بیمار آزاردهنده‌تر از سختی عضلانی و لرزش است، چون برای انجام ساده‌ترین حرکت در پارکینسون شدید، فرد باید بالاترین درجهٔ تمرکز را به کار ببرد.",
+    "note": "همان تفکیکی که در نکتهٔ تکمیلی ۱۰ از جزوه آمد: لرزش استراحت در برابر لرزش ارادی، و آکینزی به‌عنوان علامت غالب.",
+    "src": "گایتون، فصل 56، ص ۶۹۳ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",

@@ -93,6 +93,8 @@ SESSIONS = {
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
         cover_topic="قشر حسی پیکری، درد و حرارت",
         divider_title="نوروفیزیولوژی:\nاز قشر حسی پیکری\nتا درد و حرارت",
+        # Guyton pairs added to the supplement must never split across pages
+        guyton_atomic=True,
         pdf_name="HumsYar_Neuro_Jalase4.pdf",
     ),
     "s05": dict(
@@ -147,6 +149,8 @@ SESSIONS = {
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
         cover_topic="نخاع، رفلکس‌های نخاعی و مسیرهای نزولی",
         divider_title="نوروفیزیولوژی:\nاز قوس رفلکس\nتا مسیر نزولی",
+        # Guyton pairs added to the supplement must never split across pages
+        guyton_atomic=True,
         pdf_name="HumsYar_Neuro_Jalase7.pdf",
     ),
     "s08": dict(
@@ -190,6 +194,8 @@ SESSIONS = {
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
         cover_topic="مخچه، عقده‌های قاعده‌ای و کنترل حرکت",
         divider_title="نوروفیزیولوژی:\nاز مخچه\nتا عقده‌های قاعده‌ای",
+        # Guyton pairs added to the supplement must never split across pages
+        guyton_atomic=True,
         pdf_name="HumsYar_Neuro_Jalase9.pdf",
     ),
     "s10": dict(
@@ -211,6 +217,8 @@ SESSIONS = {
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
         cover_topic="کارکردهای عالی قشر مغز، زبان و آفازی‌ها",
         divider_title="نوروفیزیولوژی:\nاز قشر مغز\nتا زبان و آفازی",
+        # Guyton pairs added to the supplement must never split across pages
+        guyton_atomic=True,
         pdf_name="HumsYar_Neuro_Jalase10.pdf",
     ),
     "s11": dict(

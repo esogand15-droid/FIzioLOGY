@@ -79,6 +79,29 @@
     "src": "جزوهٔ دکتر ایروان‌پور — رفلکس‌های نخاعی (مهر ۱۴۰۳)، ص ۳"
    },
    {
+    "type": "guytonpair",
+    "chapter": "54",
+    "pages": "pp. 661–662",
+    "title": "رفلکس خم‌کننده: پاسخی که هدف را انتخاب می‌کند",
+    "english": [
+     {
+      "text": "In the spinal or decerebrate animal, almost any type of cutaneous sensory stimulus from a limb is likely to cause the flexor muscles of the limb to contract, thereby withdrawing the limb from the stimulating object.",
+      "page": 661
+     },
+     {
+      "text": "In its classic form, the flexor reflex is elicited most powerfully by stimulation of pain endings, such as by a pinprick, heat, or a wound, for which reason it is also called a nociceptive reflex, or simply a pain reflex.",
+      "page": 662
+     },
+     {
+      "text": "The pathways for eliciting the flexor reflex do not pass directly to the anterior motor neurons but instead pass first into the spinal cord interneuron pool of neurons and only secondarily to the motor neurons.",
+      "page": 662
+     }
+    ],
+    "fa": "در حیوان نخاعی یا دِسِبره، تقریباً هر محرک حسی پوستی از یک اندام، عضلات خم‌کنندهٔ همان اندام را منقبض می‌کند و اندام را از جسم محرک دور می‌کند. رفلکس خم‌کننده در شکل کلاسیک خود بیشترین تحریک را از تحریک پایانه‌های درد می‌گیرد — مانند سوزن، گرما یا زخم — و به همین دلیل رفلکس نوسیسپتیو یا به‌سادگی «رفلکس درد» هم نامیده می‌شود. مسیرهای ایجاد رفلکس خم‌کننده مستقیماً به نورون‌های حرکتی قدامی نمی‌روند؛ ابتدا به استخر اینترنورون‌های نخاع وارد می‌شوند و فقط در مرحلهٔ دوم به نورون‌های حرکتی می‌رسند.",
+    "note": "همین «چندسیناپسی بودن» است که در نکتهٔ تکمیلی ۱ از جزوه به «انتخاب اولویت» گره خورد؛ یک محرک، بسته به اینکه چه چیزی برای بدن مهم‌تر است، مسیر و پاسخ متفاوتی می‌سازد.",
+    "src": "گایتون، فصل 54، ص ۶۶۱–۶۶۲ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "callout",
     "kind": "key",
     "text": "یک محرک، دو پاسخ: پاسخ رفلکسی «هدف» را انتخاب می‌کند، نه فقط محرک را. همین انتخاب است که آن را قابل مطالعه در کلینیک می‌کند.",
@@ -199,6 +222,33 @@
     "src": "جزوهٔ دکتر ایروان‌پور — رفلکس‌های نخاعی (مهر ۱۴۰۳)، ص ۶"
    },
    {
+    "type": "guytonpair",
+    "chapter": "54",
+    "pages": "p. 657",
+    "title": "ساختار دوک عضلانی: ۳ تا ۱۲ لیف و یک مرکز گیرنده",
+    "english": [
+     {
+      "text": "Each spindle is 3 to 10 millimeters long.",
+      "page": 657
+     },
+     {
+      "text": "It is built around 3 to 12 tiny intrafusal muscle fibers that are pointed at their ends and attached to the glycocalyx of the surrounding large extrafusal skeletal muscle fibers.",
+      "page": 657
+     },
+     {
+      "text": "However, the central region of each of these fibers— that is, the area midway between its two ends—has few or no actin and myosin filaments.",
+      "page": 657
+     },
+     {
+      "text": "Instead, it functions as a sensory receptor, as described later.",
+      "page": 657
+     }
+    ],
+    "fa": "طول هر دوک ۳ تا ۱۰ میلی‌متر است. دوک حول ۳ تا ۱۲ لیف عضلانی داخل‌دوکی کوچک ساخته شده که انتهایشان نوک‌تیز است و به گلیکوکالیکس لیف‌های بزرگ خارج‌دوکی اطراف می‌چسبد. اما ناحیهٔ مرکزی هر یک از این لیف‌ها — یعنی ناحیهٔ میانی بین دو انتها — اکتین و میوزین بسیار کم دارد یا اصلاً ندارد. بنابراین این بخش مرکزی وقتی دو انتها منقبض می‌شوند، منقبض نمی‌شود؛ به‌جای آن نقش گیرندهٔ حسی دارد.",
+    "note": "عدد «۳ تا ۱۲ لیف» در جزوه آمده بود و این‌جا با متن اصلی مستند می‌شود؛ همان تفکیک «مرکز گیرنده / دو انتهای منقبض‌شونده» است که عصب‌دهی گاما را معنا می‌کند.",
+    "src": "گایتون، فصل 54، ص ۶۵۷ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "callout",
     "kind": "key",
     "text": "هرجا صحبت از انقباض داینامیک است، فقط Ia مطرح است و II در داینامیک نقشی ندارد. این جمله، کل تفکیک دو پایانه را جمع می‌کند.",
@@ -317,6 +367,29 @@
     "type": "p",
     "text": "مهار متقابل: وقتی عضله‌ای باید منقبض شود (مثلاً چهارسر ران)، عضلهٔ مقابل (دو سر) باید ریلکس بماند. نورون آوران، هنگام ورود به نخاع یک انشعاب می‌دهد به اینترنورونی که روی آلفا موتورونوی عضلهٔ مقابل سیناپس می‌دهد و آن را مهار می‌کند.",
     "src": "جزوهٔ دکتر ایروان‌پور — رفلکس‌های نخاعی (مهر ۱۴۰۳)، ص ۹"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "54",
+    "pages": "p. 658",
+    "title": "رفلکس کششی: یک سیناپس، کوتاه‌ترین تأخیر",
+    "english": [
+     {
+      "text": "The simplest manifestation of muscle spindle function is the muscle stretch reflex.",
+      "page": 658
+     },
+     {
+      "text": "Whenever a muscle is stretched suddenly, excitation of the spindles causes reflex contraction of the large skeletal muscle fibers of the stretched muscle and also of closely allied synergistic muscles.",
+      "page": 658
+     },
+     {
+      "text": "A branch of this fiber then goes directly to the anterior horn of the cord gray matter and synapses with anterior motor neurons that send motor nerve fibers back to the same muscle from which the muscle spindle fiber originated.",
+      "page": 658
+     }
+    ],
+    "fa": "ساده‌ترین تجلی کارکرد دوک عضلانی، رفلکس کششی عضله است. هرگاه عضله‌ای به‌طور ناگهانی کشیده شود، تحریک دوک‌ها انقباض رفلکسی لیف‌های بزرگ عضلهٔ کشیده‌شده و عضلات سینرژیست نزدیک به آن را می‌سازد. شاخه‌ای از این لیف مستقیماً به شاخ قدامی مادهٔ خاکستری نخاع می‌رود و با نورون‌های حرکتی قدامی سیناپس می‌کند که لیف‌های عصبی حرکتی را به همان عضله‌ای می‌فرستند که لیف دوک از آن آمده بود.",
+    "note": "همین مسیر تک‌سیناپسی است که «ساده‌ترین رفلکس» بودن و تأخیر کوتاه رفلکس زانو — همان ۰٫۵ ثانیهٔ جزوه — را توضیح می‌دهد.",
+    "src": "گایتون، فصل 54، ص ۶۵۸ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -446,6 +519,29 @@
     "src": "جزوهٔ دکتر ایروان‌پور — رفلکس‌های نخاعی (مهر ۱۴۰۳)، ص ۱۲–۱۳"
    },
    {
+    "type": "guytonpair",
+    "chapter": "54",
+    "pages": "p. 659",
+    "title": "دو مؤلفهٔ رفلکس کششی: داینامیک و استاتیک",
+    "english": [
+     {
+      "text": "The stretch reflex can be divided into two components: the dynamic stretch reflex and the static stretch reflex.",
+      "page": 659
+     },
+     {
+      "text": "The dynamic stretch reflex is elicited by the potent dynamic signal transmitted from the primary sensory endings of the muscle spindles, caused by rapid stretch or unstretch.",
+      "page": 659
+     },
+     {
+      "text": "The importance of the static stretch reflex is that it causes the degree of muscle contraction to remain reasonably constant, except when the person’s nervous system specifically wills otherwise.",
+      "page": 659
+     }
+    ],
+    "fa": "رفلکس کششی به دو مؤلفه تقسیم می‌شود: رفلکس کششی داینامیک و رفلکس کششی استاتیک. رفلکس داینامیک با سیگنال قوی داینامیکی که پایانه‌های حسی اولیهٔ دوک در اثر کشش یا رهاشدن سریع می‌فرستند ایجاد می‌شود. اهمیت رفلکس استاتیک در این است که درجهٔ انقباض عضله را به‌طور معقولی ثابت نگه می‌دارد، مگر آنکه دستگاه عصبی شخص خلاف آن را بخواهد.",
+    "note": "«تون استاتیک» همان مؤلفهٔ دومی است که در نکتهٔ تکمیلی ۳ پایهٔ تون عضلانی گرفته شد؛ کلونوس هم نوسان همین دو مؤلفه است.",
+    "src": "گایتون، فصل 54، ص ۶۵۹ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "note",
     "size": "medium",
     "title": "یادداشت عضو تیم — کلونوس را با یک نمودار بازخوردی توضیح دهید"
@@ -567,6 +663,29 @@
     "type": "p",
     "text": "یادگیری رفلکس: کودک که مغزش کامل تکامل نیافته، وسیله را در دست نگه نمی‌دارد — نه چون ماهیچه‌ها مشکل دارند، بلکه چون هنوز یاد نگرفته باید نگه دارد. یادگرفتن یعنی قشر مغز کامل شود و برنامه‌ریزی کند و دستور بدهد چه کاری درست یا غلط است، تا فرد آن کار را در سطح نیمه‌هوشیار انجام دهد.",
     "src": "جزوهٔ دکتر ایروان‌پور — رفلکس‌های نخاعی (مهر ۱۴۰۳)، ص ۱۶"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "54",
+    "pages": "p. 656",
+    "title": "سلول‌های رنشاو و مهار جانبی",
+    "english": [
+     {
+      "text": "Also located in the anterior horns of the spinal cord, in close association with the motor neurons, are a large number of small neurons called Renshaw cells.",
+      "page": 656
+     },
+     {
+      "text": "These are inhibitory cells that transmit inhibitory signals to the surrounding motor neurons.",
+      "page": 656
+     },
+     {
+      "text": "Thus, stimulation of each motor neuron tends to inhibit adjacent motor neurons, an effect called lateral inhibition.",
+      "page": 656
+     }
+    ],
+    "fa": "در شاخ قدامی نخاع و در نزدیکی نورون‌های حرکتی، تعداد زیادی نورون کوچک به نام سلول‌های رنشاو قرار دارد. این‌ها سلول‌های مهاری‌اند که سیگنال مهاری به نورون‌های حرکتی اطراف می‌فرستند. بنابراین تحریک هر نورون حرکتی، نورون‌های حرکتی مجاور را مهار می‌کند؛ اثری که مهار جانبی نامیده می‌شود.",
+    "note": "نقش «نرم و ظریف کردن حرکت» که در جزوه به مدار راجعه نسبت داده شد، در گایتون با همین مهار جانبی توضیح داده می‌شود.",
+    "src": "گایتون، فصل 54، ص ۶۵۶ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "note",
@@ -703,6 +822,29 @@
     "src": "جزوهٔ دکتر ایروان‌پور — رفلکس‌های نخاعی (مهر ۱۴۰۳)، ص ۲۲–۲۳"
    },
    {
+    "type": "guytonpair",
+    "chapter": "54",
+    "pages": "p. 665",
+    "title": "شوک نخاعی و بازگشت تدریجی تحریک‌پذیری",
+    "english": [
+     {
+      "text": "When the spinal cord is suddenly transected in the upper neck, at first, essentially all cord functions, including the cord reflexes, immediately become depressed to the point of total silence, a reaction called spinal shock.",
+      "page": 665
+     },
+     {
+      "text": "The reason for this is that normal activity of the cord neurons depends to a great extent on continual tonic excitation by the discharge of nerve fibers entering the cord from higher centers, particularly discharge transmitted through the reticulospinal tracts, vestibulospinal tracts, and corticospinal tracts.",
+      "page": 665
+     },
+     {
+      "text": "After a few hours to a few weeks, the spinal neurons gradually regain their excitability.",
+      "page": 665
+     }
+    ],
+    "fa": "وقتی نخاع به‌طور ناگهانی در گردن قطع می‌شود، در ابتدا تقریباً همهٔ کارکردهای نخاع، از جمله رفلکس‌ها، به حد سکوت کامل فرو می‌رود؛ این واکنش شوک نخاعی نام دارد. علتش این است که فعالیت طبیعی نورون‌های نخاع به تحریک تونیک پیوسته از مراکز بالاتر وابسته است. پس از چند ساعت تا چند هفته، نورون‌های نخاعی به‌تدریج تحریک‌پذیری خود را بازمی‌یابند.",
+    "note": "همین بازهٔ زمانی و همین «تحریک‌پذیری جبرانی» است که در نکتهٔ تکمیلی ۶ به هایپررفلکسی بعد از شوک گره خورد.",
+    "src": "گایتون، فصل 54، ص ۶۶۵ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "note",
     "size": "medium",
     "title": "یادداشت عضو تیم — دو ستون برای دوک و اندام گلژی با ستون «کشش/جمع‌شدگی» بسازید"
@@ -809,6 +951,29 @@
     "type": "p",
     "text": "علاوه بر این‌ها، مرتباً از مخچه، دوک‌های عضلانی و نواحی حسی به موتورکورتکس پیام می‌رسد تا خطای در حال رخ دادن اصلاح شود. این نواحی دائماً با هم در ارتباط‌اند تا حرکت دقیق، نرم و ظریف انجام شود.",
     "src": "جزوهٔ دکتر ایروان‌پور — کنترل حرکات ارادی (مهر ۱۴۰۳)، ص ۳"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "55",
+    "pages": "p. 667",
+    "title": "قشر حرکتی: یک‌سوم خلفی فرونتال و سه ناحیه",
+    "english": [
+     {
+      "text": "Anterior to the central cortical sulcus, occupying approximately the posterior one third of the frontal lobes, is the motor cortex.",
+      "page": 667
+     },
+     {
+      "text": "The motor cortex itself is divided into three subareas, each of which has its own topographical representation of muscle groups and specific motor functions: (1) the primary motor cortex, (2) the premotor area, and (3) the supplementary motor area.",
+      "page": 667
+     },
+     {
+      "text": "The primary motor cortex, shown in Figure 55-1, lies in the first convolution of the frontal lobes anterior to the central sulcus.",
+      "page": 667
+     }
+    ],
+    "fa": "قشر حرکتی جلوی شیار مرکزی و در حدود یک‌سوم خلفی لوب‌های فرونتال قرار دارد. خود قشر حرکتی به سه ناحیه تقسیم می‌شود که هر کدام نمایش توپوگرافیک خود را از گروه‌های عضلانی و کارکردهای حرکتی دارند. قشر حرکتی اولیه در نخستین شکنج لوب فرونتال، جلوی شیار مرکزی می‌نشیند؛ از سمت خارجی در شیار سیلویوس آغاز می‌شود، به سمت بالا تا بالاترین بخش مغز می‌رسد و سپس به عمق شیار طولی فرو می‌رود.",
+    "note": "همین سه ناحیه، همان سه ایستگاهی است که در نکتهٔ تکمیلی ۷ به‌عنوان حلقهٔ برنامه‌ریزی ← اجرا ← اصلاح از هم جدا شد.",
+    "src": "گایتون، فصل 55، ص ۶۶۷ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -927,6 +1092,29 @@
     "src": "جزوهٔ دکتر ایروان‌پور — کنترل حرکات ارادی (مهر ۱۴۰۳)، ص ۶"
    },
    {
+    "type": "guytonpair",
+    "chapter": "55",
+    "pages": "p. 669",
+    "title": "راه هرمی: ۳۰ و ۳۰ و ۴۰ درصد",
+    "english": [
+     {
+      "text": "The most important output pathway from the motor cortex is the corticospinal tract, also called the pyramidal tract, shown in Figure 55-4.",
+      "page": 669
+     },
+     {
+      "text": "The corticospinal tract originates about 30 percent from the primary motor cortex, 30 percent from the premotor and supplementary motor areas, and 40 percent from the somatosensory areas posterior to the central sulcus.",
+      "page": 669
+     },
+     {
+      "text": "The most impressive fibers in the pyramidal tract are a population of large myelinated fibers with a mean diameter of 16 micrometers.",
+      "page": 669
+     }
+    ],
+    "fa": "مهم‌ترین مسیر خروجی قشر حرکتی، راه کورتیکواسپاینال یا هرمی است. این راه حدود ۳۰ درصد از قشر حرکتی اولیه، ۳۰ درصد از نواحی پرهموتور و حرکتی مکمل و ۴۰ درصد از نواحی حسی پیکریِ پشت شیار مرکزی منشأ می‌گیرد. چشمگیرترین لیف‌های راه هرمی، جمعیتی از لیف‌های بزرگ میلینی با قطر میانگین ۱۶ میکرومتر است.",
+    "note": "همین سه سهم ۳۰/۳۰/۴۰ نشان می‌دهد چرا ۴۰ درصد از لیف‌های هرمی از نواحی حسی می‌آیند — نکته‌ای که در جزوه فقط با نام «نورون حرکتی فوقانی» پوشش داده شده بود.",
+    "src": "گایتون، فصل 55، ص ۶۶۹ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "note",
     "size": "medium",
     "title": "یادداشت عضو تیم — شش لایه را با یک نقش برای هر لایه در یک ستون بنویسید"
@@ -1034,6 +1222,29 @@
     "type": "p",
     "text": "مسیرهای خارج هرمی از هرم‌های بصل‌النخاع وارد نمی‌شوند. نمونهٔ آن الیاف فرونتوپونتاین است: از قشر به هسته‌های پونتی و از آنجا به مخچه. این ارتباط دائمی است؛ هم‌زمان که عضلات منقبض می‌شوند، به مخچه هم خبر می‌رسد تا مخچه اطلاعات سایر بخش‌ها را با این اطلاعات تطبیق دهد و اگر خطایی هست از طریق هسته‌های قرمز پیام بدهد.",
     "src": "جزوهٔ دکتر ایروان‌پور — کنترل حرکات ارادی (مهر ۱۴۰۳)، ص ۹"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "55",
+    "pages": "p. 669",
+    "title": "اهرام بصل‌النخاع و دو مسیر جانبی و قدامی",
+    "english": [
+     {
+      "text": "After leaving the cortex, it passes through the posterior limb of the internal capsule (between the caudate nucleus and the putamen of the basal ganglia) and then downward through the brain stem, forming the pyramids of the medulla.",
+      "page": 669
+     },
+     {
+      "text": "The majority of the pyramidal fibers then cross in the lower medulla to the opposite side and descend into the lateral corticospinal tracts of the cord, finally terminating principally on the interneurons in the intermediate regions of the cord gray matter; a few terminate on sensory relay neurons in the dorsal horn, and a very few terminate directly on the anterior motor neurons that cause muscle contraction.",
+      "page": 669
+     },
+     {
+      "text": "A few of the fibers do not cross to the opposite side in the medulla but pass ipsilaterally down the cord in the ventral corticospinal tracts.",
+      "page": 669
+     }
+    ],
+    "fa": "این راه پس از خروج از قشر، از بخش خلفی کپسول داخلی (بین هستهٔ دمی و پوتامن) و سپس ساقهٔ مغز می‌گذرد و اهرام بصل‌النخاع را می‌سازد. اکثر لیف‌های هرمی در بخش پایینی بصل‌النخاع به سمت مقابل می‌روند و در راه کورتیکواسپاینال جانبی پایین می‌آیند و عمدتاً روی اینترنورون‌ها تمام می‌شوند. تعداد کمی از لیف‌ها در بصل‌النخاع تقاطع نمی‌کنند و از همان سمت در راه کورتیکواسپاینال قدامی پایین می‌روند.",
+    "note": "جزوه همین تقسیم را با درصدهای ۹۰ و ۸ و ۲ گفت؛ گایتون همان دو مسیر جانبی و قدامی را با همین نظم و با نام کپسول داخلی توضیح می‌دهد.",
+    "src": "گایتون، فصل 55، ص ۶۶۹ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -1151,6 +1362,29 @@
     "src": "جزوهٔ دکتر ایروان‌پور — کنترل حرکات ارادی (مهر ۱۴۰۳)، ص ۱۱–۱۲"
    },
    {
+    "type": "guytonpair",
+    "chapter": "55",
+    "pages": "p. 667",
+    "title": "نقشهٔ پنفیلد و نیمی از قشر برای دست و تکلم",
+    "english": [
+     {
+      "text": "This topographical organization is demonstrated even more graphically in Figure 55-2, which shows the degrees of representation of the different muscle areas as mapped by Penfield and Rasmussen.",
+      "page": 667
+     },
+     {
+      "text": "This mapping was done by electrically stimulating the different areas of the motor cortex in human beings who were undergoing neurosurgical operations.",
+      "page": 667
+     },
+     {
+      "text": "Note that more than one half of the entire primary motor cortex is concerned with controlling the muscles of the hands and the muscles of speech.",
+      "page": 667
+     }
+    ],
+    "fa": "این سازمان توپوگرافیک به‌شکل گرافیکی‌تر در شکل ۵۵-۲ دیده می‌شود که درجهٔ نمایندگی نواحی مختلف عضلانی را آن‌گونه که پنفیلد و راسموسن نقشه‌برداری کردند نشان می‌دهد. این نقشه‌برداری با تحریک الکتریکی نواحی مختلف قشر حرکتی در انسان‌هایی انجام شد که تحت عمل جراحی مغز بودند. بیش از نیمی از کل قشر حرکتی اولیه به کنترل عضلات دست و عضلات تکلم اختصاص دارد.",
+    "note": "همان عدد «۵۰ درصد» که در نکتهٔ تکمیلی ۱۰ از جزوه آمد، این‌جا با متن اصلی و با نام پنفیلد مستند می‌شود.",
+    "src": "گایتون، فصل 55، ص ۶۶۷ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "note",
     "size": "medium",
     "title": "یادداشت عضو تیم — یک هومونکولوس ساده برای دست و پا و صورت بکشید"
@@ -1252,6 +1486,29 @@
     "type": "p",
     "text": "SMA (ناحیهٔ حرکتی مکمل) دو ویژگی دارد: فعال‌سازی‌اش دوطرفه است (هر دو سمت بدن) و بنابراین در حرکاتی که به هماهنگی دو طرف نیاز دارند — قدم زدن، از کوه بالا رفتن، نوازندگی — نقش دارد. در برنامه‌ریزی حرکات متوالی پیچیده هم لازم است و در شروع و اتمام حرکات اهمیت دارد؛ اگر آسیب ببیند، فرد در شروع حرکت مشکل دارد و برای شروع صحبت کردن زمان می‌برد (موتیسم).",
     "src": "جزوهٔ دکتر ایروان‌پور — کنترل حرکات ارادی (مهر ۱۴۰۳)، ص ۱۵"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "55",
+    "pages": "p. 668",
+    "title": "ناحیهٔ حرکتی مکمل: تحریک دوطرفه و حرکات وضعیتی",
+    "english": [
+     {
+      "text": "The supplementary motor area has yet another topographical organization for the control of motor function.",
+      "page": 668
+     },
+     {
+      "text": "Contractions elicited by stimulating this area are often bilateral rather than unilateral.",
+      "page": 668
+     },
+     {
+      "text": "In general, this area functions in concert with the premotor area to provide body-wide attitudinal movements, fixation movements of the different segments of the body, positional movements of the head and eyes, and so forth, as background for the finer motor control of the arms and hands by the premotor area and primary motor cortex.",
+      "page": 668
+     }
+    ],
+    "fa": "ناحیهٔ حرکتی مکمل سازمان توپوگرافیک دیگری برای کنترل حرکت دارد. انقباض‌های ناشی از تحریک این ناحیه اغلب دوطرفه‌اند نه یک‌طرفه. در کل، این ناحیه با ناحیهٔ پرهموتور همکاری می‌کند تا حرکات وضعیتی سراسر بدن، حرکات تثبیتی بخش‌های مختلف و حرکات موقعیتی سر و چشم را فراهم کند و زمینه را برای کنترل دقیق‌تر دست‌ها توسط پرهموتور و قشر حرکتی اولیه بسازد.",
+    "note": "همین دوطرفه بودن، پایهٔ نقش ناحیهٔ مکمل در راه رفتن و حرکات متوالی دوطرفه است — همان چیزی که در نکتهٔ تکمیلی ۱۱ از جزوه آمد.",
+    "src": "گایتون، فصل 55، ص ۶۶۸ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -1362,6 +1619,25 @@
     "type": "p",
     "text": "مسیر غیرمستقیم: از قشر به مغز میانی، سیناپس با هستهٔ قرمز، آکسون نورون بعدی به سمت مقابل و بعد به پایین نخاع. مسیر آنتریور بدون تقاطع وارد بخش قدامی نخاع می‌شود و گاهی در خود نخاع تقاطع می‌کند، ولی خیلی وقت‌ها عصب‌دهی دوطرفه انجام می‌دهد — عضلات محوری و پروکسیمال. پروکسیمال یعنی عضلات تنه که بدن را در مقابل جاذبه نگه می‌دارند؛ دیستال یعنی انگشتان و دست که کارهای ظریف می‌کنند.",
     "src": "جزوهٔ دکتر ایروان‌پور — کنترل حرکات ارادی (مهر ۱۴۰۳)، ص ۱۷–۱۸"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "55",
+    "pages": "p. 669",
+    "title": "لیف‌های بدون تقاطع و کنترل دوطرفهٔ وضعیت",
+    "english": [
+     {
+      "text": "Many, if not most, of these fibers eventually cross to the opposite side of the cord either in the neck or in the upper thoracic region.",
+      "page": 669
+     },
+     {
+      "text": "These fibers may be concerned with control of bilateral postural movements by the supplementary motor cortex.",
+      "page": 669
+     }
+    ],
+    "fa": "بسیاری از این لیف‌های بدون تقاطع، سرانجام در ناحیهٔ گردنی یا سینه‌ای فوقانی نخاع به سمت مقابل می‌روند. این لیف‌ها احتمالاً در کنترل حرکات وضعیتی دوطرفه به‌وسیلهٔ قشر حرکتی مکمل نقش دارند.",
+    "note": "گایتون در این فصل اصطلاح «کورتیکوبولبار» را عنوان مستقل نمی‌کند؛ تفکیک مدیال/لترال که در نکتهٔ تکمیلی ۱۲ آمد، تقسیم‌بندی بالینی است. برای همین این‌جا فقط همان «لیف‌های دوطرفه و حرکات وضعیتی» نقل شده تا نقل و تفسیر قاطی نشوند.",
+    "src": "گایتون، فصل 55، ص ۶۶۹ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -1498,6 +1774,29 @@
     "type": "p",
     "text": "جمع‌بندی پوشش دو جزوه: جزوهٔ رفلکس‌های نخاعی، صفحه‌های ۲ تا ۲۳، در نکات ۱ تا ۶ آمده و جزوهٔ کنترل حرکات ارادی، صفحه‌های ۲ تا ۲۲، در نکات ۷ تا ۱۳ (صفحهٔ ۲۳ آن جزوه سفید است). هیچ صفحه‌ای از این دو جزوه بی‌مبحث نمانده است.",
     "src": "جزوهٔ دکتر ایروان‌پور — رفلکس‌های نخاعی (مهر ۱۴۰۳)، ص ۲–۲۳"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "55",
+    "pages": "p. 674",
+    "title": "سختی دِسِبره: اکستنسورها وقتی مهار می‌روند",
+    "english": [
+     {
+      "text": "When the brain stem of an animal is sectioned below the midlevel of the mesencephalon, but the pontine and medullary reticular systems, as well as the vestibular system, are left intact, the animal develops a condition called decerebrate rigidity.",
+      "page": 674
+     },
+     {
+      "text": "This rigidity does not occur in all muscles of the body but does occur in the antigravity muscles—the muscles of the neck and trunk and the extensors of the legs.",
+      "page": 674
+     },
+     {
+      "text": "Lacking this input, the medullary reticular inhibitor system becomes nonfunctional; full overactivity of the pontine excitatory system occurs, and rigidity develops.",
+      "page": 674
+     }
+    ],
+    "fa": "وقتی ساقهٔ مغز حیوان زیر سطح میانی مزنسفال قطع شود، در حالی که دستگاه‌های مشبکی پلی و بصلی و دهلیزی سالم‌اند، سختی شدید در عضلات ایجاد می‌شود. این سختی در همهٔ عضلات بدن رخ نمی‌دهد، بلکه در عضلات ضدجاذبه — عضلات گردن و تنه و اکستنسورهای پا — دیده می‌شود. علتش از دست رفتن ورودی قوی و طبیعی به هسته‌های مشبکی بصلی از قشر، هستهٔ قرمز و عقده‌های قاعده‌ای است؛ با حذف این ورودی، دستگاه مهاری مشبکی بصلی از کار می‌افتد و بیش‌فعالی دستگاه تحریکی پلی رخ می‌دهد.",
+    "note": "این همان منطقی است که در نکتهٔ تکمیلی ۱۳ برای «چرا اکستنسورها در دِسِبره منقبض می‌شوند» گفته شد؛ گایتون همان را با نام دو دستگاه مشبکی تحریکی و مهاری توضیح می‌دهد.",
+    "src": "گایتون، فصل 55، ص ۶۷۴ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "note",

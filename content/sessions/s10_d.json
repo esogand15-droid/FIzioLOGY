@@ -112,6 +112,29 @@
     "src": "جزوهٔ دکتر قدیری — جلسهٔ آخر (مهر ۱۴۰۳)، ص ۵"
    },
    {
+    "type": "guytonpair",
+    "chapter": "57",
+    "pages": "pp. 704–705",
+    "title": "جسم پینه: دسترسی دو نیمکره به اطلاعات یکدیگر",
+    "english": [
+     {
+      "text": "Fibers in the corpus callosum provide abundant bidirectional neural connections between most of the respective cortical areas of the two cerebral hemispheres except for the anterior portions of the temporal lobes; these temporal areas, including especially the amygdala, are interconnected by fibers that pass through the anterior commissure.",
+      "page": 704
+     },
+     {
+      "text": "Thus, one of the functions of the corpus callosum and the anterior commissure is to make information stored in the cortex of one hemisphere available to corresponding cortical areas of the opposite hemisphere.",
+      "page": 704
+     },
+     {
+      "text": "Finally, people whose corpus callosum is completely sectioned have two entirely separate conscious portions of the brain.",
+      "page": 705
+     }
+    ],
+    "fa": "لیف‌های جسم پینه‌ای میان بیشتر نواحی قشری متناظر دو نیمکره پیوندهای عصبی دوسویهٔ فراوان می‌سازند؛ تنها استثنا بخش‌های قدامی لوب‌های گیجگاهی است که از جمله آمیگدال، از راه لیف‌هایی که از کیاسم قدامی می‌گذرند به هم وصل می‌شوند. پس یکی از کارکردهای جسم پینه و کیاسم قدامی این است که اطلاعات ذخیره‌شده در قشر یک نیمکره را در اختیار نواحی قشری متناظر نیمکرهٔ مقابل بگذارد. در نهایت، کسانی که جسم پینه‌شان کاملاً قطع شده است، دو بخش خودآگاه کاملاً جدا از هم در مغز دارند.",
+    "note": "«دو بخش خودآگاه جدا» دلیل آن است که در این سند اختصاص نیمکره‌ها تقسیم کار خوانده می‌شود، نه وجود دو دستگاه مستقل.",
+    "src": "گایتون، فصل 57، ص ۷۰۴–۷۰۵ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "callout",
     "kind": "key",
     "text": "در نوشتن و آزمون، «غالب/مغلوب» را با «طبقه‌بندی‌کننده/تصویرکننده» عوض کنید و کنارش عدد بگذارید: ۹۰ تا ۹۵ درصد افراد، نیمکرهٔ چپ طبقه‌بندی‌کننده دارند و در چپ‌دست‌ها تقسیم پنجاه‌پنجاه است.",
@@ -252,6 +275,29 @@
     "src": "جزوهٔ دکتر قدیری — جلسهٔ آخر (مهر ۱۴۰۳)، ص ۷"
    },
    {
+    "type": "guytonpair",
+    "chapter": "57",
+    "pages": "p. 699",
+    "title": "نواحی ارتباطی: جای تحلیل، میان حس و حافظه",
+    "english": [
+     {
+      "text": "These areas are called association areas because they receive and analyze signals simultaneously from multiple regions of both the motor and sensory cortices, as well as from subcortical structures.",
+      "page": 699
+     },
+     {
+      "text": "An area beginning in the posterior parietal cortex and extending into the superior occipital cortex provides continuous analysis of the spatial coordinates of all parts of the body, as well as of the surroundings of the body.",
+      "page": 699
+     },
+     {
+      "text": "From all this information, it computes the coordinates of the visual, auditory, and body surroundings.",
+      "page": 699
+     }
+    ],
+    "fa": "این نواحی را نواحی ارتباطی می‌نامند، چون سیگنال‌ها را هم‌زمان از چند ناحیهٔ حرکتی و حسی قشر و همچنین از ساختارهای زیرقشری می‌گیرند و تحلیل می‌کنند. ناحیه‌ای که از قشر پاریتال خلفی آغاز می‌شود و تا قشر اکسیپیتال فوقانی می‌رسد، تحلیل پیوستهٔ مختصات فضایی همهٔ بخش‌های بدن و محیط اطراف آن را فراهم می‌کند. از مجموع این اطلاعات، مختصات محیط بینایی، شنوایی و بدنی را محاسبه می‌کند.",
+    "note": "این نقل نشان می‌دهد مرحلهٔ «غربال» به تالاموس تمام نمی‌شود؛ قشر ارتباطی حلقهٔ بعدی همان صافی است.",
+    "src": "گایتون، فصل 57، ص ۶۹۹ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "callout",
     "kind": "key",
     "text": "تالاموس در این جزوه دو نقش دارد: ایستگاه رلهٔ همهٔ حس‌ها، و غربالگری که تعیین می‌کند کدام تجربه وارد حافظه شود. اگر فقط نقش اول را بنویسید، نیمی از مبحث جا افتاده است.",
@@ -387,6 +433,29 @@
     "src": "جزوهٔ دکتر قدیری — جلسهٔ آخر (مهر ۱۴۰۳)، ص ۱۱"
    },
    {
+    "type": "guytonpair",
+    "chapter": "57",
+    "pages": "p. 706",
+    "title": "حافظهٔ اظهاری و مهارتی: معیار تفکیک",
+    "english": [
+     {
+      "text": "In addition to this general classification of memories, we also discussed earlier (in connection with the prefrontal lobes) another type of memory, called“working memory,” which includes mainly short-term memory that is used during the course of intellectual reasoning but is terminated as each stage of the problem is resolved.",
+      "page": 706
+     },
+     {
+      "text": "Declarative memory basically means memory of the various details of an integrated thought, such as memory of an important experience that includes (1) memory of the surroundings, (2) memory of time relationships, (3) memory of causes of the experience, (4) memory of the meaning of the experience, and (5) memory of one’s deductions that were left in the person’s mind.",
+      "page": 706
+     },
+     {
+      "text": "Skill memory is frequently associated with motor activities of the person’s body, such as all the skills developed for hitting a tennis ball, including automatic memories to (1) sight the ball, (2) calculate the relationship and speed of the ball to the racquet, and (3) deduce rapidly the motions of the body, the arms, and the racquet required to hit the ball as desired—all of these activated instantly based on previous learning of the game of tennis—then moving on to the next stroke of the game while forgetting the details of the previous stroke.",
+      "page": 706
+     }
+    ],
+    "fa": "برای بحث دربارهٔ این حافظه‌ها از یک طبقه‌بندی رایج استفاده می‌کنیم که حافظه‌ها را به سه دسته می‌شکند: حافظهٔ کوتاه‌مدت که ثانیه‌ها یا حداکثر دقیقه‌ها می‌ماند، حافظهٔ میان‌مدت که روزها تا هفته‌ها می‌ماند و بعد محو می‌شود، و حافظهٔ بلندمدت که پس از ذخیره شدن تا سال‌ها یا تمام عمر قابل فراخوانی است. حافظهٔ اظهاری در واقع حافظهٔ جزئیات یک اندیشهٔ یکپارچه است؛ مانند خاطرهٔ یک تجربهٔ مهم که شامل حافظهٔ محیط، روابط زمانی، علت‌های تجربه، معنای تجربه و استنتاج‌هایی است که در ذهن فرد مانده است. حافظهٔ مهارتی بیشتر با فعالیت‌های حرکتی بدن همراه است؛ مانند همهٔ مهارت‌هایی که برای زدن توپ تنیس ساخته می‌شوند.",
+    "note": "گایتون معیار تفکیک را نوع اطلاعات ذخیره‌شده می‌داند، نه محل ذخیره؛ همین تفکیک در سند به حافظهٔ صریح و ضمنی ترجمه شده است.",
+    "src": "گایتون، فصل 57، ص ۷۰۶ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "callout",
     "kind": "key",
     "text": "جملهٔ کلیدی: پیش از یادگیری، هیپوکامپ لازم است؛ پس از یادگیری، نه. پس آسیب هیپوکامپ، یادگیری‌های کهنه را پاک نمی‌کند و ساختن حافظهٔ تازه را می‌بندد — همان چیزی که در نکتهٔ تکمیلی ۵ اسم دقیقش می‌آید.",
@@ -519,6 +588,29 @@
     "src": "جزوهٔ دکتر قدیری — جلسهٔ آخر (مهر ۱۴۰۳)، ص ۱۲"
    },
    {
+    "type": "guytonpair",
+    "chapter": "57",
+    "pages": "p. 706",
+    "title": "حافظهٔ مثبت و منفی: حساس‌شدن و عادت‌کردن",
+    "english": [
+     {
+      "text": "This results from inhibition of the synaptic pathways for this type of information; the resulting effect is called habituation.",
+      "page": 706
+     },
+     {
+      "text": "Conversely, for incoming information that causes important consequences such as pain or pleasure, the brain has a different automatic capability of enhancing and storing the memory traces.",
+      "page": 706
+     },
+     {
+      "text": "It results from facilitation of the synaptic pathways, and the process is called memory sensitization.",
+      "page": 706
+     }
+    ],
+    "fa": "این اثر از مهار مسیرهای سیناپسی همین نوع اطلاعات ناشی می‌شود و عادت‌کردن نام دارد. در مقابل، برای اطلاعات ورودی‌ای که پیامد مهمی دارند — مانند درد یا لذت — مغز توانایی خودکار دیگری برای تقویت و ذخیرهٔ رد حافظه دارد. این حالت از تسهیل مسیرهای سیناپسی ناشی می‌شود و فرایندش حساس‌شدن حافظه نامیده می‌شود.",
+    "note": "هر دو پدیده پیش‌سیناپسی‌اند: یکی مهار و دیگری تسهیل. همین تقابل، ستون نکتهٔ تکمیلی ۴ است.",
+    "src": "گایتون، فصل 57، ص ۷۰۶ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
+   },
+   {
     "type": "note",
     "size": "medium",
     "title": "یادداشت عضو تیم — دو منحنی پاسخ (کاهش/افزایش) را روی یک محور بکشید"
@@ -628,6 +720,29 @@
     "type": "p",
     "text": "آلزایمر یکی از چیزهایی است که به دمانس می‌انجامد و جزوه آن را به رسوب در مغز نسبت می‌دهد. منشأ ژنتیکی می‌تواند داشته باشد و جزوه به فشار خون بالا هم اشاره می‌کند: کسانی که فشار خون بالا دارند و درست درمان نمی‌شوند، احتمال آلزایمر در سن بالا در آن‌ها بیشتر از افراد سالم است.",
     "src": "جزوهٔ دکتر قدیری — جلسهٔ آخر (مهر ۱۴۰۳)، ص ۱۳"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "57",
+    "pages": "p. 708",
+    "title": "هیپوکامپ و فراموشی پیشرو",
+    "english": [
+     {
+      "text": "However, after removal, these people have virtually no capability thereafter for storing verbal and symbolic types of memories (declarative types of memory) in long-term memory, or even in intermediate memory lasting longer than a few minutes.",
+      "page": 708
+     },
+     {
+      "text": "This is called anterograde amnesia.",
+      "page": 708
+     },
+     {
+      "text": "But why are the hippocampi so important in helping the brain to store new memories?",
+      "page": 708
+     }
+    ],
+    "fa": "اما پس از برداشتن هیپوکامپ‌ها، این افراد تقریباً هیچ توانی برای ذخیرهٔ حافظه‌های کلامی و نمادین (نوع اظهاری) در حافظهٔ بلندمدت — یا حتی میان‌مدتی که بیش از چند دقیقه بماند — ندارند. این حالت فراموشی پیشرو (anterograde) نامیده می‌شود. اما چرا هیپوکامپ‌ها در کمک به مغز برای ذخیرهٔ حافظه‌های تازه این‌قدر مهم‌اند؟",
+    "note": "همین «ناتوانی در ساختن حافظهٔ تازه» مرز فراموشی پیشرو و پسرو را روشن می‌کند. بخش آلزایمر و دمانس در همین مبحث از منبع دکتر قدیری آمده، نه از گایتون.",
+    "src": "گایتون، فصل 57، ص ۷۰۸ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
@@ -781,6 +896,29 @@
      "آگنوزی شنوایی: ورنیکه و بروکا سالم‌اند، اما قشر شنوایی اول یا دوم آسیب دیده؛ بیمار می‌شنود و جمله هم می‌سازد، ولی پاسخش با سؤال مرتبط نیست."
     ],
     "src": "جزوهٔ دکتر قدیری — جلسهٔ آخر (مهر ۱۴۰۳)، ص ۱۶–۱۷"
+   },
+   {
+    "type": "guytonpair",
+    "chapter": "57",
+    "pages": "p. 704",
+    "title": "آفازی ورنیکه و آفازی حرکتی: دو ناحیه، دو نشانه",
+    "english": [
+     {
+      "text": "This results most frequently when Wernicke’s area in the posterior superior temporal gyrus in the dominant hemisphere is damaged or destroyed.",
+      "page": 704
+     },
+     {
+      "text": "Therefore, this type of aphasia is called Wernicke’s aphasia.",
+      "page": 704
+     },
+     {
+      "text": "This effect, called motor aphasia, results from damage to Broca’s speech area, which lies in the prefrontal and premotor facial region of the cerebral cortex—about 95 percent of the time in the left hemisphere, as shown in Figures 57-5 and 57-8.",
+      "page": 704
+     }
+    ],
+    "fa": "این حالت بیشتر وقتی رخ می‌دهد که ناحیهٔ ورنیکه در شکنج گیجگاهی فوقانی خلفی نیمکرهٔ غالب آسیب ببیند یا از بین برود. به همین دلیل این نوع آفازی را آفازی ورنیکه می‌نامند. اثری که آفازی حرکتی نامیده می‌شود از آسیب ناحیهٔ تکلم بروکا ناشی می‌شود؛ ناحیه‌ای در بخش صورتِ قشر پره‌فرونتال و پرهموتور که حدود ۹۵ درصد موارد در نیمکرهٔ چپ قرار دارد.",
+    "note": "چهار الگوی بالینی این مبحث از جزوهٔ دکتر قدیری است؛ این دو جملهٔ گایتون همان دو ناحیه را با جای آناتومیک و شیوع کنار می‌گذارد.",
+    "src": "گایتون، فصل 57، ص ۷۰۴ — متن اصلی انگلیسی؛ ترجمهٔ روان: تحریریهٔ همین جزوه"
    },
    {
     "type": "callout",
