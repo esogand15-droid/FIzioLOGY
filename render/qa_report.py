@@ -108,12 +108,13 @@ def chars_present(probe: str, page_counter: Counter) -> bool:
 
 
 def main() -> int:
-    global SESSION, PDF, OUTLINE, REPORT, CONTENT_FILES, PAGE_MAP
+    global SESSION, SESSION_LABEL, PDF, OUTLINE, REPORT, CONTENT_FILES, PAGE_MAP
     import argparse
     ap = argparse.ArgumentParser()
     ap.add_argument("--session", default="s01", choices=sorted(SESSIONS))
     args = ap.parse_args()
     SESSION = args.session
+    SESSION_LABEL = {"s01": "۱", "s02": "۲", "s03": "۳"}.get(SESSION, SESSION)
     cfg = SESSIONS[SESSION]
     PDF, OUTLINE, REPORT = cfg["pdf"], REPO / "content" / "outline" / cfg["outline"], cfg["report"]
     CONTENT_FILES = cfg["content"]
@@ -220,7 +221,7 @@ def main() -> int:
     # ---------------------------------------------------------------- report
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
-        "# گزارش کنترل کیفیت — جلسهٔ ۱",
+        f"# گزارش کنترل کیفیت — جلسهٔ {SESSION_LABEL}",
         "",
         f"تولید: {now} · فایل: `{PDF.name}` · "
         f"حجم: {PDF.stat().st_size:,} بایت · SHA-256: `{sha256(PDF)}`",
