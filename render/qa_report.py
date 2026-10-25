@@ -69,6 +69,10 @@ SESSIONS = {
                 outline="s08_topics.json",
                 content=("s08_a.json", "s08_b.json", "s08_c.json"),
                 report=REPO / "reports" / "S08_QA_REPORT.md"),
+    "s09": dict(pdf=REPO / "pdf" / "HumsYar_Neuro_Jalase9.pdf",
+                outline="s09_topics.json",
+                content=("s09_a.json", "s09_b.json", "s09_c.json"),
+                report=REPO / "reports" / "S09_QA_REPORT.md"),
 }
 
 SESSION = "s01"
@@ -135,7 +139,7 @@ def main() -> int:
     args = ap.parse_args()
     SESSION = args.session
     SESSION_LABEL = {"s01": "۱", "s02": "۲", "s03": "۳", "s04": "۴", "s05": "۵",
-                 "s06": "۶", "s07": "۷", "s08": "۸"}.get(SESSION, SESSION)
+                 "s06": "۶", "s07": "۷", "s08": "۸", "s09": "۹"}.get(SESSION, SESSION)
     cfg = SESSIONS[SESSION]
     PDF, OUTLINE, REPORT = cfg["pdf"], REPO / "content" / "outline" / cfg["outline"], cfg["report"]
     CONTENT_FILES = cfg["content"]

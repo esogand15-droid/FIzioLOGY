@@ -896,7 +896,7 @@ class PDFBook:
 
     # ------------------------------------------------------------- TOC
     def toc_row(self, num: str, title: str, page_no: str, indent: float = 0,
-                accent=TEAL, dots: bool = True) -> None:
+                accent=TEAL, dots: bool = True, step: float = 19) -> None:
         self._touch()
         self.ensure(20)
         c = self.c
@@ -932,7 +932,7 @@ class PDFBook:
             if x_end > x_start:
                 c.line(x_start, self.py(top + 7), x_end, self.py(top + 7))
             c.setDash()
-        self.y = top + 19
+        self.y = top + step
 
 
 def _mix(a: Color, b: Color, t: float) -> Color:

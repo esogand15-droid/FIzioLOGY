@@ -1,0 +1,1430 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "s9_intro": {
+   "heading": "Cerebellum and Its Motor Functions",
+   "chapter": 56,
+   "found": true,
+   "page_start": 681,
+   "page_end": 681,
+   "sentences": [
+    {
+     "page": 681,
+     "text": "The cerebellum, illustrated in Figures 56 1 and 56 2, has long been called a silent area of the brain, princi pally because electrical excitation of the cerebellum does not cause any conscious sensation and rarely causes any motor movement."
+    },
+    {
+     "page": 681,
+     "text": "Removal of the cerebellum, however, causes body movements to become highly abnormal."
+    },
+    {
+     "page": 681,
+     "text": "The cerebellum is especially vital during rapid muscular activ ities such as running, typing, playing the piano, and even talking."
+    },
+    {
+     "page": 681,
+     "text": "Loss of this area of the brain can cause almost total incoordination of these activities even though its loss causes paralysis of no muscles."
+    },
+    {
+     "page": 681,
+     "text": "But how is it that the cerebellum can be so important when it has no direct ability to cause muscle contrac tion?"
+    },
+    {
+     "page": 681,
+     "text": "The answer is that it helps to sequence the motor activities and also monitors and makes corrective adjustments in the body’s motor activities while they are being executed so that they will conform to the motor signals directed by the cerebral motor cortex and other parts of the brain."
+    },
+    {
+     "page": 681,
+     "text": "The cerebellum receives continuously updated infor mation about the desired sequence of muscle contrac tions from the brain motor control areas; it also receives continuous sensory information from the peripheral parts of the body, giving sequential changes in the sta tus of each part of the body—its position, rate of move ment, forces acting on it, and so forth."
+    },
+    {
+     "page": 681,
+     "text": "The cerebellum then compares the actual movements as depicted by the peripheral sensory feedback information with the move ments intended by the motor system."
+    },
+    {
+     "page": 681,
+     "text": "If the two do not compare favorably, then instantaneous subconscious corrective signals are transmitted back into the motor system to increase or decrease the levels of activation of specific muscles."
+    },
+    {
+     "page": 681,
+     "text": "The cerebellum also aids the cerebral cortex in plan ning the next sequential movement a fraction of a sec ond in advance while the current movement is still being executed, thus helping the person to progress smoothly from one movement to the next."
+    },
+    {
+     "page": 681,
+     "text": "Also, it learns by its mistakes—that is, if a movement does not occur exactly as intended, the cerebellar circuit learns to make a stronger or weaker movement the next time."
+    },
+    {
+     "page": 681,
+     "text": "To do this, changes occur in the excitability of appropriate cerebellar neurons, thus bringing subsequent muscle contractions into better correspondence with the intended movements."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_areas": {
+   "heading": "Anatomical Functional Areas of the Cerebellum",
+   "chapter": 56,
+   "found": true,
+   "page_start": 681,
+   "page_end": 682,
+   "sentences": [
+    {
+     "page": 681,
+     "text": "Anatomically, the cerebellum is divided into three lobes by two deep fissures, as shown in Figures 56 1 and 56 2: (1) the anterior lobe, (2) the posterior lobe, and (3) the flocculonodular lobe."
+    },
+    {
+     "page": 681,
+     "text": "The flocculonodular lobe is the oldest of all portions of the cerebellum; it developed along with (and functions with) the vestibular system in controlling body equilibrium, as discussed in Chapter 55."
+    },
+    {
+     "page": 681,
+     "text": "Note down the center of the cerebellum a narrow band called the vermis, separated from the remainder of the cerebellum by shallow grooves."
+    },
+    {
+     "page": 681,
+     "text": "In this area, most cerebellar control functions for muscle movements of the axial body, neck, shoulders, and hips are located."
+    },
+    {
+     "page": 682,
+     "text": "To each side of the vermis is a large, laterally protrud ing cerebellar hemisphere, and each of these hemispheres is divided into an intermediate zone and a lateral zone."
+    },
+    {
+     "page": 682,
+     "text": "The intermediate zone of the hemisphere is concerned with controlling muscle contractions in the distal portions of the upper and lower limbs, especially the hands and fingers and feet and toes."
+    },
+    {
+     "page": 682,
+     "text": "The lateral zone of the hemisphere operates at a much more remote level because this area joins with the cerebral cortex in the overall planning of sequential motor move ments."
+    },
+    {
+     "page": 682,
+     "text": "Without this lateral zone, most discrete motor activities of the body lose their appropriate timing and sequencing and therefore become incoordinate, as we dis cuss more fully later."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_topography": {
+   "heading": "Topographical Representation of the Body in the Vermis",
+   "chapter": 56,
+   "found": true,
+   "page_start": 682,
+   "page_end": 682,
+   "sentences": [
+    {
+     "page": 682,
+     "text": "In the same manner that the cere bral sensory cortex, motor cortex, basal ganglia, red nuclei, and reticular formation all have topographical representa tions of the different parts of the body, so also is this true for the vermis and intermediate zones of the cerebellum."
+    },
+    {
+     "page": 682,
+     "text": "Figure 56 3 shows two such representations."
+    },
+    {
+     "page": 682,
+     "text": "Note that the axial portions of the body lie in the vermis part of the cerebellum, whereas the limbs and facial regions lie in the intermediate zones."
+    },
+    {
+     "page": 682,
+     "text": "These topographical representations receive affer ent nerve signals from all the respective parts of the body, as well as from corresponding topographical motor areas in the cerebral cortex and brain stem."
+    },
+    {
+     "page": 682,
+     "text": "In turn, they send motor signals back to the same respective topographical areas of the cerebral motor cortex, as well as to topographical areas of the red nucleus and reticular formation in the brain stem."
+    },
+    {
+     "page": 682,
+     "text": "Note that the large lateral portions of the cerebellar hemi spheres do not have topographical representations of the body."
+    },
+    {
+     "page": 682,
+     "text": "These areas of the cerebellum receive their input sig nals almost exclusively from the cerebral cortex, especially from the premotor areas of the frontal cortex and from the somatosensory and other sensory association areas of the parietal cortex."
+    },
+    {
+     "page": 682,
+     "text": "It is believed that this connectivity with the cerebral cortex allows the lateral portions of the cerebellar hemispheres to play important roles in planning and coor dinating the body’s rapid sequential muscular activities that occur one after another within fractions of a second."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_circuit": {
+   "heading": "Neuronal Circuit of the Cerebellum",
+   "chapter": 56,
+   "found": true,
+   "page_start": 682,
+   "page_end": 683,
+   "sentences": [
+    {
+     "page": 682,
+     "text": "The human cerebellar cortex is actually a large folded sheet, about 17 centimeters wide by 120 centimeters long, with the folds lying crosswise, as shown in Figures 56 2 and 56 3."
+    },
+    {
+     "page": 682,
+     "text": "Each fold is called a folium."
+    },
+    {
+     "page": 682,
+     "text": "Lying deep beneath the folded mass of cerebellar cortex are deep cerebellar nuclei."
+    },
+    {
+     "page": 682,
+     "text": "An extensive and important afferent pathway is the corticopontocerebellar pathway, which originates in the cerebral motor and premotor cortices and also in the cerebral somatosensory cortex."
+    },
+    {
+     "page": 682,
+     "text": "It passes by way of the pontile nuclei and pontocerebellar tracts mainly to the lateral divisions of the cerebellar hemispheres on the opposite side of the brain from the cere bral areas."
+    },
+    {
+     "page": 683,
+     "text": "In addition, important afferent tracts originate in each side of the brain stem; they include (1) an extensive olivocerebellar tract, which passes from the inferior olive to all parts of the cerebellum and is excited in the olive by fibers from the cerebral motor cortex, basal ganglia, widespread areas of the reticular formation, and spinal cord; (2) vestibulocerebellar fibers, some of which originate in the vestibular apparatus itself and others from the brain stem vestibular nuclei— almost all of these terminate in the flocculonodular lobe and fastigial nucleus of the cerebellum; and (3) reticulocerebellar fibers, which originate in different portions of the brain stem reticular formation and terminate in the midline cerebellar areas (mainly in the vermis)."
+    },
+    {
+     "page": 683,
+     "text": "The dorsal tract enters the cerebellum through the inferior cerebellar peduncle and terminates in the vermis and intermediate zones of the cerebellum on the same side as its origin."
+    },
+    {
+     "page": 683,
+     "text": "The ventral tract enters the cerebellum through the superior cerebellar peduncle, but it terminates in both sides of the cerebellum."
+    },
+    {
+     "page": 683,
+     "text": "The signals transmitted in the dorsal spinocerebellar tracts come mainly from the muscle spindles and to a lesser extent from other somatic receptors throughout the body, such as Golgi tendon organs, large tactile receptors of the skin, and joint receptors."
+    },
+    {
+     "page": 683,
+     "text": "All these signals apprise the cer ebellum of the momentary status of (1) muscle contraction, (2) degree of tension on the muscle tendons, (3) positions and rates of movement of the parts of the body, and (4) forces acting on the surfaces of the body."
+    },
+    {
+     "page": 683,
+     "text": "The ventral spinocerebellar tracts receive much less information from the peripheral receptors."
+    },
+    {
+     "page": 683,
+     "text": "Instead, they are excited mainly by motor signals arriving in the anterior horns of the spinal cord from (1) the brain through the corticospi nal and rubrospinal tracts and (2) the internal motor pattern generators in the cord itself."
+    },
+    {
+     "page": 683,
+     "text": "Thus, this ventral fiber pathway tells the cerebellum which motor signals have arrived at the anterior horns; this feedback is called the efference copy of the anterior horn motor drive."
+    },
+    {
+     "page": 683,
+     "text": "The spinocerebellar pathways can transmit impulses at velocities up to 120 m/sec, which is the most rapid con duction in any pathway in the central nervous system."
+    },
+    {
+     "page": 683,
+     "text": "This extremely rapid conduction is important for instantaneous apprisal of the cerebellum of changes in peripheral muscle actions."
+    },
+    {
+     "page": 683,
+     "text": "In addition to signals from the spinocerebellar tracts, signals are transmitted into the cerebellum from the body periphery through the spinal dorsal columns to the dorsal column nuclei of the medulla and then relayed to the cer ebellum."
+    },
+    {
+     "page": 683,
+     "text": "Likewise, signals are transmitted up the spinal cord through the spinoreticular pathway to the reticular formation of the brain stem and also through the spino-olivary pathway to the inferior olivary nucleus."
+    },
+    {
+     "page": 683,
+     "text": "Then signals are relayed from both of these areas to the cerebellum."
+    },
+    {
+     "page": 683,
+     "text": "Thus, the cerebellum continually collects information about the movements and positions of all parts of the body even though it is operating at a subconscious level."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_deep_nuclei": {
+   "heading": "Deep Cerebellar Nuclei and the Efferent",
+   "chapter": 56,
+   "found": true,
+   "page_start": 683,
+   "page_end": 684,
+   "sentences": [
+    {
+     "page": 683,
+     "text": "Located deep in the cerebellar mass on each side are three deep cerebellar nuclei—the dentate, interposed, and fastigial."
+    },
+    {
+     "page": 683,
+     "text": "(The vestibular nuclei in the medulla also function in some respects as if they were deep cerebellar nuclei because of their direct connections with the cortex of the flocculonod ular lobe.) All the deep cerebellar nuclei receive signals from two sources: (1) the cerebellar cortex and (2) the deep sensory afferent tracts to the cerebellum."
+    },
+    {
+     "page": 683,
+     "text": "Each time an input signal arrives in the cerebellum, it divides and goes in two directions: (1) directly to one of the cerebellar deep nuclei and (2) to a corresponding area of the cerebellar cortex overlying the deep nucleus."
+    },
+    {
+     "page": 683,
+     "text": "Then, a frac tion of a second later, the cerebellar cortex relays an inhibitory output signal to the deep nucleus."
+    },
+    {
+     "page": 683,
+     "text": "Thus, all input signals that enter the cerebellum eventually end in the deep nuclei in the form of initial excitatory signals followed a fraction of a second later by inhibitory signals."
+    },
+    {
+     "page": 683,
+     "text": "From the deep nuclei, out put signals leave the cerebellum and are distributed to other parts of the brain."
+    },
+    {
+     "page": 684,
+     "text": "A pathway that originates in the midline structures of the cerebellum (the vermis) and then passes through the fastigial nuclei into the medullary and pontile regions of the brain stem."
+    },
+    {
+     "page": 684,
+     "text": "This circuit functions in close association with the equilibrium apparatus and brain stem vestibular nuclei to control equilibrium, as well as in association with the reticular formation of the brain stem to control the postural attitudes of the body."
+    },
+    {
+     "page": 684,
+     "text": "It was discussed in detail in Chapter 55 in relation to equilibrium."
+    },
+    {
+     "page": 684,
+     "text": "A pathway that originates in (1) the intermediate zone of the cerebellar hemisphere and then passes through (2) the interposed nucleus to (3) the ventrolateral and ventroan terior nuclei of the thalamus and then to (4) the cerebral cortex, to (5) several midline structures of the thalamus and then to (6) the basal ganglia and (7) the red nucleus and reticular formation of the upper portion of the brain stem."
+    },
+    {
+     "page": 684,
+     "text": "This complex circuit helps to coordinate mainly the reciprocal contractions of agonist and antagonist muscles in the peripheral portions of the limbs, especially in the hands, fingers, and thumbs."
+    },
+    {
+     "page": 684,
+     "text": "A pathway that begins in the cerebellar cortex of the lateral zone of the cerebellar hemisphere and then passes to the dentate nucleus, next to the ventrolateral and ventroanterior nuclei of the thalamus, and, finally, to the cerebral cortex."
+    },
+    {
+     "page": 684,
+     "text": "This pathway plays an important role in helping coordinate sequential motor activities initiated by the cerebral cortex."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_cortex_unit": {
+   "heading": "Functional Unit of the Cerebellar Cortex",
+   "chapter": 56,
+   "found": true,
+   "page_start": 684,
+   "page_end": 685,
+   "sentences": [
+    {
+     "page": 684,
+     "text": "This functional unit centers on a single, very large Purkinje cell and on a corresponding deep nuclear cell."
+    },
+    {
+     "page": 684,
+     "text": "Beneath these cortical layers, in the center of the cerebellar mass, are the deep cerebellar nuclei that send output signals to other parts of the nervous system."
+    },
+    {
+     "page": 684,
+     "text": "The output from the func tional unit is from a deep nuclear cell."
+    },
+    {
+     "page": 684,
+     "text": "This cell is continu ally under both excitatory and inhibitory influences."
+    },
+    {
+     "page": 684,
+     "text": "The excitatory influences arise from direct connections with afferent fibers that enter the cerebellum from the brain or the periphery."
+    },
+    {
+     "page": 684,
+     "text": "The inhibitory influence arises entirely from the Purkinje cell in the cortex of the cerebellum."
+    },
+    {
+     "page": 684,
+     "text": "The afferent inputs to the cerebellum are mainly of two types, one called the climbing fiber type and the other called the mossy fiber type."
+    },
+    {
+     "page": 684,
+     "text": "The climbing fibers all originate from the inferior olives of the medulla."
+    },
+    {
+     "page": 684,
+     "text": "There is one climbing fiber for about 5 to 10 Purkinje cells."
+    },
+    {
+     "page": 684,
+     "text": "After sending branches to several deep nuclear cells, the climbing fiber continues all the way to the outer layers of the cerebellar cortex, where it makes about 300 synapses with the soma and dendrites of each Purkinje cell."
+    },
+    {
+     "page": 684,
+     "text": "This climbing fiber is distinguished by the fact that a single impulse in it will always cause a single, pro longed (up to 1 second), peculiar type of action potential in each Purkinje cell with which it connects, beginning with a strong spike and followed by a trail of weakening secondary spikes."
+    },
+    {
+     "page": 684,
+     "text": "This action potential is called the complex spike."
+    },
+    {
+     "page": 684,
+     "text": "The mossy fibers are all the other fibers that enter the cerebellum from multiple sources: from the higher brain, brain stem, and spinal cord."
+    },
+    {
+     "page": 684,
+     "text": "These fibers also send collat erals to excite the deep nuclear cells."
+    },
+    {
+     "page": 684,
+     "text": "Then they proceed to the granule cell layer of the cortex, where they, too, syn apse with hundreds to thousands of granule cells."
+    },
+    {
+     "page": 684,
+     "text": "In turn, the granule cells send extremely small axons, less than 1 micrometer in diameter, up to the molecular layer on the outer surface of the cerebellar cortex."
+    },
+    {
+     "page": 684,
+     "text": "Here the axons divide into two branches that extend 1 to 2 millimeters in each direction parallel to the folia."
+    },
+    {
+     "page": 684,
+     "text": "There are many mil lions of these parallel nerve fibers because there are some 500 to 1000 granule cells for every 1 Purkinje cell."
+    },
+    {
+     "page": 684,
+     "text": "To the right is shown the physical relationship of the deep cerebellar nuclei to the cerebellar cortex with its three layers."
+    },
+    {
+     "page": 685,
+     "text": "The mossy fiber input to the Purkinje cell is quite different from the climbing fiber input because the syn aptic connections are weak, so large numbers of mossy fibers must be stimulated simultaneously to excite the Purkinje cell."
+    },
+    {
+     "page": 685,
+     "text": "Furthermore, activation usually takes the form of a much weaker short duration Purkinje cell action potential called a simple spike, rather than the prolonged complex action potential caused by climbing fiber input."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_firing": {
+   "heading": "Purkinje Cells and Deep Nuclear Cells Fire Continuously",
+   "chapter": 56,
+   "found": true,
+   "page_start": 685,
+   "page_end": 685,
+   "sentences": [
+    {
+     "page": 685,
+     "text": "One characteristic of both Purkinje cells and deep nuclear cells is that normally both of them fire continuously; the Purkinje cell fires at about 50 to 100 action potentials per second, and the deep nuclear cells at much higher rates."
+    },
+    {
+     "page": 685,
+     "text": "Furthermore, the out put activity of both these cells can be modulated upward or downward."
+    },
+    {
+     "page": 685,
+     "text": "By contrast, signals arriving from the Purkinje cells inhibit them."
+    },
+    {
+     "page": 685,
+     "text": "Normally, the balance between these two effects is slightly in favor of excitation so that under quiet conditions, output from the deep nuclear cell remains relatively constant at a moderate level of continu ous stimulation."
+    },
+    {
+     "page": 685,
+     "text": "In execution of a rapid motor movement, the initiat ing signal from the cerebral motor cortex or brain stem at first greatly increases deep nuclear cell excitation."
+    },
+    {
+     "page": 685,
+     "text": "Then, another few milliseconds later, feedback inhibitory sig nals from the Purkinje cell circuit arrive."
+    },
+    {
+     "page": 685,
+     "text": "In this way, there is first a rapid excitatory signal sent by the deep nuclear cells into the motor output pathway to enhance the motor movement, but this is followed within another small frac tion of a second by an inhibitory signal."
+    },
+    {
+     "page": 685,
+     "text": "This inhibitory signal resembles a “delayline” negative feedback signal of the type that is effective in providing damping."
+    },
+    {
+     "page": 685,
+     "text": "That is, when the motor system is excited, a negative feedback signal occurs after a short delay to stop the muscle move ment from overshooting its mark."
+    },
+    {
+     "page": 685,
+     "text": "Otherwise, oscillation of the movement would occur."
+    },
+    {
+     "page": 685,
+     "text": "In addition to the deep nuclear cells, granule cells, and Purkinje cells, two other types of neurons are located in the cerebellum: basket cells and stellate cells."
+    },
+    {
+     "page": 685,
+     "text": "These are inhibitory cells with short axons."
+    },
+    {
+     "page": 685,
+     "text": "Both the basket cells and the stellate cells are located in the molecular layer of the cerebellar cortex, lying among and stimulated by the small parallel fibers."
+    },
+    {
+     "page": 685,
+     "text": "These cells in turn send their axons at right angles across the parallel fibers and cause lateral inhibition of adjacent Purkinje cells, thus sharpening the signal in the same man ner that lateral inhibition sharpens contrast of signals in many other neuronal circuits of the nervous system."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_output": {
+   "heading": "Output Signals from the Cerebellum",
+   "chapter": 56,
+   "found": true,
+   "page_start": 685,
+   "page_end": 686,
+   "sentences": [
+    {
+     "page": 685,
+     "text": "The typical function of the cerebellum is to help provide rapid turnon signals for the agonist muscles and simulta neous reciprocal turnoff signals for the antagonist mus cles at the onset of a movement."
+    },
+    {
+     "page": 685,
+     "text": "Then on approaching termination of the movement, the cerebellum is mainly responsible for timing and executing the turnoff signals to the agonists and turnon signals to the antagonists."
+    },
+    {
+     "page": 685,
+     "text": "Let us suppose that the turnon/turnoff pattern of agonist/antagonist contraction at the onset of move ment begins with signals from the cerebral cortex."
+    },
+    {
+     "page": 685,
+     "text": "These signals pass through noncerebellar brain stem and cord pathways directly to the agonist muscle to begin the initial contraction."
+    },
+    {
+     "page": 685,
+     "text": "At the same time, parallel signals are sent by way of the pontile mossy fibers into the cerebellum."
+    },
+    {
+     "page": 685,
+     "text": "One branch of each mossy fiber goes directly to deep nuclear cells in the dentate or other deep cerebellar nuclei; this instantly sends an excitatory signal back into the cerebral corticospinal motor system, either by way of return signals through the thalamus to the cerebral cortex or by way of neuronal cir cuitry in the brain stem, to support the muscle contraction signal that had already been begun by the cerebral cortex."
+    },
+    {
+     "page": 685,
+     "text": "As a consequence, the turnon signal, after a few millisec onds, becomes even more powerful than it was at the start because it becomes the sum of both the cortical and the cerebellar signals."
+    },
+    {
+     "page": 685,
+     "text": "This is the normal effect when the cer ebellum is intact, but in the absence of the cerebellum, the secondary extra supportive signal is missing."
+    },
+    {
+     "page": 685,
+     "text": "This cerebel lar support makes the turnon muscle contraction much stronger than it would be if the cerebellum did not exist."
+    },
+    {
+     "page": 685,
+     "text": "Now, what causes the turnoff signal for the agonist muscles at the termination of the movement?"
+    },
+    {
+     "page": 685,
+     "text": "Remember that all mossy fibers have a second branch that transmits signals by way of the granule cells to the cerebellar cortex and eventually, by way of “parallel” fibers, to the Purkinje cells."
+    },
+    {
+     "page": 685,
+     "text": "The Purkinje cells in turn inhibit the deep nuclear cells."
+    },
+    {
+     "page": 685,
+     "text": "This pathway passes through some of the smallest, slowestconducting nerve fibers in the nervous system: that is, the parallel fibers of the cerebellar cortical molec ular layer, which have diameters of only a fraction of a millimeter."
+    },
+    {
+     "page": 685,
+     "text": "Also, the signals from these fibers are weak, so they require a finite period of time to build up enough excitation in the dendrites of the Purkinje cell to excite it."
+    },
+    {
+     "page": 685,
+     "text": "But once the Purkinje cell is excited, it in turn sends a strong inhibitory signal to the same deep nuclear cell that had originally turned on the movement."
+    },
+    {
+     "page": 685,
+     "text": "Therefore, this helps to turn off the movement after a short time."
+    },
+    {
+     "page": 685,
+     "text": "Thus, one can see how the complete cerebellar circuit could cause a rapid turnon agonist muscle contraction at the beginning of a movement and yet cause also a precisely timed turnoff of the same agonist contraction after a given time period."
+    },
+    {
+     "page": 686,
+     "text": "Now let us speculate on the circuit for the antagonist muscles."
+    },
+    {
+     "page": 686,
+     "text": "Most important, remember that throughout the spinal cord there are reciprocal agonist/antagonist circuits for virtually every movement that the cord can initiate."
+    },
+    {
+     "page": 686,
+     "text": "Therefore, these circuits are part of the basis for antago nist turnoff at the onset of movement and then turnon at termination of movement, mirroring whatever occurs in the agonist muscles."
+    },
+    {
+     "page": 686,
+     "text": "But we must remember, too, that the cerebellum contains several other types of inhibitory cells besides Purkinje cells."
+    },
+    {
+     "page": 686,
+     "text": "The functions of some of these are still to be determined; they, too, could play roles in the initial inhibition of the antagonist muscles at onset of a movement and subsequent excitation at the end of a movement."
+    },
+    {
+     "page": 686,
+     "text": "All these mechanisms are still partly speculation."
+    },
+    {
+     "page": 686,
+     "text": "They are presented here especially to illustrate ways by which the cerebellum could cause exaggerated turnon and turn off signals, controlling the agonist and antagonist muscles, as well as the timing."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_learn": {
+   "heading": "The Purkinje Cells “Learn” to Correct Motor Errors",
+   "chapter": 56,
+   "found": true,
+   "page_start": 686,
+   "page_end": 686,
+   "sentences": [
+    {
+     "page": 686,
+     "text": "Role of the Climbing Fibers The degree to which the cerebellum supports onset and offset of muscle contractions, as well as timing of con tractions, must be learned by the cerebellum."
+    },
+    {
+     "page": 686,
+     "text": "Typically, when a person first performs a new motor act, the degree of motor enhancement by the cerebellum at the onset of contraction, the degree or inhibition at the end of con traction, and the timing of these are almost always incor rect for precise performance of the movement."
+    },
+    {
+     "page": 686,
+     "text": "But after the act has been performed many times, the individual events become progressively more precise, sometimes requiring only a few movements before the desired result is achieved, but at other times requiring hundreds of movements."
+    },
+    {
+     "page": 686,
+     "text": "How do these adjustments come about?"
+    },
+    {
+     "page": 686,
+     "text": "The exact answer is not known, although it is known that sensitivity levels of cerebellar circuits themselves progressively adapt during the training process, especially the sensitivity of the Purkinje cells to respond to the granule cell excitation."
+    },
+    {
+     "page": 686,
+     "text": "Furthermore, this sensitivity change is brought about by signals from the climbing fibers entering the cerebellum from the inferior olivary complex."
+    },
+    {
+     "page": 686,
+     "text": "Under resting conditions, the climbing fibers fire about once per second."
+    },
+    {
+     "page": 686,
+     "text": "But they cause extreme depolarization of the entire dendritic tree of the Purkinje cell, lasting for up to a second, each time they fire."
+    },
+    {
+     "page": 686,
+     "text": "During this time, the Purkinje cell fires with one initial strong output spike fol lowed by a series of diminishing spikes."
+    },
+    {
+     "page": 686,
+     "text": "When a person performs a new movement for the first time, feedback sig nals from the muscle and joint proprioceptors will usually denote to the cerebellum how much the actual movement fails to match the intended movement."
+    },
+    {
+     "page": 686,
+     "text": "And the climb ing fiber signals in some way alter long term sensitivity of the Purkinje cells."
+    },
+    {
+     "page": 686,
+     "text": "Over a period of time, this change in sensitivity, along with other possible “learning” func tions of the cerebellum, is believed to make the timing and other aspects of cerebellar control of movements approach perfection."
+    },
+    {
+     "page": 686,
+     "text": "When this has been achieved, the climbing fibers no longer need to send “error” signals to the cerebellum to cause further change."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_overall": {
+   "heading": "Function of the Cerebellum in Overall",
+   "chapter": 56,
+   "found": true,
+   "page_start": 686,
+   "page_end": 686,
+   "sentences": [
+    {
+     "page": 686,
+     "text": "The nervous system uses the cerebellum to coordinate motor control functions at three levels, as follows: 1."
+    },
+    {
+     "page": 686,
+     "text": "This consists principally of the small flocculonodular cerebellar lobes that lie under the posterior cerebellum and adjacent portions of the vermis."
+    },
+    {
+     "page": 686,
+     "text": "It provides neural circuits for most of the body’s equilibrium movements."
+    },
+    {
+     "page": 686,
+     "text": "This consists of most of the ver mis of the posterior and anterior cerebellum plus the adjacent intermediate zones on both sides of the ver mis."
+    },
+    {
+     "page": 686,
+     "text": "It provides the circuitry for coordinating mainly movements of the distal portions of the limbs, espe cially the hands and fingers."
+    },
+    {
+     "page": 686,
+     "text": "This consists of the large lat eral zones of the cerebellar hemispheres, lateral to the intermediate zones."
+    },
+    {
+     "page": 686,
+     "text": "It receives virtually all its input from the cerebral motor cortex and adjacent premo tor and somatosensory cortices of the cerebrum."
+    },
+    {
+     "page": 686,
+     "text": "It transmits its output information in the upward direc tion back to the brain, functioning in a feedback man ner with the cerebral cortical sensorimotor system to plan sequential voluntary body and limb move ments, planning these as much as tenths of a second in advance of the actual movements."
+    },
+    {
+     "page": 686,
+     "text": "This is called development of “motor imagery” of movements to be performed."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_vestibulocerebellum": {
+   "heading": "Vestibulocerebellum Functions in Association",
+   "chapter": 56,
+   "found": true,
+   "page_start": 686,
+   "page_end": 687,
+   "sentences": [
+    {
+     "page": 686,
+     "text": "Furthermore, as discussed in Chapter 55, loss of the flocculonodular lobes and adjacent portions of the vermis of the cerebellum, which consti tute the vestibulocerebellum, causes extreme disturbance of equilibrium and postural movements."
+    },
+    {
+     "page": 686,
+     "text": "We still must ask the question, what role does the ves tibulocerebellum play in equilibrium that cannot be pro vided by other neuronal machinery of the brain stem?"
+    },
+    {
+     "page": 686,
+     "text": "A clue is the fact that in people with vestibulocerebel lar dysfunction, equilibrium is far more disturbed during performance of rapid motions than during stasis, espe cially when these movements involve changes in direction of movement and stimulate the semicircular ducts."
+    },
+    {
+     "page": 686,
+     "text": "This suggests that the vestibulocerebellum is important in controlling balance between agonist and antagonist muscle contractions of the spine, hips, and shoulders during rapid changes in body positions as required by the vestibular apparatus."
+    },
+    {
+     "page": 687,
+     "text": "One of the major problems in controlling balance is the amount of time required to transmit position signals and velocity of movement signals from the different parts of the body to the brain."
+    },
+    {
+     "page": 687,
+     "text": "Even when the most rapidly con ducting sensory pathways are used, up to 120 m/sec in the spinocerebellar afferent tracts, the delay for transmission from the feet to the brain is still 15 to 20 milliseconds."
+    },
+    {
+     "page": 687,
+     "text": "The feet of a person running rapidly can move as much as 10 inches during that time."
+    },
+    {
+     "page": 687,
+     "text": "Therefore, it is never possible for return signals from the peripheral parts of the body to reach the brain at the same time that the movements actually occur."
+    },
+    {
+     "page": 687,
+     "text": "How, then, is it possible for the brain to know when to stop a movement and to perform the next sequential act when the movements are performed rap idly?"
+    },
+    {
+     "page": 687,
+     "text": "The answer is that the signals from the periphery tell the brain how rapidly and in which directions the body parts are moving."
+    },
+    {
+     "page": 687,
+     "text": "It is then the function of the vestibulo cerebellum to calculate in advance from these rates and directions where the different parts will be during the next few milliseconds."
+    },
+    {
+     "page": 687,
+     "text": "The results of these calculations are the key to the brain’s progression to the next sequen tial movement."
+    },
+    {
+     "page": 687,
+     "text": "Thus, during control of equilibrium, it is presumed that information from both the body periphery and the vestibular apparatus is used in a typical feedback con trol circuit to provide anticipatory correction of postural motor signals necessary for maintaining equilibrium even during extremely rapid motion, including rapidly chang ing directions of motion."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_spinocerebellum": {
+   "heading": "Movements by Way of the Intermediate Cerebellar",
+   "chapter": 56,
+   "found": true,
+   "page_start": 687,
+   "page_end": 688,
+   "sentences": [
+    {
+     "page": 687,
+     "text": "After the intermediate zone of the cerebellum has compared the intended movements with the actual move ments, the deep nuclear cells of the interposed nucleus send corrective output signals (1) back to the cerebral motor cortex through relay nuclei in the thalamus and (2) to the magnocellular portion (the lower portion) of the red nucleus that gives rise to the rubrospinal tract."
+    },
+    {
+     "page": 687,
+     "text": "The rubrospinal tract in turn joins the corticospinal tract in innervating the lateral most motor neurons in the ante rior horns of the spinal cord gray matter, the neurons that control the distal parts of the limbs, particularly the hands and fingers."
+    },
+    {
+     "page": 687,
+     "text": "This part of the cerebellar motor control system pro vides smooth, coordinate movements of the agonist and antagonist muscles of the distal limbs for performing acute purposeful patterned movements."
+    },
+    {
+     "page": 687,
+     "text": "The cerebellum seems to compare the “intentions” of the higher levels of the motor control system, as transmitted to the interme diate cerebellar zone through the corticopontocerebellar tract, with the “performance” by the respective parts of the body, as transmitted back to the cerebellum from the periphery."
+    },
+    {
+     "page": 687,
+     "text": "In fact, the ventral spinocerebellar tract even transmits back to the cerebellum an “efference” copy of the actual motor control signals that reach the anterior motor neurons, and this is also integrated with the sig nals arriving from the muscle spindles and other pro prioceptor sensory organs, transmitted principally in the also go to the inferior olivary complex; if the signals do not compare favorably, the olivaryPurkinje cell system along with possibly other cerebellar learning mechanisms eventually corrects the motions until they perform the desired function."
+    },
+    {
+     "page": 687,
+     "text": "Because of momentum, all pendular move ments have a tendency to overshoot."
+    },
+    {
+     "page": 687,
+     "text": "If overshooting does occur in a person whose cerebellum has been destroyed, the conscious centers of the cerebrum eventually recog nize this and initiate a movement in the reverse direc tion attempting to bring the arm to its intended position."
+    },
+    {
+     "page": 688,
+     "text": "Thus, the arm oscillates back and forth past its intended point for several cycles before it finally fixes on its mark."
+    },
+    {
+     "page": 688,
+     "text": "This effect is called an action tremor, or intention tremor."
+    },
+    {
+     "page": 688,
+     "text": "But, if the cerebellum is intact, appropriate learned, subconscious signals stop the movement precisely at the intended point, thereby preventing the overshoot and the tremor."
+    },
+    {
+     "page": 688,
+     "text": "This is the basic characteristic of a damping system."
+    },
+    {
+     "page": 688,
+     "text": "All control systems regulating pendular elements that have inertia must have damping circuits built into the mechanisms."
+    },
+    {
+     "page": 688,
+     "text": "For motor control by the nervous system, the cerebellum provides most of this damping function."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_overshoot": {
+   "heading": "Function of the Cerebellum to Prevent Overshoot",
+   "chapter": 56,
+   "found": true,
+   "page_start": 687,
+   "page_end": 688,
+   "sentences": [
+    {
+     "page": 687,
+     "text": "Almost all movements of the body are “pendular.” For instance, when an arm is moved, momentum develops, and the momentum must be overcome before the movement can be stopped."
+    },
+    {
+     "page": 687,
+     "text": "Because of momentum, all pendular move ments have a tendency to overshoot."
+    },
+    {
+     "page": 687,
+     "text": "If overshooting does occur in a person whose cerebellum has been destroyed, the conscious centers of the cerebrum eventually recog nize this and initiate a movement in the reverse direc tion attempting to bring the arm to its intended position."
+    },
+    {
+     "page": 688,
+     "text": "Thus, the arm oscillates back and forth past its intended point for several cycles before it finally fixes on its mark."
+    },
+    {
+     "page": 688,
+     "text": "This effect is called an action tremor, or intention tremor."
+    },
+    {
+     "page": 688,
+     "text": "But, if the cerebellum is intact, appropriate learned, subconscious signals stop the movement precisely at the intended point, thereby preventing the overshoot and the tremor."
+    },
+    {
+     "page": 688,
+     "text": "This is the basic characteristic of a damping system."
+    },
+    {
+     "page": 688,
+     "text": "All control systems regulating pendular elements that have inertia must have damping circuits built into the mechanisms."
+    },
+    {
+     "page": 688,
+     "text": "For motor control by the nervous system, the cerebellum provides most of this damping function."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_cerebrocerebellum": {
+   "heading": "Cerebrocerebellum—Function of the Large Lateral",
+   "chapter": 56,
+   "found": true,
+   "page_start": 688,
+   "page_end": 688,
+   "sentences": [
+    {
+     "page": 688,
+     "text": "In human beings, the lateral zones of the two cerebellar hemispheres are highly developed and greatly enlarged."
+    },
+    {
+     "page": 688,
+     "text": "This goes along with human abilities to plan and per form intricate sequential patterns of movement, espe cially with the hands and fingers, and to speak."
+    },
+    {
+     "page": 688,
+     "text": "Yet the large lateral zones of the cerebellar hemispheres have no direct input of information from the peripheral parts of the body."
+    },
+    {
+     "page": 688,
+     "text": "Also, almost all communication between these lateral cerebellar areas and the cerebral cortex is not with the primary cerebral motor cortex itself but instead with the premotor area and primary and association somatosensory areas."
+    },
+    {
+     "page": 688,
+     "text": "Even so, destruction of the lateral zones of the cerebel lar hemispheres along with their deep nuclei, the dentate nuclei, can lead to extreme incoordination of complex purposeful movements of the hands, fingers, and feet and of the speech apparatus."
+    },
+    {
+     "page": 688,
+     "text": "This has been difficult to under stand because of lack of direct communication between this part of the cerebellum and the primary motor cor tex."
+    },
+    {
+     "page": 688,
+     "text": "However, experimental studies suggest that these portions of the cerebellum are concerned with two other important but indirect aspects of motor control: (1) the planning of sequential movements and (2) the “timing” of the sequential movements."
+    },
+    {
+     "page": 688,
+     "text": "The planning of sequential movements requires that the lateral zones of the hemispheres communicate with both the premo tor and the sensory portions of the cerebral cortex, and it requires two way communication between these cere bral cortex areas with corresponding areas of the basal ganglia."
+    },
+    {
+     "page": 688,
+     "text": "It seems that the “plan” of sequential movements actually begins in the sensory and premotor areas of the cerebral cortex, and from there the plan is transmitted to the lateral zones of the cerebellar hemispheres."
+    },
+    {
+     "page": 688,
+     "text": "Then, amid much two way traffic between cerebellum and cere bral cortex, appropriate motor signals provide transition from one sequence of movements to the next."
+    },
+    {
+     "page": 688,
+     "text": "An interesting observation that supports this view is that many neurons in the cerebellar dentate nuclei display the activity pattern for the sequential movement that is yet to come while the present movement is still occurring."
+    },
+    {
+     "page": 688,
+     "text": "Thus, the lateral cerebellar zones appear to be involved not with what movement is happening at a given moment but with what will be happening during the next sequential movement a fraction of a second or perhaps even seconds later."
+    },
+    {
+     "page": 688,
+     "text": "To summarize, one of the most important features of normal motor function is one’s ability to progress smoothly from one movement to the next in orderly suc cession."
+    },
+    {
+     "page": 688,
+     "text": "In the absence of the large lateral zones of the cer ebellar hemispheres, this capability is seriously disturbed for rapid movements."
+    },
+    {
+     "page": 688,
+     "text": "Another important function of the lateral zones of the cerebellar hemispheres is to provide appropriate timing for each succeeding movement."
+    },
+    {
+     "page": 688,
+     "text": "In the absence of these cerebellar zones, one loses the sub conscious ability to predict how far the different parts of the body will move in a given time."
+    },
+    {
+     "page": 688,
+     "text": "Without this timing capability, the person becomes unable to determine when the next sequential movement needs to begin."
+    },
+    {
+     "page": 688,
+     "text": "As a result, the succeeding movement may begin too early or, more likely, too late."
+    },
+    {
+     "page": 688,
+     "text": "Therefore, lesions in the lateral zones of the cerebellum cause complex movements (such as those required for writing, running, or even talking) to become incoordinate and lacking ability to progress in orderly sequence from one movement to the next."
+    },
+    {
+     "page": 688,
+     "text": "Such cerebellar lesions are said to cause failure of smooth progression of movements."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_clinical": {
+   "heading": "Clinical Abnormalities of the Cerebellum",
+   "chapter": 56,
+   "found": true,
+   "page_start": 689,
+   "page_end": 689,
+   "sentences": [
+    {
+     "page": 689,
+     "text": "Destruction of small portions of the lateral cerebellar cortex seldom causes detectable abnormalities in motor function."
+    },
+    {
+     "page": 689,
+     "text": "In fact, several months after as much as one half of the lateral cerebellar cortex on one side of the brain has been removed, if the deep cerebellar nuclei are not removed along with the cortex, the motor functions of the animal appear to be almost normal as long as the animal performs all movements slowly."
+    },
+    {
+     "page": 689,
+     "text": "Thus, the remaining portions of the motor control system are capable of compensating tremendously for loss of parts of the cerebellum."
+    },
+    {
+     "page": 689,
+     "text": "To cause serious and continuing dysfunction of the cer ebellum, the cerebellar lesion usually must involve one or more of the deep cerebellar nuclei—the dentate, interposed, or fastigial nuclei."
+    },
+    {
+     "page": 689,
+     "text": "Two of the most important symptoms of cerebellar disease are dysmetria and ataxia."
+    },
+    {
+     "page": 689,
+     "text": "In the absence of the cerebellum, the subconscious motor control system cannot predict how far movements will go."
+    },
+    {
+     "page": 689,
+     "text": "Therefore, the movements ordinarily overshoot their intended mark; then the conscious portion of the brain overcompensates in the opposite direction for the suc ceeding compensatory movement."
+    },
+    {
+     "page": 689,
+     "text": "This effect is called dysmetria, and it results in uncoordinated movements that are called ataxia."
+    },
+    {
+     "page": 689,
+     "text": "Dysmetria and ataxia can also result from lesions in the spinocerebellar tracts because feed back information from the moving parts of the body to the cerebellum is essential for cerebellar timing of movement termination."
+    },
+    {
+     "page": 689,
+     "text": "Past pointing means that in the absence of the cerebellum, a person ordinarily moves the hand or some other moving part of the body considerably beyond the point of intention."
+    },
+    {
+     "page": 689,
+     "text": "This results from the fact that normally the cer ebellum initiates most of the motor signal that turns off a movement after it is begun; if the cerebellum is not available to do this, the movement ordinarily goes beyond the intended mark."
+    },
+    {
+     "page": 689,
+     "text": "Therefore, past pointing is actually a manifestation of dysmetria."
+    },
+    {
+     "page": 689,
+     "text": "As a result, the succeeding movement may begin much too early or much too late, so no orderly “progression of movement” can occur."
+    },
+    {
+     "page": 689,
+     "text": "One can demonstrate this readily by having a patient with cerebellar damage turn one hand upward and downward at a rapid rate."
+    },
+    {
+     "page": 689,
+     "text": "The patient rapidly “loses” all perception of the instantaneous position of the hand during any portion of the movement."
+    },
+    {
+     "page": 689,
+     "text": "As a result, a series of stalled attempted but jumbled movements occurs instead of the normal coordinate upward and downward motions."
+    },
+    {
+     "page": 689,
+     "text": "This is called dysdiadochokinesia."
+    },
+    {
+     "page": 689,
+     "text": "Another example in which failure of progression occurs is in talking because the formation of words depends on rapid and orderly succession of individual muscle movements in the larynx, mouth, and respiratory system."
+    },
+    {
+     "page": 689,
+     "text": "Lack of coordination among these and inability to adjust in advance either the intensity of sound or duration of each successive sound causes jumbled vocalization, with some syllables loud, some weak, some held for long intervals, some held for short intervals, and resultant speech that is often unintelligible."
+    },
+    {
+     "page": 689,
+     "text": "This is called dysarthria."
+    },
+    {
+     "page": 689,
+     "text": "When a person who has lost the cer ebellum performs a voluntary act, the movements tend to oscillate, especially when they approach the intended mark, first overshooting the mark and then vibrating back and forth several times before settling on the mark."
+    },
+    {
+     "page": 689,
+     "text": "This reaction is called an intention tremor or an action tremor, and it results from cerebellar overshooting and failure of the cerebellar system to “damp” the motor movements."
+    },
+    {
+     "page": 689,
+     "text": "Cerebellar nystagmus is tremor of the eyeballs that occurs usually when one attempts to fixate the eyes on a scene to one side of the head."
+    },
+    {
+     "page": 689,
+     "text": "This offcenter type of fixation results in rapid, tremulous movements of the eyes rather than steady fixa tion, and it is another manifestation of failure of damping by the cerebellum."
+    },
+    {
+     "page": 689,
+     "text": "It occurs especially when the flocculonodu lar lobes of the cerebellum are damaged; in this instance it is also associated with loss of equilibrium because of dysfunc tion of the pathways through the flocculonodular cerebellum from the semicircular ducts."
+    },
+    {
+     "page": 689,
+     "text": "Loss of the deep cerebellar nuclei, particularly of the dentate and interposed nuclei, causes decreased tone of the peripheral body musculature on the side of the cerebellar lesion."
+    },
+    {
+     "page": 689,
+     "text": "The hypotonia results from loss of cerebellar facilitation of the motor cortex and brain stem motor nuclei by tonic signals from the deep cerebellar nuclei."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_bg_intro": {
+   "heading": "Basal Ganglia—Their Motor Functions",
+   "chapter": 56,
+   "found": true,
+   "page_start": 689,
+   "page_end": 690,
+   "sentences": [
+    {
+     "page": 689,
+     "text": "The basal ganglia, like the cerebellum, constitute another accessory motor system that functions usually not by itself but in close association with the cerebral cortex and cor ticospinal motor control system."
+    },
+    {
+     "page": 689,
+     "text": "In fact, the basal ganglia receive most of their input signals from the cerebral cor tex itself and also return almost all their output signals back to the cortex."
+    },
+    {
+     "page": 690,
+     "text": "Figure 56 9 shows the anatomical relations of the basal ganglia to other structures of the brain."
+    },
+    {
+     "page": 690,
+     "text": "On each side of the brain, these ganglia consist of the caudate nucleus, putamen, globus pallidus, substantia nigra, and subthalamic nucleus."
+    },
+    {
+     "page": 690,
+     "text": "They are located mainly lateral to and surround ing the thalamus, occupying a large portion of the interior regions of both cerebral hemispheres."
+    },
+    {
+     "page": 690,
+     "text": "Note also that almost all motor and sensory nerve fibers connecting the cere bral cortex and spinal cord pass through the space that lies between the major masses of the basal ganglia, the caudate nucleus and the putamen."
+    },
+    {
+     "page": 690,
+     "text": "This space is called the internal capsule of the brain."
+    },
+    {
+     "page": 690,
+     "text": "It is important for our current discus sion because of the intimate association between the basal ganglia and the corticospinal system for motor control."
+    },
+    {
+     "page": 690,
+     "text": "To the left is shown the motor cortex, thalamus, and associated brain stem and cerebellar circuitry."
+    },
+    {
+     "page": 690,
+     "text": "To the right is the major circuitry of the basal ganglia system, showing the tremendous inter connections among the basal ganglia themselves plus extensive input and output pathways between the other motor regions of the brain and the basal ganglia."
+    },
+    {
+     "page": 690,
+     "text": "In the next few sections we concentrate especially on two major circuits, the putamen circuit and the caudate circuit."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_putamen": {
+   "heading": "Function of the Basal Ganglia in Executing",
+   "chapter": 56,
+   "found": true,
+   "page_start": 690,
+   "page_end": 690,
+   "sentences": [
+    {
+     "page": 690,
+     "text": "Patterns of Motor Activity—the Putamen Circuit One of the principal roles of the basal ganglia in motor control is to function in association with the corticospi nal system to control complex patterns of motor activity."
+    },
+    {
+     "page": 690,
+     "text": "An example is the writing of letters of the alphabet."
+    },
+    {
+     "page": 690,
+     "text": "When there is serious damage to the basal ganglia, the cortical system of motor control can no longer provide these pat terns."
+    },
+    {
+     "page": 690,
+     "text": "Instead, one’s writing becomes crude, as if one were learning for the first time how to write."
+    },
+    {
+     "page": 690,
+     "text": "Other patterns that require the basal ganglia are cut ting paper with scissors, hammering nails, shooting a basketball through a hoop, passing a football, throwing a baseball, the movements of shoveling dirt, most aspects of vocalization, controlled movements of the eyes, and vir tually any other of our skilled movements, most of them performed subconsciously."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_caudate": {
+   "heading": "Role of the Basal Ganglia for Cognitive Control",
+   "chapter": 56,
+   "found": true,
+   "page_start": 691,
+   "page_end": 692,
+   "sentences": [
+    {
+     "page": 691,
+     "text": "Sequences of Motor Patterns—the Caudate Circuit The term cognition means the thinking processes of the brain, using both sensory input to the brain plus infor mation already stored in memory."
+    },
+    {
+     "page": 691,
+     "text": "Most of our motor actions occur as a consequence of thoughts generated in the mind, a process called cognitive control of motor activity."
+    },
+    {
+     "page": 691,
+     "text": "The caudate nucleus plays a major role in this cogni tive control of motor activity."
+    },
+    {
+     "page": 691,
+     "text": "Furthermore, the cau date nucleus receives large amounts of its input from the association areas of the cerebral cortex overlying the cau date nucleus, mainly areas that also integrate the differ ent types of sensory and motor information into usable thought patterns."
+    },
+    {
+     "page": 692,
+     "text": "Instead, the returning signals go to those accessory motor regions in the premotor and supplementary motor areas that are concerned with putting together sequential patterns of movement lasting 5 or more seconds instead of exciting individual muscle movements."
+    },
+    {
+     "page": 692,
+     "text": "A good example of this would be a person seeing a lion approach and then responding instantaneously and auto matically by (1) turning away from the lion, (2) beginning to run, and (3) even attempting to climb a tree."
+    },
+    {
+     "page": 692,
+     "text": "Without the cognitive functions, the person might not have the instinctive knowledge, without thinking for too long a time, to respond quickly and appropriately."
+    },
+    {
+     "page": 692,
+     "text": "Thus, cogni tive control of motor activity determines subconsciously, and within seconds, which patterns of movement will be used together to achieve a complex goal that might itself last for many seconds."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_gain": {
+   "heading": "Function of the Basal Ganglia to Change the",
+   "chapter": 56,
+   "found": true,
+   "page_start": 692,
+   "page_end": 692,
+   "sentences": [
+    {
+     "page": 692,
+     "text": "Timing and to Scale the Intensity of Movements Two important capabilities of the brain in controlling movement are (1) to determine how rapidly the move ment is to be performed and (2) to control how large the movement will be."
+    },
+    {
+     "page": 692,
+     "text": "For instance, a person may write the letter “a” slowly or rapidly."
+    },
+    {
+     "page": 692,
+     "text": "Also, he or she may write a small “a” on a piece of paper or a large “a” on a chalkboard."
+    },
+    {
+     "page": 692,
+     "text": "Regardless of the choice, the proportional characteristics of the letter remain nearly the same."
+    },
+    {
+     "page": 692,
+     "text": "In patients with severe lesions of the basal ganglia, these timing and scaling functions are poor; in fact, some times they are nonexistent."
+    },
+    {
+     "page": 692,
+     "text": "Here again, the basal ganglia do not function alone; they function in close association with the cerebral cortex."
+    },
+    {
+     "page": 692,
+     "text": "One especially important corti cal area is the posterior parietal cortex, which is the locus of the spatial coordinates for motor control of all parts of the body, as well as for the relation of the body and its parts to all its surroundings."
+    },
+    {
+     "page": 692,
+     "text": "Damage to this area does not produce simple deficits of sensory perception, such as loss of tactile sensation, blindness, or deafness."
+    },
+    {
+     "page": 692,
+     "text": "Instead, lesions of the posterior parietal cortex produce an inabil ity to accurately perceive objects through normally func tioning sensory mechanisms, a condition called agnosia."
+    },
+    {
+     "page": 692,
+     "text": "Figure 561 3 shows the way in which a person with a lesion in the right posterior parietal cortex might try to copy drawings."
+    },
+    {
+     "page": 692,
+     "text": "In these cases, the patient’s ability to copy the left side of the drawings is severely impaired."
+    },
+    {
+     "page": 692,
+     "text": "Also, such a person will always try to avoid using his or her left arm, left hand, or other portions of his or her left body for the performance of tasks, or even wash this side of the body (personal neglect syndrome), almost not knowing that these parts of his or her body exist."
+    },
+    {
+     "page": 692,
+     "text": "Because the caudate circuit of the basal ganglial system functions mainly with association areas of the cerebral cortex such as the posterior parietal cortex, presumably the timing and scaling of movements are functions of this caudate cognitive motor control circuit."
+    },
+    {
+     "page": 692,
+     "text": "However, our understanding of function in the basal ganglia is still so imprecise that much of what is conjectured in the last few sections is analytical deduction rather than proven fact."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_nt": {
+   "heading": "Functions of Specific Neurotransmitter",
+   "chapter": 56,
+   "found": true,
+   "page_start": 692,
+   "page_end": 693,
+   "sentences": [
+    {
+     "page": 692,
+     "text": "Note that the person’s ability to copy the left side of the drawings is severely impaired."
+    },
+    {
+     "page": 693,
+     "text": "In addition to all these are multiple glutamate pathways that provide most of the excitatory sig nals (not shown in the figure) that balance out the large numbers of inhibitory signals transmitted especially by the dopamine, GABA, and serotonin inhibitory transmitters."
+    },
+    {
+     "page": 693,
+     "text": "We have more to say about some of these neurotransmit ter and hormonal systems in subsequent sections when we discuss diseases of the basal ganglia, as well as in subse quent chapters when we discuss behavior, sleep, wakeful ness, and functions of the autonomic nervous system."
+    },
+    {
+     "page": 693,
+     "text": "For the present, it should be remembered that the neu rotransmitter GABA always functions as an inhibitory agent."
+    },
+    {
+     "page": 693,
+     "text": "Therefore, GABA neurons in the feedback loops from the cortex through the basal ganglia and then back to the cortex make virtually all these loops negative feedback loops, rather than positive feedback loops, thus lend ing stability to the motor control systems."
+    },
+    {
+     "page": 693,
+     "text": "Dopamine also functions as an inhibitory neurotransmitter in most parts of the brain, so it also functions as a stabilizer under some conditions."
+    },
+    {
+     "page": 693,
+     "text": "Aside from athetosis and hemiballismus, which have already been mentioned in relation to lesions in the globus pallidus and subthalamus, two other major diseases result from dam age in the basal ganglia."
+    },
+    {
+     "page": 693,
+     "text": "These are Parkinson’s disease and Huntington’s disease."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_parkinson": {
+   "heading": "Parkinson’s Disease",
+   "chapter": 56,
+   "found": true,
+   "page_start": 693,
+   "page_end": 693,
+   "sentences": [
+    {
+     "page": 693,
+     "text": "Parkinson’s disease, known also as paralysis agitans, results from widespread destruction of that portion of the substan tia nigra (the pars compacta) that sends dopamine secreting nerve fibers to the caudate nucleus and putamen."
+    },
+    {
+     "page": 693,
+     "text": "The disease is characterized by (1) rigidity of much of the musculature of the body; (2) involuntary tremor of the involved areas even when the person is resting at a fixed rate of three to six cycles per second; and (3) serious difficulty in initiating movement, called akinesia; (4) postural instability caused by impaired postural reflexes, leading to poor balance and falls; and (5) other motor symptoms including dysphagia (impaired ability to swallow), speech disorders, gait disturbances, and fatigue."
+    },
+    {
+     "page": 693,
+     "text": "The causes of these abnormal motor effects are unknown."
+    },
+    {
+     "page": 693,
+     "text": "However, the dopamine secreted in the caudate nucleus and putamen is an inhibitory transmitter; therefore, destruction of the dopaminergic neurons in the substantia nigra of the parkinsonian patient theoretically would allow the caudate nucleus and putamen to become overly active and possibly cause continuous output of excitatory signals to the corti cospinal motor control system."
+    },
+    {
+     "page": 693,
+     "text": "These signals could overly excite many or all of the muscles of the body, thus leading to rigidity."
+    },
+    {
+     "page": 693,
+     "text": "Some of the feedback circuits might easily oscillate because of high feedback gains after loss of their inhibition, leading to the tremor of Parkinson’s disease."
+    },
+    {
+     "page": 693,
+     "text": "This tremor is quite different from that of cerebellar disease because it occurs during all waking hours and therefore is an involuntary tremor, in contradistinction to cerebellar tremor, which occurs only when the person performs intentionally initiated movements and therefore is called intention tremor."
+    },
+    {
+     "page": 693,
+     "text": "The akinesia that occurs in Parkinson’s disease is often much more distressing to the patient than are the symptoms of muscle rigidity and tremor, because to perform even the simplest movement in severe parkinsonism, the person must exert the highest degree of concentration."
+    },
+    {
+     "page": 693,
+     "text": "The mental effort, even mental anguish, that is necessary to make the desired movements is often at the limit of the patient’s willpower."
+    },
+    {
+     "page": 693,
+     "text": "Then, when the movements do occur, they are usually stiff and staccato in character instead of smooth."
+    },
+    {
+     "page": 693,
+     "text": "The cause of this akinesia is still speculative."
+    },
+    {
+     "page": 693,
+     "text": "However, dopamine secre tion in the limbic system, especially in the nucleus accumbens, is often decreased along with its decrease in the basal ganglia."
+    },
+    {
+     "page": 693,
+     "text": "It has been suggested that this might reduce the psy chic drive for motor activity so greatly that akinesia results."
+    },
+    {
+     "page": 693,
+     "text": "Administration of the drug l-dopa to patients with Parkinson’s disease usually amelio rates many of the symptoms, especially the rigidity and aki nesia."
+    },
+    {
+     "page": 693,
+     "text": "The reason for this is believed to be that ldopa is converted in the brain into dopamine, and the dopamine then restores the normal balance between inhibition and excita tion in the caudate nucleus and putamen."
+    },
+    {
+     "page": 693,
+     "text": "Administration of dopamine itself does not have the same effect because dop amine has a chemical structure that will not allow it to pass through the bloodbrain barrier, even though the slightly dif ferent structure of ldopa does allow it to pass."
+    },
+    {
+     "page": 693,
+     "text": "Another treatment for Parkinson’s disease is the drug ldeprenyl."
+    },
+    {
+     "page": 693,
+     "text": "This drug inhibits monoamine oxidase, which is responsible for destruction of most of the dopamine after it has been secreted."
+    },
+    {
+     "page": 693,
+     "text": "Therefore, any dopamine that is released remains in the basal ganglial tissues for a longer time."
+    },
+    {
+     "page": 693,
+     "text": "In addition, for reasons not under stood, this treatment helps to slow destruction of the dop amine secreting neurons in the substantia nigra."
+    },
+    {
+     "page": 693,
+     "text": "Therefore, appropriate combinations of ldopa therapy along with ldeprenyl therapy usually provide much better treatment than use of one of these drugs alone."
+    },
+    {
+     "page": 693,
+     "text": "However, the cells do not live for more than a few months."
+    },
+    {
+     "page": 693,
+     "text": "If persistence could be achieved, perhaps this would become the treatment of the future."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s9_bg_summary": {
+   "heading": "Associated Functions of the Basal Ganglia",
+   "chapter": 56,
+   "found": true,
+   "page_start": 694,
+   "page_end": 695,
+   "sentences": [
+    {
+     "page": 694,
+     "text": "Their most important functions are (1) to help the cortex execute subconscious but learned patterns of movement and (2) to help plan multiple parallel and sequential patterns of movement that the mind must put together to accom plish a purposeful task."
+    },
+    {
+     "page": 695,
+     "text": "The types of motor patterns that require the basal ganglia include those for writing all the different letters of the alphabet, for throwing a ball, and for typing."
+    },
+    {
+     "page": 695,
+     "text": "Also, the basal ganglia are required to modify these patterns for writing small or writing very large, thus controlling dimensions of the patterns."
+    },
+    {
+     "page": 695,
+     "text": "At a still higher level of control is another combined cerebral and basal ganglia circuit, beginning in the think ing processes of the cerebrum to provide overall sequen tial steps of action for responding to each new situation, such as planning one’s immediate motor response to an assailant who hits the person in the face or one’s sequen tial response to an unexpectedly fond embrace."
+    },
+    {
+     "page": 695,
+     "text": "What is it that arouses us from inactivity and sets into play our trains of movement?"
+    },
+    {
+     "page": 695,
+     "text": "We are beginning to learn about the motivational systems of the brain."
+    },
+    {
+     "page": 695,
+     "text": "Basically, the brain has an older core located beneath, anterior, and lateral to the thalamus—including the hypothalamus, amygdala, hip pocampus, septal region anterior to the hypothalamus and thalamus, and even old regions of the thalamus and cerebral cortex themselves—all of which function together to initi ate most motor and other functional activities of the brain."
+    },
+    {
+     "page": 695,
+     "text": "These areas are collectively called the limbic system of the brain."
+    },
+    {
+     "page": 695,
+     "text": "We discuss this system in detail in Chapter 58."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}
