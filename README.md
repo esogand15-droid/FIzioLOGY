@@ -22,6 +22,7 @@
 - نسخهٔ اولیه جلسهٔ ۱ با نام **`HumsYar_Neuro_Special_Senses_Master.pdf`** هم دست‌نخورده نگه داشته شده است.
 - وضعیت دقیق کار: **`PROJECT_STATUS.md`**
 - گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**، **`reports/S02_QA_REPORT.md`**، **`reports/S03_QA_REPORT.md`**، **`reports/S04_QA_REPORT.md`**، **`reports/S05_QA_REPORT.md`**، **`reports/S06_QA_REPORT.md`**، **`reports/S07_QA_REPORT.md`**، **`reports/S08_QA_REPORT.md`**، **`reports/S09_QA_REPORT.md`**، **`reports/S10_QA_REPORT.md`**، **`reports/S11_QA_REPORT.md`**، **`reports/S12_QA_REPORT.md`**، **`reports/S13_QA_REPORT.md`**، **`reports/S14_QA_REPORT.md`**
+- بررسی پوشش در برابر فهرست رسمی جلسات (مقایسهٔ ۱۴ سند تحویل‌شده با ۱۵ عنوان رسمی، شکاف‌ها و چیدمان پیشنهادی ادامه): **`reports/AUDIT_OFFICIAL_PLAN.md`**
 - فهرست دارایی‌ها و منابع: **`INVENTORY.md`**
 
 ## ساخت دوبارهٔ PDF
