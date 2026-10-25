@@ -1,0 +1,1222 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "s6_tympanic": {
+   "heading": "Tympanic Membrane and the Ossicular System",
+   "chapter": 52,
+   "found": true,
+   "page_start": 633,
+   "page_end": 633,
+   "sentences": [
+    {
+     "page": 633,
+     "text": "Attached to the tympanic membrane is the handle of the malleus."
+    },
+    {
+     "page": 633,
+     "text": "The malleus is bound to the incus by minute ligaments, so whenever the malleus moves, the incus moves with it."
+    },
+    {
+     "page": 633,
+     "text": "The opposite end of the incus articulates with the stem of the stapes, and the faceplate of the stapes lies against the membranous labyrinth of the cochlea in the opening of the oval window."
+    },
+    {
+     "page": 633,
+     "text": "The tip end of the handle of the malleus is attached to the center of the tympanic membrane, and this point of attachment is constantly pulled by the tensor tympani muscle, which keeps the tympanic membrane tensed."
+    },
+    {
+     "page": 633,
+     "text": "This allows sound vibrations on any portion of the tympanic membrane to be transmitted to the ossicles, which would not be true if the membrane were lax."
+    },
+    {
+     "page": 633,
+     "text": "The ossicles of the middle ear are suspended by ligaments in such a way that the combined malleus and incus act as a single lever, having its fulcrum approximately at the border of the tympanic membrane."
+    },
+    {
+     "page": 633,
+     "text": "The articulation of the incus with the stapes causes the stapes to push forward on the oval window and on the cochlear fluid on the other side of window every time the tympanic membrane moves inward, and to pull backward on the fluid every time the malleus moves outward."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_impedance": {
+   "heading": "“Impedance Matching” by the Ossicular System",
+   "chapter": 52,
+   "found": true,
+   "page_start": 633,
+   "page_end": 633,
+   "sentences": [
+    {
+     "page": 633,
+     "text": "The amplitude of movement of the stapes faceplate with each sound vibration is only three fourths as much as the amplitude of the handle of the malleus."
+    },
+    {
+     "page": 633,
+     "text": "Therefore, the ossicular lever system does not increase the movement distance of the stapes, as is commonly believed."
+    },
+    {
+     "page": 633,
+     "text": "Instead, the system actually reduces the distance but increases the force of movement about 1.3 times."
+    },
+    {
+     "page": 633,
+     "text": "In addition, the surface area of the tympanic membrane is about 55 square millimeters, whereas the surface area of the stapes averages 3.2 square millimeters."
+    },
+    {
+     "page": 633,
+     "text": "This 17-fold difference times the 1.3-fold ratio of the lever system causes about 22 times as much total force to be exerted on the fluid of the cochlea as is exerted by the sound waves against the tympanic membrane."
+    },
+    {
+     "page": 633,
+     "text": "Because fluid has far greater inertia than air does, increased amounts of force are necessary to cause vibration in the fluid."
+    },
+    {
+     "page": 633,
+     "text": "Therefore, the tympanic membrane and ossicular system provide impedance matching between the sound waves in air and the sound vibrations in the fluid of the cochlea."
+    },
+    {
+     "page": 633,
+     "text": "Indeed, the impedance matching is about 50 to 75 percent of perfect for sound frequencies between 300 and 3000 cycles per second, which allows utilization of most of the energy in the incoming sound waves."
+    },
+    {
+     "page": 633,
+     "text": "In the absence of the ossicular system and tympanic membrane, sound waves can still travel directly through the air of the middle ear and enter the cochlea at the oval window."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_attenuation": {
+   "heading": "Attenuation of Sound by Contraction of the Tensor",
+   "chapter": 52,
+   "found": true,
+   "page_start": 634,
+   "page_end": 634,
+   "sentences": [
+    {
+     "page": 634,
+     "text": "When loud sounds are transmitted through the ossicular system and from there into the central nervous system, a reflex occurs after a latent period of only 40 to 80 milliseconds to cause contraction of the stapedius muscle and, to a lesser extent, the tensor tympani muscle."
+    },
+    {
+     "page": 634,
+     "text": "The tensor tympani muscle pulls the handle of the malleus inward while the stapedius muscle pulls the stapes outward."
+    },
+    {
+     "page": 634,
+     "text": "These two forces oppose each other and thereby cause the entire ossicular system to develop increased rigidity, thus greatly reducing the ossicular conduction of low-frequency sound, mainly frequencies below 1000 cycles per second."
+    },
+    {
+     "page": 634,
+     "text": "This attenuation reflex can reduce the intensity of lower-frequency sound transmission by 30 to 40 decibels, which is about the same difference as that between a loud voice and a whisper."
+    },
+    {
+     "page": 634,
+     "text": "The function of this mechanism is believed to be twofold: 1."
+    },
+    {
+     "page": 634,
+     "text": "To protect the cochlea from damaging vibrations caused by excessively loud sound."
+    },
+    {
+     "page": 634,
+     "text": "To mask low-frequency sounds in loud environments."
+    },
+    {
+     "page": 634,
+     "text": "This usually removes a major share of the background noise and allows a person to concentrate on sounds above 1000 cycles per second, where most of the pertinent information in voice communication is transmitted."
+    },
+    {
+     "page": 634,
+     "text": "Another function of the tensor tympani and stapedius muscles is to decrease a person’s hearing sensitivity to his or her own speech."
+    },
+    {
+     "page": 634,
+     "text": "This effect is activated by collateral nerve signals transmitted to these muscles at the same time that the brain activates the voice mechanism."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_bone_conduction": {
+   "heading": "Transmission of Sound Through Bone",
+   "chapter": 52,
+   "found": true,
+   "page_start": 634,
+   "page_end": 634,
+   "sentences": [
+    {
+     "page": 634,
+     "text": "Because the inner ear, the cochlea, is embedded in a bony cavity in the temporal bone, called the bony labyrinth, vibrations of the entire skull can cause fluid vibrations in the cochlea itself."
+    },
+    {
+     "page": 634,
+     "text": "Therefore, under appropriate conditions, a tuning fork or an electronic vibrator placed on any bony protuberance of the skull, but especially on the mastoid process near the ear, causes the person to hear the sound."
+    },
+    {
+     "page": 634,
+     "text": "However, the energy available even in loud sound in the air is not sufficient to cause hearing via bone conduction unless a special electromechanical soundamplifying device is applied to the bone."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_cochlea": {
+   "heading": "Cochlea",
+   "chapter": 52,
+   "found": true,
+   "page_start": 634,
+   "page_end": 635,
+   "sentences": [
+    {
+     "page": 634,
+     "text": "The tensor tympani muscle pulls the handle of the malleus inward while the stapedius muscle pulls the stapes outward."
+    },
+    {
+     "page": 634,
+     "text": "These two forces oppose each other and thereby cause the entire ossicular system to develop increased rigidity, thus greatly reducing the ossicular conduction of low-frequency sound, mainly frequencies below 1000 cycles per second."
+    },
+    {
+     "page": 634,
+     "text": "This attenuation reflex can reduce the intensity of lower-frequency sound transmission by 30 to 40 decibels, which is about the same difference as that between a loud voice and a whisper."
+    },
+    {
+     "page": 634,
+     "text": "The function of this mechanism is believed to be twofold: 1."
+    },
+    {
+     "page": 634,
+     "text": "To protect the cochlea from damaging vibrations caused by excessively loud sound."
+    },
+    {
+     "page": 634,
+     "text": "To mask low-frequency sounds in loud environments."
+    },
+    {
+     "page": 634,
+     "text": "This usually removes a major share of the background noise and allows a person to concentrate on sounds above 1000 cycles per second, where most of the pertinent information in voice communication is transmitted."
+    },
+    {
+     "page": 634,
+     "text": "Another function of the tensor tympani and stapedius muscles is to decrease a person’s hearing sensitivity to his or her own speech."
+    },
+    {
+     "page": 634,
+     "text": "This effect is activated by collateral nerve signals transmitted to these muscles at the same time that the brain activates the voice mechanism."
+    },
+    {
+     "page": 634,
+     "text": "Because the inner ear, the cochlea, is embedded in a bony cavity in the temporal bone, called the bony labyrinth, vibrations of the entire skull can cause fluid vibrations in the cochlea itself."
+    },
+    {
+     "page": 634,
+     "text": "Therefore, under appropriate conditions, a tuning fork or an electronic vibrator placed on any bony protuberance of the skull, but especially on the mastoid process near the ear, causes the person to hear the sound."
+    },
+    {
+     "page": 634,
+     "text": "However, the energy available even in loud sound in the air is not sufficient to cause hearing via bone conduction unless a special electromechanical soundamplifying device is applied to the bone."
+    },
+    {
+     "page": 634,
+     "text": "It consists of three tubes coiled side by side: (1) the scala vestibuli, (2) the scala media, and (3) the scala tympani."
+    },
+    {
+     "page": 634,
+     "text": "The scala vestibuli and scala media are separated from each of the cochlea."
+    },
+    {
+     "page": 635,
+     "text": "On the surface of the basilar membrane lies the organ of Corti, which contains a series of electromechanically sensitive cells, the hair cells."
+    },
+    {
+     "page": 635,
+     "text": "They are the receptive end organs that generate nerve impulses in response to sound vibrations."
+    },
+    {
+     "page": 635,
+     "text": "Figure 52-4 diagrams the functional parts of the uncoiled cochlea for conduction of sound vibrations."
+    },
+    {
+     "page": 635,
+     "text": "First, note that Reissner’s membrane is missing from this figure."
+    },
+    {
+     "page": 635,
+     "text": "This membrane is so thin and so easily moved that it does not obstruct the passage of sound vibrations from the scala vestibuli into the scala media."
+    },
+    {
+     "page": 635,
+     "text": "Therefore, as far as fluid conduction of sound is concerned, the scala vestibuli and scala media are considered to be a single chamber."
+    },
+    {
+     "page": 635,
+     "text": "(The importance of Reissner’s membrane is to maintain a special kind of fluid in the scala media that is required for normal function of the sound-receptive hair cells, as discussed later in the chapter.) Sound vibrations enter the scala vestibuli from the faceplate of the stapes at the oval window."
+    },
+    {
+     "page": 635,
+     "text": "The faceplate covers this window and is connected with the window’s edges by a loose annular ligament so that it can move inward and outward with the sound vibrations."
+    },
+    {
+     "page": 635,
+     "text": "Inward movement causes the fluid to move forward in the scala vestibuli and scala media, and outward movement causes the fluid to move backward."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_basilar_resonance": {
+   "heading": "Basilar Membrane and Resonance in the Cochlea",
+   "chapter": 52,
+   "found": true,
+   "page_start": 635,
+   "page_end": 635,
+   "sentences": [
+    {
+     "page": 635,
+     "text": "The basilar membrane is a fibrous membrane that separates the scala media from the scala tympani."
+    },
+    {
+     "page": 635,
+     "text": "It contains 20,000 to 30,000 basilar fibers that project from the bony center of the cochlea, the modiolus, toward the outer wall."
+    },
+    {
+     "page": 635,
+     "text": "These fibers are stiff, elastic, reedlike structures that are fixed at their basal ends in the central bony structure of the cochlea (the modiolus) but are not fixed at their distal ends, except that the distal ends are embedded in the loose basilar membrane."
+    },
+    {
+     "page": 635,
+     "text": "Because the fibers are stiff and free at one end, they can vibrate like the reeds of a harmonica."
+    },
+    {
+     "page": 635,
+     "text": "The lengths of the basilar fibers increase progressively beginning at the oval window and going from the base of the cochlea to the apex, increasing from a length of about 0.04 millimeter near the oval and round windows to 0.5 millimeter at the tip of the cochlea (the “helicotrema”), a 12-fold increase in length."
+    },
+    {
+     "page": 635,
+     "text": "The diameters of the fibers, however, decrease from the oval window to the helicotrema, so their overall stiffness decreases more than 100-fold."
+    },
+    {
+     "page": 635,
+     "text": "As a result, the stiff, short fibers near the oval window of the cochlea vibrate best at a very high frequency, whereas the long, limber fibers near the tip of the cochlea vibrate best at a low frequency."
+    },
+    {
+     "page": 635,
+     "text": "Thus, high-frequency resonance of the basilar membrane occurs near the base, where the sound waves enter the cochlea through the oval window."
+    },
+    {
+     "page": 635,
+     "text": "But low-frequency resonance occurs near the helicotrema, mainly because of the less stiff fibers but also because of increased “loading” with extra masses of fluid that must vibrate along the cochlear tubules."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_traveling_wave": {
+   "heading": "Transmission of Sound Waves",
+   "chapter": 52,
+   "found": true,
+   "page_start": 635,
+   "page_end": 635,
+   "sentences": [
+    {
+     "page": 635,
+     "text": "The initial effect of a sound wave entering at the oval window is to cause the basilar membrane at the base of the cochlea to bend in the direction of the round window."
+    },
+    {
+     "page": 635,
+     "text": "Movement of the wave along the basilar membrane is comparable to the movement of a pressure wave along the arterial walls, which is discussed in Chapter 15; it is also comparable to a wave that travels along the surface of a pond."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_wave_pattern": {
+   "heading": "Pattern of Vibration of the Basilar Membrane",
+   "chapter": 52,
+   "found": true,
+   "page_start": 635,
+   "page_end": 636,
+   "sentences": [
+    {
+     "page": 635,
+     "text": "Figure 52-5 “Traveling waves” along the basilar membrane for high-, medium-, and low-frequency sounds."
+    },
+    {
+     "page": 636,
+     "text": "At this point, the basilar membrane can vibrate back and forth with such ease that the energy in the wave is dissipated."
+    },
+    {
+     "page": 636,
+     "text": "Consequently, the wave dies at this point and fails to travel the remaining distance along the basilar membrane."
+    },
+    {
+     "page": 636,
+     "text": "Thus, a high-frequency sound wave travels only a short distance along the basilar membrane before it reaches its resonant point and dies, a medium-frequency sound wave travels about halfway and then dies, and a very low frequency sound wave travels the entire distance along the membrane."
+    },
+    {
+     "page": 636,
+     "text": "Another feature of the traveling wave is that it travels fast along the initial portion of the basilar membrane but becomes progressively slower as it goes farther into the cochlea."
+    },
+    {
+     "page": 636,
+     "text": "The cause of this is the high coefficient of elasticity of the basilar fibers near the oval window and a progressively decreasing coefficient farther along the membrane."
+    },
+    {
+     "page": 636,
+     "text": "This rapid initial transmission of the wave allows the high-frequency sounds to travel far enough into the cochlea to spread out and separate from one another on the basilar membrane."
+    },
+    {
+     "page": 636,
+     "text": "Without this, all the high-frequency waves would be bunched together within the first millimeter or so of the basilar membrane, and their frequencies could not be discriminated from one another."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_amplitude_pattern": {
+   "heading": "Amplitude Pattern of Vibration of the Basilar",
+   "chapter": 52,
+   "found": true,
+   "page_start": 636,
+   "page_end": 636,
+   "sentences": [
+    {
+     "page": 636,
+     "text": "The shaded area around these different waves shows the extent of vibration of the basilar membrane during a complete vibratory cycle."
+    },
+    {
+     "page": 636,
+     "text": "This is the amplitude pattern of vibration of the basilar membrane for this particular sound frequency."
+    },
+    {
+     "page": 636,
+     "text": "Figure 52-6B shows the amplitude patterns of vibration for different frequencies, demonstrating that the maximum amplitude for sound at 8000 cycles per second occurs near the base of the cochlea, whereas that for frequencies less than 200 cycles per second is all the way at the tip of the basilar membrane near the helicotrema, where the scala vestibuli opens into the scala tympani."
+    },
+    {
+     "page": 636,
+     "text": "The principal method by which sound frequencies are discriminated from one another is based on the “place” of maximum stimulation of the nerve fibers from the organ of Corti lying on the basilar membrane, as explained in the next section."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_organ_corti": {
+   "heading": "Function of the Organ of Corti",
+   "chapter": 52,
+   "found": true,
+   "page_start": 636,
+   "page_end": 636,
+   "sentences": [
+    {
+     "page": 636,
+     "text": "The organ of Corti, shown in Figures 52-3, and 52-7, is the receptor organ that generates nerve impulses in response to vibration of the basilar membrane."
+    },
+    {
+     "page": 636,
+     "text": "Note that the organ of Corti lies on the surface of the basilar fibers and basilar membrane."
+    },
+    {
+     "page": 636,
+     "text": "The actual sensory receptors in the organ of Corti are two specialized types of nerve cells called hair cells—a single row of internal (or “inner”) hair cells, numbering about 3500 and measuring about 12 micrometers in diameter, and three or four rows of external (or “outer”) hair cells, numbering about 12,000 and having diameters of only about 8 micrometers."
+    },
+    {
+     "page": 636,
+     "text": "The bases and sides of the hair cells synapse with a network of cochlea nerve endings."
+    },
+    {
+     "page": 636,
+     "text": "Between 90 and 95 percent of these endings terminate on the inner hair cells, which emphasizes their special importance for the detection of sound."
+    },
+    {
+     "page": 636,
+     "text": "The nerve fibers stimulated by the hair cells lead to the spiral ganglion of Corti, which lies in the modiolus (center) of the cochlea."
+    },
+    {
+     "page": 636,
+     "text": "B, Amplitude patterns for sounds of frequencies between 200 and 8000 cycles per second, showing the points of maximum amplitude on the basilar membrane for the different frequencies."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_hair_excitation": {
+   "heading": "Excitation of the Hair Cells",
+   "chapter": 52,
+   "found": true,
+   "page_start": 637,
+   "page_end": 637,
+   "sentences": [
+    {
+     "page": 637,
+     "text": "These hair cells are similar to the hair cells found in the macula and cristae ampullaris of the vestibular apparatus, which are discussed in Chapter 55."
+    },
+    {
+     "page": 637,
+     "text": "Bending of the hairs in one direction depolarizes the hair cells, and bending in the opposite direction hyperpolarizes them."
+    },
+    {
+     "page": 637,
+     "text": "This in turn excites the auditory nerve fibers synapsing with their bases."
+    },
+    {
+     "page": 637,
+     "text": "Figure 52-8 shows the mechanism by which vibration of the basilar membrane excites the hair endings."
+    },
+    {
+     "page": 637,
+     "text": "The outer ends of the hair cells are fixed tightly in a rigid structure composed of a flat plate, called the reticular lamina, supported by triangular rods of Corti, which are attached tightly to the basilar fibers."
+    },
+    {
+     "page": 637,
+     "text": "The basilar fibers, the rods of Corti, and the reticular lamina move as a rigid unit."
+    },
+    {
+     "page": 637,
+     "text": "Upward movement of the basilar fiber rocks the reticular lamina upward and inward toward the modiolus."
+    },
+    {
+     "page": 637,
+     "text": "Then, when the basilar membrane moves downward, the reticular lamina rocks downward and outward."
+    },
+    {
+     "page": 637,
+     "text": "The inward and outward motion causes the hairs on the hair cells to shear back and forth against the tectorial membrane."
+    },
+    {
+     "page": 637,
+     "text": "Thus, the hair cells are excited whenever the basilar membrane vibrates."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_outer_hair_cells": {
+   "heading": "Auditory Signals Are Transmitted Mainly by the",
+   "chapter": 52,
+   "found": true,
+   "page_start": 637,
+   "page_end": 637,
+   "sentences": [
+    {
+     "page": 637,
+     "text": "Even though there are three to four times as many outer hair cells as inner hair cells, about 90 percent of the auditory nerve fibers are stimulated by the inner cells rather than by the outer cells."
+    },
+    {
+     "page": 637,
+     "text": "Yet, despite this, if the outer cells are damaged while the inner cells remain fully functional, a large amount of hearing loss occurs."
+    },
+    {
+     "page": 637,
+     "text": "Therefore, it has been proposed that the outer hair cells in some way control the sensitivity of the inner hair cells at different sound pitches, a phenomenon called “tuning” of the receptor system."
+    },
+    {
+     "page": 637,
+     "text": "In support of this concept, a large number of retrograde nerve fibers pass from the brain stem to the vicinity of the outer hair cells."
+    },
+    {
+     "page": 637,
+     "text": "Stimulating these nerve fibers can actually cause shortening of the outer hair cells and possibly also change their degree of stiffness."
+    },
+    {
+     "page": 637,
+     "text": "These effects suggest a retrograde nervous mechanism for control of the ear’s sensitivity to different sound pitches, activated through the outer hair cells."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_hair_potential": {
+   "heading": "Hair Cell Receptor Potentials and Excitation of",
+   "chapter": 52,
+   "found": true,
+   "page_start": 637,
+   "page_end": 638,
+   "sentences": [
+    {
+     "page": 637,
+     "text": "The stereocilia (the “hairs” protruding from the ends of the hair cells) are stiff structures because each has a rigid protein framework."
+    },
+    {
+     "page": 637,
+     "text": "Each hair cell has about 100 stereocilia on its apical border."
+    },
+    {
+     "page": 637,
+     "text": "These become progressively longer on the side of the hair cell away from the modiolus, and the tops of the shorter stereocilia are attached by thin filaments to the back sides of their adjacent longer stereocilia."
+    },
+    {
+     "page": 637,
+     "text": "Therefore, whenever the cilia are bent in the direction of the longer ones, the tips of the smaller stereocilia are tugged outward from the surface of the hair cell."
+    },
+    {
+     "page": 637,
+     "text": "This causes a mechanical transduction that opens 200 to 300 cation-conducting channels, allowing rapid movement of positively charged potassium ions from the surrounding scala media fluid into the stereocilia, which causes depolarization of the hair cell membrane."
+    },
+    {
+     "page": 637,
+     "text": "Thus, when the basilar fibers bend toward the scala vestibuli, the hair cells depolarize, and in the opposite direction they hyperpolarize, thereby generating an alternating hair cell receptor potential."
+    },
+    {
+     "page": 637,
+     "text": "This, in turn, stimulates the cochlear nerve endings that synapse with the bases of the hair cells."
+    },
+    {
+     "page": 637,
+     "text": "It is believed that a rapidly acting neurotransmitter is released by the hair cells at these synapses during depolarization."
+    },
+    {
+     "page": 637,
+     "text": "It is possible that the transmitter substance is glutamate, but this is not certain."
+    },
+    {
+     "page": 637,
+     "text": "To explain even more fully the electrical potentials generated by the hair cells, we need to explain another electrical phenomenon called the endocochlear potential: The scala media is filled with a fluid called endolymph, in contradistinction to the perilymph present in the scala vestibuli and scala tympani."
+    },
+    {
+     "page": 637,
+     "text": "The scala vestibuli and scala tympani communicate directly with the subarachnoid space around the brain, so the perilymph is almost identical to cerebrospinal fluid."
+    },
+    {
+     "page": 637,
+     "text": "Conversely, the endolymph that fills the scala media is an entirely different fluid secreted by the stria vascularis, a highly vascular area on the outer wall of the scala media."
+    },
+    {
+     "page": 637,
+     "text": "Endolymph contains a high concentration of potassium and a low concentration of sodium, which is exactly opposite to the contents of perilymph."
+    },
+    {
+     "page": 637,
+     "text": "An electrical potential of about +80 millivolts exists all the time between endolymph and perilymph, with positivity inside the scala media and negativity outside."
+    },
+    {
+     "page": 637,
+     "text": "This is called the endocochlear potential, and it is generated by continual secretion of positive potassium ions into the scala media by the stria vascularis."
+    },
+    {
+     "page": 637,
+     "text": "The importance of the endocochlear potential is that the tops of the hair cells project through the reticular lamina and are bathed by the endolymph of the scala media, whereas perilymph bathes the lower bodies of the hair cells."
+    },
+    {
+     "page": 638,
+     "text": "It is believed that this high electrical potential at the tips of the stereocilia sensitizes the cell an extra amount, thereby increasing its ability to respond to the slightest sound."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_place_principle": {
+   "heading": "Determination of Sound Frequency—The",
+   "chapter": 52,
+   "found": true,
+   "page_start": 638,
+   "page_end": 638,
+   "sentences": [
+    {
+     "page": 638,
+     "text": "From earlier discussions in this chapter, it is apparent that low-frequency sounds cause maximal activation of the basilar membrane near the apex of the cochlea, and highfrequency sounds activate the basilar membrane near the base of the cochlea."
+    },
+    {
+     "page": 638,
+     "text": "Intermediate-frequency sounds activate the membrane at intermediate distances between the two extremes."
+    },
+    {
+     "page": 638,
+     "text": "Furthermore, there is spatial organization of the nerve fibers in the cochlear pathway, all the way from the cochlea to the cerebral cortex."
+    },
+    {
+     "page": 638,
+     "text": "Recording of signals in the auditory tracts of the brain stem and in the auditory receptive fields of the cerebral cortex shows that specific brain neurons are activated by specific sound frequencies."
+    },
+    {
+     "page": 638,
+     "text": "Therefore, the major method used by the nervous system to detect different sound frequencies is to determine the positions along the basilar membrane that are most stimulated."
+    },
+    {
+     "page": 638,
+     "text": "This is called the place principle for the determination of sound frequency."
+    },
+    {
+     "page": 638,
+     "text": "Therefore, it has been difficult to understand from the place principle how one can differentiate between low sound frequencies in the range of 200 down to 20."
+    },
+    {
+     "page": 638,
+     "text": "These low frequencies have been postulated to be discriminated mainly by the so-called volley or frequency principle."
+    },
+    {
+     "page": 638,
+     "text": "That is, low-frequency sounds, from 20 to 1500 to 2000 cycles per second, can cause volleys of nerve impulses synchronized at the same frequencies, and these volleys are transmitted by the cochlear nerve into the cochlear nuclei of the brain."
+    },
+    {
+     "page": 638,
+     "text": "It is further suggested that the cochlear nuclei can distinguish the different frequencies of the volleys."
+    },
+    {
+     "page": 638,
+     "text": "In fact, destruction of the entire apical half of the cochlea, which destroys the basilar membrane where all lowerfrequency sounds are normally detected, does not totally eliminate discrimination of the lower-frequency sounds."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_loudness": {
+   "heading": "Determination of Loudness",
+   "chapter": 52,
+   "found": true,
+   "page_start": 638,
+   "page_end": 638,
+   "sentences": [
+    {
+     "page": 638,
+     "text": "Loudness is determined by the auditory system in at least three ways."
+    },
+    {
+     "page": 638,
+     "text": "First, as the sound becomes louder, the amplitude of vibration of the basilar membrane and hair cells also increases so that the hair cells excite the nerve endings at more rapid rates."
+    },
+    {
+     "page": 638,
+     "text": "Second, as the amplitude of vibration increases, it causes more and more of the hair cells on the fringes of the resonating portion of the basilar membrane to become stimulated, thus causing spatial summation of impulses— that is, transmission through many nerve fibers rather than through only a few."
+    },
+    {
+     "page": 638,
+     "text": "Third, the outer hair cells do not become stimulated significantly until vibration of the basilar membrane reaches high intensity, and stimulation of these cells presumably apprises the nervous system that the sound is loud."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_decibel": {
+   "heading": "Detection of Changes in Loudness—The Power",
+   "chapter": 52,
+   "found": true,
+   "page_start": 638,
+   "page_end": 638,
+   "sentences": [
+    {
+     "page": 638,
+     "text": "As pointed out in Chapter 46, a person interprets changes in intensity of sensory stimuli approximately in proportion to an inverse power function of the actual intensity."
+    },
+    {
+     "page": 638,
+     "text": "In the case of sound, the interpreted sensation changes approximately in proportion to the cube root of the actual sound intensity."
+    },
+    {
+     "page": 638,
+     "text": "To express this in another way, the ear can discriminate differences in sound intensity from the softest whisper to the loudest possible noise, representing an approximately 1 trillion times increase in sound energy or 1 million times increase in amplitude of movement of the basilar membrane."
+    },
+    {
+     "page": 638,
+     "text": "Yet the ear interprets this much difference in sound level as approximately a 10,000-fold change."
+    },
+    {
+     "page": 638,
+     "text": "Thus, the scale of intensity is greatly “compressed” by the sound perception mechanisms of the auditory system."
+    },
+    {
+     "page": 638,
+     "text": "This allows a person to interpret differences in sound intensities over a far wider range than would be possible were it not for compression of the intensity scale."
+    },
+    {
+     "page": 638,
+     "text": "Because of the extreme changes in sound intensities that the ear can detect and discriminate, sound intensities are usually expressed in terms of the logarithm of their actual intensities."
+    },
+    {
+     "page": 638,
+     "text": "A 10-fold increase in sound energy is called 1 bel, and 0.1 bel is called 1 decibel."
+    },
+    {
+     "page": 638,
+     "text": "One decibel represents an actual increase in sound energy of 1.26 times."
+    },
+    {
+     "page": 638,
+     "text": "Another reason for using the decibel system to express changes in loudness is that, in the usual sound intensity range for communication, the ears can barely distinguish an approximately 1-decibel change in sound intensity."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_threshold": {
+   "heading": "Threshold for Hearing Sound at Different Frequencies",
+   "chapter": 52,
+   "found": true,
+   "page_start": 638,
+   "page_end": 639,
+   "sentences": [
+    {
+     "page": 638,
+     "text": "Figure 52-9 shows the pressure thresholds at which sounds of different frequencies can barely be heard by the ear."
+    },
+    {
+     "page": 639,
+     "text": "Conversely, a 100-cycleper-second sound can be detected only if its intensity is 10,000 times as great as this."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_freq_range": {
+   "heading": "Frequency Range of Hearing",
+   "chapter": 52,
+   "found": true,
+   "page_start": 639,
+   "page_end": 639,
+   "sentences": [
+    {
+     "page": 639,
+     "text": "If the loudness is 60 decibels below 1 dyne/cm2 sound pressure level, the sound range is 500 to 5000 cycles per second; only with intense sounds can the complete range of 20 to 20,000 cycles be achieved."
+    },
+    {
+     "page": 639,
+     "text": "In old age, this frequency range is usually shortened to 50 to 8000 cycles per second or less, as discussed later in the chapter."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_pathways": {
+   "heading": "Central Auditory Mechanisms",
+   "chapter": 52,
+   "found": true,
+   "page_start": 639,
+   "page_end": 639,
+   "sentences": [
+    {
+     "page": 639,
+     "text": "Figure 52-10 shows the major auditory pathways."
+    },
+    {
+     "page": 639,
+     "text": "It shows that nerve fibers from the spiral ganglion of Corti enter the dorsal and ventral cochlear nuclei located in the upper part of the medulla."
+    },
+    {
+     "page": 639,
+     "text": "At this point, all the fibers synapse, and second-order neurons pass mainly to the opposite side of the brain stem to terminate in the superior olivary nucleus."
+    },
+    {
+     "page": 639,
+     "text": "A few second-order fibers also pass to the superior olivary nucleus on the same side."
+    },
+    {
+     "page": 639,
+     "text": "From the superior olivary nucleus, the auditory pathway passes upward through the lateral lemniscus."
+    },
+    {
+     "page": 639,
+     "text": "Some of the fibers terminate in the nucleus of the lateral lemniscus, but many bypass this nucleus and travel on to the inferior colliculus, where all or almost all the auditory fibers synapse."
+    },
+    {
+     "page": 639,
+     "text": "From there, the pathway passes to the medial geniculate nucleus, where all the fibers do synapse."
+    },
+    {
+     "page": 639,
+     "text": "Finally, the pathway proceeds by way of the auditory radiation to the auditory cortex, located mainly in the superior gyrus of the temporal lobe."
+    },
+    {
+     "page": 639,
+     "text": "Several important points should be noted."
+    },
+    {
+     "page": 639,
+     "text": "First, signals from both ears are transmitted through the pathways of both sides of the brain, with a preponderance of transmission in the contralateral pathway."
+    },
+    {
+     "page": 639,
+     "text": "In at least three places in the brain stem, crossing over occurs between the two pathways: (1) in the trapezoid body, (2) in the commissure between the two nuclei of the lateral lemnisci, and (3) in the commissure connecting the two inferior colliculi."
+    },
+    {
+     "page": 639,
+     "text": "Second, many collateral fibers from the auditory tracts pass directly into the reticular activating system of the brain stem."
+    },
+    {
+     "page": 639,
+     "text": "This system projects diffusely upward in the brain stem and downward into the spinal cord and activates the entire nervous system in response to loud sounds."
+    },
+    {
+     "page": 639,
+     "text": "Other collaterals go to the vermis of the cerebellum, which is also activated instantaneously in the event of a sudden noise."
+    },
+    {
+     "page": 639,
+     "text": "Third, a high degree of spatial orientation is maintained in the fiber tracts from the cochlea all the way to the cortex."
+    },
+    {
+     "page": 639,
+     "text": "In fact, there are three spatial patterns for termination of the different sound frequencies in the cochlear nuclei, two patterns in the inferior colliculi, one precise pattern for discrete sound frequencies in the auditory cortex, and at least five other less precise patterns in the auditory cortex and auditory association areas."
+    },
+    {
+     "page": 639,
+     "text": "Single nerve fibers entering the cochlear nuclei from the auditory nerve can fire at rates up to at least 1000 per second, the rate being determined mainly by the loudness of the sound."
+    },
+    {
+     "page": 639,
+     "text": "At sound frequencies up to 2000 to 4000 cycles per second, the auditory nerve impulses are often synchronized with the sound waves, but they do not necessarily occur with every wave."
+    },
+    {
+     "page": 639,
+     "text": "In the auditory tracts of the brain stem, the firing is usually no longer synchronized with the sound frequency, except at sound frequencies below 200 cycles per second."
+    },
+    {
+     "page": 639,
+     "text": "(Modified from Brodal A: level of the inferior colliculi, even this synchronization is mainly lost."
+    },
+    {
+     "page": 639,
+     "text": "These findings demonstrate that the sound signals are not transmitted unchanged directly from the ear to the higher levels of the brain; instead, information from the sound signals begins to be dissected from the impulse traffic at levels as low as the cochlear nuclei."
+    },
+    {
+     "page": 639,
+     "text": "We will have more to say about this later, especially in relation to perception of direction from which sound comes."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_cortex": {
+   "heading": "Function of the Cerebral Cortex in Hearing",
+   "chapter": 52,
+   "found": true,
+   "page_start": 640,
+   "page_end": 640,
+   "sentences": [
+    {
+     "page": 640,
+     "text": "The primary auditory cortex is directly excited by projections from the medial geniculate body, whereas the auditory association areas are excited secondarily by impulses from the primary auditory cortex, as well as by some projections from thalamic association areas adjacent to the medial geniculate body."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_cortex_freq": {
+   "heading": "Sound Frequency Perception in the Primary",
+   "chapter": 52,
+   "found": true,
+   "page_start": 640,
+   "page_end": 640,
+   "sentences": [
+    {
+     "page": 640,
+     "text": "At least six tonotopic maps have been found in the primary auditory cortex and auditory association areas."
+    },
+    {
+     "page": 640,
+     "text": "In each of these maps, high-frequency sounds excite neurons at one end of the map, whereas low-frequency sounds excite neurons at the opposite end."
+    },
+    {
+     "page": 640,
+     "text": "This is not true for all the maps."
+    },
+    {
+     "page": 640,
+     "text": "Why does the auditory cortex have so many different tonotopic maps?"
+    },
+    {
+     "page": 640,
+     "text": "The answer, presumably, is that each of the separate areas dissects out some specific feature of the sounds."
+    },
+    {
+     "page": 640,
+     "text": "For instance, one of the large maps in the primary auditory cortex almost certainly discriminates the sound frequencies themselves and gives the person the psychic sensation of sound pitches."
+    },
+    {
+     "page": 640,
+     "text": "Another map is probably used to detect the direction from which the sound comes."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_cortex_special": {
+   "heading": "Other auditory cortex areas detect special qualities",
+   "chapter": 52,
+   "found": true,
+   "page_start": 640,
+   "page_end": 640,
+   "sentences": [
+    {
+     "page": 640,
+     "text": "The frequency range to which each individual neuron in the auditory cortex responds is much narrower than that in the cochlear and brain stem relay nuclei."
+    },
+    {
+     "page": 640,
+     "text": "Yet, by the time the excitation has reached the cerebral cortex, most sound-responsive neurons respond to only a narrow range of frequencies rather than to a broad range."
+    },
+    {
+     "page": 640,
+     "text": "Therefore, somewhere along the pathway, processing mechanisms “sharpen” the frequency response."
+    },
+    {
+     "page": 640,
+     "text": "It is believed that this sharpening effect is caused mainly by the phenomenon of lateral inhibition, which is discussed in Chapter 46 in relation to mechanisms for transmitting information in nerves."
+    },
+    {
+     "page": 640,
+     "text": "That is, stimulation of the cochlea at one frequency inhibits sound frequencies on both sides of this primary frequency; this is caused by collateral fibers angling off the primary signal pathway and exerting inhibitory influences on adjacent pathways."
+    },
+    {
+     "page": 640,
+     "text": "The same effect has been demonstrated to be important in sharpening patterns of somesthetic images, visual images, and other types of sensations."
+    },
+    {
+     "page": 640,
+     "text": "Many of the neurons in the auditory cortex, especially in the auditory association cortex, do not respond only to specific sound frequencies in the ear."
+    },
+    {
+     "page": 640,
+     "text": "It is believed that these neurons “associate” different sound frequencies with one another or associate sound information with information from other sensory areas of the cortex."
+    },
+    {
+     "page": 640,
+     "text": "Indeed, the parietal portion of the auditory association cortex partly overlaps somatosensory area II, which could provide an easy opportunity for the association of auditory information with somatosensory information."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_patterns": {
+   "heading": "Discrimination of Sound",
+   "chapter": 52,
+   "found": true,
+   "page_start": 640,
+   "page_end": 641,
+   "sentences": [
+    {
+     "page": 640,
+     "text": "Complete bilateral removal of the auditory cortex does not prevent a cat or monkey from detecting sounds or reacting in a crude manner to sounds."
+    },
+    {
+     "page": 640,
+     "text": "However, it does greatly reduce or sometimes even abolish the animal’s ability to discriminate different sound pitches and especially patterns of sound."
+    },
+    {
+     "page": 641,
+     "text": "Therefore, the auditory cortex is especially important in the discrimination of tonal and sequential sound patterns."
+    },
+    {
+     "page": 641,
+     "text": "Destruction of both primary auditory cortices in the human being greatly reduces one’s sensitivity for hearing."
+    },
+    {
+     "page": 641,
+     "text": "Destruction of one side only slightly reduces hearing in the opposite ear; it does not cause deafness in the ear because of many crossover connections from side to side in the auditory neural pathway."
+    },
+    {
+     "page": 641,
+     "text": "However, it does affect one’s ability to localize the source of a sound, because comparative signals in both cortices are required for the localization function."
+    },
+    {
+     "page": 641,
+     "text": "Lesions that affect the auditory association areas but not the primary auditory cortex do not decrease a person’s ability to hear and differentiate sound tones, or even to interpret at least simple patterns of sound."
+    },
+    {
+     "page": 641,
+     "text": "However, the person is often unable to interpret the meaning of the sound heard."
+    },
+    {
+     "page": 641,
+     "text": "For instance, lesions in the posterior portion of the superior temporal gyrus, which is called Wernicke’s area and is part of the auditory association cortex, often make it impossible for a person to interpret the meanings of words even though he or she hears them perfectly well and can even repeat them."
+    },
+    {
+     "page": 641,
+     "text": "These functions of the auditory association areas and their relation to the overall intellectual functions of the brain are discussed in more detail in Chapter 57."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_direction": {
+   "heading": "Determination of the Direction",
+   "chapter": 52,
+   "found": true,
+   "page_start": 641,
+   "page_end": 641,
+   "sentences": [
+    {
+     "page": 641,
+     "text": "A person determines the horizontal direction from which sound comes by two principal means: (1) the time lag between the entry of sound into one ear and its entry into the opposite ear, and (2) the difference between the intensities of the sounds in the two ears."
+    },
+    {
+     "page": 641,
+     "text": "The first mechanism functions best at frequencies below 3000 cycles per second, and the second mechanism operates best at higher frequencies because the head is a greater sound barrier at these frequencies."
+    },
+    {
+     "page": 641,
+     "text": "The time lag mechanism discriminates direction much more exactly than the intensity mechanism because it does not depend on extraneous factors but only on the exact interval of time between two acoustical signals."
+    },
+    {
+     "page": 641,
+     "text": "If a person is looking straight toward the source of the sound, the sound reaches both ears at exactly the same instant, whereas if the right ear is closer to the sound than the left ear is, the sound signals from the right ear enter the brain ahead of those from the left ear."
+    },
+    {
+     "page": 641,
+     "text": "The two aforementioned mechanisms cannot tell whether the sound is emanating from in front of or behind the person or from above or below."
+    },
+    {
+     "page": 641,
+     "text": "This discrimination is achieved mainly by the pinnae of the two ears."
+    },
+    {
+     "page": 641,
+     "text": "The shape of the pinna changes the quality of the sound entering the ear, depending on the direction from which the sound comes."
+    },
+    {
+     "page": 641,
+     "text": "It does this by emphasizing specific sound frequencies from the different directions."
+    },
+    {
+     "page": 641,
+     "text": "Destruction of the auditory cortex on both sides of the brain, whether in human beings or in lower mammals, causes loss of almost all ability to detect the direction from which sound comes."
+    },
+    {
+     "page": 641,
+     "text": "Yet, the neural analyses for this detection process begin in the superior olivary nuclei in the brain stem, even though the neural pathways all the way from these nuclei to the cortex are required for interpretation of the signals."
+    },
+    {
+     "page": 641,
+     "text": "The mechanism is believed to be the following."
+    },
+    {
+     "page": 641,
+     "text": "The superior olivary nucleus is divided into two sections: (1) the medial superior olivary nucleus and (2) the lateral superior olivary nucleus."
+    },
+    {
+     "page": 641,
+     "text": "The lateral nucleus is concerned with detecting the direction from which the sound is coming, presumably by simply comparing the difference in intensities of the sound reaching the two ears and sending an appropriate signal to the auditory cortex to estimate the direction."
+    },
+    {
+     "page": 641,
+     "text": "The medial superior olivary nucleus, however, has a specific mechanism for detecting the time lag between acoustical signals entering the two ears."
+    },
+    {
+     "page": 641,
+     "text": "This nucleus contains large numbers of neurons that have two major dendrites, one projecting to the right and the other to the left."
+    },
+    {
+     "page": 641,
+     "text": "The acoustical signal from the right ear impinges on the right dendrite, and the signal from the left ear impinges on the left dendrite."
+    },
+    {
+     "page": 641,
+     "text": "The intensity of excitation of each neuron is highly sensitive to a specific time lag between the two acoustical signals from the two ears."
+    },
+    {
+     "page": 641,
+     "text": "The neurons near one border of the nucleus respond maximally to a short time lag, whereas those near the opposite border respond to a long time lag; those in between respond to intermediate time lags."
+    },
+    {
+     "page": 641,
+     "text": "Thus, a spatial pattern of neuronal stimulation develops in the medial superior olivary nucleus, with sound from directly in front of the head stimulating one set of olivary neurons maximally and sounds from different side angles stimulating other sets of neurons on opposite sides."
+    },
+    {
+     "page": 641,
+     "text": "This spatial orientation of signals is then transmitted to the auditory cortex, where sound direction is determined by the locus of the maximally stimulated neurons."
+    },
+    {
+     "page": 641,
+     "text": "It is believed that all these signals for determining sound direction are transmitted through a different pathway and excite a different locus in the cerebral cortex from the transmission pathway and termination locus for tonal patterns of sound."
+    },
+    {
+     "page": 641,
+     "text": "This mechanism for detection of sound direction indicates again how specific information in sensory signals is dissected out as the signals pass through different levels of neuronal activity."
+    },
+    {
+     "page": 641,
+     "text": "In this case, the “quality” of sound direction is separated from the “quality” of sound tones at the level of the superior olivary nuclei."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_centrifugal": {
+   "heading": "Centrifugal Signals from the Central Nervous System",
+   "chapter": 52,
+   "found": true,
+   "page_start": 641,
+   "page_end": 642,
+   "sentences": [
+    {
+     "page": 641,
+     "text": "Retrograde pathways have been demonstrated at each level of the auditory nervous system from the cortex to the cochlea in the ear itself."
+    },
+    {
+     "page": 641,
+     "text": "The final pathway is mainly from the superior olivary nucleus to the sound-receptor hair cells in the organ of Corti."
+    },
+    {
+     "page": 642,
+     "text": "One can readily understand how this could allow a person to direct his or her attention to sounds of particular qualities while rejecting sounds of other qualities."
+    },
+    {
+     "page": 642,
+     "text": "This is readily demonstrated when one listens to a single instrument in a symphony orchestra."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s6_abnormalities": {
+   "heading": "Hearing Abnormalities",
+   "chapter": 52,
+   "found": true,
+   "page_start": 642,
+   "page_end": 642,
+   "sentences": [
+    {
+     "page": 642,
+     "text": "Deafness is usually divided into two types: (1) that caused by impairment of the cochlea, the auditory nerve, or the central nervous system circuits from the ear, which is usually classified as “nerve deafness,” and (2) that caused by impairment of the physical structures of the ear that conduct sound itself to the cochlea, which is usually called “conduction deafness.”"
+    },
+    {
+     "page": 642,
+     "text": "If either the cochlea or the auditory nerve is destroyed, the person becomes permanently deaf."
+    },
+    {
+     "page": 642,
+     "text": "However, if the cochlea and nerve are still intact but the tympanum-ossicular system has been destroyed or ankylosed (“frozen” in place by fibrosis or calcification), sound waves can still be conducted into the cochlea by means of bone conduction from a sound generator applied to the skull over the ear."
+    },
+    {
+     "page": 642,
+     "text": "To determine the nature of hearing disabilities, the “audiometer” is used."
+    },
+    {
+     "page": 642,
+     "text": "Simply an earphone connected to an electronic oscillator capable of emitting pure tones ranging from low frequencies to high frequencies, the instrument is calibrated so that zero-intensity-level sound at each frequency is the loudness that can barely be heard by the normal ear."
+    },
+    {
+     "page": 642,
+     "text": "A calibrated volume control can increase the loudness above the zero level."
+    },
+    {
+     "page": 642,
+     "text": "If the loudness must be increased to 30 decibels above normal before it can be heard, the person is said to have a hearing loss of 30 decibels at that particular frequency."
+    },
+    {
+     "page": 642,
+     "text": "In performing a hearing test using an audiometer, one tests about 8 to 10 frequencies covering the auditory spectrum, and the hearing loss is determined for each of these frequencies."
+    },
+    {
+     "page": 642,
+     "text": "Then the so-called audiogram is plotted, as shown in Figures 52-12 and 52-13, depicting hearing loss at each of the frequencies in the auditory spectrum."
+    },
+    {
+     "page": 642,
+     "text": "The audiometer, in addition to being equipped with an earphone for testing air conduction by the ear, is equipped with a mechanical vibrator for testing bone conduction from the mastoid process of the skull into the cochlea."
+    },
+    {
+     "page": 642,
+     "text": "In nerve deafness, which includes damage to the cochlea, the auditory nerve, or the central nervous system circuits from the ear, the person has decreased or total loss of ability to hear sound as tested by both air conduction and bone conduction."
+    },
+    {
+     "page": 642,
+     "text": "In this figure, the deafness is mainly for high-frequency sound."
+    },
+    {
+     "page": 642,
+     "text": "Such deafness could be caused by damage to the base of the cochlea."
+    },
+    {
+     "page": 642,
+     "text": "This type of deafness occurs to some extent in almost all older people."
+    },
+    {
+     "page": 642,
+     "text": "Other patterns of nerve deafness frequently occur as follows: (1) deafness for low-frequency sounds caused by excessive and prolonged exposure to very loud sounds (a rock band or a jet airplane engine), because low-frequency sounds are usually louder and more damaging to the organ of Corti, and (2) deafness for all frequencies caused by drug sensitivity of the organ of Corti—in particular, sensitivity to some antibiotics such as streptomycin, kanamycin, and chloramphenicol."
+    },
+    {
+     "page": 642,
+     "text": "In either case, the sound waves cannot be transmitted easily through the ossicles from the tympanic membrane to the oval window."
+    },
+    {
+     "page": 642,
+     "text": "Figure 52-13 shows an audiogram from a person with “middle ear air conduction deafness.” In this case, bone conduction is essentially normal, but conduction through the ossicular system is greatly depressed at all frequencies, but more so at low frequencies."
+    },
+    {
+     "page": 642,
+     "text": "In some instances of conduction deafness, the faceplate of the stapes becomes “ankylosed” by bone overgrowth to the edges of the oval window."
+    },
+    {
+     "page": 642,
+     "text": "In this case, the person becomes totally deaf for ossicular conduction but can regain almost normal hearing by the surgical removal of the stapes and its replacement with a minute Teflon or metal prosthesis that transmits the sound from the incus to the oval window."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}

@@ -57,6 +57,10 @@ SESSIONS = {
                 outline="s05_topics.json",
                 content=("s05_a.json", "s05_b.json", "s05_c.json"),
                 report=REPO / "reports" / "S05_QA_REPORT.md"),
+    "s06": dict(pdf=REPO / "pdf" / "HumsYar_Neuro_Jalase6.pdf",
+                outline="s06_topics.json",
+                content=("s06_a.json", "s06_b.json", "s06_c.json"),
+                report=REPO / "reports" / "S06_QA_REPORT.md"),
 }
 
 SESSION = "s01"
@@ -122,7 +126,7 @@ def main() -> int:
     ap.add_argument("--session", default="s01", choices=sorted(SESSIONS))
     args = ap.parse_args()
     SESSION = args.session
-    SESSION_LABEL = {"s01": "۱", "s02": "۲", "s03": "۳", "s04": "۴", "s05": "۵"}.get(SESSION, SESSION)
+    SESSION_LABEL = {"s01": "۱", "s02": "۲", "s03": "۳", "s04": "۴", "s05": "۵", "s06": "۶"}.get(SESSION, SESSION)
     cfg = SESSIONS[SESSION]
     PDF, OUTLINE, REPORT = cfg["pdf"], REPO / "content" / "outline" / cfg["outline"], cfg["report"]
     CONTENT_FILES = cfg["content"]
@@ -202,6 +206,7 @@ def main() -> int:
 
     # ---------------------------------------------------------------- 5. TOC
     import build_master as B  # noqa: E402  (imported late: needs render/ on path)
+    B.SESSION = SESSION  # the imported module defaults to s01; QA must build *this* session
     pages: dict[str, int] = {}
     book = None
     for _ in range(4):
@@ -259,17 +264,22 @@ def main() -> int:
         lines.append(f"| {tid} | {len(blocks)} | {figs} | {guy} | {notes} | "
                      f"{book.heading_pages.get(tid, '—')} |")
 
+    _cov = [p for v in PAGE_MAP.values() for p in v]
+    _fa = "۰۱۲۳۴۵۶۷۸۹"
+    _d = lambda n: "".join(_fa[int(ch)] for ch in str(n))
+    cov_lo, cov_hi = (_d(min(_cov)), _d(max(_cov))) if _cov else ("۰", "۰")
     lines += [
         "",
         "## ۲. پوشش صفحات جزوهٔ ۱۴۰۴",
         "",
-        f"صفحات ۲ تا ۴۲ هدف پوشش بودند؛ صفحات بدون پوشش: **{len(uncovered)}**",
+        f"صفحات {cov_lo} تا {cov_hi} هدف پوشش بودند؛ صفحات بدون پوشش: **{len(uncovered)}**",
         "",
     ]
     if uncovered:
         lines.append("صفحات بدون پوشش: " + "، ".join(str(p) for p in uncovered))
     else:
-        lines.append("هیچ صفحهٔ بدون پوششی وجود ندارد (۲ تا ۴۲ همه به دست‌کم یک مبحث تخصیص یافته‌اند).")
+        lines.append(f"هیچ صفحهٔ بدون پوششی وجود ندارد "
+                     f"({cov_lo} تا {cov_hi} همه به دست‌کم یک مبحث تخصیص یافته‌اند).")
     per_page_counts = {p: len(v) for p, v in sorted(page_claims.items())}
     multi = {p: c for p, c in per_page_counts.items() if c > 1}
     lines += [
