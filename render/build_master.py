@@ -184,7 +184,7 @@ SESSIONS = {
         deck_desc="متن پایهٔ نیمهٔ نخست این جلسه: بازتاب‌های دهلیزی و اختلالات تعادل، ساختار و مدارهای مخچه، بخش‌های سه‌گانه و نشانه‌های ضایعهٔ آن.",
         deck_desc_p2="ادامهٔ نشانه‌های ضایعهٔ مخچه، سپس اجزای عقده‌های قاعده‌ای، مدارهای مستقیم و غیرمستقیم، دوپامین و بیماری پارکینسون.",
         outline="s09_topics.json",
-        content=("s09_a.json", "s09_b.json", "s09_c.json"),
+        content=("s09_a.json", "s09_b.json", "s09_c.json", "s09_d.json"),
         guyton="guyton_s09_excerpts.json",
         chapter_anchor="ch-s09",
         cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
@@ -393,7 +393,8 @@ def deck_short(cfg: dict) -> str:
 def pages_1402(t: dict) -> str:
     """1402 pages of a topic; sessions with two decks show the part of each page."""
     if t.get("supp"):
-        return f"قدیری: {page_range(t['supp']['pages'])}"
+        pre = t["supp"].get("short", "قدیری")
+        return f"{pre}: {page_range(t['supp']['pages'])}"
     if t.get("notes1402_p2"):
         return (f"پارت ۱: {page_range(t.get('notes1402', []))} · "
                 f"پارت ۲: {page_range(t['notes1402_p2'])}")
