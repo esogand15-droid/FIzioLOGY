@@ -1,0 +1,934 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "s10_anatomy": {
+   "heading": "Physiologic Anatomy of the Cerebral",
+   "chapter": 57,
+   "found": true,
+   "page_start": 697,
+   "page_end": 698,
+   "sentences": [
+    {
+     "page": 697,
+     "text": "The functional part of the cerebral cortex is a thin layer of neurons covering the surface of all the convolutions of the cerebrum."
+    },
+    {
+     "page": 697,
+     "text": "This layer is only 2 to 5 millimeters thick, with a total area of about one quarter of a square meter."
+    },
+    {
+     "page": 697,
+     "text": "The total cerebral cortex contains about 100 billion neurons."
+    },
+    {
+     "page": 697,
+     "text": "Figure 57-1 shows the typical histological structure of the neuronal surface of the cerebral cortex, with its successive layers of different types of neurons."
+    },
+    {
+     "page": 697,
+     "text": "Most of the neurons are of three types: (1) granular (also called stellate), (2) fusiform, and (3) pyramidal, the last named for their characteristic pyramidal shape."
+    },
+    {
+     "page": 697,
+     "text": "The granular neurons generally have short axons and, therefore, function mainly as interneurons that transmit neural signals only short distances within the cortex itself."
+    },
+    {
+     "page": 697,
+     "text": "Some are excitatory, releasing mainly the excitatory neurotransmitter glutamate; others are inhibitory and release mainly the inhibitory neurotransmitter gammaaminobutyric acid (GABA)."
+    },
+    {
+     "page": 697,
+     "text": "The sensory areas of the cortex, as well as the association areas between sensory and motor areas, have large concentrations of these granule cells, suggesting a high degree of intracortical processing of incoming sensory signals within the sensory areas and association areas."
+    },
+    {
+     "page": 697,
+     "text": "The pyramidal and fusiform cells give rise to almost all the output fibers from the cortex."
+    },
+    {
+     "page": 697,
+     "text": "The pyramidal cells are larger and more numerous than the fusiform cells."
+    },
+    {
+     "page": 697,
+     "text": "They are the source of the long, large nerve fibers that go all the way to the spinal cord."
+    },
+    {
+     "page": 697,
+     "text": "They also give rise to most of the large subcortical association fiber bundles that pass from one major part of the brain to another."
+    },
+    {
+     "page": 697,
+     "text": "Philadelphia: horizontal fibers that extend between adjacent areas of the cortex, but note also the vertical fibers that extend to and from the cortex to lower areas of the brain and some all the way to the spinal cord or to distant regions of the cerebral cortex through long association bundles."
+    },
+    {
+     "page": 698,
+     "text": "The functions of the specific layers of the cerebral cortex are discussed in Chapters 47 and 51."
+    },
+    {
+     "page": 698,
+     "text": "By way of review, let us recall that most incoming specific sensory signals from the body terminate in cortical layer IV."
+    },
+    {
+     "page": 698,
+     "text": "Most of the output signals leave the cortex through neurons located in layers V and VI; the very large fibers to the brain stem and cord arise generally in layer V; and the tremendous numbers of fibers to the thalamus arise in layer VI."
+    },
+    {
+     "page": 698,
+     "text": "Layers I, II, and III perform most of the intracortical association functions, with especially large numbers of neurons in layers II and III making short horizontal connections with adjacent cortical areas."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_thalamus": {
+   "heading": "Anatomical and Functional Relations of the",
+   "chapter": 57,
+   "found": true,
+   "page_start": 698,
+   "page_end": 698,
+   "sentences": [
+    {
+     "page": 698,
+     "text": "All areas of the cerebral cortex have extensive to-and-fro efferent and afferent connections with deeper structures of the brain."
+    },
+    {
+     "page": 698,
+     "text": "It is important to emphasize the relation between the cerebral cortex and the thalamus."
+    },
+    {
+     "page": 698,
+     "text": "When the thalamus is damaged along with the cortex, the loss of cerebral function is far greater than when the cortex alone is damaged because thalamic excitation of the cortex is necessary for almost all cortical activity."
+    },
+    {
+     "page": 698,
+     "text": "Figure 57-2 shows the areas of the cerebral cortex that connect with specific parts of the thalamus."
+    },
+    {
+     "page": 698,
+     "text": "These connections act in two directions, both from the thalamus to the cortex and then from the cortex back to essentially the same area of the thalamus."
+    },
+    {
+     "page": 698,
+     "text": "Furthermore, when the thalamic connections are cut, the functions of the corresponding cortical area become almost entirely lost."
+    },
+    {
+     "page": 698,
+     "text": "Therefore, the cortex operates in close association with the thalamus and can almost be considered both anatomically and functionally a unit with the thalamus: for this reason, the thalamus and the cortex together are sometimes called the thalamocortical system."
+    },
+    {
+     "page": 698,
+     "text": "Almost all pathways from the sensory receptors and sensory organs to the cortex pass through the thalamus, with the principal exception of some sensory pathways of olfaction."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_areas": {
+   "heading": "Functions of Specific Cortical Areas",
+   "chapter": 57,
+   "found": true,
+   "page_start": 698,
+   "page_end": 698,
+   "sentences": [
+    {
+     "page": 698,
+     "text": "Studies in human beings have shown that different cerebral cortical areas have separate functions."
+    },
+    {
+     "page": 698,
+     "text": "Figure 57-3 is a map of some of these functions as determined from electrical stimulation of the cortex in awake patients or during neurological examination of patients after portions of the cortex had been removed."
+    },
+    {
+     "page": 698,
+     "text": "The electrically stimulated patients told their thoughts evoked by the stimulation, and sometimes they experienced movements."
+    },
+    {
+     "page": 698,
+     "text": "Occasionally they spontaneously emitted a sound or even a word or gave some other evidence of the stimulation."
+    },
+    {
+     "page": 698,
+     "text": "This figure shows the major primary and secondary premotor and supplementary motor areas of the cortex, as well as the major primary and secondary sensory areas for somatic sensation, vision, and hearing, all of which are discussed in earlier chapters."
+    },
+    {
+     "page": 698,
+     "text": "The primary motor areas have direct connections with specific muscles for causing discrete muscle movements."
+    },
+    {
+     "page": 698,
+     "text": "The primary sensory areas detect specific sensations— visual, auditory, or somatic—transmitted directly to the brain from peripheral sensory organs."
+    },
+    {
+     "page": 698,
+     "text": "The secondary areas make sense out of the signals in the primary areas."
+    },
+    {
+     "page": 698,
+     "text": "For instance, the supplementary and premotor areas function along with the primary motor cortex and basal ganglia to provide “patterns” of motor activity."
+    },
+    {
+     "page": 698,
+     "text": "On the sensory side, the secondary sensory areas, located within a few centimeters of the primary areas, begin to analyze the meanings of the specific sensory signals, such as (1) interpretation of the shape or texture of an object in one’s hand; (2) interpretation of color, light intensity, directions of lines and angles, and other aspects of vision; and (3) interpretations of the meanings of sound tones and sequence of tones in the auditory signals."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_association": {
+   "heading": "Association Areas",
+   "chapter": 57,
+   "found": true,
+   "page_start": 699,
+   "page_end": 699,
+   "sentences": [
+    {
+     "page": 699,
+     "text": "Figure 57-4 also shows several large areas of the cerebral cortex that do not fit into the rigid categories of primary and secondary motor and sensory areas."
+    },
+    {
+     "page": 699,
+     "text": "These areas are called association areas because they receive and analyze signals simultaneously from multiple regions of both the motor and sensory cortices, as well as from subcortical structures."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_parieto": {
+   "heading": "Parieto-occipitotemporal Association Area",
+   "chapter": 57,
+   "found": true,
+   "page_start": 699,
+   "page_end": 700,
+   "sentences": [
+    {
+     "page": 699,
+     "text": "As would be expected, it provides a high level of interpretative meaning for signals from all the surrounding sensory areas."
+    },
+    {
+     "page": 699,
+     "text": "An area beginning in the posterior parietal cortex and extending into the superior occipital cortex provides continuous analysis of the spatial coordinates of all parts of the body, as well as of the surroundings of the body."
+    },
+    {
+     "page": 699,
+     "text": "This area receives visual sensory information from the posterior occipital cortex and simultaneous somatosensory information from the anterior parietal cortex."
+    },
+    {
+     "page": 699,
+     "text": "From all this information, it computes the coordinates of the visual, auditory, and body surroundings."
+    },
+    {
+     "page": 699,
+     "text": "The major area for language comprehension, called Wernicke’s area, lies behind the primary auditory cortex in the posterior part of the superior gyrus of the temporal lobe."
+    },
+    {
+     "page": 699,
+     "text": "We discuss this area much more fully later; it is the most important region of the entire brain for higher intellectual function because almost all such intellectual functions are language based."
+    },
+    {
+     "page": 699,
+     "text": "This so-called angular gyrus area is needed to make meaning out of the visually perceived words."
+    },
+    {
+     "page": 699,
+     "text": "In its absence, a person can still have excellent language comprehension through hearing but not through reading."
+    },
+    {
+     "page": 699,
+     "text": "In the most lateral portions of the anterior occipital lobe and posterior temporal lobe is an area for naming objects."
+    },
+    {
+     "page": 699,
+     "text": "The names are learned mainly through auditory input, whereas the physical Parieto-occipitoFigure 57-4 Locations of major association areas of the cerebral cortex, as well as primary and secondary motor and sensory areas."
+    },
+    {
+     "page": 699,
+     "text": "Somatofunctional areas in the cerein 95 percent of all people are located in the left hemisphere."
+    },
+    {
+     "page": 700,
+     "text": "In turn, the names are essential for both auditory and visual language comprehension (functions performed in Wernicke’s area located immediately superior to the auditory “names” region and anterior to the visual word processing area)."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_prefrontal": {
+   "heading": "Prefrontal Association Area",
+   "chapter": 57,
+   "found": true,
+   "page_start": 700,
+   "page_end": 700,
+   "sentences": [
+    {
+     "page": 700,
+     "text": "Chapter 56, the prefrontal association area functions in close association with the motor cortex to plan complex patterns and sequences of motor movements."
+    },
+    {
+     "page": 700,
+     "text": "To aid in this function, it receives strong input through a massive subcortical bundle of nerve fibers connecting the parieto-occipitotemporal association area with the prefrontal association area."
+    },
+    {
+     "page": 700,
+     "text": "Through this bundle, the prefrontal cortex receives much preanalyzed sensory information, especially information on the spatial coordinates of the body that is necessary for planning effective movements."
+    },
+    {
+     "page": 700,
+     "text": "Much of the output from the prefrontal area into the motor control system passes through the caudate portion of the basal ganglia–thalamic feedback circuit for motor planning, which provides many of the sequential and parallel components of movement stimulation."
+    },
+    {
+     "page": 700,
+     "text": "The prefrontal association area is also essential to carrying out “thought” processes in the mind."
+    },
+    {
+     "page": 700,
+     "text": "This presumably results from some of the same capabilities of the prefrontal cortex that allow it to plan motor activities."
+    },
+    {
+     "page": 700,
+     "text": "It seems to be capable of processing nonmotor and motor information from widespread areas of the brain and therefore to achieve nonmotor types of thinking, as well as motor types."
+    },
+    {
+     "page": 700,
+     "text": "In fact, the prefrontal association area is frequently described simply as important for elaboration of thoughts, and it is said to store on a short-term basis“working memories” that are used to combine new thoughts while they are entering the brain."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_broca": {
+   "heading": "Broca’s Area Provides the Neural Circuitry for Word",
+   "chapter": 57,
+   "found": true,
+   "page_start": 700,
+   "page_end": 700,
+   "sentences": [
+    {
+     "page": 700,
+     "text": "It is here that plans and motor patterns for expressing individual words or even short phrases are initiated and executed."
+    },
+    {
+     "page": 700,
+     "text": "This area also works in close association with the Wernicke’s language comprehension center in the temporal association cortex, as we discuss more fully later in the chapter."
+    },
+    {
+     "page": 700,
+     "text": "An especially interesting discovery is the following: When a person has already learned one language and then learns a new language, the area in the brain where the new language is stored is slightly removed from the storage area for the first language."
+    },
+    {
+     "page": 700,
+     "text": "If both languages are learned simultaneously, they are stored together in the same area of the brain."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_limbic": {
+   "heading": "Limbic Association Area",
+   "chapter": 57,
+   "found": true,
+   "page_start": 700,
+   "page_end": 700,
+   "sentences": [
+    {
+     "page": 700,
+     "text": "This area is found in the anterior pole of the temporal lobe, in the ventral portion of the frontal lobe, and in the cingulate gyrus lying deep in the longitudinal fissure on the midsurface of each cerebral hemisphere."
+    },
+    {
+     "page": 700,
+     "text": "It is concerned primarily with behavior, emotions, and motivation."
+    },
+    {
+     "page": 700,
+     "text": "We discuss in Chapter 58 that the limbic cortex is part of a much more extensive system, the limbic system, that includes a complex set of neuronal structures in the midbasal regions of the brain."
+    },
+    {
+     "page": 700,
+     "text": "This limbic system provides most of the emotional drives for activating other areas of the brain and even provides motivational drive for the process of learning itself."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_face": {
+   "heading": "Area for Recognition of Faces",
+   "chapter": 57,
+   "found": true,
+   "page_start": 700,
+   "page_end": 700,
+   "sentences": [
+    {
+     "page": 700,
+     "text": "An interesting type of brain abnormality called prosopagnosia is inability to recognize faces."
+    },
+    {
+     "page": 700,
+     "text": "Loss of these face recognition areas, strangely enough, results in little other abnormality of brain function."
+    },
+    {
+     "page": 700,
+     "text": "One wonders why so much of the cerebral cortex should be reserved for the simple task of face recognition."
+    },
+    {
+     "page": 700,
+     "text": "Most of our daily tasks involve associations with other people, and one can see the importance of this intellectual function."
+    },
+    {
+     "page": 700,
+     "text": "The occipital portion of this facial recognition area is contiguous with the visual cortex, and the temporal portion is closely associated with the limbic system that has to do with emotions, brain activation, and control of one’s behavioral response to the environment, as we see in Chapter 58."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_wernicke": {
+   "heading": "Comprehensive Interpretative Function of the",
+   "chapter": 57,
+   "found": true,
+   "page_start": 700,
+   "page_end": 701,
+   "sentences": [
+    {
+     "page": 700,
+     "text": "(Redrawn from is especially highly developed in the dominant side of the brain—the left side in almost all right-handed people—and it plays the greatest single role of any part of the cerebral cortex for the higher comprehension levels of brain function that we call intelligence."
+    },
+    {
+     "page": 700,
+     "text": "Therefore, this region has been called by different names suggestive of an area that has almost global importance: the general interpretative area, the gnostic area, the knowing area, the tertiary association area, and so forth."
+    },
+    {
+     "page": 700,
+     "text": "It is best known as Wernicke’s area in honor of the neurologist who first described its special significance in intellectual processes."
+    },
+    {
+     "page": 701,
+     "text": "After severe damage in Wernicke’s area, a person might hear perfectly well and even recognize different words but still be unable to arrange these words into a coherent thought."
+    },
+    {
+     "page": 701,
+     "text": "Likewise, the person may be able to read words from the printed page but be unable to recognize the thought that is conveyed."
+    },
+    {
+     "page": 701,
+     "text": "Electrical stimulation in Wernicke’s area of a conscious person occasionally causes a highly complex thought."
+    },
+    {
+     "page": 701,
+     "text": "This is particularly true when the stimulation electrode is passed deep enough into the brain to approach the corresponding connecting areas of the thalamus."
+    },
+    {
+     "page": 701,
+     "text": "The types of thoughts that might be experienced include complicated visual scenes that one might remember from childhood, auditory hallucinations such as a specific musical piece, or even a statement made by a specific person."
+    },
+    {
+     "page": 701,
+     "text": "For this reason, it is believed that activation of Wernicke’s area can call forth complicated memory patterns that involve more than one sensory modality even though most of the individual memories may be stored elsewhere."
+    },
+    {
+     "page": 701,
+     "text": "This belief is in accord with the importance of Wernicke’s area in interpreting the complicated meanings of different patterns of sensory experiences."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_angular": {
+   "heading": "Angular Gyrus—Interpretation of Visual Infor",
+   "chapter": 57,
+   "found": true,
+   "page_start": 701,
+   "page_end": 701,
+   "sentences": [
+    {
+     "page": 701,
+     "text": "The angular gyrus is the most inferior portion of the posterior parietal lobe, lying immediately behind Wernicke’s area and fusing posteriorly into the visual areas of the occipital lobe as well."
+    },
+    {
+     "page": 701,
+     "text": "If this region is destroyed while Wernicke’s area in the temporal lobe is still intact, the person can still interpret auditory experiences as usual, but the stream of visual experiences passing into Wernicke’s area from the visual cortex is mainly blocked."
+    },
+    {
+     "page": 701,
+     "text": "Therefore, the person may be able to see words and even know that they are words but not be able to interpret their meanings."
+    },
+    {
+     "page": 701,
+     "text": "This is the condition called dyslexia, or word blindness."
+    },
+    {
+     "page": 701,
+     "text": "Let us again emphasize the global importance of Wernicke’s area for processing most intellectual functions of the brain."
+    },
+    {
+     "page": 701,
+     "text": "Loss of this area in an adult usually leads thereafter to a lifetime of almost demented existence."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_dominant": {
+   "heading": "Concept of the Dominant Hemisphere",
+   "chapter": 57,
+   "found": true,
+   "page_start": 701,
+   "page_end": 702,
+   "sentences": [
+    {
+     "page": 701,
+     "text": "The general interpretative functions of Wernicke’s area and the angular gyrus, as well as the functions of the speech and motor control areas, are usually much more highly developed in one cerebral hemisphere than in the other."
+    },
+    {
+     "page": 701,
+     "text": "Therefore, this hemisphere is called the dominant hemisphere."
+    },
+    {
+     "page": 701,
+     "text": "In about 95 percent of all people, the left hemisphere is the dominant one."
+    },
+    {
+     "page": 701,
+     "text": "Even at birth, the area of the cortex that will eventually become Wernicke’s area is as much as 50 percent larger in the left hemisphere than in the right in more than one half of neonates."
+    },
+    {
+     "page": 701,
+     "text": "Therefore, it is easy to understand why the left side of the brain might become dominant over the right side."
+    },
+    {
+     "page": 701,
+     "text": "However, if for some reason this left side area is damaged or removed in very early childhood, the opposite side of the brain will usually develop dominant characteristics."
+    },
+    {
+     "page": 701,
+     "text": "A theory that can explain the capability of one hemisphere to dominate the other hemisphere is the following."
+    },
+    {
+     "page": 701,
+     "text": "The attention of the“mind” seems to be directed to one principal thought at a time."
+    },
+    {
+     "page": 701,
+     "text": "Presumably, because the left posterior temporal lobe at birth is usually slightly larger than the right, the left side normally begins to be used to a greater extent than the right."
+    },
+    {
+     "page": 701,
+     "text": "Thereafter, because of the tendency to direct one’s attention to the better developed region, the rate of learning in the cerebral hemisphere that gains the first start increases rapidly, whereas in the opposite, less-used side, learning remains slight."
+    },
+    {
+     "page": 701,
+     "text": "Therefore, the left side normally becomes dominant over the right."
+    },
+    {
+     "page": 701,
+     "text": "In about 95 percent of all people, the left temporal lobe and angular gyrus become dominant, and in the remaining 5 percent, either both sides develop simultaneously to have dual function or, more rarely, the right side alone becomes highly developed, with full dominance."
+    },
+    {
+     "page": 701,
+     "text": "As discussed later in the chapter, the premotor speech area (Broca’s area), located far laterally in the intermediate frontal lobe, is also almost always dominant on the left side of the brain."
+    },
+    {
+     "page": 701,
+     "text": "This speech area is responsible for formation of words by exciting simultaneously the laryngeal muscles, respiratory muscles, and muscles of the mouth."
+    },
+    {
+     "page": 701,
+     "text": "The motor areas for controlling hands are also dominant in the left side of the brain in about 9 of 10 persons, thus causing right-handedness in most people."
+    },
+    {
+     "page": 701,
+     "text": "All of these feed also into Wernicke’s area, located in the posterosuperior portion of the temporal lobe."
+    },
+    {
+     "page": 701,
+     "text": "Note also the prefrontal area and Broca’s speech area in the frontal lobe."
+    },
+    {
+     "page": 702,
+     "text": "Although the interpretative areas of the temporal lobe and angular gyrus, as well as many of the motor areas, are usually highly developed in only the left hemisphere, these areas receive sensory information from both hemispheres and are capable also of controlling motor activities in both hemispheres."
+    },
+    {
+     "page": 702,
+     "text": "For this purpose, they use mainly fiber pathways in the corpus callosum for communication between the two hemispheres."
+    },
+    {
+     "page": 702,
+     "text": "This unitary, cross-feeding organization prevents interference between the two sides of the brain; such interference could create havoc with both mental thoughts and motor responses."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_language": {
+   "heading": "Role of Language in the Function of Wernicke’s Area",
+   "chapter": 57,
+   "found": true,
+   "page_start": 702,
+   "page_end": 702,
+   "sentences": [
+    {
+     "page": 702,
+     "text": "For instance, when we read a book, we do not store the visual images of the printed words but instead store the words themselves or their conveyed thoughts often in language form."
+    },
+    {
+     "page": 702,
+     "text": "The sensory area of the dominant hemisphere for interpretation of language is Wernicke’s area, and this is closely associated with both the primary and secondary hearing areas of the temporal lobe."
+    },
+    {
+     "page": 702,
+     "text": "This close relation probably results from the fact that the first introduction to language is by way of hearing."
+    },
+    {
+     "page": 702,
+     "text": "Later in life, when visual perception of language through the medium of reading develops, the visual information conveyed by written words is then presumably channeled through the angular gyrus, a visual association area, into the already developed Wernicke’s language interpretative area of the dominant temporal lobe."
+    },
+    {
+     "page": 702,
+     "text": "When Wernicke’s area in the dominant hemisphere of an adult person is destroyed, the person normally loses almost all intellectual functions associated with language or verbal symbolism, such as the ability to read, the ability to perform mathematical operations, and even the ability to think through logical problems."
+    },
+    {
+     "page": 702,
+     "text": "Many other types of interpretative capabilities, some of which use the temporal lobe and angular gyrus regions of the opposite hemisphere, are retained."
+    },
+    {
+     "page": 702,
+     "text": "Psychological studies in patients with damage to the nondominant hemisphere have suggested that this hemisphere may be especially important for understanding and interpreting music, nonverbal visual experiences (especially visual patterns), spatial relations between the person and their surroundings, the significance of “body language” and intonations of people’s voices, and probably many somatic experiences related to use of the limbs and hands."
+    },
+    {
+     "page": 702,
+     "text": "Thus, even though we speak of the “dominant” hemisphere, this is primarily for languagebased intellectual functions; the so-called nondominant hemisphere might actually be dominant for some other types of intelligence."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_intellect": {
+   "heading": "Higher Intellectual Functions of the Prefrontal",
+   "chapter": 57,
+   "found": true,
+   "page_start": 702,
+   "page_end": 703,
+   "sentences": [
+    {
+     "page": 702,
+     "text": "For years, it has been taught that the prefrontal cortex is the locus of “higher intellect” in the human being, principally because the main difference between the brains of monkeys and of human beings is the great prominence of the human prefrontal areas."
+    },
+    {
+     "page": 702,
+     "text": "Yet efforts to show that the prefrontal cortex is more important in higher intellectual functions than other portions of the brain have not been successful."
+    },
+    {
+     "page": 702,
+     "text": "Indeed, destruction of the language comprehension area in the posterior superior temporal lobe (Wernicke’s area) and the adjacent angular gyrus region in the dominant hemisphere causes much more harm to the intellect than does destruction of the prefrontal areas."
+    },
+    {
+     "page": 702,
+     "text": "The prefrontal areas do, however, have less definable but nevertheless important intellectual functions of their own."
+    },
+    {
+     "page": 702,
+     "text": "These functions can best be explained by describing what happens to patients in whom the prefrontal areas have become damaged, as follows."
+    },
+    {
+     "page": 702,
+     "text": "Several decades ago, before the advent of modern drugs for treating psychiatric conditions, it was found that some patients could receive significant relief from severe psychotic depression by severing the neuronal connections between the prefrontal areas of the brain and the remainder of the brain, that is, by a procedure called prefrontal lobotomy."
+    },
+    {
+     "page": 702,
+     "text": "This was done by inserting a blunt, thin-bladed knife through a small opening in the lateral frontal skull on each side of the head and slicing the brain at the back edge of the prefrontal lobes from top to bottom."
+    },
+    {
+     "page": 702,
+     "text": "Subsequent studies in these patients showed the following mental changes: 1."
+    },
+    {
+     "page": 702,
+     "text": "The patients lost their ability to solve complex problems."
+    },
+    {
+     "page": 702,
+     "text": "They became unable to string together sequential tasks to reach complex goals."
+    },
+    {
+     "page": 702,
+     "text": "They became unable to learn to do several parallel tasks at the same time."
+    },
+    {
+     "page": 702,
+     "text": "Their level of aggressiveness was decreased, sometimes markedly, and, in general, they lost ambition."
+    },
+    {
+     "page": 702,
+     "text": "Their social responses were often inappropriate for the occasion, often including loss of morals and little reticence in relation to sexual activity and excretion."
+    },
+    {
+     "page": 702,
+     "text": "The patients could still talk and comprehend language, but they were unable to carry through any long trains of thought, and their moods changed rapidly from sweetness to rage to exhilaration to madness."
+    },
+    {
+     "page": 702,
+     "text": "The patients could also still perform most of the usual patterns of motor function that they had performed throughout life, but often without purpose."
+    },
+    {
+     "page": 702,
+     "text": "From this information, let us try to piece together a coherent understanding of the function of the prefrontal association areas."
+    },
+    {
+     "page": 703,
+     "text": "As explained earlier and shown in Figures 57-4 and 57-5, this area is part of the limbic association cortex, rather than of the prefrontal association cortex."
+    },
+    {
+     "page": 703,
+     "text": "This limbic area helps to control behavior, which is discussed in detail in Chapter 58."
+    },
+    {
+     "page": 703,
+     "text": "Although people without prefrontal cortices can still think, they show little concerted thinking in logical sequence for longer than a few seconds or a minute or so at most."
+    },
+    {
+     "page": 703,
+     "text": "One of the results is that people without prefrontal cortices are easily distracted from their central theme of thought, whereas people with functioning prefrontal cortices can drive themselves to completion of their thought goals irrespective of distractions."
+    },
+    {
+     "page": 703,
+     "text": "Another function that has been ascribed to the prefrontal areas is elaboration of thought."
+    },
+    {
+     "page": 703,
+     "text": "This means simply an increase in depth and abstractness of the different thoughts put together from multiple sources of information."
+    },
+    {
+     "page": 703,
+     "text": "Psychological tests have shown that prefrontal lobectomized lower animals presented with successive bits of sensory information fail to keep track of these bits even in temporary memory, probably because they are distracted so easily that they cannot hold thoughts long enough for memory storage to take place."
+    },
+    {
+     "page": 703,
+     "text": "This ability of the prefrontal areas to keep track of many bits of information simultaneously and to cause recall of this information instantaneously as it is needed for subsequent thoughts is called the brain’s “working memory.” This may explain the many functions of the brain that we associate with higher intelligence."
+    },
+    {
+     "page": 703,
+     "text": "In fact, studies have shown that the prefrontal areas are divided into separate segments for storing different types of temporary memory, such as one area for storing shape and form of an object or a part of the body and another for storing movement."
+    },
+    {
+     "page": 703,
+     "text": "By combining all these temporary bits of working memory, we have the abilities to (1) prognosticate; (2) plan for the future; (3) delay action in response to incoming sensory signals so that the sensory information can be weighed until the best course of response is decided; (4) consider the consequences of motor actions before they are performed; (5) solve complicated mathematical, legal, or philosophical problems; (6) correlate all avenues of information in diagnosing rare diseases; and (7) control our activities in accord with moral laws."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_communication": {
+   "heading": "Function of the Brain in Communication",
+   "chapter": 57,
+   "found": true,
+   "page_start": 703,
+   "page_end": 704,
+   "sentences": [
+    {
+     "page": 703,
+     "text": "One of the most important differences between human beings and lower animals is the facility with which human beings can communicate with one another."
+    },
+    {
+     "page": 703,
+     "text": "Furthermore, because neurological tests can easily assess the ability of a person to communicate with others, we know more about the sensory and motor systems related to communication than about any other segment of brain cortex function."
+    },
+    {
+     "page": 703,
+     "text": "From this, one will see immediately how the principles of sensory analysis and motor control apply to this art."
+    },
+    {
+     "page": 703,
+     "text": "There are two aspects to communication: first, the sensory aspect (language input), involving the ears and eyes, and, second, the motor aspect (language output), involving vocalization and its control."
+    },
+    {
+     "page": 703,
+     "text": "We noted earlier in the chapter that destruction of portions of the auditory or visual association areas of the cortex can result in inability to understand the spoken word or the written word."
+    },
+    {
+     "page": 703,
+     "text": "These effects are called, respectively, auditory receptive aphasia and visual receptive aphasia or, more commonly, word deafness and word blindness (also called dyslexia)."
+    },
+    {
+     "page": 703,
+     "text": "(Redrawn from are capable of understanding either the spoken word or the written word but are unable to interpret the thought that is expressed."
+    },
+    {
+     "page": 703,
+     "text": "This results most frequently when Wernicke’s area in the posterior superior temporal gyrus in the dominant hemisphere is damaged or destroyed."
+    },
+    {
+     "page": 703,
+     "text": "Therefore, this type of aphasia is called Wernicke’s aphasia."
+    },
+    {
+     "page": 704,
+     "text": "When the lesion in Wernicke’s area is widespread and extends (1) backward into the angular gyrus region, (2) inferiorly into the lower areas of the temporal lobe, and (3) superiorly into the superior border of the sylvian fissure, the person is likely to be almost totally demented for language understanding or communication and therefore is said to have global aphasia."
+    },
+    {
+     "page": 704,
+     "text": "The formation of thoughts and even most choices of words are the function of sensory association areas of the brain."
+    },
+    {
+     "page": 704,
+     "text": "Again, it is Wernicke’s area in the posterior part of the superior temporal gyrus that is most important for this ability."
+    },
+    {
+     "page": 704,
+     "text": "Therefore, a person with either Wernicke’s aphasia or global aphasia is unable to formulate the thoughts that are to be communicated."
+    },
+    {
+     "page": 704,
+     "text": "Or, if the lesion is less severe, the person may be able to formulate the thoughts but unable to put together appropriate sequences of words to express the thought."
+    },
+    {
+     "page": 704,
+     "text": "The person sometimes is even fluent with words but the words are jumbled."
+    },
+    {
+     "page": 704,
+     "text": "This effect, called motor aphasia, results from damage to Broca’s speech area, which lies in the prefrontal and premotor facial region of the cerebral cortex—about 95 percent of the time in the left hemisphere, as shown in Figures 57-5 and 57-8."
+    },
+    {
+     "page": 704,
+     "text": "Therefore, the skilled motor patterns for control of the larynx, lips, mouth, respiratory system, and other accessory muscles of speech are all initiated from this area."
+    },
+    {
+     "page": 704,
+     "text": "Finally, we have the act of articulation, which means the muscular movements of the mouth, tongue, larynx, vocal cords, and so forth that are responsible for the intonations, timing, and rapid changes in intensities of the sequential sounds."
+    },
+    {
+     "page": 704,
+     "text": "The facial and laryngeal regions of the motor cortex activate these muscles, and the cerebellum, basal ganglia, and sensory cortex all help to control the sequences and intensities of muscle contractions, making liberal use of basal ganglial and cerebellar feedback mechanisms described in Chapters 55 and 56."
+    },
+    {
+     "page": 704,
+     "text": "Destruction of any of these regions can cause either total or partial inability to speak distinctly."
+    },
+    {
+     "page": 704,
+     "text": "Figure 57-8 shows two principal pathways for communication."
+    },
+    {
+     "page": 704,
+     "text": "The upper half of the figure shows the pathway involved in hearing and speaking."
+    },
+    {
+     "page": 704,
+     "text": "This sequence is the following: (1) reception in the primary auditory area of the sound signals that encode the words; (2) interpretation of the words in Wernicke’s area; (3) determination, also in Wernicke’s area, of the thoughts and the words to be spoken; (4) transmission of signals from Wernicke’s area to Broca’s area by way of the arcuate fasciculus; (5) activation of the skilled motor programs in Broca’s area for control of word formation; and (6) transmission of appropriate signals into the motor cortex to control the speech muscles."
+    },
+    {
+     "page": 704,
+     "text": "The lower figure illustrates the comparable steps in reading and then speaking in response."
+    },
+    {
+     "page": 704,
+     "text": "The initial receptive area for the words is in the primary visual area rather than in the primary auditory area."
+    },
+    {
+     "page": 704,
+     "text": "Then the information passes through early stages of interpretation in the angular gyrus region and finally reaches its full level of recognition in Wernicke’s area."
+    },
+    {
+     "page": 704,
+     "text": "From here, the sequence is the same as for speaking in response to the spoken word."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s10_callosum": {
+   "heading": "Function of the Corpus Callosum and",
+   "chapter": 57,
+   "found": true,
+   "page_start": 704,
+   "page_end": 705,
+   "sentences": [
+    {
+     "page": 704,
+     "text": "Fibers in the corpus callosum provide abundant bidirectional neural connections between most of the respective cortical areas of the two cerebral hemispheres except for the anterior portions of the temporal lobes; these temporal areas, including especially the amygdala, are interconnected by fibers that pass through the anterior commissure."
+    },
+    {
+     "page": 704,
+     "text": "Because of the tremendous number of fibers in the corpus callosum, it was assumed from the beginning that this massive structure must have some important function to correlate activities of the two cerebral hemispheres."
+    },
+    {
+     "page": 704,
+     "text": "However, when the corpus callosum was destroyed in laboratory animals, it was at first difficult to discern deficits in brain function."
+    },
+    {
+     "page": 704,
+     "text": "Therefore, for a long time, the function of the corpus callosum was a mystery."
+    },
+    {
+     "page": 704,
+     "text": "Properly designed experiments have now demonstrated extremely important functions for the corpus callosum and anterior commissure."
+    },
+    {
+     "page": 704,
+     "text": "These functions can best be explained by describing one of the experiments: A monkey is first prepared by cutting the corpus callosum and splitting the optic chiasm longitudinally so that signals from each eye can go only to the cerebral hemisphere on the side of the eye."
+    },
+    {
+     "page": 704,
+     "text": "Then the monkey is taught to recognize different objects with its right eye while its left eye is covered."
+    },
+    {
+     "page": 704,
+     "text": "Next, the right eye is covered and the monkey is tested to determine whether its left eye can recognize the same objects."
+    },
+    {
+     "page": 704,
+     "text": "The answer to this is that the left eye cannot recognize the objects."
+    },
+    {
+     "page": 704,
+     "text": "However, on repeating the same experiment in another monkey with the optic chiasm split but the corpus callosum intact, it is found invariably that recognition in one hemisphere of the brain creates recognition in the opposite hemisphere."
+    },
+    {
+     "page": 704,
+     "text": "Thus, one of the functions of the corpus callosum and the anterior commissure is to make information stored in the cortex of one hemisphere available to corresponding cortical areas of the opposite hemisphere."
+    },
+    {
+     "page": 704,
+     "text": "Important examples of such cooperation between the two hemispheres are the following."
+    },
+    {
+     "page": 704,
+     "text": "Cutting the corpus callosum blocks transfer of information from Wernicke’s area of the dominant hemisphere to the motor cortex on the opposite side of the brain."
+    },
+    {
+     "page": 704,
+     "text": "Therefore, the intellectual functions of Wernicke’s area, located in the left hemisphere, lose control over the right motor cortex that initiates voluntary motor functions of the left hand and arm, even though the usual subconscious movements of the left hand and arm are normal."
+    },
+    {
+     "page": 705,
+     "text": "Cutting the corpus callosum prevents transfer of somatic and visual information from the right hemisphere into Wernicke’s area in the left dominant hemisphere."
+    },
+    {
+     "page": 705,
+     "text": "Therefore, somatic and visual information from the left side of the body frequently fails to reach this general interpretative area of the brain and therefore cannot be used for decision making."
+    },
+    {
+     "page": 705,
+     "text": "Finally, people whose corpus callosum is completely sectioned have two entirely separate conscious portions of the brain."
+    },
+    {
+     "page": 705,
+     "text": "For example, in a teenage boy with a sectioned corpus callosum, only the left half of his brain could understand both the written word and the spoken word because the left side was the dominant hemisphere."
+    },
+    {
+     "page": 705,
+     "text": "Conversely, the right side of the brain could understand the written word but not the spoken word."
+    },
+    {
+     "page": 705,
+     "text": "Furthermore, the right cortex could elicit a motor action response to the written word without the left cortex ever knowing why the response was performed."
+    },
+    {
+     "page": 705,
+     "text": "The effect was quite different when an emotional response was evoked in the right side of the brain: In this case, a subconscious emotional response occurred in the left side of the brain as well."
+    },
+    {
+     "page": 705,
+     "text": "This undoubtedly occurred because the areas of the two sides of the brain for emotions, the anterior temporal cortices and adjacent areas, were still communicating with each other through the anterior commissure that was not sectioned."
+    },
+    {
+     "page": 705,
+     "text": "For instance, when the command “kiss” was written for the right half of his brain to see, the boy immediately and with full emotion said, “No way!” This response required function of Wernicke’s area and the motor areas for speech in the left hemisphere because these left-side areas were necessary to speak the words “No way!” But when questioned why he said this, the boy could not explain."
+    },
+    {
+     "page": 705,
+     "text": "Thus, the two halves of the brain have independent capabilities for consciousness, memory storage, communication, and control of motor activities."
+    },
+    {
+     "page": 705,
+     "text": "The corpus callosum is required for the two sides to operate cooperatively at the superficial subconscious level, and the anterior commissure plays an important additional role in unifying the emotional responses of the two sides of the brain."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}

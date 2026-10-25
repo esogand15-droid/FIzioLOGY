@@ -184,6 +184,26 @@ SESSIONS = {
         divider_title="نوروفیزیولوژی:\nاز مخچه\nتا عقده‌های قاعده‌ای",
         pdf_name="HumsYar_Neuro_Jalase9.pdf",
     ),
+    "s10": dict(
+        num="۱۰", n=10, of="۱۶",
+        guyton_ch="فصل ۵۷ (قشر مغز و کارکردهای عالی)",
+        no1404=True,
+        single_part=True,
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر مرور عقده‌های قاعده‌ای و دو "
+              "بیماری آن (۱ تا ۳)، دو نفر دروازهٔ خروجی و ساختار قشر و ارتباط "
+              "تالاموکورتیکال (۴ تا ۷)، دو نفر نواحی ارتباطی و نگریست و ورنیکه و شکنج "
+              "زاویه‌ای (۸ تا ۱۲)، دو نفر نامیدن، بروکا، قشر پیشانی، لیمبیک، غالب بودن و "
+              "آفازی‌ها (۱۳ تا ۱۸) به‌همراه گردآوری. این تقسیم پیشنهاد است، نه تصمیم "
+              "نهایی تیم.",
+        outline="s10_topics.json",
+        content=("s10_a.json", "s10_b.json", "s10_c.json"),
+        guyton="guyton_s10_excerpts.json",
+        chapter_anchor="ch-s10",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="کارکردهای عالی قشر مغز، زبان و آفازی‌ها",
+        divider_title="نوروفیزیولوژی:\nاز قشر مغز\nتا زبان و آفازی",
+        pdf_name="HumsYar_Neuro_Jalase10.pdf",
+    ),
 }
 
 SESSION = "s01"
@@ -718,6 +738,8 @@ def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
 
 
 def _remaining_sessions(book: PDFBook, cfg: dict) -> None:
+    # keep the heading with its (sometimes very short) table
+    book.ensure(190)
     book.h2("جلسه‌های باقی‌مانده", anchor="roadmap-sessions")
     remaining = [
         ["۲", "سیناپس، پتانسیل عمل و هدایت عصبی", "دارد", "دارد"],
@@ -731,12 +753,18 @@ def _remaining_sessions(book: PDFBook, cfg: dict) -> None:
         ["۱۵", "اتونوم تکمیلی (جزوهٔ مستقل)", "دارد", "جزئی"],
         ["۱۶", "پری لب", "دارد", "—"],
     ]
-    rows = [r for r in remaining if int(r[0].translate(str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")).split("–")[0]) > cfg["n"]]
-    book.table(["جلسه", "موضوع", "جزوهٔ ۱۴۰۴", "جزوهٔ ۱۴۰۲"], rows,
+    # for the 1402-only sessions the deck numbers run ahead of the session order
+    # (this session = session 10, deck 12), so filter on the deck number
+    horizon = 12 if cfg.get("no1404") else cfg["n"]
+    rows = [r for r in remaining if int(r[0].translate(str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")).split("–")[0]) > horizon]
+    book.table(["جلسهٔ جزوه", "موضوع", "جزوهٔ ۱۴۰۴", "جزوهٔ ۱۴۰۲"], rows,
                widths=[CONTENT_W * 0.10, CONTENT_W * 0.50, CONTENT_W * 0.20,
                        CONTENT_W * 0.20],
                size=8.0,
-               caption=f"جدول {cfg['num']}-۲ — ستون‌های «جزوهٔ ۱۴۰۴» و «جزوهٔ ۱۴۰۲» می‌گویند منبع آن جلسه در اختیار تیم هست یا نه.",
+               caption=f"جدول {cfg['num']}-۲ — شماره‌ها شمارهٔ جلسه در جزوهٔ درس است. این سند جلسهٔ "
+                       f"{cfg['num']} از {cfg['of']} است و جزوهٔ جلسهٔ ۱۲ را پوشش می‌دهد؛ به همین دلیل "
+                       "شمارش جلسه‌های باقی‌مانده از ۱۳ ادامه می‌یابد. ستون‌های «جزوهٔ ۱۴۰۴» و "
+                       "«جزوهٔ ۱۴۰۲» می‌گویند منبع آن جلسه در اختیار تیم هست یا نه.",
                src="فهرست منابع درس")
 
 
