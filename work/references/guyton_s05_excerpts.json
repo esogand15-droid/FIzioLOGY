@@ -1,0 +1,2556 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "anatomy": {
+   "heading": "Anatomy and Function of the Structural",
+   "chapter": 50,
+   "found": true,
+   "page_start": 609,
+   "page_end": 609,
+   "sentences": [
+    {
+     "page": 609,
+     "text": "This distance is a thickness of several hundred micrometers; visual acuity is decreased by this passage through such nonhomogeneous tissue."
+    },
+    {
+     "page": 609,
+     "text": "However, in the central foveal region of the retina, as discussed subsequently, the inside layers are pulled aside to decrease this loss of acuity."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "fovea": {
+   "heading": "Foveal Region of the Retina and Its Importance",
+   "chapter": 50,
+   "found": true,
+   "page_start": 609,
+   "page_end": 609,
+   "sentences": [
+    {
+     "page": 609,
+     "text": "The central fovea, only 0.3 millimeter in diameter, is composed almost entirely of cones; these cones have a special structure that aids their detection of detail in the visual image."
+    },
+    {
+     "page": 609,
+     "text": "That is, the foveal cones have especially long and slender bodies, in contradistinction to the much fatter cones located more peripherally in the retina."
+    },
+    {
+     "page": 609,
+     "text": "Also, in the foveal region, the blood vessels, ganglion cells, inner nuclear layer of cells, and plexiform layers are all displaced to one side rather than resting directly on top of the cones."
+    },
+    {
+     "page": 609,
+     "text": "This allows light to pass unimpeded to the cones."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "rods_cones": {
+   "heading": "Rods and Cones",
+   "chapter": 50,
+   "found": true,
+   "page_start": 609,
+   "page_end": 609,
+   "sentences": [
+    {
+     "page": 609,
+     "text": "In general, the rods are narrower and longer than the cones, but this is not always the case."
+    },
+    {
+     "page": 609,
+     "text": "In the peripheral portions of the retina, the rods are 2 to 5 micrometers in diameter, whereas the cones are 5 to 8 micrometers in diameter; in the central part of the retina, in the fovea, there are rods, and the cones are slender and have a diameter of only 1.5 micrometers."
+    },
+    {
+     "page": 609,
+     "text": "The lightsensitive photochemical is found in the outer segment."
+    },
+    {
+     "page": 609,
+     "text": "In the case of the rods, this is rhodopsin; in the cones, it is one of three “color” photochemicals, usually called simply color pigments, that function almost exactly the same as rhodopsin except for differences in spectral sensitivity."
+    },
+    {
+     "page": 609,
+     "text": "Note in the outer segments of the rods and cones in Figures 50-3 and 50-4 the large numbers of discs."
+    },
+    {
+     "page": 609,
+     "text": "Each disc is actually an infolded shelf of cell membrane."
+    },
+    {
+     "page": 609,
+     "text": "There are as many as 1000 discs in each rod or cone."
+    },
+    {
+     "page": 609,
+     "text": "Both rhodopsin and the color pigments are conjugated proteins."
+    },
+    {
+     "page": 609,
+     "text": "They are incorporated into the membranes of the discs in the form of transmembrane proteins."
+    },
+    {
+     "page": 609,
+     "text": "The concentrations of these photosensitive pigments in the discs are so great that the pigments themselves constitute about 40 percent of the entire mass of the outer segment."
+    },
+    {
+     "page": 609,
+     "text": "The inner segment of the rod or cone contains the usual cytoplasm with cytoplasmic organelles."
+    },
+    {
+     "page": 609,
+     "text": "Especially important are the mitochondria, which, as explained later, play the important role of providing energy for function of the photoreceptors."
+    },
+    {
+     "page": 609,
+     "text": "The synaptic body is the portion of the rod or cone that connects with subsequent neuronal cells, the horizontal and bipolar cells, which represent the next stages in the vision chain."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "pigment_layer": {
+   "heading": "Pigment Layer of the Retina",
+   "chapter": 50,
+   "found": true,
+   "page_start": 610,
+   "page_end": 611,
+   "sentences": [
+    {
+     "page": 610,
+     "text": "Note that the inner layers of the retina are pulled to the side to decrease interference with light transmission."
+    },
+    {
+     "page": 610,
+     "text": "This pigment performs the same function in the eye as the black coloring inside the bellows of a camera."
+    },
+    {
+     "page": 610,
+     "text": "Without it, light rays would be reflected in all directions within the eyeball and would cause diffuse lighting of the retina rather than the normal contrast between dark and light spots required for formation of precise images."
+    },
+    {
+     "page": 611,
+     "text": "The importance of melanin in the pigment layer is well illustrated by its absence in albinos, people who are hereditarily lacking in melanin pigment in all parts of their bodies."
+    },
+    {
+     "page": 611,
+     "text": "When an albino enters a bright room, light that impinges on the retina is reflected in all directions inside the eyeball by the unpigmented surfaces of the retina and by the underlying sclera, so a single discrete spot of light that would normally excite only a few rods or cones is reflected everywhere and excites many receptors."
+    },
+    {
+     "page": 611,
+     "text": "Therefore, the visual acuity of albinos, even with the best optical correction, is seldom better than 20/100 to 20/200 rather than the normal 20/20 values."
+    },
+    {
+     "page": 611,
+     "text": "The pigment layer also stores large quantities of vitamin A."
+    },
+    {
+     "page": 611,
+     "text": "This vitamin A is exchanged back and forth through the cell membranes of the outer segments of the rods and cones, which themselves are embedded in the pigment."
+    },
+    {
+     "page": 611,
+     "text": "We show later that vitamin A is an important precursor of the photosensitive chemicals of the rods and cones."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "blood_supply": {
+   "heading": "Blood Supply of the Retina",
+   "chapter": 50,
+   "found": true,
+   "page_start": 611,
+   "page_end": 611,
+   "sentences": [
+    {
+     "page": 611,
+     "text": "The nutrient blood supply for the internal layers of the retina is derived from the central retinal artery, which enters the eyeball through the center of the optic nerve and then divides to supply the entire inside retinal surface."
+    },
+    {
+     "page": 611,
+     "text": "Thus, the inner layers of the retina have their own blood supply independent of the other structures of the eye."
+    },
+    {
+     "page": 611,
+     "text": "However, the outermost layer of the retina is adherent to the choroid, which is also a highly vascular tissue lying between the retina and the sclera."
+    },
+    {
+     "page": 611,
+     "text": "The outer layers of the retina, especially the outer segments of the rods and cones, depend mainly on diffusion from the choroid blood vessels for their nutrition, especially for their oxygen."
+    },
+    {
+     "page": 611,
+     "text": "The neural retina occasionally detaches from the pigment epithelium."
+    },
+    {
+     "page": 611,
+     "text": "In some instances, the cause of such detachment is injury to the eyeball that allows fluid or blood to collect between the neural retina and the pigment epithelium."
+    },
+    {
+     "page": 611,
+     "text": "Detachment is occasionally caused by contracture of fine collagenous fibrils in the vitreous humor, which pull areas of the retina toward the interior of the globe."
+    },
+    {
+     "page": 611,
+     "text": "Partly because of diffusion across the detachment gap and partly because of the independent blood supply to the neural retina through the retinal artery, the detached retina can resist degeneration for days and can become functional again if it is surgically replaced in its normal relation with the pigment epithelium."
+    },
+    {
+     "page": 611,
+     "text": "If it is not replaced soon, however, the retina will be destroyed and will be unable to function even after surgical repair."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "photochemistry": {
+   "heading": "Photochemistry of Vision",
+   "chapter": 50,
+   "found": true,
+   "page_start": 611,
+   "page_end": 611,
+   "sentences": [
+    {
+     "page": 611,
+     "text": "Both rods and cones contain chemicals that decompose on exposure to light and, in the process, excite the nerve fibers leading from the eye."
+    },
+    {
+     "page": 611,
+     "text": "The light-sensitive chemical in the rods is called rhodopsin; the light-sensitive chemicals in the cones, called cone pigments or color pigments, have compositions only slightly different from that of rhodopsin."
+    },
+    {
+     "page": 611,
+     "text": "In this section, we discuss principally the photochemistry of rhodopsin, but the same principles can be applied to the cone pigments."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "rhodopsin_cycle": {
+   "heading": "Rhodopsin-Retinal Visual Cycle",
+   "chapter": 50,
+   "found": true,
+   "page_start": 611,
+   "page_end": 612,
+   "sentences": [
+    {
+     "page": 611,
+     "text": "The outer segment of the rod that projects into the pigment layer of the retina has a concentration of about 40 percent of the light-sensitive pigment called rhodopsin, or visual purple."
+    },
+    {
+     "page": 611,
+     "text": "This substance is a combination of the protein scotopsin and the carotenoid pigment retinal (also called “retinene”)."
+    },
+    {
+     "page": 611,
+     "text": "Furthermore, the retinal is a particular type called 11-cis retinal."
+    },
+    {
+     "page": 611,
+     "text": "This cis form of retinal is important because only this form can bind with scotopsin to synthesize rhodopsin."
+    },
+    {
+     "page": 611,
+     "text": "The cause of this is photoactivation of electrons in the retinal portion of the rhodopsin, which leads to instantaneous change of the cis form of retinal into an all-trans form that still has the same chemical structure as the cis form but has a different physical structure—a straight molecule rather than an angulated molecule."
+    },
+    {
+     "page": 611,
+     "text": "Because the three-dimensional orientation of the reactive sites of the all-trans retinal no longer fits with the orientation of the reactive sites on the protein scotopsin, the all-trans retinal begins to pull away from the scotopsin."
+    },
+    {
+     "page": 611,
+     "text": "The immediate product is bathorhodopsin, which is a partially split combination of the all-trans retinal and scotopsin."
+    },
+    {
+     "page": 611,
+     "text": "Bathorhodopsin is extremely unstable and decays in nanoseconds to lumirhodopsin."
+    },
+    {
+     "page": 612,
+     "text": "(in seconds), into the completely split products scotopsin and all-trans retinal."
+    },
+    {
+     "page": 612,
+     "text": "It is the metarhodopsin II, also called activated rhodopsin, that excites electrical changes in the rods, and the rods then transmit the visual image into the central nervous system in the form of optic nerve action potential, as we discuss later."
+    },
+    {
+     "page": 612,
+     "text": "This process requires metabolic energy and is catalyzed by the enzyme retinal isomerase."
+    },
+    {
+     "page": 612,
+     "text": "Once the 11-cis retinal is formed, it automatically recombines with the scotopsin to re-form rhodopsin, which then remains stable until its decomposition is again triggered by absorption of light energy."
+    },
+    {
+     "page": 612,
+     "text": "This is by conversion of the all-trans retinal first into all-trans retinol, which is one form of vitamin A."
+    },
+    {
+     "page": 612,
+     "text": "Then the all-trans retinol is converted into 11-cis retinol under the influence of the enzyme isomerase."
+    },
+    {
+     "page": 612,
+     "text": "Finally, the 11-cis retinol is converted into 11-cis retinal, which combines with scotopsin to form new rhodopsin."
+    },
+    {
+     "page": 612,
+     "text": "Vitamin A is present both in the cytoplasm of the rods and in the pigment layer of the retina."
+    },
+    {
+     "page": 612,
+     "text": "Therefore, vitamin A is normally always available to form new retinal when needed."
+    },
+    {
+     "page": 612,
+     "text": "Conversely, when there is excess retinal in the retina, it is converted back into vitamin A, thus reducing the amount of light-sensitive pigment in the retina."
+    },
+    {
+     "page": 612,
+     "text": "We shall see later that this interconversion between retinal and vitamin A is especially important in long-term adaptation of the retina to different light intensities."
+    },
+    {
+     "page": 612,
+     "text": "Night blindness occurs in any person with severe vitamin A deficiency."
+    },
+    {
+     "page": 612,
+     "text": "The reason for this is that without vitamin A, the amounts of retinal and rhodopsin that can be formed are severely depressed."
+    },
+    {
+     "page": 612,
+     "text": "This condition is called night blindness because the amount of light available at night is too little to permit adequate vision in vitamin A–deficient persons."
+    },
+    {
+     "page": 612,
+     "text": "For night blindness to occur, a person usually must remain on a vitamin A–deficient diet for months because large quantities of vitamin A are normally stored in the liver and can be made available to the eyes."
+    },
+    {
+     "page": 612,
+     "text": "Once night blindness develops, it can sometimes be reversed in less than 1 hour by intravenous injection of vitamin A."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "rod_potential": {
+   "heading": "The Rod Receptor Potential Is Hyperpolarizing",
+   "chapter": 50,
+   "found": true,
+   "page_start": 612,
+   "page_end": 613,
+   "sentences": [
+    {
+     "page": 612,
+     "text": "When the rod is exposed to light, the resulting receptor potential is different from the receptor potentials in almost all other sensory receptors."
+    },
+    {
+     "page": 612,
+     "text": "That is, excitation of the rod causes increased negativity of the intrarod membrane potential, which is a state of hyperpolarization, meaning that there is more negativity than normal inside the rod membrane."
+    },
+    {
+     "page": 612,
+     "text": "This is exactly opposite to the decreased negativity (the process of “depolarization”) that occurs in almost all other sensory receptors."
+    },
+    {
+     "page": 612,
+     "text": "How does activation of rhodopsin cause hyperpolarization?"
+    },
+    {
+     "page": 612,
+     "text": "The answer is that when rhodopsin decomposes, it decreases the rod membrane conductance for sodium ions in the outer segment of the rod."
+    },
+    {
+     "page": 612,
+     "text": "This causes hyperpolarization of the entire rod membrane in the following way."
+    },
+    {
+     "page": 612,
+     "text": "Figure 50-6 shows movement of sodium and potassium ions in a complete electrical circuit through the inner and outer segments of the rod."
+    },
+    {
+     "page": 612,
+     "text": "Potassium flows out of the cell through nongated potassium channels."
+    },
+    {
+     "page": 612,
+     "text": "A sodium-potassium pump maintains steady levels of sodium and potassium inside the cell."
+    },
+    {
+     "page": 612,
+     "text": "In the dark, cGMP levels are high and the sodium channels are open."
+    },
+    {
+     "page": 612,
+     "text": "In the light, cGMP levels are reduced and the sodium channels close, causing the cell to hyperpolarize."
+    },
+    {
+     "page": 613,
+     "text": "Potassium ions leak out of the cell through nongated potassium channels that are confined to the inner segment of the rod."
+    },
+    {
+     "page": 613,
+     "text": "As in other cells, this sodium-potassium pump creates a negative potential on the inside of the entire cell."
+    },
+    {
+     "page": 613,
+     "text": "However, the outer segment of the rod, where the photoreceptor discs are located, is entirely different; here, the rod membrane, in the dark state, is leaky to sodium ions that flow through cGMP-gated channels."
+    },
+    {
+     "page": 613,
+     "text": "In the dark state, cGMP levels are high, permitting positively charged sodium ions to continually leak back to the inside of the rod and thereby neutralize much of the negativity on the inside of the entire cell."
+    },
+    {
+     "page": 613,
+     "text": "Thus, under normal dark conditions, when the rod is not excited, there is reduced electronegativity inside the membrane of the rod, measuring about −40 millivolts rather than the usual −70 to −80 millivolts found in most sensory receptors."
+    },
+    {
+     "page": 613,
+     "text": "Then, when the rhodopsin in the outer segment of the rod is exposed to light, it is activated and begins to decompose, the cGMP gated sodium channels are closed, and the outer segment membrane conductance of sodium to the interior of the rod is reduced by a three-step process (Figure 50-7): (1) Light is absorbed by the rhodopsin, causing photoactivation of the electrons in the retinal portion, as previously described; (2) the activated rhodopsin stimulates a G-protein called transducin, which then activates cGMP phosphodiesterase; this enzyme catalyzes the breakdown of cGMP to 5′-cGMP; and (3) the reduction in cGMP closes the cGMP-gated sodium channels and reduces the inward sodium current."
+    },
+    {
+     "page": 613,
+     "text": "Sodium ions continue to be pumped outward through the membrane of the inner segment."
+    },
+    {
+     "page": 613,
+     "text": "Thus, more sodium ions now leave the rod than leak back in."
+    },
+    {
+     "page": 613,
+     "text": "Because they are positive ions, their loss from inside the rod creates increased negativity inside the membrane, and the greater the amount of light energy striking the rod, the greater the electronegativity becomes—that is, the greater is the degree of hyperpolarization."
+    },
+    {
+     "page": 613,
+     "text": "At maximum light intensity, the membrane potential approaches −70 to −80 millivolts, which is near the equilibrium potential for potassium ions across the membrane."
+    },
+    {
+     "page": 613,
+     "text": "Duration of the Receptor Potential, and Logarithmic Relation of the Receptor Potential to Light Intensity."
+    },
+    {
+     "page": 613,
+     "text": "When a sudden pulse of light strikes the retina, the transient hyperpolarization that occurs in the rods—that is, the receptor potential that occurs—reaches a peak in about 0.3 second and lasts for more than a second."
+    },
+    {
+     "page": 613,
+     "text": "In cones, the change occurs four times as fast as in the rods."
+    },
+    {
+     "page": 613,
+     "text": "A visual image impinged on the rods of the retina for only one millionth of a second can sometimes cause the sensation of seeing the image for longer than a second."
+    },
+    {
+     "page": 613,
+     "text": "Another characteristic of the receptor potential is that it is approximately proportional to the logarithm of the light intensity."
+    },
+    {
+     "page": 613,
+     "text": "This is exceedingly important because it allows the eye to discriminate light intensities through a range many thousand times as great as would be possible otherwise."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cascade": {
+   "heading": "Mechanism by Which Rhodopsin Decomposition",
+   "chapter": 50,
+   "found": true,
+   "page_start": 613,
+   "page_end": 614,
+   "sentences": [
+    {
+     "page": 613,
+     "text": "Only 30 photons of light will cause half saturation of the rod."
+    },
+    {
+     "page": 613,
+     "text": "How can such a small amount of light cause such great excitation?"
+    },
+    {
+     "page": 613,
+     "text": "The answer is that the photoreceptors have an extremely sensitive chemical cascade that amplifies the stimulatory effects about a millionfold, as follows: 1."
+    },
+    {
+     "page": 613,
+     "text": "The activated rhodopsin functions as an enzyme to activate many molecules of transducin, a protein present in an inactive form in the membranes of the discs and cell membrane of the rod."
+    },
+    {
+     "page": 613,
+     "text": "The activated transducin activates many more molecules of phosphodiesterase."
+    },
+    {
+     "page": 613,
+     "text": "Activated phosphodiesterase is another enzyme; it immediately hydrolyzes many molecules of cyclic guanosine monophosphate (cGMP), thus destroying it."
+    },
+    {
+     "page": 613,
+     "text": "Before being destroyed, the cGMP had been bound with the sodium channel protein of the rod’s outer membrane in a way that “splints” it in the open state."
+    },
+    {
+     "page": 613,
+     "text": "But in light, when phosphodiesterase hydrolyzes the cGMP, this removes the splinting and allows the sodium channels to close."
+    },
+    {
+     "page": 613,
+     "text": "Several hundred channels close for each originally activated molecule of rhodopsin."
+    },
+    {
+     "page": 613,
+     "text": "When light hits the photoreceptor (e.g., rod cell), the light-absorbing retinal portion of rhodopsin is activated."
+    },
+    {
+     "page": 613,
+     "text": "This stimulates transducin, a G-protein, which then activates cGMP phosphodiesterase."
+    },
+    {
+     "page": 613,
+     "text": "This enzyme catalyzes the degradation of cGMP into 5′-GMP."
+    },
+    {
+     "page": 613,
+     "text": "The reduction in cGMP then causes closure of the sodium channels, which, in turn, causes hyperpolarization of the photoreceptor."
+    },
+    {
+     "page": 614,
+     "text": "This diminution of sodium ion flow is what excites the rod, as already discussed."
+    },
+    {
+     "page": 614,
+     "text": "Within about a second, another enzyme, rhodopsin kinase, which is always present in the rod, inactivates the activated rhodopsin (the metarhodopsin II), and the entire cascade reverses back to the normal state with open sodium channels."
+    },
+    {
+     "page": 614,
+     "text": "Thus, the rods have developed an important chemical cascade that amplifies the effect of a single photon of light to cause movement of millions of sodium ions."
+    },
+    {
+     "page": 614,
+     "text": "This explains the extreme sensitivity of the rods under dark conditions."
+    },
+    {
+     "page": 614,
+     "text": "The cones are about 30 to 300 times less sensitive than the rods, but even this allows color vision at any intensity of light greater than extremely dim twilight."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cone_pigments": {
+   "heading": "Photochemistry of Color Vision by the Cones",
+   "chapter": 50,
+   "found": true,
+   "page_start": 614,
+   "page_end": 614,
+   "sentences": [
+    {
+     "page": 614,
+     "text": "It was pointed out at the outset of this discussion that the photochemicals in the cones have almost exactly the same chemical composition as that of rhodopsin in the rods."
+    },
+    {
+     "page": 614,
+     "text": "The only difference is that the protein portions, or the opsins—called photopsins in the cones—are slightly different from the scotopsin of the rods."
+    },
+    {
+     "page": 614,
+     "text": "The retinal portion of all the visual pigments is exactly the same in the cones as in the rods."
+    },
+    {
+     "page": 614,
+     "text": "The color-sensitive pigments of the cones, therefore, are combinations of retinal and photopsins."
+    },
+    {
+     "page": 614,
+     "text": "In the discussion of color vision later in the chapter, it will become evident that only one of three types of color pigments is present in each of the different cones, thus making the cones selectively sensitive to different colors: blue, green, or red."
+    },
+    {
+     "page": 614,
+     "text": "These color pigments are called, respectively, blue-sensitive pigment, green-sensitive pigment, and red-sensitive pigment."
+    },
+    {
+     "page": 614,
+     "text": "The absorption characteristics of the pigments in the three types of cones show peak absorbencies at light wavelengths of 445, 535, and 570 nanometers, respectively."
+    },
+    {
+     "page": 614,
+     "text": "These are also the wavelengths for peak light sensitivity for each type of cone, which begins to explain how the retina differentiates the colors."
+    },
+    {
+     "page": 614,
+     "text": "Also shown is the absorption curve for the rhodopsin of the rods, with a peak at 505 nanometers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "adaptation": {
+   "heading": "Automatic Regulation of Retinal Sensitivity",
+   "chapter": 50,
+   "found": true,
+   "page_start": 614,
+   "page_end": 615,
+   "sentences": [
+    {
+     "page": 614,
+     "text": "If a person has been in bright light for hours, large portions of the photochemicals in both the rods and the cones will have been reduced to retinal and opsins."
+    },
+    {
+     "page": 614,
+     "text": "Furthermore, much of the retinal of both the rods and the cones will have been converted into vitamin A."
+    },
+    {
+     "page": 614,
+     "text": "Because of these two effects, the concentrations of the photosensitive chemicals remaining in the rods and cones are considerably reduced, and the sensitivity of the eye to light is correspondingly reduced."
+    },
+    {
+     "page": 614,
+     "text": "This is called light adaptation."
+    },
+    {
+     "page": 614,
+     "text": "Conversely, if a person remains in darkness for a long time, the retinal and opsins in the rods and cones are converted back into the light-sensitive pigments."
+    },
+    {
+     "page": 614,
+     "text": "Furthermore, vitamin A is converted back into retinal to increase lightsensitive pigments, the final limit being determined by the amount of opsins in the rods and cones to combine with the retinal."
+    },
+    {
+     "page": 614,
+     "text": "This is called dark adaptation."
+    },
+    {
+     "page": 614,
+     "text": "Figure 50-9 shows the course of dark adaptation when a person is exposed to total darkness after having been exposed to bright light for several hours."
+    },
+    {
+     "page": 614,
+     "text": "Note that the sensitivity of the retina is very low on first entering the darkness, but within 1 minute, the sensitivity has already increased 10-fold—that is, the retina can respond to light of one tenth the previously required intensity."
+    },
+    {
+     "page": 614,
+     "text": "At the end of 20 minutes, the sensitivity has increased about 6000fold, and at the end of 40 minutes, about 25,000-fold."
+    },
+    {
+     "page": 615,
+     "text": "The early portion of the curve is caused by adaptation of the cones because all the chemical events of vision, including adaptation, occur about four times as rapidly in cones as in rods."
+    },
+    {
+     "page": 615,
+     "text": "However, the cones do not achieve anywhere near the same degree of sensitivity change in darkness as the rods do."
+    },
+    {
+     "page": 615,
+     "text": "Therefore, despite rapid adaptation, the cones cease adapting after only a few minutes, while the slowly adapting rods continue to adapt for many minutes and even hours, their sensitivity increasing tremendously."
+    },
+    {
+     "page": 615,
+     "text": "In addition, still more sensitivity of the rods is caused by neuronal signal convergence of 100 or more rods onto a single ganglion cell in the retina; these rods summate to increase their sensitivity, as discussed later in the chapter."
+    },
+    {
+     "page": 615,
+     "text": "In addition to adaptation caused by changes in concentrations of rhodopsin or color photochemicals, the eye has two other mechanisms for light and dark adaptation."
+    },
+    {
+     "page": 615,
+     "text": "The first of these is a change in pupillary size, as discussed in Chapter 49."
+    },
+    {
+     "page": 615,
+     "text": "This can cause adaptation of approximately 30-fold within a fraction of a second because of changes in the amount of light allowed through the pupillary opening."
+    },
+    {
+     "page": 615,
+     "text": "The other mechanism is neural adaptation, involving the neurons in the successive stages of the visual chain in the retina itself and in the brain."
+    },
+    {
+     "page": 615,
+     "text": "That is, when light intensity first increases, the signals transmitted by the bipolar cells, horizontal cells, amacrine cells, and ganglion cells are all intense."
+    },
+    {
+     "page": 615,
+     "text": "However, most of these signals decrease rapidly at different stages of transmission in the neural circuit."
+    },
+    {
+     "page": 615,
+     "text": "Although the degree of adaptation is only a fewfold rather than the many thousandfold that occurs during adaptation of the photochemical system, neural adaptation occurs in a fraction of a second, in contrast to the many minutes to hours required for full adaptation by the photochemicals."
+    },
+    {
+     "page": 615,
+     "text": "Between the limits of maximal dark adaptation and maximal light adaptation, the eye can change its sensitivity to light as much as 500,000 to 1 million times, the sensitivity automatically adjusting to changes in illumination."
+    },
+    {
+     "page": 615,
+     "text": "Because registration of images by the retina requires detection of both dark and light spots in the image, it is essential that the sensitivity of the retina always be adjusted so that the receptors respond to the lighter areas but not to the darker areas."
+    },
+    {
+     "page": 615,
+     "text": "An example of maladjustment of retinal adaptation occurs when a person leaves a movie theater and enters the bright sunlight."
+    },
+    {
+     "page": 615,
+     "text": "Then, even the dark spots in the images seem exceedingly bright, and as a consequence, the entire visual image is bleached, having little contrast among its different parts."
+    },
+    {
+     "page": 615,
+     "text": "This is poor vision, and it remains poor until the retina has adapted sufficiently so that the darker areas of the image no longer stimulate the receptors excessively."
+    },
+    {
+     "page": 615,
+     "text": "Conversely, when a person first enters darkness, the sensitivity of the retina is usually so slight that even the light spots in the image cannot excite the retina."
+    },
+    {
+     "page": 615,
+     "text": "After dark adaptation, the light spots begin to register."
+    },
+    {
+     "page": 615,
+     "text": "As an example of the extremes of light and dark adaptation, the intensity of sunlight is about 10 billion times that of starlight, yet the eye can function both in bright sunlight after light adaptation and in starlight after dark adaptation."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "color_vision": {
+   "heading": "Color Vision",
+   "chapter": 50,
+   "found": true,
+   "page_start": 615,
+   "page_end": 616,
+   "sentences": [
+    {
+     "page": 615,
+     "text": "From the preceding sections, we have learned that different cones are sensitive to different colors of light."
+    },
+    {
+     "page": 615,
+     "text": "This section is a discussion of the mechanisms by which the retina detects the different gradations of color in the visual spectrum."
+    },
+    {
+     "page": 615,
+     "text": "All theories of color vision are based on the well-known observation that the human eye can detect almost all gradations of colors when only red, green, and blue monochromatic lights are appropriately mixed in different combinations."
+    },
+    {
+     "page": 615,
+     "text": "On the basis of color vision tests, the spectral sensitivities of the three types of cones in humans have proved to be essentially the same as the light absorption curves for the three types of pigment found in the cones."
+    },
+    {
+     "page": 615,
+     "text": "They can explain most of the phenomena of color vision."
+    },
+    {
+     "page": 615,
+     "text": "Thus, the ratios of stimulation of the three types of cones in this instance are 99:42:0."
+    },
+    {
+     "page": 615,
+     "text": "The nervous system interprets this set of ratios as the sensation of orange."
+    },
+    {
+     "page": 616,
+     "text": "This set of ratios—0:0:97—is interpreted by the nervous system as blue."
+    },
+    {
+     "page": 616,
+     "text": "Likewise, ratios of 83:83:0 are interpreted as yellow, and 31:67:36 as green."
+    },
+    {
+     "page": 616,
+     "text": "About equal stimulation of all the red, green, and blue cones gives one the sensation of seeing white."
+    },
+    {
+     "page": 616,
+     "text": "Yet there is no single wavelength of light corresponding to white; instead, white is a combination of all the wavelengths of the spectrum."
+    },
+    {
+     "page": 616,
+     "text": "Furthermore, the perception of white can be achieved by stimulating the retina with a proper combination of only three chosen colors that stimulate the respective types of cones about equally."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "color_blindness": {
+   "heading": "Color Blindness",
+   "chapter": 50,
+   "found": true,
+   "page_start": 616,
+   "page_end": 616,
+   "sentences": [
+    {
+     "page": 616,
+     "text": "When a single group of colorreceptive cones is missing from the eye, the person is unable to distinguish some colors from others."
+    },
+    {
+     "page": 616,
+     "text": "If either of these two cones is missing, the person cannot use this mechanism for distinguishing these four colors; the person is especially unable to distinguish red from green and is therefore said to have red-green color blindness."
+    },
+    {
+     "page": 616,
+     "text": "A person with loss of red cones is called a protanope; the overall visual spectrum is noticeably shortened at the long wavelength end because of a lack of the red cones."
+    },
+    {
+     "page": 616,
+     "text": "A colorblind person who lacks green cones is called a deuteranope; this person has a perfectly normal visual spectral width because red cones are available to detect the long wavelength red color."
+    },
+    {
+     "page": 616,
+     "text": "Red-green color blindness is a genetic disorder that occurs almost exclusively in males."
+    },
+    {
+     "page": 616,
+     "text": "That is, genes in the female X chromosome code for the respective cones."
+    },
+    {
+     "page": 616,
+     "text": "Yet color blindness almost never occurs in females because at least one of the two X chromosomes almost always has a normal gene for each type of cone."
+    },
+    {
+     "page": 616,
+     "text": "Because the male has only one X chromosome, a missing gene can lead to color blindness."
+    },
+    {
+     "page": 616,
+     "text": "Because the X chromosome in the male is always inherited from the mother, never from the father, color blindness is passed from mother to son, and the mother is said to be a color blindness carrier; this is true in about 8 percent of all women."
+    },
+    {
+     "page": 616,
+     "text": "These charts are arranged with a confusion of spots of several different colors."
+    },
+    {
+     "page": 616,
+     "text": "In the top chart, the person with normal color vision reads “74,” whereas the red-green color-blind person reads “21.” In the bottom chart, the person with normal color vision reads “42,” whereas the red-blind person reads “2,” and the greenblind person reads “4.”"
+    }
+   ],
+   "repair_hits": 0
+  },
+  "retinal_circuit": {
+   "heading": "Neural Circuitry of the Retina",
+   "chapter": 50,
+   "found": true,
+   "page_start": 616,
+   "page_end": 616,
+   "sentences": [
+    {
+     "page": 616,
+     "text": "Figure 50-12 presents the essentials of the retina’s neural connections, showing at the left the circuit in the peripheral retina and at the right the circuit in the foveal retina."
+    },
+    {
+     "page": 616,
+     "text": "The different neuronal cell types are as follows: 1."
+    },
+    {
+     "page": 616,
+     "text": "The photoreceptors themselves—the rods and cones—which transmit signals to the outer plexiform person reads “74,” but the red-green color-blind person reads “21.”"
+    },
+    {
+     "page": 616,
+     "text": "Lower: In this chart, the red-blind person (protanope) reads “2,” but the green-blind person (deuteranope) reads “4.” The normal person reads “42.” (Reproduced from Ishihara’s Tests for Colour Blindness."
+    },
+    {
+     "page": 616,
+     "text": "Tokyo: Kanehara & Co., but tests for color blindness cannot be conducted with this material."
+    },
+    {
+     "page": 616,
+     "text": "For accurate testing, the original plates should be used.) layer, where they synapse with bipolar cells and horizontal cells 2."
+    },
+    {
+     "page": 616,
+     "text": "The horizontal cells, which transmit signals horizontally in the outer plexiform layer from the rods and cones to bipolar cells 3."
+    },
+    {
+     "page": 616,
+     "text": "The bipolar cells, which transmit signals vertically from the rods, cones, and horizontal cells to the inner plexiform layer, where they synapse with ganglion cells and amacrine cells 4."
+    },
+    {
+     "page": 616,
+     "text": "The amacrine cells, which transmit signals in two directions, either directly from bipolar cells to ganglion cells or horizontally within the inner plexiform layer from axons of the bipolar cells to dendrites of the ganglion cells or to other amacrine cells 5."
+    },
+    {
+     "page": 616,
+     "text": "The ganglion cells, which transmit output signals from the retina through the optic nerve into the brain A sixth type of neuronal cell in the retina, not very prominent and not shown in the figure, is the interplexiform cell."
+    },
+    {
+     "page": 616,
+     "text": "This cell transmits signals in the retrograde direction from the inner plexiform layer to the outer plexiform layer."
+    },
+    {
+     "page": 616,
+     "text": "These signals are inhibitory and are believed to control lateral spread of visual signals by the horizontal cells in the outer plexiform layer."
+    },
+    {
+     "page": 616,
+     "text": "Their role may be to help control the degree of contrast in the visual image."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cone_pathway": {
+   "heading": "The Visual Pathway from the Cones",
+   "chapter": 50,
+   "found": true,
+   "page_start": 617,
+   "page_end": 617,
+   "sentences": [
+    {
+     "page": 617,
+     "text": "As is true for many of our other sensory systems, the retina has both an old type of vision based on rod vision and a new type of vision based on cone vision."
+    },
+    {
+     "page": 617,
+     "text": "The neurons and nerve fibers that conduct the visual signals for cone vision are considerably larger than those that conduct the visual signals for rod vision, and the signals are conducted to the brain two to five times as rapidly."
+    },
+    {
+     "page": 617,
+     "text": "Also, the circuitry for the two systems is slightly different, as follows."
+    },
+    {
+     "page": 617,
+     "text": "This shows three neurons in the direct pathway: (1) cones, (2) bipolar cells, and (3) ganglion cells."
+    },
+    {
+     "page": 617,
+     "text": "In addition, horizontal cells transmit inhibitory signals laterally in the outer plexiform layer, and amacrine cells transmit signals laterally in the inner plexiform layer."
+    },
+    {
+     "page": 617,
+     "text": "Three bipolar cells are shown; the middle of these connects only to rods, representing the type of visual system present in many lower animals."
+    },
+    {
+     "page": 617,
+     "text": "The output from the bipolar cell passes only to amacrine cells, which relay the signals to the ganglion cells."
+    },
+    {
+     "page": 617,
+     "text": "Thus, for pure rod vision, there are four neurons in the direct visual pathway: (1) rods, (2) bipolar cells, (3) amacrine cells, and (4) ganglion cells."
+    },
+    {
+     "page": 617,
+     "text": "Also, horizontal and amacrine cells provide lateral connectivity."
+    },
+    {
+     "page": 617,
+     "text": "Not all the neurotransmitter chemical substances used for synaptic transmission in the retina have been entirely delineated."
+    },
+    {
+     "page": 617,
+     "text": "However, both the rods and the cones release glutamate at their synapses with the bipolar cells."
+    },
+    {
+     "page": 617,
+     "text": "Histological and pharmacological studies have proven there are many types of amacrine cells secreting at least eight types of transmitter substances, including gammaaminobutyric acid, glycine, dopamine, acetylcholine, and indolamine, all of which normally function as inhibitory transmitters."
+    },
+    {
+     "page": 617,
+     "text": "The transmitters of the bipolar, horizontal, and interplexiform cells are unclear, but at least some of the horizontal cells release inhibitory transmitters."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "electrotonic": {
+   "heading": "Transmission of Most Signals",
+   "chapter": 50,
+   "found": true,
+   "page_start": 617,
+   "page_end": 618,
+   "sentences": [
+    {
+     "page": 617,
+     "text": "The only retinal neurons that always transmit visual signals by means of action potentials are the ganglion cells, and they send their signals all the way to the brain through the optic nerve."
+    },
+    {
+     "page": 617,
+     "text": "Occasionally, action potentials have also been recorded in amacrine cells, although the importance of these action potentials is questionable."
+    },
+    {
+     "page": 617,
+     "text": "Otherwise, all the retinal neurons conduct their visual signals by electrotonic conduction, which can be explained as follows."
+    },
+    {
+     "page": 617,
+     "text": "Electrotonic conduction means direct flow of electric current, not action potentials, in the neuronal cytoplasm and nerve axons from the point of excitation all the way to the output synapses."
+    },
+    {
+     "page": 617,
+     "text": "Even in the rods and cones, conduction from their outer segments, where the visual signals are generated, to the synaptic bodies is by electrotonic conduction."
+    },
+    {
+     "page": 618,
+     "text": "Then, when the transmitter from a rod or cone stimulates a bipolar cell or horizontal cell, once again the signal is transmitted from the input to the output by direct electric current flow, not by action potentials."
+    },
+    {
+     "page": 618,
+     "text": "The importance of electrotonic conduction is that it allows graded conduction of signal strength."
+    },
+    {
+     "page": 618,
+     "text": "Thus, for the rods and cones, the strength of the hyperpolarizing output signal is directly related to the intensity of illumination; the signal is not all or none, as would be the case for each action potential."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "lateral_inhibition": {
+   "heading": "Lateral Inhibition to Enhance Visual",
+   "chapter": 50,
+   "found": true,
+   "page_start": 618,
+   "page_end": 618,
+   "sentences": [
+    {
+     "page": 618,
+     "text": "The outputs of the horizontal cells are always inhibitory."
+    },
+    {
+     "page": 618,
+     "text": "Therefore, this lateral connection provides the same phenomenon of lateral inhibition that is important in all other sensory systems—that is, helping to ensure transmission of visual patterns with proper visual contrast."
+    },
+    {
+     "page": 618,
+     "text": "The visual pathway from the central most area where the light strikes is excited, whereas an area to the side is inhibited."
+    },
+    {
+     "page": 618,
+     "text": "In other words, instead of the excitatory signal spreading widely in the retina because of spreading dendritic and axonal trees in the plexiform layers, transmission through the horizontal cells puts a stop to this by providing lateral inhibition in the surrounding areas."
+    },
+    {
+     "page": 618,
+     "text": "This is essential to allow high visual accuracy in transmitting contrast borders in the visual image."
+    },
+    {
+     "page": 618,
+     "text": "Some of the amacrine cells probably provide additional lateral inhibition and further enhancement of visual contrast in the inner plexiform layer of the retina as well."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "bipolar_onoff": {
+   "heading": "Excitation of Some Bipolar Cells",
+   "chapter": 50,
+   "found": true,
+   "page_start": 618,
+   "page_end": 618,
+   "sentences": [
+    {
+     "page": 618,
+     "text": "Two types of bipolar cells provide opposing excitatory and inhibitory signals in the visual pathway: (1) the depolarizing bipolar cell and (2) the hyperpolarizing bipolar cell."
+    },
+    {
+     "page": 618,
+     "text": "That is, some bipolar cells depolarize when the rods and cones are excited, and others hyperpolarize."
+    },
+    {
+     "page": 618,
+     "text": "There are two possible explanations for this difference."
+    },
+    {
+     "page": 618,
+     "text": "One explanation is that the two bipolar cells are of entirely different types—one responding by depolarizing in response to the glutamate neurotransmitter released by the rods and cones, and the other responding by hyperpolarizing."
+    },
+    {
+     "page": 618,
+     "text": "The other possibility is that one of the bipolar cells receives direct excitation from the rods and cones, whereas the other receives its signal indirectly through a horizontal cell."
+    },
+    {
+     "page": 618,
+     "text": "Because the horizontal cell is an inhibitory cell, this would reverse the polarity of the electrical response."
+    },
+    {
+     "page": 618,
+     "text": "Regardless of the mechanism for the two types of bipolar responses, the importance of this phenomenon is that it allows half the bipolar cells to transmit positive signals and the other half to transmit negative signals."
+    },
+    {
+     "page": 618,
+     "text": "We shall see later that both positive and negative signals are used in transmitting visual information to the brain."
+    },
+    {
+     "page": 618,
+     "text": "Another important aspect of this reciprocal relation between depolarizing and hyperpolarizing bipolar cells is that it provides a second mechanism for lateral inhibition, in addition to the horizontal cell mechanism."
+    },
+    {
+     "page": 618,
+     "text": "Because depolarizing and hyperpolarizing bipolar cells lie immediately against each other, this provides a mechanism for separating contrast borders in the visual image, even when the border lies exactly between two adjacent photoreceptors."
+    },
+    {
+     "page": 618,
+     "text": "In contrast, the horizontal cell mechanism for lateral inhibition operates over a much greater distance."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "amacrine": {
+   "heading": "Amacrine Cells and Their Functions",
+   "chapter": 50,
+   "found": true,
+   "page_start": 618,
+   "page_end": 619,
+   "sentences": [
+    {
+     "page": 618,
+     "text": "About 30 types of amacrine cells have been identified by morphological or histochemical means."
+    },
+    {
+     "page": 618,
+     "text": "The functions of about half a dozen types of amacrine cells have been characterized, and all of them are different."
+    },
+    {
+     "page": 618,
+     "text": "One type of amacrine cell is part of the direct pathway for rod vision—that is, from rod to bipolar cells to amacrine cells to ganglion cells."
+    },
+    {
+     "page": 618,
+     "text": "Another type of amacrine cell responds strongly at the onset of a continuing visual signal, but the response dies rapidly."
+    },
+    {
+     "page": 618,
+     "text": "Other amacrine cells respond strongly at the offset of visual signals, but again, the response fades quickly."
+    },
+    {
+     "page": 618,
+     "text": "Still other amacrine cells respond when a light is turned either on or off, signaling simply a change in illumination, irrespective of direction."
+    },
+    {
+     "page": 619,
+     "text": "In a sense, then, many or most amacrine cells are interneurons that help analyze visual signals before they ever leave the retina."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "ganglion_cells": {
+   "heading": "Ganglion Cells and Optic Nerve Fibers",
+   "chapter": 50,
+   "found": true,
+   "page_start": 619,
+   "page_end": 619,
+   "sentences": [
+    {
+     "page": 619,
+     "text": "Each retina contains about 100 million rods and 3 million cones; yet the number of ganglion cells is only about 1.6 million."
+    },
+    {
+     "page": 619,
+     "text": "Thus, an average of 60 rods and 2 cones converge on each ganglion cell and the optic nerve fiber leading from the ganglion cell to the brain."
+    },
+    {
+     "page": 619,
+     "text": "However, major differences exist between the peripheral retina and the central retina."
+    },
+    {
+     "page": 619,
+     "text": "As one approaches the fovea, fewer rods and cones converge on each optic fiber, and the rods and cones also become more slender."
+    },
+    {
+     "page": 619,
+     "text": "These effects progressively increase the acuity of vision in the central retina."
+    },
+    {
+     "page": 619,
+     "text": "In the center, in the central fovea, there are only slender cones—about 35,000 of them—and no rods."
+    },
+    {
+     "page": 619,
+     "text": "This explains the high degree of visual acuity in the central retina in comparison with the much poorer acuity peripherally."
+    },
+    {
+     "page": 619,
+     "text": "Another difference between the peripheral and central portions of the retina is the much greater sensitivity of the peripheral retina to weak light."
+    },
+    {
+     "page": 619,
+     "text": "This results partly from the fact that rods are 30 to 300 times more sensitive to light than cones are, but it is further magnified by the fact that as many as 200 rods converge on a single optic nerve fiber in the more peripheral portions of the retina, so signals from the rods summate to give even more intense stimulation of the peripheral ganglion cells and their optic nerve fibers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "ganglion_types": {
+   "heading": "Three Types of Retinal Ganglion Cells",
+   "chapter": 50,
+   "found": true,
+   "page_start": 619,
+   "page_end": 619,
+   "sentences": [
+    {
+     "page": 619,
+     "text": "There are three distinct types of ganglion cells, designated W, X, and Y cells."
+    },
+    {
+     "page": 619,
+     "text": "Each of these serves a different function."
+    },
+    {
+     "page": 619,
+     "text": "The W cells, constituting about 40 percent of all the ganglion cells, are small, having a diameter less than 10 micrometers, and they transmit signals in their optic nerve fibers at the slow velocity of only 8 m/sec."
+    },
+    {
+     "page": 619,
+     "text": "These ganglion cells receive most of their excitation from rods, transmitted by way of small bipolar cells and amacrine cells."
+    },
+    {
+     "page": 619,
+     "text": "They have broad fields in the peripheral retina because the dendrites of the ganglion cells spread widely in the inner plexiform layer, receiving signals from broad areas."
+    },
+    {
+     "page": 619,
+     "text": "On the basis of histology, as well as physiological experiments, the W cells seem to be especially sensitive for detecting directional movement in the field of vision, and they are probably important for much of our crude rod vision under dark conditions."
+    },
+    {
+     "page": 619,
+     "text": "The most numerous of the ganglion cells are the X cells, representing 55 percent of the total."
+    },
+    {
+     "page": 619,
+     "text": "They are of medium diameter, between 10 and 15 micrometers, and transmit signals in their optic nerve fibers at about 14 m/sec."
+    },
+    {
+     "page": 619,
+     "text": "The X cells have small fields because their dendrites do not spread widely in the retina."
+    },
+    {
+     "page": 619,
+     "text": "Because of this, their signals represent discrete retinal locations."
+    },
+    {
+     "page": 619,
+     "text": "Therefore, it is mainly through the X cells that the fine details of the visual image are transmitted."
+    },
+    {
+     "page": 619,
+     "text": "Also, because every X cell receives input from at least one cone, X cell transmission is probably responsible for all color vision."
+    },
+    {
+     "page": 619,
+     "text": "Function of the Y Cells to Transmit Instantaneous Changes in the Visual Image."
+    },
+    {
+     "page": 619,
+     "text": "The Y cells are the largest of all, up to 35 micrometers in diameter, and they transmit their signals to the brain at 50 m/sec or faster."
+    },
+    {
+     "page": 619,
+     "text": "They are the least numerous of all the ganglion cells, representing only 5 percent of the total."
+    },
+    {
+     "page": 619,
+     "text": "Also, they have broad dendritic fields, so signals are picked up by these cells from widespread retinal areas."
+    },
+    {
+     "page": 619,
+     "text": "The Y ganglion cells respond, like many of the amacrine cells, to rapid changes in the visual image—either rapid movement or rapid change in light intensity— sending bursts of signals for only small fractions of a second."
+    },
+    {
+     "page": 619,
+     "text": "These ganglion cells presumably apprise the central nervous system almost instantaneously when a new visual event occurs anywhere in the visual field, but without specifying with great accuracy the location of the event, other than to give appropriate clues that make the eyes move toward the exciting vision."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "on_off": {
+   "heading": "Excitation of the Ganglion Cells",
+   "chapter": 50,
+   "found": true,
+   "page_start": 619,
+   "page_end": 620,
+   "sentences": [
+    {
+     "page": 619,
+     "text": "It is from the ganglion cells that the long fibers of the optic nerve lead into the brain."
+    },
+    {
+     "page": 619,
+     "text": "Because of the distance involved, the electrotonic method of conduction employed in the rods, cones, and bipolar cells within the retina is no longer appropriate; therefore, ganglion cells transmit their signals by means of repetitive action potentials instead."
+    },
+    {
+     "page": 619,
+     "text": "Furthermore, even when unstimulated, they still transmit continuous impulses at rates varying between 5 and 40 per second."
+    },
+    {
+     "page": 619,
+     "text": "The visual signals, in turn, are superimposed onto this background ganglion cell firing."
+    },
+    {
+     "page": 619,
+     "text": "The upper panel shows rapid impulses for a fraction of a second when a light is first turned on, but decreasing rapidly in the next fraction of a second."
+    },
+    {
+     "page": 619,
+     "text": "The lower tracing is from a ganglion cell located lateral to the spot of light; this cell is markedly inhibited when the light is turned on because of lateral inhibition."
+    },
+    {
+     "page": 619,
+     "text": "Then, when the light is turned off, opposite effects occur."
+    },
+    {
+     "page": 619,
+     "text": "Thus, these records are called “on-off” and “off-on” responses."
+    },
+    {
+     "page": 619,
+     "text": "The opposite directions of these responses to light are caused, respectively, by the depolarizing and hyperpolarizing bipolar cells, and the transient nature of the responses is probably at least partly generated by the amacrine cells, many of which have similar transient responses themselves."
+    },
+    {
+     "page": 620,
+     "text": "This capability of the eyes to detect change in light intensity is strongly developed in both the peripheral retina and the central retina."
+    },
+    {
+     "page": 620,
+     "text": "For instance, a minute gnat flying across the field of vision is instantaneously detected."
+    },
+    {
+     "page": 620,
+     "text": "Conversely, the same gnat sitting quietly remains below the threshold of visual detection."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "contrast_center": {
+   "heading": "Transmission of Signals Depicting Contrasts",
+   "chapter": 50,
+   "found": true,
+   "page_start": 620,
+   "page_end": 620,
+   "sentences": [
+    {
+     "page": 620,
+     "text": "Many ganglion cells respond mainly to contrast borders in the scene."
+    },
+    {
+     "page": 620,
+     "text": "Because this seems to be the major means by which the pattern of a scene is transmitted to the brain, let us explain how this process occurs."
+    },
+    {
+     "page": 620,
+     "text": "When flat light is applied to the entire retina—that is, when all the photoreceptors are stimulated equally by the incident light—the contrast type of ganglion cell is neither stimulated nor inhibited."
+    },
+    {
+     "page": 620,
+     "text": "The reason for this is that signals transmitted directly from the photoreceptors through depolarizing bipolar cells are excitatory, whereas the signals transmitted laterally through hyperpolarizing bipolar cells, as well as through horizontal cells, are mainly inhibitory."
+    },
+    {
+     "page": 620,
+     "text": "Thus, the direct excitatory signal through one pathway is likely to be neutralized by inhibitory signals through lateral pathways."
+    },
+    {
+     "page": 620,
+     "text": "The central receptor excites a depolarizing bipolar cell."
+    },
+    {
+     "page": 620,
+     "text": "The two receptors on each side are connected to the same bipolar cell through inhibitory horizontal cells that neutralize the direct excitatory signal if all three receptors are stimulated simultaneously by light."
+    },
+    {
+     "page": 620,
+     "text": "Now, let us examine what happens when a contrast border occurs in the visual scene."
+    },
+    {
+     "page": 620,
+     "text": "The bright spot of light excites the direct pathway through the bipolar cell."
+    },
+    {
+     "page": 620,
+     "text": "The fact that one of the lateral photoreceptors is in the dark causes one of the horizontal cells to remain unstimulated."
+    },
+    {
+     "page": 620,
+     "text": "Therefore, this cell does not inhibit the bipolar cell, and this allows extra excitation of the bipolar cell."
+    },
+    {
+     "page": 620,
+     "text": "Thus, where visual contrasts occur, the signals through the direct and lateral pathways accentuate one another."
+    },
+    {
+     "page": 620,
+     "text": "In summary, the mechanism of lateral inhibition functions in the eye in the same way that it functions in most other sensory systems—to provide contrast detection and enhancement."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "color_ganglion": {
+   "heading": "Transmission of Color Signals by the Ganglion",
+   "chapter": 50,
+   "found": true,
+   "page_start": 620,
+   "page_end": 621,
+   "sentences": [
+    {
+     "page": 620,
+     "text": "A single ganglion cell may be stimulated by several cones or by only a few."
+    },
+    {
+     "page": 620,
+     "text": "When all three types of cones—the red, blue, and green types—stimulate the same ganglion cell, the signal transmitted through the ganglion cell is the same for any color of the spectrum."
+    },
+    {
+     "page": 620,
+     "text": "Therefore, the signal from the ganglion cell plays no role in the detection of different colors."
+    },
+    {
+     "page": 620,
+     "text": "Instead, it is a “white” signal."
+    },
+    {
+     "page": 620,
+     "text": "Conversely, some of the ganglion cells are excited by only one color type of cone but inhibited by a second type."
+    },
+    {
+     "page": 620,
+     "text": "For instance, this frequently occurs for the red and green cones, with red causing excitation and green causing inhibition, or vice versa."
+    },
+    {
+     "page": 620,
+     "text": "The same type of reciprocal effect occurs between blue cones on the one hand and a combination of red and green cones (both of which are excited by yellow) on the other hand, giving a reciprocal excitation-inhibition relation between the blue and yellow colors."
+    },
+    {
+     "page": 621,
+     "text": "The mechanism of this opposing effect of colors is the following: One color type of cone excites the ganglion cell by the direct excitatory route through a depolarizing bipolar cell, whereas the other color type inhibits the ganglion cell by the indirect inhibitory route through a hyperpolarizing bipolar cell."
+    },
+    {
+     "page": 621,
+     "text": "The importance of these color-contrast mechanisms is that they represent a means by which the retina itself begins to differentiate colors."
+    },
+    {
+     "page": 621,
+     "text": "Thus, each color-contrast type of ganglion cell is excited by one color but inhibited by the “opponent” color."
+    },
+    {
+     "page": 621,
+     "text": "Therefore, color analysis begins in the retina and is not entirely a function of the brain."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "visual_pathways": {
+   "heading": "Visual Pathways",
+   "chapter": 51,
+   "found": true,
+   "page_start": 623,
+   "page_end": 623,
+   "sentences": [
+    {
+     "page": 623,
+     "text": "Figure 51-1 shows the principal visual pathways from the two retinas to the visual cortex."
+    },
+    {
+     "page": 623,
+     "text": "The visual nerve signals leave the retinas through the optic nerves."
+    },
+    {
+     "page": 623,
+     "text": "At the optic chiasm, the optic nerve fibers from the nasal halves of the retinas cross to the opposite sides, where they join the fibers from the opposite temporal retinas to form the optic tracts."
+    },
+    {
+     "page": 623,
+     "text": "The fibers of each optic tract then synapse in the dorsal lateral geniculate nucleus of the thalamus, and from there, geniculocalcarine fibers pass by way of the optic radiation (also called the geniculocalcarine tract) to the primary visual cortex in the calcarine fissure area of the medial occipital lobe."
+    },
+    {
+     "page": 623,
+     "text": "Visual fibers also pass to several older areas of the brain: (1) from the optic tracts to the suprachiasmatic nucleus of the hypothalamus, presumably to control circadian rhythms that synchronize various physiologic changes of the body with night and day; (2) into the pretectal nuclei in the midbrain, to elicit reflex movements of the eyes to focus on objects of importance and to activate the pupillary light reflex; (3) into the superior colliculus, to control rapid directional movements of the two eyes; and (4) into the ventral lateral geniculate nucleus of the thalamus and surrounding basal regions of the brain, presumably to help control some of the body’s behavioral functions."
+    },
+    {
+     "page": 623,
+     "text": "Thus, the visual pathways can be divided roughly into an old system to the midbrain and base of the forebrain and a new system for direct transmission of visual signals into the visual cortex located in the occipital lobes."
+    },
+    {
+     "page": 623,
+     "text": "In humans, the new system is responsible for perception of virtually all aspects of visual form, colors, and other conscious vision."
+    },
+    {
+     "page": 623,
+     "text": "Conversely, in many primitive animals, even visual form is detected by the older system, using the superior colliculus in the same manner that the visual cortex is used in mammals."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "lgn": {
+   "heading": "Function of the Dorsal Lateral Geniculate",
+   "chapter": 51,
+   "found": true,
+   "page_start": 623,
+   "page_end": 624,
+   "sentences": [
+    {
+     "page": 623,
+     "text": "The dorsal lateral geniculate nucleus serves two principal functions: First, it relays visual information from the optic tract to the visual cortex by way of the optic radiation (also called the geniculocalcarine tract)."
+    },
+    {
+     "page": 623,
+     "text": "This relay function is so accurate that there is exact point-to-point transmission with a high degree of spatial fidelity all the way from the retina to the visual cortex."
+    },
+    {
+     "page": 623,
+     "text": "Half the fibers in each optic tract after passing the optic chiasm are derived from one eye and half from the other eye, representing corresponding points on the two retinas."
+    },
+    {
+     "page": 623,
+     "text": "However, the signals from the two eyes are kept apart in the dorsal lateral geniculate nucleus."
+    },
+    {
+     "page": 623,
+     "text": "This nucleus is composed of six nuclear layers."
+    },
+    {
+     "page": 623,
+     "text": "Layers II, III, and V (from ventral to dorsal) receive signals from the lateral half of the ipsilateral retina, whereas layers I, IV, and VI receive signals from the medial half of the retina of the opposite eye."
+    },
+    {
+     "page": 624,
+     "text": "The second major function of the dorsal lateral geniculate nucleus is to “gate” the transmission of signals to the visual cortex—that is, to control how much of the signal is allowed to pass to the cortex."
+    },
+    {
+     "page": 624,
+     "text": "The nucleus receives gating control signals from two major sources: (1) corticofugal fibers returning in a backward direction from the primary visual cortex to the lateral geniculate nucleus, and (2) reticular areas of the mesencephalon."
+    },
+    {
+     "page": 624,
+     "text": "Both of these are inhibitory and, when stimulated, can turn off transmission through selected portions of the dorsal lateral geniculate nucleus."
+    },
+    {
+     "page": 624,
+     "text": "Both of these gating circuits help highlight the visual information that is allowed to pass."
+    },
+    {
+     "page": 624,
+     "text": "Finally, the dorsal lateral geniculate nucleus is divided in another way: (1) Layers I and II are called magnocellular layers because they contain large neurons."
+    },
+    {
+     "page": 624,
+     "text": "These receive their input almost entirely from the large type Y retinal ganglion cells."
+    },
+    {
+     "page": 624,
+     "text": "This magnocellular system provides a rapidly conducting pathway to the visual cortex."
+    },
+    {
+     "page": 624,
+     "text": "However, this system is color blind, transmitting only black-and-white information."
+    },
+    {
+     "page": 624,
+     "text": "Also, its point-to-point transmission is poor because there are not many Y ganglion cells, and their dendrites spread widely in the retina."
+    },
+    {
+     "page": 624,
+     "text": "(2) Layers III through VI are called parvocellular layers because they contain large numbers of small to medium-sized neurons."
+    },
+    {
+     "page": 624,
+     "text": "These neurons receive their input almost entirely from the type X retinal ganglion cells that transmit color and convey accurate point-to-point spatial information, but at only a moderate velocity of conduction rather than at high velocity."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "v1": {
+   "heading": "Organization and Function",
+   "chapter": 51,
+   "found": true,
+   "page_start": 624,
+   "page_end": 625,
+   "sentences": [
+    {
+     "page": 624,
+     "text": "Like the cortical representations of the other sensory systems, the visual cortex is divided into a primary visual cortex and secondary visual areas."
+    },
+    {
+     "page": 624,
+     "text": "This area is the terminus of direct visual signals from the eyes."
+    },
+    {
+     "page": 624,
+     "text": "The upper portion of the retina is represented superiorly and the lower portion inferiorly."
+    },
+    {
+     "page": 624,
+     "text": "Note in the figure the large area that represents the macula."
+    },
+    {
+     "page": 624,
+     "text": "It is to this region that the retinal fovea transmits its signals."
+    },
+    {
+     "page": 624,
+     "text": "The fovea is responsible for the highest degree of visual acuity."
+    },
+    {
+     "page": 624,
+     "text": "Based on retinal area, the fovea has several hundred times as much representation in the primary visual cortex as do the most peripheral portions of the retina."
+    },
+    {
+     "page": 624,
+     "text": "The primary visual cortex is also called visual area I."
+    },
+    {
+     "page": 624,
+     "text": "Still another name is the striate cortex because this area has a grossly striated appearance."
+    },
+    {
+     "page": 624,
+     "text": "The secondary visual areas, also called visual association areas, lie lateral, anterior, superior, and inferior to the primary visual cortex."
+    },
+    {
+     "page": 624,
+     "text": "Secondary signals are transmitted to these areas for analysis of visual meanings."
+    },
+    {
+     "page": 625,
+     "text": "Therefore, Brodmann’s area 18 is called visual area II, or simply V-2."
+    },
+    {
+     "page": 625,
+     "text": "The other, more distant secondary visual areas have specific designations—V-3, V-4, and so forth—up to more than a dozen areas."
+    },
+    {
+     "page": 625,
+     "text": "The importance of all these areas is that various aspects of the visual image are progressively dissected and analyzed."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cortex_layers": {
+   "heading": "The Primary Visual Cortex Has Six Major Layers",
+   "chapter": 51,
+   "found": true,
+   "page_start": 625,
+   "page_end": 625,
+   "sentences": [
+    {
+     "page": 625,
+     "text": "Also, as is true for the other sensory systems, the geniculocalcarine fibers terminate mainly in layer IV."
+    },
+    {
+     "page": 625,
+     "text": "But this layer, too, is organized into subdivisions."
+    },
+    {
+     "page": 625,
+     "text": "The rapidly conducted signals from the Y retinal ganglion cells terminate in layer IVcα, and from there they are relayed vertically both outward toward the cortical surface and inward toward deeper levels."
+    },
+    {
+     "page": 625,
+     "text": "The visual signals from the medium-sized optic nerve fibers, derived from the X ganglion cells in the retina, also terminate in layer IV, but at points different from the Y signals."
+    },
+    {
+     "page": 625,
+     "text": "From there, these signals are transmitted vertically both toward the surface of the cortex and to deeper layers."
+    },
+    {
+     "page": 625,
+     "text": "It is these X ganglion pathways that transmit the accurate point-to-point type of vision, as well as color vision."
+    },
+    {
+     "page": 625,
+     "text": "The visual cortex is organized structurally into several million vertical columns of neuronal cells, each column having a diameter of 30 to 50 micrometers."
+    },
+    {
+     "page": 625,
+     "text": "The same vertical columnar organization is found throughout the cerebral cortex for the other senses as well (and also in the motor and analytical cortical regions)."
+    },
+    {
+     "page": 625,
+     "text": "Each column represents a functional unit."
+    },
+    {
+     "page": 625,
+     "text": "One can roughly calculate that each of the visual vertical columns has perhaps 1000 or more neurons."
+    },
+    {
+     "page": 625,
+     "text": "After the optic signals terminate in layer IV, they are further processed as they spread both outward and inward along each vertical column unit."
+    },
+    {
+     "page": 625,
+     "text": "This processing is believed to decipher separate bits of visual information at successive stations along the pathway."
+    },
+    {
+     "page": 625,
+     "text": "The signals that pass outward to layers I, II, and III eventually transmit signals for short distances laterally in the cortex."
+    },
+    {
+     "page": 625,
+     "text": "Conversely, the signals that pass inward to layers V and VI excite neurons that transmit signals much greater distances."
+    },
+    {
+     "page": 625,
+     "text": "Interspersed among the primary visual columns, as well as among the columns of some of the secondary visual areas, are special column-like areas called color blobs."
+    },
+    {
+     "page": 625,
+     "text": "They receive lateral signals from adjacent visual columns and are activated specifically by color signals."
+    },
+    {
+     "page": 625,
+     "text": "Therefore, these blobs are presumably the primary areas for deciphering color."
+    },
+    {
+     "page": 625,
+     "text": "Recall that visual signals from the two separate eyes are relayed through separate neuronal layers in the lateral geniculate nucleus."
+    },
+    {
+     "page": 625,
+     "text": "These signals still remain separated from each other when they arrive in layer IV of the primary visual cortex."
+    },
+    {
+     "page": 625,
+     "text": "In fact, layer IV is interlaced with stripes of neuronal columns, each stripe about 0.5 millimeter wide; the signals from one eye enter the columns of every other stripe, alternating with signals from the second eye."
+    },
+    {
+     "page": 625,
+     "text": "This cortical area deciphers whether the respective areas of the two visual images from the two separate eyes are “in register” with each other—that is, whether corresponding points from the two retinas fit with each other."
+    },
+    {
+     "page": 625,
+     "text": "In turn, the deciphered information is used to adjust the directional gaze of the separate eyes so that they will fuse with each other (be brought into “register”)."
+    },
+    {
+     "page": 625,
+     "text": "The information observed about degree of register of images from the two eyes also allows a person to distinguish the distance of objects by the mechanism of stereopsis."
+    },
+    {
+     "page": 625,
+     "text": "The connections shown on the left side of the figure originate in the magnocellular layers of the lateral geniculate nucleus (LGN) and transmit rapidly changing black-and-white visual signals."
+    },
+    {
+     "page": 625,
+     "text": "The pathways to the right originate in the parvocellular layers (layers III through VI) of the LGN; they transmit signals that depict accurate spatial detail, as well as color."
+    },
+    {
+     "page": 625,
+     "text": "Note especially the areas of the visual cortex called “color blobs,” which are necessary for detection of color."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "pathways_mp": {
+   "heading": "Two Major Pathways for Analysis",
+   "chapter": 51,
+   "found": true,
+   "page_start": 626,
+   "page_end": 626,
+   "sentences": [
+    {
+     "page": 626,
+     "text": "Figure 51-3 shows that after leaving the primary visual cortex, the visual information is analyzed in two major pathways in the secondary visual areas."
+    },
+    {
+     "page": 626,
+     "text": "This pathway also analyzes the gross physical form of the visual scene, as well as motion in the scene."
+    },
+    {
+     "page": 626,
+     "text": "In other words, this pathway tells where every object is during each instant and whether it is moving."
+    },
+    {
+     "page": 626,
+     "text": "After leaving the primary visual cortex, the signals flow generally into the posterior midtemporal area and upward into the broad occipitoparietal cortex."
+    },
+    {
+     "page": 626,
+     "text": "At the anterior border of the parietal cortex, the signals overlap with signals from the posterior somatic association areas that analyze three-dimensional aspects of somatosensory signals."
+    },
+    {
+     "page": 626,
+     "text": "The signals transmitted in this position-formmotion pathway are mainly from the large Y optic nerve fibers of the retinal Y ganglion cells, transmitting rapid signals but depicting only black and white with no color."
+    },
+    {
+     "page": 626,
+     "text": "Separate portions of this pathway specifically dissect out color as well."
+    },
+    {
+     "page": 626,
+     "text": "Therefore, this pathway is concerned with such visual feats as recognizing letters, reading, determining the texture of surfaces, determining detailed colors of objects, and deciphering from all this information what the object is and what it means."
+    },
+    {
+     "page": 626,
+     "text": "Therefore, what does the primary visual cortex detect?"
+    },
+    {
+     "page": 626,
+     "text": "To the right is shown the spatial pattern of the most excited neurons in the visual cortex."
+    },
+    {
+     "page": 626,
+     "text": "Note that the areas of maximum excitation occur along the sharp borders of the visual pattern."
+    },
+    {
+     "page": 626,
+     "text": "Thus, the visual signal in the primary visual cortex is concerned mainly with contrasts in the visual scene, rather than with noncontrasting areas."
+    },
+    {
+     "page": 626,
+     "text": "We noted in Chapter 50 that this is also true of most of the retinal ganglion because equally stimulated adjacent retinal receptors mutually inhibit one another."
+    },
+    {
+     "page": 626,
+     "text": "But at any border in the visual scene where there is a change from dark to light or light to dark, mutual inhibition does not occur, and the intensity of stimulation of most neurons is proportional to the gradient of contrast—that is, the greater the sharpness of contrast and the greater the intensity difference between light and dark areas, the greater the degree of stimulation."
+    },
+    {
+     "page": 626,
+     "text": "This is believed to result from linear organizations of mutually inhibiting cells that excite second-order neurons when inhibition occurs all along a line of cells where there is a contrast edge."
+    },
+    {
+     "page": 626,
+     "text": "Thus, for each such orientation of a line, specific neuronal cells are stimulated."
+    },
+    {
+     "page": 626,
+     "text": "A line oriented in a different direction excites a different set of cells."
+    },
+    {
+     "page": 626,
+     "text": "These neuronal cells are called simple cells."
+    },
+    {
+     "page": 626,
+     "text": "They are found mainly in layer IV of the primary visual cortex."
+    },
+    {
+     "page": 626,
+     "text": "As the visual signal progresses farther away from layer IV, some neurons respond to lines that are oriented in the same direction but are not position specific."
+    },
+    {
+     "page": 626,
+     "text": "That is, even if a line is displaced moderate distances laterally or vertically in the field, the same few neurons will still be stimulated if the line has the same direction."
+    },
+    {
+     "page": 626,
+     "text": "These cells are called complex cells."
+    },
+    {
+     "page": 626,
+     "text": "Some neurons in the outer layers of the primary visual columns, as well as neurons in some secondary visual areas, are stimulated only by lines or borders of specific lengths, by specific angulated shapes, or by images that have other characteristics."
+    },
+    {
+     "page": 626,
+     "text": "That is, these neurons detect still higher orders of information from the visual scene."
+    },
+    {
+     "page": 626,
+     "text": "Thus, as one goes farther into the analytical pathway of the visual cortex, progressively more characteristics of each visual scene are deciphered."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "color_cortex": {
+   "heading": "Detection of Color",
+   "chapter": 51,
+   "found": true,
+   "page_start": 627,
+   "page_end": 627,
+   "sentences": [
+    {
+     "page": 627,
+     "text": "Color is detected in much the same way that lines are detected: by means of color contrast."
+    },
+    {
+     "page": 627,
+     "text": "For instance, a red area is often contrasted against a green area, a blue area against a red area, or a green area against a yellow area."
+    },
+    {
+     "page": 627,
+     "text": "All these colors can also be contrasted against a white area within the visual scene."
+    },
+    {
+     "page": 627,
+     "text": "In fact, this contrasting against white is believed to be mainly responsible for the phenomenon called “color constancy”; that is, when the color of an illuminating light changes, the color of the “white” changes with the light, and appropriate computation in the brain allows red to be interpreted as red even though the illuminating light has changed the color entering the eyes."
+    },
+    {
+     "page": 627,
+     "text": "The mechanism of color contrast analysis depends on the fact that contrasting colors, called “opponent colors,” excite specific neuronal cells."
+    },
+    {
+     "page": 627,
+     "text": "It is presumed that the initial details of color contrast are detected by simple cells, whereas more complex contrasts are detected by complex and hypercomplex cells."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cortex_removal": {
+   "heading": "Effect of Removing the Primary Visual Cortex",
+   "chapter": 51,
+   "found": true,
+   "page_start": 627,
+   "page_end": 627,
+   "sentences": [
+    {
+     "page": 627,
+     "text": "Removal of the primary visual cortex in the human being causes loss of conscious vision, that is, blindness."
+    },
+    {
+     "page": 627,
+     "text": "However, psychological studies demonstrate that such “blind” people can still, at times, react subconsciously to changes in light intensity, to movement in the visual scene, or, rarely, even to some gross patterns of vision."
+    },
+    {
+     "page": 627,
+     "text": "These reactions include turning the eyes, turning the head, and avoidance."
+    },
+    {
+     "page": 627,
+     "text": "This vision is believed to be subserved by neuronal pathways that pass from the optic tracts mainly into the superior colliculi and other portions of the older visual system."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "perimetry": {
+   "heading": "Fields of Vision; Perimetry",
+   "chapter": 51,
+   "found": true,
+   "page_start": 627,
+   "page_end": 627,
+   "sentences": [
+    {
+     "page": 627,
+     "text": "The field of vision is the visual area seen by an eye at a given instant."
+    },
+    {
+     "page": 627,
+     "text": "The area seen to the nasal side is called the nasal field of vision, and the area seen to the lateral side is called the temporal field of vision."
+    },
+    {
+     "page": 627,
+     "text": "To diagnose blindness in specific portions of the retina, one charts the field of vision for each eye by a process called perimetry."
+    },
+    {
+     "page": 627,
+     "text": "This is done by having the subject look with one eye closed and the other eye looking toward a central spot directly in front of the eye."
+    },
+    {
+     "page": 627,
+     "text": "Then a small dot of light or a small object is moved back and forth in all areas of the field of vision, and the subject indicates when the spot of light or object can be seen and when it cannot."
+    },
+    {
+     "page": 627,
+     "text": "In all perimetry charts, a blind spot caused by lack of rods and cones in the retina over the optic disc is found about 15 degrees lateral to the central point of vision, as shown in the figure."
+    },
+    {
+     "page": 627,
+     "text": "Occasionally, blind spots are found in portions of the field of vision other than the optic disc area."
+    },
+    {
+     "page": 627,
+     "text": "Such blind spots are called scotomata; they frequently are caused by damage to the optic nerve resulting from glaucoma (too much fluid pressure in the eyeball), from allergic reactions in the retina, or from toxic conditions such as lead poisoning or excessive use of tobacco."
+    },
+    {
+     "page": 627,
+     "text": "Another condition that can be diagnosed by perimetry is retinitis pigmentosa."
+    },
+    {
+     "page": 627,
+     "text": "In this disease, portions of the retina degenerate, and excessive melanin pigment deposits in the degenerated areas."
+    },
+    {
+     "page": 627,
+     "text": "Retinitis pigmentosa usually causes blindness in the peripheral field of vision first and then gradually encroaches on the central areas."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "lesions": {
+   "heading": "Effect of Lesions in the Optic Pathway",
+   "chapter": 51,
+   "found": true,
+   "page_start": 627,
+   "page_end": 627,
+   "sentences": [
+    {
+     "page": 627,
+     "text": "Destruction of an entire optic nerve causes blindness of the affected eye."
+    },
+    {
+     "page": 627,
+     "text": "Destruction of the optic chiasm prevents the crossing of impulses from the nasal half of each retina to the opposite optic tract."
+    },
+    {
+     "page": 627,
+     "text": "Therefore, the nasal half of each retina is blinded, which means that the person is blind in the temporal field of vision for each eye because the image of the field of vision is inverted on the retina by the optical system of the eye; this condition is called bitemporal hemianopsia."
+    },
+    {
+     "page": 627,
+     "text": "Such lesions frequently result from tumors of the pituitary gland pressing upward from the sella turcica on the bottom of the optic chiasm."
+    },
+    {
+     "page": 627,
+     "text": "Interruption of an optic tract denervates the corresponding half of each retina on the same side as the lesion; as a result, neither eye can see objects to the opposite side of the head."
+    },
+    {
+     "page": 627,
+     "text": "This condition is known as homonymous hemianopsia."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "eye_movements": {
+   "heading": "Eye Movements and Their Control",
+   "chapter": 51,
+   "found": true,
+   "page_start": 627,
+   "page_end": 628,
+   "sentences": [
+    {
+     "page": 627,
+     "text": "To make full use of the visual abilities of the eyes, almost equally as important as interpretation of the visual signals from the eyes is the cerebral control system for directing the eyes toward the object to be viewed."
+    },
+    {
+     "page": 628,
+     "text": "The medial and lateral recti contract to move the eyes from side to side."
+    },
+    {
+     "page": 628,
+     "text": "The superior and inferior recti contract to move the eyes upward or downward."
+    },
+    {
+     "page": 628,
+     "text": "The oblique muscles function mainly to rotate the eyeballs to keep the visual fields in the upright position."
+    },
+    {
+     "page": 628,
+     "text": "Figure 51-7 also shows brain stem nuclei for the third, fourth, and sixth cranial nerves and their connections with the peripheral nerves to the ocular muscles."
+    },
+    {
+     "page": 628,
+     "text": "Shown, too, are interconnections among the brain stem nuclei by way of the nerve tract called the medial longitudinal fasciculus."
+    },
+    {
+     "page": 628,
+     "text": "Each of the three sets of muscles to each eye is reciprocally innervated so that one muscle of the pair relaxes while the other contracts."
+    },
+    {
+     "page": 628,
+     "text": "Figure 51-8 demonstrates cortical control of the oculomotor apparatus, showing spread of signals from visual areas in the occipital cortex through occipitotectal and occipitocollicular tracts to the pretectal and superior colliculus areas of the brain stem."
+    },
+    {
+     "page": 628,
+     "text": "From both the pretectal and the superior colliculus areas, the oculomotor control signals pass to the brain stem nuclei of the oculomotor nerves."
+    },
+    {
+     "page": 628,
+     "text": "Strong signals are also transmitted from the body’s equilibrium control centers in the brain stem into the oculomotor system (from the vestibular nuclei by way of the medial longitudinal fasciculus)."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "fixation": {
+   "heading": "Fixation Movements of the Eyes",
+   "chapter": 51,
+   "found": true,
+   "page_start": 628,
+   "page_end": 629,
+   "sentences": [
+    {
+     "page": 628,
+     "text": "Perhaps the most important movements of the eyes are those that cause the eyes to “fix” on a discrete portion of the field of vision."
+    },
+    {
+     "page": 628,
+     "text": "Fixation movements are controlled by two neuronal mechanisms."
+    },
+    {
+     "page": 628,
+     "text": "The first of these allows a person to move the eyes voluntarily to find the object on which he or she wants to fix the vision; this is called the voluntary fixation mechanism."
+    },
+    {
+     "page": 628,
+     "text": "The second is an involuntary mechanism that holds the eyes firmly on the object once it has been found; this is called the involuntary fixation mechanism."
+    },
+    {
+     "page": 629,
+     "text": "Bilateral dysfunction or destruction of these areas makes it difficult for a person to “unlock” the eyes from one point of fixation and move them to another point."
+    },
+    {
+     "page": 629,
+     "text": "It is usually necessary to blink the eyes or put a hand over the eyes for a short time, which then allows the eyes to be moved."
+    },
+    {
+     "page": 629,
+     "text": "Conversely, the fixation mechanism that causes the eyes to “lock” on the object of attention once it is found is controlled by secondary visual areas in the occipital cortex, located mainly anterior to the primary visual cortex."
+    },
+    {
+     "page": 629,
+     "text": "When this fixation area is destroyed bilaterally in an animal, the animal has difficulty keeping its eyes directed toward a given fixation point or may become totally unable to do so."
+    },
+    {
+     "page": 629,
+     "text": "To summarize, posterior “involuntary” occipital cortical eye fields automatically “lock” the eyes on a given spot of the visual field and thereby prevent movement of the image across the retinas."
+    },
+    {
+     "page": 629,
+     "text": "To unlock this visual fixation, voluntary signals must be transmitted from cortical “voluntary” eye fields located in the frontal cortices."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "involuntary_fixation": {
+   "heading": "Mechanism of Involuntary Locking Fixation",
+   "chapter": 51,
+   "found": true,
+   "page_start": 629,
+   "page_end": 629,
+   "sentences": [
+    {
+     "page": 629,
+     "text": "The involuntary locking type of fixation discussed in the previous section results from a negative feedback mechanism that prevents the object of attention from leaving the foveal portion of the retina."
+    },
+    {
+     "page": 629,
+     "text": "The eyes normally have three types of continuous but almost imperceptible movements: (1) a continuous tremor at a rate of 30 to 80 cycles per second caused by successive contractions of the motor units in the ocular muscles, (2) a slow drift of the eyeballs in one direction or another, and (3) sudden flicking movements that are controlled by the involuntary fixation mechanism."
+    },
+    {
+     "page": 629,
+     "text": "When a spot of light has become fixed on the foveal region of the retina, the tremulous movements cause the spot to move back and forth at a rapid rate across the cones, and the drifting movements cause the spot to drift slowly across the cones."
+    },
+    {
+     "page": 629,
+     "text": "Each time the spot drifts as far as the edge of the fovea, a sudden reflex reaction occurs, producing a flicking movement that moves the spot away from this edge back toward the center of the fovea."
+    },
+    {
+     "page": 629,
+     "text": "Thus, an automatic response moves the image back toward the central point of vision."
+    },
+    {
+     "page": 629,
+     "text": "This involuntary fixation capability is mostly lost when the superior colliculi are destroyed."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "saccades": {
+   "heading": "Saccadic Movement of the Eyes",
+   "chapter": 51,
+   "found": true,
+   "page_start": 629,
+   "page_end": 629,
+   "sentences": [
+    {
+     "page": 629,
+     "text": "When a visual scene is moving continually before the eyes, such as when a person is riding in a car, the eyes fix on one highlight after another in the visual field, jumping from one to the next at a rate of two to three jumps per second."
+    },
+    {
+     "page": 629,
+     "text": "The jumps are called saccades, and the movements are called opticokinetic movements."
+    },
+    {
+     "page": 629,
+     "text": "The saccades occur so rapidly that no more than 10 percent of the total time is spent in moving the eyes, with 90 percent of the time being allocated to the fixation sites."
+    },
+    {
+     "page": 629,
+     "text": "Also, the brain suppresses the visual image during saccades, so the person is not conscious of the movements from point to point."
+    },
+    {
+     "page": 629,
+     "text": "In this case, the visual scene is not moving past the eyes, but the eyes are trained to move by means of several successive saccades across the visual scene to extract the important information."
+    },
+    {
+     "page": 629,
+     "text": "Similar saccades occur when a person observes a painting, except that the saccades occur in upward, sideways, downward, and angulated directions one after another from one highlight of the painting to another, and so forth."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "pursuit": {
+   "heading": "Fixation on Moving Objects",
+   "chapter": 51,
+   "found": true,
+   "page_start": 629,
+   "page_end": 629,
+   "sentences": [
+    {
+     "page": 629,
+     "text": "The eyes can also remain fixed on a moving object, which is called pursuit movement."
+    },
+    {
+     "page": 629,
+     "text": "A highly developed cortical mechanism automatically detects the course of movement of an object and then rapidly develops a similar course of movement for the eyes."
+    },
+    {
+     "page": 629,
+     "text": "For instance, if an object is moving up and down in a wavelike form at a rate of several times per second, the eyes at first may be unable to fixate on it."
+    },
+    {
+     "page": 629,
+     "text": "However, after a second or so, the eyes begin to jump by means of saccades in approximately the same wavelike pattern of movement as that of the object."
+    },
+    {
+     "page": 629,
+     "text": "Then, after another few seconds, the eyes develop progressively smoother movements and finally follow the wave movement almost exactly."
+    },
+    {
+     "page": 629,
+     "text": "This represents a high degree of automatic subconscious computational ability by the pursuit system for controlling eye movements."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "colliculi": {
+   "heading": "Superior Colliculi Are Mainly Responsible",
+   "chapter": 51,
+   "found": true,
+   "page_start": 630,
+   "page_end": 630,
+   "sentences": [
+    {
+     "page": 630,
+     "text": "This does not occur if the superior colliculi have also been destroyed."
+    },
+    {
+     "page": 630,
+     "text": "To support this function, the various points of the retina are represented topographically in the superior colliculi in the same way as in the primary visual cortex, although with less accuracy."
+    },
+    {
+     "page": 630,
+     "text": "Even so, the principal direction of a flash of light in a peripheral retinal field is mapped by the colliculi, and secondary signals are transmitted to the oculomotor nuclei to turn the eyes."
+    },
+    {
+     "page": 630,
+     "text": "To help in this directional movement of the eyes, the superior colliculi also have topological maps of somatic sensations from the body and acoustic signals from the ears."
+    },
+    {
+     "page": 630,
+     "text": "The optic nerve fibers from the eyes to the colliculi, which are responsible for these rapid turning movements, are branches from the rapidly conducting Y fibers, with one branch going to the visual cortex and the other going to the superior colliculi."
+    },
+    {
+     "page": 630,
+     "text": "(The superior colliculi and other regions of the brain stem are also strongly supplied with visual signals transmitted in type W optic nerve fibers."
+    },
+    {
+     "page": 630,
+     "text": "These represent the oldest visual pathway, but their funcIn addition to causing the eyes to turn toward a visual disturbance, signals are relayed from the superior colliculi through the medial longitudinal fasciculus to other levels of the brain stem to cause turning of the whole head and even of the whole body toward the direction of the disturbance."
+    },
+    {
+     "page": 630,
+     "text": "Other types of nonvisual disturbances, such as strong sounds or even stroking of the side of the body, cause similar turning of the eyes, head, and body, but only if the superior colliculi are intact."
+    },
+    {
+     "page": 630,
+     "text": "Therefore, the superior colliculi play a global role in orienting the eyes, head, and body with respect to external disturbances, whether they are visual, auditory, or somatic."
+    },
+    {
+     "page": 630,
+     "text": "The visual cortex plays an important role in fusion."
+    },
+    {
+     "page": 630,
+     "text": "It was pointed out earlier in the chapter that corresponding points of the two retinas transmit visual signals to different neuronal layers of the lateral geniculate body, and these signals in turn are relayed to parallel neurons in the visual cortex."
+    },
+    {
+     "page": 630,
+     "text": "Interactions occur between these cortical neurons to cause interference excitation in specific neurons when the two visual images are not “in register”—that is, are not precisely “fused.” This excitation presumably provides the signal that is transmitted to the oculomotor apparatus to cause convergence or divergence or rotation of the eyes so that fusion can be re-established."
+    },
+    {
+     "page": 630,
+     "text": "Once the corresponding points of the two retinas are in register, excitation of the specific “interference” neurons in the visual cortex disappears."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "stereopsis": {
+   "heading": "Neural Mechanism of Stereopsis",
+   "chapter": 51,
+   "found": true,
+   "page_start": 630,
+   "page_end": 630,
+   "sentences": [
+    {
+     "page": 630,
+     "text": "In Chapter 49, it is pointed out that because the two eyes are more than 2 inches apart, the images on the two retinas are not exactly the same."
+    },
+    {
+     "page": 630,
+     "text": "That is, the right eye sees a little more of the right-hand side of the object, and the left eye a little more of the left-hand side, and the closer the object, the greater the disparity."
+    },
+    {
+     "page": 630,
+     "text": "Therefore, even when the two eyes are fused with each other, it is still impossible for all corresponding points in the two visual images to be exactly in register at the same time."
+    },
+    {
+     "page": 630,
+     "text": "Furthermore, the nearer the object is to the eyes, the less the degree of register."
+    },
+    {
+     "page": 630,
+     "text": "This degree of nonregister provides the neural mechanism for stereopsis, an important mechanism for judging the distances of visual objects up to about 200 feet (60 meters)."
+    },
+    {
+     "page": 630,
+     "text": "The neuronal cellular mechanism for stereopsis is based on the fact that some of the fiber pathways from the retinas to the visual cortex stray 1 to 2 degrees on each side of the central pathway."
+    },
+    {
+     "page": 630,
+     "text": "Therefore, some optic pathways from the two eyes are exactly in register for objects 2 meters away; still another set of pathways is in register for objects 25 meters away."
+    },
+    {
+     "page": 630,
+     "text": "Thus, the distance is determined by which set or sets of pathways are excited by nonregister or register."
+    },
+    {
+     "page": 630,
+     "text": "This phenomenon is called depth perception, which is another name for stereopsis."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "strabismus": {
+   "heading": "Strabismus",
+   "chapter": 51,
+   "found": true,
+   "page_start": 630,
+   "page_end": 631,
+   "sentences": [
+    {
+     "page": 630,
+     "text": "Strabismus, also called squint or cross-eye, means lack of fusion of the eyes in one or more of the visual coordinates: horizontal, vertical, or rotational."
+    },
+    {
+     "page": 630,
+     "text": "Combinations of two or even all three of the different types of strabismus often occur."
+    },
+    {
+     "page": 630,
+     "text": "Strabismus is often caused by abnormal “set” of the fusion mechanism of the visual system."
+    },
+    {
+     "page": 630,
+     "text": "That is, in a young child’s early efforts to fixate the two eyes on the same object, one of the eyes fixates satisfactorily while the other fails do so, or they both fixate satisfactorily but never simultaneously."
+    },
+    {
+     "page": 630,
+     "text": "Soon the patterns of conjugate movements of the eyes become abnormally “set” in the neuronal control pathways themselves, so the eyes never fuse."
+    },
+    {
+     "page": 630,
+     "text": "In a few patients with strabismus, the eyes alternate in fixing on the object of attention."
+    },
+    {
+     "page": 630,
+     "text": "In other patients, one eye alone is used all the time, and the other eye becomes repressed and is never used for precise vision."
+    },
+    {
+     "page": 630,
+     "text": "The visual acuity of the repressed eye develops only slightly, sometimes remaining 20/400 or less."
+    },
+    {
+     "page": 631,
+     "text": "This demonstrates that visual acuity is highly dependent on proper development of central nervous system synaptic connections from the eyes."
+    },
+    {
+     "page": 631,
+     "text": "In fact, even anatomically, the numbers of neuronal connections diminish in the visual cortex areas that would normally receive signals from the repressed eye."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "accommodation": {
+   "heading": "Autonomic Control of Accommodation",
+   "chapter": 51,
+   "found": true,
+   "page_start": 631,
+   "page_end": 631,
+   "sentences": [
+    {
+     "page": 631,
+     "text": "The parasympathetic preganglionic fibers arise in the Edinger-Westphal nucleus (the visceral nucleus portion of the third cranial nerve) and then pass in the third nerve to the ciliary ganglion, which lies immediately behind the eye."
+    },
+    {
+     "page": 631,
+     "text": "There, the preganglionic fibers synapse with postganglionic parasympathetic neurons, which in turn send fibers through ciliary nerves into the eyeball."
+    },
+    {
+     "page": 631,
+     "text": "These nerves excite (1) the ciliary muscle that controls focusing of the eye lens and (2) the sphincter of the iris that constricts the pupil."
+    },
+    {
+     "page": 631,
+     "text": "The sympathetic innervation of the eye originates in the intermediolateral horn cells of the first thoracic segment of the spinal cord."
+    },
+    {
+     "page": 631,
+     "text": "From there, sympathetic fibers enter the sympathetic chain and pass upward to the superior cervical ganglion, where they synapse with postganglionic neurons."
+    },
+    {
+     "page": 631,
+     "text": "Postganglionic sympathetic fibers from these then spread along the surfaces of the carotid artery and successively smaller arteries until they reach the eye."
+    },
+    {
+     "page": 631,
+     "text": "There, the sympathetic fibers innervate the radial fibers of the iris (which open the pupil), as well as several extraocular muscles of the eye, which are discussed subsequently in relation to Horner’s syndrome."
+    },
+    {
+     "page": 631,
+     "text": "The accommodation mechanism—that is, the mechanism that focuses the lens system of the eye—is essential for a high degree of visual acuity."
+    },
+    {
+     "page": 631,
+     "text": "Accommodation results from contraction or relaxation of the eye ciliary muscle."
+    },
+    {
+     "page": 631,
+     "text": "Contraction causes increased refractive power of the lens, as explained in Chapter 49, and relaxation causes decreased power."
+    },
+    {
+     "page": 631,
+     "text": "How does a person adjust accommodation to keep the eyes in focus all the time?"
+    },
+    {
+     "page": 631,
+     "text": "Accommodation of the lens is regulated by a negative feedback mechanism that automatically adjusts the refractive power of the lens to achieve the highest degree of visual acuity."
+    },
+    {
+     "page": 631,
+     "text": "When the eyes have been focused on some far object and must then suddenly focus on a near object, the lens usually accommodates for best acuity of vision within less than 1 second."
+    },
+    {
+     "page": 631,
+     "text": "Although the precise control mechanism that causes this rapid and accurate focusing of the eye is unclear, some of the known features are the following."
+    },
+    {
+     "page": 631,
+     "text": "First, when the eyes suddenly change distance of the fixation point, the lens changes its strength in the proper direction to achieve a new state of focus within a fraction of a second."
+    },
+    {
+     "page": 631,
+     "text": "Second, different types of clues help to change the lens strength in the proper direction: 1."
+    },
+    {
+     "page": 631,
+     "text": "Chromatic aberration appears to be important."
+    },
+    {
+     "page": 631,
+     "text": "That is, red light rays focus slightly posteriorly to blue light rays because the lens bends blue rays more than red rays."
+    },
+    {
+     "page": 631,
+     "text": "The eyes appear to be able to detect which of these two types of rays is in better focus, and this clue relays information to the accommodation mechanism whether to make the lens stronger or weaker."
+    },
+    {
+     "page": 631,
+     "text": "When the eyes fixate on a near object, the eyes must converge."
+    },
+    {
+     "page": 631,
+     "text": "The neural mechanisms for convergence cause a simultaneous signal to strengthen the lens of the eye."
+    },
+    {
+     "page": 631,
+     "text": "Because the fovea lies in a hollowed-out depression that is slightly deeper than the remainder of the retina, the clarity of focus in the depth of the fovea is different from the clarity of focus on the edges."
+    },
+    {
+     "page": 631,
+     "text": "This may also give clues about which way the strength of the lens needs to be changed."
+    },
+    {
+     "page": 631,
+     "text": "The degree of accommodation of the lens oscillates slightly all the time at a frequency up to twice per second."
+    },
+    {
+     "page": 631,
+     "text": "The visual image becomes clearer when the oscillation of the lens strength is changing in the appropriate direction and becomes poorer when the lens strength is changing in the wrong direction."
+    },
+    {
+     "page": 631,
+     "text": "This could give a rapid clue as to which way the strength of the lens needs to change to provide appropriate focus."
+    },
+    {
+     "page": 631,
+     "text": "(Modified from Ranson SW, Clark SL: The brain cortical areas that control accommodation closely parallel those that control fixation movements of the eyes, with analysis of the visual signals in Brodmann’s cortical areas 18 and 19 and transmission of motor signals to the ciliary muscle through the pretectal area in the brain stem, then through the Edinger-Westphal nucleus, and finally by way of parasympathetic nerve fibers to the eyes."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "pupil": {
+   "heading": "Control of Pupillary Diameter",
+   "chapter": 51,
+   "found": true,
+   "page_start": 632,
+   "page_end": 632,
+   "sentences": [
+    {
+     "page": 632,
+     "text": "Stimulation of the parasympathetic nerves also excites the pupillary sphincter muscle, thereby decreasing the pupillary aperture; this is called miosis."
+    },
+    {
+     "page": 632,
+     "text": "Conversely, stimulation of the sympathetic nerves excites the radial fibers of the iris and causes pupillary dilation, called mydriasis."
+    },
+    {
+     "page": 632,
+     "text": "When light is shone into the eyes, the pupils constrict, a reaction called the pupillary light reflex."
+    },
+    {
+     "page": 632,
+     "text": "When light impinges on the retina, a few of the resulting impulses pass from the optic nerves to the pretectal nuclei."
+    },
+    {
+     "page": 632,
+     "text": "From here, secondary impulses pass to the Edinger-Westphal nucleus and, finally, back through parasympathetic nerves to constrict the sphincter of the iris."
+    },
+    {
+     "page": 632,
+     "text": "Conversely, in darkness, the reflex becomes inhibited, which results in dilation of the pupil."
+    },
+    {
+     "page": 632,
+     "text": "The function of the light reflex is to help the eye adapt extremely rapidly to changing light conditions, as explained in Chapter 50."
+    },
+    {
+     "page": 632,
+     "text": "The limits of pupillary diameter are about 1.5 millimeters on the small side and 8 millimeters on the large side."
+    },
+    {
+     "page": 632,
+     "text": "Therefore, because light brightness on the retina increases with the square of pupillary diameter, the range of light and dark adaptation that can be brought about by the pupillary reflex is about 30 to 1—that is, up to as much as 30 times change in the amount of light entering the eye."
+    },
+    {
+     "page": 632,
+     "text": "A few central nervous system diseases damage nerve transmission of visual signals from the retinas to the Edinger-Westphal nucleus, thus sometimes blocking the pupillary reflexes."
+    },
+    {
+     "page": 632,
+     "text": "Such blocks may occur as a result of central nervous system syphilis, alcoholism, encephalitis, and so forth."
+    },
+    {
+     "page": 632,
+     "text": "The block usually occurs in the pretectal region of the brain stem, although it can result from destruction of some small fibers in the optic nerves."
+    },
+    {
+     "page": 632,
+     "text": "The final nerve fibers in the pathway through the pretectal area to the Edinger-Westphal nucleus are mostly of the inhibitory type."
+    },
+    {
+     "page": 632,
+     "text": "When their inhibitory effect is lost, the nucleus becomes chronically active, causing the pupils to remain mostly constricted, in addition to their failure to respond to light."
+    },
+    {
+     "page": 632,
+     "text": "Yet the pupils can constrict a little more if the EdingerWestphal nucleus is stimulated through some other pathway."
+    },
+    {
+     "page": 632,
+     "text": "For instance, when the eyes fixate on a near object, the signals that cause accommodation of the lens and those that cause convergence of the two eyes cause a mild degree of pupillary constriction at the same time."
+    },
+    {
+     "page": 632,
+     "text": "This is called the pupillary reaction to accommodation."
+    },
+    {
+     "page": 632,
+     "text": "A pupil that fails to respond to light but does respond to accommodation and is also very small (an Argyll Robertson pupil) is an important diagnostic sign of central nervous system disease such as syphilis."
+    },
+    {
+     "page": 632,
+     "text": "The sympathetic nerves to the eye are occasionally interrupted."
+    },
+    {
+     "page": 632,
+     "text": "Interruption frequently occurs in the cervical sympathetic chain."
+    },
+    {
+     "page": 632,
+     "text": "This causes the clinical condition called Horner’s syndrome, which consists of the following effects: First, because of interruption of sympathetic nerve fibers to the pupillary dilator muscle, the pupil remains persistently constricted to a smaller diameter than the pupil of the opposite eye."
+    },
+    {
+     "page": 632,
+     "text": "Second, the superior eyelid droops because it is normally maintained in an open position during waking hours partly by contraction of smooth muscle fibers embedded in the superior eyelid and innervated by the sympathetics."
+    },
+    {
+     "page": 632,
+     "text": "Therefore, destruction of the sympathetic nerves makes it impossible to open the superior eyelid as widely as normally."
+    },
+    {
+     "page": 632,
+     "text": "Third, the blood vessels on the corresponding side of the face and head become persistently dilated."
+    },
+    {
+     "page": 632,
+     "text": "Fourth, sweating (which requires sympathetic nerve signals) cannot occur on the side of the face and head affected by Horner’s syndrome."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}

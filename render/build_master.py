@@ -95,6 +95,22 @@ SESSIONS = {
         divider_title="نوروفیزیولوژی:\nاز قشر حسی پیکری\nتا درد و حرارت",
         pdf_name="HumsYar_Neuro_Jalase4.pdf",
     ),
+    "s05": dict(
+        num="۵", n=5, of="۱۶",
+        guyton_ch="فصل‌های ۵۰ و ۵۱",
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر برای ساختار شبکیه و فتورسپتورها "
+              "(۱ تا ۵)، دو نفر برای ترانسداکسیون، تطابق و دید رنگ (۶ تا ۱۰)، دو نفر برای مدارهای "
+              "شبکیه و مسیر بینایی (۱۱ تا ۱۷)، دو نفر برای قشر، حرکات چشم و رفلکس‌ها (۱۸ تا ۲۴) "
+              "به‌همراه گردآوری. این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.",
+        outline="s05_topics.json",
+        content=("s05_a.json", "s05_b.json", "s05_c.json"),
+        guyton="guyton_s05_excerpts.json",
+        chapter_anchor="ch-s05",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="بینایی: شبکیه، مسیر بینایی و حرکات چشم",
+        divider_title="نوروفیزیولوژی:\nاز شبکیه\nتا حرکات چشم",
+        pdf_name="HumsYar_Neuro_Jalase5.pdf",
+    ),
 }
 
 SESSION = "s01"
@@ -145,7 +161,8 @@ def tno(tid: str) -> str:
 
 
 def page_range(pages) -> str:
-    return "، ".join(fa(p) for p in pages)
+    """Printed list of 1402 pages; an empty list means the deck has none for that topic."""
+    return "، ".join(fa(p) for p in pages) if pages else "—"
 
 
 def cover_page(book: PDFBook, cfg: dict, outline: dict) -> None:
@@ -273,7 +290,11 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
         "نقل شده و املا نادرست است، در همان جمله اصلاح شده است.",
         "صفحه‌های جزوهٔ ۱۴۰۲ با خواندن تصویر همان صفحه به متن فارسی برگردانده شده‌اند. اگر "
         "عبارتی روی صفحه ناخوانا یا بریده بوده، به‌جای حدس زدن، در متن «…» گذاشته شده و در "
-        "همان مبحث یادداشت شده است.",
+        "همان مبحث یادداشت شده است."
+        if any(t.get("notes1402") for t in outline["topics"]) else
+        "جزوهٔ ورودی «جلسه ۵» بهمن ۱۴۰۲ در سیزده صفحه به درد و سردرد می‌پردازد و محتوای "
+        "بینایی ندارد؛ بنابراین در این سند هیچ ارجاعی به ۱۴۰۲ نیامده و همهٔ مباحث فقط بر "
+        "جزوهٔ مهر ۱۴۰۴ و گایتون فصل‌های ۵۰ و ۵۱ استوارند.",
     ])
 
 
@@ -322,10 +343,13 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
     p1402 = [p for t in outline["topics"] for p in t.get("notes1402", [])]
     rng04 = (f"صفحه‌های {fa(min(p1404))} تا {fa(max(p1404))}") if p1404 else "—"
     rng02 = (f"{fa(max(p1402))} صفحه") if p1402 else "—"
-    book.paragraph(
-        f"استاد: {outline['professor']} · ترم: {outline['term']} · "
-        f"منبع اصلی متن: جزوهٔ مهر ۱۴۰۴ ({rng04}) · "
-        f"منبع دوم: جزوهٔ ورودی بهمن ۱۴۰۲ ({rng02}).")
+    src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
+                f"منبع اصلی متن: جزوهٔ مهر ۱۴۰۴ ({rng04})")
+    if p1402:
+        src_line += f" · منبع دوم: جزوهٔ ورودی بهمن ۱۴۰۲ ({rng02})."
+    else:
+        src_line += " · این جلسه جزوهٔ متناظر ۱۴۰۲ ندارد."
+    book.paragraph(src_line + ".")
     book.h2("نقشهٔ درخت مباحث", anchor=f"{cfg['chapter_anchor']}-tree")
     rows = []
     for t in outline["topics"]:

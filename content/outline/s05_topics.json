@@ -1,0 +1,645 @@
+{
+ "session_id": "s05",
+ "title": "جلسهٔ ۵ — نوروفیزیولوژی: بینایی، از شبکیه تا حرکات چشم",
+ "professor": "دکتر خوارزمی",
+ "term": "مهر ۱۴۰۴ (جزوهٔ ۱۴۰۴)",
+ "subtitle": "دکتر خوارزمی · مهر ۱۴۰۴",
+ "divider_note": "صفحه‌های ۲ تا ۲۵ جزوهٔ مهر ۱۴۰۴",
+ "start_heading": "بینایی، بخش دوم: از شبکیه تا حرکات چشم",
+ "conflicts": [
+  {
+   "issue": "جزوهٔ بهمن ۱۴۰۲ برای این جلسه محتوای بینایی ندارد",
+   "detail": "فایل «جلسه ۵» جزوهٔ بهمن ۱۴۰۲ در ۱۳ صفحه در واقع درس درد و سردرد است و محتوای نیمهٔ دوم جلسهٔ ۴ را تکرار می‌کند؛ هیچ صفحه‌ای از آن به بینایی نمی‌پردازد. بنابراین همهٔ مباحث این جلسه فقط بر جزوهٔ مهر ۱۴۰۴ و گایتون فصل‌های ۵۰ و ۵۱ استوارند و ارجاع ۱۴۰۲ در هیچ مبحثی نیامده است. این خالی بودن در سند پنهان نشده است.",
+   "label": "محدودیت منبع"
+  },
+  {
+   "issue": "تعداد سلول‌های شبکیه: پنج در جزوه، شش در گایتون",
+   "detail": "جزوه پنج سلول اصلی شبکیه را می‌شمارد (فتورسپتور، دوقطبی، گانگلیونی، افقی، آماکرین). گایتون یک نوع ششم (سلول بین‌شبکه‌ای) را هم نام می‌برد که نقش آن هنوز کامل روشن نیست. عدد جزوه دست‌نخورده مانده و نوع ششم با ارجاع به گایتون در مبحث ۱۱ اضافه شده است.",
+   "label": "اختلاف با منبع"
+  },
+  {
+   "issue": "بزرگنمایی قشری ماکولا با دو بیان متفاوت",
+   "detail": "جزوه ۳۵٬۰۰۰ مخروط ماکولا را به «۱ میلی‌متر» از قشر و در جای دیگر همان تعداد را به کل ناحیهٔ ۱۷ نسبت می‌دهد. گایتون بزرگی نمای ماکولا را با نسبت مساحت قشر بیان می‌کند، نه با عدد میلی‌متر. عدد جزوه با احتیاط و در کنار توضیح گایتون در مبحث ۱۸ آمده و بازبینی علمی آن باز است.",
+   "label": "نیازمند تطبیق با منبع"
+  },
+  {
+   "issue": "میدان گیرندهٔ گانگلیونی: دو سیناپس یا سه سیناپس",
+   "detail": "جزوه مسیر فووآ را «دو سیناپسه» و مسیر محیطی را «سه سیناپسه» می‌نامد، اما در همان صفحه توضیح می‌دهد که در محیط هم مسیر دو سیناپسه دیده می‌شود و آماکرین‌ها فقط تعدیل می‌کنند. گایتون این شمارش را به کار نمی‌برد و مسیر استوانه‌ای را با واسطهٔ آماکرین توصیف می‌کند. هر دو بیان در مبحث ۱۱ کنار هم آمده است.",
+   "label": "اختلاف درون‌منبعی"
+  }
+ ],
+ "topics": [
+  {
+   "topic_id": "s05-T01",
+   "title": "ساختمان شبکیه و مسیر نور",
+   "start_heading": "شبکیه: از لایهٔ پیگمان‌دار تا عصب بینایی",
+   "prerequisites": [],
+   "guyton": [
+    "anatomy",
+    "fovea",
+    "pigment_layer"
+   ],
+   "notes1404": [
+    2
+   ],
+   "notes_size": "large",
+   "p1404": [
+    2
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T02",
+   "title": "سلول‌های شبکیه، نقطهٔ کور و لکهٔ زرد",
+   "start_heading": "چهار سلول دیگر شبکیه و نقطهٔ کور",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T01",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "anatomy",
+    "fovea"
+   ],
+   "notes1404": [
+    2,
+    3
+   ],
+   "notes_size": "large",
+   "p1404": [
+    2,
+    3
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T03",
+   "title": "ساختار فتورسپتور و مقایسهٔ استوانه و مخروط",
+   "start_heading": "فتورسپتور: سه قطعه و دو نوع",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T01",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "rods_cones"
+   ],
+   "notes1404": [
+    3,
+    4
+   ],
+   "notes_size": "large",
+   "p1404": [
+    3,
+    4
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T04",
+   "title": "پیگمان بینایی: رتینال و اُپسین",
+   "start_heading": "پیگمان بینایی و تفاوت اُپسین‌ها",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T03",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "photochemistry",
+    "cone_pigments"
+   ],
+   "notes1404": [
+    4,
+    5
+   ],
+   "notes_size": "large",
+   "p1404": [
+    4,
+    5
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T05",
+   "title": "چرخهٔ رودوپسین، بازسازی و شب‌کوری",
+   "start_heading": "چرخهٔ رودوپسین و نقش ویتامین A",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T04",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "rhodopsin_cycle"
+   ],
+   "notes1404": [
+    5,
+    6
+   ],
+   "notes_size": "large",
+   "p1404": [
+    5,
+    6
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T06",
+   "title": "پتانسیل تاریکی و آبشار ترانسداکسیون",
+   "start_heading": "پتانسیل تاریکی و کانال‌های cGMP",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T05",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "rod_potential",
+    "cascade"
+   ],
+   "notes1404": [
+    6,
+    7
+   ],
+   "notes_size": "large",
+   "p1404": [
+    6,
+    7
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T07",
+   "title": "هایپرپلاریزاسیون و بازگشت cGMP",
+   "start_heading": "هایپرپلاریزاسیون: زبان سیگنال نوری",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T06",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "rod_potential",
+    "cascade"
+   ],
+   "notes1404": [
+    6,
+    7
+   ],
+   "notes_size": "large",
+   "p1404": [
+    6,
+    7
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T08",
+   "title": "تطابق با نور و تاریکی، منحنی تطابق تاریکی",
+   "start_heading": "تطابق با نور و تاریکی",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T05",
+     "level": "ضروری"
+    },
+    {
+     "topic_id": "s05-T07",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "adaptation"
+   ],
+   "notes1404": [
+    7,
+    8,
+    9
+   ],
+   "notes_size": "large",
+   "p1404": [
+    7,
+    8,
+    9
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T09",
+   "title": "دید رنگ: سه نوع مخروط و نسبت تحریک",
+   "start_heading": "سه نوع مخروط و پیک جذب",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T04",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "color_vision",
+    "cone_pigments"
+   ],
+   "notes1404": [
+    8,
+    9
+   ],
+   "notes_size": "large",
+   "p1404": [
+    8,
+    9
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T10",
+   "title": "کوررنگی و چارت‌های ایشیهارا",
+   "start_heading": "کوررنگی: پروتانوپیا و دوترانوپیا",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T09",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "color_blindness"
+   ],
+   "notes1404": [
+    9,
+    10
+   ],
+   "notes_size": "large",
+   "p1404": [
+    9,
+    10
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T11",
+   "title": "پنج سلول شبکیه، مدار فووآ و همگرایی",
+   "start_heading": "پنج سلول شبکیه و مدار فووآ",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T02",
+     "level": "ضروری"
+    },
+    {
+     "topic_id": "s05-T03",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "retinal_circuit",
+    "cone_pathway",
+    "electrotonic"
+   ],
+   "notes1404": [
+    10,
+    11,
+    12
+   ],
+   "notes_size": "large",
+   "p1404": [
+    10,
+    11,
+    12
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T12",
+   "title": "سلول‌های دوقطبی مرکز‌روشن و مرکز‌خاموش",
+   "start_heading": "دوقطبی‌های on-center و off-center",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T11",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "bipolar_onoff"
+   ],
+   "notes1404": [
+    12,
+    13
+   ],
+   "notes_size": "large",
+   "p1404": [
+    12,
+    13
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T13",
+   "title": "میدان گیرنده، مهار جانبی و نور یکنواخت",
+   "start_heading": "میدان گیرنده و سناریوهای نور",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T12",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "lateral_inhibition",
+    "contrast_center",
+    "amacrine"
+   ],
+   "notes1404": [
+    13,
+    14
+   ],
+   "notes_size": "large",
+   "p1404": [
+    13,
+    14
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T14",
+   "title": "سلول‌های گانگلیونی: on-off و انواع W، X، Y",
+   "start_heading": "سلول‌های گانگلیونی و پاسخ on-off",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T11",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "ganglion_cells",
+    "ganglion_types",
+    "on_off"
+   ],
+   "notes1404": [
+    11,
+    14
+   ],
+   "notes_size": "large",
+   "p1404": [
+    11,
+    14
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T15",
+   "title": "میدان بینایی، کیاسما و ضایعات مسیر",
+   "start_heading": "میدان بینایی و قانون ضربدری",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T14",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "visual_pathways",
+    "lesions"
+   ],
+   "notes1404": [
+    14,
+    15,
+    16
+   ],
+   "notes_size": "large",
+   "p1404": [
+    14,
+    15,
+    16
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T16",
+   "title": "جسم زانویی خارجی: شش لایه و دو مسیر M و P",
+   "start_heading": "جسم زانویی خارجی (LGB)",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T15",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "lgn"
+   ],
+   "notes1404": [
+    16,
+    17
+   ],
+   "notes_size": "large",
+   "p1404": [
+    16,
+    17
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T17",
+   "title": "مقاصد فرعی: سوپراکیاسماتیک، پرتکتال و کولیکولوس",
+   "start_heading": "سه مقصد دیگر راه بینایی",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T15",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "lgn",
+    "colliculi"
+   ],
+   "notes1404": [
+    16,
+    17
+   ],
+   "notes_size": "large",
+   "p1404": [
+    16,
+    17
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T18",
+   "title": "قشر بینایی اولیه: ناحیهٔ ۱۷، شیار کالکارین و بزرگنمایی ماکولا",
+   "start_heading": "قشر بینایی اولیه و شیار کالکارین",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T16",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "v1"
+   ],
+   "notes1404": [
+    18
+   ],
+   "notes_size": "large",
+   "p1404": [
+    18
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T19",
+   "title": "شش لایه، ستون‌ها، حباب‌های رنگی، سلول ساده و پیچیده",
+   "start_heading": "شش لایه و سازمان ستونی قشر بینایی",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T18",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "cortex_layers",
+    "pathways_mp",
+    "color_cortex"
+   ],
+   "notes1404": [
+    19,
+    20
+   ],
+   "notes_size": "large",
+   "p1404": [
+    19,
+    20
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T20",
+   "title": "دو جریان M و P در قشر، نواحی ارتباطی و حدت بینایی",
+   "start_heading": "دو اتوبان پردازش تصویر",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T19",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "pathways_mp",
+    "cortex_removal"
+   ],
+   "notes1404": [
+    18,
+    19,
+    20
+   ],
+   "notes_size": "large",
+   "p1404": [
+    18,
+    19,
+    20
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T21",
+   "title": "عضلات و اعصاب حرکات چشم",
+   "start_heading": "شش عضله و سه عصب",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T18",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "eye_movements"
+   ],
+   "notes1404": [
+    20,
+    21
+   ],
+   "notes_size": "large",
+   "p1404": [
+    20,
+    21
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T22",
+   "title": "تثبیت ارادی و غیرارادی، ساکاد و پرسوت",
+   "start_heading": "تثبیت: ارادی و غیرارادی",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T21",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "fixation",
+    "involuntary_fixation",
+    "saccades",
+    "pursuit"
+   ],
+   "notes1404": [
+    21,
+    22
+   ],
+   "notes_size": "large",
+   "p1404": [
+    21,
+    22
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T23",
+   "title": "استریوپسیس، لوچی و تنبلی چشم",
+   "start_heading": "استریوپسیس و اختلاف تصویر دو چشم",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T22",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "stereopsis",
+    "strabismus"
+   ],
+   "notes1404": [
+    22,
+    23
+   ],
+   "notes_size": "large",
+   "p1404": [
+    22,
+    23
+   ],
+   "notes1402": []
+  },
+  {
+   "topic_id": "s05-T24",
+   "title": "سه‌گانهٔ نزدیک و رفلکس نوری مردمک",
+   "start_heading": "سه‌گانهٔ نزدیک و رفلکس مردمک",
+   "prerequisites": [
+    {
+     "topic_id": "s05-T17",
+     "level": "ضروری"
+    },
+    {
+     "topic_id": "s05-T23",
+     "level": "ضروری"
+    }
+   ],
+   "guyton": [
+    "accommodation",
+    "pupil"
+   ],
+   "notes1404": [
+    23,
+    24,
+    25
+   ],
+   "notes_size": "large",
+   "p1404": [
+    23,
+    24,
+    25
+   ],
+   "notes1402": []
+  }
+ ]
+}
