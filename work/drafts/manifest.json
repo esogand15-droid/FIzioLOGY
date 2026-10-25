@@ -1,0 +1,131 @@
+{
+ "pdf": "جلسه 1 نوروفیزیولوژی مهر 1404.pdf",
+ "topics": [
+  {
+   "topic_id": "s01-T01",
+   "title": "اهمیت و نقش سیستم عصبی در بدن",
+   "pages": [
+    2,
+    3
+   ],
+   "draft": "work/drafts/s01-T01.md"
+  },
+  {
+   "topic_id": "s01-T02",
+   "title": "سازمان‌دهی ساختاری و عملکردی سیستم عصبی",
+   "pages": [
+    3,
+    6
+   ],
+   "draft": "work/drafts/s01-T02.md"
+  },
+  {
+   "topic_id": "s01-T03",
+   "title": "سطوح عملکردی سیستم عصبی مرکزی (نخاع، زیرقشری، قشری)",
+   "pages": [
+    6,
+    9
+   ],
+   "draft": "work/drafts/s01-T03.md"
+  },
+  {
+   "topic_id": "s01-T04",
+   "title": "اجزای سلولی سیستم عصبی و ساختار تیپیک نورون",
+   "pages": [
+    9,
+    14
+   ],
+   "draft": "work/drafts/s01-T04.md"
+  },
+  {
+   "topic_id": "s01-T05",
+   "title": "طبقه‌بندی نورون‌ها بر اساس شکل و عملکرد",
+   "pages": [
+    14,
+    18
+   ],
+   "draft": "work/drafts/s01-T05.md"
+  },
+  {
+   "topic_id": "s01-T06",
+   "title": "نوروترانسمیترها: دسته‌بندی، میانجی‌های کوچک‌مولکول و نوروپپتیدها",
+   "pages": [
+    18,
+    23
+   ],
+   "draft": "work/drafts/s01-T06.md"
+  },
+  {
+   "topic_id": "s01-T07",
+   "title": "نوراپی‌نفرین (Norepinephrine)",
+   "pages": [
+    23,
+    25
+   ],
+   "draft": "work/drafts/s01-T07.md"
+  },
+  {
+   "topic_id": "s01-T08",
+   "title": "دوپامین (Dopamine)",
+   "pages": [
+    25,
+    27
+   ],
+   "draft": "work/drafts/s01-T08.md"
+  },
+  {
+   "topic_id": "s01-T09",
+   "title": "سروتونین (Serotonin / 5-HT)",
+   "pages": [
+    27,
+    28
+   ],
+   "draft": "work/drafts/s01-T09.md"
+  },
+  {
+   "topic_id": "s01-T10",
+   "title": "هیستامین (Histamine)",
+   "pages": [
+    28,
+    29
+   ],
+   "draft": "work/drafts/s01-T10.md"
+  },
+  {
+   "topic_id": "s01-T11",
+   "title": "استیل‌کولین (ACh) و نکات فارماکولوژیک و سم‌شناسی",
+   "pages": [
+    29,
+    32
+   ],
+   "draft": "work/drafts/s01-T11.md"
+  },
+  {
+   "topic_id": "s01-T12",
+   "title": "میانجی‌های اسید آمینه‌ای (GABA، گلوتامات، گلایسین) و میانجی‌های گازی (NO، CO)",
+   "pages": [
+    32,
+    36
+   ],
+   "draft": "work/drafts/s01-T12.md"
+  },
+  {
+   "topic_id": "s01-T13",
+   "title": "مقایسهٔ کاربردی نوروترانسمیترها: گیرنده‌ها و مکانیسم‌های اثر",
+   "pages": [
+    36,
+    38
+   ],
+   "draft": "work/drafts/s01-T13.md"
+  },
+  {
+   "topic_id": "s01-T14",
+   "title": "هم‌انتقال‌دهنده‌ها (Cotransmitters) و جمع‌بندی جلسه",
+   "pages": [
+    38,
+    42
+   ],
+   "draft": "work/drafts/s01-T14.md"
+  }
+ ]
+}

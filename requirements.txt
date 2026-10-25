@@ -1,0 +1,13 @@
+# Master-notes build pipeline. Versions below are the ones the PDF in this repo
+# was actually built with (pip freeze of the working venv, trimmed to direct deps).
+reportlab==5.1.0
+pypdf==6.21.2
+pypdfium2==5.14.0
+pillow==13.0.0
+arabic-reshaper==3.0.1
+python-bidi==0.6.12
+fonttools==4.67.0
+uharfbuzz==0.57.0
+# extraction only (not needed to rebuild the PDF)
+pymupdf==2.0
+pymupdf4llm==2.0

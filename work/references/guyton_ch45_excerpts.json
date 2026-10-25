@@ -1,0 +1,590 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "chapter": 45,
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "general_design": {
+   "heading": "General Design of the Nervous System",
+   "found": true,
+   "start_line": 61685,
+   "end_line": 61927,
+   "page_start": 543,
+   "page_end": 545,
+   "sentences": [
+    {
+     "page": 543,
+     "text": "The central nervous system contains more than 100 billion neurons."
+    },
+    {
+     "page": 543,
+     "text": "Figure 45-1 shows a typical neuron of a type found in the brain motor cortex."
+    },
+    {
+     "page": 543,
+     "text": "Incoming signals enter this neuron through synapses located mostly on the neuronal dendrites, but also on the cell body."
+    },
+    {
+     "page": 543,
+     "text": "For different types of neurons, there may be only a few hundred or as many as 200,000 such synaptic connections from input fibers."
+    },
+    {
+     "page": 543,
+     "text": "Conversely, the output signal travels by way of a single axon leaving the neuron."
+    },
+    {
+     "page": 543,
+     "text": "Then, this axon has many separate branches to other parts of the nervous system or peripheral body."
+    },
+    {
+     "page": 543,
+     "text": "A special feature of most synapses is that the signal normally passes only in the forward direction, from the axon of a preceding neuron to dendrites on cell membranes of subsequent neurons."
+    },
+    {
+     "page": 543,
+     "text": "This forces the signal to travel in required directions for performing specific nervous functions."
+    },
+    {
+     "page": 543,
+     "text": "Most activities of the nervous system are initiated by sensory experiences that excite sensory receptors, whether visual receptors in the eyes, auditory receptors in the ears, tactile receptors on the surface of the body, or other kinds of receptors."
+    },
+    {
+     "page": 543,
+     "text": "These sensory experiences can either cause immediate reactions from the brain, or memories of the experiences can be stored in the brain for minutes, weeks, or years and determine bodily reactions at some future date."
+    },
+    {
+     "page": 543,
+     "text": "Figure 45-2 shows the somatic portion of the sensory system, which transmits sensory information from the receptors of the entire body surface and from some deep structures."
+    },
+    {
+     "page": 543,
+     "text": "This information enters the central nervous system through peripheral nerves and is conducted immediately to multiple sensory areas in (1) the spinal cord at all levels; (2) the reticular substance of the medulla, pons, and mesencephalon of the brain; (3) the cerebellum; (4) the thalamus; and (5) areas of the cerebral cortex."
+    },
+    {
+     "page": 543,
+     "text": "The most important eventual role of the nervous system is to control the various bodily activities."
+    },
+    {
+     "page": 543,
+     "text": "This is achieved by controlling (1) contraction of appropriate skeletal muscles throughout the body, (2) contraction of smooth muscle in the internal organs, and (3) secretion of active chemical substances by both exocrine and endocrine glands in many parts of the body."
+    },
+    {
+     "page": 543,
+     "text": "These activities are collectively called motor functions of the nervous system, and the muscles and glands are called effectors because they are the actual anatomical structures that perform the functions dictated by the nerve signals."
+    },
+    {
+     "page": 543,
+     "text": "Figure 45-3 shows the “skeletal” motor nerve axis of the nervous system for controlling skeletal muscle contraction."
+    },
+    {
+     "page": 543,
+     "text": "Operating parallel to this axis is another system, called the autonomic nervous system, for controlling smooth muscles, glands, and other internal bodily systems; this is discussed in Chapter 60."
+    },
+    {
+     "page": 543,
+     "text": "Note in Figure 45-3 that the skeletal muscles can be controlled from many levels of the central nervous system, including (1) the spinal cord; (2) the reticular substance of the medulla, pons, and mesencephalon; (3) the basal ganglia; (4) the cerebellum; and (5) the motor cortex."
+    },
+    {
+     "page": 543,
+     "text": "Each of these areas plays its own specific role, the lower regions concerned primarily with automatic, instantaneous muscle responses to sensory stimuli, and the higher regions with deliberate complex muscle movements controlled by the thought processes of the brain."
+    },
+    {
+     "page": 544,
+     "text": "One of the most important functions of the nervous system is to process incoming information in such a way that appropriate mental and motor responses will occur."
+    },
+    {
+     "page": 544,
+     "text": "More than 99 percent of all sensory information is discarded by the brain as irrelevant and unimportant."
+    },
+    {
+     "page": 544,
+     "text": "For instance, one is ordinarily unaware of the parts of the body that are in contact with clothing, as well as of the seat pressure when sitting."
+    },
+    {
+     "page": 544,
+     "text": "Likewise, attention is drawn only to an occasional object in one’s field of vision, and even the perpetual noise of our surroundings is usually relegated to the subconscious."
+    },
+    {
+     "page": 544,
+     "text": "But, when important sensory information excites the mind, it is immediately channeled into proper integrative and motor regions of the brain to cause desired responses."
+    },
+    {
+     "page": 544,
+     "text": "This channeling and processing of information is called the integrative function of the nervous system."
+    },
+    {
+     "page": 545,
+     "text": "And other associated responses follow, such as moving the entire body away from the stove and perhaps even shouting with pain."
+    },
+    {
+     "page": 545,
+     "text": "The synapse is the junction point from one neuron to the next."
+    },
+    {
+     "page": 545,
+     "text": "Later in this chapter, we discuss the details of synaptic function."
+    },
+    {
+     "page": 545,
+     "text": "However, it is important to point out here that synapses determine the directions that the nervous signals will spread through the nervous system."
+    },
+    {
+     "page": 545,
+     "text": "Some synapses transmit signals from one neuron to the next with ease, whereas others transmit signals only with difficulty."
+    },
+    {
+     "page": 545,
+     "text": "Also, facilitatory and inhibitory signals from other areas in the nervous system can control synaptic transmission, sometimes opening the synapses for transmission and at other times closing them."
+    },
+    {
+     "page": 545,
+     "text": "In addition, some postsynaptic neurons respond with large numbers of output impulses, and others respond with only a few."
+    },
+    {
+     "page": 545,
+     "text": "Thus, the synapses perform a selective action, often blocking weak signals while allowing strong signals to pass, but at other times selecting and amplifying certain weak signals, and often channeling these signals in many directions rather than in only one direction."
+    },
+    {
+     "page": 545,
+     "text": "Only a small fraction of even the most important sensory information usually causes immediate motor response."
+    },
+    {
+     "page": 545,
+     "text": "But much of the information is stored for future control of motor activities and for use in the thinking processes."
+    },
+    {
+     "page": 545,
+     "text": "Most storage occurs in the cerebral cortex, but even the basal regions of the brain and the spinal cord can store small amounts of information."
+    },
+    {
+     "page": 545,
+     "text": "The storage of information is the process we call memory, and this, too, is a function of the synapses."
+    },
+    {
+     "page": 545,
+     "text": "Each time certain types of sensory signals pass through sequences of synapses, these synapses become more capable of transmitting the same type of signal the next time, a process called facilitation."
+    },
+    {
+     "page": 545,
+     "text": "After the sensory signals have passed through the synapses a large number of times, the synapses become so facilitated that signals generated within the brain itself can also cause transmission of impulses through the same sequences of synapses, even when the sensory input is not excited."
+    },
+    {
+     "page": 545,
+     "text": "This gives the person a perception of experiencing the original sensations, although the perceptions are only memories of the sensations."
+    },
+    {
+     "page": 545,
+     "text": "The precise mechanisms by which long-term facilitation of synapses occurs in the memory process are still uncertain, but what is known about this and other details of the sensory memory process is discussed in Chapter 57."
+    },
+    {
+     "page": 545,
+     "text": "Once memories have been stored in the nervous system, they become part of the brain processing mechanism for future “thinking.” That is, the thinking processes of the brain compare new sensory experiences with stored memories; the memories then help to select the important new sensory information and to channel this into appropriate memory storage areas for future use or into motor areas to cause immediate bodily responses."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "cns_levels": {
+   "heading": "Major Levels of Central Nervous System Function",
+   "found": true,
+   "start_line": 61928,
+   "end_line": 62003,
+   "page_start": 545,
+   "page_end": 546,
+   "sentences": [
+    {
+     "page": 545,
+     "text": "The human nervous system has inherited special functional capabilities from each stage of human evolutionary development."
+    },
+    {
+     "page": 545,
+     "text": "From this heritage, three major levels of the central nervous system have specific functional characteristics: (1) the spinal cord level, (2) the lower brain or subcortical level, and (3) the higher brain or cortical level."
+    },
+    {
+     "page": 545,
+     "text": "We often think of the spinal cord as being only a conduit for signals from the periphery of the body to the brain, or in the opposite direction from the brain back to the body."
+    },
+    {
+     "page": 545,
+     "text": "This is far from the truth."
+    },
+    {
+     "page": 545,
+     "text": "Even after the spinal cord has been cut in the high neck region, many highly organized spinal cord functions still occur."
+    },
+    {
+     "page": 545,
+     "text": "For instance, neuronal circuits in the cord can cause (1) walking movements, (2) reflexes that withdraw portions of the body from painful objects, (3) reflexes that stiffen the legs to support the body against gravity, and (4) reflexes that control local blood vessels, gastrointestinal movements, or urinary excretion."
+    },
+    {
+     "page": 545,
+     "text": "In fact, the upper levels of the nervous system often operate not by sending signals directly to the periphery of the body but by sending signals to the control centers of the cord, simply “commanding” the cord centers to perform their functions."
+    },
+    {
+     "page": 545,
+     "text": "Many, if not most, of what we call subconscious activities of the body are controlled in the lower areas of the brain— in the medulla, pons, mesencephalon, hypothalamus, thalamus, cerebellum, and basal ganglia."
+    },
+    {
+     "page": 545,
+     "text": "For instance, subconscious control of arterial pressure and respiration is achieved mainly in the medulla and pons."
+    },
+    {
+     "page": 545,
+     "text": "Control of equilibrium is a combined function of the older portions of the cerebellum and the reticular substance of the medulla, pons, and mesencephalon."
+    },
+    {
+     "page": 545,
+     "text": "Feeding reflexes, such as salivation and licking of the lips in response to the taste of food, are controlled by areas in the medulla, pons, mesencephalon, amygdala, and hypothalamus."
+    },
+    {
+     "page": 545,
+     "text": "And many emotional patterns, such as anger, excitement, sexual response, reaction to pain, and reaction to pleasure, can still occur after destruction of much of the cerebral cortex."
+    },
+    {
+     "page": 545,
+     "text": "After the preceding account of the many nervous system functions that occur at the cord and lower brain levels, one may ask, what is left for the cerebral cortex to do?"
+    },
+    {
+     "page": 545,
+     "text": "The answer to this is complex, but it begins with the fact that the cerebral cortex is an extremely large memory storehouse."
+    },
+    {
+     "page": 545,
+     "text": "The cortex never functions alone but always in association with lower centers of the nervous system."
+    },
+    {
+     "page": 545,
+     "text": "Without the cerebral cortex, the functions of the lower brain centers are often imprecise."
+    },
+    {
+     "page": 545,
+     "text": "The vast storehouse of cortical information usually converts these functions to determinative and precise operations."
+    },
+    {
+     "page": 546,
+     "text": "Finally, the cerebral cortex is essential for most of our thought processes, but it cannot function by itself."
+    },
+    {
+     "page": 546,
+     "text": "In fact, it is the lower brain centers, not the cortex, that initiate wakefulness in the cerebral cortex, thus opening its bank of memories to the thinking machinery of the brain."
+    },
+    {
+     "page": 546,
+     "text": "Thus, each portion of the nervous system performs specific functions."
+    },
+    {
+     "page": 546,
+     "text": "But it is the cortex that opens a world of stored information for use by the mind."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "transmitter_classes": {
+   "heading": "Chemical Substances That Function as Synaptic Transmitters",
+   "found": true,
+   "start_line": 62494,
+   "end_line": 62507,
+   "page_start": 550,
+   "page_end": 550,
+   "sentences": [
+    {
+     "page": 550,
+     "text": "More than 50 chemical substances have been proved or postulated to function as synaptic transmitters."
+    },
+    {
+     "page": 550,
+     "text": "Many of them are listed in Tables 45-1 and 45-2, which give two groups of synaptic transmitters."
+    },
+    {
+     "page": 550,
+     "text": "One group comprises small-molecule, rapidly acting transmitters."
+    },
+    {
+     "page": 550,
+     "text": "The other is made up of a large number of neuropeptides of much larger molecular size that are usually much more slowly acting."
+    },
+    {
+     "page": 550,
+     "text": "The small-molecule, rapidly acting transmitters are the ones that cause most acute responses of the nervous system, such as transmission of sensory signals to the brain and of motor signals back to the muscles."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "neuropeptides": {
+   "heading": "Neuropeptides",
+   "found": true,
+   "start_line": 62508,
+   "end_line": 62752,
+   "page_start": 550,
+   "page_end": 552,
+   "sentences": [
+    {
+     "page": 550,
+     "text": "In most cases, the small-molecule types of transmitters are synthesized in the cytosol of the presynaptic terminal and are absorbed by means of active transport into the many transmitter vesicles in the terminal."
+    },
+    {
+     "page": 550,
+     "text": "Then, each time an action potential reaches the presynaptic terminal, a few vesicles at a time release their transmitter into the synaptic cleft."
+    },
+    {
+     "page": 550,
+     "text": "This usually occurs within a millisecond or less by the mechanism described earlier."
+    },
+    {
+     "page": 550,
+     "text": "The subsequent action of the smallmolecule type of transmitter on the membrane receptors of the postsynaptic neuron usually also occurs within another millisecond or less."
+    },
+    {
+     "page": 550,
+     "text": "Most often the effect is to increase or decrease conductance through ion channels; an example is to increase sodium conductance, which causes excitation, or to increase potassium or chloride conductance, which causes inhibition."
+    },
+    {
+     "page": 551,
+     "text": "Vesicles that store and release small-molecule transmitters are continually recycled and used over and over again."
+    },
+    {
+     "page": 551,
+     "text": "After they fuse with the synaptic membrane and open to release their transmitter substance, the vesicle membrane at first simply becomes part of the synaptic membrane."
+    },
+    {
+     "page": 551,
+     "text": "However, within seconds to minutes, the vesicle portion of the membrane invaginates back to the inside of the presynaptic terminal and pinches off to form a new vesicle."
+    },
+    {
+     "page": 551,
+     "text": "And the new vesicular membrane still contains appropriate enzyme proteins or transport proteins required for synthesizing and/or concentrating new transmitter substance inside the vesicle."
+    },
+    {
+     "page": 551,
+     "text": "Acetylcholine is a typical small-molecule transmitter that obeys the principles of synthesis and release stated earlier."
+    },
+    {
+     "page": 551,
+     "text": "This transmitter substance is synthesized in the presynaptic terminal from acetyl coenzyme A and choline in the presence of the enzyme choline acetyltransferase."
+    },
+    {
+     "page": 551,
+     "text": "Then it is transported into its specific vesicles."
+    },
+    {
+     "page": 551,
+     "text": "When the vesicles later release the acetylcholine into the synaptic cleft during synaptic neuronal signal transmission, the acetylcholine is rapidly split again to acetate and choline by the enzyme cholinesterase, which is present in the proteoglycan reticulum that fills the space of the synaptic cleft."
+    },
+    {
+     "page": 551,
+     "text": "And then again, inside the presynaptic terminal, the vesicles are recycled; choline is actively transported back into the terminal to be used again for synthesis of new acetylcholine."
+    },
+    {
+     "page": 551,
+     "text": "Acetylcholine is secreted by neurons in many areas of the nervous system but specifically by (1) the terminals of the large pyramidal cells from the motor cortex, (2) several different types of neurons in the basal ganglia, (3) the motor neurons that innervate the skeletal muscles, (4) the preganglionic neurons of the autonomic nervous system, (5) the postganglionic neurons of the parasympathetic nervous system, and (6) some of the postganglionic neurons of the sympathetic nervous system."
+    },
+    {
+     "page": 551,
+     "text": "In most instances, acetylcholine has an excitatory effect; however, it is known to have inhibitory effects at some peripheral parasympathetic nerve endings, such as inhibition of the heart by the vagus nerves."
+    },
+    {
+     "page": 551,
+     "text": "Norepinephrine is secreted by the terminals of many neurons whose cell bodies are located in the brain stem and hypothalamus."
+    },
+    {
+     "page": 551,
+     "text": "Specifically, norepinephrine-secreting neurons located in the locus ceruleus in the pons send nerve fibers to widespread areas of the brain to help control overall activity and mood of the mind, such as increasing the level of wakefulness."
+    },
+    {
+     "page": 551,
+     "text": "In most of these areas, norepinephrine probably activates excitatory receptors, but in a few areas, it activates inhibitory receptors instead."
+    },
+    {
+     "page": 551,
+     "text": "Norepinephrine is also secreted by most postganglionic neurons of the sympathetic nervous system, where it excites some organs but inhibits others."
+    },
+    {
+     "page": 551,
+     "text": "Dopamine is secreted by neurons that originate in the substantia nigra."
+    },
+    {
+     "page": 551,
+     "text": "The termination of these neurons is mainly in the striatal region of the basal ganglia."
+    },
+    {
+     "page": 551,
+     "text": "The effect of dopamine is usually inhibition."
+    },
+    {
+     "page": 551,
+     "text": "Glycine is secreted mainly at synapses in the spinal cord."
+    },
+    {
+     "page": 551,
+     "text": "It is believed to always act as an inhibitory transmitter."
+    },
+    {
+     "page": 551,
+     "text": "It is believed always to cause inhibition."
+    },
+    {
+     "page": 551,
+     "text": "Glutamate is secreted by the presynaptic terminals in many of the sensory pathways entering the central nervous system, as well as in many areas of the cerebral cortex."
+    },
+    {
+     "page": 551,
+     "text": "It probably always causes excitation."
+    },
+    {
+     "page": 551,
+     "text": "Serotonin is secreted by nuclei that originate in the median raphe of the brain stem and project to many brain and spinal cord areas, especially to the dorsal horns of the spinal cord and to the hypothalamus."
+    },
+    {
+     "page": 551,
+     "text": "Serotonin acts as an inhibitor of pain pathways in the cord, and an inhibitor action in the higher regions of the nervous system is believed to help control the mood of the person, perhaps even to cause sleep."
+    },
+    {
+     "page": 551,
+     "text": "Nitric oxide is especially secreted by nerve terminals in areas of the brain responsible for long-term behavior and for memory."
+    },
+    {
+     "page": 551,
+     "text": "Therefore, this transmitter system might in the future explain some behavior and memory functions that thus far have defied understanding."
+    },
+    {
+     "page": 551,
+     "text": "Nitric oxide is different from other small-molecule transmitters in its mechanism of formation in the presynaptic terminal and in its actions on the postsynaptic neuron."
+    },
+    {
+     "page": 551,
+     "text": "It is not preformed and stored in vesicles in the presynaptic terminal as are other transmitters."
+    },
+    {
+     "page": 551,
+     "text": "Instead, it is synthesized almost instantly as needed, and it then diffuses out of the presynaptic terminals over a period of seconds rather than being released in vesicular packets."
+    },
+    {
+     "page": 551,
+     "text": "Next, it diffuses into postsynaptic neurons nearby."
+    },
+    {
+     "page": 551,
+     "text": "In the postsynaptic neuron, it usually does not greatly alter the membrane potential but instead changes intracellular metabolic functions that modify neuronal excitability for seconds, minutes, or perhaps even longer."
+    },
+    {
+     "page": 551,
+     "text": "The neuropeptides are not synthesized in the cytosol of the presynaptic terminals."
+    },
+    {
+     "page": 551,
+     "text": "Instead, they are synthesized as integral parts of large-protein molecules by ribosomes in the neuronal cell body."
+    },
+    {
+     "page": 552,
+     "text": "The protein molecules then enter the spaces inside the endoplasmic reticulum of the cell body and subsequently inside the Golgi apparatus, where two changes occur: First, the neuropeptide-forming protein is enzymatically split into smaller fragments, some of which are either the neuropeptide itself or a precursor of it."
+    },
+    {
+     "page": 552,
+     "text": "Second, the Golgi apparatus packages the neuropeptide into minute transmitter vesicles that are released into the cytoplasm."
+    },
+    {
+     "page": 552,
+     "text": "Then the transmitter vesicles are transported all the way to the tips of the nerve fibers by axonal streaming of the axon cytoplasm, traveling at the slow rate of only a few centimeters per day."
+    },
+    {
+     "page": 552,
+     "text": "Finally, these vesicles release their transmitter at the neuronal terminals in response to action potentials in the same manner as for small-molecule transmitters."
+    },
+    {
+     "page": 552,
+     "text": "However, the vesicle is autolyzed and is not reused."
+    },
+    {
+     "page": 552,
+     "text": "Because of this laborious method of forming the neuropeptides, much smaller quantities of them are usually released than of the small-molecule transmitters."
+    },
+    {
+     "page": 552,
+     "text": "This is partly compensated for by the fact that the neuropeptides are generally a thousand or more times as potent as the small-molecule transmitters."
+    },
+    {
+     "page": 552,
+     "text": "Another important characteristic of the neuropeptides is that they often cause much more prolonged actions."
+    },
+    {
+     "page": 552,
+     "text": "Some of these actions include prolonged closure of calcium channels, prolonged changes in the metabolic machinery of cells, prolonged changes in activation or deactivation of specific genes in the cell nucleus, and/or prolonged alterations in numbers of excitatory or inhibitory receptors."
+    },
+    {
+     "page": 552,
+     "text": "Some of these effects last for days, but others perhaps for months or years."
+    },
+    {
+     "page": 552,
+     "text": "Our knowledge of the functions of the neuropeptides is only beginning to develop."
+    }
+   ],
+   "repair_hits": 1
+  },
+  "receptor_proteins": {
+   "heading": "Action of the Transmitter Substance on the Postsynaptic Neuron—Function of “Receptor Proteins”",
+   "found": true,
+   "start_line": 62259,
+   "end_line": 62325,
+   "page_start": 548,
+   "page_end": 548,
+   "sentences": [
+    {
+     "page": 548,
+     "text": "The membrane of the postsynaptic neuron contains large numbers of receptor proteins, also shown in Figure 45-6."
+    },
+    {
+     "page": 548,
+     "text": "The molecules of these receptors have two important components: (1) a binding component that protrudes outward from the membrane into the synaptic cleft—here it binds the neurotransmitter coming from the presynaptic terminal—and (2) an ionophore component that passes all the way through the postsynaptic membrane to the interior of the postsynaptic neuron."
+    },
+    {
+     "page": 548,
+     "text": "The ionophore in turn is one of two types: (1) an ion channel that allows passage of specified types of ions through the membrane or (2) a “second messenger” activator that is not an ion channel but instead is a molecule that protrudes into the cell cytoplasm and activates one or more substances inside the postsynaptic neuron."
+    },
+    {
+     "page": 548,
+     "text": "These substances in turn serve as “second messengers” to increase or decrease specific cellular functions."
+    },
+    {
+     "page": 548,
+     "text": "The cation channels that conduct sodium ions are lined with negative charges."
+    },
+    {
+     "page": 548,
+     "text": "These charges attract the positively charged sodium ions into the channel when the channel diameter increases to a size larger than that of the hydrated sodium ion."
+    },
+    {
+     "page": 548,
+     "text": "But those same negative charges repel chloride ions and other anions and prevent their passage."
+    },
+    {
+     "page": 548,
+     "text": "For the anion channels, when the channel diameters become large enough, chloride ions pass into the channels and on through to the opposite side, whereas sodium, potassium, and calcium cations are blocked, mainly because their hydrated ions are too large to pass."
+    },
+    {
+     "page": 548,
+     "text": "We will learn later that when cation channels open and allow positively charged sodium ions to enter, the positive electrical charges of the sodium ions will in turn excite this neuron."
+    },
+    {
+     "page": 548,
+     "text": "Therefore, a transmitter substance that opens cation channels is called an excitatory transmitter."
+    },
+    {
+     "page": 548,
+     "text": "Conversely, opening anion channels allows negative electrical charges to enter, which inhibits the neuron."
+    },
+    {
+     "page": 548,
+     "text": "Therefore, transmitter substances that open these channels are called inhibitory transmitters."
+    },
+    {
+     "page": 548,
+     "text": "When a transmitter substance activates an ion channel, the channel usually opens within a fraction of a millisecond; when the transmitter substance is no longer present, the channel closes equally rapidly."
+    },
+    {
+     "page": 548,
+     "text": "The opening and closing of ion channels provide a means for very rapid control of postsynaptic neurons."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}

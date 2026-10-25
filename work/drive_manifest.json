@@ -1,0 +1,25 @@
+{
+ "_note": "Metadata collected through the Google Drive connector on 2026-10-24 for the folder 'جلسه 1' (id 1SPmuc1Fc8am3Nd_S50JqudiXflwHinSv) and a repository-wide video query (total_count = 70 mp4 files). Per-file metadata for the other session folders was NOT collected yet; do not treat this file as complete.",
+ "folders": {
+  "session_01": "1SPmuc1Fc8am3Nd_S50JqudiXflwHinSv",
+  "session_02": "1Z93ArGD7OWkfZYEnwjsfvQF5g3r48TJ_",
+  "session_03": "1fYK1B4hUE870hw3VfzGPYmu2ZZiaxr8Z",
+  "session_04": "1y3_biEoShY8c6DtRTtNT8KsuAXqbNYCB",
+  "session_05": "1c8w69EcMlrdjbAdr76I2V-YSiNQPiZrZ",
+  "guyton_reference": "1YM4ZZSfGEVRNe3zqhiTP1QpIiAemJWai",
+  "ghadiri_supplement": "1sQQv2lEjViy0ybf7PZfioVmjXpWWmnqU"
+ },
+ "video_total_count_in_drive": 70,
+ "files": [
+  {"id": "11Kg9ZOpfZGgHlMHvETcXU33YNk79D7ri", "name": "فیزیولوژی اعصاب جلسه اول پارت یک.mp4", "size": "43901088", "md5_checksum": "6ae24e7e825a2303f9442c6a144019e8", "session": "session_01"},
+  {"id": "1-7k94trJuWjCcPoistuFD2urnvk5NUhW", "name": "فیزیولوژی اعصاب جلسه اول پارت دو.mp4", "size": "49526837", "md5_checksum": "d270067c4beba2f66f01025ba90988ca", "session": "session_01"},
+  {"id": "1M77DK7XCOtMdL2nVI8ubb9EUyqqOaAZR", "name": "فیزیولوژی اعصاب جلسه اول پارت سه.mp4", "size": "54491913", "md5_checksum": "42536edfcd90c4dfe8fc6cf4e1b54af6", "session": "session_01"},
+  {"id": "1MkhVCU9jxbdEWv5GqIM7Fgp0zPbfmYde", "name": "فیزیولوژی_اعصاب_جلسه_اول_پارت_چهار.mp4", "size": "48969176", "md5_checksum": "150cf603f24f120769c257f8aa90b16a", "session": "session_01"},
+  {"id": "1ZFz5mNKVB2Xaj80uWUgRRg0OO8BP52dQ", "name": "فیزیولوژی_اعصاب_جلسه_اول_پارت_پنج.mp4", "size": "23310443", "md5_checksum": "fa48f5bc314597832aac112f6594a3b1", "session": "session_01"},
+  {"id": "1o3ShTJsfpAL81q4X0__JyzurUQ-Zg8dt", "name": "فیزیولوژی اعصاب جلسه اول پارت شش.mp4", "size": "24167782", "md5_checksum": "6d8d3d1377f93672ab31a3c56bfc6e3a", "session": "session_01"},
+  {"id": "1-39cGktkdio6ZRnq8QDEugxEfj0mkpkT", "name": "جلسه 1 نوروفیزیولوژی مهر 1404.pdf", "size": "5722772", "md5_checksum": "deed2d37225641694235376c6cbcb6b9", "session": "session_01"},
+  {"id": "1uWIq4xAZDwArYLto9NgioNffcP-aS9Ud", "name": "نوروفیزیولوژی 01 نهایی بهمن 1402.pdf", "size": "3375275", "md5_checksum": "272aacb24288f0a2253454a7af5514d1", "session": "session_01"},
+  {"id": "1-DvWr35wWUfDmUvH03nCSDZ50setCPnv", "name": "جلسه 1 نوروفیزیولوژی مهر 1404.md", "size": "101868", "md5_checksum": "8f0b47b8cde0423d3135b0b7f7962527", "session": "session_01"},
+  {"id": "1sD39mMOnUC3rQX2WnYdQDPmjsZuyZaxD", "name": "نوروفیزیولوژی 01 نهایی بهمن 1402.md", "size": "44784", "md5_checksum": "1e3d3d31f3ea50ba9e04be01a4a95ce8", "session": "session_01"}
+ ]
+}

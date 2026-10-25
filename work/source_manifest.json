@@ -1,0 +1,2479 @@
+{
+ "root": "فیزیولوژی اعصاب حواس ویژه",
+ "file_count": 132,
+ "by_ext": {
+  ".pdf": {
+   "count": 36,
+   "payload": 739321303
+  },
+  ".md": {
+   "count": 26,
+   "payload": 7043770
+  },
+  ".mp4": {
+   "count": 70,
+   "payload": 2518877392
+  }
+ },
+ "lfs_pointer_count": 73,
+ "drive_matched": 10,
+ "files": [
+  {
+   "source_id": "supp-ghadiri_دکتر-قدیری-جلسه-آخر",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/تکمیلی - جزوات دکتر قدیری/دکتر قدیری - جلسه آخر.pdf",
+   "file_name": "دکتر قدیری - جلسه آخر.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 893303,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "c4e5343dcc9617236cd9069199934c50d9521b5084f3113b4b9468aef8573c39",
+   "status": "extracted",
+   "payload_bytes": 893303,
+   "pages": 17,
+   "text_quality": {
+    "chars": 28574,
+    "persian_ratio": 0.738,
+    "lexicon_coverage": 0.636,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "supp-ghadiri_فیزیو-آفلاین-اتونوم",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/تکمیلی - جزوات دکتر قدیری/فیزیو آفلاین اتونوم.pdf",
+   "file_name": "فیزیو آفلاین اتونوم.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 3592770,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "765a3d21f7cdf1ca70e52246a021a9be9bc0cfc74bbeff6b591bd9f66e4fff44",
+   "status": "needs_ocr_review",
+   "payload_bytes": 3592770,
+   "pages": 17,
+   "text_quality": {
+    "chars": 37573,
+    "persian_ratio": 0.711,
+    "lexicon_coverage": 0.49,
+    "verdict": "suspicious",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "supp-ghadiri_فیزیولوژی-جلسه-اول-دکتر-قدیری",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه اول دکتر قدیری.pdf",
+   "file_name": "فیزیولوژی - جلسه اول دکتر قدیری.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 811742,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "046c67629db0f191f1809fb08d4e3cd62a25e804e495fa157aae0d77c8e7b3f0",
+   "status": "extracted",
+   "payload_bytes": 811742,
+   "pages": 10,
+   "text_quality": {
+    "chars": 12735,
+    "persian_ratio": 0.74,
+    "lexicon_coverage": 0.727,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "supp-ghadiri_فیزیولوژی-جلسه-دوم-دکتر-قدیری",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه دوم دکتر قدیری.pdf",
+   "file_name": "فیزیولوژی - جلسه دوم دکتر قدیری.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 765827,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "2e0acf81e93cba79ff216d5d435821f5fa166cd257f2a3b5ce32b488596283fa",
+   "status": "extracted",
+   "payload_bytes": 765827,
+   "pages": 20,
+   "text_quality": {
+    "chars": 29153,
+    "persian_ratio": 0.721,
+    "lexicon_coverage": 0.655,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "supp-ghadiri_فیزیولوژی-جلسه-سوم-دکتر-قدیری",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه سوم دکتر قدیری.pdf",
+   "file_name": "فیزیولوژی - جلسه سوم دکتر قدیری.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 4248588,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "74efaef90be530e4a041038a747fa956e99a50884c4ea4a673fac7baae6b9522",
+   "status": "extracted",
+   "payload_bytes": 4248588,
+   "pages": 17,
+   "text_quality": {
+    "chars": 30246,
+    "persian_ratio": 0.744,
+    "lexicon_coverage": 0.706,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "supp-ghadiri_فیزیولوژی-جلسه-چهارم-دکتر-قدیری",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/تکمیلی - جزوات دکتر قدیری/فیزیولوژی - جلسه چهارم دکتر قدیری.pdf",
+   "file_name": "فیزیولوژی - جلسه چهارم دکتر قدیری.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 935989,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "599dfa2e7e1065efd431bc066c27b08c1bcbae9d879529b55b6076194d43c80e",
+   "status": "extracted",
+   "payload_bytes": 935989,
+   "pages": 13,
+   "text_quality": {
+    "chars": 17649,
+    "persian_ratio": 0.729,
+    "lexicon_coverage": 0.64,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "supp-ghadiri_فیزیولوژی_جلسه_اول_دکتر_ایروان_پور",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/تکمیلی - جزوات دکتر قدیری/فیزیولوژی_جلسه_اول_دکتر_ایروان_پور.pdf",
+   "file_name": "فیزیولوژی_جلسه_اول_دکتر_ایروان_پور.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 1846491,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "c38e86e95a4c7e7a8d65556b44e47e18133c47ad22cfebd0984fdd7947c7bf79",
+   "status": "extracted",
+   "payload_bytes": 1846491,
+   "pages": 23,
+   "text_quality": {
+    "chars": 28941,
+    "persian_ratio": 0.742,
+    "lexicon_coverage": 0.779,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "supp-ghadiri_فیزیولوژی_جلسه_دوم_دکتر_ایروان_پور",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/تکمیلی - جزوات دکتر قدیری/فیزیولوژی_جلسه_دوم_دکتر_ایروان_پور.pdf",
+   "file_name": "فیزیولوژی_جلسه_دوم_دکتر_ایروان_پور.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 1467670,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "7a10995fbd27910d0c8ae2c3ac3e3e3d5123ff3965b844b3cf3c1a98ad51bba6",
+   "status": "extracted",
+   "payload_bytes": 1467670,
+   "pages": 23,
+   "text_quality": {
+    "chars": 31846,
+    "persian_ratio": 0.699,
+    "lexicon_coverage": 0.701,
+    "verdict": "text_ok",
+    "pages_with_little_text": 1
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s01_notes1404-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/جلسه 1 نوروفیزیولوژی مهر 1404.md",
+   "file_name": "جلسه 1 نوروفیزیولوژی مهر 1404.md",
+   "ext": ".md",
+   "size_on_disk": 101868,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "210207d65ae50af7a3d6728920686db3aba25f0a5bf0a5bf27d8a5273eb6e49c",
+   "status": "text_available",
+   "payload_bytes": 101868,
+   "lines": 801,
+   "text_quality": {
+    "chars": 60573,
+    "persian_ratio": 0.671,
+    "lexicon_coverage": 0.897,
+    "verdict": "text_ok"
+   },
+   "chars": 60573,
+   "drive_match": {
+    "id": "1-DvWr35wWUfDmUvH03nCSDZ50setCPnv",
+    "size": 101868,
+    "md5": "8f0b47b8cde0423d3135b0b7f7962527"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_notes1404-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/جلسه 1 نوروفیزیولوژی مهر 1404.pdf",
+   "file_name": "جلسه 1 نوروفیزیولوژی مهر 1404.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 5722772,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "f600ea8de6781af2de09719594878fa0694b3d0d508b67bc254ef25dea3f5505",
+   "status": "extracted",
+   "payload_bytes": 5722772,
+   "pages": 42,
+   "text_quality": {
+    "chars": 58196,
+    "persian_ratio": 0.7,
+    "lexicon_coverage": 1.0,
+    "verdict": "text_ok",
+    "pages_with_little_text": 1
+   },
+   "drive_match": {
+    "id": "1-39cGktkdio6ZRnq8QDEugxEfj0mkpkT",
+    "size": 5722772,
+    "md5": "deed2d37225641694235376c6cbcb6b9"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/فیزیولوژی اعصاب جلسه اول پارت دو.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه اول پارت دو.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:4d13e728615db7bf73f77c83e689508535725853bf6bc8370de623f0f7f12fca",
+    "size": 49526837
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 49526837,
+   "drive_match": {
+    "id": "1-7k94trJuWjCcPoistuFD2urnvk5NUhW",
+    "size": 49526837,
+    "md5": "d270067c4beba2f66f01025ba90988ca"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/فیزیولوژی اعصاب جلسه اول پارت سه.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه اول پارت سه.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:11235b3abc0b710094323241aac1c4650ca6f0e494f9be69bb090f972686ce09",
+    "size": 54491913
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 54491913,
+   "drive_match": {
+    "id": "1M77DK7XCOtMdL2nVI8ubb9EUyqqOaAZR",
+    "size": 54491913,
+    "md5": "42536edfcd90c4dfe8fc6cf4e1b54af6"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_video-p06",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/فیزیولوژی اعصاب جلسه اول پارت شش.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه اول پارت شش.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:550e3e09f6f330976a3ec82c32af87afceb0bdffce8f6f6d97a990182ecce316",
+    "size": 24167782
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 24167782,
+   "drive_match": {
+    "id": "1o3ShTJsfpAL81q4X0__JyzurUQ-Zg8dt",
+    "size": 24167782,
+    "md5": "6d8d3d1377f93672ab31a3c56bfc6e3a"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/فیزیولوژی اعصاب جلسه اول پارت یک.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه اول پارت یک.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:9b80d4ed21a27fc0e98bcb21ec918c85835b3866b39dcdd81543864e27c78935",
+    "size": 43901088
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 43901088,
+   "drive_match": {
+    "id": "11Kg9ZOpfZGgHlMHvETcXU33YNk79D7ri",
+    "size": 43901088,
+    "md5": "6ae24e7e825a2303f9442c6a144019e8"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_video-p05",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/فیزیولوژی_اعصاب_جلسه_اول_پارت_پنج.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_اول_پارت_پنج.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:6e3c9efd5ebf94234b2dab2d3e6dec1dbf74dd8b210755bb57a4385c7f1a1ba5",
+    "size": 23310443
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 23310443,
+   "drive_match": {
+    "id": "1ZFz5mNKVB2Xaj80uWUgRRg0OO8BP52dQ",
+    "size": 23310443,
+    "md5": "fa48f5bc314597832aac112f6594a3b1"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_video-p04",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/فیزیولوژی_اعصاب_جلسه_اول_پارت_چهار.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_اول_پارت_چهار.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:2ebf21807695700639f86b3a339b8678050f502d521bc1f321cbb34c463f9d04",
+    "size": 48969176
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 48969176,
+   "drive_match": {
+    "id": "1MkhVCU9jxbdEWv5GqIM7Fgp0zPbfmYde",
+    "size": 48969176,
+    "md5": "150cf603f24f120769c257f8aa90b16a"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/نوروفیزیولوژی 01 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 01 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 44784,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "70bd4f243d343b44a29ac78f09b81e5b4529dff3f20681bc77b535f8f0ea67c8",
+   "status": "text_available",
+   "payload_bytes": 44784,
+   "lines": 211,
+   "text_quality": {
+    "chars": 31356,
+    "persian_ratio": 0.424,
+    "lexicon_coverage": 0.138,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 31356,
+   "drive_match": {
+    "id": "1sD39mMOnUC3rQX2WnYdQDPmjsZuyZaxD",
+    "size": 44784,
+    "md5": "1e3d3d31f3ea50ba9e04be01a4a95ce8"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s01_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 1/نوروفیزیولوژی 01 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 01 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 3375275,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "e0d71949f75b1804f916b2ae1a4570552d73461407a163f79d1a258ab3fa0545",
+   "status": "needs_ocr_review",
+   "payload_bytes": 3375275,
+   "pages": 13,
+   "text_quality": {
+    "chars": 21422,
+    "persian_ratio": 0.625,
+    "lexicon_coverage": 0.161,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": {
+    "id": "1uWIq4xAZDwArYLto9NgioNffcP-aS9Ud",
+    "size": 3375275,
+    "md5": "272aacb24288f0a2253454a7af5514d1"
+   },
+   "drive_size_matches_lfs_or_file": true
+  },
+  {
+   "source_id": "s10_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 10 - مخچه/cerebellum-1.mp4",
+   "file_name": "cerebellum-1.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:3266557085c88d9370154dfa24d843523b4a26aef56a7c34d0d426b03569e5e5",
+    "size": 33390377
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 33390377,
+   "drive_match": null
+  },
+  {
+   "source_id": "s10_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 10 - مخچه/cerebellum-2.mp4",
+   "file_name": "cerebellum-2.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:793143f7c331007c05bbd9a43b6fe743622d18010faf8480fa98cfbac629c27e",
+    "size": 42718498
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 42718498,
+   "drive_match": null
+  },
+  {
+   "source_id": "s10_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 10 - مخچه/cerebellum-3.mp4",
+   "file_name": "cerebellum-3.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:bafb9ca6319943f670da5caaef7c644e795af817678df11608678cb75a45c598",
+    "size": 18971943
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 18971943,
+   "drive_match": null
+  },
+  {
+   "source_id": "s10_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 10 - مخچه/نوروفیزیولوژی 10 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 10 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 61805,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "94bfb9e8e80c56e8b01a214e8523bc0f97d5395f5dcb67611ec25e58aaba4516",
+   "status": "text_available",
+   "payload_bytes": 61805,
+   "lines": 635,
+   "text_quality": {
+    "chars": 38332,
+    "persian_ratio": 0.612,
+    "lexicon_coverage": 0.139,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 38332,
+   "drive_match": null
+  },
+  {
+   "source_id": "s10_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 10 - مخچه/نوروفیزیولوژی 10 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 10 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 1911590,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "2f531d03d3a3ff2f86ff18345647f0ae1ef1249083083f7e5319f3c665d6c696",
+   "status": "needs_ocr_review",
+   "payload_bytes": 1911590,
+   "pages": 15,
+   "text_quality": {
+    "chars": 33878,
+    "persian_ratio": 0.669,
+    "lexicon_coverage": 0.144,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s11_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 11 - عقده های قاعده ای/basal ganglia-1.mp4",
+   "file_name": "basal ganglia-1.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:bde351bd33532b25b892eabc677b179dd3528e315f76daff71a637a990b5a627",
+    "size": 38741329
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 38741329,
+   "drive_match": null
+  },
+  {
+   "source_id": "s11_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 11 - عقده های قاعده ای/basal ganglia-2.mp4",
+   "file_name": "basal ganglia-2.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:0987f42dd39fd89313509af62af3a89b7721248dfc48df3999157a6aaab7705d",
+    "size": 32376856
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 32376856,
+   "drive_match": null
+  },
+  {
+   "source_id": "s11_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 11 - عقده های قاعده ای/نوروفیزیولوژی 11 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 11 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 57660,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "03c1af16b64a28e892139833383b32fba43786e82db357eeb30bac69d50fc39f",
+   "status": "text_available",
+   "payload_bytes": 57660,
+   "lines": 582,
+   "text_quality": {
+    "chars": 37050,
+    "persian_ratio": 0.554,
+    "lexicon_coverage": 0.269,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 37050,
+   "drive_match": null
+  },
+  {
+   "source_id": "s11_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 11 - عقده های قاعده ای/نوروفیزیولوژی 11 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 11 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 1596747,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "e4732e55306405c6d74576fe6b7b78af7345684d4bbbf6fd6dc5eb0645beefcc",
+   "status": "needs_ocr_review",
+   "payload_bytes": 1596747,
+   "pages": 17,
+   "text_quality": {
+    "chars": 33751,
+    "persian_ratio": 0.595,
+    "lexicon_coverage": 0.275,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s12_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 12 - حافظه و یادگیری/learning & memory 1.mp4",
+   "file_name": "learning & memory 1.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:0eee092704c2af808bf48edad205ae3c7e7e429cac6381f8a3d173219dee8084",
+    "size": 35283798
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 35283798,
+   "drive_match": null
+  },
+  {
+   "source_id": "s12_video-p01-dup2",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 12 - حافظه و یادگیری/learning & memory 2.mp4",
+   "file_name": "learning & memory 2.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:382277c74baefd69e5c362e4144c211626e5bdc17f742eef890fda5d95bc2d61",
+    "size": 30600764
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 30600764,
+   "drive_match": null
+  },
+  {
+   "source_id": "s12_video-p01-dup3",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 12 - حافظه و یادگیری/learning & memory 3.mp4",
+   "file_name": "learning & memory 3.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:c6e2685e5cd8fc850a08d967f90e6845ba5ef8f8a1af42a75a4f167a2807dc94",
+    "size": 19289491
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 19289491,
+   "drive_match": null
+  },
+  {
+   "source_id": "s12_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 12 - حافظه و یادگیری/نوروفیزیولوژی 12 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 12 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 55992,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "61ef8a14e1a80d619b0d0be6c489550dc406028eb6912353fa53df4141765b4d",
+   "status": "text_available",
+   "payload_bytes": 55992,
+   "lines": 490,
+   "text_quality": {
+    "chars": 33447,
+    "persian_ratio": 0.672,
+    "lexicon_coverage": 0.416,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 33447,
+   "drive_match": null
+  },
+  {
+   "source_id": "s12_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 12 - حافظه و یادگیری/نوروفیزیولوژی 12 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 12 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 1218400,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "7190217c4e67d07a96dd2cefa09570187fb2727dd16db4454794121955a88ce0",
+   "status": "needs_ocr_review",
+   "payload_bytes": 1218400,
+   "pages": 14,
+   "text_quality": {
+    "chars": 31910,
+    "persian_ratio": 0.692,
+    "lexicon_coverage": 0.426,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s13_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 13 - لیمبیک/فیزیولوژی_اعصاب_جلسه_سیزدهملیمبیکپارت_دو.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_سیزدهملیمبیکپارت_دو.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:9b976d6075b8d90ac558d31dd72ee755d7193487414cddaf5f53c2a2299f3128",
+    "size": 17314035
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 17314035,
+   "drive_match": null
+  },
+  {
+   "source_id": "s13_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 13 - لیمبیک/فیزیولوژی_اعصاب_جلسه_سیزدهملیمبیکپارت_سه.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_سیزدهملیمبیکپارت_سه.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:11e2dc21c9dd4c1de82027332583df645ce012aff35126b196e1ff679e5a1b66",
+    "size": 17167395
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 17167395,
+   "drive_match": null
+  },
+  {
+   "source_id": "s13_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 13 - لیمبیک/فیزیولوژی_اعصاب_جلسه_سیزدهملیمبیکپارت_یک.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_سیزدهملیمبیکپارت_یک.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:7046b8422f5d9c9a6def702dd2da91a5e8b03524fd976ae07b3b2d0efd0179eb",
+    "size": 20241366
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 20241366,
+   "drive_match": null
+  },
+  {
+   "source_id": "s13_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 13 - لیمبیک/نوروفیزیولوژی 13و14 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 13و14 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 57831,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "8ddc9cee73bbec53d190c6ef28de55ac9197e2a266237bde0ca1b3e286b2650c",
+   "status": "text_available",
+   "payload_bytes": 57831,
+   "lines": 465,
+   "text_quality": {
+    "chars": 33791,
+    "persian_ratio": 0.711,
+    "lexicon_coverage": 0.624,
+    "verdict": "text_ok"
+   },
+   "chars": 33791,
+   "drive_match": null
+  },
+  {
+   "source_id": "s13_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 13 - لیمبیک/نوروفیزیولوژی 13و14 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 13و14 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 215884,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "4e4dda46d598de90294ae7bec22c059598d746f382454b86810bc3ba121603e4",
+   "status": "extracted",
+   "payload_bytes": 215884,
+   "pages": 14,
+   "text_quality": {
+    "chars": 33013,
+    "persian_ratio": 0.725,
+    "lexicon_coverage": 0.639,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s14_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 14 - فعالیت های مغزی/brain activity-1.mp4",
+   "file_name": "brain activity-1.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:b62758ad34f266ff1125b9381923412813af2136740434724689bf1c04ec0d78",
+    "size": 24328798
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 24328798,
+   "drive_match": null
+  },
+  {
+   "source_id": "s14_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 14 - فعالیت های مغزی/brain activity-2.mp4",
+   "file_name": "brain activity-2.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:18e80167d4777f8aba9361f57a5cb6bda7bd9b590c8828a124e7d43bc0e051f1",
+    "size": 35493075
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 35493075,
+   "drive_match": null
+  },
+  {
+   "source_id": "s14_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 14 - فعالیت های مغزی/نوروفیزیولوژی 13و14 نهایی بهمن 1402 (2).md",
+   "file_name": "نوروفیزیولوژی 13و14 نهایی بهمن 1402 (2).md",
+   "ext": ".md",
+   "size_on_disk": 57831,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "8ddc9cee73bbec53d190c6ef28de55ac9197e2a266237bde0ca1b3e286b2650c",
+   "status": "text_available",
+   "payload_bytes": 57831,
+   "lines": 465,
+   "text_quality": {
+    "chars": 33791,
+    "persian_ratio": 0.711,
+    "lexicon_coverage": 0.624,
+    "verdict": "text_ok"
+   },
+   "chars": 33791,
+   "drive_match": null
+  },
+  {
+   "source_id": "s14_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 14 - فعالیت های مغزی/نوروفیزیولوژی 13و14 نهایی بهمن 1402 (2).pdf",
+   "file_name": "نوروفیزیولوژی 13و14 نهایی بهمن 1402 (2).pdf",
+   "ext": ".pdf",
+   "size_on_disk": 215884,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "4e4dda46d598de90294ae7bec22c059598d746f382454b86810bc3ba121603e4",
+   "status": "extracted",
+   "payload_bytes": 215884,
+   "pages": 14,
+   "text_quality": {
+    "chars": 33013,
+    "persian_ratio": 0.725,
+    "lexicon_coverage": 0.639,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s15_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 15 - سیستم اتونوم/autonom system-2.mp4",
+   "file_name": "autonom system-2.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:9f35261a6d2294d7cb03a8830ccdd50f175e90d146c554bb38f9c2dff125cd22",
+    "size": 46921526
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 46921526,
+   "drive_match": null
+  },
+  {
+   "source_id": "s15_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 15 - سیستم اتونوم/autonome system-1.mp4",
+   "file_name": "autonome system-1.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:5636b427309e8c6a10625ed825e28f56cc01dfcc6d53bc4339791f29b89b23b6",
+    "size": 27237120
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 27237120,
+   "drive_match": null
+  },
+  {
+   "source_id": "s15_فیزیو-آفلاین-اتونوم-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 15 - سیستم اتونوم/فیزیو آفلاین اتونوم.md",
+   "file_name": "فیزیو آفلاین اتونوم.md",
+   "ext": ".md",
+   "size_on_disk": 67066,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "e8439d3150c6c13dddc168c713b4a402bbec1eff2bee721cbe30c9beddd8cd0e",
+   "status": "text_available",
+   "payload_bytes": 67066,
+   "lines": 504,
+   "text_quality": {
+    "chars": 39729,
+    "persian_ratio": 0.687,
+    "lexicon_coverage": 0.489,
+    "verdict": "suspicious"
+   },
+   "chars": 39729,
+   "drive_match": null
+  },
+  {
+   "source_id": "s15_فیزیو-آفلاین-اتونوم-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 15 - سیستم اتونوم/فیزیو آفلاین اتونوم.pdf",
+   "file_name": "فیزیو آفلاین اتونوم.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 3592770,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "765a3d21f7cdf1ca70e52246a021a9be9bc0cfc74bbeff6b591bd9f66e4fff44",
+   "status": "needs_ocr_review",
+   "payload_bytes": 3592770,
+   "pages": 17,
+   "text_quality": {
+    "chars": 37573,
+    "persian_ratio": 0.711,
+    "lexicon_coverage": 0.49,
+    "verdict": "suspicious",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s16_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 16 -پری لب/neurologic test I.mp4",
+   "file_name": "neurologic test I.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:0b4ec4080de78f01804e6f78bebc1069468fdb09db8f613b63c2df35786ce885",
+    "size": 60205022
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 60205022,
+   "drive_match": null
+  },
+  {
+   "source_id": "s16_video-p01-dup2",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 16 -پری لب/neurologic test II.mp4",
+   "file_name": "neurologic test II.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:734d49df2b985e14a46872d0d850ca8dad646397b13921b9ed35a72304777da7",
+    "size": 33059083
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 33059083,
+   "drive_match": null
+  },
+  {
+   "source_id": "s16_video-p01-dup3",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 16 -پری لب/neurologic test III.mp4",
+   "file_name": "neurologic test III.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:51f83b836ffbf1f82687d795448f389dff30fb8c7d55d7c7e7c7022971c33021",
+    "size": 15882245
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 15882245,
+   "drive_match": null
+  },
+  {
+   "source_id": "s16_peri-lab-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 16 -پری لب/جزوه پری لب نورو فیزیولوژی عملی.md",
+   "file_name": "جزوه پری لب نورو فیزیولوژی عملی.md",
+   "ext": ".md",
+   "size_on_disk": 59195,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "2c8cb19055ca5295bdb42b98916bfc5dd2775757dc6dc046e66c59dfdb493cfb",
+   "status": "text_available",
+   "payload_bytes": 59195,
+   "lines": 414,
+   "text_quality": {
+    "chars": 34304,
+    "persian_ratio": 0.725,
+    "lexicon_coverage": 0.625,
+    "verdict": "text_ok"
+   },
+   "chars": 34304,
+   "drive_match": null
+  },
+  {
+   "source_id": "s16_peri-lab-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 16 -پری لب/جزوه پری لب نورو فیزیولوژی عملی.pdf",
+   "file_name": "جزوه پری لب نورو فیزیولوژی عملی.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 698310,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "20805bb61271753a2cc13be3be14c7a33cef5ca5fbf4dc8b75dd1266d30b7634",
+   "status": "extracted",
+   "payload_bytes": 698310,
+   "pages": 16,
+   "text_quality": {
+    "chars": 34344,
+    "persian_ratio": 0.724,
+    "lexicon_coverage": 0.64,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_notes1404-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/جلسه ۲ نوروفیزیولوژی مهر 1404.md",
+   "file_name": "جلسه ۲ نوروفیزیولوژی مهر 1404.md",
+   "ext": ".md",
+   "size_on_disk": 100657,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "18ad07623d984795066cf608ecd647b2530c30f7bcc530c84f48ea9af8311367",
+   "status": "text_available",
+   "payload_bytes": 100657,
+   "lines": 500,
+   "text_quality": {
+    "chars": 59864,
+    "persian_ratio": 0.67,
+    "lexicon_coverage": 0.75,
+    "verdict": "text_ok"
+   },
+   "chars": 59864,
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_notes1404-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/جلسه ۲ نوروفیزیولوژی مهر 1404.pdf",
+   "file_name": "جلسه ۲ نوروفیزیولوژی مهر 1404.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 6451486,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "60c6a0ef19933b35d3bfff3fd88c08ec8f121a35b30a3c05da935f3ec0951523",
+   "status": "extracted",
+   "payload_bytes": 6451486,
+   "pages": 30,
+   "text_quality": {
+    "chars": 57197,
+    "persian_ratio": 0.704,
+    "lexicon_coverage": 0.776,
+    "verdict": "text_ok",
+    "pages_with_little_text": 1
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/فیزیولوژی اعصاب جلسه دوم پارت دو.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه دوم پارت دو.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:d66fa0f7363797e04d87b1ab03d8dad330512929d02ce6e3927940ca2382e8db",
+    "size": 43235386
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 43235386,
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/فیزیولوژی اعصاب جلسه دوم پارت سه.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه دوم پارت سه.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:05fdba9d5200ac27a8215c5e47348502fbc69220fb6335054ad3a5bd88f2acb5",
+    "size": 54984265
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 54984265,
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_video-p06",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/فیزیولوژی اعصاب جلسه دوم پارت شش.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه دوم پارت شش.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:9a7a3ccb766311361450580f6ed91cb391e2226a44b50d9a620a71b5fc0d8968",
+    "size": 84278893
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 84278893,
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/فیزیولوژی اعصاب جلسه دوم پارت یک.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه دوم پارت یک.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:dcc693f4c17df693650fbf4a0d56e2c323c2e9aeaba0440b7cc05187efd41751",
+    "size": 45136787
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 45136787,
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_video-p05",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/فیزیولوژی_اعصاب_جلسه_دوم_پارت_پنج.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_دوم_پارت_پنج.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:d8ab648ef144f1e76c3fa9d02136b1e843dad3e008e46f549c185a2e836215e1",
+    "size": 73659027
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 73659027,
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_video-p04",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/فیزیولوژی_اعصاب_جلسه_دوم_پارت_چهار.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_دوم_پارت_چهار.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:462e278b54a4bb2306a8421e26aa582332542e915862a3aeaa6c82896b1fd883",
+    "size": 36502447
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 36502447,
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/نوروفیزیولوژی 02 نهایی بهمن 1402 (1).md",
+   "file_name": "نوروفیزیولوژی 02 نهایی بهمن 1402 (1).md",
+   "ext": ".md",
+   "size_on_disk": 64078,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "b8a48f57c1931cb6e1facd3a11ea9b1fa9d98c0a409f87afcaf9f47e8a63aa06",
+   "status": "text_available",
+   "payload_bytes": 64078,
+   "lines": 271,
+   "text_quality": {
+    "chars": 43295,
+    "persian_ratio": 0.469,
+    "lexicon_coverage": 0.3,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 43295,
+   "drive_match": null
+  },
+  {
+   "source_id": "s02_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 2/نوروفیزیولوژی 02 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 02 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 5685372,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "ff825e85dc66a17ca74502c5652c53904c17fc615f1a0e1cbe30a45924c6e914",
+   "status": "needs_ocr_review",
+   "payload_bytes": 5685372,
+   "pages": 19,
+   "text_quality": {
+    "chars": 33616,
+    "persian_ratio": 0.605,
+    "lexicon_coverage": 0.354,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_notes1404-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/3 نوروفیزیولوژی مهر1404.md",
+   "file_name": "3 نوروفیزیولوژی مهر1404.md",
+   "ext": ".md",
+   "size_on_disk": 105354,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "9b0a72e446ca761382a04aaab96d00d2b87c2c95e5b2dc209d6f1dc69e24986d",
+   "status": "text_available",
+   "payload_bytes": 105354,
+   "lines": 751,
+   "text_quality": {
+    "chars": 62183,
+    "persian_ratio": 0.687,
+    "lexicon_coverage": 0.747,
+    "verdict": "text_ok"
+   },
+   "chars": 62183,
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_notes1404-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/3 نوروفیزیولوژی مهر1404.pdf",
+   "file_name": "3 نوروفیزیولوژی مهر1404.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 6002567,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "a94c14530ae66550ce65a421cf769865e02cef4180192f02717ae2a59aeb0af6",
+   "status": "extracted",
+   "payload_bytes": 6002567,
+   "pages": 33,
+   "text_quality": {
+    "chars": 60061,
+    "persian_ratio": 0.717,
+    "lexicon_coverage": 0.766,
+    "verdict": "text_ok",
+    "pages_with_little_text": 1
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/فیزیولوژی اعصاب جلسه سوم پارت دو.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه سوم پارت دو.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:ec877bce8dc75f4c9a2e0ddf74fa17484391c3fcdf25ffefa3473517f110b77e",
+    "size": 62013377
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 62013377,
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/فیزیولوژی اعصاب جلسه سوم پارت سه.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه سوم پارت سه.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:b61075ed1c96ae391a8df58bb4d2f58197b436fd6ef6838be13d0570283c649c",
+    "size": 39682838
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 39682838,
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/فیزیولوژی اعصاب جلسه سوم پارت یک.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه سوم پارت یک.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:9ebaa25bafe8d048a31505254c89f8b7da8efc74c52516d6be17bcc7a6a5132a",
+    "size": 53301231
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 53301231,
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_video-p05",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/فیزیولوژی_اعصاب_جلسه_سوم_پارت_پنج.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_سوم_پارت_پنج.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:9cdbe0613e0bc7e970f19673c97b73e5a58e732a7e39befcd25350340df62b9e",
+    "size": 58634956
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 58634956,
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_video-p04",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/فیزیولوژی_اعصاب_جلسه_سوم_پارت_چهار.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_سوم_پارت_چهار.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:1a68c63d066f746c7b7d59eb8372841bef202184493d893962193739567cfa3e",
+    "size": 99957658
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 99957658,
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/نوروفیزیولوژی 03 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 03 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 50752,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "a27cbe496d69d4ed0383d8aebb6d26284336a9f024e14bab34e18172b100cb8a",
+   "status": "text_available",
+   "payload_bytes": 50752,
+   "lines": 206,
+   "text_quality": {
+    "chars": 33038,
+    "persian_ratio": 0.533,
+    "lexicon_coverage": 0.085,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 33038,
+   "drive_match": null
+  },
+  {
+   "source_id": "s03_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 3/نوروفیزیولوژی 03 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 03 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 2647823,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "4753fdb99d786b64a789755d320a99483c0ce8cbbe108e5c2bc83bbc1c49f1f1",
+   "status": "needs_ocr_review",
+   "payload_bytes": 2647823,
+   "pages": 13,
+   "text_quality": {
+    "chars": 24394,
+    "persian_ratio": 0.727,
+    "lexicon_coverage": 0.093,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_notes1404-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/جلسه ۴ نورو فیزیولوژی مهر1404.md",
+   "file_name": "جلسه ۴ نورو فیزیولوژی مهر1404.md",
+   "ext": ".md",
+   "size_on_disk": 131767,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "34d6a454514dfe221babf87287b1b6826508f0230500ff6e9038707dade71d4a",
+   "status": "text_available",
+   "payload_bytes": 131767,
+   "lines": 1155,
+   "text_quality": {
+    "chars": 78255,
+    "persian_ratio": 0.675,
+    "lexicon_coverage": 0.711,
+    "verdict": "text_ok"
+   },
+   "chars": 78255,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_notes1404-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/جلسه ۴ نورو فیزیولوژی مهر1404.pdf",
+   "file_name": "جلسه ۴ نورو فیزیولوژی مهر1404.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 5849116,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "1315ec72e0e3121e87280b79cfbd2b08a519d8066244160b96634f455c6158f1",
+   "status": "extracted",
+   "payload_bytes": 5849116,
+   "pages": 29,
+   "text_quality": {
+    "chars": 77827,
+    "persian_ratio": 0.698,
+    "lexicon_coverage": 0.713,
+    "verdict": "text_ok",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/فیزیولوژی_اعصاب_جلسه_چهارم_پارت_دو.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_چهارم_پارت_دو.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:356021f48cfa6078c496e530a3bb1084d1805c2fb6d422fd68a5b9d2e0b188c6",
+    "size": 41284923
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 41284923,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/فیزیولوژی_اعصاب_جلسه_چهارم_پارت_سه.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_چهارم_پارت_سه.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:8fa202938a6fb21634433f3bf688cb1320a915cdee9eb7d1cf391ad0f2d55886",
+    "size": 38888133
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 38888133,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_video-p06",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/فیزیولوژی_اعصاب_جلسه_چهارم_پارت_شش.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_چهارم_پارت_شش.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:13924b50307125ec37b3dd17a80ca929e9bcbb103277c9e6ba109b579228b5f4",
+    "size": 59146267
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 59146267,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_video-p07",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/فیزیولوژی_اعصاب_جلسه_چهارم_پارت_هفت.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_چهارم_پارت_هفت.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:9354818a088aefba8326c72e447c1a58b1a8da223cd36df5496a90a77ae2b389",
+    "size": 26128878
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 26128878,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_video-p05",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/فیزیولوژی_اعصاب_جلسه_چهارم_پارت_پنج.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_چهارم_پارت_پنج.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:0c5dd91c41238502336e008e9da45dac64ea231af43c9d9f0a38c5782ef360e3",
+    "size": 47797992
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 47797992,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_video-p04",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/فیزیولوژی_اعصاب_جلسه_چهارم_پارت_چهار.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_چهارم_پارت_چهار.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:11b0853cd9fbdfd40666851133f879ce09c8b9154cd0bcb117308e72c279ec8a",
+    "size": 56838783
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 56838783,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/فیزیولوژی_اعصاب_جلسه_چهارم_پارت_یک.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_چهارم_پارت_یک.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:d4858f9f2f03e76763872d2636de20c78890295369d1f2c508845f68b41366f3",
+    "size": 53129842
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 53129842,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/نوروفیزیولوژی 04 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 04 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 55411,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "e10bfc088805e6c51f2460668075b01e59bc6cfc42af1321c5767ea99e9a82a8",
+   "status": "text_available",
+   "payload_bytes": 55411,
+   "lines": 276,
+   "text_quality": {
+    "chars": 35844,
+    "persian_ratio": 0.544,
+    "lexicon_coverage": 0.089,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 35844,
+   "drive_match": null
+  },
+  {
+   "source_id": "s04_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 4/نوروفیزیولوژی 04 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 04 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 5416024,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "cbe646107fc47b7120a38a58f7801ebe1b6fd74ce2cac23853af9565d8f68575",
+   "status": "needs_ocr_review",
+   "payload_bytes": 5416024,
+   "pages": 16,
+   "text_quality": {
+    "chars": 27988,
+    "persian_ratio": 0.697,
+    "lexicon_coverage": 0.095,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_فیزیو-آفلاین-بینایی-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیو آفلاین بینایی.md",
+   "file_name": "فیزیو آفلاین بینایی.md",
+   "ext": ".md",
+   "size_on_disk": 154299,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "a748f7ce5ca0eb514ec3b9ad67d79793421ff90ddb0058fa3403eac34e8066d2",
+   "status": "text_available",
+   "payload_bytes": 154299,
+   "lines": 471,
+   "text_quality": {
+    "chars": 99790,
+    "persian_ratio": 0.545,
+    "lexicon_coverage": 0.357,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 99790,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_فیزیو-آفلاین-بینایی-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیو آفلاین بینایی.pdf",
+   "file_name": "فیزیو آفلاین بینایی.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 3070634,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "1360059e46e798e91cf55d12a7c7ed06f52543f037cbd61c0e5ebf930297ae01",
+   "status": "needs_ocr_review",
+   "payload_bytes": 3070634,
+   "pages": 31,
+   "text_quality": {
+    "chars": 82026,
+    "persian_ratio": 0.668,
+    "lexicon_coverage": 0.479,
+    "verdict": "suspicious",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_دو.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_دو.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:040420336f5f3955e3a8f0ba1ff07a4d4ca2a9405d2bd4a6f1f6ea54bed03dbe",
+    "size": 25767785
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 25767785,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_سه.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_سه.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:4ad5f84dff002ee4ce2ef8e4c429c2efea04185d470cb02bc0512be60d42d225",
+    "size": 26280371
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 26280371,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p06",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_شش.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_شش.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:dd2d71f8103708c41c7a861e3969823369580b254726b2145bb08cf83f81c572",
+    "size": 26042968
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 26042968,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p09",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_نه.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_نه.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:0ebf42d0de079d3361235ebc4ff4262333c52624d04d2eea417e0f2880d75d22",
+    "size": 26058202
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 26058202,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p08",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_هشت.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_هشت.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:e95c26780019b3909c6783af87370587e457f77dced9d18aba6da4f7a44a2475",
+    "size": 28775328
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 28775328,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p07",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_هفت.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_هفت.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:f763ee811d5e4a93128afb5467bc40782223c6f90ca57442d10bd5a87297a901",
+    "size": 33022833
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 33022833,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p05",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_پنج.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_پنج.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:81d3fcd889223539f8a7d85a41e67a1754c25fac6fa4247b88e32f0b9386ae01",
+    "size": 29880693
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 29880693,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p04",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_چهارم.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_چهارم.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:d12a730b25b751bcd87ec26a3fef57bdefb365db70361740055f46caeb835b0e",
+    "size": 66674169
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 66674169,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_یک.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_پنجمبینایی_پارت_یک.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:5b401e453e89814f59d4be80e8b974dc211c5828828146e40897d33dc8dc76a2",
+    "size": 42439677
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 42439677,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/نوروفیزیولوژی 05 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 05 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 50857,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "632482eacc504bfe45fe6f88bfa4b8f4196e0b30316c2ba83cecdb270f86cfd9",
+   "status": "text_available",
+   "payload_bytes": 50857,
+   "lines": 260,
+   "text_quality": {
+    "chars": 32595,
+    "persian_ratio": 0.559,
+    "lexicon_coverage": 0.162,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 32595,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/نوروفیزیولوژی 05 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 05 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 810101,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "92e4001590fed1915f46f7218d5c5e08000d88847ec845ac3da421b414e8f8a4",
+   "status": "needs_ocr_review",
+   "payload_bytes": 810101,
+   "pages": 13,
+   "text_quality": {
+    "chars": 25719,
+    "persian_ratio": 0.714,
+    "lexicon_coverage": 0.18,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_notes1404-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/نورو۵ تالیفی مهر1404.md",
+   "file_name": "نورو۵ تالیفی مهر1404.md",
+   "ext": ".md",
+   "size_on_disk": 106787,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "c8e1fabf29cc6091ba13467438656f03cfcfb59b694ff23f9323d01f271f5f5d",
+   "status": "text_available",
+   "payload_bytes": 106787,
+   "lines": 825,
+   "text_quality": {
+    "chars": 64153,
+    "persian_ratio": 0.656,
+    "lexicon_coverage": 0.668,
+    "verdict": "text_ok"
+   },
+   "chars": 64153,
+   "drive_match": null
+  },
+  {
+   "source_id": "s05_notes1404-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 5/نورو۵ تالیفی مهر1404.pdf",
+   "file_name": "نورو۵ تالیفی مهر1404.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 7317101,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "18b54506630ea201a5ce5ab121f5c37a1b624f39c4b9e5d8e60bd683861534e9",
+   "status": "extracted",
+   "payload_bytes": 7317101,
+   "pages": 25,
+   "text_quality": {
+    "chars": 61086,
+    "persian_ratio": 0.686,
+    "lexicon_coverage": 0.675,
+    "verdict": "text_ok",
+    "pages_with_little_text": 1
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/فیزیولوژی اعصاب جلسه ششم پارت دو.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه ششم پارت دو.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:4a4ae509faf8f6442881b8d0b048e8cabfdd72377b777a25f4bf64bb972aa204",
+    "size": 51191127
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 51191127,
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/فیزیولوژی اعصاب جلسه ششم پارت سه.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه ششم پارت سه.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:a59f87e44c0ab9aaafdac2212c3e9e25dcd884acacb00bc05aa62b74d6b5dbb8",
+    "size": 45291170
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 45291170,
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_video-p06",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/فیزیولوژی اعصاب جلسه ششم پارت شش.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه ششم پارت شش.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:d5b2523d1f7aa6e410a0047b9c35b2275e6fb2423867fc4ff62e74c14c5009d2",
+    "size": 37878581
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 37878581,
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/فیزیولوژی اعصاب جلسه ششم پارت یک.mp4",
+   "file_name": "فیزیولوژی اعصاب جلسه ششم پارت یک.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:bb52f8cd109e8b1259232a015ce0a7ee26db9b4473a86a3ca5fed77f053881ac",
+    "size": 50069617
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 50069617,
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_video-p05",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/فیزیولوژی_اعصاب_جلسه_ششم_پارت_پنج.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_ششم_پارت_پنج.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:7e21f8e54e50579ec7654ce207de79d76729c6ef929ef0be6ce079a69d50d061",
+    "size": 40952154
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 40952154,
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_video-p04",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/فیزیولوژی_اعصاب_جلسه_ششم_پارت_چهار.mp4",
+   "file_name": "فیزیولوژی_اعصاب_جلسه_ششم_پارت_چهار.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:7daf40bf61dcb025208b1bf89d4839383727b22871430a913e24330686f43816",
+    "size": 29417409
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 29417409,
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_notes1404-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/نورو فیزیولوژی جلسه ۶ مهر1404.md",
+   "file_name": "نورو فیزیولوژی جلسه ۶ مهر1404.md",
+   "ext": ".md",
+   "size_on_disk": 106894,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "5dc0b229ad00c025da5d3b16ffcc8909a87488a7bd732caddc3f213a20589542",
+   "status": "text_available",
+   "payload_bytes": 106894,
+   "lines": 1453,
+   "text_quality": {
+    "chars": 63651,
+    "persian_ratio": 0.674,
+    "lexicon_coverage": 0.651,
+    "verdict": "text_ok"
+   },
+   "chars": 63651,
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_notes1404-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/نورو فیزیولوژی جلسه ۶ مهر1404.pdf",
+   "file_name": "نورو فیزیولوژی جلسه ۶ مهر1404.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 4059201,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "0104d240704d25571bf1f59b7ae52c961ffe286e468ae8abdfc0e96a58a10eb0",
+   "status": "extracted",
+   "payload_bytes": 4059201,
+   "pages": 23,
+   "text_quality": {
+    "chars": 61573,
+    "persian_ratio": 0.696,
+    "lexicon_coverage": 0.665,
+    "verdict": "text_ok",
+    "pages_with_little_text": 1
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/نوروفیزیولوژی 06 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 06 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 58534,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "793a2ed8aacb1f6f8d4cb082e617378ab93409019d02e536b46bc0d1a37b1ab4",
+   "status": "text_available",
+   "payload_bytes": 58534,
+   "lines": 532,
+   "text_quality": {
+    "chars": 38698,
+    "persian_ratio": 0.512,
+    "lexicon_coverage": 0.07,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 38698,
+   "drive_match": null
+  },
+  {
+   "source_id": "s06_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 6/نوروفیزیولوژی 06 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 06 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 1537041,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "9f528f4b57e67d65f307588d418e154b1a61729707875752623d249d36eb1185",
+   "status": "needs_ocr_review",
+   "payload_bytes": 1537041,
+   "pages": 18,
+   "text_quality": {
+    "chars": 30507,
+    "persian_ratio": 0.635,
+    "lexicon_coverage": 0.077,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/spinal cord-2.mp4",
+   "file_name": "spinal cord-2.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:2f283d0ca1f47230201cdbab2949e21504adebcfe7806fed1287b417e9ec3a09",
+    "size": 14902711
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 14902711,
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/spinal cord-3.mp4",
+   "file_name": "spinal cord-3.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:5a98b0b4000e65a8d541c9fe76c129cfffc0305b4172e85c1c24b7f7f8088e14",
+    "size": 14774063
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 14774063,
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_video-p04",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/spinal cord-4.mp4",
+   "file_name": "spinal cord-4.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 132,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:45e5662496666419acaef5fdebeafe28d94d598d688ef63748a7d282a501c35b",
+    "size": 7923915
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 7923915,
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_video-p05",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/spinal cord-5.mp4",
+   "file_name": "spinal cord-5.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 132,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:30741c77db49583995b76ebfddc5abdf4ded89a0dbd7136f173c64c9b43f8fdb",
+    "size": 9623449
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 9623449,
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_video-p06",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/spinal cord-6.mp4",
+   "file_name": "spinal cord-6.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:3c4d101ab8874d54f7e1d32e1c4286a385b9a6833975bc1727e23932cb5ff472",
+    "size": 11770061
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 11770061,
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/جزوه جلسه 8 پارت 2 بهمن 1402.md",
+   "file_name": "جزوه جلسه 8 پارت 2 بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 78637,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "4932d55f778326fbdf5c580818a4c78005af2214098be8b7e4fa151628dcc971",
+   "status": "text_available",
+   "payload_bytes": 78637,
+   "lines": 689,
+   "text_quality": {
+    "chars": 50120,
+    "persian_ratio": 0.568,
+    "lexicon_coverage": 0.218,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 50120,
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/جزوه جلسه 8 پارت 2 بهمن 1402.pdf",
+   "file_name": "جزوه جلسه 8 پارت 2 بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 1759514,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "2eed3b8d0a5b7e69c74f26015f2a7a3cb29a11b129c3519f321099c8373b5873",
+   "status": "needs_ocr_review",
+   "payload_bytes": 1759514,
+   "pages": 20,
+   "text_quality": {
+    "chars": 42829,
+    "persian_ratio": 0.65,
+    "lexicon_coverage": 0.221,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_notes1402-md-dup2",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.md",
+   "file_name": "نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.md",
+   "ext": ".md",
+   "size_on_disk": 64735,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "f5df973306a6029a0e9225f7f87ac5e684972d2703e5c3b5376bbae68574a22f",
+   "status": "text_available",
+   "payload_bytes": 64735,
+   "lines": 652,
+   "text_quality": {
+    "chars": 39610,
+    "persian_ratio": 0.634,
+    "lexicon_coverage": 0.102,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 39610,
+   "drive_match": null
+  },
+  {
+   "source_id": "s07_notes1402-pdf-dup2",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 7/نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.pdf",
+   "file_name": "نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 2167234,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "8d8e30ad4c423a5481c0357de9597df479bd79c32ae87e66a4d6c3d8e6259584",
+   "status": "needs_ocr_review",
+   "payload_bytes": 2167234,
+   "pages": 22,
+   "text_quality": {
+    "chars": 36011,
+    "persian_ratio": 0.68,
+    "lexicon_coverage": 0.104,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/spinal cord-2.mp4",
+   "file_name": "spinal cord-2.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:2f283d0ca1f47230201cdbab2949e21504adebcfe7806fed1287b417e9ec3a09",
+    "size": 14902711
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 14902711,
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/spinal cord-3.mp4",
+   "file_name": "spinal cord-3.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:5a98b0b4000e65a8d541c9fe76c129cfffc0305b4172e85c1c24b7f7f8088e14",
+    "size": 14774063
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 14774063,
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_video-p04",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/spinal cord-4.mp4",
+   "file_name": "spinal cord-4.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 132,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:45e5662496666419acaef5fdebeafe28d94d598d688ef63748a7d282a501c35b",
+    "size": 7923915
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 7923915,
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_video-p05",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/spinal cord-5.mp4",
+   "file_name": "spinal cord-5.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 132,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:30741c77db49583995b76ebfddc5abdf4ded89a0dbd7136f173c64c9b43f8fdb",
+    "size": 9623449
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 9623449,
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_video-p06",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/spinal cord-6.mp4",
+   "file_name": "spinal cord-6.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:3c4d101ab8874d54f7e1d32e1c4286a385b9a6833975bc1727e23932cb5ff472",
+    "size": 11770061
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 11770061,
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/جزوه جلسه 8 پارت 2 بهمن 1402 (1).md",
+   "file_name": "جزوه جلسه 8 پارت 2 بهمن 1402 (1).md",
+   "ext": ".md",
+   "size_on_disk": 78637,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "4932d55f778326fbdf5c580818a4c78005af2214098be8b7e4fa151628dcc971",
+   "status": "text_available",
+   "payload_bytes": 78637,
+   "lines": 689,
+   "text_quality": {
+    "chars": 50120,
+    "persian_ratio": 0.568,
+    "lexicon_coverage": 0.218,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 50120,
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/جزوه جلسه 8 پارت 2 بهمن 1402.pdf",
+   "file_name": "جزوه جلسه 8 پارت 2 بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 1759514,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "2eed3b8d0a5b7e69c74f26015f2a7a3cb29a11b129c3519f321099c8373b5873",
+   "status": "needs_ocr_review",
+   "payload_bytes": 1759514,
+   "pages": 20,
+   "text_quality": {
+    "chars": 42829,
+    "persian_ratio": 0.65,
+    "lexicon_coverage": 0.221,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_notes1402-md-dup2",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402 (1).md",
+   "file_name": "نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402 (1).md",
+   "ext": ".md",
+   "size_on_disk": 64735,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "f5df973306a6029a0e9225f7f87ac5e684972d2703e5c3b5376bbae68574a22f",
+   "status": "text_available",
+   "payload_bytes": 64735,
+   "lines": 652,
+   "text_quality": {
+    "chars": 39610,
+    "persian_ratio": 0.634,
+    "lexicon_coverage": 0.102,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 39610,
+   "drive_match": null
+  },
+  {
+   "source_id": "s08_notes1402-pdf-dup2",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 8 - نخاع و رفلکس های نخاعی/نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.pdf",
+   "file_name": "نوروفیزیولوژی_8_نهایی_پارت_1_بهمن_1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 2167234,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "8d8e30ad4c423a5481c0357de9597df479bd79c32ae87e66a4d6c3d8e6259584",
+   "status": "needs_ocr_review",
+   "payload_bytes": 2167234,
+   "pages": 22,
+   "text_quality": {
+    "chars": 36011,
+    "persian_ratio": 0.68,
+    "lexicon_coverage": 0.104,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "s09_video-p01",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 9 - اعمال حرکتی ساقه مغز و کورتکس/motor cortex-1.mp4",
+   "file_name": "motor cortex-1.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:291305a27e564efa3d687ee404896f3906ad771a6d89bfd43956fa0a800c6612",
+    "size": 28349015
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 28349015,
+   "drive_match": null
+  },
+  {
+   "source_id": "s09_video-p02",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 9 - اعمال حرکتی ساقه مغز و کورتکس/motor cortex-2.mp4",
+   "file_name": "motor cortex-2.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:67896acc4fdeb38315f7be82fa78667f5c266cb4a906a7d721a11c92d174b9a5",
+    "size": 27648418
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 27648418,
+   "drive_match": null
+  },
+  {
+   "source_id": "s09_video-p03",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 9 - اعمال حرکتی ساقه مغز و کورتکس/motor cortex-3.mp4",
+   "file_name": "motor cortex-3.mp4",
+   "ext": ".mp4",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:11ddc1d042b2f9acccc0ac851e6a63313f43f7af665c6b11f88fafa0ecf5e538",
+    "size": 16957834
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 16957834,
+   "drive_match": null
+  },
+  {
+   "source_id": "s09_notes1402-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 9 - اعمال حرکتی ساقه مغز و کورتکس/نوروفیزیولوژی 09 نهایی بهمن 1402.md",
+   "file_name": "نوروفیزیولوژی 09 نهایی بهمن 1402.md",
+   "ext": ".md",
+   "size_on_disk": 53233,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "1b00a5c2b1dc1b46df6865126b5b1ca6ed9f90d2c2bbf8cb458932baf3c5bf9f",
+   "status": "text_available",
+   "payload_bytes": 53233,
+   "lines": 493,
+   "text_quality": {
+    "chars": 32052,
+    "persian_ratio": 0.659,
+    "lexicon_coverage": 0.405,
+    "verdict": "garbled_needs_ocr"
+   },
+   "chars": 32052,
+   "drive_match": null
+  },
+  {
+   "source_id": "s09_notes1402-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/جلسه 9 - اعمال حرکتی ساقه مغز و کورتکس/نوروفیزیولوژی 09 نهایی بهمن 1402.pdf",
+   "file_name": "نوروفیزیولوژی 09 نهایی بهمن 1402.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 2692569,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "78f2380777816b0e6766fb3b1b2f3db9c50193e111ce9a6df82ab02fc578bce1",
+   "status": "needs_ocr_review",
+   "payload_bytes": 2692569,
+   "pages": 15,
+   "text_quality": {
+    "chars": 29521,
+    "persian_ratio": 0.7,
+    "lexicon_coverage": 0.418,
+    "verdict": "garbled_needs_ocr",
+    "pages_with_little_text": 0
+   },
+   "drive_match": null
+  },
+  {
+   "source_id": "misc_guyton-en-md",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/رفرنس گایتون/Guyton and Hall Textbook of Medical Physiology English.md",
+   "file_name": "Guyton and Hall Textbook of Medical Physiology English.md",
+   "ext": ".md",
+   "size_on_disk": 5154371,
+   "storage": "inline",
+   "lfs_pointer": null,
+   "sha256": "048287c76543f906710dd99543f6d9e023f0f5c5aa0b19a29d600810eb1dad2b",
+   "status": "text_available",
+   "payload_bytes": 5154371,
+   "lines": 130635,
+   "text_quality": {
+    "chars": 5135448,
+    "persian_ratio": 0.0,
+    "lexicon_coverage": 0.068,
+    "verdict": "latin_text_ok"
+   },
+   "chars": 5135448,
+   "drive_match": null
+  },
+  {
+   "source_id": "misc_guyton-en-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/رفرنس گایتون/Guyton and Hall Textbook of Medical Physiology English.pdf",
+   "file_name": "Guyton and Hall Textbook of Medical Physiology English.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 133,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:fd70594fe6e3e0dbd1ab51a46191157e1ccb1e897a83f18176a504c8b9429796",
+    "size": 56708019
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 56708019,
+   "drive_match": null
+  },
+  {
+   "source_id": "misc_guyton-fa-vol1-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/رفرنس گایتون/فیزیولوژی_گایتون_و_هال_2026_جلد_اول_فارسی.pdf",
+   "file_name": "فیزیولوژی_گایتون_و_هال_2026_جلد_اول_فارسی.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 134,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:3fa7788651ba9225441a8c8f8e2921df59ef25dd9222bc53a59548babe36d2de",
+    "size": 299173474
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 299173474,
+   "drive_match": null
+  },
+  {
+   "source_id": "misc_guyton-fa-vol2-pdf",
+   "rel_path": "فیزیولوژی اعصاب حواس ویژه/رفرنس گایتون/فیزیولوژی_گایتون_و_هال_2026_جلد_دوم_فارسی.pdf",
+   "file_name": "فیزیولوژی_گایتون_و_هال_2026_جلد_دوم_فارسی.pdf",
+   "ext": ".pdf",
+   "size_on_disk": 134,
+   "storage": "git_lfs_pointer",
+   "lfs_pointer": {
+    "oid": "sha256:a3ec61b36af22bcef7a502c0503d753eb85709375881acd97b8d2a2eb516f93e",
+    "size": 290937267
+   },
+   "sha256": null,
+   "status": "pending",
+   "payload_bytes": 290937267,
+   "drive_match": null
+  }
+ ]
+}

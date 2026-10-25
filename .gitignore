@@ -1,0 +1,11 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# transient review artefacts (regenerable with work/scripts/*.py)
+work/page_renders/
+/tmp/
+
+# local scratch
+output/
