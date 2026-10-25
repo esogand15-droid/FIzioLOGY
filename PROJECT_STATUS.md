@@ -1,12 +1,12 @@
 # وضعیت پروژه — جزوهٔ مادر فیزیولوژی اعصاب و حواس ویژه
 
-آخرین به‌روزرسانی: نشست ۱۷ (ساخت جلسهٔ ۱۴ — معاینات نورولوژیک (جزوهٔ پری‌لب) — به‌عنوان سند جداگانه؛ هر جلسه فایل PDF مستقل خودش را دارد)
+آخرین به‌روزرسانی: نشست ۱۸ — **ممیزی نهایی استاد**: ماتریس پوشش ۲۹ منبع/۵۷۸ صفحه (۵۰۳ ارجاع‌دار، ۷۵ صفحهٔ تعیین‌تکلیف‌شده)، ممیزی ۶۶۵ تصویر، اعتبارسنجی ۲۸۳ بلوک گایتون، بازبینی ساختاری ۱۴ سند و رفع بیرون‌زدگی عنوان در ج۲. گزارش: `reports/FINAL_AUDIT_REPORT.md` — حکم: **تأیید مشروط**
 شاخه: `arena/179c47c9-fiziology`
 
 | سند | صفحه | حجم (بایت) | SHA-256 | گزارش کیفیت |
 | --- | --- | --- | --- | --- |
 | `pdf/HumsYar_Neuro_Jalase1.pdf` (جلسهٔ ۱) | ۶۴ | ۱۶٬۴۲۵٬۹۰۹ | `6380ff1a…9cfed4d1` | `reports/S01_QA_REPORT.md` — `blocks=314 figures=24 embedded=24 problems=0 warnings=0` |
-| `pdf/HumsYar_Neuro_Jalase2.pdf` (جلسهٔ ۲) | ۵۷ | ۲۱٬۴۷۶٬۱۷۹ | `bf080f7b…1929e628` | `reports/S02_QA_REPORT.md` — `blocks=230 figures=27 embedded=27 problems=0 warnings=0` |
+| `pdf/HumsYar_Neuro_Jalase2.pdf` (جلسهٔ ۲ — بازسازی‌شده در ممیزی نهایی) | ۵۷ | ۲۱٬۴۷۶٬۱۹۹ | `86e38b6a…7e972c21` | `reports/S02_QA_REPORT.md` — `blocks=230 figures=27 embedded=27 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase3.pdf` (جلسهٔ ۳) | ۵۹ | ۱۵٬۸۸۱٬۲۲۸ | `a46e1b8c…bab2798` | `reports/S03_QA_REPORT.md` — `blocks=236 figures=24 embedded=24 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase4.pdf` (جلسهٔ ۴ — با بخش تکمیلی) | ۶۸ | ۶٬۷۹۸٬۶۴۰ | `58330bb0…892cae33` | `reports/S04_QA_REPORT.md` — `blocks=245 figures=15 problems=0 warnings=0` |
 | `pdf/HumsYar_Neuro_Jalase5.pdf` (جلسهٔ ۵) | ۷۶ | ۹٬۵۴۵٬۴۰۶ | `7b01abb6…ce0f494` | `reports/S05_QA_REPORT.md` — `blocks=262 figures=26 embedded=26 problems=0 warnings=0` |
@@ -1086,6 +1086,19 @@
 - قاعدهٔ رعایت‌شده: هیچ جملهٔ گایتون بازنویسی نشد؛ جملات از فایل با ایندکس انتخاب می‌شوند، پس غلط تایپی نمی‌تواند به‌عنوان «نقل قول» وارد سند شود.
 
 ---
+
+## ۲-ل. نشست ۲۶ — ممیزی نهایی استاد (بدون بازسازی طرح)
+
+| بُعد | نتیجه | شاهد |
+| --- | --- | --- |
+| هم‌خوانی منابع | ۲۹ منبع، ۵۷۸ صفحه؛ تکراری‌ها بر پایهٔ md5 یک‌بار شمرده شدند | `reports/SOURCE_COVERAGE.md` |
+| پوشش صفحه‌به‌مبحث | ۵۰۳ ارجاع‌دار (۸۷٫۰٪) · ۷۵ صفحهٔ بی‌ارجاع، همه تعیین‌تکلیف‌شده: ۱۳ جلد، ۳۱ نسخهٔ موازی، ۳۰ پوشش مفهومی، ۱ سفید | `work/audit/uncited_adjudication.json` |
+| دیف واقعیت | اعداد و واژگان لاتین صفحه‌های حساس؛ شکاف علمی تأییدشده: ۰ | `work/audit/fact_diff.json`، `uncited_entities.json` |
+| تصاویر | ۶۶۵ دارایی (۲۶۱ در سند) · ۱۰ ردیف بدون فایل اصلاح شد · ۲۱۴ تصویر متمایز استفاده‌نشده تعیین تکلیف شد | `reports/FINAL_IMAGE_AUDIT.md` |
+| گایتون ۱۲ | ۲۸۳ بلوک، ۰ استناد خارج از محدودهٔ فصل؛ ۱ بلوک دوفصلی در `s14_a.json` (مستند) | `work/references/guyton_*.json` |
+| ساختار ۱۴ PDF | ۰ صفحهٔ سفید · ۰ بلوک بیرون‌زده · فقط `Helvetica` غیرجاسازی‌شده (base-14) | `work/audit/pdf_checks.json` |
+| اصلاح واقعی | `h1()` در `render/pdf_kit.py` + بازسازی `pdf/HumsYar_Neuro_Jalase2.pdf` (۵۷ ص، sha `86e38b6a…`) | `reports/FINAL_AUDIT_ISSUES.md` ردیف I-01 |
+| حکم | **تأیید مشروط** با ۵ شرط غیربازدارنده | `reports/FINAL_AUDIT_REPORT.md` §۱۰ |
 
 ## ۵. قواعد پایدار (بدون تغییر)
 

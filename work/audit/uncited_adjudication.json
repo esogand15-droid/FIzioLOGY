@@ -1,0 +1,952 @@
+[
+ {
+  "source": "s01-1404",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 4,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "استاد خوارزمی مهر۴۰۴ جلسه۱"
+ },
+ {
+  "source": "s01-1404",
+  "page": 31,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 282,
+  "latin_missing": [
+   "AChEInhibitors"
+  ],
+  "numbers_missing": [],
+  "head": "• :مکانیسم موادی مثل حشره کش های ارگانوفسفره (مثل ماالتیون ) و"
+ },
+ {
+  "source": "s01-1402",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ، تهیه‌کنندگان)",
+  "words": 379,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "13 1 \"به نام او\" درس :فیزیولوژی اعصاب جلسه :اول استاد :دکتر"
+ },
+ {
+  "source": "s01-1402",
+  "page": 9,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 554,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "13 فیزیولوژی اعصاب (گیرنده های حسی )جلسه اول 13 9 توضیحات بیشتر"
+ },
+ {
+  "source": "s01-1402",
+  "page": 10,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 743,
+  "latin_missing": [
+   "Y-aminobutyric",
+   "axoaxonal"
+  ],
+  "numbers_missing": [],
+  "head": "13 فیزیولوژی اعصاب (گیرنده های حسی )جلسه اول 13 10 توضیحات بیشتر"
+ },
+ {
+  "source": "s01-1402",
+  "page": 11,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 172,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "13 فیزیولوژی اعصاب (گیرنده های حسی )جلسه اول 13 11 - گابا"
+ },
+ {
+  "source": "s02-1402",
+  "page": 17,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 586,
+  "latin_missing": [],
+  "numbers_missing": [
+   "100",
+   "17",
+   "19"
+  ],
+  "head": "19 فیزیولوژی اعصاب (گیرنده های حسی )جلسه دوم 19 17 ارتباطات نورون"
+ },
+ {
+  "source": "s03-1402",
+  "page": 10,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 231,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "13 10 فیزیولوژی اعصاب (گیرنده های حسی )جلسه سوم مقایسه میزان سازش"
+ },
+ {
+  "source": "s03-1402",
+  "page": 11,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 314,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "13 11 فیزیولوژی اعصاب (گیرنده های حسی )جلسه سوم حس های سوماتیک:"
+ },
+ {
+  "source": "s04-1404",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 19,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "فیزیولوژي اعصاب استاد خوارزمی ( چگونه به اعصاب خود مسلط باشیم –"
+ },
+ {
+  "source": "s04-1402",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ، تهیه‌کنندگان)",
+  "words": 322,
+  "latin_missing": [
+   "HUMS"
+  ],
+  "numbers_missing": [
+   "1401"
+  ],
+  "head": "\"به نام او\" درس :فیزیولوژی اعصاب جلسه :چهارم استاد :خوارزیم تعداد صفحات"
+ },
+ {
+  "source": "s04-1402",
+  "page": 4,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 290,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "16 4 (2 مهارجانب( Lateral inhibition : ) دررل نرشکدرس زا ر("
+ },
+ {
+  "source": "s04-1402",
+  "page": 5,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 250,
+  "latin_missing": [
+   "afferent",
+   "interneuron",
+   "proprioception"
+  ],
+  "numbers_missing": [],
+  "head": "16 5 فیزیولوژی اعصاب ( Somatosensory pathway ) جلسه چهار م مییرحهایحنخاع:"
+ },
+ {
+  "source": "s04-1402",
+  "page": 6,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 203,
+  "latin_missing": [
+   "mechanireceptor",
+   "mechanoreceptor"
+  ],
+  "numbers_missing": [],
+  "head": "16 6 تحلیلحبیشترحمییرحهایحسی حنشانحدادهحشدهحدرحشکل: يرههویرلزرا صمرشيب طرش رش دربهرشهحير صیرکه رورکيي ؛ر"
+ },
+ {
+  "source": "s04-1402",
+  "page": 7,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 261,
+  "latin_missing": [
+   "Principal",
+   "cuneate",
+   "fasciculis",
+   "gracilis",
+   "snterolateral",
+   "spino-olivary",
+   "spinocerebellar",
+   "tracts",
+   "ventral"
+  ],
+  "numbers_missing": [],
+  "head": "16 7 Principal long tracts of spinal cord: دررلل يربع یرههویر صیرش"
+ },
+ {
+  "source": "s04-1402",
+  "page": 8,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 381,
+  "latin_missing": [
+   "Cervical",
+   "lumbar",
+   "nucleus",
+   "sacral",
+   "tracts",
+   "ventral"
+  ],
+  "numbers_missing": [],
+  "head": "16 8 •رزئحصت د گيی در شکد ز ي ور د دلرد"
+ },
+ {
+  "source": "s04-1402",
+  "page": 11,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 130,
+  "latin_missing": [
+   "Dermatome",
+   "cervical",
+   "lumbar",
+   "sacral"
+  ],
+  "numbers_missing": [],
+  "head": "16 11 *درماتومحچییت ؟ شههههصربهههههرههههههو رلزرپ سههههیريهههههرل سههههطر ههههکرسههههگوصنرشیهههه سرا ههههصع رعلهههه"
+ },
+ {
+  "source": "s04-1402",
+  "page": 12,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 251,
+  "latin_missing": [
+   "Supplementary",
+   "motor",
+   "premotor"
+  ],
+  "numbers_missing": [
+   "50"
+  ],
+  "head": "16 12 Somatosensory cortex: دررل نرلل يرشغز اصکحهرب یرش یريهربهر۵۰اصکحهربيودشنرشیه ررلسی(اصمردلایو یريهرل"
+ },
+ {
+  "source": "s04-1402",
+  "page": 14,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 215,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "16 14 الی حهایحقشرحsomatosensory : هیيرشغزرلزر۶ال هرلیکحدرش یر؛ال هر صیرآنرلزربصالربهرپص حنرعبصرل رلز:"
+ },
+ {
+  "source": "s04-1402",
+  "page": 15,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 203,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "16 15 سوال(: ۴۰ دررد خروجی های مسیر حرکتی از قیرsomatosensory هستند)"
+ },
+ {
+  "source": "s04-1402",
+  "page": 16,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 114,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "16 16 * آدههههي نرههههههویرلزرهیههههيرس شصل س ههههه ریراصکحهههههرکههههه-پحکههههيیرلسههههیريهههههردرراهیهههههرلعههههصد ر اصکحه۵و۷بيودشنرلسیريههردرراصکحههparietal (آ"
+ },
+ {
+  "source": "s05-1404",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 4,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "جلسه۵ گروه جزوه کبری"
+ },
+ {
+  "source": "s05-1402",
+  "page": 1,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 403,
+  "latin_missing": [
+   "Acute",
+   "Chronic",
+   "Duration",
+   "Pain",
+   "localization"
+  ],
+  "numbers_missing": [],
+  "head": "1 تعریف( دردPain ) درد یک تجربه حسی اطفی اطوشایطی م بربشب"
+ },
+ {
+  "source": "s05-1402",
+  "page": 4,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 549,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "4 ب اییشام د یی در سییما طش م میرش یراطا طش"
+ },
+ {
+  "source": "s05-1402",
+  "page": 5,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 538,
+  "latin_missing": [
+   "Pain",
+   "hyperalgesia",
+   "ischemia",
+   "mechanical",
+   "nociceptor",
+   "stimuli",
+   "thermal"
+  ],
+  "numbers_missing": [],
+  "head": "5 * تشهر: بروالف نطدر ی یه بغز بط در پطریاشییییییی و"
+ },
+ {
+  "source": "s05-1402",
+  "page": 6,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 465,
+  "latin_missing": [
+   "acetylcholine",
+   "acids",
+   "bradykinin",
+   "capsaicin",
+   "cramping",
+   "environmental",
+   "enzymes",
+   "histamine",
+   "irritants",
+   "pain",
+   "prostaglandins",
+   "proteolytic",
+   "serotonin"
+  ],
+  "numbers_missing": [
+   "45",
+   "89"
+  ],
+  "head": "6 * یبییپطبیی ه بطاث ب اییشد یک اشش شییردا ییسییسم به"
+ },
+ {
+  "source": "s05-1402",
+  "page": 7,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 572,
+  "latin_missing": [
+   "complen",
+   "localization",
+   "spinothalamic",
+   "ventro"
+  ],
+  "numbers_missing": [],
+  "head": "7 :درد آهسرته تشبیف ویرهطش c همی ید ب ایشد د بیراد"
+ },
+ {
+  "source": "s05-1402",
+  "page": 8,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 370,
+  "latin_missing": [
+   "intralaminar",
+   "localization",
+   "mechanoreceptor"
+  ],
+  "numbers_missing": [],
+  "head": "8 mechanoreceptor ش هط بیاشس ولی ه هه دیرام بطال ب ور"
+ },
+ {
+  "source": "s05-1402",
+  "page": 11,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 592,
+  "latin_missing": [
+   "raphe"
+  ],
+  "numbers_missing": [],
+  "head": "11 سیستم ضددردی سه جز دارد: ۱-اطح وه وطهسار ش د ر"
+ },
+ {
+  "source": "s05-1402",
+  "page": 12,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 473,
+  "latin_missing": [
+   "Opioid",
+   "enkephalin"
+  ],
+  "numbers_missing": [],
+  "head": "12 کنترل دریچه ای درد: بیمشال میط ی هیه درد ب ه"
+ },
+ {
+  "source": "s05-alt",
+  "page": 1,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 184,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "1 الیه های شبکی ه و سلول های آن در ین ا"
+ },
+ {
+  "source": "s05-alt",
+  "page": 2,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 637,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "2 3 ) الیه شایهیه رن : بعد از آن ا یه"
+ },
+ {
+  "source": "s05-alt",
+  "page": 3,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 682,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "3 کمترهسکت و در نور زیاد برای ما نشکخیب خوبی زا ک"
+ },
+ {
+  "source": "s05-alt",
+  "page": 4,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 237,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "4 ،سکککککیگنا رنوهای نور را رتورسکککککهتورها دریارت می کنند و رونیینی که"
+ },
+ {
+  "source": "s05-alt",
+  "page": 5,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 682,
+  "latin_missing": [
+   "All-trans",
+   "All-trrans",
+   "Bathorhodopsin",
+   "GProtein",
+   "Lumirhodopsin",
+   "all-trans",
+   "retinol"
+  ],
+  "numbers_missing": [],
+  "head": "5 شکل باا سکمت چ یک نوا ی از نغ ییر رودو"
+ },
+ {
+  "source": "s05-alt",
+  "page": 6,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 680,
+  "latin_missing": [
+   "All-trans",
+   "GProtein",
+   "all-trans",
+   "retinol"
+  ],
+  "numbers_missing": [],
+  "head": "6 نرنسکدیوسکین یا اینGProtein رعا می شکود. زمانی که رعا می شکود"
+ },
+ {
+  "source": "s05-alt",
+  "page": 7,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 461,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "7 ویتامین آ ازم اسکت و اررادی که دچار کمکود ویتامین آ"
+ },
+ {
+  "source": "s05-alt",
+  "page": 8,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 789,
+  "latin_missing": [
+   "all-trans",
+   "retinol"
+  ],
+  "numbers_missing": [],
+  "head": "8 ملان یسم نطابق ا ست یعنی در یارت س یگنا ی"
+ },
+ {
+  "source": "s05-alt",
+  "page": 9,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 320,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "9 د ی نقت چشکمگ یرنر اسکتوانه ا ی ها در نطابق"
+ },
+ {
+  "source": "s05-alt",
+  "page": 10,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 741,
+  "latin_missing": [],
+  "numbers_missing": [
+   "36",
+   "380",
+   "450",
+   "460",
+   "470",
+   "480",
+   "500",
+   "505",
+   "530",
+   "535",
+   "570",
+   "650",
+   "67",
+   "680",
+   "83"
+  ],
+  "head": "10 ،بکینیم اگر ی نو ر ی نور اب طو موج۳۸۰ نانومتر"
+ },
+ {
+  "source": "s05-alt",
+  "page": 11,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 534,
+  "latin_missing": [],
+  "numbers_missing": [
+   "380",
+   "42",
+   "680",
+   "74"
+  ],
+  "head": "11 ما یک محدوده د ید ی رنگ داشککت یم که بر"
+ },
+ {
+  "source": "s05-alt",
+  "page": 12,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 448,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "12 Neural function of the retina در شکل سکمت چ مدارات مربوط"
+ },
+ {
+  "source": "s05-alt",
+  "page": 13,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 912,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "13 سککککمت چ اسککککت هب عنوان مثا اسککککتوانه ها ی ناز یه"
+ },
+ {
+  "source": "s05-alt",
+  "page": 14,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 639,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "14 از ی طرر NT ی ها ین ا سککککلو ها، و"
+ },
+ {
+  "source": "s05-alt",
+  "page": 15,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 312,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "15 امکا مخروط هکا نسکککککک کت بکه نور آ سککککککتکانکه بکاا دارنکد."
+ },
+ {
+  "source": "s05-alt",
+  "page": 16,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 859,
+  "latin_missing": [
+   "offcenter",
+   "oncell"
+  ],
+  "numbers_missing": [],
+  "head": "16 در ا ین اسال ید یک سلو دو قطک ی را"
+ },
+ {
+  "source": "s05-alt",
+  "page": 17,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 728,
+  "latin_missing": [
+   "firing",
+   "offcell"
+  ],
+  "numbers_missing": [],
+  "head": "17 در نار یلی آزاد شدن گلونامات یاد ز م ی شود"
+ },
+ {
+  "source": "s05-alt",
+  "page": 18,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 190,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "18 بخشکک ی از شکککل یه که مماور وب گ یمگاهی اسککت،"
+ },
+ {
+  "source": "s05-alt",
+  "page": 19,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 658,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "19 نیمه نمهورا شککلیه، اطالعات خودت را از سکمت نازا م یدان"
+ },
+ {
+  "source": "s05-alt",
+  "page": 20,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 718,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "20 ب ینایی در ن یملره راسککت ردازت م ی شککود. در"
+ },
+ {
+  "source": "s05-alt",
+  "page": 21,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 299,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "21 درنهایت نورون ی ها ی باق مانده که برا ی ردازت"
+ },
+ {
+  "source": "s05-alt",
+  "page": 22,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 519,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "22 هسککته LGN شککت ا یه دارد و اطالع ات مربوط به"
+ },
+ {
+  "source": "s05-alt",
+  "page": 23,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 631,
+  "latin_missing": [
+   "Cotex"
+  ],
+  "numbers_missing": [],
+  "head": "23 Visual Cotex structure شکککل سکککمت چ وب س سکککر ی را"
+ },
+ {
+  "source": "s05-alt",
+  "page": 24,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 715,
+  "latin_missing": [
+   "Colorblobs",
+   "Pavocellular",
+   "stracture"
+  ],
+  "numbers_missing": [],
+  "head": "24 Visual cortex neural stracture در ین ا اسککال ید سککازمانده ی"
+ },
+ {
+  "source": "s05-alt",
+  "page": 25,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 469,
+  "latin_missing": [
+   "orientation"
+  ],
+  "numbers_missing": [],
+  "head": "25 این سککلو یی ها که م آید ی جهت خطوط و"
+ },
+ {
+  "source": "s05-alt",
+  "page": 26,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 829,
+  "latin_missing": [
+   "orbitofrontal"
+  ],
+  "numbers_missing": [],
+  "head": "26 کو یلو و روقان ی در یارت ند نک . چون"
+ },
+ {
+  "source": "s05-alt",
+  "page": 27,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 812,
+  "latin_missing": [
+   "pursuit",
+   "saccadic"
+  ],
+  "numbers_missing": [],
+  "head": "27 در دا یره ا یین یک سکککککر ی خطوط منقطع و"
+ },
+ {
+  "source": "s05-alt",
+  "page": 28,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 784,
+  "latin_missing": [],
+  "numbers_missing": [
+   "99"
+  ],
+  "head": "28 ندارند ا ین ها در مسکککک یری که یم خواسککککتند بهLGB"
+ },
+ {
+  "source": "s05-alt",
+  "page": 29,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 494,
+  "latin_missing": [
+   "steropsis"
+  ],
+  "numbers_missing": [],
+  "head": "29 چشکم یلسکان اسکت و چند در کدت اختالش دارد ؛ در"
+ },
+ {
+  "source": "s05-alt",
+  "page": 30,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 609,
+  "latin_missing": [
+   "Endinger"
+  ],
+  "numbers_missing": [],
+  "head": "30 Accommodation م سکککئله د یگری که بررسککک ی می کنیم نطابق"
+ },
+ {
+  "source": "s05-alt",
+  "page": 31,
+  "category": "B",
+  "reason": "نسخهٔ موازی درس بینایی؛ متن با OCR شدیداً مخدوش، بدون شکل تازه؛ محتوا صفحه‌به‌صفحه در ج۵ پوشش داده شده",
+  "words": 508,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "31 عضالت زلقو ی قطر مردمک کم م ی شود نا نور"
+ },
+ {
+  "source": "s07-p2",
+  "page": 4,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 739,
+  "latin_missing": [
+   "broken",
+   "generalized",
+   "peritonitis",
+   "resulting"
+  ],
+  "numbers_missing": [],
+  "head": "4 Spinal cord reflexes that cause muscle spasm رفلکس هع نخ عالی"
+ },
+ {
+  "source": "s07-p2",
+  "page": 19,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 841,
+  "latin_missing": [
+   "firing",
+   "hyperreflexia",
+   "hypertonia",
+   "hypotonia",
+   "indirect"
+  ],
+  "numbers_missing": [],
+  "head": "19 • پس مه ی direct ی (آر رنگ) ز cortex م"
+ },
+ {
+  "source": "s14-deck",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 17,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "1 معاینات نورولوژیک )(آزمایشگاه درس فیزیولوژی اعصاب و حواس ویژه دکتر فیروزجائی"
+ },
+ {
+  "source": "supp-ghadiri-last",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 38,
+  "latin_missing": [],
+  "numbers_missing": [
+   "1403"
+  ],
+  "head": "1 به نام خدا فیزیولوژی اعصاب جسله آخر جناب اقای دکتر قدیری"
+ },
+ {
+  "source": "supp-ghadiri-cereb",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 32,
+  "latin_missing": [
+   "JHGGH"
+  ],
+  "numbers_missing": [
+   "1403"
+  ],
+  "head": "1 به نام خدا فیزیولوژی اعصاب جسله دهم جناب اقای دکتر قدیری"
+ },
+ {
+  "source": "supp-ghadiri-bg",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 71,
+  "latin_missing": [],
+  "numbers_missing": [
+   "1403"
+  ],
+  "head": "1 به نام خدا فیزیولوژی اعصاب جسله یاز دهم جناب آ قای"
+ },
+ {
+  "source": "supp-ghadiri-bg",
+  "page": 10,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 319,
+  "latin_missing": [],
+  "numbers_missing": [],
+  "head": "10 - ارتباطات عقده ها ی قاعده ا ی را در شکل"
+ },
+ {
+  "source": "supp-ghadiri-eeg",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 72,
+  "latin_missing": [],
+  "numbers_missing": [
+   "1403"
+  ],
+  "head": "1 به نام خدا فیزیولوژی اعصاب جسله از دو دهم جناب آ"
+ },
+ {
+  "source": "supp-ghadiri-limbic",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 38,
+  "latin_missing": [],
+  "numbers_missing": [
+   "1403"
+  ],
+  "head": "1 به نام خدا فیزیولوژی اعصاب جسله ز سی دهم جناب آ"
+ },
+ {
+  "source": "supp-eravan-reflex",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 44,
+  "latin_missing": [],
+  "numbers_missing": [
+   "1403"
+  ],
+  "head": "1 به نام خدا فیزیولوژی اعصاب جسله هشتم سرکار خانم دکتر ایروان"
+ },
+ {
+  "source": "supp-eravan-motor",
+  "page": 1,
+  "category": "A",
+  "reason": "صفحهٔ جلد/سرصفحه (نام استاد، شمارهٔ جلسه، تاریخ)",
+  "words": 51,
+  "latin_missing": [],
+  "numbers_missing": [
+   "1403"
+  ],
+  "head": "1 به نام خدا فیزیولوژی اعصاب جسله نهم سرکار خانم دکتر ایروان"
+ },
+ {
+  "source": "supp-eravan-motor",
+  "page": 4,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 314,
+  "latin_missing": [
+   "Primary",
+   "cortex",
+   "motor",
+   "primary"
+  ],
+  "numbers_missing": [],
+  "head": "4 در شکل شیار مرکزی مغز مشاهده میشود که بصورت کرونال برش"
+ },
+ {
+  "source": "supp-eravan-motor",
+  "page": 20,
+  "category": "C",
+  "reason": "صفحهٔ محتوایی؛ در سند پوشش مفهومی دارد (بررسی واژگان لاتین/اعداد + مرور دستی)",
+  "words": 588,
+  "latin_missing": [
+   "distal",
+   "muscle",
+   "proximal",
+   "pyramidal",
+   "tone"
+  ],
+  "numbers_missing": [
+   "20",
+   "60",
+   "65",
+   "70"
+  ],
+  "head": "20 داره که از ا نی کی م ون یلی بر یف"
+ },
+ {
+  "source": "supp-eravan-motor",
+  "page": 23,
+  "category": "D",
+  "reason": "صفحهٔ سفید/بدون متن",
+  "words": 1,
+  "latin_missing": [],
+  "numbers_missing": [
+   "23"
+  ],
+  "head": "23"
+ }
+]

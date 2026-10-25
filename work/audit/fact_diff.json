@@ -1,0 +1,346 @@
+[
+ {
+  "source": "s01-1402",
+  "page": 9,
+  "chars": 2283,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 7,
+  "latin_missing": []
+ },
+ {
+  "source": "s01-1402",
+  "page": 10,
+  "chars": 3029,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 8,
+  "latin_missing": [
+   "axoaxonal",
+   "y-aminobutyric"
+  ]
+ },
+ {
+  "source": "s01-1402",
+  "page": 11,
+  "chars": 735,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 0,
+  "latin_missing": []
+ },
+ {
+  "source": "s02-1402",
+  "page": 17,
+  "chars": 2284,
+  "numbers_total": 3,
+  "numbers_missing": [],
+  "latin_total": 0,
+  "latin_missing": []
+ },
+ {
+  "source": "s03-1402",
+  "page": 10,
+  "chars": 2597,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 3,
+  "latin_missing": []
+ },
+ {
+  "source": "s03-1402",
+  "page": 11,
+  "chars": 2263,
+  "numbers_total": 5,
+  "numbers_missing": [],
+  "latin_total": 2,
+  "latin_missing": []
+ },
+ {
+  "source": "s01-1404",
+  "page": 31,
+  "chars": 1561,
+  "numbers_total": 6,
+  "numbers_missing": [
+   "03"
+  ],
+  "latin_total": 14,
+  "latin_missing": [
+   "acheinhibitors"
+  ]
+ },
+ {
+  "source": "s04-1402",
+  "page": 4,
+  "chars": 2075,
+  "numbers_total": 4,
+  "numbers_missing": [],
+  "latin_total": 5,
+  "latin_missing": []
+ },
+ {
+  "source": "s04-1402",
+  "page": 5,
+  "chars": 1777,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 9,
+  "latin_missing": [
+   "afferent",
+   "interneuron",
+   "proprioception"
+  ]
+ },
+ {
+  "source": "s04-1402",
+  "page": 6,
+  "chars": 1645,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 12,
+  "latin_missing": [
+   "mechanireceptor",
+   "mechanoreceptor"
+  ]
+ },
+ {
+  "source": "s04-1402",
+  "page": 7,
+  "chars": 2003,
+  "numbers_total": 6,
+  "numbers_missing": [],
+  "latin_total": 23,
+  "latin_missing": [
+   "cuneate",
+   "fasciculis",
+   "gracilis",
+   "principal",
+   "snterolateral",
+   "spino-olivary",
+   "spinocerebellar",
+   "tracts",
+   "ventral"
+  ]
+ },
+ {
+  "source": "s04-1402",
+  "page": 8,
+  "chars": 1662,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 17,
+  "latin_missing": [
+   "cervical",
+   "lumbar",
+   "nucleus",
+   "sacral",
+   "tracts",
+   "ventral"
+  ]
+ },
+ {
+  "source": "s04-1402",
+  "page": 11,
+  "chars": 1956,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 8,
+  "latin_missing": [
+   "cervical",
+   "dermatome",
+   "lumbar",
+   "sacral"
+  ]
+ },
+ {
+  "source": "s04-1402",
+  "page": 12,
+  "chars": 1842,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 9,
+  "latin_missing": [
+   "motor",
+   "premotor",
+   "supplementary"
+  ]
+ },
+ {
+  "source": "s04-1402",
+  "page": 14,
+  "chars": 1490,
+  "numbers_total": 8,
+  "numbers_missing": [],
+  "latin_total": 6,
+  "latin_missing": []
+ },
+ {
+  "source": "s04-1402",
+  "page": 15,
+  "chars": 1392,
+  "numbers_total": 3,
+  "numbers_missing": [],
+  "latin_total": 4,
+  "latin_missing": []
+ },
+ {
+  "source": "s04-1402",
+  "page": 16,
+  "chars": 973,
+  "numbers_total": 1,
+  "numbers_missing": [],
+  "latin_total": 4,
+  "latin_missing": []
+ },
+ {
+  "source": "s05-1402",
+  "page": 4,
+  "chars": 2542,
+  "numbers_total": 3,
+  "numbers_missing": [],
+  "latin_total": 1,
+  "latin_missing": []
+ },
+ {
+  "source": "s05-1402",
+  "page": 5,
+  "chars": 2449,
+  "numbers_total": 4,
+  "numbers_missing": [],
+  "latin_total": 8,
+  "latin_missing": []
+ },
+ {
+  "source": "s05-1402",
+  "page": 6,
+  "chars": 2225,
+  "numbers_total": 2,
+  "numbers_missing": [],
+  "latin_total": 20,
+  "latin_missing": [
+   "acetylcholine",
+   "acids",
+   "bradykinin",
+   "capsaicin",
+   "cramping",
+   "environmental",
+   "enzymes",
+   "irritants",
+   "potassium",
+   "proteolytic"
+  ]
+ },
+ {
+  "source": "s05-1402",
+  "page": 7,
+  "chars": 2458,
+  "numbers_total": 3,
+  "numbers_missing": [],
+  "latin_total": 9,
+  "latin_missing": [
+   "complen"
+  ]
+ },
+ {
+  "source": "s05-1402",
+  "page": 8,
+  "chars": 1769,
+  "numbers_total": 5,
+  "numbers_missing": [],
+  "latin_total": 6,
+  "latin_missing": [
+   "mechanoreceptor"
+  ]
+ },
+ {
+  "source": "s05-1402",
+  "page": 11,
+  "chars": 2493,
+  "numbers_total": 4,
+  "numbers_missing": [],
+  "latin_total": 2,
+  "latin_missing": [
+   "raphe"
+  ]
+ },
+ {
+  "source": "s05-1402",
+  "page": 12,
+  "chars": 2143,
+  "numbers_total": 4,
+  "numbers_missing": [],
+  "latin_total": 3,
+  "latin_missing": [
+   "opioid"
+  ]
+ },
+ {
+  "source": "s07-p2",
+  "page": 4,
+  "chars": 3128,
+  "numbers_total": 1,
+  "numbers_missing": [],
+  "latin_total": 14,
+  "latin_missing": [
+   "abd",
+   "broken",
+   "generalized",
+   "peritonitis",
+   "resulting"
+  ]
+ },
+ {
+  "source": "s07-p2",
+  "page": 19,
+  "chars": 3540,
+  "numbers_total": 1,
+  "numbers_missing": [],
+  "latin_total": 15,
+  "latin_missing": [
+   "firing",
+   "hyperreflexia",
+   "hypertonia",
+   "hypotonia",
+   "indirect"
+  ]
+ },
+ {
+  "source": "s09-bg",
+  "page": 10,
+  "chars": 1259,
+  "numbers_total": 3,
+  "numbers_missing": [],
+  "latin_total": 12,
+  "latin_missing": []
+ },
+ {
+  "source": "supp-eravan-motor",
+  "page": 4,
+  "chars": 1393,
+  "numbers_total": 1,
+  "numbers_missing": [],
+  "latin_total": 3,
+  "latin_missing": []
+ },
+ {
+  "source": "supp-eravan-motor",
+  "page": 20,
+  "chars": 2246,
+  "numbers_total": 3,
+  "numbers_missing": [],
+  "latin_total": 5,
+  "latin_missing": [
+   "distal",
+   "proximal"
+  ]
+ },
+ {
+  "source": "supp-eravan-motor",
+  "page": 23,
+  "chars": 2,
+  "numbers_total": 1,
+  "numbers_missing": [],
+  "latin_total": 0,
+  "latin_missing": []
+ }
+]

@@ -1,0 +1,814 @@
+[
+ {
+  "source": "s01",
+  "page": 1,
+  "w": 972,
+  "h": 1404,
+  "asset": "s01_p001_facsimile",
+  "crops": 4,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s01",
+  "page": 3,
+  "w": 972,
+  "h": 1404,
+  "asset": "s01_p003_facsimile",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s01",
+  "page": 8,
+  "w": 972,
+  "h": 1404,
+  "asset": "s01_p008_facsimile",
+  "crops": 1,
+  "illustrated_topic": [
+   "s02-T07",
+   "s02-T08",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s01",
+  "page": 10,
+  "w": 972,
+  "h": 1404,
+  "asset": "s01_p010_facsimile",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T08",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s01",
+  "page": 11,
+  "w": 972,
+  "h": 1404,
+  "asset": "s01_p011_facsimile",
+  "crops": 3,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T09",
+   "s02-T11"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 3,
+  "w": 1006,
+  "h": 751,
+  "asset": "s02_p003_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 8,
+  "w": 1098,
+  "h": 748,
+  "asset": "s02_p008_fig03",
+  "crops": 2,
+  "illustrated_topic": [
+   "s02-T07",
+   "s02-T08",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 11,
+  "w": 1368,
+  "h": 743,
+  "asset": "s02_p011_fig03",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T09",
+   "s02-T11"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 12,
+  "w": 659,
+  "h": 348,
+  "asset": "s02_p012_fig03",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T04",
+   "s01-T14",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 15,
+  "w": 670,
+  "h": 368,
+  "asset": "s02_p015_fig04",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T05",
+   "s02-T10",
+   "s02-T11"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 17,
+  "w": 1536,
+  "h": 622,
+  "asset": "s02_p017_fig07",
+  "crops": 5,
+  "illustrated_topic": [
+   "s01-T05",
+   "s02-T11",
+   "s03-T15"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 19,
+  "w": 1083,
+  "h": 647,
+  "asset": "s02_p019_fig04",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T11",
+   "s02-T12"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 26,
+  "w": 1427,
+  "h": 932,
+  "asset": "s02_p026_fig01",
+  "crops": 1,
+  "illustrated_topic": [
+   "s02-T16",
+   "s03-T04",
+   "s03-T18"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s02",
+  "page": 28,
+  "w": 1599,
+  "h": 468,
+  "asset": "s02_p028_fig01",
+  "crops": 1,
+  "illustrated_topic": [
+   "s02-T16",
+   "s03-T04",
+   "s03-T19"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s03",
+  "page": 1,
+  "w": 1063,
+  "h": 473,
+  "asset": "s03_p001_fig02",
+  "crops": 3,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s03",
+  "page": 3,
+  "w": 898,
+  "h": 403,
+  "asset": "s03_p003_fig01",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s03",
+  "page": 7,
+  "w": 972,
+  "h": 585,
+  "asset": "s03_p007_fig03",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T06",
+   "s02-T07"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s03",
+  "page": 11,
+  "w": 633,
+  "h": 465,
+  "asset": "s03_p011_fig02",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T09",
+   "s02-T11"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s03",
+  "page": 21,
+  "w": 1371,
+  "h": 492,
+  "asset": "s03_p021_fig01",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T13",
+   "s03-T16"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 1,
+  "w": 1024,
+  "h": 1024,
+  "asset": "s04_p001_fig02",
+  "crops": 1,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 6,
+  "w": 1536,
+  "h": 623,
+  "asset": "s04_p006_fig03",
+  "crops": 4,
+  "illustrated_topic": [
+   "s01-T02",
+   "s01-T05",
+   "s01-T06"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 7,
+  "w": 580,
+  "h": 502,
+  "asset": "s04_p007_fig02",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T06",
+   "s02-T07"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 8,
+  "w": 595,
+  "h": 623,
+  "asset": "s04_p008_fig04",
+  "crops": 4,
+  "illustrated_topic": [
+   "s02-T07",
+   "s02-T08",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 9,
+  "w": 668,
+  "h": 910,
+  "asset": "s04_p009_fig03",
+  "crops": 4,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T08",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 10,
+  "w": 581,
+  "h": 632,
+  "asset": "s04_p010_fig02",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T08",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 11,
+  "w": 889,
+  "h": 719,
+  "asset": "s04_p011_fig02",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T09",
+   "s02-T11"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 15,
+  "w": 668,
+  "h": 795,
+  "asset": "s04_p015_fig03",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T05",
+   "s02-T10",
+   "s02-T11"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s04",
+  "page": 16,
+  "w": 864,
+  "h": 633,
+  "asset": "s04_p016_fig02",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T05",
+   "s02-T11",
+   "s02-T14"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s05",
+  "page": 1,
+  "w": 433,
+  "h": 580,
+  "asset": "s05_p001_fig03",
+  "crops": 3,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s05",
+  "page": 10,
+  "w": 550,
+  "h": 672,
+  "asset": "s05_p010_fig03",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T08",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s05",
+  "page": 12,
+  "w": 679,
+  "h": 695,
+  "asset": "s05_p012_fig02",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T04",
+   "s01-T14",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s06",
+  "page": 1,
+  "w": 674,
+  "h": 424,
+  "asset": "s06_p001_fig04",
+  "crops": 2,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s06",
+  "page": 3,
+  "w": 827,
+  "h": 532,
+  "asset": "s06_p003_fig03",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s06",
+  "page": 6,
+  "w": 879,
+  "h": 304,
+  "asset": "s06_p006_fig03",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T02",
+   "s01-T05",
+   "s01-T06"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s06",
+  "page": 12,
+  "w": 231,
+  "h": 100,
+  "asset": "s06_p012_fig04",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T04",
+   "s01-T14",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s06",
+  "page": 16,
+  "w": 942,
+  "h": 561,
+  "asset": "s06_p016_fig03",
+  "crops": 3,
+  "illustrated_topic": [
+   "s01-T05",
+   "s02-T11",
+   "s02-T14"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s06",
+  "page": 19,
+  "w": 231,
+  "h": 100,
+  "asset": "s06_p019_fig04",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T11",
+   "s02-T12"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s06",
+  "page": 21,
+  "w": 231,
+  "h": 100,
+  "asset": "s06_p021_fig04",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T13",
+   "s03-T16"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s06",
+  "page": 22,
+  "w": 231,
+  "h": 100,
+  "asset": "s06_p022_fig04",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T13",
+   "s02-T14"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s07",
+  "page": 1,
+  "w": 603,
+  "h": 283,
+  "asset": "s07_p001_fig04",
+  "crops": 1,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s07",
+  "page": 16,
+  "w": 1001,
+  "h": 407,
+  "asset": "s07_p016_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T05",
+   "s02-T11",
+   "s02-T14"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s07b",
+  "page": 1,
+  "w": 815,
+  "h": 432,
+  "asset": "s07b_p001_fig04",
+  "crops": 2,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s07b",
+  "page": 3,
+  "w": 640,
+  "h": 480,
+  "asset": "s07b_p003_fig04",
+  "crops": 3,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s07b",
+  "page": 5,
+  "w": 657,
+  "h": 354,
+  "asset": "s07b_p005_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s01-T04",
+   "s01-T05"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s07b",
+  "page": 20,
+  "w": 1404,
+  "h": 788,
+  "asset": "s07b_p020_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T12",
+   "s02-T13"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s08",
+  "page": 11,
+  "w": 982,
+  "h": 542,
+  "asset": "s08_p011_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T09",
+   "s02-T11"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09b",
+  "page": 1,
+  "w": 696,
+  "h": 403,
+  "asset": "s09b_p001_fig04",
+  "crops": 1,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09b",
+  "page": 15,
+  "w": 669,
+  "h": 497,
+  "asset": "s09b_p015_fig04",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T05",
+   "s02-T10",
+   "s02-T11"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09c",
+  "page": 1,
+  "w": 932,
+  "h": 506,
+  "asset": "s09c_p001_fig05",
+  "crops": 2,
+  "illustrated_topic": [
+   "s02-T01",
+   "s02-T02",
+   "s03-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09c",
+  "page": 2,
+  "w": 954,
+  "h": 500,
+  "asset": "s09c_p002_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09c",
+  "page": 3,
+  "w": 1574,
+  "h": 470,
+  "asset": "s09c_p003_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09c",
+  "page": 7,
+  "w": 769,
+  "h": 907,
+  "asset": "s09c_p007_fig04",
+  "crops": 2,
+  "illustrated_topic": [
+   "s01-T06",
+   "s02-T06",
+   "s02-T07"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09c",
+  "page": 9,
+  "w": 676,
+  "h": 460,
+  "asset": "s09c_p009_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T04",
+   "s02-T08",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09c",
+  "page": 12,
+  "w": 688,
+  "h": 611,
+  "asset": "s09c_p012_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T04",
+   "s01-T14",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s09c",
+  "page": 13,
+  "w": 313,
+  "h": 424,
+  "asset": "s09c_p013_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T04",
+   "s01-T14",
+   "s02-T09"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s10",
+  "page": 2,
+  "w": 507,
+  "h": 388,
+  "asset": "s10_p002_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s10",
+  "page": 3,
+  "w": 927,
+  "h": 482,
+  "asset": "s10_p003_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s02-T01",
+   "s02-T02"
+  ],
+  "ok": true
+ },
+ {
+  "source": "s10",
+  "page": 4,
+  "w": 597,
+  "h": 368,
+  "asset": "s10_p004_fig03",
+  "crops": 1,
+  "illustrated_topic": [
+   "s01-T02",
+   "s01-T04",
+   "s02-T01"
+  ],
+  "ok": true
+ }
+]

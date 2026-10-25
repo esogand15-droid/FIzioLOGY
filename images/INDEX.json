@@ -187,13 +187,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p003_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p003_fig02",
@@ -232,13 +233,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p004_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p004_fig02",
@@ -322,13 +324,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p005_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p005_fig02",
@@ -382,13 +385,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p006_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p006_fig02",
@@ -487,13 +491,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p007_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p007_fig02",
@@ -562,13 +567,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p008_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p008_fig02",
@@ -652,13 +658,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p010_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p010_fig02",
@@ -697,13 +704,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p011_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p011_fig02",
@@ -772,13 +780,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p012_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p012_fig02",
@@ -832,13 +841,14 @@
    "index_on_page": 1,
    "w": 1081,
    "h": 1625,
-   "exported": true,
+   "exported": false,
    "path": "images/notes_1402/s01_p013_fig01.png",
    "sha256": "38e9f28280ea3539c77fe501d0b3243e216acf9fd1ad096610f984ba8c47d291",
    "kind": "figure",
    "caption": "",
    "topic_ids": [],
-   "used_in": "pending"
+   "used_in": "",
+   "status": "file-missing"
   },
   {
    "asset_id": "s01_p013_fig02",

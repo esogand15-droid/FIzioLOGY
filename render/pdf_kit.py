@@ -385,10 +385,24 @@ class PDFBook:
             draw_shaped(c, A4W - M_RIGHT, self.py(self.y + 2), shape(kicker), "VazirM", 8.6,
                         TEAL, align="right")
             self.y += 16
-        c.setFont("VazirB", 18.5)
+        # A long section title must never run off the right-to-left margin:
+        # first shrink a little, then (only if needed) break into two lines.
+        shaped = shape(text)
+        size = 18.5
+        while size > 12.0 and text_width(shaped, "VazirB", size) > CONTENT_W:
+            size -= 0.5
+        lines = [shaped]
+        if text_width(shaped, "VazirB", size) > CONTENT_W:
+            size = 15.5
+            lines = [shape(part) for part in self.wrap(text, "VazirB", size, CONTENT_W)]
+            self.ensure(24 * len(lines) + 40)
+        c.setFont("VazirB", size)
         c.setFillColor(INK)
-        draw_shaped(c, A4W - M_RIGHT, self.py(self.y + 16), shape(text), "VazirB", 18.5,
-                    INK, align="right")
+        for i, line in enumerate(lines):
+            draw_shaped(c, A4W - M_RIGHT, self.py(self.y + 16), line, "VazirB", size,
+                        INK, align="right")
+            if i < len(lines) - 1:
+                self.y += size * 1.34
         self.y += 24
         self.rule(self.py(self.y), A4W - M_RIGHT, A4W - M_RIGHT - CONTENT_W * 0.36)
         self.y += 12
