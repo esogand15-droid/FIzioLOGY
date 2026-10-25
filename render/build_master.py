@@ -138,6 +138,8 @@ SESSIONS = {
               "برای مهار متقابل، اندام وتری و رفلکس‌های نخاعی (۱۳ تا ۲۲)، دو نفر برای قشر "
               "حرکتی و مسیرهای نزولی و ضایعات (۲۳ تا ۲۸) به‌همراه گردآوری. این تقسیم "
               "پیشنهاد است، نه تصمیم نهایی تیم.",
+        deck_desc="متن پایهٔ نیمهٔ نخست این جلسه: آناتومی نخاع، واحد حرکتی، دوک عضلانی، رفلکس‌های کشش و خم‌کننده، رفلکس‌های نخاعی و شوک نخاعی.",
+        deck_desc_p2="تکرار رفلکس‌های نخاعی با شکل‌های تازه، سپس قشر حرکتی، مسیرهای نزولی و ضایعات.",
         outline="s07_topics.json",
         content=("s07_a.json", "s07_b.json", "s07_c.json"),
         guyton="guyton_s07_excerpts.json",
@@ -158,6 +160,8 @@ SESSIONS = {
               "نیم‌دایره و سازش (۱۳ تا ۱۶)، دو نفر برای مسیر مرکزی، بازتاب "
               "دهلیزی-چشمی و عوامل دیگر تعادل (۱۷ تا ۲۱) به‌همراه گردآوری. این تقسیم "
               "پیشنهاد است، نه تصمیم نهایی تیم.",
+        deck_desc="متن پایهٔ نیمهٔ نخست این جلسه: دستگاه شبکه‌ای ساقهٔ مغز و مسیرهای رتیکول‌واسپاینال، سپس دستگاه دهلیزی و تعادل.",
+        deck_desc_p2="ادامهٔ تعادل و بازتاب‌های دهلیزی، سپس مخچه: ساختار، بخش‌های سه‌گانه و نشانه‌های ضایعه.",
         outline="s08_topics.json",
         content=("s08_a.json", "s08_b.json", "s08_c.json"),
         guyton="guyton_s08_excerpts.json",
@@ -177,6 +181,8 @@ SESSIONS = {
               "سلول‌ها و ورودی و خروجی مخچه (۵ تا ۱۰)، دو نفر بخش‌های سه‌گانه و ضایعات "
               "(۱۱ تا ۱۷)، دو نفر عقده‌های قاعده‌ای و پارکینسون (۱۸ تا ۳۰) به‌همراه گردآوری. "
               "این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.",
+        deck_desc="متن پایهٔ نیمهٔ نخست این جلسه: بازتاب‌های دهلیزی و اختلالات تعادل، ساختار و مدارهای مخچه، بخش‌های سه‌گانه و نشانه‌های ضایعهٔ آن.",
+        deck_desc_p2="ادامهٔ نشانه‌های ضایعهٔ مخچه، سپس اجزای عقده‌های قاعده‌ای، مدارهای مستقیم و غیرمستقیم، دوپامین و بیماری پارکینسون.",
         outline="s09_topics.json",
         content=("s09_a.json", "s09_b.json", "s09_c.json"),
         guyton="guyton_s09_excerpts.json",
@@ -220,6 +226,7 @@ SESSIONS = {
               "تنبیه و هیپوکامپ (۷ تا ۹)، دو نفر آمیگدال و قشر لیمبیک و آلزایمر و "
               "اختلالات روانی (۱۰ تا ۱۳) به‌همراه گردآوری. این تقسیم پیشنهاد است، نه "
               "تصمیم نهایی تیم.",
+        deck_desc="متن پایهٔ این جلسه: تعریف و اجزای سیستم لیمبیک، جایگاه هیپوتالاموس، رفتار و پاداش و تنبیه، هیپوکامپ، آمیگدال و اختلالات روانی.",
         outline="s11_topics.json",
         content=("s11_a.json", "s11_b.json", "s11_c.json"),
         guyton="guyton_s11_excerpts.json",
@@ -242,6 +249,7 @@ SESSIONS = {
               "نوروترانسمیترهای ساقه (۶ تا ۹)، دو نفر خواب و مراحل و نظریه‌ها (۱۰ تا ۱۳)، "
               "دو نفر اختلالات خواب و صرع و الکتروانسفالوگرام (۱۴ تا ۱۷) به‌همراه "
               "گردآوری. این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.",
+        deck_desc="متن پایهٔ این جلسه: دستگاه فعال‌کنندهٔ مشبک و دو نوع پیام آن، ناحیهٔ مهاری بصل‌النخاع، تالاموس، کنترل هورمونی فعالیت مغز، خواب و مراحل آن، اختلالات خواب، صرع و الکتروانسفالوگرام.",
         outline="s12_topics.json",
         content=("s12_a.json", "s12_b.json", "s12_c.json"),
         guyton="guyton_s12_excerpts.json",
@@ -263,6 +271,7 @@ SESSIONS = {
               "و جدول مقایسه (۵ تا ۷)، دو نفر نوروترانسمیترها و گیرنده‌های آدرنرژیک و "
               "کولینرژیک (۸ تا ۱۲)، دو نفر جدول اندام‌ها و جمع‌بندی (۱۳ تا ۱۶) به‌همراه "
               "گردآوری. این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.",
+        deck_desc="متن پایهٔ این جلسه: مقایسهٔ اتونوم و پیکری، واریکوزیته‌ها، مسیر دو نورونی، آناتومی سمپاتیک و پاراسمپاتیک، نوروترانسمیترها و گیرنده‌ها، و جدول اندام‌ها.",
         outline="s13_topics.json",
         content=("s13_a.json", "s13_b.json", "s13_c.json"),
         guyton="guyton_s13_excerpts.json",
@@ -271,6 +280,44 @@ SESSIONS = {
         cover_topic="سیستم عصبی اتونوم",
         divider_title="نوروفیزیولوژی:\nاز گانگلیون\nتا اندام",
         pdf_name="HumsYar_Neuro_Jalase13.pdf",
+    ),
+    "s14": dict(
+        guyton_ch_num="۵۱، ۵۲، ۵۳، ۵۵، ۵۶ و ۵۷",
+        guyton_phrase="فصل‌های ۵۱، ۵۲، ۵۳، ۵۵، ۵۶ و ۵۷ (هر فصل، بخش مربوط به همان معاینه)",
+        deck_pages=16,
+        num="۱۴", n=14, of="۱۶",
+        guyton_ch="فصل‌های ۵۱ (بینایی و مردمک)، ۵۲ (شنوایی)، ۵۳ (بویایی و چشایی)، "
+                  "۵۵ (رفلکس‌ها و ضایعات حرکتی)، ۵۶ (مخچه) و ۵۷ (حافظه)",
+        no1404=True,
+        single_part=True,
+        deck_label="جزوهٔ معاینات نورولوژیک",
+        deck_label_short="پری‌لب",
+        guyton_atomic=True,
+        deck_text_note="این جزوه لایهٔ متنی خوانا دارد و متن آن از خود فایل خوانده شده است؛ "
+                       "تنها مشکل لایه، شکستن لام‌الف و جابه‌جایی واژه‌های لاتین است که با "
+                       "مقابلهٔ تصویر همان صفحه اصلاح شده و هیچ جمله‌ای بدون این مقابله نقل نشده است.",
+        extra_sources=[
+            ["جزوه‌های مهر ۱۴۰۴ و بهمن ۱۴۰۲ (فقط برای شکل‌ها)",
+             "شکل‌های مسیر بینایی، شنوایی، مسیرهای حسی، دوک عضلانی، رفلکس‌ها و مخچه؛ "
+             "زیر هر شکل شمارهٔ صفحهٔ همان جزوه نوشته شده است.",
+             "«جزوهٔ مهر ۱۴۰۴، ص …» · «جزوهٔ بهمن ۱۴۰۲، ص …»"],
+        ],
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر معاینهٔ کلی و اعصاب مغزی "
+              "یکم تا ششم (۱ تا ۶)، دو نفر زوج هفتم تا دوازدهم (۷ و ۸)، دو نفر سیستم "
+              "حسی و کورتیکال (۹ و ۱۰)، دو نفر سیستم حرکتی و رفلکس‌ها (۱۱ تا ۱۴)، و "
+              "مخچه و راه رفتن (۱۵ و ۱۶) به‌همراه گردآوری. این تقسیم پیشنهاد است، نه "
+              "تصمیم نهایی تیم.",
+        deck_desc="متن پایهٔ این جلسه: معاینهٔ وضعیت روانی، دوازده زوج مغزی، سیستم حسی و "
+                  "کورتیکال، تون و قدرت و رفلکس‌ها، معاینهٔ مخچه و راه رفتن؛ یک جزوهٔ "
+                  "عملی ۱۶ صفحه‌ای که فقط صفحه‌های ۲ تا ۱۶ آن متن دارد.",
+        outline="s14_topics.json",
+        content=("s14_a.json", "s14_b.json", "s14_c.json"),
+        guyton="guyton_s14_excerpts.json",
+        chapter_anchor="ch-s14",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="معاینات نورولوژیک",
+        divider_title="نوروفیزیولوژی:\nاز تخت بیمار\nتا نقشهٔ ضایعه",
+        pdf_name="HumsYar_Neuro_Jalase14.pdf",
     ),
 }
 
@@ -332,6 +379,15 @@ def part_label(cfg: dict, idx: int) -> str:
     if labels and 1 <= idx <= len(labels):
         return labels[idx - 1]
     return "پارت " + ("۱" if idx == 1 else "۲")
+
+
+def deck_label(cfg: dict) -> str:
+    """What the source deck is called on the page (session 14 has no 1402 notes)."""
+    return cfg.get("deck_label", "جزوهٔ بهمن ۱۴۰۲")
+
+
+def deck_short(cfg: dict) -> str:
+    return cfg.get("deck_label_short", "۱۴۰۲")
 
 
 def pages_1402(t: dict) -> str:
@@ -422,10 +478,9 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
     book.h2("منابعی که این جزوه بر آن‌ها بنا شده", anchor="front-sources")
     if cfg.get("no1404") and cfg.get("single_part"):
         source_rows = [
-            ["جزوهٔ بهمن ۱۴۰۲ (نوشتهٔ دانشجوی سال‌بالاتر)",
-             "متن پایه و ترتیب مباحث این جلسه: ساقهٔ مغز، دستگاه شبکه‌ای و مسیرهای "
-             "رتیکول‌واسپاینال، سپس دستگاه دهلیزی و تعادل و در پایان ارتباط‌های مرکزی آن.",
-             "«جزوهٔ بهمن ۱۴۰۲، ص …»"],
+            [f"{deck_label(cfg)}",
+             cfg.get("deck_desc", "متن پایه و ترتیب مباحث این جلسه."),
+             f"«{deck_label(cfg)}، ص …»"],
             ["اسلایدهای انگلیسی کلاس",
              "جدول‌ها، فهرست‌ها و شکل‌های اصلی درس (منبع اولویت‌دار برای شکل‌ها).",
              "«اسلاید کلاس، ص …»"],
@@ -438,18 +493,11 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
         ]
     elif cfg.get("no1404"):
         source_rows = [
-            [f"{part_label(cfg, 1)} (نوشتهٔ دانشجوی سال‌بالاتر)",
-             ("متن پایهٔ نیمهٔ نخست این جلسه: آناتومی نخاع، واحد حرکتی، دوک عضلانی، "
-              "رفلکس‌های کشش و خم‌کننده، رفلکس‌های نخاعی و شوک نخاعی."
-              if cfg["n"] == 7 else
-              "متن پایهٔ نیمهٔ نخست این جلسه: بازتاب‌های دهلیزی و اختلالات تعادل، "
-              "ساختار و مدارهای مخچه، بخش‌های سه‌گانه و نشانه‌های ضایعهٔ آن."),
+            [f"{part_label(cfg, 1)}",
+             cfg.get("deck_desc", "متن پایهٔ این جلسه."),
              f"«{part_label(cfg, 1)}، ص …»"],
-            [f"{part_label(cfg, 2)} (نوشتهٔ دانشجوی سال‌بالاتر)",
-             ("تکرار رفلکس‌های نخاعی با شکل‌های تازه، سپس قشر حرکتی، مسیرهای نزولی و ضایعات."
-              if cfg["n"] == 7 else
-              "ادامهٔ نشانه‌های ضایعهٔ مخچه، سپس اجزای عقده‌های قاعده‌ای، مدارهای "
-              "مستقیم و غیرمستقیم، دوپامین و بیماری پارکینسون."),
+            [f"{part_label(cfg, 2)}",
+             cfg.get("deck_desc_p2", "ادامهٔ متن پایهٔ این جلسه."),
              f"«{part_label(cfg, 2)}، ص …»"],
             ["اسلایدهای انگلیسی کلاس",
              "جدول‌ها، فهرست‌ها و شکل‌های اصلی درس (منبع اولویت‌دار برای شکل‌ها).",
@@ -466,9 +514,9 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
             ["جزوهٔ مهر ۱۴۰۴ — دکتر خوارزمی",
              "متن پایهٔ همهٔ مباحث؛ ترتیب و دسته‌بندی مطالب هم از آن گرفته شده است.",
              "«جزوهٔ مهر ۱۴۰۴، ص …»"],
-            ["جزوهٔ بهمن ۱۴۰۲ (نوشتهٔ دانشجوی سال‌بالاتر)",
+            [f"{deck_label(cfg)} (نوشتهٔ دانشجوی سال‌بالاتر)",
              "توضیح‌های ساده‌تر، مثال‌های سر کلاس و شکل‌های دست‌ساز.",
-             "«جزوهٔ بهمن ۱۴۰۲، ص …»"],
+             f"«{deck_label(cfg)}، ص …»"],
             ["اسلایدهای انگلیسی کلاس",
              "جدول‌ها، فهرست‌ها و شکل‌های اصلی درس (منبع اولویت‌دار برای شکل‌ها).",
              "«اسلاید کلاس، ص …»"],
@@ -479,6 +527,7 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
              "منبع کمکی برای جلسات بعد؛ در این نسخه استفاده نشده است.",
              "—"],
         ]
+    source_rows += cfg.get("extra_sources", [])
     book.table(
         ["منبع", "چه چیزی از آن در این جزوه آمده", "شکل ارجاع در متن"],
         source_rows,
@@ -505,23 +554,25 @@ def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
         "تا اختلاف دیده شود.", kind="warn", title="وضعیت این نسخه")
     book.h3("دو نکتهٔ ویرایشی که در خواندن به آن برمی‌خورید")
     book.bullets([
-        ("صفحه‌های جزوهٔ بهمن ۱۴۰۲ در این جلسه بدون لایهٔ متن قابل استفاده بوده‌اند؛ متن آن‌ها "
-         "با خواندن تصویر همان صفحه به فارسی برگردانده شده است. اگر عبارتی روی صفحه ناخوانا یا "
-         "بریده بوده، به‌جای حدس زدن، در متن «…» گذاشته شده و در همان مبحث یادداشت شده است."
+        (cfg["deck_text_note"] if cfg.get("deck_text_note") else
+         (f"صفحه‌های {deck_label(cfg)} در این جلسه بدون لایهٔ متن قابل استفاده بوده‌اند؛ متن آن‌ها "
+          "با خواندن تصویر همان صفحه به فارسی برگردانده شده است. اگر عبارتی روی صفحه ناخوانا یا "
+          "بریده بوده، به‌جای حدس زدن، در متن «…» گذاشته شده و در همان مبحث یادداشت شده است.")
          if cfg.get("no1404") else
          "املای چند واژه در جزوهٔ ۱۴۰۴ اشتباه تایپ شده است (مثلاً «اطالعات» به‌جای «اطلاعات» یا "
          "«عضالت» به‌جای «عضلات»). در این جزوه املای درست نوشته شده؛ اگر جایی از منبع عیناً "
          "نقل شده و املا نادرست است، در همان جمله اصلاح شده است."),
         (f"این جلسه جزوهٔ مهر ۱۴۰۴ ندارد؛ بنابراین در تمام سند هیچ ارجاعی به ۱۴۰۴ نیامده و متن "
-         f"فقط بر جزوهٔ بهمن ۱۴۰۲ و گایتون فصل {cfg.get('guyton_ch_num', '۵۵')} استوار است. "
-         f"جزوهٔ ۱۴۰۲ این جلسه یک پارت {fa(cfg.get('deck_pages') or max(p for t in outline['topics'] for p in t.get('notes1402', [0])))} "
+         f"فقط بر {deck_label(cfg)} و گایتون "
+         f"{cfg.get('guyton_phrase') or ('فصل ' + cfg.get('guyton_ch_num', '۵۵'))} استوار است. "
+         f"{deck_label(cfg)} این جلسه یک پارت {fa(cfg.get('deck_pages') or max(p for t in outline['topics'] for p in t.get('notes1402', [0])))} "
          "صفحه‌ای است، پس در ارجاع‌ها فقط شمارهٔ صفحه آمده است."
          if cfg.get("single_part") else
          "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد؛ بنابراین در تمام سند هیچ ارجاعی به ۱۴۰۴ نیامده و متن "
-         f"فقط بر دو پارت جزوهٔ بهمن ۱۴۰۲ و گایتون فصل‌های {cfg.get('guyton_ch_num', '۵۴ و ۵۵')} استوار است. دو پارت هر دو از "
+         f"فقط بر دو پارت {deck_label(cfg)} و گایتون فصل‌های {cfg.get('guyton_ch_num', '۵۴ و ۵۵')} استوار است. دو پارت هر دو از "
          "صفحهٔ ۱ شروع می‌شوند، پس شمارهٔ پارت همیشه در ارجاع نوشته شده است."
          if cfg.get("no1404") else
-         "صفحه‌های جزوهٔ ۱۴۰۲ با خواندن تصویر همان صفحه به متن فارسی برگردانده شده‌اند. اگر "
+         f"صفحه‌های {deck_label(cfg)} با خواندن تصویر همان صفحه به متن فارسی برگردانده شده‌اند. اگر "
          "عبارتی روی صفحه ناخوانا یا بریده بوده، به‌جای حدس زدن، در متن «…» گذاشته شده و در "
          "همان مبحث یادداشت شده است."),
     ])
@@ -540,7 +591,7 @@ def work_division(book: PDFBook, outline: dict, cfg: dict) -> None:
                         for p in t["prerequisites"]) or "—"
         rows.append([tno(t["topic_id"]), t["title"],
                      pages_1402(t), pre, "⋯"])
-    book.table(["#", "مبحث", "ص ۱۴۰۲", "پیش‌نیاز", "نویسنده"],
+    book.table(["#", "مبحث", f"ص {deck_short(cfg)}", "پیش‌نیاز", "نویسنده"],
                rows, widths=[CONTENT_W * 0.07, CONTENT_W * 0.55, CONTENT_W * 0.14,
                              CONTENT_W * 0.15, CONTENT_W * 0.09],
                size=8.0,
@@ -584,8 +635,9 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
             parts.append(f"پارت ۲ در {fa(max(p2))} صفحه")
         if cfg.get("single_part"):
             src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
-                        f"منبع اصلی متن: جزوهٔ بهمن ۱۴۰۲ ({' و '.join(parts)}). "
-                        "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد و جزوهٔ ۱۴۰۲ آن یک پارت است.")
+                        f"منبع اصلی متن: {deck_label(cfg)} ({' و '.join(parts)}). "
+                        "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد و "
+                        f"{deck_label(cfg)} آن یک پارت است.")
         else:
             if cfg.get("part_labels"):
                 parts = []
@@ -599,7 +651,7 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
                             "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد.")
             else:
                 src_line = (f"استاد: {outline['professor']} · ترم: {outline['term']} · "
-                            f"منبع اصلی متن: جزوهٔ بهمن ۱۴۰۲ ({' و '.join(parts)})؛ چون هر پارت "
+                            f"منبع اصلی متن: {deck_label(cfg)} ({' و '.join(parts)})؛ چون هر پارت "
                             "شمارهٔ صفحهٔ خودش را دارد، در همهٔ ارجاع‌ها شمارهٔ پارت هم نوشته شده است. "
                             "این جلسه جزوهٔ مهر ۱۴۰۴ ندارد.")
     else:
@@ -617,7 +669,7 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
         rows.append([tno(t["topic_id"]), sub, pages_1402(t),
                      {"small": "کوچک", "medium": "متوسط", "large": "بزرگ"}
                      .get(t.get("notes_size"), "متوسط")])
-    book.table(["#", "مبحث", "ص ۱۴۰۲", "حجم"], rows,
+    book.table(["#", "مبحث", f"ص {deck_short(cfg)}", "حجم"], rows,
                widths=[CONTENT_W * 0.08, CONTENT_W * 0.68, CONTENT_W * 0.16, CONTENT_W * 0.08],
                size=8.2,
                caption=f"جدول {cfg['num']}-۰ — {fa(len(outline['topics']))} مبحث جلسهٔ {cfg['num']}. "
@@ -641,7 +693,8 @@ def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None 
         kind="info")
 
 
-def topic_head(book: PDFBook, t: dict, idx: int, total: int, outline: dict) -> None:
+def topic_head(book: PDFBook, t: dict, idx: int, total: int, outline: dict,
+               cfg: dict) -> None:
     anchor = t["topic_id"]
     # a topic never starts at the very bottom of a page: heading + meta + the
     # first lines of its identification card stay together
@@ -649,14 +702,14 @@ def topic_head(book: PDFBook, t: dict, idx: int, total: int, outline: dict) -> N
     book.h2(t["title"], anchor=anchor)
     pre = "؛ ".join(f"مبحث {tno(p['topic_id'])} — {p.get('level','')}" for p in t["prerequisites"])
     if t.get("notes1402_p2") and t.get("notes1402"):
-        src_pages = (f"صفحه‌های جزوهٔ ۱۴۰۲: پارت ۱ ص {page_range(t.get('notes1402', []))} · "
+        src_pages = (f"صفحه‌های {deck_label(cfg)}: پارت ۱ ص {page_range(t.get('notes1402', []))} · "
                      f"پارت ۲ ص {page_range(t['notes1402_p2'])}")
     elif t.get("notes1402_p2"):
-        src_pages = f"صفحه‌های جزوهٔ ۱۴۰۲ (پارت ۲): {page_range(t['notes1402_p2'])}"
+        src_pages = f"صفحه‌های {deck_label(cfg)} (پارت ۲): {page_range(t['notes1402_p2'])}"
     elif outline.get("single_part"):
-        src_pages = f"صفحه‌های جزوهٔ ۱۴۰۲: {page_range(t.get('notes1402', []))}"
+        src_pages = f"صفحه‌های {deck_label(cfg)}: {page_range(t.get('notes1402', []))}"
     elif outline.get("no1404") or not t.get("p1404"):
-        src_pages = f"صفحه‌های جزوهٔ ۱۴۰۲ (پارت {t.get('notes_part', '۱')}): {page_range(t.get('notes1402', []))}"
+        src_pages = f"صفحه‌های {deck_label(cfg)} (پارت {t.get('notes_part', '۱')}): {page_range(t.get('notes1402', []))}"
     else:
         src_pages = f"صفحه‌های جزوهٔ ۱۴۰۴: {page_range(t.get('p1404', []))}"
     meta = f"مبحث {fa(idx)} از {fa(total)} · {src_pages}"
@@ -741,7 +794,7 @@ def roadmap(book: PDFBook, outline: dict, content: dict) -> None:
         "متن با ارجاع، شکل‌ها، جمع‌بندی، کادرهای یادداشت و برگهٔ تحویل.")
     if cfg.get("no1404"):
         book.ensure(300)   # heading + note + the coverage table start together
-        book.h2("پوشش صفحه‌های جزوهٔ ۱۴۰۲ در این نسخه", anchor="roadmap-cover")
+        book.h2(f"پوشش صفحه‌های {deck_label(cfg)} در این نسخه", anchor="roadmap-cover")
         _coverage_1402(book, outline, cfg)
         _remaining_sessions(book, cfg)
         return
@@ -786,12 +839,12 @@ def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
         ranges = cfg.get("deck_ranges")
         if ranges:
             span = " و ".join(f"{fa(a)} تا {fa(b)}" for a, b in ranges)
-            book.paragraph(f"منبع متنی این جلسه یک جزوهٔ {fa(deck_pages)} صفحه‌ای بهمن ۱۴۰۲ است "
+            book.paragraph(f"منبع متنی این جلسه یک جزوهٔ {fa(deck_pages)} صفحه‌ای ({deck_label(cfg)}) است "
                            f"که محتوای دو جلسه را با هم دارد؛ سند حاضر فقط صفحه‌های {span} آن "
                            "را پوشش می‌دهد و بقیهٔ صفحه‌ها به جلسهٔ دیگر تعلق دارند. جدول زیر "
                            "می‌گوید هر یک از همین صفحه‌ها در کدام مبحث این سند آمده است.")
         else:
-            book.paragraph(f"منبع متنی این جلسه یک جزوهٔ {fa(deck_pages)} صفحه‌ای بهمن ۱۴۰۲ "
+            book.paragraph(f"منبع متنی این جلسه یک جزوهٔ {fa(deck_pages)} صفحه‌ای ({deck_label(cfg)}) "
                            f"است و این سند صفحه‌های {fa(lo)} تا {fa(hi)} آن را پوشش می‌دهد. "
                            "جدول زیر می‌گوید هر صفحهٔ آن بازه در کدام مبحث این سند آمده است.")
     else:
@@ -812,7 +865,7 @@ def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
         for pg in wanted:
             rows.append([fa(pg), "، ".join(per_page.get(pg, [])) or "— بدون مبحث —"])
         gaps = sum(1 for pg in wanted if pg not in per_page)
-        head = ("صفحهٔ جزوهٔ ۱۴۰۲" if single else "صفحهٔ " + part_label(cfg, int(
+        head = (f"صفحهٔ {deck_label(cfg)}" if single else "صفحهٔ " + part_label(cfg, int(
             part.translate(str.maketrans("۱۲", "12")))))
         where = ("" if single else " " + part_label(cfg, int(
             part.translate(str.maketrans("۱۲", "12")))))
@@ -821,7 +874,7 @@ def _coverage_1402(book: PDFBook, outline: dict, cfg: dict) -> None:
         book.table([head, "مبحث این جزوه"], rows,
                    widths=[CONTENT_W * 0.22, CONTENT_W * 0.78], size=7.6,
                    caption=f"جدول {cfg['num']}-۱ — صفحه‌های {span_txt}{where} "
-                           "جزوهٔ بهمن ۱۴۰۲ و مبحثی که آن‌ها را پوشش می‌دهد."
+                           f"{deck_label(cfg)} و مبحثی که آن‌ها را پوشش می‌دهد."
                            + (" هر صفحهٔ این فهرست مبحث دارد."
                               if cfg.get("deck_ranges") else
                               ("" if gaps else " در این بازه صفحهٔ بدون مبحث نمانده است.")),
@@ -892,6 +945,7 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
         t["p1404"] = t.get("p1404", [])
 
     book = PDFBook(out_path, "جزوهٔ مادر فیزیولوژی اعصاب و حواس ویژه — نسخهٔ ۰٫۱")
+    book.guyton_atomic = bool(cfg.get("guyton_atomic"))
     book.dark_page(lambda b: cover_page(b, cfg, outline), reuse_blank_page=True)
 
     front_matter(book, outline, cfg)
@@ -913,7 +967,7 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
         toc_rows.append((f"{i:02d}", t["title"], t["topic_id"], 1))
     toc_rows += [
         ("ر", "نقشهٔ جلسات آینده", "roadmap", 0),
-        ("ر", ("پوشش صفحه‌های جزوهٔ ۱۴۰۲" if cfg.get("no1404")
+        ("ر", (f"پوشش صفحه‌های {deck_label(SESSIONS[SESSION])}" if cfg.get("no1404")
                else "پوشش صفحه‌های جزوهٔ ۱۴۰۴"), "roadmap-cover", 1),
         ("ر", "جلسه‌های باقی‌مانده", "roadmap-sessions", 1),
     ]
@@ -940,7 +994,7 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
     chapter_opener(book, outline, {"sections": guyton}, cfg)
 
     for i, t in enumerate(outline["topics"], start=1):
-        topic_head(book, t, i, len(outline["topics"]), outline)
+        topic_head(book, t, i, len(outline["topics"]), outline, cfg)
         render_blocks(book, content.get(t["topic_id"], []), guyton)
 
     roadmap(book, outline, content)

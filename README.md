@@ -18,9 +18,10 @@
   - جلسهٔ ۱۱ — **`pdf/HumsYar_Neuro_Jalase11.pdf`** (۳۳ صفحه — سیستم لیمبیک، هیپوتالاموس و هیجان)
   - جلسهٔ ۱۲ — **`pdf/HumsYar_Neuro_Jalase12.pdf`** (۳۸ صفحه — فعالیت‌های مغزی، خواب، صرع و امواج مغزی)
   - جلسهٔ ۱۳ — **`pdf/HumsYar_Neuro_Jalase13.pdf`** (۴۲ صفحه — سیستم عصبی اتونوم)
+  - جلسهٔ ۱۴ — **`pdf/HumsYar_Neuro_Jalase14.pdf`** (۵۰ صفحه — معاینات نورولوژیک، جزوهٔ پری‌لب)
 - نسخهٔ اولیه جلسهٔ ۱ با نام **`HumsYar_Neuro_Special_Senses_Master.pdf`** هم دست‌نخورده نگه داشته شده است.
 - وضعیت دقیق کار: **`PROJECT_STATUS.md`**
-- گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**، **`reports/S02_QA_REPORT.md`**، **`reports/S03_QA_REPORT.md`**، **`reports/S04_QA_REPORT.md`**، **`reports/S05_QA_REPORT.md`**، **`reports/S06_QA_REPORT.md`**، **`reports/S07_QA_REPORT.md`**، **`reports/S08_QA_REPORT.md`**، **`reports/S09_QA_REPORT.md`**، **`reports/S10_QA_REPORT.md`**، **`reports/S11_QA_REPORT.md`**، **`reports/S12_QA_REPORT.md`**، **`reports/S13_QA_REPORT.md`**
+- گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**، **`reports/S02_QA_REPORT.md`**، **`reports/S03_QA_REPORT.md`**، **`reports/S04_QA_REPORT.md`**، **`reports/S05_QA_REPORT.md`**، **`reports/S06_QA_REPORT.md`**، **`reports/S07_QA_REPORT.md`**، **`reports/S08_QA_REPORT.md`**، **`reports/S09_QA_REPORT.md`**، **`reports/S10_QA_REPORT.md`**، **`reports/S11_QA_REPORT.md`**، **`reports/S12_QA_REPORT.md`**، **`reports/S13_QA_REPORT.md`**، **`reports/S14_QA_REPORT.md`**
 - فهرست دارایی‌ها و منابع: **`INVENTORY.md`**
 
 ## ساخت دوبارهٔ PDF

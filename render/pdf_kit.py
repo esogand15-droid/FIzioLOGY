@@ -606,7 +606,24 @@ class PDFBook:
             c.setLineWidth(2.2)
             c.line(bar_x, self.py(y1), bar_x, self.py(y0))
 
-        self.ensure(70)
+        fa_paras = (fa_text if isinstance(fa_text, (list, tuple))
+                    else [s.strip() for s in str(fa_text).split("\n\n") if s.strip()])
+        # a Guyton pair that fits on one page is never split across two pages
+        need = 30 + 17 + 12
+        for para in english:
+            need += len(self.wrap(para["text"], en.font, en.size, CONTENT_W - 34)) * en.leading
+            if para.get("page"):
+                need += 11
+        for para in fa_paras:
+            need += (len(self.wrap(para.replace("\n", " "), fa.font, fa.size, CONTENT_W - 34))
+                     * fa.leading + 2)
+        if note:
+            need += len(self.wrap(note, "Vazir", 8.6, CONTENT_W - 30)) * 13.6
+        # opt-in (cfg["guyton_atomic"]): earlier sessions keep their shipped layout
+        if getattr(self, "guyton_atomic", False) and need <= self.usable_height() - 8:
+            self.ensure(need)
+        else:
+            self.ensure(70)
         # ---- header
         top = self.y
         c.setFillColor(soft)
@@ -639,8 +656,6 @@ class PDFBook:
         draw_shaped(c, A4W - M_RIGHT - 6, self.py(top + 11), shape(fa_label), "VazirM", 8.2,
                     HexColor("#4338ca"), align="right")
         self.y = top + 17
-        fa_paras = (fa_text if isinstance(fa_text, (list, tuple))
-                    else [t.strip() for t in str(fa_text).split("\n\n") if t.strip()])
         for pi, para in enumerate(fa_paras):
             fa_lines = self.wrap(para.replace("\n", " "), fa.font, fa.size, CONTENT_W - 34)
             for i, line in enumerate(fa_lines):

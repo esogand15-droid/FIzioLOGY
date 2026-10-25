@@ -101,6 +101,11 @@ def handoff(n, title, sources, checks, extra=""):
 
 
 def guyton(chapter, pages, title, english, fa, note_text, src_pages):
+    # the renderer adds the «گایتون — » prefix itself; never repeat it in the title
+    for _p in ("گایتون — ", "گایتون —", "گایتون– ", "گایتون "):
+        if title.startswith(_p):
+            title = title[len(_p):]
+            break
     return {"type": "guytonpair", "chapter": chapter, "pages": pages, "title": title,
             "english": english, "fa": fa, "note": note_text,
             "src": f"گایتون، فصل {chapter}، {src_pages} — متن اصلی انگلیسی؛ "

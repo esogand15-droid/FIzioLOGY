@@ -1,0 +1,2804 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only; sections reused from earlier sessions keep their records",
+ "sections": {
+  "s14_perimetry": {
+   "heading": "Fields of Vision; Perimetry",
+   "chapter": 51,
+   "found": true,
+   "page_start": 627,
+   "page_end": 627,
+   "sentences": [
+    {
+     "page": 627,
+     "text": "The field of vision is the visual area seen by an eye at a given instant."
+    },
+    {
+     "page": 627,
+     "text": "The area seen to the nasal side is called the nasal field of vision, and the area seen to the lateral side is called the temporal field of vision."
+    },
+    {
+     "page": 627,
+     "text": "To diagnose blindness in specific portions of the retina, one charts the field of vision for each eye by a process called perimetry."
+    },
+    {
+     "page": 627,
+     "text": "This is done by having the subject look with one eye closed and the other eye looking toward a central spot directly in front of the eye."
+    },
+    {
+     "page": 627,
+     "text": "Then a small dot of light or a small object is moved back and forth in all areas of the field of vision, and the subject indicates when the spot of light or object can be seen and when it cannot."
+    },
+    {
+     "page": 627,
+     "text": "In all perimetry charts, a blind spot caused by lack of rods and cones in the retina over the optic disc is found about 15 degrees lateral to the central point of vision, as shown in the figure."
+    },
+    {
+     "page": 627,
+     "text": "Occasionally, blind spots are found in portions of the field of vision other than the optic disc area."
+    },
+    {
+     "page": 627,
+     "text": "Such blind spots are called scotomata; they frequently are caused by damage to the optic nerve resulting from glaucoma (too much fluid pressure in the eyeball), from allergic reactions in the retina, or from toxic conditions such as lead poisoning or excessive use of tobacco."
+    },
+    {
+     "page": 627,
+     "text": "Another condition that can be diagnosed by perimetry is retinitis pigmentosa."
+    },
+    {
+     "page": 627,
+     "text": "In this disease, portions of the retina degenerate, and excessive melanin pigment deposits in the degenerated areas."
+    },
+    {
+     "page": 627,
+     "text": "Retinitis pigmentosa usually causes blindness in the peripheral field of vision first and then gradually encroaches on the central areas."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_vision_lesions": {
+   "heading": "Effect of Lesions in the Optic Pathway",
+   "chapter": 51,
+   "found": true,
+   "page_start": 627,
+   "page_end": 627,
+   "sentences": [
+    {
+     "page": 627,
+     "text": "Destruction of an entire optic nerve causes blindness of the affected eye."
+    },
+    {
+     "page": 627,
+     "text": "Destruction of the optic chiasm prevents the crossing of impulses from the nasal half of each retina to the opposite optic tract."
+    },
+    {
+     "page": 627,
+     "text": "Therefore, the nasal half of each retina is blinded, which means that the person is blind in the temporal field of vision for each eye because the image of the field of vision is inverted on the retina by the optical system of the eye; this condition is called bitemporal hemianopsia."
+    },
+    {
+     "page": 627,
+     "text": "Such lesions frequently result from tumors of the pituitary gland pressing upward from the sella turcica on the bottom of the optic chiasm."
+    },
+    {
+     "page": 627,
+     "text": "Interruption of an optic tract denervates the corresponding half of each retina on the same side as the lesion; as a result, neither eye can see objects to the opposite side of the head."
+    },
+    {
+     "page": 627,
+     "text": "This condition is known as homonymous hemianopsia."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_pupil": {
+   "heading": "Control of Pupillary Diameter",
+   "chapter": 51,
+   "found": true,
+   "page_start": 632,
+   "page_end": 632,
+   "sentences": [
+    {
+     "page": 632,
+     "text": "Stimulation of the parasympathetic nerves also excites the pupillary sphincter muscle, thereby decreasing the pupillary aperture; this is called miosis."
+    },
+    {
+     "page": 632,
+     "text": "Conversely, stimulation of the sympathetic nerves excites the radial fibers of the iris and causes pupillary dilation, called mydriasis."
+    },
+    {
+     "page": 632,
+     "text": "When light is shone into the eyes, the pupils constrict, a reaction called the pupillary light reflex."
+    },
+    {
+     "page": 632,
+     "text": "When light impinges on the retina, a few of the resulting impulses pass from the optic nerves to the pretectal nuclei."
+    },
+    {
+     "page": 632,
+     "text": "From here, secondary impulses pass to the Edinger-Westphal nucleus and, finally, back through parasympathetic nerves to constrict the sphincter of the iris."
+    },
+    {
+     "page": 632,
+     "text": "Conversely, in darkness, the reflex becomes inhibited, which results in dilation of the pupil."
+    },
+    {
+     "page": 632,
+     "text": "The function of the light reflex is to help the eye adapt extremely rapidly to changing light conditions, as explained in Chapter 50."
+    },
+    {
+     "page": 632,
+     "text": "The limits of pupillary diameter are about 1.5 millimeters on the small side and 8 millimeters on the large side."
+    },
+    {
+     "page": 632,
+     "text": "Therefore, because light brightness on the retina increases with the square of pupillary diameter, the range of light and dark adaptation that can be brought about by the pupillary reflex is about 30 to 1—that is, up to as much as 30 times change in the amount of light entering the eye."
+    },
+    {
+     "page": 632,
+     "text": "A few central nervous system diseases damage nerve transmission of visual signals from the retinas to the Edinger-Westphal nucleus, thus sometimes blocking the pupillary reflexes."
+    },
+    {
+     "page": 632,
+     "text": "Such blocks may occur as a result of central nervous system syphilis, alcoholism, encephalitis, and so forth."
+    },
+    {
+     "page": 632,
+     "text": "The block usually occurs in the pretectal region of the brain stem, although it can result from destruction of some small fibers in the optic nerves."
+    },
+    {
+     "page": 632,
+     "text": "The final nerve fibers in the pathway through the pretectal area to the Edinger-Westphal nucleus are mostly of the inhibitory type."
+    },
+    {
+     "page": 632,
+     "text": "When their inhibitory effect is lost, the nucleus becomes chronically active, causing the pupils to remain mostly constricted, in addition to their failure to respond to light."
+    },
+    {
+     "page": 632,
+     "text": "Yet the pupils can constrict a little more if the EdingerWestphal nucleus is stimulated through some other pathway."
+    },
+    {
+     "page": 632,
+     "text": "For instance, when the eyes fixate on a near object, the signals that cause accommodation of the lens and those that cause convergence of the two eyes cause a mild degree of pupillary constriction at the same time."
+    },
+    {
+     "page": 632,
+     "text": "This is called the pupillary reaction to accommodation."
+    },
+    {
+     "page": 632,
+     "text": "A pupil that fails to respond to light but does respond to accommodation and is also very small (an Argyll Robertson pupil) is an important diagnostic sign of central nervous system disease such as syphilis."
+    },
+    {
+     "page": 632,
+     "text": "The sympathetic nerves to the eye are occasionally interrupted."
+    },
+    {
+     "page": 632,
+     "text": "Interruption frequently occurs in the cervical sympathetic chain."
+    },
+    {
+     "page": 632,
+     "text": "This causes the clinical condition called Horner’s syndrome, which consists of the following effects: First, because of interruption of sympathetic nerve fibers to the pupillary dilator muscle, the pupil remains persistently constricted to a smaller diameter than the pupil of the opposite eye."
+    },
+    {
+     "page": 632,
+     "text": "Second, the superior eyelid droops because it is normally maintained in an open position during waking hours partly by contraction of smooth muscle fibers embedded in the superior eyelid and innervated by the sympathetics."
+    },
+    {
+     "page": 632,
+     "text": "Therefore, destruction of the sympathetic nerves makes it impossible to open the superior eyelid as widely as normally."
+    },
+    {
+     "page": 632,
+     "text": "Third, the blood vessels on the corresponding side of the face and head become persistently dilated."
+    },
+    {
+     "page": 632,
+     "text": "Fourth, sweating (which requires sympathetic nerve signals) cannot occur on the side of the face and head affected by Horner’s syndrome."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_accommodation": {
+   "heading": "Autonomic Control of Accommodation",
+   "chapter": 51,
+   "found": true,
+   "page_start": 631,
+   "page_end": 631,
+   "sentences": [
+    {
+     "page": 631,
+     "text": "The parasympathetic preganglionic fibers arise in the Edinger-Westphal nucleus (the visceral nucleus portion of the third cranial nerve) and then pass in the third nerve to the ciliary ganglion, which lies immediately behind the eye."
+    },
+    {
+     "page": 631,
+     "text": "There, the preganglionic fibers synapse with postganglionic parasympathetic neurons, which in turn send fibers through ciliary nerves into the eyeball."
+    },
+    {
+     "page": 631,
+     "text": "These nerves excite (1) the ciliary muscle that controls focusing of the eye lens and (2) the sphincter of the iris that constricts the pupil."
+    },
+    {
+     "page": 631,
+     "text": "The sympathetic innervation of the eye originates in the intermediolateral horn cells of the first thoracic segment of the spinal cord."
+    },
+    {
+     "page": 631,
+     "text": "From there, sympathetic fibers enter the sympathetic chain and pass upward to the superior cervical ganglion, where they synapse with postganglionic neurons."
+    },
+    {
+     "page": 631,
+     "text": "Postganglionic sympathetic fibers from these then spread along the surfaces of the carotid artery and successively smaller arteries until they reach the eye."
+    },
+    {
+     "page": 631,
+     "text": "There, the sympathetic fibers innervate the radial fibers of the iris (which open the pupil), as well as several extraocular muscles of the eye, which are discussed subsequently in relation to Horner’s syndrome."
+    },
+    {
+     "page": 631,
+     "text": "The accommodation mechanism—that is, the mechanism that focuses the lens system of the eye—is essential for a high degree of visual acuity."
+    },
+    {
+     "page": 631,
+     "text": "Accommodation results from contraction or relaxation of the eye ciliary muscle."
+    },
+    {
+     "page": 631,
+     "text": "Contraction causes increased refractive power of the lens, as explained in Chapter 49, and relaxation causes decreased power."
+    },
+    {
+     "page": 631,
+     "text": "How does a person adjust accommodation to keep the eyes in focus all the time?"
+    },
+    {
+     "page": 631,
+     "text": "Accommodation of the lens is regulated by a negative feedback mechanism that automatically adjusts the refractive power of the lens to achieve the highest degree of visual acuity."
+    },
+    {
+     "page": 631,
+     "text": "When the eyes have been focused on some far object and must then suddenly focus on a near object, the lens usually accommodates for best acuity of vision within less than 1 second."
+    },
+    {
+     "page": 631,
+     "text": "Although the precise control mechanism that causes this rapid and accurate focusing of the eye is unclear, some of the known features are the following."
+    },
+    {
+     "page": 631,
+     "text": "First, when the eyes suddenly change distance of the fixation point, the lens changes its strength in the proper direction to achieve a new state of focus within a fraction of a second."
+    },
+    {
+     "page": 631,
+     "text": "Second, different types of clues help to change the lens strength in the proper direction: 1."
+    },
+    {
+     "page": 631,
+     "text": "Chromatic aberration appears to be important."
+    },
+    {
+     "page": 631,
+     "text": "That is, red light rays focus slightly posteriorly to blue light rays because the lens bends blue rays more than red rays."
+    },
+    {
+     "page": 631,
+     "text": "The eyes appear to be able to detect which of these two types of rays is in better focus, and this clue relays information to the accommodation mechanism whether to make the lens stronger or weaker."
+    },
+    {
+     "page": 631,
+     "text": "When the eyes fixate on a near object, the eyes must converge."
+    },
+    {
+     "page": 631,
+     "text": "The neural mechanisms for convergence cause a simultaneous signal to strengthen the lens of the eye."
+    },
+    {
+     "page": 631,
+     "text": "Because the fovea lies in a hollowed-out depression that is slightly deeper than the remainder of the retina, the clarity of focus in the depth of the fovea is different from the clarity of focus on the edges."
+    },
+    {
+     "page": 631,
+     "text": "This may also give clues about which way the strength of the lens needs to be changed."
+    },
+    {
+     "page": 631,
+     "text": "The degree of accommodation of the lens oscillates slightly all the time at a frequency up to twice per second."
+    },
+    {
+     "page": 631,
+     "text": "The visual image becomes clearer when the oscillation of the lens strength is changing in the appropriate direction and becomes poorer when the lens strength is changing in the wrong direction."
+    },
+    {
+     "page": 631,
+     "text": "This could give a rapid clue as to which way the strength of the lens needs to change to provide appropriate focus."
+    },
+    {
+     "page": 631,
+     "text": "(Modified from Ranson SW, Clark SL: The brain cortical areas that control accommodation closely parallel those that control fixation movements of the eyes, with analysis of the visual signals in Brodmann’s cortical areas 18 and 19 and transmission of motor signals to the ciliary muscle through the pretectal area in the brain stem, then through the Edinger-Westphal nucleus, and finally by way of parasympathetic nerve fibers to the eyes."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_hearing": {
+   "heading": "Hearing Abnormalities",
+   "chapter": 52,
+   "found": true,
+   "page_start": 642,
+   "page_end": 642,
+   "sentences": [
+    {
+     "page": 642,
+     "text": "Deafness is usually divided into two types: (1) that caused by impairment of the cochlea, the auditory nerve, or the central nervous system circuits from the ear, which is usually classified as “nerve deafness,” and (2) that caused by impairment of the physical structures of the ear that conduct sound itself to the cochlea, which is usually called “conduction deafness.”"
+    },
+    {
+     "page": 642,
+     "text": "If either the cochlea or the auditory nerve is destroyed, the person becomes permanently deaf."
+    },
+    {
+     "page": 642,
+     "text": "However, if the cochlea and nerve are still intact but the tympanum-ossicular system has been destroyed or ankylosed (“frozen” in place by fibrosis or calcification), sound waves can still be conducted into the cochlea by means of bone conduction from a sound generator applied to the skull over the ear."
+    },
+    {
+     "page": 642,
+     "text": "To determine the nature of hearing disabilities, the “audiometer” is used."
+    },
+    {
+     "page": 642,
+     "text": "Simply an earphone connected to an electronic oscillator capable of emitting pure tones ranging from low frequencies to high frequencies, the instrument is calibrated so that zero-intensity-level sound at each frequency is the loudness that can barely be heard by the normal ear."
+    },
+    {
+     "page": 642,
+     "text": "A calibrated volume control can increase the loudness above the zero level."
+    },
+    {
+     "page": 642,
+     "text": "If the loudness must be increased to 30 decibels above normal before it can be heard, the person is said to have a hearing loss of 30 decibels at that particular frequency."
+    },
+    {
+     "page": 642,
+     "text": "In performing a hearing test using an audiometer, one tests about 8 to 10 frequencies covering the auditory spectrum, and the hearing loss is determined for each of these frequencies."
+    },
+    {
+     "page": 642,
+     "text": "Then the so-called audiogram is plotted, as shown in Figures 52-12 and 52-13, depicting hearing loss at each of the frequencies in the auditory spectrum."
+    },
+    {
+     "page": 642,
+     "text": "The audiometer, in addition to being equipped with an earphone for testing air conduction by the ear, is equipped with a mechanical vibrator for testing bone conduction from the mastoid process of the skull into the cochlea."
+    },
+    {
+     "page": 642,
+     "text": "In nerve deafness, which includes damage to the cochlea, the auditory nerve, or the central nervous system circuits from the ear, the person has decreased or total loss of ability to hear sound as tested by both air conduction and bone conduction."
+    },
+    {
+     "page": 642,
+     "text": "In this figure, the deafness is mainly for high-frequency sound."
+    },
+    {
+     "page": 642,
+     "text": "Such deafness could be caused by damage to the base of the cochlea."
+    },
+    {
+     "page": 642,
+     "text": "This type of deafness occurs to some extent in almost all older people."
+    },
+    {
+     "page": 642,
+     "text": "Other patterns of nerve deafness frequently occur as follows: (1) deafness for low-frequency sounds caused by excessive and prolonged exposure to very loud sounds (a rock band or a jet airplane engine), because low-frequency sounds are usually louder and more damaging to the organ of Corti, and (2) deafness for all frequencies caused by drug sensitivity of the organ of Corti—in particular, sensitivity to some antibiotics such as streptomycin, kanamycin, and chloramphenicol."
+    },
+    {
+     "page": 642,
+     "text": "In either case, the sound waves cannot be transmitted easily through the ossicles from the tympanic membrane to the oval window."
+    },
+    {
+     "page": 642,
+     "text": "Figure 52-13 shows an audiogram from a person with “middle ear air conduction deafness.” In this case, bone conduction is essentially normal, but conduction through the ossicular system is greatly depressed at all frequencies, but more so at low frequencies."
+    },
+    {
+     "page": 642,
+     "text": "In some instances of conduction deafness, the faceplate of the stapes becomes “ankylosed” by bone overgrowth to the edges of the oval window."
+    },
+    {
+     "page": 642,
+     "text": "In this case, the person becomes totally deaf for ossicular conduction but can regain almost normal hearing by the surgical removal of the stapes and its replacement with a minute Teflon or metal prosthesis that transmits the sound from the incus to the oval window."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_knee_jerk": {
+   "heading": "Knee Jerk and Other Muscle Jerks",
+   "chapter": 54,
+   "found": true,
+   "page_start": 660,
+   "page_end": 660,
+   "sentences": [
+    {
+     "page": 660,
+     "text": "Clinically, a method used to determine the sensitivity of the stretch reflexes is to elicit the knee jerk and other muscle jerks."
+    },
+    {
+     "page": 660,
+     "text": "The knee jerk can be elicited by simply striking the patellar tendon with a reflex hammer; this instantaneously stretches the quadriceps muscle and excites a dynamic stretch reflex that causes the lower leg to “jerk” forward."
+    },
+    {
+     "page": 660,
+     "text": "Similar reflexes can be obtained from almost any muscle of the body either by striking the tendon of the muscle or by striking the belly of the muscle itself."
+    },
+    {
+     "page": 660,
+     "text": "In other words, sudden stretch of muscle spindles is all that is required to elicit a dynamic stretch reflex."
+    },
+    {
+     "page": 660,
+     "text": "The muscle jerks are used by neurologists to assess the degree of facilitation of spinal cord centers."
+    },
+    {
+     "page": 660,
+     "text": "When large numbers of facilitatory impulses are being transmitted from the upper regions of the central nervous system into the cord, the muscle jerks are greatly exaggerated."
+    },
+    {
+     "page": 660,
+     "text": "Conversely, if the facilitatory impulses are depressed or abrogated, the muscle jerks are considerably weakened or absent."
+    },
+    {
+     "page": 660,
+     "text": "These reflexes are used most frequently in determining the presence or absence of muscle spasticity caused by lesions in the motor areas of the brain or diseases that excite the bulboreticular facilitatory area of the brain stem."
+    },
+    {
+     "page": 660,
+     "text": "Ordinarily, large lesions in the motor areas of the cerebral cortex but not in the lower motor control areas (especially lesions caused by strokes or brain tumors) cause greatly exaggerated muscle jerks in the muscles on the opposite side of the body."
+    },
+    {
+     "page": 660,
+     "text": "Under some conditions, the muscle jerks can oscillate, a phenomenon can be explained particularly well in relation to ankle clonus, as follows."
+    },
+    {
+     "page": 660,
+     "text": "If a person standing on the tip ends of the feet suddenly drops his or her body downward and stretches the gastrocnemius muscles, stretch reflex impulses are transmitted from the muscle spindles into the spinal cord."
+    },
+    {
+     "page": 660,
+     "text": "These impulses reflexively excite the stretched muscle, which lifts the body up again."
+    },
+    {
+     "page": 660,
+     "text": "After a fraction of a second, the reflex contraction of the muscle dies out and the body falls again, thus stretching the spindles a second time."
+    },
+    {
+     "page": 660,
+     "text": "Again, a dynamic stretch reflex lifts the body, but this too dies out after a fraction of a second, and the body falls once more to begin a new cycle."
+    },
+    {
+     "page": 660,
+     "text": "In this way, the stretch reflex of the gastrocnemius muscle continues to oscillate, often for long periods; this is clonus."
+    },
+    {
+     "page": 660,
+     "text": "Clonus ordinarily occurs only when the stretch reflex is highly sensitized by facilitatory impulses from the brain."
+    },
+    {
+     "page": 660,
+     "text": "For instance, in a decerebrate animal, in which the stretch reflexes are highly facilitated, clonus develops readily."
+    },
+    {
+     "page": 660,
+     "text": "To determine the degree of facilitation of the spinal cord, neurologists test patients for clonus by suddenly stretching a muscle and applying a steady stretching force to it."
+    },
+    {
+     "page": 660,
+     "text": "If clonus occurs, the degree of facilitation is certain to be high."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_stretch_clinical": {
+   "heading": "Clinical Applications of the Stretch Reflex",
+   "chapter": 54,
+   "found": true,
+   "page_start": 660,
+   "page_end": 660,
+   "sentences": [
+    {
+     "page": 660,
+     "text": "Almost every time a clinician performs a physical examination on a patient, he or she elicits multiple stretch reflexes."
+    },
+    {
+     "page": 660,
+     "text": "The purpose is to determine how much background excitation, or “tone,” the brain is sending to the spinal cord."
+    },
+    {
+     "page": 660,
+     "text": "This reflex is elicited as follows."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_spasticity": {
+   "heading": "Muscle Spasticity Caused by Lesions",
+   "chapter": 55,
+   "found": true,
+   "page_start": 673,
+   "page_end": 673,
+   "sentences": [
+    {
+     "page": 673,
+     "text": "Most lesions of the motor cortex, especially those caused by a stroke, involve not only the primary motor cortex but also adjacent parts of the brain such as the basal ganglia."
+    },
+    {
+     "page": 673,
+     "text": "In these instances, muscle spasm almost invariably occurs in the afflicted muscle areas on the opposite side of the body (because the motor pathways cross to the opposite side)."
+    },
+    {
+     "page": 673,
+     "text": "This spasm results mainly from damage to accessory pathways from the nonpyramidal portions of the motor cortex."
+    },
+    {
+     "page": 673,
+     "text": "These pathways normally inhibit the vestibular and reticular brain stem motor nuclei."
+    },
+    {
+     "page": 673,
+     "text": "When these nuclei cease their state of inhibition (i.e., are “disinhibited”), they become spontaneously active and cause excessive spastic tone in the involved muscles, as we discuss more fully later in the chapter."
+    },
+    {
+     "page": 673,
+     "text": "This is the spasticity that normally accompanies a “stroke” in a human being."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_motor_lesions": {
+   "heading": "Effect of Lesions in the Motor Cortex or in the Corticospinal",
+   "chapter": 55,
+   "found": true,
+   "page_start": 672,
+   "page_end": 673,
+   "sentences": [
+    {
+     "page": 672,
+     "text": "The motor control system can be damaged by the common abnormality called a “stroke.” This is caused by either a ruptured blood vessel that hemorrhages into the brain or by thrombosis of one of the major arteries supplying the brain."
+    },
+    {
+     "page": 672,
+     "text": "In either case, the result is loss of blood supply to the cortex or to the corticospinal tract where it passes through the internal capsule between the caudate nucleus and the putamen."
+    },
+    {
+     "page": 672,
+     "text": "Also, experiments have been performed in animals to selectively remove different parts of the motor cortex."
+    },
+    {
+     "page": 673,
+     "text": "If the sublying caudate nucleus and adjacent premotor and supplementary motor areas are not damaged, gross postural and limb “fixation” movements can still occur, but there is loss of voluntary control of discrete movements of the distal segments of the limbs, especially of the hands and fingers."
+    },
+    {
+     "page": 673,
+     "text": "This does not mean that the hand and finger muscles themselves cannot contract; rather, the ability to control the fine movements is gone."
+    },
+    {
+     "page": 673,
+     "text": "From these observations, one can conclude that the area pyramidalis is essential for voluntary initiation of finely controlled movements, especially of the hands and fingers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_stepping": {
+   "heading": "Stepping and Walking Movements",
+   "chapter": 54,
+   "found": true,
+   "page_start": 664,
+   "page_end": 664,
+   "sentences": [
+    {
+     "page": 664,
+     "text": "Indeed, even when the lumbar portion of the spinal cord is separated from the remainder of the cord and a longitudinal section is made down the center of the cord to block neuronal connections between the two sides of the cord and between the two limbs, each hindlimb can still perform individual stepping functions."
+    },
+    {
+     "page": 664,
+     "text": "Forward flexion of the limb is followed a second or so later by backward extension."
+    },
+    {
+     "page": 664,
+     "text": "Then flexion occurs again, and the cycle is repeated over and over."
+    },
+    {
+     "page": 664,
+     "text": "This oscillation back and forth between flexor and extensor muscles can occur even after the sensory nerves have been cut, and it seems to result mainly from mutually reciprocal inhibition circuits within the matrix of the cord itself, oscillating between the neurons controlling agonist and antagonist muscles."
+    },
+    {
+     "page": 664,
+     "text": "The sensory signals from the footpads and from the position sensors around the joints play a strong role in controlling foot pressure and frequency of stepping when the foot is allowed to walk along a surface."
+    },
+    {
+     "page": 664,
+     "text": "In fact, the cord mechanism for control of stepping can be even more complex."
+    },
+    {
+     "page": 664,
+     "text": "For instance, if the top of the foot encounters an obstruction during forward thrust, the forward thrust will stop temporarily; then, in rapid sequence, the foot will be lifted higher and proceed forward to be placed over the obstruction."
+    },
+    {
+     "page": 664,
+     "text": "This is the stumble reflex."
+    },
+    {
+     "page": 664,
+     "text": "Thus, the cord is an intelligent walking controller."
+    },
+    {
+     "page": 664,
+     "text": "If the lumbar spinal cord is not split down its center, every time stepping occurs in the forward direction in one limb, the opposite limb ordinarily moves backward."
+    },
+    {
+     "page": 664,
+     "text": "This effect results from reciprocal innervation between the two limbs."
+    },
+    {
+     "page": 664,
+     "text": "If a well-healed spinal animal (with spinal transection in the neck above the forelimb area of the cord) is held up from the floor and its legs are allowed to dangle, the stretch on the limbs occasionally elicits stepping reflexes that involve all four limbs."
+    },
+    {
+     "page": 664,
+     "text": "In general, stepping occurs diagonally between the forelimbs and hindlimbs."
+    },
+    {
+     "page": 664,
+     "text": "This diagonal response is another manifestation of reciprocal innervation, this time occurring the entire distance up and down the cord between the forelimbs and hindlimbs."
+    },
+    {
+     "page": 664,
+     "text": "Such a walking pattern is called a mark time reflex."
+    },
+    {
+     "page": 664,
+     "text": "Another type of reflex that occasionally develops in a spinal animal is the galloping reflex, in which both forelimbs move backward in unison while both hindlimbs move forward."
+    },
+    {
+     "page": 664,
+     "text": "This often occurs when almost equal stretch or pressure stimuli are applied to the limbs on both sides of the body at the same time; unequal stimulation elicits the diagonal walking reflex."
+    },
+    {
+     "page": 664,
+     "text": "This is in keeping with the normal patterns of walking and galloping because in walking, only one forelimb and one hindlimb at a time are stimulated, which would predispose the animal to continue walking."
+    },
+    {
+     "page": 664,
+     "text": "Conversely, when the animal strikes the ground during galloping, both forelimbs and both hindlimbs are stimulated about equally; this predisposes the animal to keep galloping and, therefore, continues this pattern of motion."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_cerebellar": {
+   "heading": "Clinical Abnormalities of the Cerebellum",
+   "chapter": 56,
+   "found": true,
+   "page_start": 689,
+   "page_end": 689,
+   "sentences": [
+    {
+     "page": 689,
+     "text": "Destruction of small portions of the lateral cerebellar cortex seldom causes detectable abnormalities in motor function."
+    },
+    {
+     "page": 689,
+     "text": "In fact, several months after as much as one half of the lateral cerebellar cortex on one side of the brain has been removed, if the deep cerebellar nuclei are not removed along with the cortex, the motor functions of the animal appear to be almost normal as long as the animal performs all movements slowly."
+    },
+    {
+     "page": 689,
+     "text": "Thus, the remaining portions of the motor control system are capable of compensating tremendously for loss of parts of the cerebellum."
+    },
+    {
+     "page": 689,
+     "text": "To cause serious and continuing dysfunction of the cer ebellum, the cerebellar lesion usually must involve one or more of the deep cerebellar nuclei—the dentate, interposed, or fastigial nuclei."
+    },
+    {
+     "page": 689,
+     "text": "Two of the most important symptoms of cerebellar disease are dysmetria and ataxia."
+    },
+    {
+     "page": 689,
+     "text": "In the absence of the cerebellum, the subconscious motor control system cannot predict how far movements will go."
+    },
+    {
+     "page": 689,
+     "text": "Therefore, the movements ordinarily overshoot their intended mark; then the conscious portion of the brain overcompensates in the opposite direction for the suc ceeding compensatory movement."
+    },
+    {
+     "page": 689,
+     "text": "This effect is called dysmetria, and it results in uncoordinated movements that are called ataxia."
+    },
+    {
+     "page": 689,
+     "text": "Dysmetria and ataxia can also result from lesions in the spinocerebellar tracts because feed back information from the moving parts of the body to the cerebellum is essential for cerebellar timing of movement termination."
+    },
+    {
+     "page": 689,
+     "text": "Past pointing means that in the absence of the cerebellum, a person ordinarily moves the hand or some other moving part of the body considerably beyond the point of intention."
+    },
+    {
+     "page": 689,
+     "text": "This results from the fact that normally the cer ebellum initiates most of the motor signal that turns off a movement after it is begun; if the cerebellum is not available to do this, the movement ordinarily goes beyond the intended mark."
+    },
+    {
+     "page": 689,
+     "text": "Therefore, past pointing is actually a manifestation of dysmetria."
+    },
+    {
+     "page": 689,
+     "text": "As a result, the succeeding movement may begin much too early or much too late, so no orderly “progression of movement” can occur."
+    },
+    {
+     "page": 689,
+     "text": "One can demonstrate this readily by having a patient with cerebellar damage turn one hand upward and downward at a rapid rate."
+    },
+    {
+     "page": 689,
+     "text": "The patient rapidly “loses” all perception of the instantaneous position of the hand during any portion of the movement."
+    },
+    {
+     "page": 689,
+     "text": "As a result, a series of stalled attempted but jumbled movements occurs instead of the normal coordinate upward and downward motions."
+    },
+    {
+     "page": 689,
+     "text": "This is called dysdiadochokinesia."
+    },
+    {
+     "page": 689,
+     "text": "Another example in which failure of progression occurs is in talking because the formation of words depends on rapid and orderly succession of individual muscle movements in the larynx, mouth, and respiratory system."
+    },
+    {
+     "page": 689,
+     "text": "Lack of coordination among these and inability to adjust in advance either the intensity of sound or duration of each successive sound causes jumbled vocalization, with some syllables loud, some weak, some held for long intervals, some held for short intervals, and resultant speech that is often unintelligible."
+    },
+    {
+     "page": 689,
+     "text": "This is called dysarthria."
+    },
+    {
+     "page": 689,
+     "text": "When a person who has lost the cer ebellum performs a voluntary act, the movements tend to oscillate, especially when they approach the intended mark, first overshooting the mark and then vibrating back and forth several times before settling on the mark."
+    },
+    {
+     "page": 689,
+     "text": "This reaction is called an intention tremor or an action tremor, and it results from cerebellar overshooting and failure of the cerebellar system to “damp” the motor movements."
+    },
+    {
+     "page": 689,
+     "text": "Cerebellar nystagmus is tremor of the eyeballs that occurs usually when one attempts to fixate the eyes on a scene to one side of the head."
+    },
+    {
+     "page": 689,
+     "text": "This offcenter type of fixation results in rapid, tremulous movements of the eyes rather than steady fixa tion, and it is another manifestation of failure of damping by the cerebellum."
+    },
+    {
+     "page": 689,
+     "text": "It occurs especially when the flocculonodu lar lobes of the cerebellum are damaged; in this instance it is also associated with loss of equilibrium because of dysfunc tion of the pathways through the flocculonodular cerebellum from the semicircular ducts."
+    },
+    {
+     "page": 689,
+     "text": "Loss of the deep cerebellar nuclei, particularly of the dentate and interposed nuclei, causes decreased tone of the peripheral body musculature on the side of the cerebellar lesion."
+    },
+    {
+     "page": 689,
+     "text": "The hypotonia results from loss of cerebellar facilitation of the motor cortex and brain stem motor nuclei by tonic signals from the deep cerebellar nuclei."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_taste": {
+   "heading": "Sense of Taste",
+   "chapter": 53,
+   "found": true,
+   "page_start": 645,
+   "page_end": 648,
+   "sentences": [
+    {
+     "page": 645,
+     "text": "Taste is mainly a function of the taste buds in the mouth, but it is common experience that one’s sense of smell also contributes strongly to taste perception."
+    },
+    {
+     "page": 645,
+     "text": "In addition, the texture of food, as detected by tactual senses of the mouth, and the presence of substances in the food that stimulate pain endings, such as pepper, greatly alter the taste experience."
+    },
+    {
+     "page": 645,
+     "text": "The importance of taste lies in the fact that it allows a person to select food in accord with desires and often in accord with the body tissues’ metabolic need for specific substances."
+    },
+    {
+     "page": 645,
+     "text": "The identities of the specific chemicals that excite different taste receptors are not all known."
+    },
+    {
+     "page": 645,
+     "text": "Even so, psychophysiologic and neurophysiologic studies have identified at least 13 possible or probable chemical receptors in the taste cells, as follows: 2 sodium receptors, 2 potassium receptors, 1 chloride receptor, 1 adenosine receptor, 1 inosine receptor, 2 sweet receptors, 2 bitter receptors, 1 glutamate receptor, and 1 hydrogen ion receptor."
+    },
+    {
+     "page": 645,
+     "text": "For practical analysis of taste, the aforementioned receptor capabilities have also been grouped into five general categories called the primary sensations of taste."
+    },
+    {
+     "page": 645,
+     "text": "They are sour, salty, sweet, bitter, and “umami.”"
+    },
+    {
+     "page": 645,
+     "text": "A person can perceive hundreds of different tastes."
+    },
+    {
+     "page": 645,
+     "text": "They are all supposed to be combinations of the elementary taste sensations, just as all the colors we can see are combinations of the three primary colors, as described in Chapter 50."
+    },
+    {
+     "page": 645,
+     "text": "The sour taste is caused by acids, that is, by the hydrogen ion concentration, and the intensity of this taste sensation is approximately proportional to the logarithm of the hydrogen ion concentration."
+    },
+    {
+     "page": 645,
+     "text": "That is, the more acidic the food, the stronger the sour sensation becomes."
+    },
+    {
+     "page": 645,
+     "text": "The salty taste is elicited by ionized salts, mainly by the sodium ion concentration."
+    },
+    {
+     "page": 645,
+     "text": "The quality of the taste varies somewhat from one salt to another because some salts elicit other taste sensations in addition to saltiness."
+    },
+    {
+     "page": 645,
+     "text": "The cations of the salts, especially sodium cations, are mainly responsible for the salty taste, but the anions also contribute to a lesser extent."
+    },
+    {
+     "page": 645,
+     "text": "The sweet taste is not caused by any single class of chemicals."
+    },
+    {
+     "page": 645,
+     "text": "Some of the types of chemicals that cause this taste include sugars, glycols, alcohols, aldehydes, ketones, amides, esters, some amino acids, some small proteins, sulfonic acids, halogenated acids, and inorganic salts of lead and beryllium."
+    },
+    {
+     "page": 645,
+     "text": "Note specifically that most of the substances that cause a sweet taste are organic chemicals."
+    },
+    {
+     "page": 645,
+     "text": "It is especially interesting that slight changes in the chemical structure, such as addition of a simple radical, can often change the substance from sweet to bitter."
+    },
+    {
+     "page": 645,
+     "text": "The bitter taste, like the sweet taste, is not caused by any single type of chemical agent."
+    },
+    {
+     "page": 645,
+     "text": "Here again, the substances that give the bitter taste are almost entirely organic substances."
+    },
+    {
+     "page": 645,
+     "text": "Two particular classes of substances are especially likely to cause bitter taste sensations: (1) long-chain organic substances that contain nitrogen and (2) alkaloids."
+    },
+    {
+     "page": 645,
+     "text": "The alkaloids include many of the drugs used in medicines, such as quinine, caffeine, strychnine, and nicotine."
+    },
+    {
+     "page": 646,
+     "text": "Some substances that at first taste sweet have a bitter aftertaste."
+    },
+    {
+     "page": 646,
+     "text": "This is true of saccharin, which makes this substance objectionable to some people."
+    },
+    {
+     "page": 646,
+     "text": "The bitter taste, when it occurs in high intensity, usually causes the person or animal to reject the food."
+    },
+    {
+     "page": 646,
+     "text": "This is undoubtedly an important function of the bitter taste sensation because many deadly toxins found in poisonous plants are alkaloids, and virtually all of these cause intensely bitter taste, usually followed by rejection of the food."
+    },
+    {
+     "page": 646,
+     "text": "Umami is the dominant taste of food containing l-glutamate, such as meat extracts and aging cheese, and some physiologists consider it to be a separate, fifth category of primary taste stimuli."
+    },
+    {
+     "page": 646,
+     "text": "A taste receptor for l-glutamate may be related to one of the glutamate receptors that are also expressed in neuronal synapses of the brain."
+    },
+    {
+     "page": 646,
+     "text": "However, the precise molecular mechanisms responsible for umami taste are still unclear."
+    },
+    {
+     "page": 646,
+     "text": "Threshold for Taste The threshold for stimulation of the sour taste by hydrochloric acid averages 0.0009 N; for stimulation of the salty taste by sodium chloride, 0.01 M; for the sweet taste by sucrose, 0.01 M; and for the bitter taste by quinine, is the bitter taste sense than all the others, which would be expected, because this sensation provides an important protective function against many dangerous toxins in food."
+    },
+    {
+     "page": 646,
+     "text": "In this table, the intensities of four of the primary sensations of taste are referred, respectively, to the intensities of the taste of hydrochloric acid, quinine, sucrose, and sodium chloride, each of which is arbitrarily chosen to have a taste index of 1."
+    },
+    {
+     "page": 646,
+     "text": "Some people are taste blind for certain substances, especially for different types of thiourea compounds."
+    },
+    {
+     "page": 646,
+     "text": "A substance used frequently by psychologists for demonstrating taste blindness is phenylthiocarbamide, for which about 15 to 30 percent of all people exhibit taste blindness; the exact percentage depends on the method of testing and the concentration of the substance."
+    },
+    {
+     "page": 646,
+     "text": "The taste bud is composed of about 50 modified epithelial cells, some of which are supporting cells called sustentacular cells and others of which are taste cells."
+    },
+    {
+     "page": 646,
+     "text": "The taste cells are continually being replaced by mitotic division of surrounding epithelial cells, so some taste cells are young cells."
+    },
+    {
+     "page": 646,
+     "text": "Others are mature cells that lie toward the center of the bud; these soon break up and dissolve."
+    },
+    {
+     "page": 646,
+     "text": "The life span of each taste cell is about 10 days in lower mammals but is unknown for humans."
+    },
+    {
+     "page": 646,
+     "text": "From the tip of each taste cell, several microvilli, or taste hairs, protrude outward into the taste pore to approach the cavity of the mouth."
+    },
+    {
+     "page": 646,
+     "text": "These microvilli provide the receptor surface for taste."
+    },
+    {
+     "page": 646,
+     "text": "Formic acid 1.1 Brucine 11 1-Propoxy-2amino-4Data from Pfaffman C: Handbook of Physiology, vol 1."
+    },
+    {
+     "page": 646,
+     "text": "Baltimore: Williams & Wilkins, 1959, p 507."
+    },
+    {
+     "page": 647,
+     "text": "Interwoven around the bodies of the taste cells is a branching terminal network of taste nerve fibers that are stimulated by the taste receptor cells."
+    },
+    {
+     "page": 647,
+     "text": "Some of these fibers invaginate into folds of the taste cell membranes."
+    },
+    {
+     "page": 647,
+     "text": "Many vesicles form beneath the cell membrane near the fibers."
+    },
+    {
+     "page": 647,
+     "text": "It is believed that these vesicles contain a neurotransmitter substance that is released through the cell membrane to excite the nerve fiber endings in response to taste stimulation."
+    },
+    {
+     "page": 647,
+     "text": "The taste buds are found on three types of papillae of the tongue, as follows: (1) A large number of taste buds are on the walls of the troughs that surround the circumvallate papillae, which form a V line on the surface of the posterior tongue."
+    },
+    {
+     "page": 647,
+     "text": "(2) Moderate numbers of taste buds are on the fungiform papillae over the flat anterior surface of the tongue."
+    },
+    {
+     "page": 647,
+     "text": "(3) Moderate numbers are on the foliate papillae located in the folds along the lateral surfaces of the tongue."
+    },
+    {
+     "page": 647,
+     "text": "Additional taste buds are located on the palate, and a few are found on the tonsillar pillars, on the epiglottis, and even in the proximal esophagus."
+    },
+    {
+     "page": 647,
+     "text": "Adults have 3000 to 10,000 taste buds, and children have a few more."
+    },
+    {
+     "page": 647,
+     "text": "Beyond the age of 45 years, many taste buds degenerate, causing taste sensitivity to decrease in old age."
+    },
+    {
+     "page": 647,
+     "text": "But at high concentration, most buds can be excited by two or more of the primary taste stimuli, as well as by a few other taste stimuli that do not fit into the “primary” categories."
+    },
+    {
+     "page": 647,
+     "text": "Application of a taste substance to the taste hairs causes partial loss of this negative potential—that is, the taste cell becomes depolarized."
+    },
+    {
+     "page": 647,
+     "text": "In most instances, the decrease in potential, within a wide range, is approximately proportional to the logarithm of concentration of the stimulating substance."
+    },
+    {
+     "page": 647,
+     "text": "This change in electrical potential in the taste cell is called the receptor potential for taste."
+    },
+    {
+     "page": 647,
+     "text": "The mechanism by which most stimulating substances react with the taste villi to initiate the receptor potential is by binding of the taste chemical to a protein receptor molecule that lies on the outer surface of the taste receptor cell near to or protruding through a villus membrane."
+    },
+    {
+     "page": 647,
+     "text": "This, in turn, opens ion channels, which allows positively charged sodium ions or hydrogen ions to enter and depolarize the normal negativity of the cell."
+    },
+    {
+     "page": 647,
+     "text": "Then the taste chemical itself is gradually washed away from the taste villus by the saliva, which removes the stimulus."
+    },
+    {
+     "page": 647,
+     "text": "The type of receptor protein in each taste villus determines the type of taste that will be perceived."
+    },
+    {
+     "page": 647,
+     "text": "For sodium ions and hydrogen ions, which elicit salty and sour taste sensations, respectively, the receptor proteins open specific ion channels in the apical membranes of the taste cells, thereby activating the receptors."
+    },
+    {
+     "page": 647,
+     "text": "However, for the sweet and bitter taste sensations, the portions of the receptor protein molecules that protrude through the apical membranes activate second-messenger transmitter substances inside the taste cells, and these second messengers cause intracellular chemical changes that elicit the taste signals."
+    },
+    {
+     "page": 647,
+     "text": "On first application of the taste stimulus, the rate of discharge of the nerve fibers from taste buds rises to a peak in a small fraction of a second but then adapts within the next few seconds back to a lower, steady level as long as the taste stimulus remains."
+    },
+    {
+     "page": 647,
+     "text": "Thus, a strong immediate signal is transmitted by the taste nerve, and a weaker continuous signal is transmitted as long as the taste bud is exposed to the taste stimulus."
+    },
+    {
+     "page": 647,
+     "text": "Taste impulses from the anterior two thirds of the tongue pass first into the lingual nerve, then through the chorda tympani into the facial nerve, and finally into the tractus solitarius in the brain stem."
+    },
+    {
+     "page": 647,
+     "text": "Taste sensations from the circumvallate papillae on the back of the tongue and from other posterior regions of the mouth and throat are transmitted through the glossopharyngeal nerve also into the tractus solitarius, but at a slightly more posterior level."
+    },
+    {
+     "page": 647,
+     "text": "Finally, a few taste signals are transmitted into the tractus solitarius from the base of the tongue and other parts of the pharyngeal region by way of the vagus nerve."
+    },
+    {
+     "page": 647,
+     "text": "All taste fibers synapse in the posterior brain stem in the nuclei of the tractus solitarius."
+    },
+    {
+     "page": 648,
+     "text": "From the thalamus, third-order neurons are transmitted to the lower tip of the postcentral gyrus in the parietal cerebral cortex, where it curls deep into the sylvian fissure, and into the adjacent opercular insular area."
+    },
+    {
+     "page": 648,
+     "text": "This lies slightly lateral, ventral, and rostral to the area for tongue tactile signals in cerebral somatic area I."
+    },
+    {
+     "page": 648,
+     "text": "From this description of the taste pathways, it is evident that they closely parallel the somatosensory pathways from the tongue."
+    },
+    {
+     "page": 648,
+     "text": "From the tractus solitarius, many taste signals are transmitted within the brain stem itself directly into the superior and inferior salivatory nuclei, and these areas transmit signals to the submandibular, sublingual, and parotid glands to help control the secretion of saliva during the ingestion and digestion of food."
+    },
+    {
+     "page": 648,
+     "text": "Everyone is familiar with the fact that taste sensations adapt rapidly, often almost completely within a minute or so of continuous stimulation."
+    },
+    {
+     "page": 648,
+     "text": "Yet from electrophysiologic studies of taste nerve fibers, it is clear that adaptation of the taste buds themselves usually accounts for no more than about half of this."
+    },
+    {
+     "page": 648,
+     "text": "Therefore, the final extreme degree of adaptation that occurs in the sensation of taste almost certainly occurs in the central nervous system itself, although the mechanism and site of this are not known."
+    },
+    {
+     "page": 648,
+     "text": "At any rate, it is a mechanism different from that of most other sensory systems, which adapt almost entirely at the receptors."
+    },
+    {
+     "page": 648,
+     "text": "Taste Preference and Control of the Diet Taste preference simply means that an animal will choose certain types of food in preference to others, and the animal automatically uses this to help control the diet it eats."
+    },
+    {
+     "page": 648,
+     "text": "Furthermore, its taste preferences often change in accord with the body’s need for certain specific substances."
+    },
+    {
+     "page": 648,
+     "text": "The following experiments demonstrate this ability of animals to choose food in accord with the needs of their bodies."
+    },
+    {
+     "page": 648,
+     "text": "First, adrenalectomized, salt-depleted animals automatically select drinking water with a high concentration of sodium chloride in preference to pure water, and this is often sufficient to supply the needs of the body and prevent salt-depletion death."
+    },
+    {
+     "page": 648,
+     "text": "Second, an animal given injections of excessive amounts of insulin develops a depleted blood sugar, and the animal automatically chooses the sweetest food from among many samples."
+    },
+    {
+     "page": 648,
+     "text": "Third, calcium-depleted parathyroidectomized animals automatically choose drinking water with a high concentration of calcium chloride."
+    },
+    {
+     "page": 648,
+     "text": "The same phenomena are also observed in everyday life."
+    },
+    {
+     "page": 648,
+     "text": "For instance, the “salt licks” of desert regions are known to attract animals from far and wide."
+    },
+    {
+     "page": 648,
+     "text": "Also, human beings reject any food that has an unpleasant affective sensation, which in many instances protects our bodies from undesirable substances."
+    },
+    {
+     "page": 648,
+     "text": "The phenomenon of taste preference almost certainly results from some mechanism located in the central nervous system and not from a mechanism in the taste receptors themselves, although the receptors often become sensitized in favor of a needed nutrient."
+    },
+    {
+     "page": 648,
+     "text": "An important reason for believing that taste preference is mainly a central nervous system phenomenon is that previous experience with unpleasant or pleasant tastes plays a major role in determining one’s taste preferences."
+    },
+    {
+     "page": 648,
+     "text": "For instance, if a person becomes sick soon after eating a particular type of food, the person generally develops a negative taste preference, or taste aversion, for that particular food thereafter; the same effect can be demonstrated in lower animals."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_smell": {
+   "heading": "Sense of Smell",
+   "chapter": 53,
+   "found": true,
+   "page_start": 648,
+   "page_end": 648,
+   "sentences": [
+    {
+     "page": 648,
+     "text": "Smell is the least understood of our senses."
+    },
+    {
+     "page": 648,
+     "text": "This results partly from the fact that the sense of smell is a subjective phenomenon that cannot be studied with ease in lower animals."
+    },
+    {
+     "page": 648,
+     "text": "Another complicating problem is that the sense of smell is poorly developed in human beings in comparison with the sense of smell in many lower animals."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_smell_membrane": {
+   "heading": "Olfactory Membrane",
+   "chapter": 53,
+   "found": true,
+   "page_start": 648,
+   "page_end": 652,
+   "sentences": [
+    {
+     "page": 648,
+     "text": "Medially, the olfactory membrane folds downward along the surface of the superior septum; laterally, it folds over the superior turbinate and even over a small portion of the upper surface of the middle turbinate."
+    },
+    {
+     "page": 648,
+     "text": "In each nostril, the olfactory membrane has a surface area of about 2.4 square centimeters."
+    },
+    {
+     "page": 649,
+     "text": "The mucosal end of the olfactory cell forms a knob from which 4 to 25 olfactory hairs (also called olfactory cilia), measuring 0.3 micrometer in diameter and up to 200 micrometers in length, project into the mucus that coats the inner surface of the nasal cavity."
+    },
+    {
+     "page": 649,
+     "text": "These projecting olfactory cilia form a dense mat in the mucus, and it is these cilia that react to odors in the air and stimulate the olfactory cells, as discussed later."
+    },
+    {
+     "page": 649,
+     "text": "Spaced among the olfactory cells in the olfactory membrane are many small Bowman’s glands that secrete mucus onto the surface of the olfactory membrane."
+    },
+    {
+     "page": 649,
+     "text": "The odorant substance, on coming in contact with the olfactory membrane surface, first diffuses into the mucus that covers the cilia."
+    },
+    {
+     "page": 649,
+     "text": "Each receptor protein is actually a long molecule that threads its way through the membrane about seven times, folding inward and outward."
+    },
+    {
+     "page": 649,
+     "text": "The odorant binds with the portion of the receptor protein that folds to the outside."
+    },
+    {
+     "page": 649,
+     "text": "The inside of the folding protein, however, is coupled to a G-protein, itself a combination of three subunits."
+    },
+    {
+     "page": 649,
+     "text": "On excitation of the receptor protein, an alpha subunit breaks away from the G-protein and immediately activates adenylyl cyclase, which is attached to the inside of the ciliary membrane near the receptor cell body."
+    },
+    {
+     "page": 649,
+     "text": "The activated cyclase, in turn, converts many molecules of intracellular adenosine triphosphate this cAMP activates another nearby membrane protein, a gated sodium ion channel, that opens its “gate” and allows large numbers of sodium ions to pour through the membrane into the receptor cell cytoplasm."
+    },
+    {
+     "page": 649,
+     "text": "The sodium ions increase the electrical potential in the positive direction inside the cell membrane, thus exciting the olfactory neuron and transmitting action potentials into the central nervous system by way of the olfactory nerve."
+    },
+    {
+     "page": 649,
+     "text": "The importance of this mechanism for activating olfactory nerves is that it greatly multiplies the excitatory effect of even the weakest odorant."
+    },
+    {
+     "page": 649,
+     "text": "To summarize: (1) Activation of the receptor protein by the odorant substance activates the G-protein complex."
+    },
+    {
+     "page": 649,
+     "text": "(2) This, in turn, activates multiple molecules of adenylyl cyclase inside the olfactory cell membrane."
+    },
+    {
+     "page": 649,
+     "text": "(3) This causes the formation of many times more molecules of cAMP."
+    },
+    {
+     "page": 649,
+     "text": "(4) Finally, the cAMP opens still many times more sodium ion channels."
+    },
+    {
+     "page": 649,
+     "text": "Therefore, even the most minute concentration of a specific odorant initiates a cascading effect that opens extremely large numbers of sodium channels."
+    },
+    {
+     "page": 649,
+     "text": "This accounts for the exquisite sensitivity of the olfactory neurons to even the slightest amount of odorant."
+    },
+    {
+     "page": 649,
+     "text": "The cAMP activates a gated sodium channel that increases sodium influx and depolarizes the cell, exciting the olfactory neuron and transmitting action potentials to the central nervous system."
+    },
+    {
+     "page": 650,
+     "text": "First, only volatile substances that can be sniffed into the nostrils can be smelled."
+    },
+    {
+     "page": 650,
+     "text": "Second, the stimulating substance must be at least slightly water soluble so that it can pass through the mucus to reach the olfactory cilia."
+    },
+    {
+     "page": 650,
+     "text": "Third, it is helpful for the substance to be at least slightly lipid soluble, presumably because lipid constituents of the cilium itself are a weak barrier to nonlipid-soluble odorants."
+    },
+    {
+     "page": 650,
+     "text": "The membrane potential inside unstimulated olfactory cells, as measured by microelectrodes, averages about −55 millivolts."
+    },
+    {
+     "page": 650,
+     "text": "At this potential, most of the cells generate continuous action potentials at a very slow rate, varying from once every 20 seconds up to two or three per second."
+    },
+    {
+     "page": 650,
+     "text": "Most odorants cause depolarization of the olfactory cell membrane, decreasing the negative potential in the cell from the normal level of −55 millivolts to −30 millivolts or less—that is, changing the voltage in the positive direction."
+    },
+    {
+     "page": 650,
+     "text": "Along with this, the number of action potentials increases to 20 to 30 per second, which is a high rate for the minute olfactory nerve fibers."
+    },
+    {
+     "page": 650,
+     "text": "Over a wide range, the rate of olfactory nerve impulses changes approximately in proportion to the logarithm of the stimulus strength, which demonstrates that the olfactory receptors obey principles of transduction similar to those of other sensory receptors."
+    },
+    {
+     "page": 650,
+     "text": "Thereafter, they adapt very little and very slowly."
+    },
+    {
+     "page": 650,
+     "text": "Yet we all know from our own experience that smell sensations adapt almost to extinction within a minute or so after entering a strongly odorous atmosphere."
+    },
+    {
+     "page": 650,
+     "text": "Because this psychological adaptation is far greater than the degree of adaptation of the receptors themselves, it is almost certain that most of the additional adaptation occurs within the central nervous system."
+    },
+    {
+     "page": 650,
+     "text": "This seems to be true for the adaptation of taste sensations as well."
+    },
+    {
+     "page": 650,
+     "text": "A postulated neuronal mechanism for the adaptation is the following: Large numbers of centrifugal nerve fibers pass from the olfactory regions of the brain backward along the olfactory tract and terminate on special inhibitory cells in the olfactory bulb, the granule cells."
+    },
+    {
+     "page": 650,
+     "text": "It has been postulated that after the onset of an olfactory stimulus, the central nervous system quickly develops strong feedback inhibition to suppress relay of the smell signals through the olfactory bulb."
+    },
+    {
+     "page": 650,
+     "text": "Search for the Primary Sensations of Smell In the past, most physiologists were convinced that the many smell sensations are subserved by a few rather discrete primary sensations, in the same way that vision and taste are subserved by a few select primary sensations."
+    },
+    {
+     "page": 650,
+     "text": "On the basis of psychological studies, one attempt to classify these sensations is the following: It is certain that this list does not represent the true primary sensations of smell."
+    },
+    {
+     "page": 650,
+     "text": "In recent years, multiple clues, including specific studies of the genes that encode for the receptor proteins, suggest the existence of at least 100 primary sensations of smell—a marked contrast to only three primary sensations of color detected by the eyes and only four or five primary sensations of taste detected by the tongue."
+    },
+    {
+     "page": 650,
+     "text": "Some studies suggest that there may be as many as 1000 different types of odorant receptors."
+    },
+    {
+     "page": 650,
+     "text": "Further support for the many primary sensations of smell is that people have been found who have odor blindness for single substances; such discrete odor blindness has been identified for more than 50 different substances."
+    },
+    {
+     "page": 650,
+     "text": "It is presumed that odor blindness for each substance represents lack of the appropriate receptor protein in olfactory cells for that particular substance."
+    },
+    {
+     "page": 650,
+     "text": "Because of this, smell is probably even more important than taste for the selection of food."
+    },
+    {
+     "page": 650,
+     "text": "Indeed, a person who has previously eaten food that disagreed with him or her is often nauseated by the smell of that same food on a second occasion."
+    },
+    {
+     "page": 650,
+     "text": "Conversely, perfume of the right quality can be a powerful stimulant of human emotions."
+    },
+    {
+     "page": 650,
+     "text": "In addition, in some lower animals, odors are the primary excitant of sexual drive."
+    },
+    {
+     "page": 650,
+     "text": "One of the principal characteristics of smell is the minute quantity of stimulating agent in the air that can elicit a smell sensation."
+    },
+    {
+     "page": 650,
+     "text": "For instance, the substance methylmercaptan can be smelled when only one 25 trillionth of a gram is present in each milliliter of air."
+    },
+    {
+     "page": 650,
+     "text": "Because of this very low threshold, this substance is mixed with natural gas to give the gas an odor that can be detected when even small amounts of gas leak from a pipeline."
+    },
+    {
+     "page": 650,
+     "text": "Although the threshold concentrations of substances that evoke smell are extremely slight, for many (if not most) odorants, concentrations only 10 to 50 times above the threshold evoke maximum intensity of smell."
+    },
+    {
+     "page": 650,
+     "text": "This is in contrast to most other sensory systems of the body, in which the ranges of intensity discrimination are tremendous—for example, 500,000 to 1 in the case of the eyes and 1 trillion to 1 in the case of the ears."
+    },
+    {
+     "page": 650,
+     "text": "This difference might be explained by the fact that smell is concerned more with detecting the presence or absence of odors rather than with quantitative detection of their intensities."
+    },
+    {
+     "page": 651,
+     "text": "The olfactory portions of the brain were among the first brain structures developed in primitive animals, and much of the remainder of the brain developed around these olfactory beginnings."
+    },
+    {
+     "page": 651,
+     "text": "In fact, part of the brain that originally subserved olfaction later evolved into the basal brain structures that control emotions and other aspects of human behavior; this is the system we call the limbic system, discussed in Chapter 58."
+    },
+    {
+     "page": 651,
+     "text": "The olfactory nerve fibers leading backward from the bulb are called cranial nerve I, or the olfactory tract."
+    },
+    {
+     "page": 651,
+     "text": "However, in reality, both the tract and the bulb are an anterior outgrowth of brain tissue from the base of the brain; the bulbous enlargement at its end, the olfactory bulb, lies over the cribriform plate, separating the brain cavity from the upper reaches of the nasal cavity."
+    },
+    {
+     "page": 651,
+     "text": "The cribriform plate has multiple small perforations through which an equal number of small nerves pass upward from the olfactory membrane in the nasal cavity to enter the olfactory bulb in the cranial cavity."
+    },
+    {
+     "page": 651,
+     "text": "Each bulb has several thousand such glomeruli, each of which is the terminus for about 25,000 axons from olfactory cells."
+    },
+    {
+     "page": 651,
+     "text": "Each glomerulus also is the terminus for dendrites from about 25 large mitral cells and about 60 smaller tufted cells, the cell bodies of which lie in the olfactory bulb superior to the glomeruli."
+    },
+    {
+     "page": 651,
+     "text": "These dendrites receive synapses from the olfactory cell neurons, and the mitral and tufted cells send axons through the olfactory tract to transmit olfactory signals to higher levels in the central nervous system."
+    },
+    {
+     "page": 651,
+     "text": "Some research has suggested that different glomeruli respond to different odors."
+    },
+    {
+     "page": 651,
+     "text": "It is possible that specific glomeruli are the real clue to the analysis of different odor signals transmitted into the central nervous system."
+    },
+    {
+     "page": 651,
+     "text": "The medial olfactory area represents a very old olfactory system, whereas the lateral olfactory area is the input to (1) a less old olfactory system and (2) a newer system."
+    },
+    {
+     "page": 651,
+     "text": "The medial olfactory area consists of a group of nuclei located in the midbasal portions of the brain immediately anterior to the hypothalamus."
+    },
+    {
+     "page": 651,
+     "text": "Most conspicuous are the septal nuclei, which are midline nuclei that feed into the hypothalamus and other primitive portions of the brain’s limbic system."
+    },
+    {
+     "page": 651,
+     "text": "This is the brain area most concerned with basic behavior (described in Chapter 58)."
+    },
+    {
+     "page": 651,
+     "text": "The importance of this medial olfactory area is best understood by considering what happens in animals when the lateral olfactory areas on both sides of the brain are removed and only the medial system remains."
+    },
+    {
+     "page": 651,
+     "text": "The answer is that this hardly affects the more primitive responses to olfaction, such as licking the lips, salivation, and other feeding responses caused by the smell of food or by primitive emotional drives associated with smell."
+    },
+    {
+     "page": 651,
+     "text": "Conversely, removal of the lateral areas abolishes the more complicated olfactory conditioned reflexes."
+    },
+    {
+     "page": 651,
+     "text": "From these areas, signal pathways pass into almost all portions of the limbic system, especially into less primitive portions such as the hippocampus, which seem to be most important for learning to like or dislike certain foods depending on one’s experiences with them."
+    },
+    {
+     "page": 651,
+     "text": "For instance, it is believed that this lateral olfactory area and its many connections with the limbic behavioral system cause a person to develop an absolute aversion to foods that have caused nausea and vomiting."
+    },
+    {
+     "page": 651,
+     "text": "An important feature of the lateral olfactory area is that many signal pathways from this area also feed directly into an older part of the cerebral cortex called the paleocortex in the anteromedial portion of the temporal lobe."
+    },
+    {
+     "page": 651,
+     "text": "This is the only area of the entire cerebral cortex where sensory signals pass directly to the cortex without passing first through the thalamus."
+    },
+    {
+     "page": 651,
+     "text": "A newer olfactory pathway that passes through the thalamus, passing to the dorsomedial thalamic nucleus and then to the lateroposterior quadrant of the orbitofrontale cortex, has been found."
+    },
+    {
+     "page": 651,
+     "text": "On the basis of studies in monkeys, this newer system probably helps in the conscious analysis of odor."
+    },
+    {
+     "page": 652,
+     "text": "Thus, there appear to be a very old olfactory system that subserves the basic olfactory reflexes, a less old system that provides automatic but partially learned control of food intake and aversion to toxic and unhealthy foods, and a newer system that is comparable to most of the other cortical sensory systems and is used for conscious perception and analysis of olfaction."
+    },
+    {
+     "page": 652,
+     "text": "These terminate on a large number of small granule cells located among the mitral and tufted cells in the olfactory bulb."
+    },
+    {
+     "page": 652,
+     "text": "The granule cells send inhibitory signals to the mitral and tufted cells."
+    },
+    {
+     "page": 652,
+     "text": "It is believed that this inhibitory feedback might be a means for sharpening one’s specific ability to distinguish one odor from another."
+    },
+    {
+     "page": 652,
+     "text": "Chandrashekar J, Hoon MA, Ryba NJ, et al: The receptors and cells for mammalian taste, Nature 444:288, 2006."
+    },
+    {
+     "page": 652,
+     "text": "Frank ME, Lundy RF Jr, Contreras RJ: Cracking taste codes by tapping into sensory neuron impulse traffic, Prog Neurobiol 86:245, 2008."
+    },
+    {
+     "page": 652,
+     "text": "Gaillard D, Passilly-Degrace P, Besnard P: Molecular mechanisms of fat preference and overeating, Ann N Y Acad Sci 1141:163, 2008."
+    },
+    {
+     "page": 652,
+     "text": "Housley GD, Bringmann A, Reichenbach A: Purinergic signaling in special senses, Trends Neurosci 32:128, 2009."
+    },
+    {
+     "page": 652,
+     "text": "Keller A, Vosshall LB: Better smelling through genetics: mammalian odor perception, Curr Opin Neurobiol 18:364, 2008."
+    },
+    {
+     "page": 652,
+     "text": "Lowe G: Electrical signaling in the olfactory bulb, Curr Opin Neurobiol 13:476, 2003."
+    },
+    {
+     "page": 652,
+     "text": "Mandairon N, Linster C: Odor perception and olfactory bulb plasticity in adult mammals, J Neurophysiol 101:2204, 2009."
+    },
+    {
+     "page": 652,
+     "text": "Margolskee RF: Molecular mechanisms of bitter and sweet taste transduction, J Biol Chem 277:1, 2002."
+    },
+    {
+     "page": 652,
+     "text": "Matthews HR, Reisert J: Calcium, the two-faced messenger of olfactory transduction and adaptation, Curr Opin Neurobiol 13:469, 2003."
+    },
+    {
+     "page": 652,
+     "text": "Menini A, Lagostena L, Boccaccio A: Olfaction: from odorant molecules to the olfactory cortex, News Physiol Sci 19:101, 2004."
+    },
+    {
+     "page": 652,
+     "text": "Mombaerts P: Genes and ligands for odorant, vomeronasal and taste receptors, Nat Rev Neurosci 5:263, 2004."
+    },
+    {
+     "page": 652,
+     "text": "Montmayeur JP, Matsunami H: Receptors for bitter and sweet taste, Curr Opin Neurobiol 12:366, 2002."
+    },
+    {
+     "page": 652,
+     "text": "Mori K, Takahashi YK, Igarashi KM, et al: Maps of odorant molecular features in the mammalian olfactory bulb, Physiol Rev 86:409, 2006."
+    },
+    {
+     "page": 652,
+     "text": "Nei M, Niimura Y, Nozawa M: The evolution of animal chemosensory receptor gene repertoires: roles of chance and necessity, Nat Rev Genet 9:951, 2008."
+    },
+    {
+     "page": 652,
+     "text": "Roper SD: Signal transduction and information processing in mammalian taste buds, Pflugers Arch 454:759, 2007."
+    },
+    {
+     "page": 652,
+     "text": "Simon SA, de Araujo IE, Gutierrez R, et al: The neural mechanisms of 2006."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_sensory_paths": {
+   "heading": "Sensory Pathways for Transmitting Somatic",
+   "chapter": 47,
+   "found": true,
+   "page_start": 573,
+   "page_end": 582,
+   "sentences": [
+    {
+     "page": 573,
+     "text": "Signals into the Central Nervous System Almost all sensory information from the somatic segments of the body enters the spinal cord through the dorsal roots of the spinal nerves."
+    },
+    {
+     "page": 573,
+     "text": "However, from the entry point into the cord and then to the brain, the sensory signals are carried through one of two alternative sensory pathways: (1) the dorsal column–medial lemniscal system or (2) the anterolateral system."
+    },
+    {
+     "page": 573,
+     "text": "These two systems come back together partially at the level of the thalamus."
+    },
+    {
+     "page": 573,
+     "text": "The dorsal column–medial lemniscal system, as its name implies, carries signals upward to the medulla of the brain mainly in the dorsal columns of the cord."
+    },
+    {
+     "page": 573,
+     "text": "Then, after the signals synapse and cross to the opposite side in the medulla, they continue upward through the brain stem to the thalamus by way of the medial lemniscus."
+    },
+    {
+     "page": 573,
+     "text": "Conversely, signals in the anterolateral system, immediately after entering the spinal cord from the dorsal spinal nerve roots, synapse in the dorsal horns of the spinal gray matter, then cross to the opposite side of the cord and ascend through the anterior and lateral white columns of the cord."
+    },
+    {
+     "page": 573,
+     "text": "They terminate at all levels of the lower brain stem and in the thalamus."
+    },
+    {
+     "page": 573,
+     "text": "The dorsal column–medial lemniscal system is composed of large, myelinated nerve fibers that transmit signals to the brain at velocities of 30 to 110 m/sec, whereas the anterolateral system is composed of smaller myelinated fibers that transmit signals at velocities ranging from a few meters per second up to 40 m/sec."
+    },
+    {
+     "page": 573,
+     "text": "Another difference between the two systems is that the dorsal column–medial lemniscal system has a high degree of spatial orientation of the nerve fibers with respect to their origin, while the anterolateral system has much less spatial orientation."
+    },
+    {
+     "page": 573,
+     "text": "These differences immediately characterize the types of sensory information that can be transmitted by the two systems."
+    },
+    {
+     "page": 573,
+     "text": "That is, sensory information that must be transmitted rapidly and with temporal and spatial fidelity is transmitted mainly in the dorsal column–medial lemniscal system; that which does not need to be transmitted rapidly or with great spatial fidelity is transmitted mainly in the anterolateral system."
+    },
+    {
+     "page": 573,
+     "text": "The anterolateral system has a special capability that the dorsal system does not have: the ability to transmit a broad spectrum of sensory modalities—pain, warmth, cold, and crude tactile sensations; most of these are discussed in detail in Chapter 48."
+    },
+    {
+     "page": 573,
+     "text": "The dorsal system is limited to discrete types of mechanoreceptive sensations."
+    },
+    {
+     "page": 573,
+     "text": "With this differentiation in mind, we can now list the types of sensations transmitted in the two systems."
+    },
+    {
+     "page": 573,
+     "text": "Touch sensations requiring a high degree of localization of the stimulus 2."
+    },
+    {
+     "page": 573,
+     "text": "Touch sensations requiring transmission of fine grada4."
+    },
+    {
+     "page": 573,
+     "text": "Sensations that signal movement against the skin 5."
+    },
+    {
+     "page": 573,
+     "text": "Position sensations from the joints 6."
+    },
+    {
+     "page": 573,
+     "text": "Pressure sensations related to fine degrees of judgment of 2."
+    },
+    {
+     "page": 573,
+     "text": "Thermal sensations, including both warmth and cold sensations 3."
+    },
+    {
+     "page": 574,
+     "text": "The medial branch turns medially first and then upward in the dorsal column, proceeding by way of the dorsal column pathway all the way to the brain."
+    },
+    {
+     "page": 574,
+     "text": "The lateral branch enters the dorsal horn of the cord gray matter, then divides many times to provide terminals that synapse with local neurons in the intermediate and anterior portions of the cord gray matter."
+    },
+    {
+     "page": 574,
+     "text": "These local neurons in turn serve three functions: (1) A major share of them give off fibers that enter the dorsal columns of the cord and then travel upward to the brain."
+    },
+    {
+     "page": 574,
+     "text": "(2) Many of the fibers are very short and terminate locally in the spinal cord gray matter to elicit local spinal cord reflexes, which are discussed in Chapter 54."
+    },
+    {
+     "page": 574,
+     "text": "(3) Others give rise to the spinocerebellar tracts, which we discuss in Chapter 56 in relation to the function of the cerebellum."
+    },
+    {
+     "page": 574,
+     "text": "From there, second-order neurons decussate immediately to the opposite side of the brain stem and continue upward through the medial lemnisci to the thalamus."
+    },
+    {
+     "page": 574,
+     "text": "In this pathway through the brain stem, each medial lemniscus is joined by additional fibers from the sensory nuclei of the trigeminal nerve; these fibers subserve the same sensory functions for the head that the dorsal column fibers subserve for the body."
+    },
+    {
+     "page": 574,
+     "text": "In the thalamus, the medial lemniscal fibers terminate in the thalamic sensory relay area, called the ventrobasal complex."
+    },
+    {
+     "page": 574,
+     "text": "One of the distinguishing features of the dorsal column– medial lemniscal system is a distinct spatial orientation of nerve fibers from the individual parts of the body that is maintained throughout."
+    },
+    {
+     "page": 574,
+     "text": "For instance, in the dorsal columns of the spinal cord, the fibers from the lower parts of the body lie toward the center of the cord, whereas those that enter the cord at progressively higher segmental levels form successive layers laterally."
+    },
+    {
+     "page": 574,
+     "text": "In the thalamus, distinct spatial orientation is still maintained, with the tail end of the body represented by the most lateral portions of the ventrobasal complex and the head and face represented by the medial areas of the complex."
+    },
+    {
+     "page": 574,
+     "text": "Because of the crossing of the medial lemnisci in the medulla, the left side of the body is represented in the right side of the thalamus, and the right side of the body in the left side of the thalamus."
+    },
+    {
+     "page": 574,
+     "text": "Before discussing the role of the cerebral cortex in somatic sensation, we need to give an orientation to the various areas of the cortex."
+    },
+    {
+     "page": 575,
+     "text": "Note in the figure the large central fissure (also called central sulcus) that extends horizontally across the brain."
+    },
+    {
+     "page": 575,
+     "text": "In general, sensory signals from all modalities of sensation terminate in the cerebral cortex immediately posterior to the central fissure."
+    },
+    {
+     "page": 575,
+     "text": "And, generally, the anterior half of the parietal lobe is concerned almost entirely with reception and interpretation of somatosensory signals."
+    },
+    {
+     "page": 575,
+     "text": "But the posterior half of the parietal lobe provides still higher levels of interpretation."
+    },
+    {
+     "page": 575,
+     "text": "Visual signals terminate in the occipital lobe, and auditory signals terminate in the temporal lobe."
+    },
+    {
+     "page": 575,
+     "text": "Conversely, that portion of the cerebral cortex anterior to the central fissure and constituting the posterior half of the frontal lobe is called the motor cortex and is devoted almost entirely to control of muscle contractions and body movements."
+    },
+    {
+     "page": 575,
+     "text": "A major share of this motor control is in response to somatosensory signals received from the sensory portions of the cortex, which keep the motor cortex informed at each instant about the positions and motions of the different body parts."
+    },
+    {
+     "page": 575,
+     "text": "The reason for this division into two areas is that a distinct and separate spatial orientation of the different parts of the body is found in each of these two areas."
+    },
+    {
+     "page": 575,
+     "text": "However, somatosensory area I is so much more extensive and so much more important than somatosensory area II that in popular usage, the term “somatosensory cortex” almost always means area I."
+    },
+    {
+     "page": 575,
+     "text": "By contrast, localization is poor in somatosensory area II, although roughly, the face is represented anteriorly, the arms centrally, and the legs posteriorly."
+    },
+    {
+     "page": 575,
+     "text": "Little is known about the function of somatosensory area II."
+    },
+    {
+     "page": 575,
+     "text": "It is known that signals enter this area from the brain stem, transmitted upward from both sides of the body."
+    },
+    {
+     "page": 575,
+     "text": "In addition, many signals come secondarily from somatosensory area I, as well as from other sensory areas of the brain, even from the visual and auditory areas."
+    },
+    {
+     "page": 575,
+     "text": "Projections from somatosensory area I are required for function of somatosensory area II."
+    },
+    {
+     "page": 575,
+     "text": "However, removal of parts of somatosensory area II has no apparent effect on the response of neurons in somatosensory area I."
+    },
+    {
+     "page": 575,
+     "text": "Thus, much of what we know about somatic sensation appears to be explained by the functions of somatosensory area I."
+    },
+    {
+     "page": 576,
+     "text": "Note, however, that each lateral side of the cortex receives sensory information almost exclusively from the opposite side of the body."
+    },
+    {
+     "page": 576,
+     "text": "Some areas of the body are represented by large areas in the somatic cortex—the lips the greatest of all, followed by the face and thumb—whereas the trunk and lower part of the body are represented by relatively small areas."
+    },
+    {
+     "page": 576,
+     "text": "The sizes of these areas are directly proportional to the number of specialized sensory receptors in each respective peripheral area of the body."
+    },
+    {
+     "page": 576,
+     "text": "For instance, a great number of specialized nerve endings are found in the lips and thumb, whereas only a few are present in the skin of the body trunk."
+    },
+    {
+     "page": 576,
+     "text": "Note also that the head is represented in the most lateral portion of somatosensory area I, and the lower part of the body is represented medially."
+    },
+    {
+     "page": 576,
+     "text": "As would be expected, the neurons in each layer perform functions different from those in other layers."
+    },
+    {
+     "page": 576,
+     "text": "Some of these functions are: 1."
+    },
+    {
+     "page": 576,
+     "text": "The incoming sensory signal excites neuronal layer IV first; then the signal spreads toward the surface of the cortex and also toward deeper layers."
+    },
+    {
+     "page": 576,
+     "text": "Layers I and II receive diffuse, nonspecific input signals from lower brain centers that facilitate specific regions of the cortex; this system is described in Chapter 57."
+    },
+    {
+     "page": 576,
+     "text": "This input mainly controls the overall level of excitability of the respective regions stimulated."
+    },
+    {
+     "page": 576,
+     "text": "The neurons in layers II and III send axons to related portions of the cerebral cortex on the opposite side of the brain through the corpus callosum."
+    },
+    {
+     "page": 576,
+     "text": "The neurons in layers V and VI send axons to the deeper parts of the nervous system."
+    },
+    {
+     "page": 576,
+     "text": "Those in layer V are generally larger and project to more distant areas, such as to the basal ganglia, brain stem, and spinal cord, where they control signal transmission."
+    },
+    {
+     "page": 576,
+     "text": "From layer VI, especially large numbers of axons extend to the thalamus, providing signals from the cerebral cortex that interact with and help to control the excitatory levels of incoming sensory signals entering the thalamus."
+    },
+    {
+     "page": 576,
+     "text": "Philadelphia: Functionally, the neurons of the somatosensory cortex are arranged in vertical columns extending all the way through the six layers of the cortex, each column having a diameter of 0.3 to 0.5 millimeter and containing perhaps 10,000 neuronal cell bodies."
+    },
+    {
+     "page": 576,
+     "text": "Each of these columns serves a single specific sensory modality, some columns responding to stretch receptors around joints, some to stimulation of tactile hairs, others to discrete localized pressure points on the skin, and so forth."
+    },
+    {
+     "page": 576,
+     "text": "At layer IV, where the input sensory signals first enter the cortex, the columns of neurons function almost entirely separately from one another."
+    },
+    {
+     "page": 576,
+     "text": "At other levels of the columns, interactions occur that initiate analysis of the meanings of the sensory signals."
+    },
+    {
+     "page": 577,
+     "text": "In the most anterior 5 to 10 millimeters of the postcentral gyrus, located deep in the central fissure in Brodmann’s area 3a, an especially large share of the vertical columns respond to muscle, tendon, and joint stretch receptors."
+    },
+    {
+     "page": 577,
+     "text": "Many of the signals from these sensory columns then spread anteriorly, directly to the motor cortex located immediately forward of the central fissure."
+    },
+    {
+     "page": 577,
+     "text": "These signals play a major role in controlling the effluent motor signals that activate sequences of muscle contraction."
+    },
+    {
+     "page": 577,
+     "text": "As one moves posteriorly in somatosensory area I, more and more of the vertical columns respond to slowly adapting cutaneous receptors, and then still farther posteriorly, greater numbers of the columns are sensitive to deep pressure."
+    },
+    {
+     "page": 577,
+     "text": "In the most posterior portion of somatosensory area I, about 6 percent of the vertical columns respond only when a stimulus moves across the skin in a particular direction."
+    },
+    {
+     "page": 577,
+     "text": "Thus, this is a still higher order of interpretation of sensory signals; the process becomes even more complex as the signals spread farther backward from somatosensory area I into the parietal cortex, an area called the somatosensory association area, as we discuss subsequently."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to localize discretely the different sensations in the different parts of the body."
+    },
+    {
+     "page": 577,
+     "text": "However, he or she can localize these sensations crudely, such as to a particular hand, to a major level of the body trunk, or to one of the legs."
+    },
+    {
+     "page": 577,
+     "text": "Thus, it is clear that the brain stem, thalamus, or parts of the cerebral cortex not normally considered to be concerned with somatic sensations can perform some degree of localization."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to judge critical degrees of pressure against the body."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to judge the weights of objects."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to judge shapes or forms of objects."
+    },
+    {
+     "page": 577,
+     "text": "This is called astereognosis."
+    },
+    {
+     "page": 577,
+     "text": "The person is unable to judge texture of materials because this type of judgment depends on highly critical sensations caused by movement of the fingers over the surface to be judged."
+    },
+    {
+     "page": 577,
+     "text": "Note that in the list nothing has been said about loss of pain and temperature sense."
+    },
+    {
+     "page": 577,
+     "text": "In specific absence of only somatosensory area I, appreciation of these sensory modalities is still preserved both in quality and intensity."
+    },
+    {
+     "page": 577,
+     "text": "But the sensations are poorly localized, indicating that pain and temperature localization depend greatly on the topographical map of the body in somatosensory area I to localize the source."
+    },
+    {
+     "page": 577,
+     "text": "Therefore, these areas are called somatosensory association areas."
+    },
+    {
+     "page": 577,
+     "text": "Electrical stimulation in a somatosensory association area can occasionally cause an awake person to experience a complex body sensation, sometimes even the “feeling” of an object such as a knife or a ball."
+    },
+    {
+     "page": 577,
+     "text": "Therefore, it seems clear that the somatosensory association area combines information arriving from multiple points in the primary somatosensory area to decipher its meaning."
+    },
+    {
+     "page": 577,
+     "text": "This also fits with the anatomical arrangement of the neuronal tracts that enter the somatosensory association area because it receives signals from (1) somatosensory area I, (2) the ventrobasal nuclei of the thalamus, (3) other areas of the thalamus, (4) the visual cortex, and (5) the auditory cortex."
+    },
+    {
+     "page": 577,
+     "text": "In addition, he or she loses most of the sense of form of his or her own body or body parts on the opposite side."
+    },
+    {
+     "page": 577,
+     "text": "In fact, the person is mainly oblivious to the opposite side of the body—that is, forgets that it is there."
+    },
+    {
+     "page": 577,
+     "text": "Therefore, he or she also often forgets to use the other side for motor functions as well."
+    },
+    {
+     "page": 577,
+     "text": "Likewise, when feeling objects, the person tends to recognize only one side of the object and forgets that the other side even exists."
+    },
+    {
+     "page": 577,
+     "text": "This complex sensory deficit is called amorphosynthesis."
+    },
+    {
+     "page": 577,
+     "text": "The upper curves of the figure show that the cortical neurons that discharge to the greatest extent are those in a central part of the cortical “field” for each respective receptor."
+    },
+    {
+     "page": 577,
+     "text": "Thus, a weak stimulus causes only the centralmost neurons to fire."
+    },
+    {
+     "page": 577,
+     "text": "A stronger stimulus causes still more neurons to fire, but those in the center discharge at a considerably more rapid rate than do those farther away from the center."
+    },
+    {
+     "page": 578,
+     "text": "A method frequently used to test tactile discrimination is to determine a person’s so-called “two-point” discriminatory ability."
+    },
+    {
+     "page": 578,
+     "text": "In this test, two needles are pressed lightly against the skin at the same time, and the person determines whether two points of stimulus are felt or one point."
+    },
+    {
+     "page": 578,
+     "text": "On the tips of the fingers, a person can normally distinguish two separate points even when the needles are as close together as 1 to 2 millimeters."
+    },
+    {
+     "page": 578,
+     "text": "However, on the person’s back, the needles must usually be as far apart as 30 to 70 millimeters before two separate points can be detected."
+    },
+    {
+     "page": 578,
+     "text": "The reason for this difference is the different numbers of specialized tactile receptors in the two areas."
+    },
+    {
+     "page": 578,
+     "text": "This figure shows two adjacent points on the skin that are strongly stimulated, as well as the areas of the somatosensory cortex (greatly enlarged) that are excited by signals from the two stimulated points."
+    },
+    {
+     "page": 578,
+     "text": "The blue curve shows the spatial pattern of cortical excitation when both skin points are stimulated simultaneously."
+    },
+    {
+     "page": 578,
+     "text": "Note that the resultant zone of excitation has two separate peaks."
+    },
+    {
+     "page": 578,
+     "text": "These two peaks, separated by a valley, allow the sensory cortex to detect the presence of two stimulatory points, rather than a single point."
+    },
+    {
+     "page": 578,
+     "text": "The capability of the sensorium to distinguish this presence of two points of stimulation is strongly influenced by another mechanism, lateral inhibition, as explained in the next section."
+    },
+    {
+     "page": 578,
+     "text": "For instance, consider an excited neuron in a dorsal column nucleus."
+    },
+    {
+     "page": 578,
+     "text": "Aside from the central excitatory signal, short lateral pathways transmit inhibitory signals to the surrounding neurons."
+    },
+    {
+     "page": 578,
+     "text": "That is, these signals pass through additional interneurons that secrete an inhibitory transmitter."
+    },
+    {
+     "page": 578,
+     "text": "The importance of lateral inhibition is that it blocks lateral spread of the excitatory signals and, therefore, increases the degree of contrast in the sensory pattern perceived in the cerebral cortex."
+    },
+    {
+     "page": 578,
+     "text": "In the case of the dorsal column system, lateral inhibitory signals occur at each synaptic level—for instance, in (1) the dorsal column nuclei of the medulla, (2) the ventrobasal nuclei of the thalamus, and (3) the cortex itself."
+    },
+    {
+     "page": 578,
+     "text": "At each of these levels, the lateral inhibition helps to block lateral spread of the excitatory signal."
+    },
+    {
+     "page": 578,
+     "text": "The blue curve represents the pattern of cortical stimulation without “surround” inhibition, and the two red curves represent the pattern when “surround” inhibition does occur."
+    },
+    {
+     "page": 579,
+     "text": "The dorsal column system is also of particular importance in apprising the sensorium of rapidly changing peripheral conditions."
+    },
+    {
+     "page": 579,
+     "text": "Based on recorded action potentials, this system can recognize changing stimuli that occur in as little as 1/400 of a second."
+    },
+    {
+     "page": 579,
+     "text": "Vibratory signals are rapidly repetitive and can be detected as vibration up to 700 cycles per second."
+    },
+    {
+     "page": 579,
+     "text": "The higher-frequency vibratory signals originate from the pacinian corpuscles in the skin and deeper tissues, but lower-frequency signals (below about 200 per second) can originate from Meissner’s corpuscles as well."
+    },
+    {
+     "page": 579,
+     "text": "These signals are transmitted only in the dorsal column pathway."
+    },
+    {
+     "page": 579,
+     "text": "For this reason, application of vibration (e.g., from a “tuning fork”) to different peripheral parts of the body is an important tool used by neurologists for testing functional integrity of the dorsal columns."
+    },
+    {
+     "page": 579,
+     "text": "The ultimate goal of most sensory stimulation is to apprise the psyche of the state of the body and its surroundings."
+    },
+    {
+     "page": 579,
+     "text": "Therefore, it is important that we discuss briefly some of the principles related to transmission of sensory stimulus intensity to the higher levels of the nervous system."
+    },
+    {
+     "page": 579,
+     "text": "One question that comes to mind is, how is it possible for the sensory system to transmit sensory experiences of tremendously varying intensities?"
+    },
+    {
+     "page": 579,
+     "text": "For instance, the auditory system can detect the weakest possible whisper but can also discern the meanings of an explosive sound, even though the sound intensities of these two experiences can vary more than 10 billion times; the eyes can see visual images with light intensities that vary as much as a half million times; and the skin can detect pressure differences of 10,000 to 100,000 times."
+    },
+    {
+     "page": 579,
+     "text": "As a partial explanation of these effects, Figure 46-4 in the previous chapter shows the relation of the receptor potential produced by the pacinian corpuscle to the intensity of the sensory stimulus."
+    },
+    {
+     "page": 579,
+     "text": "At low stimulus intensity, slight changes in intensity increase the potential markedly, whereas at high levels of stimulus intensity, further increases in receptor potential are slight."
+    },
+    {
+     "page": 579,
+     "text": "Thus, the pacinian corpuscle is capable of accurately measuring extremely minute changes in stimulus at low-intensity levels, but at high-intensity levels, the change in stimulus must be much greater to cause the same amount of change in receptor potential."
+    },
+    {
+     "page": 579,
+     "text": "The transduction mechanism for detecting sound by the cochlea of the ear demonstrates still another method for separating gradations of stimulus intensity."
+    },
+    {
+     "page": 579,
+     "text": "When sound stimulates a specific point on the basilar membrane, weak sound stimulates only those hair cells at the point of maximum sound vibration."
+    },
+    {
+     "page": 579,
+     "text": "But as the sound intensity increases, many more hair cells in each direction farther away from the maximum vibratory point also become stimulated."
+    },
+    {
+     "page": 579,
+     "text": "Thus, signals are transmitted over progressively increasing numbers of nerve fibers, which is another mechanism by which stimulus intensity is transmitted to the central nervous system."
+    },
+    {
+     "page": 579,
+     "text": "This mechanism, plus the direct effect of stimulus intensity on impulse rate in each nerve fiber, as well as several other mechanisms, makes it possible for some sensory systems to operate reasonably faithfully at stimulus intensity levels changing as much as millions of times."
+    },
+    {
+     "page": 579,
+     "text": "Were it not for the tremendous intensity range of sensory reception that we can experience, the various sensory systems would more often than not be operating in the wrong range."
+    },
+    {
+     "page": 579,
+     "text": "This is demonstrated by the attempts of most people, when taking photographs with a camera, to adjust the light exposure without using a light meter."
+    },
+    {
+     "page": 579,
+     "text": "Left to intuitive judgment of light intensity, a person almost always overexposes the film on bright days and greatly underexposes the film at twilight."
+    },
+    {
+     "page": 579,
+     "text": "Yet that person’s own eyes are capable of discriminating with great detail visual objects in bright sunlight or at twilight; the camera cannot do this without very special manipulation because of the narrow critical range of light intensity required for proper exposure of film."
+    },
+    {
+     "page": 579,
+     "text": "In the mid-1800s, Weber first and Fechner later proposed the principle that gradations of stimulus strength are discriminated approximately in proportion to the logarithm of stimulus strength."
+    },
+    {
+     "page": 579,
+     "text": "That is, a person already holding 30 grams weight in his or her hand can barely detect an additional 1-gram increase in weight."
+    },
+    {
+     "page": 579,
+     "text": "And, when already holding 300 grams, he or she can barely detect a 10-gram increase in weight."
+    },
+    {
+     "page": 579,
+     "text": "Thus, in this instance, the ratio of the change in stimulus strength required for detection remains essentially constant, about 1 to 30, which is what the logarithmic principle means."
+    },
+    {
+     "page": 579,
+     "text": "To express this mathematically."
+    },
+    {
+     "page": 579,
+     "text": "More recently, it has become evident that the WeberFechner principle is quantitatively accurate only for higher intensities of visual, auditory, and cutaneous sensory experience and applies only poorly to most other types of sensory experience."
+    },
+    {
+     "page": 579,
+     "text": "Yet the Weber-Fechner principle is still a good one to remember because it emphasizes that the greater the background sensory intensity, the greater an additional change must be for the psyche to detect the change."
+    },
+    {
+     "page": 579,
+     "text": "Another attempt by physiopsychologists to find a good mathematical relation is the following formula, known as the power law."
+    },
+    {
+     "page": 579,
+     "text": "In this formula, the exponent y and the constants K and k are different for each type of sensation."
+    },
+    {
+     "page": 580,
+     "text": "The position senses are frequently also called proprioceptive senses."
+    },
+    {
+     "page": 580,
+     "text": "They can be divided into two subtypes: (1) static position sense, which means conscious perception of the orientation of the different parts of the body with respect to one another, and (2) rate of movement sense, also called kinesthesia or dynamic proprioception."
+    },
+    {
+     "page": 580,
+     "text": "Knowledge of position, both static and dynamic, depends on knowing the degrees of angulation of all joints in all planes and their rates of change."
+    },
+    {
+     "page": 580,
+     "text": "Therefore, multiple different types of receptors help to determine joint angulation and are used together for position sense."
+    },
+    {
+     "page": 580,
+     "text": "Both skin tactile receptors and deep receptors near the joints are used."
+    },
+    {
+     "page": 580,
+     "text": "In the case of the fingers, where skin receptors are in great abundance, as much as half of position recognition is believed to be detected through the skin receptors."
+    },
+    {
+     "page": 580,
+     "text": "Conversely, for most of the larger joints of the body, deep receptors are more important."
+    },
+    {
+     "page": 580,
+     "text": "For determining joint angulation in midranges of motion, among the most important receptors are the muscle spindles."
+    },
+    {
+     "page": 580,
+     "text": "They are also exceedingly important in helping to control muscle movement, as we shall see in Chapter 54."
+    },
+    {
+     "page": 580,
+     "text": "When the angle of a joint is changing, some muscles are being stretched while others are loosened, and the net stretch information from the spindles is transmitted into the computational system of the spinal cord and higher regions of the dorsal column system for deciphering joint angulations."
+    },
+    {
+     "page": 580,
+     "text": "At the extremes of joint angulation, stretch of the ligaments and deep tissues around the joints is an additional important factor in determining position."
+    },
+    {
+     "page": 580,
+     "text": "Types of sensory endings used for this are the pacinian corpuscles, Ruffini’s endings, and receptors similar to the Golgi tendon receptors found in muscle tendons."
+    },
+    {
+     "page": 580,
+     "text": "The pacinian corpuscles and muscle spindles are especially adapted for detecting rapid rates of change."
+    },
+    {
+     "page": 580,
+     "text": "It is likely that these are the receptors most responsible for detecting rate of movement."
+    },
+    {
+     "page": 580,
+     "text": "Thus, the signals from the individual joint receptors are used to tell the psyche how much each joint is rotated."
+    },
+    {
+     "page": 580,
+     "text": "The anterolateral pathway for transmitting sensory signals up the spinal cord and into the brain, in contrast to the dorsal column pathway, transmits sensory signals that do not require highly discrete localization of the signal source and do not require discrimination of fine gradations of intensity."
+    },
+    {
+     "page": 580,
+     "text": "These types of signals include pain, heat, cold, crude tactile, tickle, itch, and sexual sensations."
+    },
+    {
+     "page": 580,
+     "text": "In Chapter 48, pain and temperature sensations are discussed specifically."
+    },
+    {
+     "page": 580,
+     "text": "These laminae are where many of the dorsal root sensory nerve fibers terminate after entering the cord."
+    },
+    {
+     "page": 581,
+     "text": "In general, the tactile signals are transmitted mainly into the ventrobasal complex, terminating in some of the same thalamic nuclei where the dorsal column tactile signals terminate."
+    },
+    {
+     "page": 581,
+     "text": "From here, the signals are transmitted to the somatosensory cortex along with the signals from the dorsal columns."
+    },
+    {
+     "page": 581,
+     "text": "Conversely, only a small fraction of the pain signals project directly to the ventrobasal complex of the thalamus."
+    },
+    {
+     "page": 581,
+     "text": "Instead, most pain signals terminate in the reticular nuclei of the brain stem and from there are relayed to the intralaminar nuclei of the thalamus where the pain signals are further processed, as discussed in greater detail in Chapter 48."
+    },
+    {
+     "page": 581,
+     "text": "In general, the same principles apply to transmission in the anterolateral pathway as in the dorsal column–medial lemniscal system, except for the following differences: (1) the velocities of transmission are only one-third to one-half those in the dorsal column–medial lemniscal system, ranging between 8 and 40 m/sec; (2) the degree of spatial localization of signals is poor; (3) the gradations of intensities are also far less accurate, most of the sensations being recognized in 10 to 20 gradations of strength, rather than as many as 100 gradations for the dorsal column system; and (4) the ability to transmit rapidly changing or rapidly repetitive signals is poor."
+    },
+    {
+     "page": 581,
+     "text": "Thus, it is evident that the anterolateral system is a cruder type of transmission system than the dorsal column–medial lemniscal system."
+    },
+    {
+     "page": 581,
+     "text": "Even so, certain modalities of sensation are transmitted only in this system and not at all in the dorsal column–medial lemniscal system."
+    },
+    {
+     "page": 581,
+     "text": "They are pain, temperature, tickle, itch, and sexual sensations, in addition to crude touch and pressure."
+    },
+    {
+     "page": 581,
+     "text": "When the somatosensory cortex of a human being is destroyed, that person loses most critical tactile sensibilities, but a slight degree of crude tactile sensibility does return."
+    },
+    {
+     "page": 581,
+     "text": "Therefore, it must be assumed that the thalamus (as well as other lower centers) has a slight ability to discriminate tactile sensation, even though the thalamus normally functions mainly to relay this type of information to the cortex."
+    },
+    {
+     "page": 581,
+     "text": "Conversely, loss of the somatosensory cortex has little effect on one’s perception of pain sensation and only a moderate effect on the perception of temperature."
+    },
+    {
+     "page": 581,
+     "text": "Therefore, there is much reason to believe that the lower brain stem, the thalamus, and other associated basal regions of the brain play dominant roles in discrimination of these sensibilities."
+    },
+    {
+     "page": 581,
+     "text": "It is interesting that these sensibilities appeared very early in the phylogenetic development of animals, whereas the critical tactile sensibilities and the somatosensory cortex were late developments."
+    },
+    {
+     "page": 581,
+     "text": "In addition to somatosensory signals transmitted from the periphery to the brain, corticofugal signals are transmitted in the backward direction from the cerebral cortex to the lower sensory relay stations of the thalamus, medulla, and spinal cord; they control the intensity of sensitivity of the sensory input."
+    },
+    {
+     "page": 582,
+     "text": "This does two things: First, it decreases lateral spread of the sensory signals into adjacent neurons and, therefore, increases the degree of sharpness in the signal pattern."
+    },
+    {
+     "page": 582,
+     "text": "Second, it keeps the sensory system operating in a range of sensitivity that is not so low that the signals are ineffectual nor so high that the system is swamped beyond its capacity to differentiate sensory patterns."
+    },
+    {
+     "page": 582,
+     "text": "This principle of corticofugal sensory control is used by all sensory systems, not only the somatic system, as explained in subsequent chapters."
+    },
+    {
+     "page": 582,
+     "text": "Each spinal nerve innervates a “segmental field” of the skin called a dermatome."
+    },
+    {
+     "page": 582,
+     "text": "They are shown in the figure as if there were distinct borders between the adjacent dermatomes, which is far from true because much overlap exists from segment to segment."
+    },
+    {
+     "page": 582,
+     "text": "The figure shows that the anal region of the body lies in the dermatome of the most distal cord segment, dermatome S5."
+    },
+    {
+     "page": 582,
+     "text": "In the embryo, this is the tail region and the most distal portion of the body."
+    },
+    {
+     "page": 582,
+     "text": "The legs originate embryologically from the lumbar and upper sacral segments (L2 to S3), rather than from the distal sacral segments, which is evident from the dermatomal map."
+    },
+    {
+     "page": 582,
+     "text": "Baker SN: Oscillatory interactions between sensorimotor cortex and the periphery, Curr Opin Neurobiol 17:649, 2007."
+    },
+    {
+     "page": 582,
+     "text": "Bosco G, Poppele RE: Proprioception from a spinocerebellar perspective, Physiol Rev 81:539, 2001."
+    },
+    {
+     "page": 582,
+     "text": "Cohen YE, Andersen RA: A common reference frame for movement plans in the posterior parietal cortex, Nat Rev Neurosci 3:553, 2002."
+    },
+    {
+     "page": 582,
+     "text": "Craig AD: Pain mechanisms: labeled lines versus convergence in central processing, Annu Rev Neurosci 26:1, 2003."
+    },
+    {
+     "page": 582,
+     "text": "Fontanini A, Katz DB: Behavioral states, network states, and sensory response variability, J Neurophysiol 100:1160, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Fox K: Experience-dependent plasticity mechanisms for neural rehabilitation in somatosensory cortex, Philos Trans R Soc Lond B Biol Sci 364:369, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Hsiao S: Central mechanisms of tactile shape perception, Curr Opin Neurobiol 18:418, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Johansson RS, Flanagan JR: Coding and use of tactile signals from the fingertips in object manipulation tasks, Nat Rev Neurosci 10:345, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Kaas JH: The evolution of the complex sensory and motor systems of the human brain, Brain Res Bull 75:384, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Kaas JH, Qi HX, Burish MJ, et al: Cortical and subcortical plasticity in the brains of humans, primates, and rats after damage to sensory afferents in the dorsal columns of the spinal cord, Exp Neurol 209:407, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Knutsen PM, Ahissar E: Orthogonal coding of object location, Trends Neurosci 32:101, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Pelli DG, Tillman KA: The uncrowded window of object recognition, Nat Neurosci 11:1129, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Suga N, Ma X: Multiparametric corticofugal modulation and plasticity in the auditory system, Nat Rev Neurosci 4:783, 2003."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_dermatomes": {
+   "heading": "Segmental Fields of Sensation—Dermatomes",
+   "chapter": 47,
+   "found": true,
+   "page_start": 582,
+   "page_end": 582,
+   "sentences": [
+    {
+     "page": 582,
+     "text": "Each spinal nerve innervates a “segmental field” of the skin called a dermatome."
+    },
+    {
+     "page": 582,
+     "text": "They are shown in the figure as if there were distinct borders between the adjacent dermatomes, which is far from true because much overlap exists from segment to segment."
+    },
+    {
+     "page": 582,
+     "text": "The figure shows that the anal region of the body lies in the dermatome of the most distal cord segment, dermatome S5."
+    },
+    {
+     "page": 582,
+     "text": "In the embryo, this is the tail region and the most distal portion of the body."
+    },
+    {
+     "page": 582,
+     "text": "The legs originate embryologically from the lumbar and upper sacral segments (L2 to S3), rather than from the distal sacral segments, which is evident from the dermatomal map."
+    },
+    {
+     "page": 582,
+     "text": "Baker SN: Oscillatory interactions between sensorimotor cortex and the periphery, Curr Opin Neurobiol 17:649, 2007."
+    },
+    {
+     "page": 582,
+     "text": "Bosco G, Poppele RE: Proprioception from a spinocerebellar perspective, Physiol Rev 81:539, 2001."
+    },
+    {
+     "page": 582,
+     "text": "Cohen YE, Andersen RA: A common reference frame for movement plans in the posterior parietal cortex, Nat Rev Neurosci 3:553, 2002."
+    },
+    {
+     "page": 582,
+     "text": "Craig AD: Pain mechanisms: labeled lines versus convergence in central processing, Annu Rev Neurosci 26:1, 2003."
+    },
+    {
+     "page": 582,
+     "text": "Fontanini A, Katz DB: Behavioral states, network states, and sensory response variability, J Neurophysiol 100:1160, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Fox K: Experience-dependent plasticity mechanisms for neural rehabilitation in somatosensory cortex, Philos Trans R Soc Lond B Biol Sci 364:369, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Hsiao S: Central mechanisms of tactile shape perception, Curr Opin Neurobiol 18:418, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Johansson RS, Flanagan JR: Coding and use of tactile signals from the fingertips in object manipulation tasks, Nat Rev Neurosci 10:345, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Kaas JH: The evolution of the complex sensory and motor systems of the human brain, Brain Res Bull 75:384, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Kaas JH, Qi HX, Burish MJ, et al: Cortical and subcortical plasticity in the brains of humans, primates, and rats after damage to sensory afferents in the dorsal columns of the spinal cord, Exp Neurol 209:407, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Knutsen PM, Ahissar E: Orthogonal coding of object location, Trends Neurosci 32:101, 2009."
+    },
+    {
+     "page": 582,
+     "text": "Pelli DG, Tillman KA: The uncrowded window of object recognition, Nat Neurosci 11:1129, 2008."
+    },
+    {
+     "page": 582,
+     "text": "Suga N, Ma X: Multiparametric corticofugal modulation and plasticity in the auditory system, Nat Rev Neurosci 4:783, 2003."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_sensory_area": {
+   "heading": "Somatosensory Cortex",
+   "chapter": 47,
+   "found": true,
+   "page_start": 574,
+   "page_end": 576,
+   "sentences": [
+    {
+     "page": 574,
+     "text": "Before discussing the role of the cerebral cortex in somatic sensation, we need to give an orientation to the various areas of the cortex."
+    },
+    {
+     "page": 575,
+     "text": "Note in the figure the large central fissure (also called central sulcus) that extends horizontally across the brain."
+    },
+    {
+     "page": 575,
+     "text": "In general, sensory signals from all modalities of sensation terminate in the cerebral cortex immediately posterior to the central fissure."
+    },
+    {
+     "page": 575,
+     "text": "And, generally, the anterior half of the parietal lobe is concerned almost entirely with reception and interpretation of somatosensory signals."
+    },
+    {
+     "page": 575,
+     "text": "But the posterior half of the parietal lobe provides still higher levels of interpretation."
+    },
+    {
+     "page": 575,
+     "text": "Visual signals terminate in the occipital lobe, and auditory signals terminate in the temporal lobe."
+    },
+    {
+     "page": 575,
+     "text": "Conversely, that portion of the cerebral cortex anterior to the central fissure and constituting the posterior half of the frontal lobe is called the motor cortex and is devoted almost entirely to control of muscle contractions and body movements."
+    },
+    {
+     "page": 575,
+     "text": "A major share of this motor control is in response to somatosensory signals received from the sensory portions of the cortex, which keep the motor cortex informed at each instant about the positions and motions of the different body parts."
+    },
+    {
+     "page": 575,
+     "text": "The reason for this division into two areas is that a distinct and separate spatial orientation of the different parts of the body is found in each of these two areas."
+    },
+    {
+     "page": 575,
+     "text": "However, somatosensory area I is so much more extensive and so much more important than somatosensory area II that in popular usage, the term “somatosensory cortex” almost always means area I."
+    },
+    {
+     "page": 575,
+     "text": "By contrast, localization is poor in somatosensory area II, although roughly, the face is represented anteriorly, the arms centrally, and the legs posteriorly."
+    },
+    {
+     "page": 575,
+     "text": "Little is known about the function of somatosensory area II."
+    },
+    {
+     "page": 575,
+     "text": "It is known that signals enter this area from the brain stem, transmitted upward from both sides of the body."
+    },
+    {
+     "page": 575,
+     "text": "In addition, many signals come secondarily from somatosensory area I, as well as from other sensory areas of the brain, even from the visual and auditory areas."
+    },
+    {
+     "page": 575,
+     "text": "Projections from somatosensory area I are required for function of somatosensory area II."
+    },
+    {
+     "page": 575,
+     "text": "However, removal of parts of somatosensory area II has no apparent effect on the response of neurons in somatosensory area I."
+    },
+    {
+     "page": 575,
+     "text": "Thus, much of what we know about somatic sensation appears to be explained by the functions of somatosensory area I."
+    },
+    {
+     "page": 576,
+     "text": "Note, however, that each lateral side of the cortex receives sensory information almost exclusively from the opposite side of the body."
+    },
+    {
+     "page": 576,
+     "text": "Some areas of the body are represented by large areas in the somatic cortex—the lips the greatest of all, followed by the face and thumb—whereas the trunk and lower part of the body are represented by relatively small areas."
+    },
+    {
+     "page": 576,
+     "text": "The sizes of these areas are directly proportional to the number of specialized sensory receptors in each respective peripheral area of the body."
+    },
+    {
+     "page": 576,
+     "text": "For instance, a great number of specialized nerve endings are found in the lips and thumb, whereas only a few are present in the skin of the body trunk."
+    },
+    {
+     "page": 576,
+     "text": "Note also that the head is represented in the most lateral portion of somatosensory area I, and the lower part of the body is represented medially."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_swallow": {
+   "heading": "Swallowing (Deglutition)",
+   "chapter": 63,
+   "found": true,
+   "page_start": 763,
+   "page_end": 764,
+   "sentences": [
+    {
+     "page": 763,
+     "text": "The pharynx is converted for only a few seconds at a time into a tract for propulsion of food."
+    },
+    {
+     "page": 763,
+     "text": "It is especially important that respiration not be compromised because of swallowing."
+    },
+    {
+     "page": 763,
+     "text": "In general, swallowing can be divided into (1) a voluntary stage, which initiates the swallowing process; (2) a pharyngeal stage, which is involuntary and constitutes passage of food through the pharynx into the esophagus; and (3) an esophageal stage, another involuntary phase that transports food from the pharynx to the stomach."
+    },
+    {
+     "page": 763,
+     "text": "When the food is ready for swallowing, it is “voluntarily” squeezed or rolled posteriorly into the pharynx by pressure of the tongue upward and backward against the palate, as shown in or almost entirely—automatic and ordinarily cannot be stopped."
+    },
+    {
+     "page": 764,
+     "text": "As the bolus of food enters the posterior mouth and pharynx, it stimulates epithelial swallowing receptor areas all around the opening of the pharynx, especially on the tonsillar pillars, and impulses from these pass to the brain stem to initiate a series of automatic pharyngeal muscle contractions as follows: 1."
+    },
+    {
+     "page": 764,
+     "text": "The soft palate is pulled upward to close the posterior nares, to prevent reflux of food into the nasal cavities."
+    },
+    {
+     "page": 764,
+     "text": "The palatopharyngeal folds on each side of the pharynx are pulled medially to approximate each other."
+    },
+    {
+     "page": 764,
+     "text": "In this way, these folds form a sagittal slit through which the food must pass into the posterior pharynx."
+    },
+    {
+     "page": 764,
+     "text": "This slit performs a selective action, allowing food that has been masticated sufficiently to pass with ease."
+    },
+    {
+     "page": 764,
+     "text": "Because this stage of swallowing lasts less than 1 second, any large object is usually impeded too much to pass into the esophagus."
+    },
+    {
+     "page": 764,
+     "text": "The vocal cords of the larynx are strongly approximated, and the larynx is pulled upward and anteriorly by the neck muscles."
+    },
+    {
+     "page": 764,
+     "text": "These actions, combined with the presence of ligaments that prevent upward movement of the epiglottis, cause the epiglottis to swing backward over the opening of the larynx."
+    },
+    {
+     "page": 764,
+     "text": "All these effects acting together prevent passage of food into the nose and trachea."
+    },
+    {
+     "page": 764,
+     "text": "Most essential is the tight approximation of the vocal cords, but the epiglottis helps to prevent food from ever getting as far as the vocal cords."
+    },
+    {
+     "page": 764,
+     "text": "Destruction of the vocal cords or of the muscles that approximate them can cause strangulation."
+    },
+    {
+     "page": 764,
+     "text": "The upward movement of the larynx also pulls up and enlarges the opening to the esophagus."
+    },
+    {
+     "page": 764,
+     "text": "At the same time, the upper 3 to 4 centimeters of the esophageal muscular wall, called the upper esophageal sphincter (also called the pharyngoesophageal sphincter), relaxes."
+    },
+    {
+     "page": 764,
+     "text": "Thus, food moves easily and freely from the posterior pharynx into the upper esophagus."
+    },
+    {
+     "page": 764,
+     "text": "Between swallows, this sphincter remains strongly contracted, thereby preventing air from going into the esophagus during respiration."
+    },
+    {
+     "page": 764,
+     "text": "The upward movement of the larynx also lifts the glottis out of the main stream of food flow, so the food mainly passes on each side of the epiglottis rather than over its surface; this adds still another protection against entry of food into the trachea."
+    },
+    {
+     "page": 764,
+     "text": "Once the larynx is raised and the pharyngoesophageal sphincter becomes relaxed, the entire muscular wall of the pharynx contracts, beginning in the superior part of the pharynx, then spreading downward over the middle and inferior pharyngeal areas, which propels the food by peristalsis into the esophagus."
+    },
+    {
+     "page": 764,
+     "text": "To summarize the mechanics of the pharyngeal stage of swallowing: The trachea is closed, the esophagus is opened, and a fast peristaltic wave initiated by the nervous system of the pharynx forces the bolus of food into the upper esophagus, the entire process occurring in less than 2 seconds."
+    },
+    {
+     "page": 764,
+     "text": "The most sensitive tactile areas of the posterior mouth and pharynx for initiating the pharyngeal stage of swallowing lie in a ring around the pharyngeal opening, with greatest sensitivity on the tonsillar pillars."
+    },
+    {
+     "page": 764,
+     "text": "Impulses are transmitted from these areas through the sensory portions of the trigeminal and glossopharyngeal nerves into the medulla oblongata, either into or closely associated with the tractus solitarius, which receives essentially all sensory impulses from the mouth."
+    },
+    {
+     "page": 764,
+     "text": "The successive stages of the swallowing process are then automatically initiated in orderly sequence by neuronal areas of the reticular substance of the medulla and lower portion of the pons."
+    },
+    {
+     "page": 764,
+     "text": "The sequence of the swallowing reflex is the same from one swallow to the next, and the timing of the entire cycle also remains constant from one swallow to the next."
+    },
+    {
+     "page": 764,
+     "text": "The areas in the medulla and lower pons that control swallowing are collectively called the deglutition or swallowing center."
+    },
+    {
+     "page": 764,
+     "text": "The motor impulses from the swallowing center to the pharynx and upper esophagus that cause swallowing are transmitted successively by the fifth, ninth, tenth, and twelfth cranial nerves and even a few of the superior cervical nerves."
+    },
+    {
+     "page": 764,
+     "text": "In summary, the pharyngeal stage of swallowing is principally a reflex act."
+    },
+    {
+     "page": 764,
+     "text": "It is almost always initiated by voluntary movement of food into the back of the mouth, which in turn excites involuntary pharyngeal sensory receptors to elicit the swallowing reflex."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s14_memory": {
+   "heading": "Memory—Roles of Synaptic Facilitation",
+   "chapter": 57,
+   "found": true,
+   "page_start": 705,
+   "page_end": 706,
+   "sentences": [
+    {
+     "page": 705,
+     "text": "The new or facilitated pathways are called memory traces."
+    },
+    {
+     "page": 705,
+     "text": "They are important because once the traces are established, they can be selectively activated by the thinking mind to reproduce the memories."
+    },
+    {
+     "page": 705,
+     "text": "Experiments in lower animals have demonstrated that memory traces can occur at all levels of the nervous system."
+    },
+    {
+     "page": 705,
+     "text": "Even spinal cord reflexes can change at least slightly in response to repetitive cord activation, and these reflex changes are part of the memory process."
+    },
+    {
+     "page": 705,
+     "text": "Also, long-term memories result from changed synaptic conduction in lower brain centers."
+    },
+    {
+     "page": 705,
+     "text": "However, most memory that we associate with intellectual processes is based on memory traces in the cerebral cortex."
+    },
+    {
+     "page": 705,
+     "text": "That is, our brain is inundated with sensory information from all our senses."
+    },
+    {
+     "page": 705,
+     "text": "If our minds attempted to remember all this information, the memory capacity of the brain would be rapidly exceeded."
+    },
+    {
+     "page": 705,
+     "text": "Fortunately, the brain has the capability to learn to ignore information that is of no consequence."
+    },
+    {
+     "page": 706,
+     "text": "This results from inhibition of the synaptic pathways for this type of information; the resulting effect is called habituation."
+    },
+    {
+     "page": 706,
+     "text": "This is a type of negative memory."
+    },
+    {
+     "page": 706,
+     "text": "Conversely, for incoming information that causes important consequences such as pain or pleasure, the brain has a different automatic capability of enhancing and storing the memory traces."
+    },
+    {
+     "page": 706,
+     "text": "This is positive memory."
+    },
+    {
+     "page": 706,
+     "text": "It results from facilitation of the synaptic pathways, and the process is called memory sensitization."
+    },
+    {
+     "page": 706,
+     "text": "We discuss later that special areas in the basal limbic regions of the brain determine whether information is important or unimportant and make the subconscious decision whether to store the thought as a sensitized memory trace or to suppress it."
+    },
+    {
+     "page": 706,
+     "text": "We know that some memories last for only a few seconds, whereas others last for hours, days, months, or years."
+    },
+    {
+     "page": 706,
+     "text": "For the purpose of discussing these, let us use a common classification of memories that divides memories into (1) short-term memory, which includes memories that last for seconds or at most minutes unless they are converted into longer-term memories; (2) intermediate long-term memories, which last for days to weeks but then fade away; and (3) long-term memory, which, once stored, can be recalled up to years or even a lifetime later."
+    },
+    {
+     "page": 706,
+     "text": "In addition to this general classification of memories, we also discussed earlier (in connection with the prefrontal lobes) another type of memory, called“working memory,” which includes mainly short-term memory that is used during the course of intellectual reasoning but is terminated as each stage of the problem is resolved."
+    },
+    {
+     "page": 706,
+     "text": "Memories are frequently classified according to the type of information that is stored."
+    },
+    {
+     "page": 706,
+     "text": "One of these classifications divides memory into declarative memory and skill memory, as follows: 1."
+    },
+    {
+     "page": 706,
+     "text": "Declarative memory basically means memory of the various details of an integrated thought, such as memory of an important experience that includes (1) memory of the surroundings, (2) memory of time relationships, (3) memory of causes of the experience, (4) memory of the meaning of the experience, and (5) memory of one’s deductions that were left in the person’s mind."
+    },
+    {
+     "page": 706,
+     "text": "Skill memory is frequently associated with motor activities of the person’s body, such as all the skills developed for hitting a tennis ball, including automatic memories to (1) sight the ball, (2) calculate the relationship and speed of the ball to the racquet, and (3) deduce rapidly the motions of the body, the arms, and the racquet required to hit the ball as desired—all of these activated instantly based on previous learning of the game of tennis—then moving on to the next stroke of the game while forgetting the details of the previous stroke."
+    },
+    {
+     "page": 706,
+     "text": "Short-term memory is typified by one’s memory of 7 to 10 numerals in a telephone number (or 7 to 10 other discrete facts) for a few seconds to a few minutes at a time but lasting only as long as the person continues to think about the numbers or facts."
+    },
+    {
+     "page": 706,
+     "text": "Many physiologists have suggested that this short-term memory is caused by continual neural activity resulting from nerve signals that travel around and around a temporary memory trace in a circuit of reverberating neurons."
+    },
+    {
+     "page": 706,
+     "text": "It has not yet been possible to prove this theory."
+    },
+    {
+     "page": 706,
+     "text": "Another possible explanation of short-term memory is presynaptic facilitation or inhibition."
+    },
+    {
+     "page": 706,
+     "text": "This occurs at synapses that lie on terminal nerve fibrils immediately before these fibrils synapse with a subsequent neuron."
+    },
+    {
+     "page": 706,
+     "text": "The neurotransmitter chemicals secreted at such terminals frequently cause facilitation or inhibition lasting for seconds up to several minutes."
+    },
+    {
+     "page": 706,
+     "text": "Circuits of this type could lead to short-term memory."
+    },
+    {
+     "page": 706,
+     "text": "Intermediate long-term memories may last for many minutes or even weeks."
+    },
+    {
+     "page": 706,
+     "text": "They will eventually be lost unless the memory traces are activated enough to become more permanent; then they are classified as long-term memories."
+    },
+    {
+     "page": 706,
+     "text": "Experiments in primitive animals have demonstrated that memories of the intermediate long-term type can result from temporary chemical or physical changes, or both, in either the synapse presynaptic terminals or the synapse postsynaptic membrane, changes that can persist for a few minutes up to several weeks."
+    },
+    {
+     "page": 706,
+     "text": "These mechanisms are so important that they deserve special description."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}
