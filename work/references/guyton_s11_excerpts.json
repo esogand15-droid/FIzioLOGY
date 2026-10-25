@@ -1,0 +1,800 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "s11_limbic": {
+   "heading": "Limbic System",
+   "chapter": 58,
+   "found": true,
+   "page_start": 714,
+   "page_end": 714,
+   "sentences": [
+    {
+     "page": 714,
+     "text": "The word “limbic” means “border.” Originally, the term “limbic” was used to describe the border structures around the basal regions of the cerebrum, but as we have learned more about the functions of the limbic system, the term limbic system has been expanded to mean the entire neuronal circuitry that controls emotional behavior and motivational drives."
+    },
+    {
+     "page": 714,
+     "text": "A major part of the limbic system is the hypothalamus, with its related structures."
+    },
+    {
+     "page": 714,
+     "text": "In addition to their roles in behavioral control, these areas control many internal conditions of the body, such as body temperature, osmolality of the body fluids, and the drives to eat and drink and to control body weight."
+    },
+    {
+     "page": 714,
+     "text": "These internal functions are collectively called vegetative functions of the brain, and their control is closely related to behavior."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_position": {
+   "heading": "Key Position of the Hypothalamus",
+   "chapter": 58,
+   "found": true,
+   "page_start": 714,
+   "page_end": 715,
+   "sentences": [
+    {
+     "page": 714,
+     "text": "Figure 58-4 shows the anatomical structures of the limbic system, demonstrating that they are an interconnected complex of basal brain elements."
+    },
+    {
+     "page": 714,
+     "text": "Located in the middle of all these is the extremely small hypothalamus, which from a physiologic point of view is one of the central elements of the limbic system."
+    },
+    {
+     "page": 714,
+     "text": "Figure 58-5 illustrates schematically this key position of the hypothalamus in the limbic system and shows surrounding it other subcortical structures of the limbic system, including the septum, paraolfactory area, anterior nucleus of the thalamus, portions of the basal ganglia, hippocampus, and amygdala."
+    },
+    {
+     "page": 714,
+     "text": "Chapter 58 Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus top of the corpus callosum onto the medial aspect of the cerebral hemisphere in the cingulate gyrus, and finally (4) passing behind the corpus callosum and downward onto the ventromedial surface of the temporal lobe to the parahippocampal gyrus and uncus."
+    },
+    {
+     "page": 715,
+     "text": "Thus, on the medial and ventral surfaces of each cerebral hemisphere is a ring of mostly paleocortex that surrounds a group of deep structures intimately associated with overall behavior and emotions."
+    },
+    {
+     "page": 715,
+     "text": "In turn, this ring of limbic cortex functions as a two-way communication and association linkage between the neocortex and the lower limbic structures."
+    },
+    {
+     "page": 715,
+     "text": "Many of the behavioral functions elicited from the hypothalamus and other limbic structures are also mediated through the reticular nuclei in the brain stem and their associated nuclei."
+    },
+    {
+     "page": 715,
+     "text": "It was pointed out in Chapter 55, as well as earlier in this chapter, that stimulation of the excitatory portion of this reticular formation can cause high degrees of cerebral excitability while also increasing the excitability of much of the spinal cord synapses."
+    },
+    {
+     "page": 715,
+     "text": "In Chapter 60, we see that most of the hypothalamic signals for controlling the autonomic nervous system are also transmitted through synaptic nuclei located in the brain stem."
+    },
+    {
+     "page": 715,
+     "text": "An important route of communication between the limbic system and the brain stem is the medial forebrain bundle, which extends from the septal and orbitofrontal regions of the cerebral cortex downward through the middle of the hypothalamus to the brain stem reticular formation."
+    },
+    {
+     "page": 715,
+     "text": "This bundle carries fibers in both directions, forming a trunk line communication system."
+    },
+    {
+     "page": 715,
+     "text": "A second route of communication is through short pathways among the reticular formation of the brain stem, thalamus, hypothalamus, and most other contiguous areas of the basal brain."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_hq": {
+   "heading": "Hypothalamus, a Major Control",
+   "chapter": 58,
+   "found": true,
+   "page_start": 715,
+   "page_end": 715,
+   "sentences": [
+    {
+     "page": 715,
+     "text": "Headquarters for the Limbic System The hypothalamus, despite its small size of only a few cubic centimeters, has two-way communicating pathways with all levels of the limbic system."
+    },
+    {
+     "page": 715,
+     "text": "In turn, the hypothalamus and its closely allied structures send output signals in three directions: (1) backward and downward to the brain stem, mainly into the reticular areas of the mesencephalon, pons, and medulla and from these areas into the peripheral nerves of the autonomic nervous system; (2) upward toward many higher areas of the diencephalon and cerebrum, especially to the anterior thalamus and limbic portions of the cerebral cortex; and (3) into the hypothalamic infundibulum to control or partially control most of the secretory functions of both the posterior and the anterior pituitary glands."
+    },
+    {
+     "page": 715,
+     "text": "Thus, the hypothalamus, which represents less than 1 percent of the brain mass, is one of the most important of the control pathways of the limbic system."
+    },
+    {
+     "page": 715,
+     "text": "It controls most of the vegetative and endocrine functions of the body and many aspects of emotional behavior."
+    },
+    {
+     "page": 715,
+     "text": "Let us discuss first the vegetative and endocrine control functions and then return to the behavioral functions of the hypothalamus to see how these operate together."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_vegetative": {
+   "heading": "Vegetative and Endocrine Control Functions",
+   "chapter": 58,
+   "found": true,
+   "page_start": 715,
+   "page_end": 717,
+   "sentences": [
+    {
+     "page": 715,
+     "text": "For instance, the role of the hypothalamus to help regulate arterial pressure is discussed in control in Chapter 75."
+    },
+    {
+     "page": 715,
+     "text": "To illustrate the organization of the hypothalamus as a functional unit, let us summarize the more important of its vegetative and endocrine functions here as well."
+    },
+    {
+     "page": 715,
+     "text": "The lateral areas are especially important in controlling thirst, hunger, and many of the emotional drives."
+    },
+    {
+     "page": 715,
+     "text": "A word of caution must be issued for studying these diagrams because the areas that cause specific activities are not nearly as accurately localized as suggested in the figures."
+    },
+    {
+     "page": 715,
+     "text": "Also, it is not known whether the effects noted in the figures result from stimulation of specific control nuclei or whether they result merely from activation of fiber tracts leading from or to control nuclei located elsewhere."
+    },
+    {
+     "page": 715,
+     "text": "With this caution in mind, we can give the following general description of the vegetative and control functions of the hypothalamus."
+    },
+    {
+     "page": 715,
+     "text": "Stimulation of different areas throughout the hypothalamus can cause many neurogenic effects on the cardiovascular system, including increased arterial pressure, decreased arterial pressure, increased heart rate, and decreased heart rate."
+    },
+    {
+     "page": 715,
+     "text": "In general, stimulation in the posterior and lateral hypothalamus increases the arterial pressure and heart rate, whereas stimulation in the preoptic area often has opposite effects, causing a decrease in both heart rate and arterial pressure."
+    },
+    {
+     "page": 715,
+     "text": "These effects are transmitted mainly through specific cardiovascular control centers in the reticular regions of the pons and medulla."
+    },
+    {
+     "page": 715,
+     "text": "The anterior portion of the hypothalamus, especially the preoptic area, is concerned with regulation of body temperature."
+    },
+    {
+     "page": 715,
+     "text": "An increase in the temperature of the blood flowing through this area increases the activity of temperature-sensitive neurons, whereas a decrease in temperature decreases their activity."
+    },
+    {
+     "page": 715,
+     "text": "In turn, these neurons control mechanisms for increasing or decreasing body temperature, as discussed in Chapter 73."
+    },
+    {
+     "page": 716,
+     "text": "An area called the thirst center is located in the lateral hypothalamus."
+    },
+    {
+     "page": 716,
+     "text": "When the fluid electrolytes in either this center or closely allied areas become too concentrated, the animal develops an intense desire to drink water; it will search out the nearest source of water and drink enough to return the electrolyte concentration of the thirst center to normal."
+    },
+    {
+     "page": 716,
+     "text": "Control of renal excretion of water is vested mainly in the supraoptic nuclei."
+    },
+    {
+     "page": 716,
+     "text": "When the body fluids become too concentrated, the neurons of these areas become stimulated."
+    },
+    {
+     "page": 716,
+     "text": "Nerve fibers from these neurons project downward through the infundibulum of the hypothalamus into the posterior pituitary gland, where the nerve endings secrete the hormone antidiuretic hormone (also called vasopressin)."
+    },
+    {
+     "page": 716,
+     "text": "This hormone is then absorbed into the blood and transported to the kidneys, where it acts on the collecting ducts of the kidneys to cause increased reabsorption of water."
+    },
+    {
+     "page": 716,
+     "text": "This decreases loss of water into the urine but allows continuing excretion of electrolytes, thus decreasing the concentration of the body fluids back toward normal."
+    },
+    {
+     "page": 716,
+     "text": "These functions are presented in Chapter 28."
+    },
+    {
+     "page": 716,
+     "text": "Stimulation of the paraventricular nuclei causes their neuronal cells to secrete the hormone oxytocin."
+    },
+    {
+     "page": 716,
+     "text": "This in turn causes increased contractility of the uterus, as well as contraction of the myoepithelial cells surrounding the alveoli of the breasts, which then causes the alveoli to empty their milk through the nipples."
+    },
+    {
+     "page": 716,
+     "text": "At the end of pregnancy, especially large quantities of oxytocin are secreted and this secretion helps to promote labor contractions that expel the baby."
+    },
+    {
+     "page": 716,
+     "text": "Then, whenever the baby suckles the mother’s breast, a reflex signal from the nipple to the posterior hypothalamus also causes oxytocin release and the oxytocin now performs the necessary function of contracting the ductules of the breast, thereby expelling milk through the nipples so that the baby can nourish itself."
+    },
+    {
+     "page": 716,
+     "text": "These functions are discussed in Chapter 82."
+    },
+    {
+     "page": 716,
+     "text": "Stimulation of several areas of the hypothalamus causes an animal to experience extreme hunger, a voracious appetite, and an intense desire to search for food."
+    },
+    {
+     "page": 716,
+     "text": "One area associated with hunger is the lateral hypothalamic area."
+    },
+    {
+     "page": 716,
+     "text": "Conversely, damage to this area on both sides of the hypothalamus causes the animal to lose desire for food, sometimes causing lethal starvation as discussed in Chapter 71."
+    },
+    {
+     "page": 716,
+     "text": "A center that opposes the desire for food, called the satiety center, is located in the ventromedial nuclei."
+    },
+    {
+     "page": 716,
+     "text": "When this center is stimulated electrically, an animal that is eating food suddenly stops eating and shows complete indifference to food."
+    },
+    {
+     "page": 716,
+     "text": "However, if this area is destroyed bilaterally, the animal cannot be satiated; instead, its hypothalamic hunger centers become overactive, so it has a voracious appetite, resulting eventually in tremendous obesity."
+    },
+    {
+     "page": 716,
+     "text": "Another area of the hypothalamus that enters into overall control of gastrointestinal activity is the mamillary bodies; these control at least partially the patterns of many feeding reflexes, such as licking the lips and swallowing."
+    },
+    {
+     "page": 716,
+     "text": "Chapter 58 Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus to secrete its endocrine hormones."
+    },
+    {
+     "page": 716,
+     "text": "This subject is discussed in detail in Chapter 74 in relation to neural control of the endocrine glands."
+    },
+    {
+     "page": 716,
+     "text": "Briefly, the basic mechanisms are the following."
+    },
+    {
+     "page": 717,
+     "text": "The anterior pituitary gland receives its blood supply mainly from blood that flows first through the lower part of the hypothalamus and then through the anterior pituitary vascular sinuses."
+    },
+    {
+     "page": 717,
+     "text": "As the blood courses through the hypothalamus before reaching the anterior pituitary, specific releasing and inhibitory hormones are secreted into the blood by various hypothalamic nuclei."
+    },
+    {
+     "page": 717,
+     "text": "These hormones are then transported via the blood to the anterior pituitary gland, where they act on the glandular cells to control release of specific anterior pituitary hormones."
+    },
+    {
+     "page": 717,
+     "text": "Several areas of the hypothalamus control specific vegetative and endocrine functions."
+    },
+    {
+     "page": 717,
+     "text": "These areas are still poorly delimited, so the specification given earlier of different areas for different hypothalamic functions is still partially tentative."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_behavior": {
+   "heading": "Behavioral Functions of the Hypothalamus and",
+   "chapter": 58,
+   "found": true,
+   "page_start": 717,
+   "page_end": 717,
+   "sentences": [
+    {
+     "page": 717,
+     "text": "In addition to the vegetative and endocrine functions of the hypothalamus, stimulation of or lesions in the hypothalamus often have profound effects on emotional behavior of animals and human beings."
+    },
+    {
+     "page": 717,
+     "text": "Some of the behavioral effects of stimulation are the following: 1."
+    },
+    {
+     "page": 717,
+     "text": "Stimulation in the lateral hypothalamus not only causes thirst and eating, as discussed earlier, but also increases the general level of activity of the animal, sometimes leading to overt rage and fighting, as discussed subsequently."
+    },
+    {
+     "page": 717,
+     "text": "Stimulation in the ventromedial nucleus and surrounding areas mainly causes effects opposite to those caused by lateral hypothalamic stimulation—that is, a sense of satiety, decreased eating, and tranquility."
+    },
+    {
+     "page": 717,
+     "text": "Stimulation of a thin zone of periventricular nuclei, located immediately adjacent to the third ventricle (or also stimulation of the central gray area of the mesencephalon that is continuous with this portion of the hypothalamus), usually leads to fear and punishment reactions."
+    },
+    {
+     "page": 717,
+     "text": "Sexual drive can be stimulated from several areas of the hypothalamus, especially the most anterior and most posterior portions of the hypothalamus."
+    },
+    {
+     "page": 717,
+     "text": "Bilateral lesions in the lateral hypothalamus will decrease drinking and eating almost to zero, often leading to lethal starvation."
+    },
+    {
+     "page": 717,
+     "text": "These lesions cause extreme passivity of the animal as well, with loss of most of its overt drives."
+    },
+    {
+     "page": 717,
+     "text": "Bilateral lesions of the ventromedial areas of the hypothalamus cause effects that are mainly opposite to those caused by lesions of the lateral hypothalamus: excessive drinking and eating, as well as hyperactivity and often continuous savagery along with frequent bouts of extreme rage on the slightest provocation."
+    },
+    {
+     "page": 717,
+     "text": "Stimulation or lesions in other regions of the limbic system, especially in the amygdala, the septal area, and areas in the mesencephalon, often cause effects similar to those elicited from the hypothalamus."
+    },
+    {
+     "page": 717,
+     "text": "We discuss some of these in more detail later."
+    },
+    {
+     "page": 717,
+     "text": "From the discussion thus far, it is already clear that several limbic structures are particularly concerned with the affective nature of sensory sensations—that is, whether the sensations are pleasant or unpleasant."
+    },
+    {
+     "page": 717,
+     "text": "These affective qualities are also called reward or punishment, or satisfaction or aversion."
+    },
+    {
+     "page": 717,
+     "text": "Electrical stimulation of certain limbic areas pleases or satisfies the animal, whereas electrical stimulation of other regions causes terror, pain, fear, defense, escape reactions, and all the other elements of punishment."
+    },
+    {
+     "page": 717,
+     "text": "The degrees of stimulation of these two oppositely responding systems greatly affect the behavior of the animal."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_reward": {
+   "heading": "Reward Centers",
+   "chapter": 58,
+   "found": true,
+   "page_start": 717,
+   "page_end": 717,
+   "sentences": [
+    {
+     "page": 717,
+     "text": "Experimental studies in monkeys have used electrical stimulators to map out the reward and punishment centers of the brain."
+    },
+    {
+     "page": 717,
+     "text": "The technique that has been used is to implant electrodes in different areas of the brain so that the animal can stimulate the area by pressing a lever that makes electrical contact with a stimulator."
+    },
+    {
+     "page": 717,
+     "text": "If stimulating the particular area gives the animal a sense of reward, then it will press the lever again and again, sometimes as much as hundreds or even thousands of times per hour."
+    },
+    {
+     "page": 717,
+     "text": "Furthermore, when offered the choice of eating some delectable food as opposed to the opportunity to stimulate the reward center, the animal often chooses the electrical stimulation."
+    },
+    {
+     "page": 717,
+     "text": "By using this procedure, the major reward centers have been found to be located along the course of the medial forebrain bundle, especially in the lateral and ventromedial nuclei of the hypothalamus."
+    },
+    {
+     "page": 717,
+     "text": "It is strange that the lateral nucleus should be included among the reward areas—indeed, it is one of the most potent of all—because even stronger stimuli in this area can cause rage."
+    },
+    {
+     "page": 717,
+     "text": "But this is true in many areas, with weaker stimuli giving a sense of reward and stronger ones a sense of punishment."
+    },
+    {
+     "page": 717,
+     "text": "Less potent reward centers, which are perhaps secondary to the major ones in the hypothalamus, are found in the septum, the amygdala, certain areas of the thalamus and basal ganglia, and extending downward into the basal tegmentum of the mesencephalon."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_punishment": {
+   "heading": "Punishment Centers",
+   "chapter": 58,
+   "found": true,
+   "page_start": 717,
+   "page_end": 718,
+   "sentences": [
+    {
+     "page": 717,
+     "text": "The stimulator apparatus discussed earlier can also be connected so that the stimulus to the brain continues all the time except when the lever is pressed."
+    },
+    {
+     "page": 717,
+     "text": "In this case, the animal will not press the lever to turn the stimulus off when the electrode is in one of the reward areas; but when it is in certain other areas, the animal immediately learns to turn it off."
+    },
+    {
+     "page": 717,
+     "text": "Stimulation in these areas causes the animal to show all the signs of displeasure, fear, terror, pain, punishment, and even sickness."
+    },
+    {
+     "page": 718,
+     "text": "By means of this technique, the most potent areas for punishment and escape tendencies have been found in the central gray area surrounding the aqueduct of Sylvius in the mesencephalon and extending upward into the periventricular zones of the hypothalamus and thalamus."
+    },
+    {
+     "page": 718,
+     "text": "Less potent punishment areas are found in some locations in the amygdala and hippocampus."
+    },
+    {
+     "page": 718,
+     "text": "It is particularly interesting that stimulation in the punishment centers can frequently inhibit the reward and pleasure centers completely, demonstrating that punishment and fear can take precedence over pleasure and reward."
+    },
+    {
+     "page": 718,
+     "text": "An emotional pattern that involves the punishment centers of the hypothalamus and other limbic structures, and has also been well characterized, is the rage pattern, described as follows."
+    },
+    {
+     "page": 718,
+     "text": "Strong stimulation of the punishment centers of the brain, especially in the periventricular zone of the hypothalamus and in the lateral hypothalamus, causes the animal to (1) develop a defense posture, (2) extend its claws, (3) lift its tail, (4) hiss, (5) spit, (6) growl, and (7) develop piloerection, wide-open eyes, and dilated pupils."
+    },
+    {
+     "page": 718,
+     "text": "Furthermore, even the slightest provocation causes an immediate savage attack."
+    },
+    {
+     "page": 718,
+     "text": "This is approximately the behavior that one would expect from an animal being severely punished, and it is a pattern of behavior that is called rage."
+    },
+    {
+     "page": 718,
+     "text": "Fortunately, in the normal animal, the rage phenomenon is held in check mainly by inhibitory signals from the ventromedial nuclei of the hypothalamus."
+    },
+    {
+     "page": 718,
+     "text": "In addition, portions of the hippocampi and anterior limbic cortex, especially in the anterior cingulate gyri and subcallosal gyri, help suppress the rage phenomenon."
+    },
+    {
+     "page": 718,
+     "text": "Exactly the opposite emotional behavior patterns occur when the reward centers are stimulated: placidity and tameness."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_learning": {
+   "heading": "Importance of Reward or Punishment on Behavior",
+   "chapter": 58,
+   "found": true,
+   "page_start": 718,
+   "page_end": 718,
+   "sentences": [
+    {
+     "page": 718,
+     "text": "Almost everything that we do is related in some way to reward and punishment."
+    },
+    {
+     "page": 718,
+     "text": "If we are doing something that is rewarding, we continue to do it; if it is punishing, we cease to do it."
+    },
+    {
+     "page": 718,
+     "text": "Therefore, the reward and punishment centers undoubtedly constitute one of the most important of all the controllers of our bodily activities, our drives, our aversions, our motivations."
+    },
+    {
+     "page": 718,
+     "text": "Therefore, it is presumed that tranquilizers function in psychotic states by suppressing many of the important behavioral areas of the hypothalamus and its associated regions of the limbic brain."
+    },
+    {
+     "page": 718,
+     "text": "Animal experiments have shown that a sensory experience that causes neither reward nor punishment is hardly remembered at all."
+    },
+    {
+     "page": 718,
+     "text": "Electrical recordings from the brain show that a newly experienced sensory stimulus almost always excites multiple areas in the cerebral cortex."
+    },
+    {
+     "page": 718,
+     "text": "But if the sensory experience does not elicit a sense of either reward or punishment, repetition of the stimulus over and over leads to almost complete extinction of the cerebral cortical response."
+    },
+    {
+     "page": 718,
+     "text": "That is, the animal becomes habituated to that specific sensory stimulus and thereafter ignores it."
+    },
+    {
+     "page": 718,
+     "text": "If the stimulus does cause either reward or punishment rather than indifference, the cerebral cortical response becomes progressively more and more intense during repeated stimulation instead of fading away, and the response is said to be reinforced."
+    },
+    {
+     "page": 718,
+     "text": "An animal builds up strong memory traces for sensations that are either rewarding or punishing but, conversely, develops complete habituation to indifferent sensory stimuli."
+    },
+    {
+     "page": 718,
+     "text": "It is evident that the reward and punishment centers of the limbic system have much to do with selecting the information that we learn, usually throwing away more than 99 percent of it and selecting less than 1 percent for retention."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_hippocampus": {
+   "heading": "Functions of the Hippocampus",
+   "chapter": 58,
+   "found": true,
+   "page_start": 718,
+   "page_end": 719,
+   "sentences": [
+    {
+     "page": 718,
+     "text": "The hippocampus is the elongated portion of the cerebral cortex that folds inward to form the ventral surface of much of the inside of the lateral ventricle."
+    },
+    {
+     "page": 718,
+     "text": "One end of the hippocampus abuts the amygdaloid nuclei, and along its lateral border it fuses with the parahippocampal gyrus, which is the cerebral cortex on the ventromedial outside surface of the temporal lobe."
+    },
+    {
+     "page": 718,
+     "text": "The hippocampus (and its adjacent temporal and parietal lobe structures, all together called the hippocampal formation) has numerous but mainly indirect connections with many portions of the cerebral cortex, as well as with the basal structures of the limbic system—the amygdala, hypothalamus, septum, and mamillary bodies."
+    },
+    {
+     "page": 718,
+     "text": "Almost any type of sensory experience causes activation of at least some part of the hippocampus, and the hippocampus in turn distributes many outgoing signals to the anterior thalamus, hypothalamus, and other parts of the limbic system, especially through the fornix, a major communicating pathway."
+    },
+    {
+     "page": 718,
+     "text": "Thus, the hippocampus is an additional channel through which incoming sensory Chapter 58 Behavioral and Motivational Mechanisms of the Brain—The Limbic System and the Hypothalamus signals can initiate behavioral reactions for different purposes."
+    },
+    {
+     "page": 718,
+     "text": "As in other limbic structures, stimulation of different areas in the hippocampus can cause almost any of the different behavioral patterns such as pleasure, rage, passivity, or excess sex drive."
+    },
+    {
+     "page": 719,
+     "text": "Another feature of the hippocampus is that it can become hyperexcitable."
+    },
+    {
+     "page": 719,
+     "text": "For instance, weak electrical stimuli can cause focal epileptic seizures in small areas of the hippocampi."
+    },
+    {
+     "page": 719,
+     "text": "These often persist for many seconds after the stimulation is over, suggesting that the hippocampi can perhaps give off prolonged output signals even under normal functioning conditions."
+    },
+    {
+     "page": 719,
+     "text": "During hippocampal seizures, the person experiences various psychomotor effects, including olfactory, visual, auditory, tactile, and other types of hallucinations that cannot be suppressed as long as the seizure persists even though the person has not lost consciousness and knows these hallucinations to be unreal."
+    },
+    {
+     "page": 719,
+     "text": "Probably one of the reasons for this hyperexcitability of the hippocampi is that they have a different type of cortex from that elsewhere in the cerebrum, with only three nerve cell layers in some of its areas instead of the six layers found elsewhere."
+    },
+    {
+     "page": 719,
+     "text": "Portions of the hippocampi have been surgically removed bilaterally in a few human beings for treatment of epilepsy."
+    },
+    {
+     "page": 719,
+     "text": "These people can recall most previously learned memories satisfactorily."
+    },
+    {
+     "page": 719,
+     "text": "However, they often can learn essentially no new information that is based on verbal symbolism."
+    },
+    {
+     "page": 719,
+     "text": "In fact, they often cannot even learn the names of people with whom they come in contact every day."
+    },
+    {
+     "page": 719,
+     "text": "Yet they can remember for a moment or so what transpires during the course of their activities."
+    },
+    {
+     "page": 719,
+     "text": "Thus, they are capable of short-term memory for seconds up to a minute or two, although their ability to establish memories lasting longer than a few minutes is either completely or almost completely abolished."
+    },
+    {
+     "page": 719,
+     "text": "This is the phenomenon called anterograde amnesia that was discussed in Chapter 57."
+    },
+    {
+     "page": 719,
+     "text": "The hippocampus originated as part of the olfactory cortex."
+    },
+    {
+     "page": 719,
+     "text": "In many lower animals, this cortex plays essential roles in determining whether the animal will eat a particular food, whether the smell of a particular object suggests danger, or whether the odor is sexually inviting, thus making decisions that are of life-or-death importance."
+    },
+    {
+     "page": 719,
+     "text": "Very early in evolutionary development of the brain, the hippocampus presumably became a critical decision-making neuronal mechanism, determining the importance of the incoming sensory signals."
+    },
+    {
+     "page": 719,
+     "text": "Once this critical decision-making capability had been established, presumably the remainder of the brain also began to call on the hippocampus for decision making."
+    },
+    {
+     "page": 719,
+     "text": "Therefore, if the hippocampus signals that a neuronal input is important, the information is likely to be committed to memory."
+    },
+    {
+     "page": 719,
+     "text": "Thus, a person rapidly becomes habituated to indifferent stimuli but learns assiduously any sensory experience that causes either pleasure or pain."
+    },
+    {
+     "page": 719,
+     "text": "But what is the mechanism by which this occurs?"
+    },
+    {
+     "page": 719,
+     "text": "It has been suggested that the hippocampus provides the drive that causes translation of short-term memory into long-term memory—that is, the hippocampus transmits some signal or signals that seem to make the mind rehearse over and over the new information until permanent storage takes place."
+    },
+    {
+     "page": 719,
+     "text": "Whatever the mechanism, without the hippocampi, consolidation of long-term memories of the verbal or symbolic thinking type is poor or does not take place."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_amygdala": {
+   "heading": "Functions of the Amygdala",
+   "chapter": 58,
+   "found": true,
+   "page_start": 719,
+   "page_end": 720,
+   "sentences": [
+    {
+     "page": 719,
+     "text": "The amygdala is a complex of multiple small nuclei located immediately beneath the cerebral cortex of the medial anterior pole of each temporal lobe."
+    },
+    {
+     "page": 719,
+     "text": "It has abundant bidirectional connections with the hypothalamus, as well as with other areas of the limbic system."
+    },
+    {
+     "page": 719,
+     "text": "In lower animals, the amygdala is concerned to a great extent with olfactory stimuli and their interrelations with the limbic brain."
+    },
+    {
+     "page": 719,
+     "text": "Indeed, it is pointed out in Chapter 53 that one of the major divisions of the olfactory tract terminates in a portion of the amygdala called the corticomedial nuclei, which lies immediately beneath the cerebral cortex in the olfactory pyriform area of the temporal lobe."
+    },
+    {
+     "page": 719,
+     "text": "In the human being, another portion of the amygdala, the basolateral nuclei, has become much more highly developed than the olfactory portion and plays important roles in many behavioral activities not generally associated with olfactory stimuli."
+    },
+    {
+     "page": 719,
+     "text": "The amygdala receives neuronal signals from all portions of the limbic cortex, as well as from the neocortex of the temporal, parietal, and occipital lobes—especially from the auditory and visual association areas."
+    },
+    {
+     "page": 719,
+     "text": "Because of these multiple connections, the amygdala has been called the “window” through which the limbic system sees the place of the person in the world."
+    },
+    {
+     "page": 719,
+     "text": "In turn, the amygdala transmits signals (1) back into these same cortical areas, (2) into the hippocampus, (3) into the septum, (4) into the thalamus, and (5) especially into the hypothalamus."
+    },
+    {
+     "page": 719,
+     "text": "In general, stimulation in the amygdala can cause almost all the same effects as those elicited by direct stimulation of the hypothalamus, plus other effects."
+    },
+    {
+     "page": 719,
+     "text": "Effects initiated from the amygdala and then sent through the hypothalamus include (1) increases or decreases in arterial pressure; (2) increases or decreases in heart rate; (3) increases or decreases in gastrointestinal motility and secretion; (4) defecation or micturition; (5) pupillary dilation or, rarely, constriction; (6) piloerection; and (7) secretion of various anterior pituitary hormones, hormone."
+    },
+    {
+     "page": 719,
+     "text": "Aside from these effects mediated through the hypothalamus, amygdala stimulation can also cause several types of such as raising the head or bending the body; (2) circling and (4) different types of movements associated with olfaction and eating, such as licking, chewing, and swallowing."
+    },
+    {
+     "page": 719,
+     "text": "In addition, stimulation of certain amygdaloid nuclei can cause a pattern of rage, escape, punishment, severe pain, and fear similar to the rage pattern elicited from the hypothalamus, as described earlier."
+    },
+    {
+     "page": 719,
+     "text": "Stimulation of other amygdaloid nuclei can give reactions of reward and pleasure."
+    },
+    {
+     "page": 720,
+     "text": "Finally, excitation of still other portions of the amygdala can cause sexual activities that include erection, copulatory movements, ejaculation, ovulation, uterine activity, and premature labor."
+    },
+    {
+     "page": 720,
+     "text": "When the anterior parts of both temporal lobes are destroyed in a monkey, this removes not only portions of temporal cortex but also of the amygdalas that lie inside these parts of the temporal lobes."
+    },
+    {
+     "page": 720,
+     "text": "This causes changes in behavior called the Klüver-Bucy syndrome, which is demonstrated by an animal that (1) is not afraid of anything, (2) has extreme curiosity about everything, (3) forgets rapidly, (4) has a tendency to place everything in its mouth and sometimes even tries to eat solid objects, and (5) often has a sex drive so strong that it attempts to copulate with immature animals, animals of the wrong sex, or even animals of a different species."
+    },
+    {
+     "page": 720,
+     "text": "Although similar lesions in human beings are rare, afflicted people respond in a manner not too different from that of the monkey."
+    },
+    {
+     "page": 720,
+     "text": "The amygdalas seem to be behavioral awareness areas that operate at a semiconscious level."
+    },
+    {
+     "page": 720,
+     "text": "They also seem to project into the limbic system one’s current status in relation to both surroundings and thoughts."
+    },
+    {
+     "page": 720,
+     "text": "On the basis of this information, the amygdala is believed to make the person’s behavioral response appropriate for each occasion."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "s11_cortex": {
+   "heading": "Function of the Limbic Cortex",
+   "chapter": 58,
+   "found": true,
+   "page_start": 720,
+   "page_end": 720,
+   "sentences": [
+    {
+     "page": 720,
+     "text": "The most poorly understood portion of the limbic system is the ring of cerebral cortex called the limbic cortex that surrounds the subcortical limbic structures."
+    },
+    {
+     "page": 720,
+     "text": "This cortex functions as a transitional zone through which signals are transmitted from the remainder of the brain cortex into the limbic system and also in the opposite direction."
+    },
+    {
+     "page": 720,
+     "text": "Therefore, the limbic cortex in effect functions as a cerebral association area for control of behavior."
+    },
+    {
+     "page": 720,
+     "text": "Stimulation of the different regions of the limbic cortex has failed to give any real idea of their functions."
+    },
+    {
+     "page": 720,
+     "text": "However, as is true of so many other portions of the limbic system, essentially all behavioral patterns can be elicited by stimulation of specific portions of the limbic cortex."
+    },
+    {
+     "page": 720,
+     "text": "Likewise, ablation of some limbic cortical areas can cause persistent changes in an animal’s behavior, as follows."
+    },
+    {
+     "page": 720,
+     "text": "When the anterior temporal cortex is ablated bilaterally, the amygdalas are almost invariably damaged as well."
+    },
+    {
+     "page": 720,
+     "text": "This was discussed earlier in this chapter; it was pointed out that the KlüverBucy syndrome occurs."
+    },
+    {
+     "page": 720,
+     "text": "The animal especially develops consummatory behavior: it investigates any and all objects, has intense sex drives toward inappropriate animals or even inanimate objects, and loses all fear—and thus develops tameness as well."
+    },
+    {
+     "page": 720,
+     "text": "The anterior cingulate gyri and the subcallosal gyri are the portions of the limbic cortex that communicate between the prefrontal cerebral cortex and the subcortical limbic structures."
+    },
+    {
+     "page": 720,
+     "text": "Destruction of these gyri bilaterally releases the rage centers of the septum and hypothalamus from prefrontal inhibitory influence."
+    },
+    {
+     "page": 720,
+     "text": "Therefore, the animal can become vicious and much more subject to fits of rage than normally."
+    },
+    {
+     "page": 720,
+     "text": "Until further information is available, it is perhaps best to state that the cortical regions of the limbic system occupy intermediate associative positions between the functions of the specific areas of the cerebral cortex and functions of the subcortical limbic structures for control of behavioral patterns."
+    },
+    {
+     "page": 720,
+     "text": "Thus, in the anterior temporal cortex, one especially finds gustatory and olfactory behavioral associations."
+    },
+    {
+     "page": 720,
+     "text": "In the parahippocampal gyri, there is a tendency for complex auditory associations and complex thought associations derived from Wernicke area of the posterior temporal lobe."
+    },
+    {
+     "page": 720,
+     "text": "In the middle and posterior cingulate cortex, there is reason to believe that sensorimotor behavioral associations occur."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}

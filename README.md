@@ -15,9 +15,10 @@
   - جلسهٔ ۸ — **`pdf/HumsYar_Neuro_Jalase8.pdf`** (۶۱ صفحه — اعمال حرکتی ساقهٔ مغز و دستگاه دهلیزی)
   - جلسهٔ ۹ — **`pdf/HumsYar_Neuro_Jalase9.pdf`** (۷۶ صفحه — مخچه و عقده‌های قاعده‌ای)
   - جلسهٔ ۱۰ — **`pdf/HumsYar_Neuro_Jalase10.pdf`** (۵۲ صفحه — کارکردهای عالی قشر مغز، زبان و آفازی‌ها)
+  - جلسهٔ ۱۱ — **`pdf/HumsYar_Neuro_Jalase11.pdf`** (۳۳ صفحه — سیستم لیمبیک، هیپوتالاموس و هیجان)
 - نسخهٔ اولیه جلسهٔ ۱ با نام **`HumsYar_Neuro_Special_Senses_Master.pdf`** هم دست‌نخورده نگه داشته شده است.
 - وضعیت دقیق کار: **`PROJECT_STATUS.md`**
-- گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**، **`reports/S02_QA_REPORT.md`**، **`reports/S03_QA_REPORT.md`**، **`reports/S04_QA_REPORT.md`**، **`reports/S05_QA_REPORT.md`**، **`reports/S06_QA_REPORT.md`**، **`reports/S07_QA_REPORT.md`**، **`reports/S08_QA_REPORT.md`**، **`reports/S09_QA_REPORT.md`**، **`reports/S10_QA_REPORT.md`**
+- گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**، **`reports/S02_QA_REPORT.md`**، **`reports/S03_QA_REPORT.md`**، **`reports/S04_QA_REPORT.md`**، **`reports/S05_QA_REPORT.md`**، **`reports/S06_QA_REPORT.md`**، **`reports/S07_QA_REPORT.md`**، **`reports/S08_QA_REPORT.md`**، **`reports/S09_QA_REPORT.md`**، **`reports/S10_QA_REPORT.md`**، **`reports/S11_QA_REPORT.md`**
 - فهرست دارایی‌ها و منابع: **`INVENTORY.md`**
 
 ## ساخت دوبارهٔ PDF

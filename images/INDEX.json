@@ -9480,6 +9480,21 @@
    "caption": "",
    "topic_ids": [],
    "used_in": "pending"
+  },
+  {
+   "asset_id": "s11_p001_fig03",
+   "source_id": "s11",
+   "page": 1,
+   "index_on_page": 3,
+   "w": 1443,
+   "h": 219,
+   "exported": true,
+   "path": "images/notes_1402/s11_p001_fig03.png",
+   "sha256": "0b1b9079e660dcf25fa62c8c27b2a24aaf1ead934283ff3659e55be6fade8619",
+   "kind": "figure",
+   "caption": "",
+   "topic_ids": [],
+   "used_in": "pending"
   }
  ],
  "note": "Facsimile pages (*_facsimile.png) are page renders of sources whose text layer is unreliable; they are faithful copies, not OCR."
