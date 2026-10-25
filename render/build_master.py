@@ -24,6 +24,47 @@ from pdf_kit import CONTENT_W, MM, PDFBook, TextStyle
 
 REPO = Path(__file__).resolve().parents[1]
 CONTENT = REPO / "content" / "sessions"
+
+# Every session is a separate document and a separate file in ``pdf/``; nothing
+# is ever overwritten.  A session entry only says *where* its data lives and how
+# the cover should read -- the layout code is shared.
+SESSIONS = {
+    "s01": dict(
+        num="۱", n=1, of="۱۶",
+        guyton_ch="فصل ۴۵",
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر برای مباحث ساختاری (۱ تا ۵)، "
+              "سه نفر برای نوروترانسمیترها (۶ تا ۱۰)، دو نفر برای گیرنده‌ها و سم‌شناسی "
+              "(۱۱ تا ۱۳)، یک نفر برای هم‌انتقالی و جمع‌بندی (۱۴) به‌همراه گردآوری. "
+              "این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.",
+        outline="s01_topics.json",
+        content=("s01_a.json", "s01_b.json", "s01_c.json"),
+        guyton="guyton_ch45_excerpts.json",
+        chapter_anchor="ch-s01",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="سازمان‌دهی سیستم عصبی، نورون، نوروترانسمیترها",
+        divider_title="نوروفیزیولوژی:\nاز سازمان‌دهی تا\nنوروترانسمیترها",
+        pdf_name="HumsYar_Neuro_Jalase1.pdf",
+    ),
+    "s02": dict(
+        num="۲", n=2, of="۱۶",
+        guyton_ch="فصل‌های ۴۵ و ۴۶",
+        split="تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر برای مباحث پایه و طبقه‌بندی "
+              "(۱ تا ۴)، دو نفر برای سیناپس شیمیایی و گیرنده‌ها (۵ تا ۷)، دو نفر برای "
+              "پتانسیل پس‌سیناپسی و هدایت عصبی (۸ تا ۱۱)، دو نفر برای کنترل پیش‌سیناپسی، "
+              "مدارها و پایداری (۱۲ تا ۱۶) به‌همراه گردآوری. این تقسیم پیشنهاد است، نه "
+              "تصمیم نهایی تیم.",
+        outline="s02_topics.json",
+        content=("s02_a.json", "s02_b.json", "s02_c.json"),
+        guyton="guyton_s02_excerpts.json",
+        chapter_anchor="ch-s02",
+        cover_title=["فیزیولوژی اعصاب", "و حواس ویژه"],
+        cover_topic="سیناپس، پتانسیل پس‌سیناپسی و مدارهای نورونی",
+        divider_title="نوروفیزیولوژی:\nاز سیناپس تا\nمدارهای نورونی",
+        pdf_name="HumsYar_Neuro_Jalase2.pdf",
+    ),
+}
+
+SESSION = "s01"
 OUTLINE = REPO / "content" / "outline" / "s01_topics.json"
 GUYTON = REPO / "work" / "references" / "guyton_ch45_excerpts.json"
 
@@ -74,27 +115,28 @@ def page_range(pages) -> str:
     return "، ".join(fa(p) for p in pages)
 
 
-def cover_page(book: PDFBook) -> None:
+def cover_page(book: PDFBook, cfg: dict, outline: dict) -> None:
     c = book.c
     c.setFillColor(K.TEAL_L)
     c.setFont("VazirM", 11)
     c.drawCentredString(K.A4W / 2, K.A4H * 0.86, K.shape("HumsYar · جزوهٔ مادر"))
     c.setFillColor(K.HexColor("#ffffff"))
     c.setFont("VazirB", 30)
-    c.drawCentredString(K.A4W / 2, K.A4H * 0.60, K.shape("فیزیولوژی اعصاب"))
-    c.drawCentredString(K.A4W / 2, K.A4H * 0.535, K.shape("و حواس ویژه"))
+    c.drawCentredString(K.A4W / 2, K.A4H * 0.60, K.shape(cfg["cover_title"][0]))
+    c.drawCentredString(K.A4W / 2, K.A4H * 0.535, K.shape(cfg["cover_title"][1]))
     c.setFillColor(K.TEAL_L)
     c.setFont("Vazir", 14)
-    c.drawCentredString(K.A4W / 2, K.A4H * 0.455, K.shape("جزوهٔ مادر — نسخهٔ کاری تیم یادداشت‌نویسی"))
+    c.drawCentredString(K.A4W / 2, K.A4H * 0.455,
+                        K.shape("جزوهٔ مادر — نسخهٔ کاری تیم یادداشت‌نویسی"))
     c.setStrokeColor(K.Color(37 / 255, 99 / 255, 235 / 255))
     c.setLineWidth(1.4)
     c.line(K.A4W * 0.30, K.A4H * 0.42, K.A4W * 0.70, K.A4H * 0.42)
     c.setFillColor(K.HexColor("#94a3b8"))
     c.setFont("Vazir", 10)
     lines = [
-        "دکتر خوارزمی — دانشکدهٔ پزشکی",
-        "جلسهٔ ۱ (از ۱۶): سازمان‌دهی سیستم عصبی، نورون، نوروترانسمیترها",
-        "نسخهٔ ۰٫۱ — فقط جلسهٔ ۱ تألیف شده است",
+        f"{outline.get('professor', 'دکتر خوارزمی')} — دانشکدهٔ پزشکی",
+        f"جلسهٔ {cfg['num']} (از {cfg['of']}): {cfg['cover_topic']}",
+        f"نسخهٔ ۰٫۱ — فقط جلسهٔ {cfg['num']} تألیف شده است",
     ]
     yy = K.A4H * 0.355
     for t in lines:
@@ -131,7 +173,7 @@ def divider(book: PDFBook, kicker: str, title: str, subtitle: str, bullets=()) -
 
 
 # --------------------------------------------------------------------- sections
-def front_matter(book: PDFBook, outline: dict) -> None:
+def front_matter(book: PDFBook, outline: dict, cfg: dict) -> None:
     book.h1("این سند چیست و چطور از آن استفاده کنیم", anchor="front-colophon",
             kicker="شناسنامه")
     book.paragraph(
@@ -164,8 +206,8 @@ def front_matter(book: PDFBook, outline: dict) -> None:
              "جدول‌ها، فهرست‌ها و شکل‌های اصلی درس (منبع اولویت‌دار برای شکل‌ها).",
              "«اسلاید کلاس، ص …»"],
             [GUYTON_ED,
-             "متن اصلی انگلیسی فصل ۴۵، همراه با ترجمهٔ روان تحریریه در همان کادر.",
-             "«گایتون، فصل ۴۵، ص …»"],
+             f"متن اصلی انگلیسی {cfg['guyton_ch']}، همراه با ترجمهٔ روان تحریریه در همان کادر.",
+             "«گایتون، فصل …، ص …»"],
             ["جزوات تکمیلی دکتر قدیری",
              "منبع کمکی برای جلسات بعد؛ در این نسخه استفاده نشده است.",
              "—"],
@@ -202,7 +244,7 @@ def front_matter(book: PDFBook, outline: dict) -> None:
     ])
 
 
-def work_division(book: PDFBook, outline: dict) -> None:
+def work_division(book: PDFBook, outline: dict, cfg: dict) -> None:
     book.h1("نقشهٔ مباحث و پیش‌نیازها", anchor="front-workplan",
             kicker="راهنمای تیم")
     book.paragraph(
@@ -236,26 +278,31 @@ def work_division(book: PDFBook, outline: dict) -> None:
         "پیش از تحویل، مبحث یک‌بار در نسخهٔ چاپی خوانده می‌شود: تیترها، ارجاع‌ها، شکل‌ها و "
         "برگهٔ تحویل. بعد از آن مبحث تحویل‌شده است.",
     ])
-    book.callout("تقسیم کار پیشنهادی برای تیم هشت‌نفره: دو نفر برای مباحث ساختاری (۱ تا ۵)، "
-                 "سه نفر برای نوروترانسمیترها (۶ تا ۱۰)، دو نفر برای گیرنده‌ها و سم‌شناسی "
-                 "(۱۱ تا ۱۳)، یک نفر برای هم‌انتقالی و جمع‌بندی (۱۴) به‌همراه گردآوری. "
-                 "این تقسیم پیشنهاد است، نه تصمیم نهایی تیم.", kind="info")
+    book.callout(cfg["split"], kind="info")
 
 
-def chapter_opener(book: PDFBook, outline: dict, guyton: dict) -> None:
-    book.h1(outline["title"], anchor="ch-s01", kicker="فصل ۱ · جلسهٔ ۱")
+def chapter_opener(book: PDFBook, outline: dict, guyton: dict, cfg: dict | None = None) -> None:
+    cfg = cfg or SESSIONS["s01"]
+    book.h1(outline["title"], anchor=cfg["chapter_anchor"],
+            kicker=f"فصل {cfg['num']} · جلسهٔ {cfg['num']}")
+    p1404 = [p for t in outline["topics"] for p in t.get("p1404", [])]
+    p1402 = [p for t in outline["topics"] for p in t.get("notes1402", [])]
+    rng04 = (f"صفحه‌های {fa(min(p1404))} تا {fa(max(p1404))}") if p1404 else "—"
+    rng02 = (f"{fa(max(p1402))} صفحه") if p1402 else "—"
     book.paragraph(
         f"استاد: {outline['professor']} · ترم: {outline['term']} · "
-        "منبع اصلی متن: جزوهٔ مهر ۱۴۰۴ (۴۲ صفحه، صفحات ۲ تا ۴۲) · "
-        "منبع دوم: جزوهٔ ورودی بهمن ۱۴۰۲ (۱۳ صفحه).")
-    book.h2("نقشهٔ درخت مباحث", anchor="ch-s01-tree")
+        f"منبع اصلی متن: جزوهٔ مهر ۱۴۰۴ ({rng04}) · "
+        f"منبع دوم: جزوهٔ ورودی بهمن ۱۴۰۲ ({rng02}).")
+    book.h2("نقشهٔ درخت مباحث", anchor=f"{cfg['chapter_anchor']}-tree")
     rows = []
     for t in outline["topics"]:
         sub = t["title"]
         rows.append([tno(t["topic_id"]), sub, page_range(t["notes1402"]), t["notes_size"]])
     book.table(["#", "مبحث", "ص ۱۴۰۲", "اندازه"], rows,
                widths=[CONTENT_W * 0.08, CONTENT_W * 0.68, CONTENT_W * 0.16, CONTENT_W * 0.08],
-               size=8.2, caption="جدول ۱-۰ — چهارده مبحث جلسهٔ ۱. زیرمبحث‌ها در ابتدای هر مبحث فهرست شده‌اند.",
+               size=8.2,
+               caption=f"جدول {cfg['num']}-۰ — {fa(len(outline['topics']))} مبحث جلسهٔ {cfg['num']}. "
+                       "زیرمبحث‌ها در ابتدای هر مبحث فهرست شده‌اند.",
                src="نقشهٔ مباحث همین جزوه")
     book.h3("پیش‌نیازهای بین‌مبحثی (نقشهٔ وابستگی دوطرفه)")
     dep_rows = []
@@ -352,10 +399,12 @@ def render_blocks(book: PDFBook, blocks, gsections: dict) -> None:
 
 def roadmap(book: PDFBook, outline: dict, content: dict) -> None:
     book.h1("نقشهٔ جلسات آینده", anchor="roadmap", kicker="ادامهٔ کار")
+    cfg = SESSIONS[SESSION]
     book.paragraph(
-        "این نسخه فقط جلسهٔ ۱ را دارد. جلسه‌های زیر شناسایی شده‌اند و جزوه/اسلایدشان در "
-        "اختیار تیم است؛ برای هر جلسه همان مسیر جلسهٔ ۱ تکرار می‌شود: شناسنامه، متن با ارجاع، "
-        "شکل‌ها، جمع‌بندی، کادرهای یادداشت و برگهٔ تحویل.")
+        f"این سند جلسهٔ {cfg['num']} را دارد و هر جلسهٔ تازه، سند جداگانهٔ خودش را می‌گیرد؛ "
+        "سند جلسه‌های پیشین دست‌نخورده بایگانی می‌شود. جلسه‌های زیر شناسایی شده‌اند و "
+        "جزوه/اسلایدشان در اختیار تیم است؛ برای هر جلسه همان مسیر تکرار می‌شود: شناسنامه، "
+        "متن با ارجاع، شکل‌ها، جمع‌بندی، کادرهای یادداشت و برگهٔ تحویل.")
     book.h2("پوشش صفحه‌های جزوهٔ ۱۴۰۴ در این نسخه", anchor="roadmap-cover")
     per_page = {}
     for t in outline["topics"]:
@@ -364,22 +413,29 @@ def roadmap(book: PDFBook, outline: dict, content: dict) -> None:
     rows = []
     run_start = None
     run_topics = None
-    for p in range(2, 44):
+    lo_pg = min(per_page) if per_page else 2
+    hi_pg = max(per_page) if per_page else 2
+    uncovered = 0
+    for p in range(lo_pg, hi_pg + 2):
         topics_here = tuple(per_page.get(p, []))
-        if p == 43 or topics_here != run_topics:
+        if not topics_here and p <= hi_pg:
+            uncovered += 1
+        if p == hi_pg + 1 or topics_here != run_topics:
             if run_start is not None:
                 span = fa(run_start) if run_start == p - 1 else f"{fa(run_start)}–{fa(p - 1)}"
                 rows.append([span, "، ".join(run_topics) or "— بدون مبحث —"])
             run_start, run_topics = p, topics_here
-        if p == 43:
+        if p == hi_pg + 1:
             break
     book.table(["صفحهٔ جزوهٔ ۱۴۰۴", "مبحث این جزوه"], rows,
                widths=[CONTENT_W * 0.22, CONTENT_W * 0.78], size=7.6,
-               caption="جدول ۲-۱ — همهٔ صفحه‌های ۲ تا ۴۲ جزوهٔ ۱۴۰۴ در دست‌کم یک مبحث پوشش داده شده‌اند.",
+               caption=f"جدول {cfg['num']}-۱ — صفحه‌های {fa(lo_pg)} تا {fa(hi_pg)} جزوهٔ ۱۴۰۴ و مبحثی که "
+                       "آن‌ها را پوشش می‌دهد." + (" همهٔ صفحه‌ها پوشش دارند."
+                                                   if uncovered == 0 else ""),
                src="مقایسهٔ صفحه‌به‌صفحهٔ جزوه و مباحث این سند")
 
     book.h2("جلسه‌های باقی‌مانده", anchor="roadmap-sessions")
-    rows = [
+    remaining = [
         ["۲", "سیناپس، پتانسیل عمل و هدایت عصبی", "دارد", "دارد"],
         ["۳", "گیرنده‌های حسی و انتقال حس", "دارد", "دارد"],
         ["۴", "درد، رفلکس‌ها و مسیرهای صعودی", "دارد", "دارد"],
@@ -391,15 +447,16 @@ def roadmap(book: PDFBook, outline: dict, content: dict) -> None:
         ["۱۵", "اتونوم تکمیلی (جزوهٔ مستقل)", "دارد", "جزئی"],
         ["۱۶", "پری لب", "دارد", "—"],
     ]
+    rows = [r for r in remaining if int(r[0].translate(str.maketrans("۰۱۲۳۴۵۶۷۸۹", "0123456789")).split("–")[0]) > cfg["n"]]
     book.table(["جلسه", "موضوع", "جزوهٔ ۱۴۰۴", "جزوهٔ ۱۴۰۲"], rows,
                widths=[CONTENT_W * 0.10, CONTENT_W * 0.50, CONTENT_W * 0.20,
                        CONTENT_W * 0.20],
                size=8.0,
-               caption="جدول ۲-۲ — ستون‌های «جزوهٔ ۱۴۰۴» و «جزوهٔ ۱۴۰۲» می‌گویند منبع آن جلسه در اختیار تیم هست یا نه.",
+               caption=f"جدول {cfg['num']}-۲ — ستون‌های «جزوهٔ ۱۴۰۴» و «جزوهٔ ۱۴۰۲» می‌گویند منبع آن جلسه در اختیار تیم هست یا نه.",
                src="فهرست منابع درس")
 
 
-def back_page(book: PDFBook) -> None:
+def back_page(book: PDFBook, cfg: dict) -> None:
     def painter(b: PDFBook) -> None:
         c = b.c
         c.setFillColor(K.HexColor("#ffffff"))
@@ -407,8 +464,10 @@ def back_page(book: PDFBook) -> None:
         c.drawCentredString(K.A4W / 2, K.A4H * 0.60, K.shape("پایان نسخهٔ ۰٫۱"))
         c.setFillColor(K.TEAL_L)
         c.setFont("Vazir", 11)
+        nxt = str(cfg["n"] + 1).translate(K.FA_DIGITS)
         c.drawCentredString(K.A4W / 2, K.A4H * 0.55,
-                            K.shape("جلسهٔ ۱ تألیف شد؛ اجرای جلسهٔ ۲ منوط به دستور تیم است"))
+                            K.shape(f"جلسهٔ {cfg['num']} تألیف شد؛ آغاز جلسهٔ {nxt} "
+                                    "منوط به دستور تیم است"))
         c.setFillColor(K.HexColor("#64748b"))
         c.setFont("VazirL", 9)
         c.drawCentredString(K.A4W / 2, K.A4H * 0.22,
@@ -418,30 +477,23 @@ def back_page(book: PDFBook) -> None:
 
 # --------------------------------------------------------------------- assembly
 def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
-    outline = load_json(OUTLINE)
-    guyton = load_json(GUYTON)["sections"]
+    cfg = SESSIONS[SESSION]
+    outline = load_json(REPO / "content" / "outline" / cfg["outline"])
+    guyton = load_json(REPO / "work" / "references" / cfg["guyton"])["sections"]
 
     content: dict[str, list] = {}
-    for fname in ("s01_a.json", "s01_b.json", "s01_c.json"):
+    for fname in cfg["content"]:
         for topic in load_json(CONTENT / fname):
             content[topic["topic_id"]] = topic["blocks"]
-    # page map for the topic header line
-    page_map = {
-        "s01-T01": [2, 3], "s01-T02": [3, 4, 5, 6], "s01-T03": [6, 7, 8, 9],
-        "s01-T04": [9, 10, 11, 12, 13, 14], "s01-T05": [14, 15, 16, 17, 18],
-        "s01-T06": [18, 19, 20, 21, 22, 23], "s01-T07": [23, 24, 25],
-        "s01-T08": [25, 26, 27], "s01-T09": [27, 28], "s01-T10": [28, 29],
-        "s01-T11": [29, 30, 31, 32], "s01-T12": [32, 33, 34, 35, 36],
-        "s01-T13": [36, 37, 38], "s01-T14": [38, 39, 40, 41, 42],
-    }
+    # page map for the topic header line (the outline is the single source)
     for t in outline["topics"]:
-        t["p1404"] = page_map.get(t["topic_id"], [])
+        t["p1404"] = t.get("p1404", [])
 
     book = PDFBook(out_path, "جزوهٔ مادر فیزیولوژی اعصاب و حواس ویژه — نسخهٔ ۰٫۱")
-    book.dark_page(cover_page, reuse_blank_page=True)
+    book.dark_page(lambda b: cover_page(b, cfg, outline), reuse_blank_page=True)
 
-    front_matter(book, outline)
-    work_division(book, outline)
+    front_matter(book, outline, cfg)
+    work_division(book, outline, cfg)
 
     # ---------------- TOC (numbers come from the previous pass)
     toc_pages = toc_pages or {}
@@ -452,14 +504,15 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
     toc_rows = [
         ("۰", "شناسنامه و راهنمای استفاده", "front-colophon", 0),
         ("۰", "نقشهٔ مباحث و پیش‌نیازها", "front-workplan", 0),
-        ("۱", "فصل ۱ — جلسهٔ ۱: سازمان‌دهی تا نوروترانسمیترها", "ch-s01", 0),
+        (cfg["num"], f"فصل {cfg['num']} — جلسهٔ {cfg['num']}: {cfg['cover_topic']}",
+         cfg["chapter_anchor"], 0),
     ]
     for i, t in enumerate(outline["topics"], start=1):
         toc_rows.append((f"{i:02d}", t["title"], t["topic_id"], 1))
     toc_rows += [
-        ("۲", "نقشهٔ جلسات آینده", "roadmap", 0),
-        ("۲", "پوشش صفحه‌های جزوهٔ ۱۴۰۴", "roadmap-cover", 1),
-        ("۲", "جلسه‌های باقی‌مانده", "roadmap-sessions", 1),
+        ("ر", "نقشهٔ جلسات آینده", "roadmap", 0),
+        ("ر", "پوشش صفحه‌های جزوهٔ ۱۴۰۴", "roadmap-cover", 1),
+        ("ر", "جلسه‌های باقی‌مانده", "roadmap-sessions", 1),
     ]
     for num, title, anchor, indent in toc_rows:
         pg = toc_pages.get(anchor)
@@ -471,20 +524,20 @@ def build(out_path: Path, toc_pages: dict[str, int] | None = None) -> PDFBook:
                  if b.get("type") == "figure")
     n_guy = sum(1 for blocks in content.values() for b in blocks
                 if b.get("type") in ("guyton", "guytonpair"))
-    divider(book, "فصل ۱ · جلسهٔ ۱", "نوروفیزیولوژی:\nاز سازمان‌دهی تا\nنوروترانسمیترها",
-            "دکتر خوارزمی · مهر ۱۴۰۴ + بهمن ۱۴۰۲",
+    divider(book, f"فصل {cfg['num']} · جلسهٔ {cfg['num']}", cfg["divider_title"],
+            outline.get("subtitle", "دکتر خوارزمی · مهر ۱۴۰۴ + بهمن ۱۴۰۲"),
             [f"{fa(len(outline['topics']))} مبحث · {fa(n_figs)} شکل و جدول از منابع درس · "
              f"{fa(n_guy)} کادر گایتون با ترجمه",
-             "صفحه‌های ۲ تا ۴۲ جزوهٔ ۱۴۰۴ و ۱۳ صفحهٔ ۱۴۰۲",
+             outline.get("divider_note", "جزوهٔ مهر ۱۴۰۴ و جزوهٔ بهمن ۱۴۰۲"),
              "پیش‌نویس ویرایشی — بازبینی علمی در جریان"])
-    chapter_opener(book, outline, {"sections": guyton})
+    chapter_opener(book, outline, {"sections": guyton}, cfg)
 
     for i, t in enumerate(outline["topics"], start=1):
         topic_head(book, t, i, len(outline["topics"]), outline)
         render_blocks(book, content.get(t["topic_id"], []), guyton)
 
     roadmap(book, outline, content)
-    back_page(book)
+    back_page(book, cfg)
     book._furniture()
     book.c.save()
     return book
@@ -527,10 +580,25 @@ def drop_trailing_blank_page(path: Path) -> int | None:
 
 
 def main() -> None:
+    global SESSION, OUTLINE, GUYTON
     ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default=str(REPO / "HumsYar_Neuro_Special_Senses_Master.pdf"))
+    ap.add_argument("--session", default="s01", choices=sorted(SESSIONS))
+    ap.add_argument("--out", default=None)
+    ap.add_argument("--force", action="store_true",
+                    help="allow overwriting an already published session PDF")
     args = ap.parse_args()
-    out = Path(args.out)
+
+    SESSION = args.session
+    cfg = SESSIONS[SESSION]
+    OUTLINE = REPO / "content" / "outline" / cfg["outline"]
+    GUYTON = REPO / "work" / "references" / cfg["guyton"]
+
+    out = Path(args.out) if args.out else REPO / "pdf" / cfg["pdf_name"]
+    out.parent.mkdir(parents=True, exist_ok=True)
+    if out.exists() and not args.force:
+        raise SystemExit(
+            f"{out} already exists — a published session PDF is never replaced by "
+            "another session. Pass --force only to re-render this same session.")
 
     pages: dict[str, int] = {}
     book = None

@@ -32,21 +32,27 @@ import pypdfium2 as pdfium
 REPO = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO / "render"))
 
-PDF = REPO / "HumsYar_Neuro_Special_Senses_Master.pdf"
-OUTLINE = REPO / "content" / "outline" / "s01_topics.json"
 CONTENT_DIR = REPO / "content" / "sessions"
 INDEX = REPO / "images" / "INDEX.json"
-REPORT = REPO / "reports" / "S01_QA_REPORT.md"
 
-CONTENT_FILES = ("s01_a.json", "s01_b.json", "s01_c.json")
-PAGE_MAP = {
-    "s01-T01": [2, 3], "s01-T02": [3, 4, 5, 6], "s01-T03": [6, 7, 8, 9],
-    "s01-T04": [9, 10, 11, 12, 13, 14], "s01-T05": [14, 15, 16, 17, 18],
-    "s01-T06": [18, 19, 20, 21, 22, 23], "s01-T07": [23, 24, 25],
-    "s01-T08": [25, 26, 27], "s01-T09": [27, 28], "s01-T10": [28, 29],
-    "s01-T11": [29, 30, 31, 32], "s01-T12": [32, 33, 34, 35, 36],
-    "s01-T13": [36, 37, 38], "s01-T14": [38, 39, 40, 41, 42],
+# session -> its files; the QA gates are identical for every session
+SESSIONS = {
+    "s01": dict(pdf=REPO / "pdf" / "HumsYar_Neuro_Jalase1.pdf",
+                outline="s01_topics.json",
+                content=("s01_a.json", "s01_b.json", "s01_c.json"),
+                report=REPO / "reports" / "S01_QA_REPORT.md"),
+    "s02": dict(pdf=REPO / "pdf" / "HumsYar_Neuro_Jalase2.pdf",
+                outline="s02_topics.json",
+                content=("s02_a.json", "s02_b.json", "s02_c.json"),
+                report=REPO / "reports" / "S02_QA_REPORT.md"),
 }
+
+SESSION = "s01"
+PDF = SESSIONS[SESSION]["pdf"]
+OUTLINE = REPO / "content" / "outline" / SESSIONS[SESSION]["outline"]
+REPORT = SESSIONS[SESSION]["report"]
+CONTENT_FILES = SESSIONS[SESSION]["content"]
+PAGE_MAP: dict[str, list[int]] = {}
 
 SIMPLE_TYPES = {"h3", "guyton", "guytonpair", "note", "figure", "facsimile",
                 "idcard", "handoff"}
@@ -98,7 +104,18 @@ def chars_present(probe: str, page_counter: Counter) -> bool:
 
 
 def main() -> int:
+    global SESSION, PDF, OUTLINE, REPORT, CONTENT_FILES, PAGE_MAP
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--session", default="s01", choices=sorted(SESSIONS))
+    args = ap.parse_args()
+    SESSION = args.session
+    cfg = SESSIONS[SESSION]
+    PDF, OUTLINE, REPORT = cfg["pdf"], REPO / "content" / "outline" / cfg["outline"], cfg["report"]
+    CONTENT_FILES = cfg["content"]
+
     outline = json.loads(OUTLINE.read_text(encoding="utf-8"))
+    PAGE_MAP = {t["topic_id"]: t.get("p1404", []) for t in outline["topics"]}
     topics = {t["topic_id"]: t for t in outline["topics"]}
     content: dict[str, list] = {}
     for fname in CONTENT_FILES:
@@ -133,7 +150,9 @@ def main() -> int:
     for tid, pages in PAGE_MAP.items():
         for p in pages:
             page_claims.setdefault(p, []).append(tid)
-    uncovered = [p for p in range(2, 43) if p not in page_claims]
+    all_pages = sorted(page_claims)
+    uncovered = [p for p in range(min(all_pages), max(all_pages) + 1)
+                 if p not in page_claims] if all_pages else []
     for p in uncovered:
         problems.append(f"1404 page {p} is not claimed by any topic")
     figures_used = [b["asset"] for blocks in content.values() for b in blocks

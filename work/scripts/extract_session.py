@@ -20,6 +20,7 @@ from lib_common import (  # noqa: E402
 
 SESSION_DIRS = {
     "s01": ("جلسه 1", "جلسه 1 نوروفیزیولوژی مهر 1404.pdf", "نوروفیزیولوژی 01 نهایی بهمن 1402.pdf"),
+    "s02": ("جلسه 2", "جلسه ۲ نوروفیزیولوژی مهر 1404.pdf", "نوروفیزیولوژی 02 نهایی بهمن 1402.pdf"),
 }
 
 MIN_FIG = (120, 90)          # px; below this we still *record* it but do not export

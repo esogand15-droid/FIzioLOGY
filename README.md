@@ -4,17 +4,20 @@
 هدف: نگه‌داشتن کل محتوای منابع در یک ساختار واحد و قابل تقسیم بین اعضای تیم —
 نه جزوهٔ عمومی دانشجویی.
 
-- سند تولیدی: **`HumsYar_Neuro_Special_Senses_Master.pdf`**
+- هر جلسه یک سند جداگانه (هیچ فایلی جای‌گزین جلسهٔ قبل نمی‌شود):
+  - جلسهٔ ۱ — **`pdf/HumsYar_Neuro_Jalase1.pdf`** (۶۴ صفحه)
+  - جلسهٔ ۲ — **`pdf/HumsYar_Neuro_Jalase2.pdf`** (۵۷ صفحه)
+- نسخهٔ اولیه جلسهٔ ۱ با نام **`HumsYar_Neuro_Special_Senses_Master.pdf`** هم دست‌نخورده نگه داشته شده است.
 - وضعیت دقیق کار: **`PROJECT_STATUS.md`**
-- گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**
+- گزارش کنترل کیفیت (خودکار): **`reports/S01_QA_REPORT.md`**، **`reports/S02_QA_REPORT.md`**
 - فهرست دارایی‌ها و منابع: **`INVENTORY.md`**
 
 ## ساخت دوبارهٔ PDF
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
-.venv/bin/python render/build_master.py   # PDF
-.venv/bin/python render/qa_report.py      # گزارش کیفیت (کد خروج ۱ = خطای سخت)
+.venv/bin/python render/build_master.py --session s02   # PDF همان جلسه
+.venv/bin/python render/qa_report.py --session s02      # گزارش کیفیت (کد خروج ۱ = خطای سخت)
 ```
 
 توضیح معماری، قرارداد فایل‌های محتوا و چک‌لیست بازبینی علمی: `render/README.md`.
@@ -26,6 +29,7 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 | `content/outline/` | نقشهٔ مباحث، پیش‌نیازها، نگاشت صفحه؛ منبع ساخت فهرست و پیوست‌ها |
 | `content/sessions/` | متن تألیف‌شده به تفکیک مبحث (JSON، هر بلوک با ارجاع صفحه) |
 | `render/` | موتور چیدمان RTL، اسکریپت ساخت، اسکریپت QA |
+| `pdf/` | سند نهایی هر جلسه با نام مستقل خودش (`HumsYar_Neuro_Jalase1.pdf`، `Jalase2` …) |
 | `work/extraction/` | خروجی خام استخراج متن/شکل (دست‌نخورده، برای بازبینی) |
 | `work/references/` | گایتون: نمایهٔ فصل‌ها و جملات صفحه‌گرفته‌شده |
 | `work/drafts/` | پیش‌نویس‌های صفحه‌محور هر مبحث (ورودی تألیف) |

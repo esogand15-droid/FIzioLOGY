@@ -1,0 +1,1760 @@
+{
+ "source": "Guyton and Hall Textbook of Medical Physiology English.md",
+ "note": "verbatim sentences from the PDF->markdown conversion; line wrapping undone only",
+ "sections": {
+  "synapse_anatomy": {
+   "heading": "Central Nervous System Synapses",
+   "chapter": 45,
+   "found": true,
+   "page_start": 546,
+   "page_end": 548,
+   "sentences": [
+    {
+     "page": 546,
+     "text": "Information is transmitted in the central nervous system mainly in the form of nerve action potentials, called simply “nerve impulses,” through a succession of neurons, one after another."
+    },
+    {
+     "page": 546,
+     "text": "However, in addition, each impulse (1) may be blocked in its transmission from one neuron to the next, (2) may be changed from a single impulse into repetitive impulses, or (3) may be integrated with impulses from other neurons to cause highly intricate patterns of impulses in successive neurons."
+    },
+    {
+     "page": 546,
+     "text": "All these functions can be classified as synaptic functions of neurons."
+    },
+    {
+     "page": 546,
+     "text": "There are two major types of synapses: (1) the chemical synapse and (2) the electrical synapse."
+    },
+    {
+     "page": 546,
+     "text": "Almost all the synapses used for signal transmission in the central nervous system of the human being are chemical synapses."
+    },
+    {
+     "page": 546,
+     "text": "In these, the first neuron secretes at its nerve ending synapse a chemical substance called a neurotransmitter (or often called simply transmitter substance), and this transmitter in turn acts on receptor proteins in the membrane of the next neuron to excite the neuron, inhibit it, or modify its sensitivity in some other way."
+    },
+    {
+     "page": 546,
+     "text": "More than 40 important transmitter substances have been discovered thus far."
+    },
+    {
+     "page": 546,
+     "text": "Some of the best known are acetylcholine, norepiacid (GABA), glycine, serotonin, and glutamate."
+    },
+    {
+     "page": 546,
+     "text": "Electrical synapses, in contrast, are characterized by direct open fluid channels that conduct electricity from one cell to the next."
+    },
+    {
+     "page": 546,
+     "text": "Most of these consist of small protein tubular structures called gap junctions that allow free movement of ions from the interior of one cell to the interior of the next."
+    },
+    {
+     "page": 546,
+     "text": "Such junctions were discussed in Chapter 4."
+    },
+    {
+     "page": 546,
+     "text": "Only a few examples of gap junctions have been found in the central nervous system."
+    },
+    {
+     "page": 546,
+     "text": "However, it is by way of gap junctions and other similar junctions that action potentials are transmitted from one smooth muscle fiber to the next in visceral smooth muscle (Chapter 8) and from one cardiac muscle cell to the next in cardiac muscle (Chapter 10)."
+    },
+    {
+     "page": 546,
+     "text": "Chemical synapses have one exceedingly important characteristic that makes them highly desirable for transmitting most nervous system signals."
+    },
+    {
+     "page": 546,
+     "text": "They always transmit the signals in one direction: that is, from the neuron that secretes the transmitter substance, called the presynaptic neuron, to the neuron on which the transmitter acts, called the postsynaptic neuron."
+    },
+    {
+     "page": 546,
+     "text": "This is the principle of one-way conduction at chemical synapses, and it is quite different from conduction through electrical synapses, which often transmit signals in either direction."
+    },
+    {
+     "page": 547,
+     "text": "Think for a moment about the extreme importance of the one-way conduction mechanism."
+    },
+    {
+     "page": 547,
+     "text": "It allows signals to be directed toward specific goals."
+    },
+    {
+     "page": 547,
+     "text": "Indeed, it is this specific transmission of signals to discrete and highly focused areas both within the nervous system and at the terminals of the peripheral nerves that allows the nervous system to perform its myriad functions of sensation, motor control, memory, and many others."
+    },
+    {
+     "page": 547,
+     "text": "Physiologic Anatomy of the Synapse Figure 45-5 shows a typical anterior motor neuron in the anterior horn of the spinal cord."
+    },
+    {
+     "page": 547,
+     "text": "It is composed of three major parts: the soma, which is the main body of the neuron; a single axon, which extends from the soma into a peripheral nerve that leaves the spinal cord; and the dendrites, which are great numbers of branching projections of the soma that extend as much as 1 millimeter into the surrounding areas of the cord."
+    },
+    {
+     "page": 547,
+     "text": "As many as 10,000 to 200,000 minute synaptic knobs called presynaptic terminals lie on the surfaces of the dendrites and soma of the motor neuron, about 80 to 95 percent of them on the dendrites and only 5 to 20 percent on the soma."
+    },
+    {
+     "page": 547,
+     "text": "These presynaptic terminals are the ends of nerve fibrils that originate from many other neurons."
+    },
+    {
+     "page": 547,
+     "text": "Many of these presynaptic terminals are excitatory— that is, they secrete a transmitter substance that excites the postsynaptic neuron."
+    },
+    {
+     "page": 547,
+     "text": "But other presynaptic terminals are inhibitory—they secrete a transmitter substance that inhibits the postsynaptic neuron."
+    },
+    {
+     "page": 547,
+     "text": "Neurons in other parts of the cord and brain differ from the anterior motor neuron in (1) the size of the cell body; (2) the length, size, and number of dendrites, ranging in length from almost zero to many centimeters; (3) the length and size of the axon; and (4) the number of presynaptic terminals, which may range from only a few to as many as 200,000."
+    },
+    {
+     "page": 547,
+     "text": "These differences make neurons in different parts of the nervous system react differently to incoming synaptic signals and, therefore, perform many different functions."
+    },
+    {
+     "page": 547,
+     "text": "Electron microscopic studies of the presynaptic terminals show that they have varied anatomical forms, but most resemble small round or oval knobs and, therefore, are sometimes called terminal knobs, boutons, end-feet, or synaptic knobs."
+    },
+    {
+     "page": 547,
+     "text": "Figure 45-6 illustrates the basic structure of a synapse, showing a single presynaptic terminal on the membrane surface of a postsynaptic neuron."
+    },
+    {
+     "page": 547,
+     "text": "The presynaptic terminal is separated from the postsynaptic neuronal soma by a synaptic cleft having a width usually of 200 to 300 angstroms."
+    },
+    {
+     "page": 547,
+     "text": "The terminal has two internal structures important to the excitatory or inhibitory function of the synapse: the transmitter vesicles and the mitochondria."
+    },
+    {
+     "page": 547,
+     "text": "The transmitter vesicles contain the transmitter substance that, when released into the synaptic cleft, either excites or inhibits the postsynaptic neuron—excites if the neuronal membrane contains excitatory receptors, inhibits if the membrane contains inhibitory receptors."
+    },
+    {
+     "page": 547,
+     "text": "The mitochondria provide adenosine triphosphate (ATP), which in turn supplies the energy for synthesizing new transmitter substance."
+    },
+    {
+     "page": 547,
+     "text": "When an action potential spreads over a presynaptic terminal, depolarization of its membrane causes a small number of vesicles to empty into the cleft."
+    },
+    {
+     "page": 547,
+     "text": "The released terminals on the neuronal soma and dendrites."
+    },
+    {
+     "page": 547,
+     "text": "Note also the single axon."
+    },
+    {
+     "page": 548,
+     "text": "The membrane of the presynaptic terminal is called the presynaptic membrane."
+    },
+    {
+     "page": 548,
+     "text": "It contains large numbers of voltage-gated calcium channels."
+    },
+    {
+     "page": 548,
+     "text": "When an action potential depolarizes the presynaptic membrane, these calcium channels open and allow large numbers of calcium ions to flow into the terminal."
+    },
+    {
+     "page": 548,
+     "text": "The quantity of transmitter substance that is then released from the terminal into the synaptic cleft is directly related to the number of calcium ions that enter."
+    },
+    {
+     "page": 548,
+     "text": "The precise mechanism by which the calcium ions cause this release is not known, but it is believed to be the following."
+    },
+    {
+     "page": 548,
+     "text": "When the calcium ions enter the presynaptic terminal, it is believed that they bind with special protein molecules on the inside surface of the presynaptic membrane, called release sites."
+    },
+    {
+     "page": 548,
+     "text": "This binding in turn causes the release sites to open through the membrane, allowing a few transmitter vesicles to release their transmitter into the cleft after each single action potential."
+    },
+    {
+     "page": 548,
+     "text": "For those vesicles that store the neurotransmitter acetylcholine, between 2000 and 10,000 molecules of acetylcholine are present in each vesicle, and there are enough vesicles in the presynaptic terminal to transmit from a few hundred to more than 10,000 action potentials."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "calcium_release": {
+   "heading": "Mechanism by Which an Action Potential Causes Transmitter Release from the Presynaptic Terminals—Role of Calcium Ions",
+   "chapter": 45,
+   "found": true,
+   "page_start": 548,
+   "page_end": 548,
+   "sentences": [
+    {
+     "page": 548,
+     "text": "The membrane of the presynaptic terminal is called the presynaptic membrane."
+    },
+    {
+     "page": 548,
+     "text": "It contains large numbers of voltage-gated calcium channels."
+    },
+    {
+     "page": 548,
+     "text": "When an action potential depolarizes the presynaptic membrane, these calcium channels open and allow large numbers of calcium ions to flow into the terminal."
+    },
+    {
+     "page": 548,
+     "text": "The quantity of transmitter substance that is then released from the terminal into the synaptic cleft is directly related to the number of calcium ions that enter."
+    },
+    {
+     "page": 548,
+     "text": "The precise mechanism by which the calcium ions cause this release is not known, but it is believed to be the following."
+    },
+    {
+     "page": 548,
+     "text": "When the calcium ions enter the presynaptic terminal, it is believed that they bind with special protein molecules on the inside surface of the presynaptic membrane, called release sites."
+    },
+    {
+     "page": 548,
+     "text": "This binding in turn causes the release sites to open through the membrane, allowing a few transmitter vesicles to release their transmitter into the cleft after each single action potential."
+    },
+    {
+     "page": 548,
+     "text": "For those vesicles that store the neurotransmitter acetylcholine, between 2000 and 10,000 molecules of acetylcholine are present in each vesicle, and there are enough vesicles in the presynaptic terminal to transmit from a few hundred to more than 10,000 action potentials."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "receptor_proteins": {
+   "heading": "Action of the Transmitter Substance on the Postsynaptic Neuron",
+   "chapter": 45,
+   "found": true,
+   "page_start": 548,
+   "page_end": 549,
+   "sentences": [
+    {
+     "page": 548,
+     "text": "The membrane of the postsynaptic neuron contains large numbers of receptor proteins, also shown in Figure 45-6."
+    },
+    {
+     "page": 548,
+     "text": "The molecules of these receptors have two important components: (1) a binding component that protrudes outward from the membrane into the synaptic cleft—here it binds the neurotransmitter coming from the presynaptic terminal—and (2) an ionophore component that passes all the way through the postsynaptic membrane to the interior of the postsynaptic neuron."
+    },
+    {
+     "page": 548,
+     "text": "The ionophore in turn is one of two types: (1) an ion channel that allows passage of specified types of ions through the membrane or (2) a “second messenger” activator that is not an ion channel but instead is a molecule that protrudes into the cell cytoplasm and activates one or more substances inside the postsynaptic neuron."
+    },
+    {
+     "page": 548,
+     "text": "These substances in turn serve as “second messengers” to increase or decrease specific cellular functions."
+    },
+    {
+     "page": 548,
+     "text": "The cation channels that conduct sodium ions are lined with negative charges."
+    },
+    {
+     "page": 548,
+     "text": "These charges attract the positively charged sodium ions into the channel when the channel diameter increases to a size larger than that of the hydrated sodium ion."
+    },
+    {
+     "page": 548,
+     "text": "But those same negative charges repel chloride ions and other anions and prevent their passage."
+    },
+    {
+     "page": 548,
+     "text": "For the anion channels, when the channel diameters become large enough, chloride ions pass into the channels and on through to the opposite side, whereas sodium, potassium, and calcium cations are blocked, mainly because their hydrated ions are too large to pass."
+    },
+    {
+     "page": 548,
+     "text": "We will learn later that when cation channels open and allow positively charged sodium ions to enter, the positive electrical charges of the sodium ions will in turn excite this neuron."
+    },
+    {
+     "page": 548,
+     "text": "Therefore, a transmitter substance that opens cation channels is called an excitatory transmitter."
+    },
+    {
+     "page": 548,
+     "text": "Conversely, opening anion channels allows negative electrical charges to enter, which inhibits the neuron."
+    },
+    {
+     "page": 548,
+     "text": "Therefore, transmitter substances that open these channels are called inhibitory transmitters."
+    },
+    {
+     "page": 548,
+     "text": "When a transmitter substance activates an ion channel, the channel usually opens within a fraction of a millisecond; when the transmitter substance is no longer present, the channel closes equally rapidly."
+    },
+    {
+     "page": 548,
+     "text": "The opening and closing of ion channels provide a means for very rapid control of postsynaptic neurons."
+    },
+    {
+     "page": 548,
+     "text": "Many functions of the nervous system—for instance, the process of memory—require prolonged changes in neurons for seconds to months after the initial transmitter substance is gone."
+    },
+    {
+     "page": 548,
+     "text": "The ion channels are not suitable for causing prolonged postsynaptic neuronal changes because these channels close within milliseconds after the transmitter substance is no longer present."
+    },
+    {
+     "page": 548,
+     "text": "However, in many instances, prolonged postsynaptic neuronal excitation or inhibition is achieved by activating a “second messenger” chemical system inside the postsynaptic neuronal cell itself, and then it is the second messenger that causes the prolonged effect."
+    },
+    {
+     "page": 548,
+     "text": "There are several types of second messenger systems."
+    },
+    {
+     "page": 548,
+     "text": "One of the most common types uses a group of proteins called G-proteins."
+    },
+    {
+     "page": 548,
+     "text": "Figure 45-7 shows in the upper left corner a membrane receptor protein."
+    },
+    {
+     "page": 548,
+     "text": "A G-protein is attached to the portion of the receptor that protrudes into the interior of the cell."
+    },
+    {
+     "page": 548,
+     "text": "The G-protein in turn consists of three components: an alpha (α) component that is the activator portion of the G-protein and beta (β) and gamma (γ) components that are attached to the alpha component and also to the inside of the cell membrane adjacent to the receptor protein."
+    },
+    {
+     "page": 548,
+     "text": "On activation by a nerve impulse, the alpha portion of the G-protein separates from the beta and gamma portions and then is free to move within the cytoplasm of the cell."
+    },
+    {
+     "page": 548,
+     "text": "Inside the cytoplasm, the separated alpha component performs one or more of multiple functions, depending on the specific characteristic of each type of neuron."
+    },
+    {
+     "page": 548,
+     "text": "Shown in Figure 45-7 are four changes that can occur."
+    },
+    {
+     "page": 548,
+     "text": "They are as follows: 1."
+    },
+    {
+     "page": 548,
+     "text": "Opening specific ion channels through the postsynaptic cell membrane."
+    },
+    {
+     "page": 548,
+     "text": "Shown in the upper right of the figure is a potassium channel that is opened in response to the G-protein; this channel often stays open for a prolonged time, in contrast to rapid closure of directly activated ion channels that do not use the second messenger system."
+    },
+    {
+     "page": 549,
+     "text": "Recall that either cyclic AMP or cyclic GMP can activate highly specific metabolic machinery in the neuron and, therefore, can initiate any one of many chemical results, including long-term changes in cell structure itself, which in turn alters long-term excitability of the neuron."
+    },
+    {
+     "page": 549,
+     "text": "Activation of one or more intracellular enzymes."
+    },
+    {
+     "page": 549,
+     "text": "The G-protein can directly activate one or more intracellular enzymes."
+    },
+    {
+     "page": 549,
+     "text": "In turn the enzymes can cause any one of many specific chemical functions in the cell."
+    },
+    {
+     "page": 549,
+     "text": "Activation of gene transcription."
+    },
+    {
+     "page": 549,
+     "text": "This is one of the most important effects of activation of the second messenger systems because gene transcription can cause formation of new proteins within the neuron, thereby changing its metabolic machinery or its structure."
+    },
+    {
+     "page": 549,
+     "text": "Indeed, it is well known that structural changes of appropriately activated neurons do occur, especially in long-term memory processes."
+    },
+    {
+     "page": 549,
+     "text": "It is clear that activation of second messenger systems within the neuron, whether they be of the G-protein type or of other types, is extremely important for changing the long-term response characteristics of different neuronal pathways."
+    },
+    {
+     "page": 549,
+     "text": "We will return to this subject in more detail in Chapter 57 when we discuss memory functions of the nervous system."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "excitation_inhibition": {
+   "heading": "Excitatory or Inhibitory Receptors in the",
+   "chapter": 45,
+   "found": true,
+   "page_start": 2,
+   "page_end": 552,
+   "sentences": [
+    {
+     "page": 549,
+     "text": "Some postsynaptic receptors, when activated, cause excitation of the postsynaptic neuron, and others cause inhibition."
+    },
+    {
+     "page": 549,
+     "text": "The importance of having inhibitory, as well as excitatory, types of receptors is that this gives an additional dimension to nervous function, allowing restraint of nervous action and excitation."
+    },
+    {
+     "page": 549,
+     "text": "The different molecular and membrane mechanisms used by the different receptors to cause excitation or inhibition include the following."
+    },
+    {
+     "page": 549,
+     "text": "Opening of sodium channels to allow large numbers of positive electrical charges to flow to the interior of the postsynaptic cell."
+    },
+    {
+     "page": 549,
+     "text": "This raises the intracellular membrane potential in the positive direction up toward the threshold level for excitation."
+    },
+    {
+     "page": 549,
+     "text": "It is by far the most widely used means for causing excitation."
+    },
+    {
+     "page": 549,
+     "text": "Depressed conduction through chloride or potassium channels, or both."
+    },
+    {
+     "page": 549,
+     "text": "This decreases the diffusion of negatively charged chloride ions to the inside of the postsynaptic neuron or decreases the diffusion of positively charged potassium ions to the outside."
+    },
+    {
+     "page": 549,
+     "text": "In either instance, the effect is to make the internal membrane potential more positive than normal, which is excitatory."
+    },
+    {
+     "page": 2,
+     "text": "Figure 45-7 “Second messenger” system by which a transmitter substance from an initial neuron can activate a second neuron by first releasing a “G-protein” into the second neuron’s cytoplasm."
+    },
+    {
+     "page": 2,
+     "text": "Four subsequent possible effects of the G-protein are shown, including 1, opening an ion channel in the membrane of the second neuron; 2, activating an enzyme system in the neuron’s membrane; 3, activating an intracellular enzyme system; and/or 4, causing gene transcription in the second neuron."
+    },
+    {
+     "page": 550,
+     "text": "Various changes in the internal metabolism of the postsynaptic neuron to excite cell activity or, in some instances, to increase the number of excitatory membrane receptors or decrease the number of inhibitory membrane receptors."
+    },
+    {
+     "page": 550,
+     "text": "Opening of chloride ion channels through the postsynaptic neuronal membrane."
+    },
+    {
+     "page": 550,
+     "text": "This allows rapid diffusion of negatively charged chloride ions from outside the postsynaptic neuron to the inside, thereby carrying negative charges inward and increasing the negativity inside, which is inhibitory."
+    },
+    {
+     "page": 550,
+     "text": "Increase in conductance of potassium ions out of the neuron."
+    },
+    {
+     "page": 550,
+     "text": "This allows positive ions to diffuse to the exterior, which causes increased negativity inside the neuron; this is inhibitory."
+    },
+    {
+     "page": 550,
+     "text": "Activation of receptor enzymes that inhibit cellular metabolic functions that increase the number of inhibitory synaptic receptors or decrease the number of excitatory receptors."
+    },
+    {
+     "page": 550,
+     "text": "More than 50 chemical substances have been proved or postulated to function as synaptic transmitters."
+    },
+    {
+     "page": 550,
+     "text": "Many of them are listed in Tables 45-1 and 45-2, which give two groups of synaptic transmitters."
+    },
+    {
+     "page": 550,
+     "text": "One group comprises small-molecule, rapidly acting transmitters."
+    },
+    {
+     "page": 550,
+     "text": "The other is made up of a large number of neuropeptides of much larger molecular size that are usually much more slowly acting."
+    },
+    {
+     "page": 550,
+     "text": "The small-molecule, rapidly acting transmitters are the ones that cause most acute responses of the nervous system, such as transmission of sensory signals to the brain and of motor signals back to the muscles."
+    },
+    {
+     "page": 550,
+     "text": "The neuropeptides, in contrast, usually cause more prolonged actions, such as long-term changes in numbers of neuronal receptors, long-term opening or closure of certain ion channels, and possibly even long-term changes in numbers of synapses or sizes of synapses."
+    },
+    {
+     "page": 550,
+     "text": "In most cases, the small-molecule types of transmitters are synthesized in the cytosol of the presynaptic terminal and are absorbed by means of active transport into the many transmitter vesicles in the terminal."
+    },
+    {
+     "page": 550,
+     "text": "Then, each time an action potential reaches the presynaptic terminal, a few vesicles at a time release their transmitter into the synaptic cleft."
+    },
+    {
+     "page": 550,
+     "text": "This usually occurs within a millisecond or less by the mechanism described earlier."
+    },
+    {
+     "page": 550,
+     "text": "The subsequent action of the smallmolecule type of transmitter on the membrane receptors of the postsynaptic neuron usually also occurs within another millisecond or less."
+    },
+    {
+     "page": 550,
+     "text": "Most often the effect is to increase or decrease conductance through ion channels; an example is to increase sodium conductance, which causes excitation, or to increase potassium or chloride conductance, which causes inhibition."
+    },
+    {
+     "page": 551,
+     "text": "Vesicles that store and release small-molecule transmitters are continually recycled and used over and over again."
+    },
+    {
+     "page": 551,
+     "text": "After they fuse with the synaptic membrane and open to release their transmitter substance, the vesicle membrane at first simply becomes part of the synaptic membrane."
+    },
+    {
+     "page": 551,
+     "text": "However, within seconds to minutes, the vesicle portion of the membrane invaginates back to the inside of the presynaptic terminal and pinches off to form a new vesicle."
+    },
+    {
+     "page": 551,
+     "text": "And the new vesicular membrane still contains appropriate enzyme proteins or transport proteins required for synthesizing and/or concentrating new transmitter substance inside the vesicle."
+    },
+    {
+     "page": 551,
+     "text": "Acetylcholine is a typical small-molecule transmitter that obeys the principles of synthesis and release stated earlier."
+    },
+    {
+     "page": 551,
+     "text": "This transmitter substance is synthesized in the presynaptic terminal from acetyl coenzyme A and choline in the presence of the enzyme choline acetyltransferase."
+    },
+    {
+     "page": 551,
+     "text": "Then it is transported into its specific vesicles."
+    },
+    {
+     "page": 551,
+     "text": "When the vesicles later release the acetylcholine into the synaptic cleft during synaptic neuronal signal transmission, the acetylcholine is rapidly split again to acetate and choline by the enzyme cholinesterase, which is present in the proteoglycan reticulum that fills the space of the synaptic cleft."
+    },
+    {
+     "page": 551,
+     "text": "And then again, inside the presynaptic terminal, the vesicles are recycled; choline is actively transported back into the terminal to be used again for synthesis of new acetylcholine."
+    },
+    {
+     "page": 551,
+     "text": "Acetylcholine is secreted by neurons in many areas of the nervous system but specifically by (1) the terminals of the large pyramidal cells from the motor cortex, (2) several different types of neurons in the basal ganglia, (3) the motor neurons that innervate the skeletal muscles, (4) the preganglionic neurons of the autonomic nervous system, (5) the postganglionic neurons of the parasympathetic nervous system, and (6) some of the postganglionic neurons of the sympathetic nervous system."
+    },
+    {
+     "page": 551,
+     "text": "In most instances, acetylcholine has an excitatory effect; however, it is known to have inhibitory effects at some peripheral parasympathetic nerve endings, such as inhibition of the heart by the vagus nerves."
+    },
+    {
+     "page": 551,
+     "text": "Norepinephrine is secreted by the terminals of many neurons whose cell bodies are located in the brain stem and hypothalamus."
+    },
+    {
+     "page": 551,
+     "text": "Specifically, norepinephrine-secreting neurons located in the locus ceruleus in the pons send nerve fibers to widespread areas of the brain to help control overall activity and mood of the mind, such as increasing the level of wakefulness."
+    },
+    {
+     "page": 551,
+     "text": "In most of these areas, norepinephrine probably activates excitatory receptors, but in a few areas, it activates inhibitory receptors instead."
+    },
+    {
+     "page": 551,
+     "text": "Norepinephrine is also secreted by most postganglionic neurons of the sympathetic nervous system, where it excites some organs but inhibits others."
+    },
+    {
+     "page": 551,
+     "text": "Dopamine is secreted by neurons that originate in the substantia nigra."
+    },
+    {
+     "page": 551,
+     "text": "The termination of these neurons is mainly in the striatal region of the basal ganglia."
+    },
+    {
+     "page": 551,
+     "text": "The effect of dopamine is usually inhibition."
+    },
+    {
+     "page": 551,
+     "text": "Glycine is secreted mainly at synapses in the spinal cord."
+    },
+    {
+     "page": 551,
+     "text": "It is believed to always act as an inhibitory transmitter."
+    },
+    {
+     "page": 551,
+     "text": "It is believed always to cause inhibition."
+    },
+    {
+     "page": 551,
+     "text": "Glutamate is secreted by the presynaptic terminals in many of the sensory pathways entering the central nervous system, as well as in many areas of the cerebral cortex."
+    },
+    {
+     "page": 551,
+     "text": "It probably always causes excitation."
+    },
+    {
+     "page": 551,
+     "text": "Serotonin is secreted by nuclei that originate in the median raphe of the brain stem and project to many brain and spinal cord areas, especially to the dorsal horns of the spinal cord and to the hypothalamus."
+    },
+    {
+     "page": 551,
+     "text": "Serotonin acts as an inhibitor of pain pathways in the cord, and an inhibitor action in the higher regions of the nervous system is believed to help control the mood of the person, perhaps even to cause sleep."
+    },
+    {
+     "page": 551,
+     "text": "Nitric oxide is especially secreted by nerve terminals in areas of the brain responsible for long-term behavior and for memory."
+    },
+    {
+     "page": 551,
+     "text": "Therefore, this transmitter system might in the future explain some behavior and memory functions that thus far have defied understanding."
+    },
+    {
+     "page": 551,
+     "text": "Nitric oxide is different from other small-molecule transmitters in its mechanism of formation in the presynaptic terminal and in its actions on the postsynaptic neuron."
+    },
+    {
+     "page": 551,
+     "text": "It is not preformed and stored in vesicles in the presynaptic terminal as are other transmitters."
+    },
+    {
+     "page": 551,
+     "text": "Instead, it is synthesized almost instantly as needed, and it then diffuses out of the presynaptic terminals over a period of seconds rather than being released in vesicular packets."
+    },
+    {
+     "page": 551,
+     "text": "Next, it diffuses into postsynaptic neurons nearby."
+    },
+    {
+     "page": 551,
+     "text": "In the postsynaptic neuron, it usually does not greatly alter the membrane potential but instead changes intracellular metabolic functions that modify neuronal excitability for seconds, minutes, or perhaps even longer."
+    },
+    {
+     "page": 551,
+     "text": "The neuropeptides are not synthesized in the cytosol of the presynaptic terminals."
+    },
+    {
+     "page": 551,
+     "text": "Instead, they are synthesized as integral parts of large-protein molecules by ribosomes in the neuronal cell body."
+    },
+    {
+     "page": 552,
+     "text": "The protein molecules then enter the spaces inside the endoplasmic reticulum of the cell body and subsequently inside the Golgi apparatus, where two changes occur: First, the neuropeptide-forming protein is enzymatically split into smaller fragments, some of which are either the neuropeptide itself or a precursor of it."
+    },
+    {
+     "page": 552,
+     "text": "Second, the Golgi apparatus packages the neuropeptide into minute transmitter vesicles that are released into the cytoplasm."
+    },
+    {
+     "page": 552,
+     "text": "Then the transmitter vesicles are transported all the way to the tips of the nerve fibers by axonal streaming of the axon cytoplasm, traveling at the slow rate of only a few centimeters per day."
+    },
+    {
+     "page": 552,
+     "text": "Finally, these vesicles release their transmitter at the neuronal terminals in response to action potentials in the same manner as for small-molecule transmitters."
+    },
+    {
+     "page": 552,
+     "text": "However, the vesicle is autolyzed and is not reused."
+    },
+    {
+     "page": 552,
+     "text": "Because of this laborious method of forming the neuropeptides, much smaller quantities of them are usually released than of the small-molecule transmitters."
+    },
+    {
+     "page": 552,
+     "text": "This is partly compensated for by the fact that the neuropeptides are generally a thousand or more times as potent as the small-molecule transmitters."
+    },
+    {
+     "page": 552,
+     "text": "Another important characteristic of the neuropeptides is that they often cause much more prolonged actions."
+    },
+    {
+     "page": 552,
+     "text": "Some of these actions include prolonged closure of calcium channels, prolonged changes in the metabolic machinery of cells, prolonged changes in activation or deactivation of specific genes in the cell nucleus, and/or prolonged alterations in numbers of excitatory or inhibitory receptors."
+    },
+    {
+     "page": 552,
+     "text": "Some of these effects last for days, but others perhaps for months or years."
+    },
+    {
+     "page": 552,
+     "text": "Our knowledge of the functions of the neuropeptides is only beginning to develop."
+    }
+   ],
+   "repair_hits": 1
+  },
+  "epsp": {
+   "heading": "Electrical Events During Neuronal Excitation",
+   "chapter": 45,
+   "found": true,
+   "page_start": 552,
+   "page_end": 554,
+   "sentences": [
+    {
+     "page": 552,
+     "text": "The electrical events in neuronal excitation have been studied especially in the large motor neurons of the anterior horns of the spinal cord."
+    },
+    {
+     "page": 552,
+     "text": "Therefore, the events described in the next few sections pertain essentially to these neurons."
+    },
+    {
+     "page": 552,
+     "text": "Except for quantitative differences, they apply to most other neurons of the nervous system as well."
+    },
+    {
+     "page": 552,
+     "text": "Figure 45-8 shows the soma of a spinal motor neuron, indicating a resting membrane potential of about −65 millivolts."
+    },
+    {
+     "page": 552,
+     "text": "This is somewhat less negative than the −90 millivolts found in large peripheral nerve fibers and in skeletal muscle fibers; the lower voltage is important because it allows both positive and negative control of the degree of excitability of the neuron."
+    },
+    {
+     "page": 552,
+     "text": "That is, decreasing the voltage to a less negative value makes the membrane of the neuron more excitable, whereas increasing this voltage to a more negative value makes the neuron less excitable."
+    },
+    {
+     "page": 552,
+     "text": "This is the basis for the two modes of function of the neuron—either excitation or inhibition—as explained in detail in the next sections."
+    },
+    {
+     "page": 552,
+     "text": "At the top, the sodium ion concentration is shown to be high in the extracellular fluid (142 mEq/L) but low inside the neuron (14 mEq/L)."
+    },
+    {
+     "page": 552,
+     "text": "This sodium concentration gradient is caused by a strong somal membrane sodium pump that continually pumps sodium out of the neuron."
+    },
+    {
+     "page": 552,
+     "text": "The figure also shows that potassium ion concentration is high inside the neuronal soma (120 mEq/L) but low in the extracellular fluid (4.5 mEq/L)."
+    },
+    {
+     "page": 552,
+     "text": "It shows that there is a potassium pump (the other half of the Na+ − K+ pump) that pumps potassium to the interior."
+    },
+    {
+     "page": 552,
+     "text": "Figure 45-8 shows the chloride ion to be of high concentration in the extracellular fluid but low concentration inside the neuron."
+    },
+    {
+     "page": 552,
+     "text": "The membrane may be somewhat permeable to chloride ions and there may be a weak chloride pump."
+    },
+    {
+     "page": 552,
+     "text": "Yet most of the reason for the low concentration of chloride ions inside the neuron is the −65 millivolts in the neuron."
+    },
+    {
+     "page": 552,
+     "text": "That is, this negative voltage repels the negatively charged chloride ions, forcing them outward through the pores until the concentration is much less inside the membrane than outside."
+    },
+    {
+     "page": 552,
+     "text": "Let us recall from Chapters 4 and 5 that an electrical potential across the cell membrane can oppose movement of ions through a membrane if the potential is of proper polarity and magnitude."
+    },
+    {
+     "page": 552,
+     "text": "A potential that exactly opposes movement of an ion is called the Nernst potential for that ion; the equation for this is the following: where EMF is the Nernst potential in millivolts on the inside of the membrane."
+    },
+    {
+     "page": 552,
+     "text": "The potential will be negative (−) for positive ions and positive (+) for negative ions."
+    },
+    {
+     "page": 553,
+     "text": "Now, let us calculate the Nernst potential that will exactly oppose the movement of each of the three separate ions: sodium, potassium, and chloride."
+    },
+    {
+     "page": 553,
+     "text": "For the sodium concentration difference shown in Figure 45-8, 142 mEq/L on the exterior and 14 mEq/L on the interior, the membrane potential that will exactly oppose sodium ion movement through the sodium channels calculates to be +61 millivolts."
+    },
+    {
+     "page": 553,
+     "text": "However, the actual membrane potential is −65 millivolts, not +61 millivolts."
+    },
+    {
+     "page": 553,
+     "text": "Therefore, those sodium ions that leak to the interior are immediately pumped back to the exterior by the sodium pump, thus maintaining the −65 millivolt negative potential inside the neuron."
+    },
+    {
+     "page": 553,
+     "text": "For potassium ions, the concentration gradient is 120 mEq/L inside the neuron and 4.5 mEq/L outside."
+    },
+    {
+     "page": 553,
+     "text": "This calculates to be a Nernst potential of −86 millivolts inside the neuron, which is more negative than the −65 that actually exists."
+    },
+    {
+     "page": 553,
+     "text": "Therefore, because of the high intracellular potassium ion concentration, there is a net tendency for potassium ions to diffuse to the outside of the neuron, but this is opposed by continual pumping of these potassium ions back to the interior."
+    },
+    {
+     "page": 553,
+     "text": "Finally, the chloride ion gradient, 107 mEq/L outside and 8 mEq/L inside, yields a Nernst potential of −70 millivolts inside the neuron, which is only slightly more negative than the actual measured value of −65 millivolts."
+    },
+    {
+     "page": 553,
+     "text": "Therefore, chloride ions tend to leak very slightly to the interior of the neuron, but those few that do leak are moved back to the exterior, perhaps by an active chloride pump."
+    },
+    {
+     "page": 553,
+     "text": "Keep these three Nernst potentials in mind and remember the direction in which the different ions tend to diffuse because this information is important in understanding both excitation and inhibition of the neuron by synapse activation or inactivation of ion channels."
+    },
+    {
+     "page": 553,
+     "text": "The interior of the neuronal soma contains a highly conductive electrolytic solution, the intracellular fluid of the neuron."
+    },
+    {
+     "page": 553,
+     "text": "Furthermore, the diameter of the neuronal soma is large (from 10 to 80 micrometers), causing almost no resistance to conduction of electric current from one part of the somal interior to another part."
+    },
+    {
+     "page": 553,
+     "text": "Therefore, any change in potential in any part of the intrasomal fluid causes an almost exactly equal change in potential at all other points inside the soma (i.e., as long as the neuron is not transmitting an action potential)."
+    },
+    {
+     "page": 553,
+     "text": "This is an important principle because it plays a major role in “summation” of signals entering the neuron from multiple sources, as we shall see in subsequent sections of this chapter."
+    },
+    {
+     "page": 553,
+     "text": "The resting membrane potential everywhere in the soma is −65 millivolts."
+    },
+    {
+     "page": 553,
+     "text": "Figure 45-9B shows a presynaptic terminal that has secreted an excitatory transmitter into the cleft between the terminal and the neuronal somal membrane."
+    },
+    {
+     "page": 553,
+     "text": "This transmitter acts on the membrane excitatory receptor to increase the membrane’s permeability to Na+."
+    },
+    {
+     "page": 553,
+     "text": "Because of the large sodium concentration gradient and large electrical negativity inside the neuron, sodium ions diffuse rapidly to the inside of the membrane."
+    },
+    {
+     "page": 553,
+     "text": "The rapid influx of positively charged sodium ions to the interior neutralizes part of the negativity of the resting membrane potential."
+    },
+    {
+     "page": 553,
+     "text": "Thus, in Figure 45-9B, the resting membrane potential has increased in the positive direction from −65 to −45 millivolts."
+    },
+    {
+     "page": 553,
+     "text": "This positive increase in voltage above the normal resting neuronal potential— that is, to a less negative value—is called the excitatory postsynaptic potential (or EPSP) because if this potential rises high enough in the positive direction, it will elicit an action potential in the postsynaptic neuron, thus exciting it."
+    },
+    {
+     "page": 553,
+     "text": "(In this case, the EPSP is +20 millivolts—i.e., 20 millivolts more positive than the resting value.) However, we must issue a word of warning."
+    },
+    {
+     "page": 553,
+     "text": "Discharge of a single presynaptic terminal can never increase the neuronal potential from −65 millivolts all the way up to −45 millivolts."
+    },
+    {
+     "page": 553,
+     "text": "An increase of this magnitude requires simultaneous discharge of many terminals—about 40 to 80 for the usual anterior motor neuron—at the same time or in rapid succession."
+    },
+    {
+     "page": 553,
+     "text": "This occurs by a process called summation, which is discussed in detail in the next sections."
+    },
+    {
+     "page": 553,
+     "text": "A, Resting neuron, with a normal intraneuronal potential of −65 millivolts."
+    },
+    {
+     "page": 553,
+     "text": "B, Neuron in an excited state, with a less negative intraneuronal potential (−45 millivolts) caused by sodium influx."
+    },
+    {
+     "page": 553,
+     "text": "C, Neuron in an inhibited state, with a more negative intraneuronal membrane potential (−70 millivolts) caused by potassium ion efflux, chloride ion influx, or both."
+    },
+    {
+     "page": 554,
+     "text": "When the EPSP rises high enough in the positive direction, there comes a point at which this initiates an action potential in the neuron."
+    },
+    {
+     "page": 554,
+     "text": "However, the action potential does not begin adjacent to the excitatory synapses."
+    },
+    {
+     "page": 554,
+     "text": "Instead, it begins in the initial segment of the axon where the axon leaves the neuronal soma."
+    },
+    {
+     "page": 554,
+     "text": "The main reason for this point of origin of the action potential is that the soma has relatively few voltage-gated sodium channels in its membrane, which makes it difficult for the EPSP to open the required number of sodium channels to elicit an action potential."
+    },
+    {
+     "page": 554,
+     "text": "Conversely, the membrane of the initial segment has seven times as great a concentration of voltage-gated sodium channels as does the soma and, therefore, can generate an action potential with much greater ease than can the soma."
+    },
+    {
+     "page": 554,
+     "text": "The EPSP that will elicit an action potential in the axon initial segment is between +10 and +20 millivolts."
+    },
+    {
+     "page": 554,
+     "text": "This is in contrast to the +30 or +40 millivolts or more required on the soma."
+    },
+    {
+     "page": 554,
+     "text": "Once the action potential begins, it travels peripherally along the axon and usually also backward over the soma."
+    },
+    {
+     "page": 554,
+     "text": "In some instances it travels backward into the dendrites but not into all of them because they, like the neuronal soma, have very few voltage-gated sodium channels and therefore frequently cannot generate action potentials at all."
+    },
+    {
+     "page": 554,
+     "text": "Thus, in Figure 45-9B, the threshold for excitation of the neuron is shown to be about −45 millivolts, which represents an EPSP of +20 millivolts—that is, 20 millivolts more positive than the normal resting neuronal potential of −65 millivolts."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "ipsp": {
+   "heading": "Electrical Events During Neuronal Inhibition",
+   "chapter": 45,
+   "found": true,
+   "page_start": 554,
+   "page_end": 554,
+   "sentences": [
+    {
+     "page": 554,
+     "text": "Now, to understand how the inhibitory synapses inhibit the postsynaptic neuron, we must recall what we learned about the Nernst potential for chloride ions."
+    },
+    {
+     "page": 554,
+     "text": "We calculated the Nernst potential for chloride ions to be about −70 millivolts."
+    },
+    {
+     "page": 554,
+     "text": "This potential is more negative than the −65 millivolts normally present inside the resting neuronal membrane."
+    },
+    {
+     "page": 554,
+     "text": "Therefore, opening the chloride channels will allow negatively charged chloride ions to move from the extracellular fluid to the interior, which will make the interior membrane potential more negative than normal, approaching the −70 millivolt level."
+    },
+    {
+     "page": 554,
+     "text": "Opening potassium channels will allow positively charged potassium ions to move to the exterior, and this will also make the interior membrane potential more negative than usual."
+    },
+    {
+     "page": 554,
+     "text": "Thus, both chloride influx and potassium efflux increase the degree of intracellular negativity, which is called hyperpolarization."
+    },
+    {
+     "page": 554,
+     "text": "This inhibits the neuron because the membrane potential is even more negative than the normal intracellular potential."
+    },
+    {
+     "page": 554,
+     "text": "Therefore, an increase in negativity beyond the normal resting membrane potential level is called an inhibitory postsynaptic potential (IPSP)."
+    },
+    {
+     "page": 554,
+     "text": "Figure 45-9C shows the effect on the membrane potential caused by activation of inhibitory synapses, allowing chloride influx into the cell and/or potassium efflux out of the cell, with the membrane potential decreasing from its normal value of −65 millivolts to the more negative value of −70 millivolts."
+    },
+    {
+     "page": 554,
+     "text": "This membrane potential is 5 millivolts more negative than normal and is therefore an IPSP of −5 millivolts, which inhibits transmission of the nerve signal through the synapse."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "presynaptic_inhibition": {
+   "heading": "Presynaptic Inhibition",
+   "chapter": 45,
+   "found": true,
+   "page_start": 554,
+   "page_end": 554,
+   "sentences": [
+    {
+     "page": 554,
+     "text": "In addition to inhibition caused by inhibitory synapses operating at the neuronal membrane, which is called postsynaptic inhibition, another type of inhibition often occurs at the presynaptic terminals before the signal ever reaches the synapse."
+    },
+    {
+     "page": 554,
+     "text": "This type of inhibition, called presynaptic inhibition, occurs in the following way."
+    },
+    {
+     "page": 554,
+     "text": "Presynaptic inhibition is caused by release of an inhibitory substance onto the outsides of the presynaptic nerve fibrils before their own endings terminate on the postsynaptic neuron."
+    },
+    {
+     "page": 554,
+     "text": "In most instances, the inhibitory transmitter substance is GABA (gamma-aminobutyric acid)."
+    },
+    {
+     "page": 554,
+     "text": "This has a specific effect of opening anion channels, allowing large numbers of chloride ions to diffuse into the terminal fibril."
+    },
+    {
+     "page": 554,
+     "text": "The negative charges of these ions inhibit synaptic transmission because they cancel much of the excitatory effect of the positively charged sodium ions that also enter the terminal fibrils when an action potential arrives."
+    },
+    {
+     "page": 554,
+     "text": "Presynaptic inhibition occurs in many of the sensory pathways in the nervous system."
+    },
+    {
+     "page": 554,
+     "text": "In fact, adjacent sensory nerve fibers often mutually inhibit one another, which minimizes sideways spread and mixing of signals in sensory tracts."
+    },
+    {
+     "page": 554,
+     "text": "We discuss the importance of this phenomenon more fully in subsequent chapters."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "dendrites": {
+   "heading": "Special Functions of Dendrites for Exciting Neurons",
+   "chapter": 45,
+   "found": true,
+   "page_start": 555,
+   "page_end": 557,
+   "sentences": [
+    {
+     "page": 555,
+     "text": "The dendrites of the anterior motor neurons often extend 500 to 1000 micrometers in all directions from the neuronal soma."
+    },
+    {
+     "page": 555,
+     "text": "And these dendrites can receive signals from a large spatial area around the motor neuron."
+    },
+    {
+     "page": 555,
+     "text": "This provides a vast opportunity for summation of signals from many separate presynaptic nerve fibers."
+    },
+    {
+     "page": 555,
+     "text": "It is also important that between 80 and 95 percent of all the presynaptic terminals of the anterior motor neuron terminate on dendrites, in contrast to only 5 to 20 percent terminating on the neuronal soma."
+    },
+    {
+     "page": 555,
+     "text": "Therefore, a large simultaneous firing of only a few synapses will not cause sufficient summated potential to elicit an action potential, but that simultaneous firing of many synapses will raise the summated potential to threshold for excitation and cause a superimposed action potential."
+    },
+    {
+     "page": 556,
+     "text": "Yet they do transmit electrotonic current down the dendrites to the soma."
+    },
+    {
+     "page": 556,
+     "text": "Transmission of electrotonic current means direct spread of electrical current by ion conduction in the fluids of the dendrites but without generation of action potentials."
+    },
+    {
+     "page": 556,
+     "text": "Stimulation (or inhibition) of the neuron by this current has special characteristics, as follows."
+    },
+    {
+     "page": 556,
+     "text": "On the two dendrites to the left, there are excitatory effects near the tip ends; note the high levels of excitatory postsynaptic potentials at these ends—that is, note the less negative membrane potentials at these points."
+    },
+    {
+     "page": 556,
+     "text": "However, a large share of the excitatory postsynaptic potential is lost before it reaches the soma."
+    },
+    {
+     "page": 556,
+     "text": "The reason is that the dendrites are long, and their membranes are thin and at least partially permeable to potassium and chloride ions, making them “leaky” to electric current."
+    },
+    {
+     "page": 556,
+     "text": "Therefore, before the exci tatory potentials can reach the soma, a large share of the potential is lost by leakage through the membrane."
+    },
+    {
+     "page": 556,
+     "text": "This decrease in membrane potential as it spreads electrotonically along dendrites toward the soma is called decremental conduction."
+    },
+    {
+     "page": 556,
+     "text": "The farther the excitatory synapse is from the soma of the neuron, the greater will be the decrement and the lesser will be excitatory signal reaching the soma."
+    },
+    {
+     "page": 556,
+     "text": "Therefore, those synapses that lie near the soma have far more effect in causing neuron excitation or inhibition than those that lie far away from the soma."
+    },
+    {
+     "page": 556,
+     "text": "At the tip of the dendrite is a strong excitatory postsynaptic potential, but nearer the soma are two inhibitory synapses acting on the same dendrite."
+    },
+    {
+     "page": 556,
+     "text": "These inhibitory synapses provide a hyperpolarizing voltage that completely nullifies the excitatory effect and indeed transmits a small amount of inhibition by electrotonic conduction toward the soma."
+    },
+    {
+     "page": 556,
+     "text": "Thus, dendrites can summate excitatory and inhibitory postsynaptic potentials in the same way that the soma can."
+    },
+    {
+     "page": 556,
+     "text": "Also shown in the figure are several inhibitory synapses located directly on the axon hillock and initial axon segment."
+    },
+    {
+     "page": 556,
+     "text": "This location provides especially powerful inhibition because it has the direct effect of increasing the threshold for excitation at the very point where the action potential is normally generated."
+    },
+    {
+     "page": 556,
+     "text": "If there is a higher degree of excitation than inhibition of the neuron at any given instant, then it is said that there is an excitatory state."
+    },
+    {
+     "page": 556,
+     "text": "Conversely, if there is more inhibition than excitation, then it is said that there is an inhibitory state."
+    },
+    {
+     "page": 556,
+     "text": "When the excitatory state of a neuron rises above the threshold for excitation, the neuron will fire repetitively as long as the excitatory state remains at that level."
+    },
+    {
+     "page": 556,
+     "text": "Figure 45-12 shows responses of three types of neurons Figure 45-11 Stimulation of a neuron by presynaptic terminals located on dendrites, showing, especially, decremental conduction of excitatory (E) electrotonic potentials in the two dendrites to the left and inhibition (I) of dendritic excitation in the dendrite that is uppermost."
+    },
+    {
+     "page": 556,
+     "text": "A powerful effect of inhibitory synapses at the initial segment of the axon is also shown."
+    },
+    {
+     "page": 557,
+     "text": "Note that neuron 1 has a low threshold for excitation, whereas neuron 3 has a high threshold."
+    },
+    {
+     "page": 557,
+     "text": "But note also that neuron 2 has the lowest maximum frequency of discharge, whereas neuron 3 has the highest maximum frequency."
+    },
+    {
+     "page": 557,
+     "text": "Some neurons in the central nervous system fire continuously because even the normal excitatory state is above the threshold level."
+    },
+    {
+     "page": 557,
+     "text": "Their frequency of firing can usually be increased still more by further increasing their excitatory state."
+    },
+    {
+     "page": 557,
+     "text": "The frequency can be decreased, or firing can even be stopped, by superimposing an inhibitory state on the neuron."
+    },
+    {
+     "page": 557,
+     "text": "Thus, different neurons respond differently, have different thresholds for excitation, and have widely differing maximum frequencies of discharge."
+    },
+    {
+     "page": 557,
+     "text": "With a little imagination, one can readily understand the importance of having different neurons with these many types of response characteristics to perform the widely varying functions of the nervous system."
+    },
+    {
+     "page": 557,
+     "text": "When excitatory synapses are repetitively stimulated at a rapid rate, the number of discharges by the postsynaptic neuron is at first very great, but the firing rate becomes progressively less in succeeding milliseconds or seconds."
+    },
+    {
+     "page": 557,
+     "text": "This is called fatigue of synaptic transmission."
+    },
+    {
+     "page": 557,
+     "text": "Fatigue is an exceedingly important characteristic of synaptic function because when areas of the nervous system become overexcited, fatigue causes them to lose this excess excitability after a while."
+    },
+    {
+     "page": 557,
+     "text": "For example, fatigue is probably the most important means by which the excess excitability of the brain during an epileptic seizure is finally subdued so that the seizure ceases."
+    },
+    {
+     "page": 557,
+     "text": "Thus, the development of fatigue is a protective mechanism against excess neuronal activity."
+    },
+    {
+     "page": 557,
+     "text": "This is discussed further in the description of reverberating neuronal circuits in Chapter 46."
+    },
+    {
+     "page": 557,
+     "text": "The mechanism of fatigue is mainly exhaustion or partial exhaustion of the stores of transmitter substance in the presynaptic terminals."
+    },
+    {
+     "page": 557,
+     "text": "The excitatory terminals on many neurons can store enough excitatory transmitter to cause only about 10,000 action potentials, and the transmitter can be exhausted in only a few seconds to a few minutes of rapid stimulation."
+    },
+    {
+     "page": 557,
+     "text": "Part of the fatigue process probably results from two other factors as well: (1) progressive inactivation of many of the postsynaptic membrane receptors and (2) slow development of abnormal concentrations of ions inside the postsynaptic neuronal cell."
+    },
+    {
+     "page": 557,
+     "text": "Normally, alkalosis greatly increases neuronal excitability."
+    },
+    {
+     "page": 557,
+     "text": "For instance, a rise in arterial blood pH from the 7.4 norm to 7.8 to 8.0 often causes cerebral epileptic seizures because of increased excitability of some or all of the cerebral neurons."
+    },
+    {
+     "page": 557,
+     "text": "This can be demonstrated especially well by asking a person who is predisposed to epileptic seizures to overbreathe."
+    },
+    {
+     "page": 557,
+     "text": "The overbreathing blows off carbon dioxide and therefore elevates the pH of the blood momentarily, but even this short time can often precipitate an epileptic attack."
+    },
+    {
+     "page": 557,
+     "text": "For instance, in very severe diabetic or uremic acidosis, coma virtually always develops."
+    },
+    {
+     "page": 557,
+     "text": "Neuronal excitability is also highly dependent on an adequate supply of oxygen."
+    },
+    {
+     "page": 557,
+     "text": "Cessation of oxygen for only a few seconds can cause complete inexcitability of some neurons."
+    },
+    {
+     "page": 557,
+     "text": "This is observed when the brain’s blood flow is temporarily interrupted because within 3 to 7 seconds, the person becomes unconscious."
+    },
+    {
+     "page": 557,
+     "text": "Many drugs are known to increase the excitability of neurons, and others are known to decrease excitability."
+    },
+    {
+     "page": 557,
+     "text": "For instance, caffeine, theophylline, and theobromine, which are found in coffee, tea, and cocoa, respectively, all increase neuronal excitability, presumably by reducing the threshold for excitation of neurons."
+    },
+    {
+     "page": 557,
+     "text": "Strychnine is one of the best known of all agents that increase excitability of neurons."
+    },
+    {
+     "page": 557,
+     "text": "However, it does not do this by reducing the threshold for excitation of the neurons; instead, it inhibits the action of some normally inhibitory transmitter substances, especially the inhibitory effect of glycine in the spinal cord."
+    },
+    {
+     "page": 557,
+     "text": "Therefore, the effects of the excitatory transmitters become overwhelming, and the neurons become so excited that they go into rapidly repetitive discharge, resulting in severe tonic muscle spasms."
+    },
+    {
+     "page": 557,
+     "text": "Most anesthetics increase the neuronal membrane threshold for excitation and thereby decrease synaptic transmission at many points in the nervous system."
+    },
+    {
+     "page": 557,
+     "text": "Because many of the anesthetics are especially lipid soluble, it has been reasoned that some of them might change the physical characteristics of the neuronal membranes, making them less responsive to excitatory agents."
+    },
+    {
+     "page": 557,
+     "text": "During transmission of a neuronal signal from a presynaptic neuron to a postsynaptic neuron, a certain amount of time is consumed in the process of (1) discharge of the transmitter substance by the presynaptic terminal, (2) diffusion of the transmitter to the postsynaptic neuronal membrane, (3) action of the transmitter on the membrane receptor, (4) action of the receptor to increase the membrane permeability, and (5) inward diffusion of sodium to raise the excitatory postsynaptic potential to a high enough level to elicit an action potential."
+    },
+    {
+     "page": 557,
+     "text": "The minimal period of time required for all these events to take place, even when large numbers of excitatory synapses are stimulated simultaneously, is about 0.5 millisecond."
+    },
+    {
+     "page": 557,
+     "text": "This is called the synaptic delay."
+    },
+    {
+     "page": 557,
+     "text": "Neurophysiologists can measure the minimal delay time between an input volley of impulses into a pool of neurons and the consequent output volley."
+    },
+    {
+     "page": 557,
+     "text": "From the measure of delay time, one can then estimate the number of series neurons in the circuit."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "nerve_fibers": {
+   "heading": "Nerve Fibers That Transmit Different Types of",
+   "chapter": 46,
+   "found": true,
+   "page_start": 563,
+   "page_end": 563,
+   "sentences": [
+    {
+     "page": 563,
+     "text": "Some signals need to be transmitted to or from the central nervous system extremely rapidly; otherwise, the information would be useless."
+    },
+    {
+     "page": 563,
+     "text": "An example of this is the sensory signals that apprise the brain of the momentary positions of the legs at each fraction of a second during running."
+    },
+    {
+     "page": 563,
+     "text": "At the other extreme, some types of sensory information, such as that depicting prolonged, aching pain, do not need to be transmitted rapidly, so slowly conducting fibers will suffice."
+    },
+    {
+     "page": 563,
+     "text": "As shown in Figure 46-6, nerve fibers come in all sizes between 0.5 and 20 micrometers in diameter— the larger the diameter, the greater the conducting velocity."
+    },
+    {
+     "page": 563,
+     "text": "The range of conducting velocities is between 0.5 and 120 m/sec."
+    },
+    {
+     "page": 563,
+     "text": "Shown in Figure 46-6 is a “general classification” and a “sensory nerve classification” of the different types of nerve fibers."
+    },
+    {
+     "page": 563,
+     "text": "In the general classification, the fibers are divided into types A and C, and the type A fibers are further subdivided into α, β, γ, and δ fibers."
+    },
+    {
+     "page": 563,
+     "text": "Type A fibers are the typical large and medium-sized myelinated fibers of spinal nerves."
+    },
+    {
+     "page": 563,
+     "text": "Type C fibers are the small unmyelinated nerve fibers that conduct impulses at low velocities."
+    },
+    {
+     "page": 563,
+     "text": "The C fibers constitute more than one half of the sensory fibers in most peripheral nerves, as well as all the postganglionic autonomic fibers."
+    },
+    {
+     "page": 563,
+     "text": "The sizes, velocities of conduction, and functions of the different nerve fiber types are also given in Figure 46-6."
+    },
+    {
+     "page": 563,
+     "text": "Note that a few large myelinated fibers can transmit impulses at velocities as great as 120 m/sec, a distance in 1 second that is longer than a football field."
+    },
+    {
+     "page": 563,
+     "text": "Conversely, the smallest fibers transmit impulses as slowly as 0.5 m/ sec, requiring about 2 seconds to go from the big toe to the spinal cord."
+    },
+    {
+     "page": 563,
+     "text": "Certain recording techniques have made it possible to separate the type Aα fibers into two subgroups; yet these same recording techniques cannot distinguish easily between Aβ and Aγ fibers."
+    },
+    {
+     "page": 563,
+     "text": "Therefore, the following classification is frequently used by sensory physiologists: Muscle spindle(primary ending)Muscle spindle(secondary ending) fibers."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "neuronal_pools": {
+   "heading": "Relaying of Signals Through Neuronal Pools",
+   "chapter": 46,
+   "found": true,
+   "page_start": 2,
+   "page_end": 566,
+   "sentences": [
+    {
+     "page": 565,
+     "text": "Figure 46-9 is a schematic diagram of several neurons in a neuronal pool, showing “input” fibers to the left and “output” fibers to the right."
+    },
+    {
+     "page": 565,
+     "text": "Each input fiber divides hundreds to thousands of times, providing a thousand or more terminal fibrils that spread into a large area in the pool to synapse with dendrites or cell bodies of the neurons in the pool."
+    },
+    {
+     "page": 565,
+     "text": "The dendrites usually also arborize and spread hundreds to thousands of micrometers in the pool."
+    },
+    {
+     "page": 565,
+     "text": "The neuronal area stimulated by each incoming nerve fiber is called its stimulatory field."
+    },
+    {
+     "page": 565,
+     "text": "Note in Figure 46-9 that large numbers of the terminals from each input fiber lie on the nearest neuron in its “field,” but progressively fewer terminals lie on the neurons farther away."
+    },
+    {
+     "page": 565,
+     "text": "From the discussion of synaptic function in tatory presynaptic terminal almost never causes an action potential in a postsynaptic neuron."
+    },
+    {
+     "page": 565,
+     "text": "Instead, large numbers of input terminals must discharge on the same neuron either simultaneously or in rapid succession to cause excitation."
+    },
+    {
+     "page": 565,
+     "text": "For instance, in Figure 46-9, let us assume that six terminals must discharge almost simultaneously to excite any one of the neurons."
+    },
+    {
+     "page": 565,
+     "text": "If the student counts the number of terminals on each one of the neurons from each input fiber, he or she will see that input fiber 1 has more than enough terminals to cause neuron a to discharge."
+    },
+    {
+     "page": 565,
+     "text": "The stimulus from input fiber 1 to this neuron is said to be an excitatory stimulus; it is also called a suprathreshold stimulus because it is above the threshold required for excitation."
+    },
+    {
+     "page": 565,
+     "text": "Input fiber 1 also contributes terminals to neurons b and c, but not enough to cause excitation."
+    },
+    {
+     "page": 565,
+     "text": "Nevertheless, discharge of these terminals makes both these neurons more likely to be excited by signals arriving through other incoming nerve fibers."
+    },
+    {
+     "page": 565,
+     "text": "Therefore, the stimuli to these neurons are said to be subthreshold, and the neurons are said to be facilitated."
+    },
+    {
+     "page": 565,
+     "text": "Similarly, for input fiber 2, the stimulus to neuron d is a suprathreshold stimulus, and the stimuli to neurons b and c are subthreshold, but facilitating, stimuli."
+    },
+    {
+     "page": 565,
+     "text": "Figure 46-9 represents a highly condensed version of a neuronal pool because each input nerve fiber usually provides massive numbers of branching terminals to hundreds or thousands of neurons in its distribution “field,” as shown in Figure 46-10."
+    },
+    {
+     "page": 565,
+     "text": "In the central portion of the field in this figure, designated by the circled area, all the neurons are stimulated by the incoming fiber."
+    },
+    {
+     "page": 565,
+     "text": "Therefore, this is said to be the discharge zone of the incoming fiber, also called the excited zone or liminal zone."
+    },
+    {
+     "page": 565,
+     "text": "To each side, Figure 46-8 Translation of signal strength into a frequency-modulated series of nerve impulses, showing the strength of signal (above) and the separate nerve impulses (below)."
+    },
+    {
+     "page": 565,
+     "text": "This is an example of temporal summation."
+    },
+    {
+     "page": 2,
+     "text": "Figure 46-10 “Discharge” and “facilitated” zones of a neuronal pool."
+    },
+    {
+     "page": 566,
+     "text": "We must also remember that some incoming fibers inhibit neurons, rather than exciting them."
+    },
+    {
+     "page": 566,
+     "text": "This is the opposite of facilitation, and the entire field of the inhibitory branches is called the inhibitory zone."
+    },
+    {
+     "page": 566,
+     "text": "The degree of inhibition in the center of this zone is great because of large numbers of endings in the center; it becomes progressively less toward its edges."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "divergence": {
+   "heading": "Divergence of Signals Passing",
+   "chapter": 46,
+   "found": true,
+   "page_start": 566,
+   "page_end": 566,
+   "sentences": [
+    {
+     "page": 566,
+     "text": "Often it is important for weak signals entering a neuronal pool to excite far greater numbers of nerve fibers leaving the pool."
+    },
+    {
+     "page": 566,
+     "text": "This phenomenon is called divergence."
+    },
+    {
+     "page": 566,
+     "text": "Two major types of divergence occur and have entirely different purposes."
+    },
+    {
+     "page": 566,
+     "text": "An amplifying type of divergence is shown in Figure 46-11A."
+    },
+    {
+     "page": 566,
+     "text": "This means simply that an input signal spreads to an increasing number of neurons as it passes through successive orders of neurons in its path."
+    },
+    {
+     "page": 566,
+     "text": "This type of divergence is characteristic of the corticospinal pathway in its control of skeletal muscles, with a single large pyramidal cell in the motor cortex capable, under highly facilitated conditions, of exciting as many as 10,000 muscle fibers."
+    },
+    {
+     "page": 566,
+     "text": "The second type of divergence, shown in Figure 46-11B, is divergence into multiple tracts."
+    },
+    {
+     "page": 566,
+     "text": "In this case, the signal is transmitted in two directions from the pool."
+    },
+    {
+     "page": 566,
+     "text": "For instance, information transmitted up the dorsal columns of the spinal cord takes two courses in the lower part of the brain: (1) into the cerebellum and (2) on through the lower regions of the brain to the thalamus and cerebral cortex."
+    },
+    {
+     "page": 566,
+     "text": "Likewise, in the thalamus, almost all sensory information is relayed both into still deeper structures of the thalamus and at the same time to discrete regions of the cerebral cortex."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "convergence": {
+   "heading": "Convergence of Signals",
+   "chapter": 46,
+   "found": true,
+   "page_start": 566,
+   "page_end": 566,
+   "sentences": [
+    {
+     "page": 566,
+     "text": "Convergence means signals from multiple inputs uniting to excite a single neuron."
+    },
+    {
+     "page": 566,
+     "text": "Figure 46-12A shows convergence from a single source."
+    },
+    {
+     "page": 566,
+     "text": "That is, multiple terminals from a single incoming fiber tract terminate on the same neuron."
+    },
+    {
+     "page": 566,
+     "text": "The importance of this is that neurons are almost never excited by an action potential from a single input terminal."
+    },
+    {
+     "page": 566,
+     "text": "But action potentials converging on the neuron from multiple terminals provide enough spatial summation to bring the neuron to the threshold required for discharge."
+    },
+    {
+     "page": 566,
+     "text": "Convergence can also result from input signals (excitatory or inhibitory) from multiple sources, as shown in Figure 46-12B."
+    },
+    {
+     "page": 566,
+     "text": "For instance, the interneurons of the spinal cord receive converging signals from (1) peripheral nerve fibers entering the cord, (2) propriospinal fibers passing from one segment of the cord to another, (3) corticospinal fibers from the cerebral cortex, and (4) several other long pathways descending from the brain into the spinal cord."
+    },
+    {
+     "page": 566,
+     "text": "Then the signals from the interneurons converge on the anterior motor neurons to control muscle function."
+    },
+    {
+     "page": 566,
+     "text": "Such convergence allows summation of information from different sources, and the resulting response is a summated effect of all the different types of information."
+    },
+    {
+     "page": 566,
+     "text": "Convergence is one of the important means by which the central nervous system correlates, summates, and sorts different types of information."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "afterdischarge": {
+   "heading": "Prolongation of a Signal by a Neuronal",
+   "chapter": 46,
+   "found": true,
+   "page_start": 567,
+   "page_end": 568,
+   "sentences": [
+    {
+     "page": 567,
+     "text": "Thus far, we have considered signals that are merely relayed through neuronal pools."
+    },
+    {
+     "page": 567,
+     "text": "However, in many instances, a signal entering a pool causes a prolonged output discharge, called afterdischarge, lasting a few milliseconds to as long as many minutes after the incoming signal is over."
+    },
+    {
+     "page": 567,
+     "text": "The most important mechanisms by which afterdischarge occurs are the following."
+    },
+    {
+     "page": 567,
+     "text": "When excitatory synapses discharge on the surfaces of dendrites or soma of a neuron, a postsynaptic electrical potential develops in the neuron and lasts for many milliseconds, especially when some of the long-acting synaptic transmitter substances are involved."
+    },
+    {
+     "page": 567,
+     "text": "As long as this potential lasts, it can continue to excite the neuron, causing it to transmit a continuous train of output impulses, as was explained in Chapter 45."
+    },
+    {
+     "page": 567,
+     "text": "Thus, as a result of this synaptic “afterdischarge” mechanism alone, it is possible for a single instantaneous input signal to cause a sustained signal output (a series of repetitive discharges) lasting for many milliseconds."
+    },
+    {
+     "page": 567,
+     "text": "One of the most important of all circuits in the entire nervous system is the reverberatory, or oscillatory, circuit."
+    },
+    {
+     "page": 567,
+     "text": "Such circuits are caused by positive feedback within the neuronal circuit that feeds back to re-excite the input of the same circuit."
+    },
+    {
+     "page": 567,
+     "text": "Consequently, once stimulated, the circuit may discharge repetitively for a long time."
+    },
+    {
+     "page": 567,
+     "text": "Several possible varieties of reverberatory circuits are shown in Figure 46-14."
+    },
+    {
+     "page": 567,
+     "text": "The simplest, shown in Figure 46-14A, involves only a single neuron."
+    },
+    {
+     "page": 567,
+     "text": "In this case, the output neuron simply sends a collateral nerve fiber back to its own dendrites or soma to restimulate itself."
+    },
+    {
+     "page": 567,
+     "text": "Although this type of circuit probably is not an important one, theoretically, once the neuron discharges, the feedback stimuli could keep the neuron discharging for a protracted time thereafter."
+    },
+    {
+     "page": 567,
+     "text": "Figure 46-14B shows a few additional neurons in the feedback circuit, which causes a longer delay between initial discharge and the feedback signal."
+    },
+    {
+     "page": 567,
+     "text": "Figure 46-14C shows a still more complex system in which both facilitatory and inhibitory fibers impinge on the reverberating circuit."
+    },
+    {
+     "page": 567,
+     "text": "A facilitatory signal enhances the intensity and frequency of reverberation, whereas an inhibitory signal depresses or stops the reverberation."
+    },
+    {
+     "page": 567,
+     "text": "Figure 46-14D shows that most reverberating pathways are constituted of many parallel fibers."
+    },
+    {
+     "page": 567,
+     "text": "At each cell station, the terminal fibrils spread widely."
+    },
+    {
+     "page": 567,
+     "text": "In such a system, the total reverberating signal can be either weak or strong, depending on how many parallel nerve fibers are momentarily involved in the reverberation."
+    },
+    {
+     "page": 567,
+     "text": "Figure 46-15 shows output signals from a typical reverberatory circuit."
+    },
+    {
+     "page": 567,
+     "text": "The input stimulus may last only 1 millisecond or so, and yet the output can last for many milliseconds or even minutes."
+    },
+    {
+     "page": 567,
+     "text": "The figure demonstrates that the intensity of the output signal usually increases to a high value early in reverberation and then decreases to a critical point, at which it suddenly ceases entirely."
+    },
+    {
+     "page": 567,
+     "text": "The cause of this sudden cessation of Figure 46-13 Inhibitory circuit."
+    },
+    {
+     "page": 567,
+     "text": "Neuron 2 is an inhibitory neuron."
+    },
+    {
+     "page": 568,
+     "text": "Fatigue beyond a certain critical level lowers the stimulation of the next neuron in the circuit below threshold level so that the circuit feedback is suddenly broken."
+    },
+    {
+     "page": 568,
+     "text": "The duration of the total signal before cessation can also be controlled by signals from other parts of the brain that inhibit or facilitate the circuit."
+    },
+    {
+     "page": 568,
+     "text": "Almost these exact patterns of output signals are recorded from the motor nerves exciting a muscle involved in a flexor reflex after pain stimulation of the foot (as shown later in Figure 46-18)."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "reverberation": {
+   "heading": "Continuous Signal Output from",
+   "chapter": 46,
+   "found": true,
+   "page_start": 568,
+   "page_end": 568,
+   "sentences": [
+    {
+     "page": 568,
+     "text": "Some neuronal circuits emit output signals continuously, even without excitatory input signals."
+    },
+    {
+     "page": 568,
+     "text": "At least two mechanisms can cause this effect: (1) continuous intrinsic neuronal discharge and (2) continuous reverberatory signals."
+    },
+    {
+     "page": 568,
+     "text": "Neurons, like other excitable tissues, discharge repetitively if their level of excitatory membrane potential rises above a certain threshold level."
+    },
+    {
+     "page": 568,
+     "text": "The membrane potentials of many neurons even normally are high enough to cause them to emit impulses continually."
+    },
+    {
+     "page": 568,
+     "text": "This occurs especially in many of the neurons of the cerebellum, as well as in most of the interneurons of the spinal cord."
+    },
+    {
+     "page": 568,
+     "text": "The rates at which these cells emit impulses can be increased by excitatory signals or decreased by inhibitory signals; inhibitory signals often can decrease the rate of firing to zero."
+    },
+    {
+     "page": 568,
+     "text": "And excitatory impulses entering the reverberating pool can increase the output signal, whereas inhibition can decrease or even extinguish the signal."
+    },
+    {
+     "page": 568,
+     "text": "Figure 46-16 shows a continuous output signal from a pool of neurons."
+    },
+    {
+     "page": 568,
+     "text": "The pool may be emitting impulses because of intrinsic neuronal excitability or as a result of reverberation."
+    },
+    {
+     "page": 568,
+     "text": "Note that an excitatory input signal greatly increases the output signal, whereas an inhibitory input signal greatly decreases the output."
+    },
+    {
+     "page": 568,
+     "text": "Those students who are familiar with radio transmitters will recognize this to be a carrier wave type of information transmission."
+    },
+    {
+     "page": 568,
+     "text": "That is, the excitatory and inhibitory control signals are not the cause of the output signal, but they do control its changing level of intensity."
+    },
+    {
+     "page": 568,
+     "text": "Note that this carrier wave system allows a decrease in signal intensity, as well as an increase, whereas up to this point, the types of information transmission we have discussed have been mainly positive information rather than negative information."
+    },
+    {
+     "page": 568,
+     "text": "This type of information transmission is used by the autonomic nervous system to control such functions as vascular tone, gut tone, degree of constriction of the iris in the eye, and heart rate."
+    },
+    {
+     "page": 568,
+     "text": "That is, the nerve excitatory signal to each of these can be either increased or decreased by accessory input signals into the reverberating neuronal pathway."
+    }
+   ],
+   "repair_hits": 0
+  },
+  "synaptic_fatigue": {
+   "heading": "Synaptic Fatigue as a Means of Stabilizing",
+   "chapter": 46,
+   "found": true,
+   "page_start": 569,
+   "page_end": 569,
+   "sentences": [
+    {
+     "page": 569,
+     "text": "Figure 46-18 shows three successive records of a flexor reflex elicited in an animal caused by inflicting pain in the footpad of the paw."
+    },
+    {
+     "page": 569,
+     "text": "Note in each record that the strength of contraction progressively “decrements”—that is, its strength diminishes; much of this effect is caused by fatigue of synapses in the flexor reflex circuit."
+    },
+    {
+     "page": 569,
+     "text": "Furthermore, the shorter the interval between successive flexor reflexes, the less the intensity of the subsequent reflex response."
+    }
+   ],
+   "repair_hits": 0
+  }
+ }
+}
