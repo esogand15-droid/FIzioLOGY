@@ -73,6 +73,13 @@ SESSIONS = {
         pages=(2, 27),
         report=REPO / "reports" / "ANAT_S04_QA_REPORT.md",
     ),
+    "s05": dict(
+        pdf=REPO / "pdf" / "HumsYar_NeuroAnat_Jalase5.pdf",
+        outline="s05_topics.json",
+        content=("s05_a.json", "s05_b.json", "s05_c.json", "s05_d.json"),
+        pages=(2, 19),
+        report=REPO / "reports" / "ANAT_S05_QA_REPORT.md",
+    ),
 }
 
 

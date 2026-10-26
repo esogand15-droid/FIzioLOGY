@@ -106,6 +106,26 @@ ANAT_SESSIONS = {
         intro_sources="اسنل فصل ۴ · گری فصل ۱ و ۲",
         next_topics=["ساقهٔ مغز (جلسهٔ ۵)", "مخچه (جلسهٔ ۷)", "دستگاه عصبی خودکار (جلسهٔ ۱۲)"],
     ),
+    "s05": dict(
+        num="۵", n=5, of="۱۳",
+        title="ساقهٔ مغز: بصل‌النخاع و پل مغزی",
+        cover_title=["آناتومی دستگاه اعصاب", "جلسهٔ ۵ — ساقهٔ مغز"],
+        cover_topic="از بصل‌النخاع تا پل: سطح، اعصاب و چهار مقطع",
+        divider_title="ساقهٔ مغز\nبصل‌النخاع\nو پل مغزی",
+        divider_sub="جزوهٔ درس · اسنل فصل ۵ · گری فصل ۸",
+        lecture="جزوهٔ درس (جلسهٔ ۵) — مهر ۱۴۰۴",
+        pages_label="صفحه‌های ۲–۱۹",
+        outline="s05_topics.json",
+        content=("s05_a.json", "s05_b.json", "s05_c.json", "s05_d.json"),
+        anchor="anat-s05",
+        pdf_name="HumsYar_NeuroAnat_Jalase5.pdf",
+        outcome="جایگاه و کارهای ساقهٔ مغز، قانون چیدمان هسته‌ها و استثنای آن، سطح "
+                "بیرونی و پشتی بصل‌النخاع، نقشهٔ خروج اعصاب جمجمه‌ای، سه مقطع بصل‌النخاع "
+                "از تقاطع هرمی تا سطح زیتون، دو سندروم بصل‌النخاع، و سطح بیرونی و پشتی پل.",
+        intro_sources="اسنل فصل ۵ · گری فصل ۸",
+        next_topics=["ساقهٔ مغز ۲: مغز میانی (جلسهٔ ۶)", "مخچه (جلسهٔ ۷)",
+                     "دیانسفال (جلسهٔ ۸)"],
+    ),
 }
 
 
@@ -356,6 +376,9 @@ def render_blocks(book: PDFBook, blocks) -> None:
 
 def summary(book: PDFBook, content: dict, outline: dict, cfg: dict) -> None:
     """Closing checklist built from the session's own blocks."""
+    # the closing section always opens on a fresh page: a section title that
+    # lands on the last line of a topic page reads as a mistake.
+    book.new_page()
     book.h1("جمع‌بندی، چک‌لیست و برگهٔ تحویل", anchor="anat-summary", kicker="پایان جلسه")
     book.paragraph(
         "این بخش سه کار می‌کند: اول قاب‌های تصویر جلسه را در یک جدول جمع می‌کند، بعد یک "
