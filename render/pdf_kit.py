@@ -978,7 +978,9 @@ class PDFBook:
         # ---- image: keep the aspect ratio, never upscale beyond the source
         lim_h = max_h or 132 * MM
         free = self.bottom_limit() - self.y - (head_h + cap_h + text_h + lab_h + 40)
-        if free > 65 * MM:
+        # a plate that would leave a big hole on this page is scaled down to the
+        # room that is actually left, down to 42 mm; below that it moves over.
+        if free > 42 * MM:
             lim_h = min(lim_h, free)
         scale = min((box_w - 2 * pad) / iw, lim_h / ih)
         w, h = iw * scale, ih * scale

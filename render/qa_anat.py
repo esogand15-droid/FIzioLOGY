@@ -41,7 +41,7 @@ CONTENT_DIR = REPO / "content" / "anatomy"
 ASSET_INDEX = REPO / "images_anatomy" / "INDEX.json"
 
 KNOWN_TYPES = {"p", "ul", "ol", "h3", "callout", "plate", "path", "table",
-               "idcard", "handoff"}
+               "idcard", "handoff", "note"}
 NEEDS_SRC = {"p", "ul", "ol", "callout", "path", "table"}
 
 SESSIONS = {

@@ -361,6 +361,31 @@ def topic_head(book: PDFBook, t: dict, idx: int, total: int) -> None:
     book.spacer(2)
 
 
+# --------------------------------------------------------------- team notes
+NOTE_TITLE = "یادداشت عضو تیم — چرا این مبحث اهمیت دارد؟"
+
+
+def with_notes(blocks: list, idx: int) -> list:
+    """Every topic gets one lined note box for the reader's own writing.
+
+    The box sits right after the topic's identity card, i.e. exactly where the
+    reader has just read what the topic is about and before the first figure;
+    it is added here rather than in the content files so that all sessions get
+    the same box in the same place and no content file has to be rewritten.
+    """
+    out = list(blocks)
+    if any(b.get("type") == "note" for b in out):      # a hand-placed box wins
+        return out
+    note = {"type": "note", "size": "medium", "title": NOTE_TITLE,
+            "tag": f"مبحث {fa(idx)}"}
+    # the box closes the topic and sits right before its delivery sheet, the
+    # same place the note pages have in the physiology notebook: the reader
+    # writes there after finishing the topic and before signing it off.
+    pos = next((i for i, b in enumerate(out) if b.get("type") == "handoff"), None)
+    out.insert(pos if pos is not None else len(out), note)
+    return out
+
+
 # ----------------------------------------------------------------- block render
 def render_blocks(book: PDFBook, blocks) -> None:
     for b in blocks:
@@ -401,6 +426,23 @@ def render_blocks(book: PDFBook, blocks) -> None:
             book.table(b["head"], b["rows"], caption=b.get("caption", ""),
                        src=b.get("src", ""), widths=b.get("widths"))
             book.spacer(3)
+        elif kind == "note":
+            sizes = {"small": 32, "medium": 48, "large": 68}
+            want = sizes.get(b.get("size", "medium"), 48)
+            # the box closes its topic and must stay with the delivery sheet that
+            # follows it, so a delivery sheet's worth of room is reserved first.
+            reserve = 70 if b.get("keep_with_next") else 0
+            if reserve:
+                book.ensure((want + reserve) * MM)
+            # it is a blank ruled area, so it can shrink into what is left
+            # instead of jumping to the next page and leaving a hole; and when
+            # the delivery sheet after it has to move over anyway, the box grows
+            # into the room that would otherwise stay empty.
+            room = (book.bottom_limit() - book.y) / MM - 6 - reserve
+            if room < want:
+                want = max(28, room)
+            book.spacer(4)
+            book.note_box(want, b.get("title", "یادداشت عضو تیم"), tag=b.get("tag", ""))
         elif kind == "idcard":
             book.label_card(b.get("title", "شناسنامهٔ مبحث"), b.get("rows", []),
                             accent=K.TEAL, tint=K.TEAL_LL, kicker=b.get("kicker", ""),
@@ -469,8 +511,8 @@ def summary(book: PDFBook, content: dict, outline: dict, cfg: dict) -> None:
 def next_steps(book: PDFBook, cfg: dict) -> None:
     book.h1("قدم بعدی: چه چیزی در جلسهٔ بعد می‌آید", anchor="anat-next", kicker="ادامهٔ کار")
     book.paragraph(
-        f"این سند جلسهٔ {cfg['num']} از {cfg['of']} است و هر جلسه سند جداگانهٔ خودش را "
-        f"می‌گیرد. جلسهٔ بعد از همان نقطهٔ صفحه‌ای ادامه می‌دهد که این جلسه در آن ایستاده است.")
+        f"این سند جلسهٔ {cfg['num']} از {cfg['of']} است و جلسهٔ بعد از همان نقطهٔ صفحه‌ای "
+        f"ادامه می‌دهد که این جلسه در آن ایستاده است.")
     book.bullets(
         ["ساختارهای بعدی: " + " · ".join(cfg.get("next_topics", [])) + "."] +
         [f"{t['title']} با همین نظم ادامه می‌یابد." for t in cfg.get("next_notes", [])]
@@ -538,7 +580,7 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
 
     for i, t in enumerate(outline["topics"], start=1):
         topic_head(book, t, i, len(outline["topics"]))
-        render_blocks(book, content.get(t["topic_id"], []))
+        render_blocks(book, with_notes(content.get(t["topic_id"], []), i))
 
     summary(book, content, outline, cfg)
     next_steps(book, cfg)
