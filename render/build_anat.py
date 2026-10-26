@@ -87,6 +87,25 @@ ANAT_SESSIONS = {
         next_topics=["نخاع ۲: مسیرهای صعودی و نزولی (جلسهٔ ۴)",
                      "ساقهٔ مغز (جلسهٔ ۵)", "مخچه (جلسهٔ ۷)"],
     ),
+    "s04": dict(
+        num="۴", n=4, of="۱۳",
+        title="نخاع ۲: مسیرهای صعودی، نزولی و سندرم‌های نخاع",
+        cover_title=["آناتومی دستگاه اعصاب", "جلسهٔ ۴ — نخاع ۲"],
+        cover_topic="مسیرهای صعودی و نزولی، نورون حرکتی و سندرم‌های نخاع",
+        divider_title="نخاع ۲\nمسیرهای صعودی\nو نزولی",
+        divider_sub="جزوهٔ درس · اسنل فصل ۴ · گری فصل ۱ و ۲",
+        lecture="جزوهٔ درس (جلسهٔ ۴) — مهر ۱۴۰۴",
+        pages_label="صفحه‌های ۲–۲۷",
+        outline="s04_topics.json",
+        content=("s04_a.json", "s04_b.json", "s04_c.json", "s04_d.json"),
+        anchor="anat-s04",
+        pdf_name="HumsYar_NeuroAnat_Jalase4.pdf",
+        outcome="قالب سه‌نورونی مسیرهای صعودی، مسیر درد و حرارت و لمس، ستون خلفی و "
+                "مسیرهای ناخودآگاه، تراکت‌های کوچک ساقهٔ مغز، مسیرهای نزولی از قشر تا "
+                "شاخ قدامی، تفکیک نورون حرکتی فوقانی و تحتانی، و چهار سندرم نخاع.",
+        intro_sources="اسنل فصل ۴ · گری فصل ۱ و ۲",
+        next_topics=["ساقهٔ مغز (جلسهٔ ۵)", "مخچه (جلسهٔ ۷)", "دستگاه عصبی خودکار (جلسهٔ ۱۲)"],
+    ),
 }
 
 
@@ -264,9 +283,9 @@ def session_intro(book: PDFBook, cfg: dict, outline: dict, stats: dict) -> None:
         rows.append([f"{i:02d}", t["title"], page_range(t.get("pages", [])),
                      t.get("gist", "")])
     book.table(["#", "مبحث", "صفحه‌های جزوه", "در یک جمله"],
-               rows, widths=[K.CONTENT_W * 0.07, K.CONTENT_W * 0.30,
-                             K.CONTENT_W * 0.15, K.CONTENT_W * 0.48],
-               caption="جدول ۱-۰ — نقشهٔ مبحث‌ها",
+               rows, widths=[K.CONTENT_W * 0.06, K.CONTENT_W * 0.44,
+                             K.CONTENT_W * 0.14, K.CONTENT_W * 0.36],
+               size=8.0, caption="جدول ۱-۰ — نقشهٔ مبحث‌ها",
                src="نقشهٔ محتوایی این جزوه")
 
 
