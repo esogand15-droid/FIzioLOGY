@@ -179,6 +179,78 @@
    ],
    "bytes": 52278,
    "path": "images_anatomy/grays3_1_200_p0083_img07.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0090_img02",
+   "book": "grays",
+   "part": "1-200",
+   "page": 90,
+   "w": 1275,
+   "h": 90,
+   "px": 114750,
+   "area_pct": 5.4,
+   "bbox": [
+    -0.1,
+    4.6,
+    612.1,
+    47.5
+   ],
+   "bytes": 5322,
+   "path": "images_anatomy/grays3_1_200_p0090_img02.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0090_img07",
+   "book": "grays",
+   "part": "1-200",
+   "page": 90,
+   "w": 477,
+   "h": 1337,
+   "px": 637749,
+   "area_pct": 30.3,
+   "bbox": [
+    325.6,
+    66.2,
+    554.5,
+    708.0
+   ],
+   "bytes": 74842,
+   "path": "images_anatomy/grays3_1_200_p0090_img07.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0088_img02",
+   "book": "grays",
+   "part": "1-200",
+   "page": 88,
+   "w": 1275,
+   "h": 90,
+   "px": 114750,
+   "area_pct": 5.4,
+   "bbox": [
+    -0.1,
+    4.6,
+    612.1,
+    47.5
+   ],
+   "bytes": 5322,
+   "path": "images_anatomy/grays3_1_200_p0088_img02.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0088_img03",
+   "book": "grays",
+   "part": "1-200",
+   "page": 88,
+   "w": 907,
+   "h": 872,
+   "px": 790904,
+   "area_pct": 37.6,
+   "bbox": [
+    105.4,
+    295.8,
+    540.8,
+    714.3
+   ],
+   "bytes": 112593,
+   "path": "images_anatomy/grays3_1_200_p0088_img03.jpeg"
   }
  ]
 }

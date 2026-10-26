@@ -52,6 +52,21 @@ ANAT_SESSIONS = {
         pdf_name="HumsYar_NeuroAnat_Jalase1.pdf",
         next_topics=["نخاع (جلسهٔ ۳)", "ساقهٔ مغز (جلسهٔ ۵)", "مخچه (جلسهٔ ۷)"],
     ),
+    "s02": dict(
+        num="۲", n=2, of="۱۳",
+        title="بافت‌شناسی سیستم عصبی ۲",
+        cover_title=["آناتومی دستگاه اعصاب", "جلسهٔ ۲ — بافت‌شناسی ۲"],
+        cover_topic="شامه‌ها، سد خونی‌مغزی و دستگاه عصبی محیطی",
+        divider_title="از قشر و نخاع\nتا شامه‌ها\nو عصب محیطی",
+        divider_sub="جزوهٔ درس · Snell فصل‌های ۱، ۲ و ۳ · Gray's فصل ۱ و ۲",
+        lecture="جزوهٔ درس (جلسهٔ ۱ و ۲) — مهر ۱۴۰۴",
+        pages_label="صفحه‌های ۱۹–۳۵",
+        outline="s02_topics.json",
+        content=("s02_a.json", "s02_b.json", "s02_c.json"),
+        anchor="anat-s02",
+        pdf_name="HumsYar_NeuroAnat_Jalase2.pdf",
+        next_topics=["نخاع ۲ (جلسهٔ ۴)", "ساقهٔ مغز (جلسهٔ ۵)", "ANS و عروق مغز (جلسهٔ ۱۲)"],
+    ),
 }
 
 
