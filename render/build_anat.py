@@ -254,6 +254,27 @@ ANAT_SESSIONS = {
         intro_sources="اسنل فصل ۸ (شکل ۸-۱، ۸-۳، ۸-۴، ۸-۵، ۸-۷) · گری فصل ۸ (شکل ۸.۳۷)",
         next_topics=["دستگاه عصبی خودکار (جلسهٔ ۱۲)", "تکامل مغز (جلسهٔ ۱۳)"],
     ),
+    "s12": dict(
+        num="۱۲", n=12, of="۱۳",
+        title="دستگاه عصبی خودکار و خون‌رسانی مغز: از زنجیرهٔ سمپاتیک تا حلقهٔ ویلیس",
+        cover_title=["آناتومی دستگاه اعصاب", "جلسهٔ ۱۲ — دستگاه خودکار"],
+        cover_topic="سمپاتیک و پاراسمپاتیک، اسپلانکنیک‌ها، اعصاب مغزی پاراسمپاتیک، شریان‌ها و وریدهای مغز و نخاع",
+        divider_title="دستگاه خودکار\nاز نخاع\nتا حلقهٔ ویلیس",
+        divider_sub="جزوهٔ درس · اسنل فصل ۱۲ و ۱۷ · گری فصل ۸",
+        lecture="جزوهٔ درس (جلسهٔ ۱۲) — مهر ۱۳۹۷",
+        pages_label="صفحه‌های ۱–۱۴",
+        outline="s12_topics.json",
+        content=("s12_a.json", "s12_b.json"),
+        anchor="anat-s12",
+        pdf_name="HumsYar_NeuroAnat_Jalase12.pdf",
+        outcome="دو بخش دستگاه عصبی خودکار و محدودهٔ نخاعی‌شان، زنجیرهٔ سمپاتیک و "
+                "شمارش گانگلیون‌ها، سه سرنوشت الیاف سمپاتیک، اسپلانکنیک‌ها و مدولا "
+                "آدرنال، میانجی‌های شیمیایی، پاراسمپاتیک جمجمه‌ای و واگ و بخش خاجی، "
+                "شریان‌های مغز و حلقهٔ ویلیس، نواحی شریانی قشری و عمقی، وریدها و "
+                "سینوس‌ها، و خون‌رسانی نخاع.",
+        intro_sources="اسنل فصل ۱۲ (شکل ۱۲-۲، ۱۲-۵، ۱۲-۹) و فصل ۱۷ (شکل ۱۷-۲، ۱۷-۳، ۱۷-۷) · گری فصل ۸ (شکل ۸.۳۹ و ۸.۴۴)",
+        next_topics=["تکامل مغز (جلسهٔ ۱۳)"],
+    ),
 }
 
 
@@ -517,6 +538,11 @@ def render_blocks(book: PDFBook, blocks) -> None:
                 book.source_line(b["src"])
             book.spacer(2)
         elif kind == "plate":
+            # a tall, narrow figure would be shrunk into whatever room is left
+            # and become unreadable; such plates declare ``fresh`` and start a
+            # page of their own so the figure keeps its full size.
+            if b.get("fresh"):
+                book.new_page()
             book.anat_plate(
                 REPO / b["asset"],
                 b["title"], b["citation"], b.get("en_caption", ""),
