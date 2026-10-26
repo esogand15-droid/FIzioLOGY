@@ -115,6 +115,13 @@ SESSIONS = {
         page_ranges=[(1, 9)],
         report=REPO / "reports" / "ANAT_S10_QA_REPORT.md",
     ),
+    "s11": dict(
+        pdf=REPO / "pdf" / "HumsYar_NeuroAnat_Jalase11.pdf",
+        outline="s11_topics.json",
+        content=("s11_a.json", "s11_b.json"),
+        page_ranges=[(1, 20)],
+        report=REPO / "reports" / "ANAT_S11_QA_REPORT.md",
+    ),
 }
 
 
