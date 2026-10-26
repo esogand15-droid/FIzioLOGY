@@ -67,6 +67,26 @@ ANAT_SESSIONS = {
         pdf_name="HumsYar_NeuroAnat_Jalase2.pdf",
         next_topics=["نخاع ۲ (جلسهٔ ۴)", "ساقهٔ مغز (جلسهٔ ۵)", "ANS و عروق مغز (جلسهٔ ۱۲)"],
     ),
+    "s03": dict(
+        num="۳", n=3, of="۱۳",
+        title="نخاع: از شکل بیرونی تا لامیناهای خاکستری",
+        cover_title=["آناتومی دستگاه اعصاب", "جلسهٔ ۳ — نخاع ۱"],
+        cover_topic="شکل بیرونی، شامه‌ها و ساختار درونی نخاع",
+        divider_title="نخاع\nاز شکل بیرونی\nتا لامیناهای خاکستری",
+        divider_sub="جزوهٔ درس · اسنل فصل ۴ · گری فصل ۲",
+        lecture="جزوهٔ درس (جلسهٔ ۳) — مهر ۱۴۰۴",
+        pages_label="صفحه‌های ۲–۳۳",
+        outline="s03_topics.json",
+        content=("s03_a.json", "s03_b.json", "s03_c.json"),
+        anchor="anat-s03",
+        pdf_name="HumsYar_NeuroAnat_Jalase3.pdf",
+        outcome="مرز مرکز و محیط، ساختن لولهٔ عصبی و بطن‌ها، سه پوشش شامه‌ای و "
+                "فضای اپیدورال، ابعاد و شکل بیرونی نخاع و ۳۱ جفت عصب، و نقشهٔ درونی "
+                "خاکستری از شاخ‌ها و هسته‌ها تا لامیناهای رکسد و مادهٔ سفید.",
+        intro_sources="اسنل فصل ۴ · گری فصل ۲",
+        next_topics=["نخاع ۲: مسیرهای صعودی و نزولی (جلسهٔ ۴)",
+                     "ساقهٔ مغز (جلسهٔ ۵)", "مخچه (جلسهٔ ۷)"],
+    ),
 }
 
 
@@ -232,11 +252,11 @@ def session_intro(book: PDFBook, cfg: dict, outline: dict, stats: dict) -> None:
              "text": f"{fa(stats['plates'])} قاب تصویر: {fa(stats['lec'])} از جزوه، "
                      f"{fa(stats['snell'])} از اسنل، {fa(stats['grays'])} از گری."},
             {"label": "خروجی این جلسه",
-             "text": "شناخت نورون و زوائدش، انتقال آکسونی، سیناپس، شش نوع سلول گلیال، و تفاوت "
-                     "میلین‌سازی در CNS و PNS."},
+             "text": cfg.get("outcome", "شناخت نورون و زوائدش، انتقال آکسونی، سیناپس، شش نوع "
+                                       "سلول گلیال، و تفاوت میلین‌سازی در CNS و PNS.")},
         ],
         accent=K.TEAL, tint=K.TEAL_LL, kicker="شناسنامهٔ جلسه",
-        footer=f"منابع: {cfg['lecture']} · اسنل فصل ۱–۲ · گری فصل ۱",
+        footer=f"منابع: {cfg['lecture']} · {cfg.get('intro_sources', 'اسنل فصل ۱–۲ · گری فصل ۱')}",
     )
     book.h2("نقشهٔ مبحث‌های این جلسه", anchor="anat-map")
     rows = []
@@ -330,8 +350,13 @@ def summary(book: PDFBook, content: dict, outline: dict, cfg: dict) -> None:
                 continue
             src_book = {"lecture": "جزوهٔ درس", "snell": "اسنل", "grays": "گری"}.get(
                 b.get("book"), "—")
-            m = re.search(r"(Fig(?:ure)?\.?\s*\d+[.\-–]\d+)", b.get("citation", ""))
-            fig = m.group(1).replace("Figure", "Fig.") if m else ""
+            cite = b.get("citation", "")
+            m = re.search(r"(Fig(?:ure)?\.?\s*\d+[.\-–]\d+)", cite)
+            if m:
+                fig = m.group(1).replace("Figure", "Fig.")
+            else:  # Persian citations name the figure with the Persian word
+                m = re.search(r"(شکل\s*[۰-۹0-9]+[.\-–][۰-۹0-9]+)", cite)
+                fig = m.group(1) if m else ""
             struct.append([b["title"], src_book, fig or "—", b.get("src", "")])
     if struct:
         book.table(["ساختار", "کتاب", "شکل", "جای متن"],

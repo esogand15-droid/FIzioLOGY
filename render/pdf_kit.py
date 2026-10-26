@@ -1092,7 +1092,6 @@ class PDFBook:
         # paragraph() needs up to three leadings before it accepts a new block,
         # so the reserve must be at least that large or the caption is orphaned
         cap_reserve = max(cap_lines_n, 3) * 14 + (14 if src else 0)
-        self.ensure(46 + cap_reserve)
         c = self.c
 
         def cell_lines(text, i):
@@ -1100,6 +1099,13 @@ class PDFBook:
 
         head_lines = [cell_lines(h, i) for i, h in enumerate(head)]
         head_h = max(len(x) for x in head_lines) * (size + 3.6) + 9
+        # a table that fits on one page is never split: measure it first, then
+        # ask for the whole height.  Longer tables keep the row-by-row rule.
+        row_hs = [max(len(l) for l in [cell_lines(cell, i)
+                                       for i, cell in enumerate(row)]) * (size + 3.2) + 8
+                  for row in rows]
+        whole = head_h + sum(row_hs) + 5 + cap_reserve
+        self.ensure(whole if whole <= self.usable_height() - 8 else 46 + cap_reserve)
 
         def draw_head(top_y: float) -> None:
             """Header row; drawn again on every continuation page."""
@@ -1122,7 +1128,7 @@ class PDFBook:
         last_idx = len(rows) - 1
         for r_idx, row in enumerate(rows):
             lpc = [cell_lines(cell, i) for i, cell in enumerate(row)]
-            row_h = max(len(l) for l in lpc) * (size + 3.2) + 8
+            row_h = row_hs[r_idx]
             # the caption stays with the final row (no orphan page)
             reserve = cap_reserve if r_idx == last_idx else 0
             if self.y + row_h + reserve > self.bottom_limit():
