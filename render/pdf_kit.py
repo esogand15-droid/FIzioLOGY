@@ -722,8 +722,10 @@ class PDFBook:
             label = row.get("label", "")
             items = row.get("items")
             text = row.get("text", "")
-            box_w = 15 if (tick and items is not None) else 0
-            indent = 14 if (items is not None and not tick) else 0
+            row_tick = bool(row.get("tick", tick))
+            row_bullet = bool(row.get("bullet", not row_tick))
+            box_w = 15 if (row_tick and items is not None) else 0
+            indent = 14 if (items is not None and row_bullet) else 0
             entries: list[tuple[str, bool]] = []      # (line, starts_a_new_item)
             if items is not None:
                 for it in items:
@@ -748,11 +750,11 @@ class PDFBook:
                         accent, align="right")
             yy = top + 15
             for line, starts in entries:
-                if tick and items is not None and starts:
+                if row_tick and items is not None and starts:
                     c.setStrokeColor(accent)
                     c.setLineWidth(0.9)
                     c.rect(M_LEFT + 8, self.py(yy + 12.5), 8.4, 8.4, stroke=1, fill=0)
-                if items is not None and not tick and starts:
+                if items is not None and row_bullet and starts:
                     c.setFillColor(accent)
                     c.circle(A4W - M_RIGHT - 13, self.py(yy + 8.6), 1.6, stroke=0, fill=1)
                 self.draw_line(line, yy, body, CONTENT_W - 46 - box_w - indent,
@@ -766,6 +768,83 @@ class PDFBook:
                 self.draw_line(line, self.y + 3, f, CONTENT_W - 10, A4W - M_RIGHT - 4)
                 self.y += f.leading
         self.y += 8
+
+    def handoff_sheet(self, title: str, sources: str, checklist, question: str,
+                      kicker: str = "این برگه را نویسندهٔ مبحث پر می‌کند",
+                      note: str = "", accent=AMBER, tint=AMBER_BG) -> None:
+        """The team's hand-off form: sources read, pre-delivery checks, one open point.
+
+        It is one sheet (never split): the header, the source line, the tick list,
+        the open question and the signature line stay on the same page.
+        """
+        self._touch()
+        head_h = 24
+        body = TextStyle(size=9.4, leading=15.2, color=BODY, justify=False)
+        lab = TextStyle(size=8.4, leading=12.6, color=accent, justify=False)
+        rows: list[tuple[str, list[str], bool]] = []
+        rows.append(("منابعی که برای این مبحث خوانده شد",
+                     self.wrap(sources, body.font, body.size, CONTENT_W - 46), False))
+        for item in checklist:
+            rows.append(("", self.wrap(item, body.font, body.size, CONTENT_W - 63), True))
+        lab_hidden = True
+        q_lines = self.wrap(question, body.font, body.size, CONTENT_W - 46) if question else []
+        note_lines = self.wrap(note, lab.font, lab.size, CONTENT_W - 46) if note else []
+        total = head_h + 8
+        for label, lines, _ in rows:
+            total += (15 if label else 0) + len(lines) * body.leading + 7
+        total += 20 + len(q_lines) * body.leading + len(note_lines) * lab.leading + 34
+        self.ensure(min(total, self.usable_height() - 12))
+        c = self.c
+        top = self.y
+        c.setStrokeColor(LINE)
+        c.setLineWidth(0.7)
+        c.setFillColor(CARD)
+        c.roundRect(M_LEFT, self.py(top + total), CONTENT_W, total, 6, stroke=1, fill=1)
+        c.setFillColor(accent)
+        c.roundRect(M_LEFT, self.py(top + head_h), CONTENT_W, head_h, 6, stroke=0, fill=1)
+        c.rect(M_LEFT, self.py(top + head_h), CONTENT_W, 3, stroke=0, fill=1)
+        draw_shaped(c, A4W - M_RIGHT - 9, self.py(top + 15.5), shape(title), "VazirB", 10.2,
+                    CARD, align="right")
+        if kicker:
+            draw_shaped(c, M_LEFT + 9, self.py(top + 15.5), shape(kicker), "Vazir", 7.6, CARD)
+        y = top + head_h + 6
+        for label, lines, is_tick in rows:
+            if label:
+                draw_shaped(c, A4W - M_RIGHT - 9, self.py(y + 10), shape(label), "VazirB",
+                            8.4, accent, align="right")
+                y += 14
+            for line in lines:
+                if is_tick:
+                    c.setStrokeColor(accent)
+                    c.setLineWidth(0.9)
+                    c.rect(M_LEFT + 9, self.py(y + 11.5), 8, 8, stroke=1, fill=0)
+                self.draw_line(line, y, body, CONTENT_W - 63 if is_tick else CONTENT_W - 46,
+                               A4W - M_RIGHT - 9, justify=False)
+                y += body.leading
+            y += 6
+        c.setStrokeColor(LINE)
+        c.setLineWidth(0.6)
+        c.line(M_LEFT + 9, self.py(y + 2), A4W - M_RIGHT - 9, self.py(y + 2))
+        y += 6
+        draw_shaped(c, A4W - M_RIGHT - 9, self.py(y + 10), shape("اختلاف یا ابهام علمی برای بازبین"),
+                    "VazirB", 8.4, accent, align="right")
+        y += 14
+        for line in q_lines:
+            self.draw_line(line, y, body, CONTENT_W - 46, A4W - M_RIGHT - 9, justify=False)
+            y += body.leading
+        if note:
+            for line in self.wrap(note, lab.font, lab.size, CONTENT_W - 46):
+                self.draw_line(line, y + 2, lab, CONTENT_W - 46, A4W - M_RIGHT - 9, justify=False)
+                y += lab.leading
+        y += 8
+        c.setStrokeColor(LINE)
+        c.setLineWidth(0.6)
+        c.line(M_LEFT + 9, self.py(y), A4W - M_RIGHT - 9, self.py(y))
+        sig = TextStyle(size=8.0, leading=12, color=MUTED, justify=False)
+        y += 5
+        self.draw_line("امضای نویسنده: …………………………    تاریخ: …………………………    شمارهٔ نسخه: ………………",
+                       y, sig, CONTENT_W - 18, A4W - M_RIGHT - 9, justify=False)
+        self.y = top + total + 8
 
     def note_box(self, height_mm: float, title: str = "یادداشت عضو تیم",
                  subtitle: str = "HumsYar · team workspace", tag: str = "") -> None:
@@ -860,7 +939,7 @@ class PDFBook:
     # ------------------------------------------------- anatomy blocks (additive)
     def anat_plate(self, image, title: str, citation: str, en_caption: str,
                    fa_text: str, labels=None, view: str = "", src: str = "",
-                   max_h: float | None = None) -> None:
+                   max_h: float | None = None, en_body: str = "") -> None:
         """A reference plate: the book's figure + its own caption + our Persian text.
 
         This is the anatomy counterpart of ``guyton_pair``: the picture is the
@@ -889,6 +968,11 @@ class PDFBook:
         lab_lines = [self.wrap(f"{fa} · {en}" if fa else en, lab_style.font, lab_style.size,
                                box_w - 2 * pad - 22) for fa, en in (labels or [])]
         cap_h = (len(en_lines) * en_style.leading + 8) if en_lines else 0
+        # a quoted passage of the book's own running text (only when it exists)
+        bd_style = TextStyle(size=8.6, leading=13.6, color=INK, justify=False)
+        bd_lines = self.wrap(en_body, bd_style.font, bd_style.size, box_w - 2 * pad - 14) \
+            if en_body else []
+        cap_h += (len(bd_lines) * bd_style.leading + 16) if bd_lines else 0
         lab_h = (sum(len(x) for x in lab_lines) * lab_style.leading + 14) if lab_lines else 0
         text_h = len(fa_lines) * fa_style.leading + (10 if fa_lines else 0)
         # ---- image: keep the aspect ratio, never upscale beyond the source
@@ -924,6 +1008,15 @@ class PDFBook:
                             en_style.size, MUTED, align="right")
                 y += en_style.leading
             y += 6
+        if bd_lines:
+            c.setStrokeColor(LINE)
+            c.setLineWidth(1.6)
+            c.line(M_LEFT + 10, self.py(y + 2), M_LEFT + 10, self.py(y + len(bd_lines) * bd_style.leading + 2))
+            for ln in bd_lines:
+                self.draw_line(ln, y, bd_style, box_w - 2 * pad - 14, A4W - M_RIGHT - 20,
+                               justify=False)
+                y += bd_style.leading
+            y += 10
         if fa_lines:
             c.setStrokeColor(TEAL_L)
             c.setLineWidth(0.7)

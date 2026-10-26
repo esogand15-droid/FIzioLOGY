@@ -1094,6 +1094,58 @@
    "area_pct": 37.6,
    "bytes": 112593,
    "path": "images_anatomy/grays3_1_200_p0088_img03.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0060_fig133",
+   "book": "grays",
+   "session": null,
+   "source_file": "Gray's Anatomy for Students, 3rd ed. — part 1-200 (page render, labels included)",
+   "page": 60,
+   "w": 1175,
+   "h": 1984,
+   "px": 2331200,
+   "area_pct": 132.5,
+   "bytes": 270060,
+   "path": "images_anatomy/grays3_1_200_p0060_fig133.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0060_fig134",
+   "book": "grays",
+   "session": null,
+   "source_file": "Gray's Anatomy for Students, 3rd ed. — part 1-200 (page render, labels included)",
+   "page": 60,
+   "w": 1034,
+   "h": 1134,
+   "px": 1172556,
+   "area_pct": 66.6,
+   "bytes": 169664,
+   "path": "images_anatomy/grays3_1_200_p0060_fig134.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0083_fig24",
+   "book": "grays",
+   "session": null,
+   "source_file": "Gray's Anatomy for Students, 3rd ed. — part 1-200 (page render, labels included)",
+   "page": 83,
+   "w": 1092,
+   "h": 1626,
+   "px": 1775592,
+   "area_pct": 100.9,
+   "bytes": 234122,
+   "path": "images_anatomy/grays3_1_200_p0083_fig24.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0088_fig29",
+   "book": "grays",
+   "session": null,
+   "source_file": "Gray's Anatomy for Students, 3rd ed. — part 1-200 (page render, labels included)",
+   "page": 88,
+   "w": 2050,
+   "h": 1801,
+   "px": 3692050,
+   "area_pct": 209.8,
+   "bytes": 530667,
+   "path": "images_anatomy/grays3_1_200_p0088_fig29.jpeg"
   }
  ]
 }

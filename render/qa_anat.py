@@ -3,8 +3,8 @@
 Same philosophy as ``render/qa_report.py``: everything printed is **measured on the
 produced PDF and on the authored JSON**, never asserted.  The physiology report is
 left untouched; this script is the anatomy counterpart and adds the three gates the
-anatomy plan requires (G6 bilingual labels, G7 citation completeness, G8 evidence
-tags).
+anatomy plan requires (G6 bilingual labels, G7 citation completeness, G8 hand-off
+sheet and language hygiene).
 
     .venv/bin/python render/qa_anat.py --session s01
 
@@ -17,7 +17,8 @@ G4 figures        every plate asset is in ``images_anatomy/INDEX.json`` and embe
 G5 TOC            printed page numbers equal the real page of each anchor
 G6 labels         every plate has labels, each with both a Persian and a Latin term
 G7 citations      every plate names its source and a page; book plates name a figure
-G8 evidence tags  every topic declares the evidence status of its claims
+G8 hand-off       every topic ends with the hand-off sheet and the pages carry no
+                  production/tooling wording
 
 Writes ``reports/ANAT_S{NN}_QA_REPORT.md``; exit code 1 on a hard failure.
 """
@@ -40,8 +41,8 @@ CONTENT_DIR = REPO / "content" / "anatomy"
 ASSET_INDEX = REPO / "images_anatomy" / "INDEX.json"
 
 KNOWN_TYPES = {"p", "ul", "ol", "h3", "callout", "plate", "path", "table",
-               "idcard", "handoff", "status"}
-NEEDS_SRC = {"p", "ul", "ol", "callout", "path", "status", "idcard", "handoff", "table"}
+               "idcard", "handoff"}
+NEEDS_SRC = {"p", "ul", "ol", "callout", "path", "table"}
 
 SESSIONS = {
     "s01": dict(
@@ -220,7 +221,7 @@ def main() -> int:
     latin_terms = sum(1 for fa, en in label_rows if re.search(r"[A-Za-z]", en))
 
     # ------------------------------------------------------------------ G7
-    fig_re = re.compile(r"Fig(?:ure)?\.?\s*\d+[-–.]\d+")
+    fig_re = re.compile(r"(Fig(?:ure)?\.?\s*\d+[-–.]\d+|شکل\s*[۰-۹]+[.\-–][۰-۹]+)")
     cite_ok = 0
     for tid, i, b in plates:
         cite = b.get("citation", "")
@@ -234,26 +235,39 @@ def main() -> int:
                 warnings.append(f"G7 {tid}#{i}: book plate without a figure number — {cite!r}")
             if not b.get("en_caption"):
                 problems.append(f"G7 {tid}#{i}: book plate without the original English caption")
-        if b["book"] == "grays" and not cite.startswith("Gray"):
+        if b["book"] == "grays" and not cite.startswith(("Gray", "گری")):
             problems.append(f"G7 {tid}#{i}: Gray's plate with a non-Gray's citation")
-        if b["book"] == "snell" and not cite.startswith("Snell"):
+        if b["book"] == "snell" and not cite.startswith(("Snell", "اسنل")):
             problems.append(f"G7 {tid}#{i}: Snell plate with a non-Snell citation")
 
     # ------------------------------------------------------------------ G8
-    tag_counts = {"بررسی‌شده": 0, "بررسی‌نشده": 0, "غیرقابل‌دسترسی": 0}
+    FORBIDDEN = ("بررسی‌شده", "بررسی نشده", "OCR", "کیفیت‌سنجی", "گزارش فنی",
+                 "همین مخزن", "هوش مصنوعی", "GitHub", "مخزن", "بازبین علمی",
+                 "استخراج متن", "لایهٔ متنی")
+    handoff_ok = 0
+    for tid, blocks in content.items():
+        ho = [b for b in blocks if b.get("type") == "handoff"]
+        if len(ho) != 1:
+            problems.append(f"G8 {tid}: {len(ho)} hand-off sheets (exactly one required)")
+            continue
+        h = ho[0]
+        for field in ("title", "kicker", "sources", "open", "question"):
+            if not str(h.get(field, "")).strip():
+                problems.append(f"G8 {tid}: hand-off sheet without {field!r}")
+        if len(h.get("checklist") or []) != 5:
+            problems.append(f"G8 {tid}: hand-off checklist has "
+                            f"{len(h.get('checklist') or [])} rows (5 required)")
+        handoff_ok += 1
+    words = 0
     for tid, blocks in content.items():
         for b in blocks:
-            s = b.get("src", "")
-            if "بررسی‌شده" in s:
-                tag_counts["بررسی‌شده"] += 1
-            if "بررسی‌نشده" in s:
-                tag_counts["بررسی‌نشده"] += 1
-            if "غیرقابل‌دسترسی" in s:
-                tag_counts["غیرقابل‌دسترسی"] += 1
-    for tid, blocks in content.items():
-        if not any(b.get("type") == "status" for b in blocks):
-            warnings.append(f"G8 {tid}: no 'status' block — the evidence tag of this topic "
-                            "is not stated in one place")
+            blob = " ".join(str(b.get(k, "")) for k in ("text", "src", "title", "note",
+                                                        "open", "question", "sources"))
+            for w in FORBIDDEN:
+                if w in blob:
+                    words += 1
+                    problems.append(f"G8 {tid}: presentation wording {w!r} in block "
+                                    f"{b.get('type')}")
 
     # ------------------------------------------------------------------ report
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -330,11 +344,11 @@ def main() -> int:
         f"- قاب کتاب بدون کپشن اصلی انگلیسی: "
         f"**{sum(1 for p in problems if 'English caption' in p)}**",
         "",
-        "## G8 — برچسب‌های وضعیت شواهد",
+        "## G8 — برگهٔ تحویل و زبان متن",
         "",
-        f"- ادعاهای دارای برچسب «بررسی‌شده»: **{tag_counts['بررسی‌شده']}**",
-        f"- ادعاهای دارای برچسب «بررسی‌نشده»: **{tag_counts['بررسی‌نشده']}**",
-        f"- ادعاهای دارای برچسب «غیرقابل‌دسترسی»: **{tag_counts['غیرقابل‌دسترسی']}**",
+        f"- مبحث‌های دارای برگهٔ تحویل کامل: **{fa_n(handoff_ok)} از "
+        f"{fa_n(len(content))}**",
+        f"- واژه‌های فنی/ابزاری در متن: **{fa_n(words)}**",
         "",
         "## نتیجهٔ دروازه‌ها",
         "",
