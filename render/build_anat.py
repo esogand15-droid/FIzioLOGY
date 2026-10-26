@@ -275,6 +275,30 @@ ANAT_SESSIONS = {
         intro_sources="اسنل فصل ۱۲ (شکل ۱۲-۲، ۱۲-۵، ۱۲-۹) و فصل ۱۷ (شکل ۱۷-۲، ۱۷-۳، ۱۷-۷) · گری فصل ۸ (شکل ۸.۳۹ و ۸.۴۴)",
         next_topics=["تکامل مغز (جلسهٔ ۱۳)"],
     ),
+    "s13": dict(
+        num="۱۳", n=13, of="۱۳",
+        title="تکامل دستگاه عصبی: از صفحهٔ عصبی تا شکل نهایی مغز",
+        cover_title=["آناتومی دستگاه اعصاب", "جلسهٔ ۱۳ — تکامل مغز"],
+        cover_topic="لولهٔ عصبی و تاج عصبی، وزیکول‌های مغزی، ستون‌های ساقهٔ مغز، مخچه، دیانسفال و هیپوفیز، نیم‌کره‌ها و ناهنجاری‌های تکاملی",
+        divider_title="تکامل مغز\nاز یک لایه\nتا شکنج‌ها",
+        divider_sub="جزوهٔ درس · اسنل فصل ۱ و ۱۸ · گری فصل ۸",
+        lecture="جزوهٔ درس (جلسهٔ ۱۳) — مهر ۱۳۹۷",
+        pages_label="صفحه‌های ۱–۲۷",
+        outline="s13_topics.json",
+        content=("s13_a.json", "s13_b.json"),
+        anchor="anat-s13",
+        pdf_name="HumsYar_NeuroAnat_Jalase13.pdf",
+        outcome="منشأ اکتودرمی دستگاه عصبی و مراحل بسته شدن لولهٔ عصبی با دو نوروپور، "
+                "سه وزیکول اولیه و پنج وزیکول ثانویه و سرنوشت هرکدام، سلول‌های "
+                "نورواپی‌تلیال و نوروبلاست و گلیوبلاست، صفحات آلار و بازال و دو "
+                "لایهٔ مانتل و حاشیه‌ای، بالا آمدن نخاع و فیلوم ترمینال، طیف "
+                "اسپاینا بیفیدا و پیشگیری با اسید فولیک، شش ستون ساقهٔ مغز و "
+                "هسته‌های اعصاب مغزی، لبهٔ رومبیک و تکامل مخچه، دیانسفال و دو "
+                "منشأ هیپوفیز، تلانسفال و بطن‌ها و هسته‌های قاعده‌ای و شکنج‌ها، و "
+                "ناهنجاری‌های تکاملی از هولوپروزنسفالی تا بی‌مغزی و هیدروسفالی.",
+        intro_sources="اسنل فصل ۱ (شکل ۱-۱۶، ۱-۱۷) و فصل ۱۸ (شکل ۱۸-۸، ۱۸-۱۲، ۱۸-۱۴) · گری فصل ۸ (شکل ۸.۳۶ و ۸.۴۶)",
+        next_topics=[],
+    ),
 }
 
 
@@ -588,9 +612,15 @@ def render_blocks(book: PDFBook, blocks) -> None:
                             accent=K.TEAL, tint=K.TEAL_LL, kicker=b.get("kicker", ""),
                             footer=b.get("footer", ""))
         elif kind == "handoff":
-            q = b.get("question", "")
+            q = str(b.get("question", "")).strip()
+            for _prefix in ("پرسش باز:", "پرسش باز :"):
+                if q.startswith(_prefix):
+                    q = q[len(_prefix):].strip()
+            srcs = b.get("sources", "")
+            if isinstance(srcs, (list, tuple)):
+                srcs = " · ".join(str(x).strip() for x in srcs if str(x).strip())
             book.handoff_sheet(b.get("title", "برگهٔ تحویل مبحث"),
-                               b.get("sources", ""), b.get("checklist", []),
+                               srcs, b.get("checklist", []),
                                b.get("open", ""),
                                kicker=b.get("kicker", ""),
                                note=(f"پرسش باز: {q}" if q else ""))
