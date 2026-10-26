@@ -168,6 +168,28 @@ ANAT_SESSIONS = {
         next_topics=["دیانسفال (جلسهٔ ۸)", "تلانسفال (جلسهٔ ۹)",
                      "هسته‌های قاعده‌ای (جلسهٔ ۱۰)"],
     ),
+
+    "s08": dict(
+        num="۸", n=8, of="۱۳",
+        title="دیانسفال: بطن‌ها، تالاموس، هیپوتالاموس و اپی‌تالاموس",
+        cover_title=["آناتومی دستگاه اعصاب", "جلسهٔ ۸ — دیانسفال"],
+        cover_topic="بطن چهارم و سوم، چهار سطح تالاموس، هیپوتالاموس، اپی‌تالاموس و ساب‌تالاموس",
+        divider_title="دیانسفال\nاز بطن سوم\nتا هیپوتالاموس",
+        divider_sub="جزوهٔ درس · اسنل فصل ۱۳ و ۱۶ · گری فصل ۸",
+        lecture="جزوهٔ درس (جلسهٔ ۸) — بهمن ۱۴۰۲",
+        pages_label="بخش ۱: صفحه‌های ۱–۱۳ · بخش ۲: صفحه‌های ۱–۱۲",
+        outline="s08_topics.json",
+        content=("s08_a.json", "s08_b.json", "s08_c.json", "s08_d.json"),
+        anchor="anat-s08",
+        pdf_name="HumsYar_NeuroAnat_Jalase8.pdf",
+        outcome="مرزها و سقف بطن چهارم و سوم، کف بطن سوم، چهار سطح تالاموس و مادهٔ سفید آن، "
+                "گروه‌های هسته‌ای و اتصالاتشان، نشانه‌های ضایعهٔ تالاموس، تقسیم‌بندی و "
+                "هسته‌های هیپوتالاموس، آوران و وابران آن، اپی‌تالاموس و غدهٔ صنوبری، و "
+                "ساب‌تالاموس با همی‌بالیسموس.",
+        intro_sources="اسنل فصل ۱۳ و ۱۶ · گری فصل ۸ (شکل ۸.۳۷ و ۸.۳۹)",
+        next_topics=["تلانسفال (جلسهٔ ۹)", "هسته‌های قاعده‌ای (جلسهٔ ۱۰)",
+                     "دستگاه لیمبیک (جلسهٔ ۱۱)"],
+    ),
 }
 
 
@@ -180,15 +202,32 @@ def fa(n) -> str:
     return str(n).translate(K.FA_DIGITS)
 
 
+def _compress(nums: list[int]) -> str:
+    nums = sorted(nums)
+    if len(nums) == 1:
+        return fa(nums[0])
+    if nums == list(range(nums[0], nums[-1] + 1)):
+        return f"{fa(nums[0])}–{fa(nums[-1])}"
+    return "، ".join(fa(p) for p in nums)
+
+
 def page_range(pages) -> str:
+    """`pages` holds lecture page numbers; 100+n is page n of the second file.
+
+    Session 8 is printed from two lecture files, so a topic has to be able to
+    say «بخش ۲: ۱–۳» instead of pretending the second file continues the first.
+    """
     pages = sorted(int(p) for p in pages or [])
     if not pages:
         return "—"
-    if len(pages) == 1:
-        return fa(pages[0])
-    if pages == list(range(pages[0], pages[-1] + 1)):
-        return f"{fa(pages[0])}–{fa(pages[-1])}"
-    return "، ".join(fa(p) for p in pages)
+    first = [p for p in pages if p < 100]
+    second = [p - 100 for p in pages if p >= 100]
+    chunks = []
+    if first:
+        chunks.append(_compress(first))
+    if second:
+        chunks.append("بخش ۲: " + _compress(second))
+    return " · ".join(chunks)
 
 
 def tno(tid: str) -> str:
@@ -339,6 +378,11 @@ def session_intro(book: PDFBook, cfg: dict, outline: dict, stats: dict) -> None:
         accent=K.TEAL, tint=K.TEAL_LL, kicker="شناسنامهٔ جلسه",
         footer=f"منابع: {cfg['lecture']} · {cfg.get('intro_sources', 'اسنل فصل ۱–۲ · گری فصل ۱')}",
     )
+    # The map table is taller than what is left under the intro card in a long
+    # session; start it on a fresh page so its heading never sits alone at the
+    # bottom of the previous page.
+    if len(outline["topics"]) > 11:
+        book.new_page()
     book.h2("نقشهٔ مبحث‌های این جلسه", anchor="anat-map")
     rows = []
     for i, t in enumerate(outline["topics"], start=1):

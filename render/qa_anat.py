@@ -94,6 +94,13 @@ SESSIONS = {
         pages=(2, 13),
         report=REPO / "reports" / "ANAT_S07_QA_REPORT.md",
     ),
+    "s08": dict(
+        pdf=REPO / "pdf" / "HumsYar_NeuroAnat_Jalase8.pdf",
+        outline="s08_topics.json",
+        content=("s08_a.json", "s08_b.json", "s08_c.json", "s08_d.json"),
+        page_ranges=[(1, 13), (101, 112)],
+        report=REPO / "reports" / "ANAT_S08_QA_REPORT.md",
+    ),
 }
 
 
@@ -167,17 +174,21 @@ def main() -> int:
                         problems.append(f"G1 {tid}#{i}: plate without {field}")
 
     # ------------------------------------------------------------------ G2
-    lo, hi = cfg["pages"]
+    # A session may print from more than one lecture file (session 8 is part 1
+    # plus part 2), so the target is a list of ranges, not one interval. Pages
+    # of the second file are stored as 100 + page number so both fit in one int.
+    ranges = cfg.get("page_ranges") or [cfg["pages"]]
+    wanted = {p for lo_, hi_ in ranges for p in range(lo_, hi_ + 1)}
     claimed: dict[int, list[str]] = {}
     for tid, t in topics.items():
         for p in t.get("pages", []):
             claimed.setdefault(int(p), []).append(tid)
-    uncovered = [p for p in range(lo, hi + 1) if p not in claimed]
+    uncovered = [p for p in sorted(wanted) if p not in claimed]
     for p in uncovered:
         problems.append(f"G2 lecture page {p} is not claimed by any topic")
-    outside = sorted(p for p in claimed if not lo <= p <= hi)
+    outside = sorted(p for p in claimed if p not in wanted)
     for p in outside:
-        warnings.append(f"G2 page {p} is claimed but outside the session range {lo}–{hi}")
+        warnings.append(f"G2 page {p} is claimed but outside the session ranges")
 
     # ------------------------------------------------------------------ G3 + G4
     pdf = pdfium.PdfDocument(str(cfg["pdf"]))
@@ -332,7 +343,10 @@ def main() -> int:
         "",
         "## G2 — پوشش صفحه‌های جزوه",
         "",
-        f"- دامنهٔ هدف: صفحه‌های **{fa_n(lo)} تا {fa_n(hi)}**",
+        "- دامنهٔ هدف: " + " · ".join(
+            (f"صفحه‌های **{fa_n(a)} تا {fa_n(b)}**" if (a, b) == ranges[0]
+             else f"بخش ۲: صفحه‌های **{fa_n(a - 100)} تا {fa_n(b - 100)}**")
+            for a, b in ranges),
         f"- صفحه‌های بدون پوشش: **{len(uncovered)}**"
         + (" — " + "، ".join(fa_n(p) for p in uncovered) if uncovered else ""),
         "",
