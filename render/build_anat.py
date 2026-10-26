@@ -190,6 +190,27 @@ ANAT_SESSIONS = {
         next_topics=["تلانسفال (جلسهٔ ۹)", "هسته‌های قاعده‌ای (جلسهٔ ۱۰)",
                      "دستگاه لیمبیک (جلسهٔ ۱۱)"],
     ),
+
+    "s09": dict(
+        num="۹", n=9, of="۱۳",
+        title="تلانسفال: سطوح، شیارها، لوب‌ها و نواحی عملکردی قشر",
+        cover_title=["آناتومی دستگاه اعصاب", "جلسهٔ ۹ — تلانسفال"],
+        cover_topic="نیمکره‌های مغزی، سه سطح و سه قطب، هفت لوب و نقشهٔ نواحی قشر",
+        divider_title="تلانسفال\nاز شیار تا ناحیه\nروی قشر",
+        divider_sub="جزوهٔ درس · اسنل فصل ۱۳ · گری فصل ۸",
+        lecture="جزوهٔ درس (جلسهٔ ۹) — بهمن ۱۴۰۲",
+        pages_label="بخش ۱: صفحه‌های ۱۳–۱۷ · بخش ۲: صفحه‌های ۱–۱۳",
+        outline="s09_topics.json",
+        content=("s09_a.json", "s09_b.json", "s09_c.json"),
+        anchor="anat-s09",
+        pdf_name="HumsYar_NeuroAnat_Jalase9.pdf",
+        outcome="اجزای تلانسفال و ساختار درونی نیمکره، سه سطح و سه مرز و سه قطب، "
+                "درجه‌بندی شیارها، هفت لوب، شیارها و جاویوس‌های چهار لوب، نواحی "
+                "عملکردی حرکتی و حسی و بینایی و شنوایی، و نشانه‌های ضایعهٔ هر ناحیه.",
+        intro_sources="اسنل فصل ۱۳ · گری فصل ۸ (شکل ۸.۳۶)",
+        next_topics=["هسته‌های قاعده‌ای (جلسهٔ ۱۰)", "دستگاه لیمبیک (جلسهٔ ۱۱)",
+                     "دستگاه عصبی خودکار (جلسهٔ ۱۲)"],
+    ),
 }
 
 
@@ -378,11 +399,10 @@ def session_intro(book: PDFBook, cfg: dict, outline: dict, stats: dict) -> None:
         accent=K.TEAL, tint=K.TEAL_LL, kicker="شناسنامهٔ جلسه",
         footer=f"منابع: {cfg['lecture']} · {cfg.get('intro_sources', 'اسنل فصل ۱–۲ · گری فصل ۱')}",
     )
-    # The map table is taller than what is left under the intro card in a long
-    # session; start it on a fresh page so its heading never sits alone at the
-    # bottom of the previous page.
-    if len(outline["topics"]) > 11:
-        book.new_page()
+    # The map table is taller than what is left under the intro card, so keep
+    # room for its heading plus a few rows; the table itself may then continue
+    # on the next page instead of leaving the whole previous page half empty.
+    book.ensure(210)
     book.h2("نقشهٔ مبحث‌های این جلسه", anchor="anat-map")
     rows = []
     for i, t in enumerate(outline["topics"], start=1):
@@ -484,7 +504,14 @@ def render_blocks(book: PDFBook, blocks) -> None:
             # into the room that would otherwise stay empty.
             room = (book.bottom_limit() - book.y) / MM - 6 - reserve
             if room < want:
-                want = max(28, room)
+                # a box that would end up tiny also has to jump to the next
+                # page, and then it would sit at the top of an almost empty
+                # page; start that page first so the area keeps its height.
+                if room < 34:
+                    book.new_page()
+                    room = (book.bottom_limit() - book.y) / MM - 6 - reserve
+                if room < want:
+                    want = max(24, room)
             book.spacer(4)
             book.note_box(want, b.get("title", "یادداشت عضو تیم"), tag=b.get("tag", ""))
         elif kind == "idcard":
