@@ -1,0 +1,184 @@
+{
+ "images": [
+  {
+   "asset_id": "grays3_1_200_p0060_img02",
+   "book": "grays",
+   "part": "1-200",
+   "page": 60,
+   "w": 1275,
+   "h": 90,
+   "px": 114750,
+   "area_pct": 5.4,
+   "bbox": [
+    -0.1,
+    4.6,
+    612.1,
+    47.5
+   ],
+   "bytes": 4951,
+   "path": "images_anatomy/grays3_1_200_p0060_img02.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0060_img03",
+   "book": "grays",
+   "part": "1-200",
+   "page": 60,
+   "w": 509,
+   "h": 922,
+   "px": 469298,
+   "area_pct": 22.3,
+   "bbox": [
+    56.3,
+    80.8,
+    300.7,
+    523.4
+   ],
+   "bytes": 56251,
+   "path": "images_anatomy/grays3_1_200_p0060_img03.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0060_img04",
+   "book": "grays",
+   "part": "1-200",
+   "page": 60,
+   "w": 440,
+   "h": 477,
+   "px": 209880,
+   "area_pct": 10.0,
+   "bbox": [
+    338.0,
+    485.7,
+    549.4,
+    714.3
+   ],
+   "bytes": 29635,
+   "path": "images_anatomy/grays3_1_200_p0060_img04.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0062_img02",
+   "book": "grays",
+   "part": "1-200",
+   "page": 62,
+   "w": 1275,
+   "h": 90,
+   "px": 114750,
+   "area_pct": 5.4,
+   "bbox": [
+    -0.1,
+    4.6,
+    612.1,
+    47.5
+   ],
+   "bytes": 4951,
+   "path": "images_anatomy/grays3_1_200_p0062_img02.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0062_img03",
+   "book": "grays",
+   "part": "1-200",
+   "page": 62,
+   "w": 509,
+   "h": 214,
+   "px": 108926,
+   "area_pct": 5.2,
+   "bbox": [
+    317.2,
+    105.9,
+    561.6,
+    208.2
+   ],
+   "bytes": 4575,
+   "path": "images_anatomy/grays3_1_200_p0062_img03.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0062_img04",
+   "book": "grays",
+   "part": "1-200",
+   "page": 62,
+   "w": 977,
+   "h": 585,
+   "px": 571545,
+   "area_pct": 27.2,
+   "bbox": [
+    74.0,
+    433.5,
+    543.1,
+    714.3
+   ],
+   "bytes": 69232,
+   "path": "images_anatomy/grays3_1_200_p0062_img04.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0083_img02",
+   "book": "grays",
+   "part": "1-200",
+   "page": 83,
+   "w": 1275,
+   "h": 90,
+   "px": 114750,
+   "area_pct": 5.4,
+   "bbox": [
+    -0.1,
+    4.6,
+    612.1,
+    47.5
+   ],
+   "bytes": 4205,
+   "path": "images_anatomy/grays3_1_200_p0083_img02.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0083_img03",
+   "book": "grays",
+   "part": "1-200",
+   "page": 83,
+   "w": 314,
+   "h": 468,
+   "px": 146952,
+   "area_pct": 7.0,
+   "bbox": [
+    97.0,
+    82.9,
+    247.8,
+    307.4
+   ],
+   "bytes": 10881,
+   "path": "images_anatomy/grays3_1_200_p0083_img03.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0083_img04",
+   "book": "grays",
+   "part": "1-200",
+   "page": 83,
+   "w": 227,
+   "h": 487,
+   "px": 110549,
+   "area_pct": 5.3,
+   "bbox": [
+    275.5,
+    85.0,
+    384.5,
+    318.8
+   ],
+   "bytes": 11738,
+   "path": "images_anatomy/grays3_1_200_p0083_img04.jpeg"
+  },
+  {
+   "asset_id": "grays3_1_200_p0083_img07",
+   "book": "grays",
+   "part": "1-200",
+   "page": 83,
+   "w": 477,
+   "h": 761,
+   "px": 362997,
+   "area_pct": 17.3,
+   "bbox": [
+    319.3,
+    373.0,
+    548.3,
+    738.3
+   ],
+   "bytes": 52278,
+   "path": "images_anatomy/grays3_1_200_p0083_img07.jpeg"
+  }
+ ]
+}

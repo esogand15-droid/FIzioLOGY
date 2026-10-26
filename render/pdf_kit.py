@@ -168,7 +168,8 @@ class PDFBook:
     """Small flowing-document engine (RTL first)."""
 
     def __init__(self, path, title: str,
-                 footer: str = "HumsYar · جزوهٔ مادر فیزیولوژی اعصاب و حواس ویژه"):
+                 footer: str = "HumsYar · جزوهٔ مادر فیزیولوژی اعصاب و حواس ویژه",
+                 subject: str = "جزوهٔ مادر — فیزیولوژی اعصاب و حواس ویژه"):
         register_fonts()
         self.path = Path(path)
         self.title = title
@@ -176,7 +177,7 @@ class PDFBook:
         self.c = canvas.Canvas(str(self.path), pagesize=A4)
         self.c.setTitle(title)
         self.c.setAuthor("HumsYar")
-        self.c.setSubject("جزوهٔ مادر — فیزیولوژی اعصاب و حواس ویژه")
+        self.c.setSubject(subject)
         self.page = 1
         self.y = M_TOP
         self.heading_pages: dict[str, int] = {}
@@ -856,6 +857,139 @@ class PDFBook:
         self.figure(path, caption, src, max_h=max_h or 120 * MM)
 
     # ------------------------------------------------------------- table
+    # ------------------------------------------------- anatomy blocks (additive)
+    def anat_plate(self, image, title: str, citation: str, en_caption: str,
+                   fa_text: str, labels=None, view: str = "", src: str = "",
+                   max_h: float | None = None) -> None:
+        """A reference plate: the book's figure + its own caption + our Persian text.
+
+        This is the anatomy counterpart of ``guyton_pair``: the picture is the
+        quoted material, the Persian paragraph is our editorial explanation, and
+        both stay visually separate so a reader can tell which is which.
+        """
+        self._touch()
+        path = Path(image)
+        if not path.exists():
+            self.missing_assets.append(str(path))
+            self.callout(f"تصویر یافت نشد: {path.name}", kind="warn")
+            return
+        img = ImageReader(str(path))
+        iw, ih = img.getSize()
+        box_w = CONTENT_W
+        pad = 8
+        # two header lines: the Persian title on top, the citation underneath, so
+        # a long citation can never run into the title
+        head_h = 32
+        # ---- measure
+        fa_style = TextStyle(size=9.9, leading=16.4, color=BODY, justify=True)
+        fa_lines = self.wrap(fa_text, fa_style.font, fa_style.size, box_w - 2 * pad - 6) if fa_text else []
+        en_style = TextStyle(size=8.3, leading=13.0, color=MUTED, justify=False)
+        en_lines = self.wrap(en_caption, en_style.font, en_style.size, box_w - 2 * pad - 6) if en_caption else []
+        lab_style = TextStyle(size=8.2, leading=13.0, color=BODY, justify=False)
+        lab_lines = [self.wrap(f"{fa} · {en}" if fa else en, lab_style.font, lab_style.size,
+                               box_w - 2 * pad - 22) for fa, en in (labels or [])]
+        cap_h = (len(en_lines) * en_style.leading + 8) if en_lines else 0
+        lab_h = (sum(len(x) for x in lab_lines) * lab_style.leading + 14) if lab_lines else 0
+        text_h = len(fa_lines) * fa_style.leading + (10 if fa_lines else 0)
+        # ---- image: keep the aspect ratio, never upscale beyond the source
+        lim_h = max_h or 132 * MM
+        free = self.bottom_limit() - self.y - (head_h + cap_h + text_h + lab_h + 40)
+        if free > 65 * MM:
+            lim_h = min(lim_h, free)
+        scale = min((box_w - 2 * pad) / iw, lim_h / ih)
+        w, h = iw * scale, ih * scale
+        total = head_h + 10 + h + cap_h + text_h + lab_h + 14
+        self.ensure(min(total, self.usable_height() - 10))
+        c = self.c
+        top = self.y
+        c.setFillColor(CARD)
+        c.setStrokeColor(LINE)
+        c.setLineWidth(0.8)
+        c.roundRect(M_LEFT, self.py(top + total - 8), CONTENT_W, total - 8, 7, stroke=1, fill=1)
+        c.setFillColor(TEAL_LL)
+        c.roundRect(M_LEFT, self.py(top + head_h), CONTENT_W, head_h, 7, stroke=0, fill=1)
+        c.rect(M_LEFT, self.py(top + head_h), CONTENT_W, 3, stroke=0, fill=1)
+        draw_shaped(c, A4W - M_RIGHT - 8, self.py(top + 14), shape(title), "VazirB", 10.0,
+                    TEAL_D, align="right")
+        cite = citation + (f" · {view}" if view else "")
+        draw_shaped(c, M_LEFT + 8, self.py(top + 25), shape(cite), "Vazir", 7.2, TEAL_D)
+        y = top + head_h + 8
+        c.drawImage(img, M_LEFT + (CONTENT_W - w) / 2, self.py(y + h), w, h,
+                    preserveAspectRatio=True, mask="auto")
+        y += h + 4
+        if en_lines:
+            c.setFillColor(MUTED)
+            for ln in en_lines:
+                draw_shaped(c, A4W - M_RIGHT - 6, self.py(y + 8), shape(ln), en_style.font,
+                            en_style.size, MUTED, align="right")
+                y += en_style.leading
+            y += 6
+        if fa_lines:
+            c.setStrokeColor(TEAL_L)
+            c.setLineWidth(0.7)
+            c.line(M_LEFT + 8, self.py(y + 2), A4W - M_RIGHT - 8, self.py(y + 2))
+            y += 8
+            for ln in fa_lines:
+                self.draw_line(ln, y, fa_style, box_w - 2 * pad - 2, A4W - M_RIGHT - 10)
+                y += fa_style.leading
+            y += 4
+        if lab_lines:
+            c.setFillColor(SOFT)
+            lab_top = y
+            lab_total = sum(len(x) for x in lab_lines) * lab_style.leading + 10
+            c.rect(M_LEFT + 6, self.py(lab_top + lab_total), CONTENT_W - 12, lab_total,
+                   stroke=0, fill=1)
+            y += 3
+            for wrapped in lab_lines:
+                for j, ln in enumerate(wrapped):
+                    if j == 0:
+                        c.setFillColor(TEAL)
+                        c.circle(A4W - M_RIGHT - 12, self.py(y + 8), 1.5, stroke=0, fill=1)
+                    self.draw_line(ln, y, lab_style, box_w - 2 * pad - 22, A4W - M_RIGHT - 18,
+                                   justify=False)
+                    y += lab_style.leading
+            y += 4
+        if src:
+            c.setFillColor(MUTED)
+            draw_shaped(c, A4W - M_RIGHT - 8, self.py(y + 6), shape(f"ارجاع متن: {src}"),
+                        "Vazir", 7.0, MUTED, align="right")
+            y += 10
+        self.y = top + total + 8
+
+    def path_steps(self, steps, title: str = "مسیر گام‌به‌گام", merged=None) -> None:
+        """Numbered chain of stations: مبدأ → مسیر → تقاطع → مقصد."""
+        self._touch()
+        if merged is not None:
+            pass
+        c = self.c
+        head = 20
+        self.ensure(head + 26)
+        top = self.y
+        c.setFillColor(BLUE_BG)
+        c.roundRect(M_LEFT, self.py(top + head), CONTENT_W, head, 6, stroke=0, fill=1)
+        draw_shaped(c, A4W - M_RIGHT - 8, self.py(top + 13), shape(title), "VazirB", 9.4,
+                    BLUE_D, align="right")
+        self.y = top + head + 4
+        style = TextStyle(size=9.7, leading=15.4, color=BODY, justify=False)
+        for i, st in enumerate(steps, start=1):
+            lines = self.wrap(st, style.font, style.size, CONTENT_W - 42)
+            h = len(lines) * style.leading + 8
+            self.ensure(h)
+            top = self.y
+            c.setFillColor(HexColor("#f7f9ff"))
+            c.rect(M_LEFT, self.py(top + h), CONTENT_W, h, stroke=0, fill=1)
+            c.setFillColor(BLUE)
+            c.circle(A4W - M_RIGHT - 13, self.py(top + 11), 7.2, stroke=0, fill=1)
+            draw_shaped(c, A4W - M_RIGHT - 13, self.py(top + 14), fa_digits(str(i)),
+                        "VazirB", 8.4, CARD, align="center")
+            yy = top + 4
+            for ln in lines:
+                self.draw_line(ln, yy, style, CONTENT_W - 42, A4W - M_RIGHT - 26,
+                               justify=False)
+                yy += style.leading
+            self.y = top + h
+        self.spacer(6)
+
     def table(self, head, rows, widths=None, caption: str = "", src: str = "",
               size: float = 8.5, header_bg: str = "#e8f1ff") -> None:
         self._touch()
@@ -873,18 +1007,23 @@ class PDFBook:
 
         head_lines = [cell_lines(h, i) for i, h in enumerate(head)]
         head_h = max(len(x) for x in head_lines) * (size + 3.6) + 9
-        c.setFillColor(HexColor(header_bg))
-        c.rect(M_LEFT, self.py(self.y + head_h), sum(widths), head_h, stroke=0, fill=1)
-        x = A4W - M_RIGHT
-        for i, lines in enumerate(head_lines):
-            ty = self.y + 5
-            for line in lines:
-                c.setFont("VazirB", size)
-                c.setFillColor(INK)
-                draw_shaped(c, x - 5, self.py(ty + size + 1), shape(line), "VazirB", size,
-                            INK, align="right")
-                ty += size + 3.4
-            x -= widths[i]
+
+        def draw_head(top_y: float) -> None:
+            """Header row; drawn again on every continuation page."""
+            c.setFillColor(HexColor(header_bg))
+            c.rect(M_LEFT, self.py(top_y + head_h), sum(widths), head_h, stroke=0, fill=1)
+            xx = A4W - M_RIGHT
+            for i, lines in enumerate(head_lines):
+                ty = top_y + 5
+                for line in lines:
+                    c.setFont("VazirB", size)
+                    c.setFillColor(INK)
+                    draw_shaped(c, xx - 5, self.py(ty + size + 1), shape(line), "VazirB", size,
+                                INK, align="right")
+                    ty += size + 3.4
+                xx -= widths[i]
+
+        draw_head(self.y)
         self.y += head_h
         alt = False
         last_idx = len(rows) - 1
@@ -901,6 +1040,8 @@ class PDFBook:
                 draw_shaped(c, A4W - M_RIGHT, self.py(self.y + 8),
                             shape("… ادامهٔ جدول"), "VazirB", 8, MUTED, align="right")
                 self.y += 14
+                draw_head(self.y)          # the reader never loses the column names
+                self.y += head_h
             c.setFillColor(HexColor("#f7fafd") if alt else CARD)
             c.rect(M_LEFT, self.py(self.y + row_h), sum(widths), row_h, stroke=0, fill=1)
             c.setStrokeColor(LINE)
