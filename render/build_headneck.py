@@ -40,9 +40,9 @@ FOOTER = "HumsYar · جزوهٔ مادر آناتومی سر و گردن"
 HN_SESSIONS = {
     "hn01": dict(
         num="۱", n=1, of="۱۳",
-        title="مقدمه، نماهای جمجمه، استخوان پیشانی، بینی و فک فوقانی",
+        title="جمجمه: جایگاه، دسته‌بندی، نماها، پیشانی، بینی و فک فوقانی",
         cover_title=["آناتومی سر و گردن", "جلسهٔ ۱ — از نما تا استخوان"],
-        cover_topic="اسکلت محوری، تقسیم‌بندی جمجمه، پنج نما، پیشانی، بینی و ماگزیلا",
+        cover_topic="اسکلت محوری · سه تقسیم‌بندی · پنج نما · استخوان پیشانی · بینی و ماگزیلا",
         divider_title="از نما تا استخوان",
         divider_sub="جزوهٔ درس · نتر · گری",
         lecture="جزوهٔ درس (جلسهٔ ۱) — مهر ۱۴۰۴",
@@ -365,46 +365,44 @@ def divider(book: PDFBook, kicker: str, title: str, subtitle: str, bullets=()) -
 
 
 def front_matter(book: PDFBook, cfg: dict, stats: dict) -> None:
-    """Colophon + reading rules + the citation/tag law of this booklet."""
-    book.h1("شناسنامهٔ سند و قاعدهٔ خواندن آن", anchor="front-colophon",
+    """How this booklet is built: structure, citation law, figure placement."""
+    book.h1("ساختار این جزوه و قاعدهٔ خواندن آن", anchor="front-colophon",
             kicker="قبل از شروع بخوانید")
 
     book.label_card(
-        "این سند چیست و چه چیزی نیست",
+        "این جزوه چگونه ساخته شده است",
         [
-            {"label": "این سند چیست",
-             "text": f"جزوهٔ مادر جلسهٔ {cfg['num']} درس آناتومی سر و گردن؛ بازنویسی "
-                     "ساخت‌یافتهٔ جزوهٔ درس، همراه با تصویرهای دو کتاب مرجع و متن توضیحی "
-                     "فارسی زیر هر تصویر."},
-            {"label": "این سند چه چیزی نیست",
-             "text": "جایگزین کتاب مرجع نیست و به‌جای متن کتاب نوشته نشده است؛ هر جا عدد، صفحه "
-                     "یا جمله‌ای از کتاب آمده، ارجاع همان صفحه کنارِ آن نوشته شده است."},
+            {"label": "قاعدهٔ ساخت",
+             "text": "محتوای جزوهٔ درس، بازچینی‌شده در مبحث‌های مستقل. متن اصلی حفظ شده و "
+                     "تنها نظم آن عوض شده است: هر مبحث با شناسنامه، متن ساخت‌یافته، جدول و "
+                     "شکل‌های همان متن، و در پایان برگهٔ تحویل."},
+            {"label": "جای شکل‌ها",
+             "text": "هر شکل دقیقاً پس از پاراگرافی می‌آید که آن را توضیح می‌دهد؛ هیچ شکلی "
+                     "از متن خودش دور نمی‌افتد و شکل‌ها یک‌جا جمع نمی‌شوند."},
             {"label": "منابع متن",
-             "text": f"{cfg['lecture']} · نتر، اطلس آناتومی انسان (نگرش منطقه‌ای) · گری، آناتومی برای "
-                     "دانشجویان"},
+             "text": f"{cfg['lecture']} · نتر، اطلس آناتومی انسان (نگرش منطقه‌ای) · گری، "
+                     "آناتومی برای دانشجویان"},
             {"label": "منابع تصویر",
-             "text": f"{fa(stats['lec'])} تصویر از جزوهٔ درس · {fa(stats['netter'])} تصویر از نتر · "
-                     f"{fa(stats['grays'])} تصویر از گری. هر جلسه از هر دو کتاب تصویر دارد؛ "
+             "text": f"{fa(stats['lec'])} تصویر از جزوهٔ درس · {fa(stats['netter'])} از نتر · "
+                     f"{fa(stats['grays'])} از گری. هر جلسه از هر دو کتاب تصویر دارد؛ "
                      "اولویت‌بندی بین دو کتاب وجود ندارد."},
-            {"label": "معیار پذیرش هر مبحث",
-             "text": "۱) ارجاع صفحه برای هر پاراگراف نوشته شده باشد. ۲) هر برچسب فارسی معادل "
-                     "واژهٔ انگلیسی روی تصویر داشته باشد. ۳) هر تصویر کتاب، کپشن اصلی خودش را "
-                     "داشته باشد."},
+            {"label": "واحد شمارش",
+             "text": "واحد این جزوه «مبحث» است: هر مبحث یک شماره، یک عنوان و یک سطر در فهرست "
+                     "دارد، و ارجاع‌دهی و ویرایش روی همین شماره انجام می‌شود."},
         ],
         accent=K.TEAL, tint=K.TEAL_LL, kicker="شناسنامه",
         footer="پیش‌نویس ویرایشی — بازبینی علمی در جریان",
     )
 
-    book.h2("قاعدهٔ ارجاع به تصویر و متن", anchor="front-cite")
+    book.h2("قاعدهٔ ارجاع و علامت‌گذاری", anchor="front-cite")
     book.numbered([
-        "هر تصویر در یک قاب می‌آید: عنوان فارسی، ارجاع (کتاب، شمارهٔ شکل، صفحه)، کپشن اصلی "
-        "انگلیسی، توضیح فارسی و برچسب‌های دوزبانه.",
-        "جمله‌های انگلیسی که با حاشیهٔ روشن و خط کنار آمده‌اند، عیناً از کتاب نقل شده‌اند و "
-        "ترجمه یا بازنویسی نشده‌اند؛ توضیح فارسی همیشه سطر جداگانه دارد.",
-        "شمارهٔ صفحه‌های کتاب‌ها بر پایهٔ نسخهٔ الکترونیکی همان کتاب‌هاست.",
-        "برای جزوهٔ درس، «ص» یعنی همان صفحه از جزوه؛ صفحه‌شماری جزوه از جلد شروع می‌شود.",
-        "هیچ شکل، عدد یا جمله‌ای ساخته نشده است؛ هر جا منبع ساکت بوده، جای آن خالی مانده یا "
-        "به‌صراحت نوشته شده که در این منبع نیامده است.",
+        "هر بلوک متنی یک ارجاع دارد: «جزوهٔ درس، ص …» برای متن درس، و «نتر، پلیت …، ص …» یا "
+        "«گری، شکل …، ص …» برای متن کتاب‌های مرجع.",
+        "هر قاب تصویر چهار بخش دارد: عنوان فارسی، ارجاع کامل، کپشن اصلی انگلیسی (برای "
+        "نتر و گری) و توضیح فارسی که همان تصویر را به متن مبحث وصل می‌کند.",
+        "برچسب‌های دوزبانه زیر هر قاب، نام فارسی و معادل انگلیسی همان ساختار روی تصویرند.",
+        "جمله‌های انگلیسی داخل کادر با خط کنار، عیناً از کتاب نقل شده‌اند و ترجمه نشده‌اند.",
+        "کادر «یادداشت عضو تیم» در پایان هر مبحث، جای نوشتن حاشیه و پرسش ویراستار است.",
     ])
 
 
@@ -450,11 +448,16 @@ def session_intro(book: PDFBook, cfg: dict, outline: dict, stats: dict) -> None:
         accent=K.TEAL, tint=K.TEAL_LL, kicker="شناسنامهٔ جلسه",
         footer=f"منابع: {cfg['lecture']} · {cfg.get('intro_sources', 'نتر، سر و گردن · گری، فصل ۸')}",
     )
-    # The map table is taller than what is left under the intro card, so keep
-    # room for its heading plus a few rows; the table itself may then continue
-    # on the next page instead of leaving the whole previous page half empty.
-    book.ensure(210)
-    book.h2("نقشهٔ مبحث‌های این جلسه", anchor="hn-map")
+    # how to read this session: three short rules that keep the reader oriented
+    # and fill the page the intro card leaves half empty
+    book.callout(
+        "این جلسه را چگونه بخوانید",
+        "هر مبحث با یک شناسنامه شروع می‌شود که می‌گوید چرا این مبحث هست و چه چیزی باید "
+        "یاد گرفته شود؛ بعد متن ساخت‌یافته و شکل‌های همان متن می‌آید؛ و در پایان برگهٔ تحویل "
+        "مبحث، برای امضا و بازبینی. برای مرور سریع، جدول نقشهٔ صفحهٔ بعد و جدول جمع‌بندی آخر "
+        "کافی است.", title="راهنمای خواندن")
+    book.ensure(150)
+    book.h2("بازگشت به متن درس: هر مبحث و صفحه‌هایش", anchor="hn-map")
     rows = []
     for i, t in enumerate(outline["topics"], start=1):
         rows.append([f"{i:02d}", t["title"], page_range(t.get("pages", [])),
@@ -617,6 +620,25 @@ def summary(book: PDFBook, content: dict, outline: dict, cfg: dict) -> None:
                 m = re.search(r"(شکل\s*[۰-۹0-9]+[.\-–][۰-۹0-9]+)", cite)
                 fig = m.group(1) if m else ""
             struct.append([b["title"], src_book, fig or "—", b.get("src", "")])
+    # page-by-page map: which booklet pages each topic carries, so a reader or
+    # an editor never has to open the lecture again to find a topic
+    by_page = []
+    for i, t in enumerate(outline["topics"], start=1):
+        pages = t.get("pages") or []
+        if not pages:
+            continue
+        rng = (f"ص {fa(min(pages))}" if min(pages) == max(pages)
+               else f"ص {fa(min(pages))}–{fa(max(pages))}")
+        by_page.append([f"مبحث {fa(i)}", t["title"], rng,
+                        fa(sum(1 for b in content.get(t['topic_id'], [])
+                               if b.get("type") == "plate"))])
+    if by_page:
+        book.table(["#", "عنوان مبحث", "صفحه‌های درس", "قاب تصویر"],
+                   by_page, widths=[K.CONTENT_W * 0.07, K.CONTENT_W * 0.62,
+                                    K.CONTENT_W * 0.18, K.CONTENT_W * 0.13],
+                   caption=f"جدول {cfg['num']}-۰ — هر مبحث و صفحه‌های درسِ آن",
+                   src="نقشهٔ محتوایی همین جزوه")
+
     if struct:
         book.table(["ساختار", "کتاب", "شکل", "جای متن"],
                    struct, widths=[K.CONTENT_W * 0.36, K.CONTENT_W * 0.16,
