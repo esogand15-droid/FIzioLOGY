@@ -418,7 +418,7 @@ def toc_page(book: PDFBook, cfg: dict, outline: dict, toc_pages: dict) -> None:
          cfg["anchor"], 0),
     ]
     for i, t in enumerate(outline["topics"], start=1):
-        rows.append((f"{i:02d}", t["title"], t["topic_id"], 1))
+        rows.append((fa(f"{i:02d}"), t["title"], t["topic_id"], 1))
     rows += [("پ", "جمع‌بندی، چک‌لیست و برگهٔ تحویل", "hn-summary", 0),
              ("پ", "قدم بعدی: چه چیزی در جلسهٔ بعد می‌آید", "hn-next", 1)]
     step = 20 if len(rows) <= 26 else 17
@@ -450,28 +450,42 @@ def session_intro(book: PDFBook, cfg: dict, outline: dict, stats: dict) -> None:
     )
     # how to read this session: three short rules that keep the reader oriented
     # and fill the page the intro card leaves half empty
-    book.callout(
-        "این جلسه را چگونه بخوانید",
-        "هر مبحث با یک شناسنامه شروع می‌شود که می‌گوید چرا این مبحث هست و چه چیزی باید "
-        "یاد گرفته شود؛ بعد متن ساخت‌یافته و شکل‌های همان متن می‌آید؛ و در پایان برگهٔ تحویل "
-        "مبحث، برای امضا و بازبینی. برای مرور سریع، جدول نقشهٔ صفحهٔ بعد و جدول جمع‌بندی آخر "
-        "کافی است.", title="راهنمای خواندن")
-    book.ensure(150)
-    book.h2("بازگشت به متن درس: هر مبحث و صفحه‌هایش", anchor="hn-map")
+    book.h3("راهنمای خواندن این جلسه")
+    book.bullets([
+        "هر مبحث با یک شناسنامه باز می‌شود: جای این مبحث در جزوه، و چیزی که باید از آن "
+        "یاد گرفته شود.",
+        "بعد متن ساخت‌یافته می‌آید و شکل‌ها همان‌جا کنار متن خودشان می‌نشینند؛ هیچ شکلی "
+        "از متنش جدا نمی‌شود.",
+        "پایان هر مبحث یک کادر یادداشت دارد؛ همان‌جا بنویسید چه چیزی را باید دوباره "
+        "بخوانید.",
+        "آخرین برگهٔ هر مبحث برگهٔ تحویل است: منابع خوانده‌شده، پنج کار پیش از تحویل، و "
+        "پرسش باز. جدول نقشه و چک‌لیست پایان جلسه برای مرور سریع‌اند."])
     rows = []
     for i, t in enumerate(outline["topics"], start=1):
-        rows.append([f"{i:02d}", t["title"], page_range(t.get("pages", [])),
+        rows.append([fa(f"{i:02d}"), t["title"], page_range(t.get("pages", [])),
                      t.get("gist", "")])
-    book.table(["#", "مبحث", "صفحه‌های جزوه", "در یک جمله"],
+    # the map table is 17 rows tall: it gets a page of its own, under its own
+    # title, instead of being pushed down and leaving the title behind
+    need = book.table_needs(["#", "مبحث", "صفحه‌های جزوه", "در یک جمله"], rows,
+                            [K.CONTENT_W * 0.06, K.CONTENT_W * 0.44,
+                             K.CONTENT_W * 0.14, K.CONTENT_W * 0.36],
+                            "جدول ۱-۰ — نقشهٔ مبحث‌ها", "نقشهٔ محتوایی این جزوه", 8.0)[3]
+    if book.bottom_limit() - book.y < need + 90:
+        book.new_page()
+    book.h2("بازگشت به متن درس: هر مبحث و صفحه‌هایش", anchor="hn-map")
+    emit_table(book, ["#", "مبحث", "صفحه‌های جزوه", "در یک جمله"],
                rows, widths=[K.CONTENT_W * 0.06, K.CONTENT_W * 0.44,
                              K.CONTENT_W * 0.14, K.CONTENT_W * 0.36],
                size=8.0, caption="جدول ۱-۰ — نقشهٔ مبحث‌ها",
                src="نقشهٔ محتوایی این جزوه")
 
 
-def topic_head(book: PDFBook, t: dict, idx: int, total: int) -> None:
+def topic_head(book: PDFBook, t: dict, idx: int, total: int,
+               after: float = 0.0) -> None:
+    # the topic title keeps the identity card that opens the topic with it
     book.ensure(120)
-    book.h2(t["title"], anchor=t["topic_id"])
+    book.h2(t["title"], anchor=t["topic_id"],
+            keep_with=min(after, book.usable_height() - 140))
     meta = (f"مبحث {fa(idx)} از {fa(total)} · صفحه‌های جزوه: {page_range(t.get('pages', []))}")
     if t.get("prereq"):
         meta += " · پیش‌نیاز: " + t["prereq"]
@@ -504,24 +518,109 @@ def with_notes(blocks: list, idx: int) -> list:
     return out
 
 
+def emit_table(book: PDFBook, head, rows, widths=None, caption: str = "",
+               src: str = "", size: float = 8.5) -> None:
+    """Draw a table so that no table is ever torn between two pages.
+
+    The table first tries to fit, whole, into the room left on the current page
+    (shrinking a fraction of a point if that is what it takes). Only a table
+    taller than a whole page is handed over in parts, and then every part is a
+    complete table with its own header and its own caption.
+    """
+    rows = list(rows)
+    page_room = book.usable_height() - 14
+
+    def measure(sz):
+        return book.table_needs(head, rows, widths, caption, src, sz)
+
+    avail = book.bottom_limit() - book.y - 6
+    for sz in (size, size - 0.4, size - 0.8, size - 1.2, 6.8):
+        _, _, _, total = measure(sz)
+        if total <= avail:
+            book.table(head, rows, widths=widths, caption=caption, src=src, size=sz)
+            return
+    # it cannot fit under what is left: start a fresh page, unless almost the
+    # whole page is still free (then splitting is better than a blank page)
+    if avail < page_room * 0.55:
+        book.new_page()
+        avail = page_room
+    head_h, row_hs, cap_reserve, _ = measure(size)
+    groups, cur, cur_h, room = [], [], head_h + cap_reserve, avail
+    for row, h in zip(rows, row_hs):
+        if cur and cur_h + h > room:
+            groups.append((cur, room))
+            cur, cur_h, room = [row], head_h + cap_reserve, page_room
+        else:
+            cur.append(row)
+            cur_h += h
+    if cur:
+        groups.append((cur, room))
+    total = len(groups)
+    for n, (group, _room) in enumerate(groups, start=1):
+        cap = caption
+        if total > 1:
+            cap = f"{caption} — بخش {fa(n)} از {fa(total)}"
+        book.table(head, group, widths=widths, caption=cap, src=src, size=size)
+
+
+# ------------------------------------------------------- heading orphan control
+def _block_height(book: PDFBook, b: dict | None) -> float:
+    """Rough height in points of the block that follows a heading.
+
+    A heading may only be placed if this much room is left under it, so a
+    heading can never sit alone at the foot of a page.
+    """
+    if not b:
+        return 0.0
+    kind = b.get("type")
+    if kind == "p":
+        lines = book.wrap(b.get("text", ""), "Vazir", 10.4, K.CONTENT_W)
+        return min(len(lines), 4) * 17.6 + 16
+    if kind in ("ul", "ol"):
+        items = b.get("items", [])[:2]
+        return sum(max(1, len(book.wrap(x, "Vazir", 10.4, K.CONTENT_W - 22))) * 17.6
+                   for x in items) + 18
+    if kind == "plate":
+        return (b.get("max_h", 132)) * MM + 96
+    if kind == "table":
+        return 60 + sum(20 for _ in b.get("rows", [])[:3])
+    if kind == "callout":
+        return 70
+    if kind == "path":
+        return 90
+    if kind == "idcard":
+        return 150
+    if kind == "handoff":
+        return 170
+    if kind == "note":
+        return 90
+    return 60.0
+
+
 # ----------------------------------------------------------------- block render
 def render_blocks(book: PDFBook, blocks) -> None:
-    for b in blocks:
+    for pos, b in enumerate(blocks):
         kind = b.get("type")
+        after = _block_height(book, blocks[pos + 1] if pos + 1 < len(blocks) else None)
+        # the citation line belongs to its own block: the paragraph or list
+        # reserves room for it, so the two never land on different pages
+        cite_room = 14
         if kind == "p":
-            book.paragraph(b["text"], TextStyle(space_after=2))
+            book.paragraph(b["text"], TextStyle(space_after=2),
+                           keep_with=cite_room if b.get("src") else 0)
             if b.get("src"):
                 book.source_line(b["src"])
         elif kind == "ul":
-            book.bullets(b["items"])
+            book.bullets(b["items"], keep_with=cite_room if b.get("src") else 0)
             book.source_line(b.get("src", ""))
             book.spacer(3)
         elif kind == "ol":
-            book.numbered(b["items"])
+            book.numbered(b["items"], keep_with=cite_room if b.get("src") else 0)
             book.source_line(b.get("src", ""))
             book.spacer(3)
         elif kind == "h3":
-            book.h3(b["text"])
+            # the sub-heading keeps the first part of its own block with it
+            book.h3(b["text"], keep_with=min(after + 12, book.usable_height() - 90))
         elif kind == "callout":
             book.callout(b["text"], kind=b.get("kind", "key"), title=b.get("title"))
             if b.get("src"):
@@ -546,7 +645,7 @@ def render_blocks(book: PDFBook, blocks) -> None:
                 book.source_line(b["src"])
             book.spacer(2)
         elif kind == "table":
-            book.table(b["head"], b["rows"], caption=b.get("caption", ""),
+            emit_table(book, b["head"], b["rows"], caption=b.get("caption", ""),
                        src=b.get("src", ""), widths=b.get("widths"))
             book.spacer(3)
         elif kind == "note":
@@ -601,61 +700,19 @@ def summary(book: PDFBook, content: dict, outline: dict, cfg: dict) -> None:
     book.new_page()
     book.h1("جمع‌بندی، چک‌لیست و برگهٔ تحویل", anchor="hn-summary", kicker="پایان جلسه")
     book.paragraph(
-        "این بخش سه کار می‌کند: اول قاب‌های تصویر جلسه را در یک جدول جمع می‌کند، بعد یک "
-        "چک‌لیست خودآزمایی می‌دهد که با آن می‌شود فهمید کدام بخش را باید دوباره خواند، و آخر "
-        "خواننده را به برگهٔ تحویل هر مبحث برمی‌گرداند. هیچ‌کدام از این سه، مطلب تازه‌ای به "
-        "جزوه اضافه نمی‌کنند؛ همه از متن مبحث‌های بالا ساخته شده‌اند.")
-    struct = []
-    for tid, blocks in content.items():
-        for b in blocks:
-            if b.get("type") != "plate":
-                continue
-            src_book = {"lecture": "جزوهٔ درس", "netter": "نتر", "grays": "گری"}.get(
-                b.get("book"), "—")
-            cite = b.get("citation", "")
-            m = re.search(r"(Fig(?:ure)?\.?\s*\d+[.\-–]\d+)", cite)
-            if m:
-                fig = m.group(1).replace("Figure", "Fig.")
-            else:  # Persian citations name the figure with the Persian word
-                m = re.search(r"(شکل\s*[۰-۹0-9]+[.\-–][۰-۹0-9]+)", cite)
-                fig = m.group(1) if m else ""
-            struct.append([b["title"], src_book, fig or "—", b.get("src", "")])
-    # page-by-page map: which booklet pages each topic carries, so a reader or
-    # an editor never has to open the lecture again to find a topic
-    by_page = []
-    for i, t in enumerate(outline["topics"], start=1):
-        pages = t.get("pages") or []
-        if not pages:
-            continue
-        rng = (f"ص {fa(min(pages))}" if min(pages) == max(pages)
-               else f"ص {fa(min(pages))}–{fa(max(pages))}")
-        by_page.append([f"مبحث {fa(i)}", t["title"], rng,
-                        fa(sum(1 for b in content.get(t['topic_id'], [])
-                               if b.get("type") == "plate"))])
-    if by_page:
-        book.table(["#", "عنوان مبحث", "صفحه‌های درس", "قاب تصویر"],
-                   by_page, widths=[K.CONTENT_W * 0.07, K.CONTENT_W * 0.62,
-                                    K.CONTENT_W * 0.18, K.CONTENT_W * 0.13],
-                   caption=f"جدول {cfg['num']}-۰ — هر مبحث و صفحه‌های درسِ آن",
-                   src="نقشهٔ محتوایی همین جزوه")
-
-    if struct:
-        book.table(["ساختار", "کتاب", "شکل", "جای متن"],
-                   struct, widths=[K.CONTENT_W * 0.36, K.CONTENT_W * 0.16,
-                                   K.CONTENT_W * 0.20, K.CONTENT_W * 0.28],
-                   caption=f"جدول {cfg['num']}-۱ — همهٔ قاب‌های تصویر این جلسه و جای متنیشان",
-                   src="فهرست قاب‌های این جزوه")
+        "این چک‌لیست از پرسش‌های خودِ مبحث‌های بالا ساخته شده است: هر ردیف یک مبحث، و ستون "
+        "دوم همان چیزی است که باید بتوانید بی‌آنکه به متن نگاه کنید توضیح دهید. هر ردیف را "
+        "که نتوانستید، همان مبحث را دوباره بخوانید و بعد برگهٔ تحویل آن را پر کنید.")
     rows = []
     for i, t in enumerate(outline["topics"], start=1):
         gist = (t.get("gist") or t["title"]).rstrip(".")
         rows.append([f"مبحث {fa(i)} — {t['title']}", gist + "؟", "☐"])
-    if rows:
-        book.table(
-            ["چک‌لیست خودآزمایی", "می‌توانم این را توضیح دهم؟", "☐"],
-            rows, widths=[K.CONTENT_W * 0.30, K.CONTENT_W * 0.58, K.CONTENT_W * 0.12],
-            caption=f"جدول {cfg['num']}-۲ — چک‌لیست خودآزمایی جلسهٔ {cfg['num']}",
-            src="ساخته‌شده از مبحث‌های این جزوه",
-        )
+    emit_table(
+        book, ["چک‌لیست خودآزمایی", "می‌توانم این را توضیح دهم؟", "☐"],
+        rows, widths=[K.CONTENT_W * 0.30, K.CONTENT_W * 0.58, K.CONTENT_W * 0.12],
+        caption=f"جدول {cfg['num']}-۷ — چک‌لیست خودآزمایی جلسهٔ {cfg['num']}",
+        src="ساخته‌شده از مبحث‌های این جزوه",
+    )
     book.callout(
         "پایان هر مبحث یک برگهٔ تحویل دارد: منابعی که برای آن مبحث خوانده شده، پنج کار پیش از "
         "تحویل، و هر ابهام یا اختلافی که باید در بازبینی روشن شود. جزوه وقتی تمام است که همهٔ "
@@ -672,6 +729,18 @@ def next_steps(book: PDFBook, cfg: dict) -> None:
         ["ساختارهای بعدی: " + " · ".join(cfg.get("next_topics", [])) + "."] +
         [f"{t['title']} با همین نظم ادامه می‌یابد." for t in cfg.get("next_notes", [])]
     )
+    # the whole 13-session plan, straight from the session table, so the reader
+    # sees where this booklet sits and what the next twelve sessions carry
+    plan = []
+    for key, s_cfg in HN_SESSIONS.items():
+        if not s_cfg.get("title"):
+            continue
+        state = "همین جلسه" if s_cfg.get("n") == cfg.get("n") else "پیشِ‌رو"
+        plan.append([s_cfg["num"], s_cfg["title"], state])
+    emit_table(book, ["جلسه", "عنوان جلسه", "وضعیت"], plan,
+               widths=[K.CONTENT_W * 0.10, K.CONTENT_W * 0.66, K.CONTENT_W * 0.24],
+               size=8.0, caption=f"جدول {cfg['num']}-۸ — نقشهٔ سیزده جلسهٔ جزوهٔ مادر",
+               src="برنامهٔ مصوب جلسه‌های سر و گردن")
     book.callout(
         "این جزوه پیش‌نویس ویرایشی است: هر مبحث با امضای برگهٔ تحویل خودش نهایی می‌شود.",
         kind="warn", title="وضعیت این جزوه")
@@ -734,8 +803,10 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
     session_intro(book, cfg, outline, stats)
 
     for i, t in enumerate(outline["topics"], start=1):
-        topic_head(book, t, i, len(outline["topics"]))
-        render_blocks(book, with_notes(content.get(t["topic_id"], []), i))
+        blocks = with_notes(content.get(t["topic_id"], []), i)
+        topic_head(book, t, i, len(outline["topics"]),
+                   after=_block_height(book, blocks[0] if blocks else None))
+        render_blocks(book, blocks)
 
     summary(book, content, outline, cfg)
     next_steps(book, cfg)

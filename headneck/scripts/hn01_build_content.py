@@ -1171,8 +1171,8 @@ topic("hn01-T17", [
 MAX_H = {
     "hn01_lec_p03_axial": 96, "hn01_lec_p03_append": 96,
     "hn01_lec_p05_hyoid": 84, "hn01_lec_p05_hyoidneck": 72,
-    "hn01_lec_p07_views": 84, "hn01_lec_p16_crest": 76,
-    "hn01_lec_p16_palate": 84, "hn01_lec_p18_skulls": 78,
+    "hn01_lec_p07_views": 122, "hn01_lec_p16_crest": 76,
+    "hn01_lec_p16_palate": 84, "hn01_lec_p18_skulls": 112,
     "hn01_lec_p22_section": 104,
 }
 

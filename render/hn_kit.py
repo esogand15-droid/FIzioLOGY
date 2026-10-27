@@ -344,7 +344,14 @@ class PDFBook:
                     baseline, shaped, style.font, style.size, style.color, align=align)
 
     def paragraph(self, text: str, style: TextStyle | None = None, width: float = CONTENT_W,
-                  x_right: float | None = None, indent: float = 0.0) -> None:
+                  x_right: float | None = None, indent: float = 0.0,
+                  keep_with: float = 0.0) -> None:
+        """One paragraph is one block: it moves to the next page instead of splitting.
+
+        ``keep_with`` reserves room under the paragraph for whatever belongs to it
+        (its source line, the first lines of the next block), so a paragraph never
+        ends at the foot of a page with its citation or its continuation overleaf.
+        """
         if not text:
             return
         self._touch()
@@ -352,10 +359,10 @@ class PDFBook:
         usable = width - indent
         x_right = (A4W - M_RIGHT if x_right is None else x_right) - indent
         lines = self.wrap(text, style.font, style.size, usable)
-        self.ensure(min(style.leading * 3, len(lines) * style.leading) + style.space_before)
+        need = len(lines) * style.leading + style.space_before + style.space_after + keep_with
+        self.ensure(min(need, self.usable_height() - 8))
         self.y += style.space_before
         for i, line in enumerate(lines):
-            self.ensure(style.leading)
             just = style.justify and i < len(lines) - 1
             self.draw_line(line, self.y, style, usable, x_right, justify=just)
             self.y += style.leading
@@ -376,7 +383,8 @@ class PDFBook:
     # ------------------------------------------------------------- headings
     def h1(self, text: str, anchor: str = "", kicker: str = "", outline: bool = True) -> None:
         self._touch()
-        self.running = text
+        # the running title is set only after the page break decisions, otherwise
+        # the page that is closed here would carry the *next* section's title
         self.ensure(78)
         self.y += 16
         c = self.c
@@ -397,6 +405,8 @@ class PDFBook:
             size = 15.5
             lines = [shape(part) for part in self.wrap(text, "VazirB", size, CONTENT_W)]
             self.ensure(24 * len(lines) + 40)
+        self.running = text
+        c = self.c
         c.setFont("VazirB", size)
         c.setFillColor(INK)
         for i, line in enumerate(lines):
@@ -413,12 +423,12 @@ class PDFBook:
             if outline:
                 self.c.addOutlineEntry(text, anchor, level=0)
 
-    def h2(self, text: str, anchor: str = "") -> None:
+    def h2(self, text: str, anchor: str = "", keep_with: float = 46.0) -> None:
         self._touch()
         font, size = "VazirB", 13.2
         lines = self.wrap(text, font, size, CONTENT_W - 26)
         h = len(lines) * size * 1.62 + 13
-        self.ensure(h + 18)
+        self.ensure(h + 18 + keep_with)
         c = self.c
         top = self.y
         c.setFillColor(TEAL_LL)
@@ -438,11 +448,11 @@ class PDFBook:
             self.c.bookmarkPage(anchor)
             self.c.addOutlineEntry(text, anchor, level=1)
 
-    def h3(self, text: str) -> None:
+    def h3(self, text: str, keep_with: float = 46.0) -> None:
         self._touch()
         font, size = "VazirB", 11.4
         lines = self.wrap(text, font, size, CONTENT_W - 18)
-        self.ensure(16 + len(lines) * size * 1.6 + 12)
+        self.ensure(16 + len(lines) * size * 1.6 + 12 + keep_with)
         self.y += 5
         c = self.c
         c.setFillColor(BLUE)
@@ -456,11 +466,12 @@ class PDFBook:
         self.y += 2
 
     # ------------------------------------------------------------- lists
-    def bullets(self, items, style: TextStyle | None = None, level: int = 0) -> None:
+    def bullets(self, items, style: TextStyle | None = None, level: int = 0,
+                keep_with: float = 0.0) -> None:
         self._touch()
         style = style or TextStyle(size=10.4, leading=17.6, justify=False)
         # never leave a single bullet alone at the foot of a page
-        self.ensure(min(len(items), 2) * style.leading + 8)
+        self.ensure(min(len(items), 2) * style.leading + 8 + keep_with)
         for item in items:
             indent = 16 + level * 14
             lines = self.wrap(item, style.font, style.size, CONTENT_W - indent - 4)
@@ -480,11 +491,12 @@ class PDFBook:
                 self.y += style.leading
             self.y += 2.6
 
-    def numbered(self, items, style: TextStyle | None = None, start: int = 1) -> None:
+    def numbered(self, items, style: TextStyle | None = None, start: int = 1,
+                 keep_with: float = 0.0) -> None:
         self._touch()
         style = style or TextStyle(size=10.4, leading=17.6, justify=False)
         # never leave a single numbered item alone at the foot of a page
-        self.ensure(min(len(items), 2) * style.leading + 8)
+        self.ensure(min(len(items), 2) * style.leading + 8 + keep_with)
         for idx, item in enumerate(items, start=start):
             num = str(idx).translate(FA_DIGITS)
             lines = self.wrap(item, style.font, style.size, CONTENT_W - 30)
@@ -706,7 +718,30 @@ class PDFBook:
         self._touch()
         c = self.c
         head_h = 24
-        self.ensure(head_h + 40)
+        body = TextStyle(size=9.5, leading=15.4, color=BODY, justify=False)
+        lab = TextStyle(size=8.2, leading=12, color=accent, justify=False)
+        # measure the card first: the identity card is one block and must never
+        # be cut in half between two pages
+        plan: list[tuple[dict, list, float]] = []
+        for row in rows:
+            items = row.get("items")
+            text = row.get("text", "")
+            box_w = 15 if (row.get("tick", tick) and items is not None) else 0
+            indent = 14 if (items is not None and bool(row.get("bullet", not row.get("tick", tick)))) else 0
+            entries: list[tuple[str, bool]] = []
+            if items is not None:
+                for it in items:
+                    for j, ln in enumerate(self.wrap(it, body.font, body.size,
+                                                     CONTENT_W - 46 - box_w - indent)):
+                        entries.append((ln, j == 0))
+            elif text:
+                entries = [(ln, False) for ln in
+                           self.wrap(text, body.font, body.size, CONTENT_W - 46)]
+            plan.append((row, entries, 15 + len(entries) * body.leading + 5))
+        total = head_h + sum(h for _, _, h in plan) + 8
+        if footer:
+            total += len(self.wrap(footer, "Vazir", 8.2, CONTENT_W - 10)) * 13 + 4
+        self.ensure(min(total, self.usable_height() - 10))
         top = self.y
         c.setFillColor(accent)
         c.roundRect(M_LEFT, self.py(top + head_h), CONTENT_W, head_h, 5, stroke=0, fill=1)
@@ -716,28 +751,13 @@ class PDFBook:
             draw_shaped(c, M_LEFT + 9, self.py(top + 15), shape(kicker), "Vazir", 7.6,
                         CARD)
         self.y = top + head_h
-        body = TextStyle(size=9.5, leading=15.4, color=BODY, justify=False)
-        lab = TextStyle(size=8.2, leading=12, color=accent, justify=False)
-        for row in rows:
+        for row, entries, row_h in plan:
             label = row.get("label", "")
             items = row.get("items")
-            text = row.get("text", "")
             row_tick = bool(row.get("tick", tick))
             row_bullet = bool(row.get("bullet", not row_tick))
             box_w = 15 if (row_tick and items is not None) else 0
             indent = 14 if (items is not None and row_bullet) else 0
-            entries: list[tuple[str, bool]] = []      # (line, starts_a_new_item)
-            if items is not None:
-                for it in items:
-                    wrapped = self.wrap(it, body.font, body.size,
-                                        CONTENT_W - 46 - box_w - indent)
-                    for j, ln in enumerate(wrapped):
-                        entries.append((ln, j == 0))
-            elif text:
-                entries = [(ln, False) for ln in
-                           self.wrap(text, body.font, body.size, CONTENT_W - 46)]
-            row_h = 15 + len(entries) * body.leading + 5
-            self.ensure(row_h)
             top = self.y
             c.setFillColor(tint)
             c.rect(M_LEFT, self.py(top + row_h), CONTENT_W, row_h, stroke=0, fill=1)
@@ -985,7 +1005,14 @@ class PDFBook:
         scale = min((box_w - 2 * pad) / iw, lim_h / ih)
         w, h = iw * scale, ih * scale
         total = head_h + 10 + h + cap_h + text_h + lab_h + 14
-        self.ensure(min(total, self.usable_height() - 10))
+        # a card is one block: if it is taller than a whole page the picture
+        # shrinks until the card fits, instead of running off the page edge
+        page_room = self.usable_height() - 12
+        if total > page_room:
+            h = max(38 * MM, h - (total - page_room))
+            w = h * iw / ih          # keep the aspect ratio: never squash the plate
+            total = head_h + 10 + h + cap_h + text_h + lab_h + 14
+        self.ensure(total)
         c = self.c
         top = self.y
         c.setFillColor(CARD)
@@ -1085,29 +1112,46 @@ class PDFBook:
             self.y = top + h
         self.spacer(6)
 
-    def table(self, head, rows, widths=None, caption: str = "", src: str = "",
-              size: float = 8.5, header_bg: str = "#e8f1ff") -> None:
-        self._touch()
+    def table_needs(self, head, rows, widths=None, caption: str = "", src: str = "",
+                    size: float = 8.5):
+        """Measured geometry of a table: header height, each row, caption reserve."""
         ncols = len(head)
         widths = widths or [CONTENT_W / ncols] * ncols
         cap_lines_n = len(self.wrap(caption, "Vazir", 8.2, CONTENT_W)) if caption else 0
         # paragraph() needs up to three leadings before it accepts a new block,
         # so the reserve must be at least that large or the caption is orphaned
         cap_reserve = max(cap_lines_n, 3) * 14 + (14 if src else 0)
-        c = self.c
 
         def cell_lines(text, i):
             return self.wrap(str(text), "Vazir", size, widths[i] - 9)
 
         head_lines = [cell_lines(h, i) for i, h in enumerate(head)]
         head_h = max(len(x) for x in head_lines) * (size + 3.6) + 9
-        # a table that fits on one page is never split: measure it first, then
-        # ask for the whole height.  Longer tables keep the row-by-row rule.
         row_hs = [max(len(l) for l in [cell_lines(cell, i)
                                        for i, cell in enumerate(row)]) * (size + 3.2) + 8
                   for row in rows]
-        whole = head_h + sum(row_hs) + 5 + cap_reserve
-        self.ensure(whole if whole <= self.usable_height() - 8 else 46 + cap_reserve)
+        return head_h, row_hs, cap_reserve, head_h + sum(row_hs) + 5 + cap_reserve
+
+    def table(self, head, rows, widths=None, caption: str = "", src: str = "",
+              size: float = 8.5, header_bg: str = "#e8f1ff") -> None:
+        self._touch()
+        ncols = len(head)
+        widths = widths or [CONTENT_W / ncols] * ncols
+        c = self.c
+
+        def cell_lines(text, i):
+            return self.wrap(str(text), "Vazir", size, widths[i] - 9)
+
+        head_lines = [cell_lines(h, i) for i, h in enumerate(head)]
+        head_h, row_hs, cap_reserve, whole = self.table_needs(
+            head, rows, widths, caption, src, size)
+        # a table that fits on one page is never split: measure it first, then
+        # ask for the whole height.  A table taller than a page still never
+        # leaves its header alone at the foot: the first row must fit with it.
+        if whole <= self.usable_height() - 8:
+            self.ensure(whole)
+        else:
+            self.ensure(head_h + (row_hs[0] if row_hs else 0) + 24 + cap_reserve)
 
         def draw_head(top_y: float) -> None:
             """Header row; drawn again on every continuation page."""
