@@ -1,0 +1,158 @@
+"""برش و ثبت تصویرهای جلسه‌های آناتومی سر و گردن.
+
+هر جلسه فقط تصویرهای خودش را می‌نویسد؛ مخزن با صدها مگابایت تصویر پر نمی‌شود.
+سه نوع منبع داریم و هر سه از همان صفحه رندر می‌شوند، چون برچسب‌ها و زیرنویس
+انگلیسی به تصویر چسبیده‌اند و بریدن تصویر خام آن‌ها را از دست می‌دهد:
+
+* ``lecture`` — جزوهٔ درس هر جلسه (رضا‌سنگ برای هر شکل، حاشیهٔ ۶ نقطه).
+* ``netter``  — اطلس نتر ۸ چاپ ۲۰۲۳؛ کل صفحهٔ پلیت، چون عنوان و شمارهٔ پلیت
+  و برچسب‌ها روی همان صفحه نوشته شده‌اند. نگاشت: صفحهٔ PDF = پلیت + ۵۱.
+* ``grays``   — گری، آناتومی برای دانشجویان، ویراست ۳؛ جعبهٔ شکل از صفحهٔ چاپی.
+  نگاشت فایل ۸۰۱–۱۰۰۰: صفحهٔ PDF = صفحهٔ چاپی − ۷۷۳.
+
+اجرا
+----
+    .venv/bin/python headneck/scripts/hn_assets.py --session hn01
+    .venv/bin/python headneck/scripts/hn_assets.py --session hn01 --only hn01_netter_p25
+
+فایل‌های خروجی در ``headneck/images/`` و فهرستشان در ``headneck/images/INDEX.json``.
+"""
+from __future__ import annotations
+
+import argparse
+import json
+from pathlib import Path
+
+import pymupdf
+
+REPO = Path(__file__).resolve().parents[2]
+OUT = REPO / "headneck" / "images"
+INDEX = OUT / "INDEX.json"
+SRC = Path("/tmp/hn")
+
+LEC1 = SRC / "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf"
+NETTER = SRC / "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf"
+GRAYS = SRC / ("علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, "
+               "3rd Edition-801-1000.pdf")
+
+NETTER_OFFSET = 52      # شمارهٔ صفحهٔ PDF (یک‌پایه) = شمارهٔ پلیت + ۵۲
+GRAYS_OFFSET = 772      # شمارهٔ صفحهٔ PDF (یک‌پایه) = صفحهٔ چاپی − ۷۷۲
+
+DPI = 200
+
+# asset_id: (book, source, page, bbox, view_note)
+# bbox = جعبه در نقطه‌های صفحهٔ PDF؛ None یعنی کل صفحه (با حاشیهٔ کوچک).
+SPECS: dict[str, tuple] = {
+    # ── جلسهٔ ۱ ────────────────────────────────────────────────────────────────
+    "hn01_lec_p13_nasal": ("lecture", LEC1, 13, (66, 92, 350, 320),
+                           "جزوهٔ درس، ص ۱۳ — استخوان بینی: نمای قدامی و خلفی"),
+    "hn01_lec_p15_maxilla": ("lecture", LEC1, 15, (18, 122, 248, 360),
+                             "جزوهٔ درس، ص ۱۵ — سطح خارجی فک فوقانی و زائدهٔ پیشانی"),
+    "hn01_lec_p16_palate": ("lecture", LEC1, 16, (28, 64, 214, 218),
+                            "جزوهٔ درس، ص ۱۶ — زوائد کامی و کام سخت"),
+    "hn01_lec_p17_sinus": ("lecture", LEC1, 17, (212, 62, 550, 278),
+                           "جزوهٔ درس، ص ۱۷ — سینوس فک فوقانی در جسم ماگزیلا"),
+    "hn01_lec_p20_split": ("lecture", LEC1, 20, (204, 232, 601, 424),
+                           "جزوهٔ درس، ص ۲۰ — کارت تقسیم‌بندی استخوان‌های جمجمه"),
+    "hn01_netter_p25": ("netter", NETTER, 25 + NETTER_OFFSET, None,
+                        "نمای قدامی جمجمه با برچسب‌های نتر"),
+    "hn01_netter_p27": ("netter", NETTER, 27 + NETTER_OFFSET, None,
+                        "نمای طرفی جمجمه؛ خطوط گیجگاهی و زائدهٔ گونه‌ای"),
+    "hn01_netter_p30": ("netter", NETTER, 30 + NETTER_OFFSET, None,
+                        "کالواریا: نمای فوقانی و سطح داخلی"),
+    "hn01_netter_p32": ("netter", NETTER, 32 + NETTER_OFFSET, None,
+                        "قاعدهٔ جمجمه از بالا: سه حفرهٔ کرانیال"),
+    "hn01_netter_p37": ("netter", NETTER, 37 + NETTER_OFFSET, None,
+                        "اسکلت بینی و سینوس‌های اطراف بینی"),
+    "hn01_netter_p26": ("netter", NETTER, 26 + NETTER_OFFSET, None,
+                        "رادیوگرافی جمجمه: کاسهٔ چشم و سینوس‌ها"),
+    "hn01_grays_p855": ("grays", GRAYS, 855 - GRAYS_OFFSET, (54, 316, 570, 756),
+                        "نمای قدامی جمجمه"),
+    "hn01_grays_p857": ("grays", GRAYS, 857 - GRAYS_OFFSET, (32, 214, 594, 716),
+                        "نمای طرفی جمجمه"),
+    "hn01_grays_p860": ("grays", GRAYS, 860 - GRAYS_OFFSET, (112, 364, 548, 724),
+                        "نمای فوقانی جمجمه: کالواریا و درزها"),
+    "hn01_grays_p927": ("grays", GRAYS, 927 - GRAYS_OFFSET, (306, 54, 560, 344),
+                        "استخوان‌های کاسهٔ چشم؛ صفحهٔ کاسه‌چشمی پیشانی و سوراخ‌های پرویزنی"),
+}
+
+PLATE_OF = {  # only for book plates, so a reader can find the figure again
+    "hn01_netter_p25": 25, "hn01_netter_p27": 27, "hn01_netter_p30": 30,
+    "hn01_netter_p32": 32, "hn01_netter_p37": 37, "hn01_netter_p26": 26,
+}
+
+
+def _open(path: Path) -> pymupdf.Document:
+    return pymupdf.open(path)
+
+
+def _netter_box(page: pymupdf.Page) -> pymupdf.Rect:
+    """The plate's ink: illustration plus its printed labels and plate title."""
+    rect = None
+    for x in page.get_image_info():
+        r = pymupdf.Rect(x["bbox"])
+        rect = r if rect is None else rect | r
+    for b in page.get_text("blocks"):
+        if not b[4].strip():
+            continue
+        r = pymupdf.Rect(b[:4])
+        rect = r if rect is None else rect | r
+    if rect is None:
+        return page.rect
+    r = rect + (-4, -4, 4, 4)
+    return r & page.rect
+
+
+def export(only: set[str] | None = None) -> list[dict]:
+    OUT.mkdir(parents=True, exist_ok=True)
+    index = {"assets": []}
+    if INDEX.exists():
+        index = json.loads(INDEX.read_text(encoding="utf-8"))
+    have = {a["asset_id"]: a for a in index["assets"]}
+    cache: dict[str, pymupdf.Document] = {}
+    written = []
+    for asset_id, (book, source, page_no, bbox, note) in SPECS.items():
+        if only and asset_id not in only:
+            continue
+        key = str(source)
+        if key not in cache:
+            cache[key] = _open(source)
+        doc = cache[key]
+        page = doc[page_no - 1]
+        box = _netter_box(page) if bbox is None else pymupdf.Rect(bbox)
+        pix = page.get_pixmap(dpi=DPI, clip=box)
+        name = f"{asset_id}.jpeg"
+        pix.save(OUT / name, jpg_quality=88)
+        row = dict(
+            asset_id=asset_id, book=book, session="hn01",
+            source_file=source.name, page=page_no, note=note,
+            bbox=[round(v, 1) for v in box], w=pix.width, h=pix.height,
+            px=pix.width * pix.height, bytes=(OUT / name).stat().st_size,
+            path=f"headneck/images/{name}",
+        )
+        if asset_id in PLATE_OF:
+            row["plate"] = PLATE_OF[asset_id]
+        have[asset_id] = row
+        written.append(row)
+    for doc in cache.values():
+        doc.close()
+    index["assets"] = sorted(have.values(), key=lambda a: a["asset_id"])
+    INDEX.write_text(json.dumps(index, ensure_ascii=False, indent=1) + "\n",
+                     encoding="utf-8")
+    return written
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--session", default="hn01", choices=["hn01"])
+    ap.add_argument("--only", nargs="*", default=None)
+    a = ap.parse_args()
+    rows = export(set(a.only) if a.only else None)
+    for r in rows:
+        print(f"{r['asset_id']:24s} {r['w']}x{r['h']}  {r['bytes']:>7,} B  {r['note']}")
+    print(f"\n{len(rows)} assets written · index: {INDEX.relative_to(REPO)}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

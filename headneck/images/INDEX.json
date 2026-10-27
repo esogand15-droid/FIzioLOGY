@@ -1,0 +1,295 @@
+{
+ "assets": [
+  {
+   "asset_id": "hn01_grays_p855",
+   "book": "grays",
+   "session": "hn01",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 83,
+   "note": "نمای قدامی جمجمه",
+   "bbox": [
+    54.0,
+    316.0,
+    570.0,
+    756.0
+   ],
+   "w": 1434,
+   "h": 1223,
+   "px": 1753782,
+   "bytes": 212006,
+   "path": "headneck/images/hn01_grays_p855.jpeg"
+  },
+  {
+   "asset_id": "hn01_grays_p857",
+   "book": "grays",
+   "session": "hn01",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 85,
+   "note": "نمای طرفی جمجمه",
+   "bbox": [
+    32.0,
+    214.0,
+    594.0,
+    716.0
+   ],
+   "w": 1562,
+   "h": 1395,
+   "px": 2178990,
+   "bytes": 256365,
+   "path": "headneck/images/hn01_grays_p857.jpeg"
+  },
+  {
+   "asset_id": "hn01_grays_p860",
+   "book": "grays",
+   "session": "hn01",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 88,
+   "note": "نمای فوقانی جمجمه: کالواریا و درزها",
+   "bbox": [
+    112.0,
+    364.0,
+    548.0,
+    724.0
+   ],
+   "w": 1212,
+   "h": 1001,
+   "px": 1213212,
+   "bytes": 102767,
+   "path": "headneck/images/hn01_grays_p860.jpeg"
+  },
+  {
+   "asset_id": "hn01_grays_p927",
+   "book": "grays",
+   "session": "hn01",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 155,
+   "note": "استخوان‌های کاسهٔ چشم؛ صفحهٔ کاسه‌چشمی پیشانی و سوراخ‌های پرویزنی",
+   "bbox": [
+    306.0,
+    54.0,
+    560.0,
+    344.0
+   ],
+   "w": 706,
+   "h": 806,
+   "px": 569036,
+   "bytes": 94578,
+   "path": "headneck/images/hn01_grays_p927.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p13_nasal",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "note": "جزوهٔ درس، ص ۱۳ — استخوان بینی: نمای قدامی و خلفی",
+   "bbox": [
+    66.0,
+    92.0,
+    350.0,
+    320.0
+   ],
+   "w": 790,
+   "h": 634,
+   "px": 500860,
+   "bytes": 25370,
+   "path": "headneck/images/hn01_lec_p13_nasal.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p15_maxilla",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "note": "جزوهٔ درس، ص ۱۵ — سطح خارجی فک فوقانی و زائدهٔ پیشانی",
+   "bbox": [
+    18.0,
+    122.0,
+    248.0,
+    360.0
+   ],
+   "w": 639,
+   "h": 662,
+   "px": 423018,
+   "bytes": 61341,
+   "path": "headneck/images/hn01_lec_p15_maxilla.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p16_palate",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "note": "جزوهٔ درس، ص ۱۶ — زوائد کامی و کام سخت",
+   "bbox": [
+    28.0,
+    64.0,
+    214.0,
+    218.0
+   ],
+   "w": 518,
+   "h": 429,
+   "px": 222222,
+   "bytes": 31102,
+   "path": "headneck/images/hn01_lec_p16_palate.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p17_sinus",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "note": "جزوهٔ درس، ص ۱۷ — سینوس فک فوقانی در جسم ماگزیلا",
+   "bbox": [
+    212.0,
+    62.0,
+    550.0,
+    278.0
+   ],
+   "w": 940,
+   "h": 601,
+   "px": 564940,
+   "bytes": 73627,
+   "path": "headneck/images/hn01_lec_p17_sinus.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p20_split",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "note": "جزوهٔ درس، ص ۲۰ — کارت تقسیم‌بندی استخوان‌های جمجمه",
+   "bbox": [
+    204.0,
+    232.0,
+    601.0,
+    424.0
+   ],
+   "w": 1104,
+   "h": 534,
+   "px": 589536,
+   "bytes": 97664,
+   "path": "headneck/images/hn01_lec_p20_split.jpeg"
+  },
+  {
+   "asset_id": "hn01_netter_p25",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 77,
+   "note": "نمای قدامی جمجمه با برچسب‌های نتر",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 509875,
+   "path": "headneck/images/hn01_netter_p25.jpeg",
+   "plate": 25
+  },
+  {
+   "asset_id": "hn01_netter_p26",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 78,
+   "note": "رادیوگرافی جمجمه: کاسهٔ چشم و سینوس‌ها",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 292141,
+   "path": "headneck/images/hn01_netter_p26.jpeg",
+   "plate": 26
+  },
+  {
+   "asset_id": "hn01_netter_p27",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 79,
+   "note": "نمای طرفی جمجمه؛ خطوط گیجگاهی و زائدهٔ گونه‌ای",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 547336,
+   "path": "headneck/images/hn01_netter_p27.jpeg",
+   "plate": 27
+  },
+  {
+   "asset_id": "hn01_netter_p30",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "note": "کالواریا: نمای فوقانی و سطح داخلی",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 371993,
+   "path": "headneck/images/hn01_netter_p30.jpeg",
+   "plate": 30
+  },
+  {
+   "asset_id": "hn01_netter_p32",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 84,
+   "note": "قاعدهٔ جمجمه از بالا: سه حفرهٔ کرانیال",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 605267,
+   "path": "headneck/images/hn01_netter_p32.jpeg",
+   "plate": 32
+  },
+  {
+   "asset_id": "hn01_netter_p37",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 89,
+   "note": "اسکلت بینی و سینوس‌های اطراف بینی",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 376732,
+   "path": "headneck/images/hn01_netter_p37.jpeg",
+   "plate": 37
+  }
+ ]
+}
