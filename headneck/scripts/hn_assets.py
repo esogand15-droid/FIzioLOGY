@@ -40,6 +40,13 @@ GRAYS_OFFSET = 772      # شمارهٔ صفحهٔ PDF (یک‌پایه) = صفح
 
 DPI = 200
 
+# چند قاب، متن ستون کنارِ صفحهٔ جزوه را هم گرفته است؛ این نوارها اندکی از
+# لبهٔ تصویر را سفید می‌کنند تا حرف‌های نیمهٔ ستون همسایه در قاب نماند.
+# asset_id: [ (x0, y0, x1, y1) در پیکسل تصویر خروجی ]
+TRIM: dict[str, list[tuple[int, int, int, int]]] = {
+    "hn02_lec_p26_parietal": [(0, 0, 22, 393), (818, 0, 900, 393)],
+}
+
 # asset_id: (book, source, page, bbox, view_note)
 # bbox = جعبه در نقطه‌های صفحهٔ PDF؛ None یعنی کل صفحه (با حاشیهٔ کوچک).
 SPECS: dict[str, tuple] = {
@@ -76,9 +83,16 @@ SPECS: dict[str, tuple] = {
                         "استخوان‌های کاسهٔ چشم؛ صفحهٔ کاسه‌چشمی پیشانی و سوراخ‌های پرویزنی"),
 }
 
-# figure list of each lecture page, measured by reading the pages themselves
+# figure lists of each lecture page, measured by reading the pages themselves
 from hn_figures import FIGURES  # noqa: E402
 SPECS.update({k: v for k, v in FIGURES.items() if k not in SPECS})
+try:                                        # session 2 (may not exist yet)
+    from hn02_figures import FIGURES as FIGURES_HN02  # noqa: E402
+    from hn02_figures import SPECS_HN02  # noqa: E402
+except ImportError:
+    FIGURES_HN02, SPECS_HN02 = {}, {}
+SPECS.update({k: v for k, v in FIGURES_HN02.items() if k not in SPECS})
+SPECS.update({k: v for k, v in SPECS_HN02.items() if k not in SPECS})
 
 PLATE_OF = {  # only for book plates, so a reader can find the figure again
     "hn01_netter_p25": 25, "hn01_netter_p27": 27, "hn01_netter_p30": 30,
@@ -107,7 +121,7 @@ def _netter_box(page: pymupdf.Page) -> pymupdf.Rect:
     return r & page.rect
 
 
-def export(only: set[str] | None = None) -> list[dict]:
+def export(only: set[str] | None = None, session: str | None = None) -> list[dict]:
     OUT.mkdir(parents=True, exist_ok=True)
     index = {"assets": []}
     if INDEX.exists():
@@ -118,6 +132,8 @@ def export(only: set[str] | None = None) -> list[dict]:
     for asset_id, (book, source, page_no, bbox, note) in SPECS.items():
         if only and asset_id not in only:
             continue
+        if session and not asset_id.startswith(session + "_"):
+            continue
         key = str(source)
         if key not in cache:
             cache[key] = _open(source)
@@ -126,9 +142,19 @@ def export(only: set[str] | None = None) -> list[dict]:
         box = _netter_box(page) if bbox is None else pymupdf.Rect(bbox)
         pix = page.get_pixmap(dpi=DPI, clip=box)
         name = f"{asset_id}.jpeg"
-        pix.save(OUT / name, jpg_quality=88)
+        if asset_id in TRIM:
+            from PIL import Image, ImageDraw
+            import io as _io
+            im = Image.open(_io.BytesIO(pix.tobytes("png"))).convert("RGB")
+            dr = ImageDraw.Draw(im)
+            for r in TRIM[asset_id]:
+                dr.rectangle(r, fill=(255, 255, 255))
+            im.save(OUT / name, quality=88)
+            pix = pymupdf.Pixmap(OUT / name)
+        else:
+            pix.save(OUT / name, jpg_quality=88)
         row = dict(
-            asset_id=asset_id, book=book, session="hn01",
+            asset_id=asset_id, book=book, session=asset_id.split("_")[0],
             source_file=source.name, page=page_no, note=note,
             bbox=[round(v, 1) for v in box], w=pix.width, h=pix.height,
             px=pix.width * pix.height, bytes=(OUT / name).stat().st_size,
@@ -148,10 +174,10 @@ def export(only: set[str] | None = None) -> list[dict]:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--session", default="hn01", choices=["hn01"])
+    ap.add_argument("--session", default="hn01", choices=["hn01", "hn02"])
     ap.add_argument("--only", nargs="*", default=None)
     a = ap.parse_args()
-    rows = export(set(a.only) if a.only else None)
+    rows = export(set(a.only) if a.only else None, session=a.session)
     for r in rows:
         print(f"{r['asset_id']:24s} {r['w']}x{r['h']}  {r['bytes']:>7,} B  {r['note']}")
     print(f"\n{len(rows)} assets written · index: {INDEX.relative_to(REPO)}")

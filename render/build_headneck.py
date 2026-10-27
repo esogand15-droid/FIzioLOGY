@@ -60,20 +60,25 @@ HN_SESSIONS = {
     ),
     "hn02": dict(
         num="۲", n=2, of="۱۳",
-        title="استخوان‌های صورت: زیگوماتیک، ماگزیلا، مانزیبل",
-        cover_title=["آناتومی سر و گردن", "جلسهٔ ۲ — استخوان‌های صورت"],
-        cover_topic="نماها و سوراخ‌های صورت، ماگزیلا، مانزیبل و استخوان اشکی",
-        divider_title="از گونه تا فک",
+        title="استخوان‌های صورت و طرفی جمجمه: گونه، فک تحتانی، گیجگاهی و آهیانه‌ای",
+        cover_title=["آناتومی سر و گردن", "جلسهٔ ۲ — از گونه تا آهیانه"],
+        cover_topic="استخوان گونه و قوس گونه‌ای · فک تحتانی · گیجگاهی · آهیانه‌ای و ملاج‌ها",
+        divider_title="از گونه تا آهیانه",
         divider_sub="جزوهٔ درس · نتر · گری",
         lecture="جزوهٔ درس (جلسهٔ ۲) — مهر ۱۴۰۴",
-        pages_label="صفحه‌های ۱–۳۳",
+        pages_label="صفحه‌های ۳–۳۳",
         outline="hn02_topics.json",
         content=("hn02_a.json", "hn02_b.json"),
+        measure_idcard=True,
         anchor="hn-02",
         pdf_name="HumsYar_HeadNeck_Jalase2.pdf",
-        outcome="",
-        intro_sources="نتر، سر و گردن (پلیت ۲۲–۱۷۷) · گری، فصل ۸",
-        next_topics=[],
+        outcome="استخوان گونه با سه سطح و سه سوراخش، فک تحتانی با شاخ و لندمارک‌هایش، "
+                "شکستگی‌های شایع صورت، چهار بخش استخوان گیجگاهی با شکاف‌ها و زوائدش، و "
+                "استخوان آهیانه‌ای با درزها و چهار ملاج را بشناسید.",
+        intro_sources="نتر، سر و گردن (پلیت ۳۳، ۳۵، ۳۸، ۳۹ و ۴۲) · گری، فصل ۸ "
+                      "(شکل‌های ۸.۱۹، ۸.۲۱، ۸.۲۴ و ۸.۲۸)",
+        next_topics=["استخوان اسفنوئید و بال بزرگ و کوچک", "استخوان پالاتین و صفحهٔ عمودی آن",
+                     "استخوان پس‌سری و بخش‌های قاعده‌ای", "سوراخ‌ها و مجاری قاعدهٔ جمجمه"],
     ),
     "hn03": dict(
         num="۳", n=3, of="۱۳",
@@ -589,6 +594,11 @@ def _block_height(book: PDFBook, b: dict | None) -> float:
     if kind == "path":
         return 90
     if kind == "idcard":
+        # a session that opts in measures its own cards, so a tall identity card
+        # is never left behind at the foot of a page; session 1 keeps its
+        # approved pagination
+        if getattr(book, "measure_idcard", False):
+            return book.card_height(b.get("rows", []), b.get("footer", "")) + 4
         return 150
     if kind == "handoff":
         return 170
@@ -786,6 +796,7 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
 
     book = PDFBook(out_path, f"جزوهٔ مادر آناتومی سر و گردن — جلسهٔ {cfg['num']}",
                    footer=FOOTER, subject="جزوهٔ مادر — آناتومی سر و گردن")
+    book.measure_idcard = cfg.get("measure_idcard", False)
     book.dark_page(lambda b: cover_page(b, cfg), reuse_blank_page=True)
     front_matter(book, cfg, stats)
     toc_page(book, cfg, outline, toc_pages or {})

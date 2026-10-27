@@ -955,6 +955,994 @@
    "bytes": 376732,
    "path": "headneck/images/hn01_netter_p37.jpeg",
    "plate": 37
+  },
+  {
+   "asset_id": "hn02_grays_p857",
+   "book": "grays",
+   "session": "hn02",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 85,
+   "note": "گری، شکل ۸.۱۹ — نمای طرفی جمجمه",
+   "bbox": [
+    40.0,
+    215.0,
+    560.0,
+    715.0
+   ],
+   "w": 1445,
+   "h": 1390,
+   "px": 2008550,
+   "bytes": 252319,
+   "path": "headneck/images/hn02_grays_p857.jpeg"
+  },
+  {
+   "asset_id": "hn02_grays_p860",
+   "book": "grays",
+   "session": "hn02",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 88,
+   "note": "گری، شکل ۸.۲۱ — کالواریا از نمای فوقانی",
+   "bbox": [
+    95.0,
+    390.0,
+    510.0,
+    735.0
+   ],
+   "w": 1154,
+   "h": 959,
+   "px": 1106686,
+   "bytes": 89330,
+   "path": "headneck/images/hn02_grays_p860.jpeg"
+  },
+  {
+   "asset_id": "hn02_grays_p864",
+   "book": "grays",
+   "session": "hn02",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 92,
+   "note": "گری، شکل ۸.۲۴ — سقف حفرهٔ کرانیال از درون",
+   "bbox": [
+    60.0,
+    340.0,
+    612.0,
+    725.0
+   ],
+   "w": 1534,
+   "h": 1070,
+   "px": 1641380,
+   "bytes": 146521,
+   "path": "headneck/images/hn02_grays_p864.jpeg"
+  },
+  {
+   "asset_id": "hn02_grays_p870",
+   "book": "grays",
+   "session": "hn02",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 98,
+   "note": "گری، شکل ۸.۲۸ — سوراخ‌های قاعدهٔ جمجمه",
+   "bbox": [
+    40.0,
+    60.0,
+    470.0,
+    715.0
+   ],
+   "w": 1195,
+   "h": 1821,
+   "px": 2176095,
+   "bytes": 404984,
+   "path": "headneck/images/hn02_grays_p870.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p03_zygo",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "note": "جزوهٔ درس، ص ۳ — استخوان گونهٔ رنگی در نمای طرفی",
+   "bbox": [
+    66.0,
+    332.0,
+    220.0,
+    554.0
+   ],
+   "w": 429,
+   "h": 617,
+   "px": 264693,
+   "bytes": 54463,
+   "path": "headneck/images/hn02_lec_p03_zygo.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p04_arch",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "note": "جزوهٔ درس، ص ۴ — قوس گونه‌ای و کناره‌هایش",
+   "bbox": [
+    35.0,
+    520.0,
+    224.0,
+    651.0
+   ],
+   "w": 526,
+   "h": 365,
+   "px": 191990,
+   "bytes": 33642,
+   "path": "headneck/images/hn02_lec_p04_arch.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p04_lat",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "note": "جزوهٔ درس، ص ۴ — زائدهٔ پیشانی و درز پیشانی‌گونه‌ای",
+   "bbox": [
+    66.0,
+    66.0,
+    262.0,
+    225.0
+   ],
+   "w": 545,
+   "h": 442,
+   "px": 240890,
+   "bytes": 40983,
+   "path": "headneck/images/hn02_lec_p04_lat.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p04_whitnall",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "note": "جزوهٔ درس، ص ۴ — تکمهٔ ویتنال در کاسهٔ چشم",
+   "bbox": [
+    45.0,
+    353.0,
+    170.0,
+    518.0
+   ],
+   "w": 348,
+   "h": 459,
+   "px": 159732,
+   "bytes": 16655,
+   "path": "headneck/images/hn02_lec_p04_whitnall.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p05_foramina",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "note": "جزوهٔ درس، ص ۵ — سه سوراخ استخوان گونه روی سه نما",
+   "bbox": [
+    114.0,
+    218.0,
+    546.0,
+    456.0
+   ],
+   "w": 1201,
+   "h": 662,
+   "px": 795062,
+   "bytes": 184694,
+   "path": "headneck/images/hn02_lec_p05_foramina.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p06_blackeye",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 6,
+   "note": "جزوهٔ درس، ص ۶ — چشم کبود و مسیر عصب سوپرااوربیتال",
+   "bbox": [
+    35.0,
+    116.0,
+    328.0,
+    317.0
+   ],
+   "w": 815,
+   "h": 559,
+   "px": 455585,
+   "bytes": 63235,
+   "path": "headneck/images/hn02_lec_p06_blackeye.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p07_mandible",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "note": "جزوهٔ درس، ص ۷ — استخوان مندیبل از دو نما",
+   "bbox": [
+    78.0,
+    113.0,
+    547.0,
+    353.0
+   ],
+   "w": 1304,
+   "h": 668,
+   "px": 871072,
+   "bytes": 114306,
+   "path": "headneck/images/hn02_lec_p07_mandible.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p08_outer",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 8,
+   "note": "جزوهٔ درس، ص ۸ — سطح بیرونی جسم و راموس مندیبل (Grant)",
+   "bbox": [
+    12.0,
+    170.0,
+    250.0,
+    375.0
+   ],
+   "w": 662,
+   "h": 570,
+   "px": 377340,
+   "bytes": 49305,
+   "path": "headneck/images/hn02_lec_p08_outer.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p08_xray",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 8,
+   "note": "جزوهٔ درس، ص ۸ — رادیوگرافی مندیبل: کانال و حفره‌های دندانی",
+   "bbox": [
+    28.0,
+    485.0,
+    267.0,
+    629.0
+   ],
+   "w": 665,
+   "h": 401,
+   "px": 266665,
+   "bytes": 42208,
+   "path": "headneck/images/hn02_lec_p08_xray.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p09_angle",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "note": "جزوهٔ درس، ص ۹ — زاویهٔ مندیبل و شیوع شکستگی",
+   "bbox": [
+    66.0,
+    412.0,
+    258.0,
+    584.0
+   ],
+   "w": 534,
+   "h": 479,
+   "px": 255786,
+   "bytes": 23956,
+   "path": "headneck/images/hn02_lec_p09_angle.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p11_medial",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "note": "جزوهٔ درس، ص ۱۱ — سطح داخلی جسم و راموس مندیبل",
+   "bbox": [
+    78.0,
+    66.0,
+    526.0,
+    353.0
+   ],
+   "w": 1246,
+   "h": 798,
+   "px": 994308,
+   "bytes": 127490,
+   "path": "headneck/images/hn02_lec_p11_medial.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p13_age",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "note": "جزوهٔ درس، ص ۱۳ — مندیبل در سه مرحلهٔ سنی",
+   "bbox": [
+    93.0,
+    413.0,
+    543.0,
+    621.0
+   ],
+   "w": 1251,
+   "h": 578,
+   "px": 723078,
+   "bytes": 43893,
+   "path": "headneck/images/hn02_lec_p13_age.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p14_prognathism",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "note": "جزوهٔ درس، ص ۱۴ — پروگناتیزم در مندیبل بی‌دندان",
+   "bbox": [
+    45.0,
+    516.0,
+    240.0,
+    635.0
+   ],
+   "w": 542,
+   "h": 331,
+   "px": 179402,
+   "bytes": 11532,
+   "path": "headneck/images/hn02_lec_p14_prognathism.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p15_mental",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "note": "جزوهٔ درس، ص ۱۵ — جای سوراخ منتال (گری)",
+   "bbox": [
+    67.0,
+    90.0,
+    583.0,
+    383.0
+   ],
+   "w": 1434,
+   "h": 814,
+   "px": 1167276,
+   "bytes": 84591,
+   "path": "headneck/images/hn02_lec_p15_mental.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p15_xray",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "note": "جزوهٔ درس، ص ۱۵ — سوراخ منتال در رادیوگرافی",
+   "bbox": [
+    118.0,
+    426.0,
+    480.0,
+    664.0
+   ],
+   "w": 1007,
+   "h": 662,
+   "px": 666634,
+   "bytes": 49449,
+   "path": "headneck/images/hn02_lec_p15_xray.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p16_foramina",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "note": "جزوهٔ درس، ص ۱۶ — سوراخ‌های نمای قدامی و آنچه از آن‌ها می‌گذرد",
+   "bbox": [
+    65.0,
+    66.0,
+    545.0,
+    345.0
+   ],
+   "w": 1334,
+   "h": 776,
+   "px": 1035184,
+   "bytes": 127275,
+   "path": "headneck/images/hn02_lec_p16_foramina.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p17_surface",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "note": "جزوهٔ درس، ص ۱۷ — آناتومی سطحی صورت (گری)",
+   "bbox": [
+    122.0,
+    82.0,
+    464.0,
+    319.0
+   ],
+   "w": 951,
+   "h": 660,
+   "px": 627660,
+   "bytes": 70781,
+   "path": "headneck/images/hn02_lec_p17_surface.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p18_norma",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "note": "جزوهٔ درس، ص ۱۸ — نمای طرفی رنگی: استخوان‌های دیده‌شده",
+   "bbox": [
+    32.0,
+    40.0,
+    214.0,
+    204.0
+   ],
+   "w": 507,
+   "h": 456,
+   "px": 231192,
+   "bytes": 41170,
+   "path": "headneck/images/hn02_lec_p18_norma.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p19_tempbone",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "note": "جزوهٔ درس، ص ۱۹ — چهار بخش استخوان گیجگاهی",
+   "bbox": [
+    74.0,
+    74.0,
+    585.0,
+    261.0
+   ],
+   "w": 1420,
+   "h": 520,
+   "px": 738400,
+   "bytes": 66434,
+   "path": "headneck/images/hn02_lec_p19_tempbone.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p20_tmj",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "note": "جزوهٔ درس، ص ۲۰ — برجستگی مفصلی و حفرهٔ فک تحتانی",
+   "bbox": [
+    35.0,
+    568.0,
+    300.0,
+    721.0
+   ],
+   "w": 737,
+   "h": 426,
+   "px": 313962,
+   "bytes": 43231,
+   "path": "headneck/images/hn02_lec_p20_tmj.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p21_base",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 21,
+   "note": "جزوهٔ درس، ص ۲۱ — مفصل گیجگاهی‌مندیبلی از نمای تحتانی",
+   "bbox": [
+    66.0,
+    482.0,
+    546.0,
+    719.0
+   ],
+   "w": 1334,
+   "h": 660,
+   "px": 880440,
+   "bytes": 116404,
+   "path": "headneck/images/hn02_lec_p21_base.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p22_deep",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 22,
+   "note": "جزوهٔ درس، ص ۲۲ — نمای عمقی گردن و ارتباط آن با گیجگاهی",
+   "bbox": [
+    15.0,
+    531.0,
+    302.0,
+    769.0
+   ],
+   "w": 798,
+   "h": 662,
+   "px": 528276,
+   "bytes": 107486,
+   "path": "headneck/images/hn02_lec_p22_deep.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p22_infratemp",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 22,
+   "note": "جزوهٔ درس، ص ۲۲ — ناحیهٔ زیر گیجگاهی و کلید آن (گری)",
+   "bbox": [
+    7.0,
+    120.0,
+    369.0,
+    329.0
+   ],
+   "w": 1006,
+   "h": 581,
+   "px": 584486,
+   "bytes": 104257,
+   "path": "headneck/images/hn02_lec_p22_infratemp.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p23_suprameatal",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 23,
+   "note": "جزوهٔ درس، ص ۲۳ — مثلث سوپرامیاتال روی سر",
+   "bbox": [
+    337.0,
+    369.0,
+    573.0,
+    621.0
+   ],
+   "w": 656,
+   "h": 700,
+   "px": 459200,
+   "bytes": 54408,
+   "path": "headneck/images/hn02_lec_p23_suprameatal.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p23_tempbone",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 23,
+   "note": "جزوهٔ درس، ص ۲۳ — بخش صدفی و ماستوئید استخوان گیجگاهی",
+   "bbox": [
+    24.0,
+    66.0,
+    299.0,
+    247.0
+   ],
+   "w": 765,
+   "h": 504,
+   "px": 385560,
+   "bytes": 55715,
+   "path": "headneck/images/hn02_lec_p23_tempbone.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p24_petrous",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 24,
+   "note": "جزوهٔ درس، ص ۲۴ — بخش خاره‌ای از دو نما",
+   "bbox": [
+    66.0,
+    451.0,
+    546.0,
+    689.0
+   ],
+   "w": 1334,
+   "h": 662,
+   "px": 883108,
+   "bytes": 58352,
+   "path": "headneck/images/hn02_lec_p24_petrous.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p25_styloid",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 25,
+   "note": "جزوهٔ درس، ص ۲۵ — زائدهٔ استایلوئید و سوراخ استایلومastوئید",
+   "bbox": [
+    31.0,
+    508.0,
+    329.0,
+    691.0
+   ],
+   "w": 828,
+   "h": 509,
+   "px": 421452,
+   "bytes": 52541,
+   "path": "headneck/images/hn02_lec_p25_styloid.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p26_parietal",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 26,
+   "note": "جزوهٔ درس، ص ۲۶ — استخوان آهیانه از سطح بیرونی",
+   "bbox": [
+    20.0,
+    428.0,
+    332.0,
+    569.0
+   ],
+   "w": 868,
+   "h": 393,
+   "px": 341124,
+   "bytes": 39445,
+   "path": "headneck/images/hn02_lec_p26_parietal.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p27_inner",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 27,
+   "note": "جزوهٔ درس، ص ۲۷ — سطح داخلی استخوان آهیانه",
+   "bbox": [
+    23.0,
+    422.0,
+    395.0,
+    605.0
+   ],
+   "w": 1035,
+   "h": 509,
+   "px": 526815,
+   "bytes": 53660,
+   "path": "headneck/images/hn02_lec_p27_inner.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p28_composite",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 28,
+   "note": "جزوهٔ درس، ص ۲۸ — سطح داخلی آهیانه: نتر و عکس",
+   "bbox": [
+    66.0,
+    431.0,
+    546.0,
+    706.0
+   ],
+   "w": 1334,
+   "h": 765,
+   "px": 1020510,
+   "bytes": 138002,
+   "path": "headneck/images/hn02_lec_p28_composite.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p29_fetal",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 29,
+   "note": "جزوهٔ درس، ص ۲۹ — جمجمهٔ نوزاد از نمای فوقانی",
+   "bbox": [
+    0.0,
+    66.0,
+    311.0,
+    350.0
+   ],
+   "w": 864,
+   "h": 790,
+   "px": 682560,
+   "bytes": 54229,
+   "path": "headneck/images/hn02_lec_p29_fetal.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p29_pforamen",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 29,
+   "note": "جزوهٔ درس، ص ۲۹ — سوراخ آهیانه‌ای روی استخوان",
+   "bbox": [
+    31.0,
+    390.0,
+    250.0,
+    604.0
+   ],
+   "w": 609,
+   "h": 595,
+   "px": 362355,
+   "bytes": 52588,
+   "path": "headneck/images/hn02_lec_p29_pforamen.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p30_font_lat",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 30,
+   "note": "جزوهٔ درس، ص ۳۰ — فونتانل‌ها از نمای طرفی",
+   "bbox": [
+    26.0,
+    524.0,
+    356.0,
+    714.0
+   ],
+   "w": 917,
+   "h": 529,
+   "px": 485093,
+   "bytes": 56747,
+   "path": "headneck/images/hn02_lec_p30_font_lat.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p30_font_sup",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 30,
+   "note": "جزوهٔ درس، ص ۳۰ — چهار فونتانل از نمای فوقانی",
+   "bbox": [
+    18.0,
+    66.0,
+    326.0,
+    281.0
+   ],
+   "w": 856,
+   "h": 598,
+   "px": 511888,
+   "bytes": 58502,
+   "path": "headneck/images/hn02_lec_p30_font_sup.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p31_rev_clinic",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 31,
+   "note": "جزوهٔ درس، ص ۳۱ — نکتهٔ بالینی آسیب گونه",
+   "bbox": [
+    0.0,
+    328.0,
+    612.0,
+    432.0
+   ],
+   "w": 1700,
+   "h": 289,
+   "px": 491300,
+   "bytes": 84589,
+   "path": "headneck/images/hn02_lec_p31_rev_clinic.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p31_rev_mandible",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 31,
+   "note": "جزوهٔ درس، ص ۳۱ — کارت مرور مندیبل",
+   "bbox": [
+    0.0,
+    420.0,
+    612.0,
+    790.0
+   ],
+   "w": 1700,
+   "h": 1029,
+   "px": 1749300,
+   "bytes": 282993,
+   "path": "headneck/images/hn02_lec_p31_rev_mandible.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p31_rev_zygo",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 31,
+   "note": "جزوهٔ درس، ص ۳۱ — کارت مرور استخوان گونه",
+   "bbox": [
+    0.0,
+    50.0,
+    612.0,
+    240.0
+   ],
+   "w": 1700,
+   "h": 529,
+   "px": 899300,
+   "bytes": 134436,
+   "path": "headneck/images/hn02_lec_p31_rev_zygo.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p32_rev_cards",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 32,
+   "note": "جزوهٔ درس، ص ۳۲ — مثلث سوپرامیاتال، شکاف‌ها، TMJ",
+   "bbox": [
+    0.0,
+    478.0,
+    612.0,
+    790.0
+   ],
+   "w": 1700,
+   "h": 868,
+   "px": 1475600,
+   "bytes": 202622,
+   "path": "headneck/images/hn02_lec_p32_rev_cards.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p32_rev_dev",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 32,
+   "note": "جزوهٔ درس، ص ۳۲ — تکامل مندیبل و لندمارک‌های عصبی-عروقی",
+   "bbox": [
+    0.0,
+    218.0,
+    612.0,
+    445.0
+   ],
+   "w": 1700,
+   "h": 632,
+   "px": 1074400,
+   "bytes": 179942,
+   "path": "headneck/images/hn02_lec_p32_rev_dev.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p32_rev_ramus",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 32,
+   "note": "جزوهٔ درس، ص ۳۲ — کارت مرور شاخ مندیبل",
+   "bbox": [
+    0.0,
+    4.0,
+    612.0,
+    88.0
+   ],
+   "w": 1700,
+   "h": 234,
+   "px": 397800,
+   "bytes": 74863,
+   "path": "headneck/images/hn02_lec_p32_rev_ramus.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p33_rev_cards1",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 33,
+   "note": "جزوهٔ درس، ص ۳۳ — حفرات گرانولار، شیار شریان، سوراخ استایلومastوئید",
+   "bbox": [
+    0.0,
+    0.0,
+    612.0,
+    242.0
+   ],
+   "w": 1700,
+   "h": 673,
+   "px": 1144100,
+   "bytes": 143193,
+   "path": "headneck/images/hn02_lec_p33_rev_cards1.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p33_rev_cards2",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 33,
+   "note": "جزوهٔ درس، ص ۳۳ — فونتانل‌ها، درزها، خطوط گیجگاهی",
+   "bbox": [
+    0.0,
+    238.0,
+    612.0,
+    586.0
+   ],
+   "w": 1700,
+   "h": 967,
+   "px": 1643900,
+   "bytes": 165795,
+   "path": "headneck/images/hn02_lec_p33_rev_cards2.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p33_rev_cards3",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 33,
+   "note": "جزوهٔ درس، ص ۳۳ — دررفتگی TMJ و خون‌ریزی اپیدورال",
+   "bbox": [
+    2.0,
+    616.0,
+    612.0,
+    790.0
+   ],
+   "w": 1695,
+   "h": 484,
+   "px": 820380,
+   "bytes": 121477,
+   "path": "headneck/images/hn02_lec_p33_rev_cards3.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p33",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 85,
+   "note": "سوراخ‌ها و کانال‌های قاعدهٔ جمجمه از نمای تحتانی",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 355477,
+   "path": "headneck/images/hn02_netter_p33.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p35",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 87,
+   "note": "جمجمهٔ نوزاد: فونتانل‌ها از نمای طرفی و فوقانی",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 414551,
+   "path": "headneck/images/hn02_netter_p35.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p38",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 90,
+   "note": "جمجمه از نمای خلفی و طرفی: آهیانه‌ای و گیجگاهی",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 409478,
+   "path": "headneck/images/hn02_netter_p38.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p39",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "note": "مندیبل: نمای طرفی و مدیال، نوزاد و سالمند",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 373369,
+   "path": "headneck/images/hn02_netter_p39.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p42",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 94,
+   "note": "مفصل گیجگاهی‌مندیبلی: کپسول، دیسک و رباط‌ها",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 610568,
+   "path": "headneck/images/hn02_netter_p42.jpeg"
   }
  ]
 }

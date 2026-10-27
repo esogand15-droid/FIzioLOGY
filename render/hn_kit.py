@@ -708,6 +708,28 @@ class PDFBook:
                 self.y += n.leading
         self.y += 9
 
+    def card_height(self, rows, tick: bool = False, footer: str = "") -> float:
+        """Height of a label card, so a heading can reserve room for the whole card."""
+        head_h = 24
+        body = TextStyle(size=9.5, leading=15.4, color=BODY, justify=False)
+        total = head_h + 8
+        for row in rows:
+            items = row.get("items")
+            text = row.get("text", "")
+            box_w = 15 if (row.get("tick", tick) and items is not None) else 0
+            indent = 14 if (items is not None and bool(row.get("bullet", not row.get("tick", tick)))) else 0
+            n = 0
+            if items is not None:
+                for it in items:
+                    n += len(self.wrap(it, body.font, body.size,
+                                       CONTENT_W - 46 - box_w - indent))
+            elif text:
+                n = len(self.wrap(text, body.font, body.size, CONTENT_W - 46))
+            total += 15 + n * body.leading + 5
+        if footer:
+            total += len(self.wrap(footer, "Vazir", 8.2, CONTENT_W - 10)) * 13 + 4
+        return total
+
     def label_card(self, title: str, rows, accent=TEAL, tint=TEAL_LL, kicker: str = "",
                    tick: bool = False, footer: str = "") -> None:
         """A ruled card of labelled rows (topic identity card / hand-off sheet).
