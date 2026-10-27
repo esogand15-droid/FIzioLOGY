@@ -70,11 +70,15 @@ SPECS: dict[str, tuple] = {
                         "نمای قدامی جمجمه"),
     "hn01_grays_p857": ("grays", GRAYS, 857 - GRAYS_OFFSET, (32, 214, 594, 716),
                         "نمای طرفی جمجمه"),
-    "hn01_grays_p860": ("grays", GRAYS, 860 - GRAYS_OFFSET, (112, 364, 548, 724),
+    "hn01_grays_p860": ("grays", GRAYS, 860 - GRAYS_OFFSET, (112, 360, 548, 728),
                         "نمای فوقانی جمجمه: کالواریا و درزها"),
     "hn01_grays_p927": ("grays", GRAYS, 927 - GRAYS_OFFSET, (306, 54, 560, 344),
                         "استخوان‌های کاسهٔ چشم؛ صفحهٔ کاسه‌چشمی پیشانی و سوراخ‌های پرویزنی"),
 }
+
+# figure list of each lecture page, measured by reading the pages themselves
+from hn_figures import FIGURES  # noqa: E402
+SPECS.update({k: v for k, v in FIGURES.items() if k not in SPECS})
 
 PLATE_OF = {  # only for book plates, so a reader can find the figure again
     "hn01_netter_p25": 25, "hn01_netter_p27": 27, "hn01_netter_p30": 30,
