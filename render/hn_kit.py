@@ -148,7 +148,12 @@ def shape(text: str) -> str:
     """Shape Arabic/Persian glyphs and resolve the bidi order for canvas drawing."""
     if not text:
         return ""
-    return get_display(arabic_reshaper.reshape(text))
+    # A Persian bullet can begin with an English anatomical term. Auto-detecting
+    # from that first Latin character incorrectly makes the whole line LTR,
+    # moving the Latin terms to the wrong ends of the Persian sentence.
+    # Keep genuinely English-only captions in their natural direction.
+    is_rtl = any('\u0600' <= ch <= '\u06ff' or '\u0750' <= ch <= '\u077f' for ch in text)
+    return get_display(arabic_reshaper.reshape(text), base_dir='R' if is_rtl else 'L')
 
 
 class TextStyle:

@@ -1,10 +1,10 @@
 # آناتومی سر و گردن — ساخت جزوه‌ها
 
-## جلسهٔ ۱: نسخهٔ موضوعی بازبینی‌شده؛ جلسهٔ ۲: پیش‌نویس
+## جلسات ۱ و ۲: نسخه‌های موضوعی بازبینی‌شده
 
 خروجی جلسهٔ ۱ در `pdf/HumsYar_HeadNeck_Jalase1.pdf` به قالب موضوعی بازسازی شده است. نام `_DRAFT` جلسهٔ ۱ در حال حاضر کپی همین نسخه برای سازگاری است؛ نسخهٔ صفحه‌محور ردشده جایگزین شده است. این نسخه ۱۷ مبحث، متن تایپ‌شده، ارجاع، شکل و کادر آموزشی دارد و از صفحهٔ کامل جزوه به‌جای متن استفاده نمی‌کند. متن و شکل‌های صفحه‌های منبع و خروجی به‌صورت تصویری مرور شده‌اند؛ مقابلهٔ مستقل نهایی واژه‌به‌واژه هنوز انجام نشده است. این فایل برای کار جزوه‌نویسان تهیه شده، نه به‌عنوان تأیید علمی تخصصی. جزئیات و نقشهٔ قاب‌ها در `headneck/reports/HN_S01_REVIEW_2026.md` است.
 
-جلسهٔ ۲ همچنان پیش‌نویس موضوعی `pdf/HumsYar_HeadNeck_Jalase2_DRAFT.pdf` است و فایل بدون پسوند آن نسخهٔ صفحه‌محور ردشده باقی مانده است. وضعیت در `headneck/reports/HN_S01_S02_MOTHER_WIP.md` آمده است.
+خروجی جلسهٔ ۲ در `pdf/HumsYar_HeadNeck_Jalase2.pdf` نسخهٔ موضوعی جایگزین نسخهٔ صفحه‌محور ردشده است. نام `_DRAFT` نیز کپی همین نسخه است. گزارش تصویری، ارجاع‌ها و نگاشت صفحه‌های آن در `headneck/reports/HN_S02_REVIEW_2026.md` آمده است. مقابلهٔ مستقل نهایی واژه‌به‌واژه همچنان انجام نشده است.
 
 ```sh
 python3 -m venv .venv
@@ -18,11 +18,13 @@ python3 -m venv .venv
 .venv/bin/python headneck/scripts/reconcile_hn02_review.py
 .venv/bin/python headneck/scripts/fix_hn01_figure_crops.py
 .venv/bin/python headneck/scripts/refine_hn01_captions.py
+.venv/bin/python headneck/scripts/fix_hn02_figure_crops.py
+.venv/bin/python headneck/scripts/refine_hn02_captions.py
 .venv/bin/python render/build_headneck.py --session hn01 --force
-.venv/bin/python render/build_headneck.py --session hn02 --out pdf/HumsYar_HeadNeck_Jalase2_DRAFT.pdf --force
+.venv/bin/python render/build_headneck.py --session hn02 --force
 .venv/bin/python render/qa_headneck.py --session hn01 --pdf pdf/HumsYar_HeadNeck_Jalase1.pdf --report headneck/reports/HN_S01_QA_REPORT.md
-.venv/bin/python render/qa_headneck.py --session hn02 --pdf pdf/HumsYar_HeadNeck_Jalase2_DRAFT.pdf --report headneck/reports/HN_S02_DRAFT_QA_REPORT.md
-.venv/bin/python headneck/scripts/verify_pdf_integrity.py pdf/HumsYar_HeadNeck_Jalase1.pdf pdf/HumsYar_HeadNeck_Jalase2_DRAFT.pdf
+.venv/bin/python render/qa_headneck.py --session hn02 --pdf pdf/HumsYar_HeadNeck_Jalase2.pdf --report headneck/reports/HN_S02_QA_REPORT.md
+.venv/bin/python headneck/scripts/verify_pdf_integrity.py pdf/HumsYar_HeadNeck_Jalase1.pdf pdf/HumsYar_HeadNeck_Jalase2.pdf
 ```
 
 سازندهٔ صفحه‌محور قدیمی `headneck/scripts/build_hn_verbatim.py` و گزارش `HN_S01_S02_VERBATIM_REVIEW.md` فقط برای ردیابی نسخهٔ ردشده نگهداری شده‌اند و در ساخت پیش‌نویس استفاده نمی‌شوند. ابزار QA صرفاً کنترل فنی است و وفاداری متن یا تناسب تصویر را اثبات نمی‌کند.
