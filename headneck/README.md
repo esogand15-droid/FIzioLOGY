@@ -1,6 +1,6 @@
 # آناتومی سر و گردن — ساخت جلسهٔ ۳
 
-خروجی: `pdf/HumsYar_HeadNeck_Jalase3.pdf`. گزارش منابع و محدودیت‌ها: `headneck/reports/HN_S03_SOURCE_REVIEW.md`؛ گزارش خودکار: `headneck/reports/HN_S03_QA_REPORT.md`.
+خروجی: `pdf/HumsYar_HeadNeck_Jalase3.pdf`. گزارش منابع و محدودیت‌ها: `headneck/reports/HN_S03_SOURCE_REVIEW.md`؛ گزارش خودکار: `headneck/reports/HN_S03_QA_REPORT.md`؛ نگاشت تصویر به تصویر و دامنهٔ بررسی: `headneck/reports/HN_S03_IMAGE_AUDIT.md`.
 
 از ریشهٔ مخزن، با Python و فایل‌های منبع موجود در مخزن:
 
@@ -9,6 +9,7 @@ python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/python headneck/scripts/hn03_figures.py
 .venv/bin/python headneck/scripts/hn03_build_content.py
+.venv/bin/python headneck/scripts/audit_hn03_illustrations.py
 .venv/bin/python render/build_headneck.py --session hn03 --force
 .venv/bin/python render/qa_headneck.py --session hn03
 ```

@@ -35,6 +35,36 @@
    {
     "type": "plate",
     "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p03_skull_sections.jpeg",
+    "title": "قطعات جمجمه و بخش‌های اسفنوئید",
+    "citation": "جزوهٔ درس، ص 3 از فایل PDF",
+    "view": "نمای ترکیبی قطعات جمجمه",
+    "fa_text": "تصویر جزوه قطعات رنگی و فهرست برچسب‌های آن‌ها را نشان می‌دهد؛ بال کوچک و بزرگ و زین را با بخش پس‌سری مقایسه کنید.",
+    "labels": [
+     [
+      "بال بزرگ",
+      "Greater wing"
+     ],
+     [
+      "بال کوچک",
+      "Lesser wing"
+     ],
+     [
+      "پشت زین",
+      "Dorsum sellae"
+     ],
+     [
+      "ستیغ پس‌سری داخلی",
+      "Internal occipital crest"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 3",
+    "max_h": 115,
+    "fresh": true
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
     "asset": "headneck/images/hn03_lec_p02_location.jpeg",
     "title": "جای اسفنوئید در نمای طرفی",
     "citation": "جزوهٔ درس، ص 2 از فایل PDF",
@@ -55,7 +85,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 2",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": false
    },
    {
     "type": "handoff",
@@ -131,7 +162,8 @@
      ]
     ],
     "src": "نتر، ویراست ۸، پلیت ۲۹، ص ۸۱",
-    "max_h": 105
+    "max_h": 135,
+    "fresh": true
    },
    {
     "type": "plate",
@@ -160,7 +192,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 3",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -281,6 +314,37 @@
    },
    {
     "type": "plate",
+    "book": "grays",
+    "asset": "headneck/images/hn03_grays_p862_fig823.jpeg",
+    "title": "زوائد پتریگوئید در قاعدهٔ جمجمه",
+    "citation": "گری، ویراست ۳، شکل ۸.۲۳، ص ۸۶۲",
+    "en_caption": "Inferior view of the skull",
+    "view": "نمای تحتانی جمجمه",
+    "fa_text": "در سمت جلو، کام و زوائد پتریگوئید و در عقب، فورامن مگنوم قرار دارند.",
+    "labels": [
+     [
+      "حفرهٔ پتریگوئید",
+      "Pterygoid fossa"
+     ],
+     [
+      "صفحهٔ داخلی پتریگوئید",
+      "Medial plate of pterygoid process"
+     ],
+     [
+      "قلاب",
+      "Hamulus"
+     ],
+     [
+      "فورامن مگنوم",
+      "Foramen magnum"
+     ]
+    ],
+    "src": "گری، ویراست ۳، شکل ۸.۲۳، ص ۸۶۲",
+    "max_h": 135,
+    "fresh": true
+   },
+   {
+    "type": "plate",
     "book": "lecture",
     "asset": "headneck/images/hn03_lec_p05_posterior.jpeg",
     "title": "پتریگوئید از پشت",
@@ -306,7 +370,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 5",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -385,7 +450,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 7",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -445,6 +511,37 @@
     "type": "p",
     "text": "زائده‌های کلینوئید قدامی از بخش داخلی بال کوچک و زائده‌های خلفی از گوشه‌های فوقانی پشت زین پدید می‌آیند. کلینوئیدهای میانی می‌توانند در کنار تکمهٔ زین دیده شوند و متغیرند.",
     "src": "جزوهٔ درس، صفحهٔ PDF 7، 8"
+   },
+   {
+    "type": "plate",
+    "book": "grays",
+    "asset": "headneck/images/hn03_grays_p867_fig826.jpeg",
+    "title": "زین ترکی و حفرهٔ میانی",
+    "citation": "گری، ویراست ۳، شکل ۸.۲۶، ص ۸۶۷",
+    "en_caption": "Middle cranial fossa",
+    "view": "نمای فوقانی حفرهٔ میانی",
+    "fa_text": "حفرهٔ هیپوفیز، تکمه و پشت زین را در مرکز تصویر دنبال کنید.",
+    "labels": [
+     [
+      "حفرهٔ هیپوفیز",
+      "Hypophyseal fossa"
+     ],
+     [
+      "تکمهٔ زین",
+      "Tuberculum sellae"
+     ],
+     [
+      "پشت زین",
+      "Dorsum sellae"
+     ],
+     [
+      "شیار کیاسمایی",
+      "Chiasmatic sulcus"
+     ]
+    ],
+    "src": "گری، ویراست ۳، شکل ۸.۲۶، ص ۸۶۷",
+    "max_h": 135,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -525,6 +622,37 @@
    },
    {
     "type": "plate",
+    "book": "netter",
+    "asset": "headneck/images/hn03_netter_p34_foramina_superior.jpeg",
+    "title": "گذرگاه‌های بال بزرگ از داخل جمجمه",
+    "citation": "نتر، ویراست ۸، پلیت ۳۴، ص ۸۶",
+    "en_caption": "Foramina and Canals of Cranial Base: Superior View",
+    "view": "نمای فوقانی قاعدهٔ جمجمه؛ برش قسمت میانی",
+    "fa_text": "روتوندوم، اووال و اسپینوزوم را همراه ساختارهای عبوری مقایسه کنید.",
+    "labels": [
+     [
+      "سوراخ گرد",
+      "Foramen rotundum"
+     ],
+     [
+      "سوراخ بیضی",
+      "Foramen ovale"
+     ],
+     [
+      "سوراخ خاری",
+      "Foramen spinosum"
+     ],
+     [
+      "کانال بینایی",
+      "Optic canal"
+     ]
+    ],
+    "src": "نتر، ویراست ۸، پلیت ۳۴، ص ۸۶",
+    "max_h": 135,
+    "fresh": true
+   },
+   {
+    "type": "plate",
     "book": "lecture",
     "asset": "headneck/images/hn03_lec_p09_clivus.jpeg",
     "title": "بال بزرگ و قاعده از بالا",
@@ -550,7 +678,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 9",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -654,6 +783,36 @@
    },
    {
     "type": "plate",
+    "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p10_pterion.jpeg",
+    "title": "محل پتریون در نمای طرفی",
+    "citation": "جزوهٔ درس، ص 10 از فایل PDF",
+    "view": "نمای رنگی طرفی",
+    "fa_text": "این تصویر جزوه فقط پتریون را با پیکان نام‌گذاری می‌کند؛ نام استخوان‌های رنگی زیر برای جهت‌یابی افزوده شده‌اند.",
+    "labels": [
+     [
+      "پتریون",
+      "Pterion"
+     ],
+     [
+      "استخوان پیشانی",
+      "Frontal bone"
+     ],
+     [
+      "استخوان آهیانه",
+      "Parietal bone"
+     ],
+     [
+      "استخوان گیجگاهی",
+      "Temporal bone"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 10",
+    "max_h": 115,
+    "fresh": false
+   },
+   {
+    "type": "plate",
     "book": "grays",
     "asset": "headneck/images/hn02_grays_p857.jpeg",
     "title": "نمای طرفی جمجمه و پتریون",
@@ -680,7 +839,8 @@
      ]
     ],
     "src": "گری، ویراست ۳، شکل ۸.۱۹، ص ۸۵۷",
-    "max_h": 105
+    "max_h": 135,
+    "fresh": true
    },
    {
     "type": "plate",
@@ -705,7 +865,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 10",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": false
    },
    {
     "type": "handoff",
@@ -770,6 +931,59 @@
    {
     "type": "plate",
     "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p11_surface.jpeg",
+    "title": "نشانه‌های سطحی پتریون",
+    "citation": "جزوهٔ درس، ص 11 از فایل PDF",
+    "view": "نمای استخوانی و سطح سر",
+    "fa_text": "عکس جزوه، نشانه‌های تقریبی شماره‌گذاری‌شده را نشان می‌دهد؛ معادل‌های زیر برای جهت‌یابی‌اند و همه برچسب چاپی خود عکس نیستند.",
+    "labels": [
+     [
+      "پتریون",
+      "Pterion"
+     ],
+     [
+      "قوس گونه‌ای",
+      "Zygomatic arch"
+     ],
+     [
+      "مجرای گوش خارجی",
+      "External acoustic meatus"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 11",
+    "max_h": 115,
+    "fresh": false
+   },
+   {
+    "type": "plate",
+    "book": "netter",
+    "asset": "headneck/images/hn03_netter_p27_infratemporal.jpeg",
+    "title": "حفرهٔ زیرگیجگاهی و پتریگوپالاتین",
+    "citation": "نتر، ویراست ۸، پلیت ۲۷، ص ۷۹",
+    "en_caption": "Skull: Lateral View",
+    "view": "نمای طرفی عمقی پس از برداشتن قوس گونه‌ای و مندیبل",
+    "fa_text": "تصویر دوم پلیت، موقعیت حفره‌ها و صفحهٔ پتریگوئید را نشان می‌دهد.",
+    "labels": [
+     [
+      "حفرهٔ زیرگیجگاهی",
+      "Infratemporal fossa"
+     ],
+     [
+      "حفرهٔ پتریگوپالاتین",
+      "Pterygopalatine fossa"
+     ],
+     [
+      "صفحهٔ خارجی پتریگوئید",
+      "Lateral pterygoid plate"
+     ]
+    ],
+    "src": "نتر، ویراست ۸، پلیت ۲۷، ص ۷۹",
+    "max_h": 135,
+    "fresh": true
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
     "asset": "headneck/images/hn03_lec_p11_infratemporal.jpeg",
     "title": "حفرهٔ پتریگوپالاتین",
     "citation": "جزوهٔ درس، ص 11 از فایل PDF",
@@ -790,7 +1004,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 11",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": false
    },
    {
     "type": "handoff",

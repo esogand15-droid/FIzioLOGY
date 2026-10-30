@@ -35,6 +35,32 @@
    {
     "type": "plate",
     "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p12_context.jpeg",
+    "title": "مجاورت کامی و کاسهٔ چشم",
+    "citation": "جزوهٔ درس، ص 12 از فایل PDF",
+    "view": "نمای طرفی عمقی صورت",
+    "fa_text": "تصویر کوچکِ بدون برچسب جزوه برای جهت‌یابی کلی است و استخوان کامی را جداگانه علامت نمی‌زند؛ شکل برچسب‌دار بعدی را برای شناسایی دقیق ببینید.",
+    "labels": [
+     [
+      "کاسهٔ چشم",
+      "Orbit"
+     ],
+     [
+      "فک بالا",
+      "Maxilla"
+     ],
+     [
+      "دندان‌های فک بالا",
+      "Maxillary teeth"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 12",
+    "max_h": 115,
+    "fresh": false
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
     "asset": "headneck/images/hn03_lec_p12_pal_medial.jpeg",
     "title": "کامی از سطح داخلی",
     "citation": "جزوهٔ درس، ص 12 از فایل PDF",
@@ -59,7 +85,34 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 12",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": true
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p12_pal_lateral.jpeg",
+    "title": "کامی از سطح خارجی",
+    "citation": "جزوهٔ درس، ص 12 از فایل PDF",
+    "view": "نمای خارجی استخوان کامی",
+    "fa_text": "نمای خارجی، شیار کامی بزرگ و زوائد فوقانی را نشان می‌دهد.",
+    "labels": [
+     [
+      "شیار کامی بزرگ",
+      "Greater palatine groove"
+     ],
+     [
+      "زائدهٔ چشمی",
+      "Orbital process"
+     ],
+     [
+      "زائدهٔ هرمی",
+      "Pyramidal process"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 12",
+    "max_h": 115,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -119,6 +172,32 @@
    {
     "type": "plate",
     "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p13_orbital.jpeg",
+    "title": "زائدهٔ چشمی استخوان کامی",
+    "citation": "جزوهٔ درس، ص 13 از فایل PDF",
+    "view": "نمای طرفی کاسهٔ چشم و برش رنگی",
+    "fa_text": "در تصویر جزوه، زائدهٔ چشمی کامی و سوراخ اسفنوپالاتین برچسب دارند.",
+    "labels": [
+     [
+      "زائدهٔ چشمی کامی",
+      "Orbital process of palatine bone"
+     ],
+     [
+      "کانال پتریگوئید",
+      "Pterygoid canal"
+     ],
+     [
+      "سوراخ اسفنوپالاتین",
+      "Sphenopalatine foramen"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 13",
+    "max_h": 115,
+    "fresh": true
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
     "asset": "headneck/images/hn03_lec_p15_sphenopalatine.jpeg",
     "title": "سوراخ اسفنوپالاتین",
     "citation": "جزوهٔ درس، ص 15 از فایل PDF",
@@ -139,7 +218,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 15",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -218,7 +298,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 15",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": false
    },
    {
     "type": "handoff",
@@ -273,6 +354,36 @@
    {
     "type": "plate",
     "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p13_canals.jpeg",
+    "title": "گذرگاه‌های حفرهٔ پتریگوپالاتین",
+    "citation": "جزوهٔ درس، ص 13 از فایل PDF",
+    "view": "نمای شماتیک حفره و کانال‌ها",
+    "fa_text": "نام‌های چاپ‌شده در تصویر به لاتین آناتومیک‌اند؛ مسیر کامی بزرگ و سوراخ اسفنوپالاتین را با هم مقایسه کنید.",
+    "labels": [
+     [
+      "کانال کامی بزرگ",
+      "Canalis palatinus major"
+     ],
+     [
+      "سوراخ اسفنوپالاتین",
+      "Foramen sphenopalatinum"
+     ],
+     [
+      "سوراخ گرد",
+      "Foramen rotundum"
+     ],
+     [
+      "کانال پتریگوئید",
+      "Canalis pterygoideus"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 13",
+    "max_h": 115,
+    "fresh": true
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
     "asset": "headneck/images/hn03_lec_p14_pal_posterior.jpeg",
     "title": "صفحهٔ عمودی کامی از پشت",
     "citation": "جزوهٔ درس، ص 14 از فایل PDF",
@@ -293,7 +404,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 14",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": false
    },
    {
     "type": "handoff",
@@ -352,6 +464,59 @@
    {
     "type": "plate",
     "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p16_posterior.jpeg",
+    "title": "نمای کلی خلفی جمجمه",
+    "citation": "جزوهٔ درس، ص 16 از فایل PDF",
+    "view": "نمای خلفی جمجمه",
+    "fa_text": "شکل جزوه فقط استخوان آهیانه را نام‌گذاری می‌کند؛ نام‌های دیگر راهنمای جهت‌یابی‌اند.",
+    "labels": [
+     [
+      "استخوان آهیانه",
+      "Parietal bone"
+     ],
+     [
+      "استخوان پس‌سری",
+      "Occipital bone"
+     ],
+     [
+      "درز لامبدوئید",
+      "Lambdoid suture"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 16",
+    "max_h": 115,
+    "fresh": true
+   },
+   {
+    "type": "plate",
+    "book": "grays",
+    "asset": "headneck/images/hn03_grays_p859_fig820.jpeg",
+    "title": "درزهای خلفی و برجستگی پس‌سری",
+    "citation": "گری، ویراست ۳، شکل ۸.۲۰، ص ۸۵۹",
+    "en_caption": "Posterior view of the skull",
+    "view": "نمای خلفی جمجمه",
+    "fa_text": "درزهای لامبدوئید و اکسیپیتوماستوئید و استخوان درزی را در نمای مرجع ببینید.",
+    "labels": [
+     [
+      "درز لامبدوئید",
+      "Lambdoid suture"
+     ],
+     [
+      "استخوان درزی",
+      "Sutural bone"
+     ],
+     [
+      "برجستگی پس‌سری خارجی",
+      "External occipital protuberance"
+     ]
+    ],
+    "src": "گری، ویراست ۳، شکل ۸.۲۰، ص ۸۵۹",
+    "max_h": 135,
+    "fresh": true
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
     "asset": "headneck/images/hn03_lec_p16_sutures.jpeg",
     "title": "درزهای نمای خلفی",
     "citation": "جزوهٔ درس، ص 16 از فایل PDF",
@@ -376,7 +541,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 16",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": false
    },
    {
     "type": "handoff",
@@ -436,6 +602,32 @@
    {
     "type": "plate",
     "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p16_occ_side.jpeg",
+    "title": "استخوان پس‌سری از پهلو",
+    "citation": "جزوهٔ درس، ص 16 از فایل PDF",
+    "view": "نمای جانبی استخوان پس‌سری",
+    "fa_text": "بخش صدفی، فورامن مگنوم و مجاری نزدیک کندیل را از پهلو مقایسه کنید.",
+    "labels": [
+     [
+      "بخش صدفی پس‌سری",
+      "Occipital squama"
+     ],
+     [
+      "کانال زیرزبانی",
+      "Hypoglossal canal"
+     ],
+     [
+      "فورامن مگنوم",
+      "Foramen magnum"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 16",
+    "max_h": 115,
+    "fresh": false
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
     "asset": "headneck/images/hn03_lec_p17_occ_external.jpeg",
     "title": "بخش‌های پس‌سری از خارج",
     "citation": "جزوهٔ درس، ص 17 از فایل PDF",
@@ -460,7 +652,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 17",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": false
    },
    {
     "type": "handoff",
@@ -524,6 +717,36 @@
    },
    {
     "type": "plate",
+    "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p17_occ_inferior.jpeg",
+    "title": "پس‌سری از سطح تحتانی",
+    "citation": "جزوهٔ درس، ص 17 از فایل PDF",
+    "view": "نمای تحتانی استخوان پس‌سری",
+    "fa_text": "کندیل، کانال کندیلار و تکمهٔ حلقی را نسبت به فورامن مگنوم دنبال کنید.",
+    "labels": [
+     [
+      "کندیل پس‌سری",
+      "Occipital condyle"
+     ],
+     [
+      "کانال کندیلار",
+      "Condylar canal"
+     ],
+     [
+      "تکمهٔ حلقی",
+      "Pharyngeal tubercle"
+     ],
+     [
+      "فورامن مگنوم",
+      "Foramen magnum"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 17",
+    "max_h": 115,
+    "fresh": true
+   },
+   {
+    "type": "plate",
     "book": "netter",
     "asset": "headneck/images/hn03_netter_p33_foramina.jpeg",
     "title": "سوراخ‌ها و کانال‌های قاعدهٔ جمجمه",
@@ -546,7 +769,8 @@
      ]
     ],
     "src": "نتر، ویراست ۸، پلیت ۳۳، ص ۸۵",
-    "max_h": 105
+    "max_h": 135,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -606,6 +830,59 @@
    {
     "type": "plate",
     "book": "lecture",
+    "asset": "headneck/images/hn03_lec_p18_occ_internal.jpeg",
+    "title": "بخش‌های پس‌سری و ناودان‌های سطح داخلی",
+    "citation": "جزوهٔ درس، ص 18 از فایل PDF",
+    "view": "نمای درون‌جمجمه‌ای استخوان پس‌سری",
+    "fa_text": "رنگ‌ها بخش‌های صدفی، کندیلار و قاعده‌ای را جدا می‌کنند؛ ناودان سینوس عرضی در دو طرف دیده می‌شود.",
+    "labels": [
+     [
+      "ناودان سینوس عرضی",
+      "Groove for transverse sinus"
+     ],
+     [
+      "برجستگی پس‌سری داخلی",
+      "Internal occipital protuberance"
+     ],
+     [
+      "کانال زیرزبانی",
+      "Hypoglossal canal"
+     ]
+    ],
+    "src": "جزوهٔ درس، صفحهٔ PDF 18",
+    "max_h": 115,
+    "fresh": false
+   },
+   {
+    "type": "plate",
+    "book": "grays",
+    "asset": "headneck/images/hn03_grays_p869_fig827.jpeg",
+    "title": "حفرهٔ خلفی و شیارهای وریدی",
+    "citation": "گری، ویراست ۳، شکل ۸.۲۷، ص ۸۶۹",
+    "en_caption": "Posterior cranial fossa",
+    "view": "نمای فوقانی حفرهٔ خلفی",
+    "fa_text": "شیارهای عرضی و سیگموئید و موقعیت سوراخ ژوگولار در این نما مشخص است.",
+    "labels": [
+     [
+      "شیار سینوس عرضی",
+      "Groove for transverse sinus"
+     ],
+     [
+      "شیار سینوس سیگموئید",
+      "Groove for sigmoid sinus"
+     ],
+     [
+      "سوراخ ژوگولار",
+      "Jugular foramen"
+     ]
+    ],
+    "src": "گری، ویراست ۳، شکل ۸.۲۷، ص ۸۶۹",
+    "max_h": 135,
+    "fresh": true
+   },
+   {
+    "type": "plate",
+    "book": "lecture",
     "asset": "headneck/images/hn03_lec_p19_occ_endocranial.jpeg",
     "title": "سطح داخلی استخوان پس‌سری",
     "citation": "جزوهٔ درس، ص 19 از فایل PDF",
@@ -630,7 +907,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 19",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": true
    },
    {
     "type": "handoff",
@@ -709,7 +987,8 @@
      ]
     ],
     "src": "جزوهٔ درس، صفحهٔ PDF 20",
-    "max_h": 90
+    "max_h": 115,
+    "fresh": false
    },
    {
     "type": "callout",
