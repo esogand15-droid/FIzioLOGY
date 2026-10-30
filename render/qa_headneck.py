@@ -165,17 +165,15 @@ def fa_n(n: int | str) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--session", default="s01", choices=sorted(SESSIONS))
+    ap.add_argument("--pdf", help="PDF to check instead of the published session PDF")
+    ap.add_argument("--report", help="report output path")
     args = ap.parse_args()
     session = args.session
-    cfg = SESSIONS[session]
-    if session in ("hn01", "hn02"):
-        # The old JSON gates do not apply to page-preserving editions.
-        sys.path.insert(0, str(REPO / "headneck" / "scripts"))
-        import build_hn_verbatim as V
-        mapping = V.expected_mapping(session)
-        V.verify(session, cfg["pdf"], mapping)
-        return 0
-
+    cfg = dict(SESSIONS[session])
+    if args.pdf:
+        cfg["pdf"] = Path(args.pdf).resolve()
+    if args.report:
+        cfg["report"] = Path(args.report).resolve()
     outline = json.loads((CONTENT_DIR / "outline" / cfg["outline"]).read_text(encoding="utf-8"))
     topics = {t["topic_id"]: t for t in outline["topics"]}
     content: dict[str, list] = {}
@@ -470,7 +468,11 @@ def main() -> int:
     report.parent.mkdir(exist_ok=True)
     report.write_text("\n".join(lines), encoding="utf-8")
 
-    print(f"report: {report.relative_to(REPO)}")
+    try:
+        display_report = report.relative_to(REPO)
+    except ValueError:
+        display_report = report
+    print(f"report: {display_report}")
     print(f"blocks={block_total} plates={len(plates)} embedded={embedded} "
           f"pages={len(pdf)} fa={fa_chars} latin={latin_chars} "
           f"problems={len(problems)} warnings={len(warnings)}")
