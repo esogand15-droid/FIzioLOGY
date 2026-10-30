@@ -11,8 +11,8 @@ from __future__ import annotations
 
 from pathlib import Path
 
-SRC = Path("/tmp/hn")
-LEC1 = SRC / "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf"
+SRC = Path(__file__).resolve().parents[2]
+LEC1 = SRC / "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf"
 
 # asset_id: (book, source, page, bbox, note)
 FIGURES: dict[str, tuple] = {
@@ -31,7 +31,7 @@ FIGURES: dict[str, tuple] = {
                             "جزوهٔ درس، ص ۵ — استخوان‌های صورت در نمای قدامی و قاعده"),
     "hn01_lec_p05_hyoid": ("lecture", LEC1, 5, (76, 494, 372, 656),
                            "جزوهٔ درس، ص ۵ — هیوئید از نمای قدامی و تحتانی"),
-    "hn01_lec_p05_hyoidneck": ("lecture", LEC1, 5, (94, 596, 556, 724),
+    "hn01_lec_p05_hyoidneck": ("lecture", LEC1, 5, (225, 500, 368, 655),
                                "جزوهٔ درس، ص ۵ — جای هیوئید در گردن، مقابل مهرهٔ C3"),
     # ── ص ۶ — سه تقسیم cranium ───────────────────────────────────────────────
     "hn01_lec_p06_roofbase": ("lecture", LEC1, 6, (55, 91, 256, 354),
@@ -102,5 +102,5 @@ FIGURES: dict[str, tuple] = {
     "hn01_lec_p21_gold": ("lecture", LEC1, 21, (2, 533, 614, 676),
                           "جزوهٔ درس، ص ۲۱ — کادر جمع‌بندی طلایی پایان جزوه"),
     "hn01_lec_p22_section": ("lecture", LEC1, 22, (0, 396, 568, 791),
-                             "جزوهٔ درس، ص ۲۲ — برش افقی جمجمه از اطلس نتر"),
+                             "جزوهٔ درس، ص ۲۲ — برش پیشانی جمجمه از اطلس نتر"),
 }

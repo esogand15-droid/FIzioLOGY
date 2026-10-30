@@ -194,19 +194,19 @@
    "asset_id": "hn01_lec_p05_hyoidneck",
    "book": "lecture",
    "session": "hn01",
-   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "source_file": "جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
    "page": 5,
    "note": "جزوهٔ درس، ص ۵ — جای هیوئید در گردن، مقابل مهرهٔ C3",
    "bbox": [
-    94.0,
-    596.0,
-    556.0,
-    724.0
+    225.0,
+    500.0,
+    368.0,
+    655.0
    ],
-   "w": 1284,
-   "h": 357,
-   "px": 458388,
-   "bytes": 40439,
+   "w": 398,
+   "h": 432,
+   "px": 171936,
+   "bytes": 18015,
    "path": "headneck/images/hn01_lec_p05_hyoidneck.jpeg"
   },
   {
@@ -823,7 +823,7 @@
    "session": "hn01",
    "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
    "page": 22,
-   "note": "جزوهٔ درس، ص ۲۲ — برش افقی جمجمه از اطلس نتر",
+   "note": "جزوهٔ درس، ص ۲۲ — برش پیشانی سر",
    "bbox": [
     0.0,
     396.0,
@@ -1532,7 +1532,7 @@
    "session": "hn02",
    "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
    "page": 25,
-   "note": "جزوهٔ درس، ص ۲۵ — زائدهٔ استایلوئید و سوراخ استایلومastوئید",
+   "note": "جزوهٔ درس، ص ۲۵ — استخوان آهیانه از نمای فوقانی و طرفی",
    "bbox": [
     31.0,
     508.0,
@@ -1608,7 +1608,7 @@
    "session": "hn02",
    "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
    "page": 29,
-   "note": "جزوهٔ درس، ص ۲۹ — جمجمهٔ نوزاد از نمای فوقانی",
+   "note": "جزوهٔ درس، ص ۲۹ — جمجمه و درزها از نمای فوقانی",
    "bbox": [
     0.0,
     66.0,
@@ -1945,6 +1945,82 @@
    "path": "headneck/images/hn02_netter_p42.jpeg"
   },
   {
+   "asset_id": "hn03_grays_p859_fig820",
+   "book": "grays",
+   "session": "hn03",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 87,
+   "printed_page": 859,
+   "figure": "8.20",
+   "bbox": [
+    50,
+    295,
+    570,
+    725
+   ],
+   "w": 1300,
+   "h": 1076,
+   "bytes": 156977,
+   "path": "headneck/images/hn03_grays_p859_fig820.jpeg"
+  },
+  {
+   "asset_id": "hn03_grays_p862_fig823",
+   "book": "grays",
+   "session": "hn03",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 90,
+   "printed_page": 862,
+   "figure": "8.23",
+   "bbox": [
+    55,
+    55,
+    565,
+    585
+   ],
+   "w": 1276,
+   "h": 1326,
+   "bytes": 335284,
+   "path": "headneck/images/hn03_grays_p862_fig823.jpeg"
+  },
+  {
+   "asset_id": "hn03_grays_p867_fig826",
+   "book": "grays",
+   "session": "hn03",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 95,
+   "printed_page": 867,
+   "figure": "8.26",
+   "bbox": [
+    50,
+    460,
+    565,
+    725
+   ],
+   "w": 1288,
+   "h": 663,
+   "bytes": 140199,
+   "path": "headneck/images/hn03_grays_p867_fig826.jpeg"
+  },
+  {
+   "asset_id": "hn03_grays_p869_fig827",
+   "book": "grays",
+   "session": "hn03",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 97,
+   "printed_page": 869,
+   "figure": "8.27",
+   "bbox": [
+    50,
+    55,
+    565,
+    330
+   ],
+   "w": 1288,
+   "h": 688,
+   "bytes": 131594,
+   "path": "headneck/images/hn03_grays_p869_fig827.jpeg"
+  },
+  {
    "asset_id": "hn03_lec_p02_location",
    "book": "lecture",
    "session": "hn03",
@@ -1962,23 +2038,6 @@
    "path": "headneck/images/hn03_lec_p02_location.jpeg"
   },
   {
-   "asset_id": "hn03_lec_p03_skull_sections",
-   "book": "lecture",
-   "session": "hn03",
-   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
-   "page": 3,
-   "bbox": [
-    28.45,
-    36.0,
-    365.8,
-    324.8
-   ],
-   "w": 1029,
-   "h": 884,
-   "bytes": 90948,
-   "path": "headneck/images/hn03_lec_p03_skull_sections.jpeg"
-  },
-  {
    "asset_id": "hn03_lec_p03_anterior",
    "book": "lecture",
    "session": "hn03",
@@ -1994,6 +2053,23 @@
    "h": 500,
    "bytes": 56209,
    "path": "headneck/images/hn03_lec_p03_anterior.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p03_skull_sections",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "bbox": [
+    28.45,
+    36.0,
+    365.8,
+    324.8
+   ],
+   "w": 1029,
+   "h": 884,
+   "bytes": 90948,
+   "path": "headneck/images/hn03_lec_p03_skull_sections.jpeg"
   },
   {
    "asset_id": "hn03_lec_p05_posterior",
@@ -2081,23 +2157,6 @@
    "path": "headneck/images/hn03_lec_p10_pterion_vessels.jpeg"
   },
   {
-   "asset_id": "hn03_lec_p11_surface",
-   "book": "lecture",
-   "session": "hn03",
-   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
-   "page": 11,
-   "bbox": [
-    35.8,
-    357.67,
-    558.6,
-    604.87
-   ],
-   "w": 1849,
-   "h": 686,
-   "bytes": 103579,
-   "path": "headneck/images/hn03_lec_p11_surface.jpeg"
-  },
-  {
    "asset_id": "hn03_lec_p11_infratemporal",
    "book": "lecture",
    "session": "hn03",
@@ -2115,21 +2174,21 @@
    "path": "headneck/images/hn03_lec_p11_infratemporal.jpeg"
   },
   {
-   "asset_id": "hn03_lec_p12_pal_medial",
+   "asset_id": "hn03_lec_p11_surface",
    "book": "lecture",
    "session": "hn03",
    "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
-   "page": 12,
+   "page": 11,
    "bbox": [
-    0.0,
-    281.68,
-    306.96,
-    488.88
+    35.8,
+    357.67,
+    558.6,
+    604.87
    ],
-   "w": 940,
-   "h": 634,
-   "bytes": 62276,
-   "path": "headneck/images/hn03_lec_p12_pal_medial.jpeg"
+   "w": 1849,
+   "h": 686,
+   "bytes": 103579,
+   "path": "headneck/images/hn03_lec_p11_surface.jpeg"
   },
   {
    "asset_id": "hn03_lec_p12_context",
@@ -2164,6 +2223,23 @@
    "h": 627,
    "bytes": 56892,
    "path": "headneck/images/hn03_lec_p12_pal_lateral.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p12_pal_medial",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 12,
+   "bbox": [
+    0.0,
+    281.68,
+    306.96,
+    488.88
+   ],
+   "w": 940,
+   "h": 634,
+   "bytes": 62276,
+   "path": "headneck/images/hn03_lec_p12_pal_medial.jpeg"
   },
   {
    "asset_id": "hn03_lec_p13_canals",
@@ -2251,6 +2327,23 @@
    "path": "headneck/images/hn03_lec_p15_sphenopalatine.jpeg"
   },
   {
+   "asset_id": "hn03_lec_p16_occ_side",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "bbox": [
+    32.15,
+    388.56,
+    198.7,
+    538.66
+   ],
+   "w": 509,
+   "h": 459,
+   "bytes": 22254,
+   "path": "headneck/images/hn03_lec_p16_occ_side.jpeg"
+  },
+  {
    "asset_id": "hn03_lec_p16_posterior",
    "book": "lecture",
    "session": "hn03",
@@ -2283,23 +2376,6 @@
    "h": 479,
    "bytes": 32550,
    "path": "headneck/images/hn03_lec_p16_sutures.jpeg"
-  },
-  {
-   "asset_id": "hn03_lec_p16_occ_side",
-   "book": "lecture",
-   "session": "hn03",
-   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
-   "page": 16,
-   "bbox": [
-    32.15,
-    388.56,
-    198.7,
-    538.66
-   ],
-   "w": 509,
-   "h": 459,
-   "bytes": 22254,
-   "path": "headneck/images/hn03_lec_p16_occ_side.jpeg"
   },
   {
    "asset_id": "hn03_lec_p17_occ_external",
@@ -2387,6 +2463,24 @@
    "path": "headneck/images/hn03_lec_p20_venous.jpeg"
   },
   {
+   "asset_id": "hn03_netter_p27_infratemporal",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 79,
+   "plate": 27,
+   "bbox": [
+    42,
+    500,
+    600,
+    750
+   ],
+   "w": 1395,
+   "h": 625,
+   "bytes": 163876,
+   "path": "headneck/images/hn03_netter_p27_infratemporal.jpeg"
+  },
+  {
    "asset_id": "hn03_netter_p29_nasal",
    "book": "netter",
    "session": "hn03",
@@ -2423,24 +2517,6 @@
    "path": "headneck/images/hn03_netter_p33_foramina.jpeg"
   },
   {
-   "asset_id": "hn03_netter_p27_infratemporal",
-   "book": "netter",
-   "session": "hn03",
-   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
-   "page": 79,
-   "plate": 27,
-   "bbox": [
-    42,
-    500,
-    600,
-    750
-   ],
-   "w": 1395,
-   "h": 625,
-   "bytes": 163876,
-   "path": "headneck/images/hn03_netter_p27_infratemporal.jpeg"
-  },
-  {
    "asset_id": "hn03_netter_p34_foramina_superior",
    "book": "netter",
    "session": "hn03",
@@ -2457,82 +2533,6 @@
    "h": 516,
    "bytes": 153914,
    "path": "headneck/images/hn03_netter_p34_foramina_superior.jpeg"
-  },
-  {
-   "asset_id": "hn03_grays_p859_fig820",
-   "book": "grays",
-   "session": "hn03",
-   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
-   "page": 87,
-   "printed_page": 859,
-   "figure": "8.20",
-   "bbox": [
-    50,
-    295,
-    570,
-    725
-   ],
-   "w": 1300,
-   "h": 1076,
-   "bytes": 156977,
-   "path": "headneck/images/hn03_grays_p859_fig820.jpeg"
-  },
-  {
-   "asset_id": "hn03_grays_p862_fig823",
-   "book": "grays",
-   "session": "hn03",
-   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
-   "page": 90,
-   "printed_page": 862,
-   "figure": "8.23",
-   "bbox": [
-    55,
-    55,
-    565,
-    585
-   ],
-   "w": 1276,
-   "h": 1326,
-   "bytes": 335284,
-   "path": "headneck/images/hn03_grays_p862_fig823.jpeg"
-  },
-  {
-   "asset_id": "hn03_grays_p867_fig826",
-   "book": "grays",
-   "session": "hn03",
-   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
-   "page": 95,
-   "printed_page": 867,
-   "figure": "8.26",
-   "bbox": [
-    50,
-    460,
-    565,
-    725
-   ],
-   "w": 1288,
-   "h": 663,
-   "bytes": 140199,
-   "path": "headneck/images/hn03_grays_p867_fig826.jpeg"
-  },
-  {
-   "asset_id": "hn03_grays_p869_fig827",
-   "book": "grays",
-   "session": "hn03",
-   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
-   "page": 97,
-   "printed_page": 869,
-   "figure": "8.27",
-   "bbox": [
-    50,
-    55,
-    565,
-    330
-   ],
-   "w": 1288,
-   "h": 688,
-   "bytes": 131594,
-   "path": "headneck/images/hn03_grays_p869_fig827.jpeg"
   }
  ]
 }
