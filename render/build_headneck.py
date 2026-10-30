@@ -117,19 +117,20 @@ HN_SESSIONS = {
     ),
     "hn05": dict(
         num="۵", n=5, of="۱۳",
-        title="ستون مهره‌های گردنی",
-        cover_title=["آناتومی سر و گردن", "جلسهٔ ۵ — ستون مهره‌های گردنی"],
-        cover_topic="اطلس و اکسیس، مهره‌های گردنی، مفاصل و لیگامان‌ها",
-        divider_title="گردن استخوانی",
+        title="گردن: مهره‌ها، فاسیاها و فضاها",
+        cover_title=["آناتومی سر و گردن", "جلسهٔ ۵ — گردن"],
+        cover_topic="مهره‌های گردنی، مفاصل، فاسیاها، فضاها و استخوان لامی",
+        divider_title="از مهره تا فاسیا",
         divider_sub="جزوهٔ درس · نتر · گری",
         lecture="جزوهٔ درس (جلسهٔ ۵) — مهر ۱۴۰۴",
         pages_label="صفحه‌های ۱–۴۵",
         outline="hn05_topics.json",
         content=("hn05_a.json", "hn05_b.json"),
         anchor="hn-05",
+        measure_idcard=True,
         pdf_name="HumsYar_HeadNeck_Jalase5.pdf",
-        outcome="",
-        intro_sources="نتر، سر و گردن (پلیت ۲۲–۱۷۷) · گری، فصل ۸",
+        outcome="مهره‌های گردنی، مفاصل و رباط‌ها، فاسیاها و فضاهای گردن و استخوان لامی را بشناسید.",
+        intro_sources="جزوهٔ جلسهٔ ۵ · نتر، پلیت‌های ۴۳، ۴۴ و ۴۷ · گری، شکل‌های ۸.۱۵۸ و ۸.۱۵۹",
         next_topics=[],
     ),
     "hn06": dict(
@@ -646,6 +647,10 @@ def render_blocks(book: PDFBook, blocks) -> None:
                 book.source_line(b["src"])
             book.spacer(2)
         elif kind == "plate":
+            # Optional minimum preserves readable figures instead of shrinking
+            # them into the last available space on a nearly full page.
+            if b.get("min_img_h"):
+                book.ensure(b["min_img_h"] * MM + 130)
             # a tall, narrow figure would be shrunk into whatever room is left
             # and become unreadable; such plates declare ``fresh`` and start a
             # page of their own so the figure keeps its full size.

@@ -3345,6 +3345,1009 @@
    "h": 529,
    "bytes": 22767,
    "path": "headneck/images/hn04_p2_lefort3.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p02_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 2,
+   "bbox": [
+    34.0,
+    36.0,
+    365.0,
+    339.0
+   ],
+   "w": 662,
+   "h": 606,
+   "bytes": 80702,
+   "path": "headneck/images/hn05_lecture_p02_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p02_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 2,
+   "bbox": [
+    34.0,
+    375.0,
+    339.0,
+    631.0
+   ],
+   "w": 610,
+   "h": 512,
+   "bytes": 45368,
+   "path": "headneck/images/hn05_lecture_p02_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p04_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "bbox": [
+    36.0,
+    531.94,
+    573.0,
+    715.94
+   ],
+   "w": 693,
+   "h": 237,
+   "bytes": 47251,
+   "path": "headneck/images/hn05_lecture_p04_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p06_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 6,
+   "bbox": [
+    36.0,
+    366.22,
+    576.0,
+    625.22
+   ],
+   "w": 1023,
+   "h": 491,
+   "bytes": 87324,
+   "path": "headneck/images/hn05_lecture_p06_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p08_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 8,
+   "bbox": [
+    0.0,
+    255.48,
+    294.6,
+    503.83
+   ],
+   "w": 392,
+   "h": 330,
+   "bytes": 26045,
+   "path": "headneck/images/hn05_lecture_p08_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p09_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "bbox": [
+    36.0,
+    78.0,
+    573.0,
+    246.0
+   ],
+   "w": 1009,
+   "h": 316,
+   "bytes": 59257,
+   "path": "headneck/images/hn05_lecture_p09_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p09_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "bbox": [
+    36.0,
+    392.0,
+    291.6,
+    602.0
+   ],
+   "w": 382,
+   "h": 314,
+   "bytes": 20044,
+   "path": "headneck/images/hn05_lecture_p09_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p10_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 10,
+   "bbox": [
+    104.4,
+    121.35,
+    576.0,
+    409.95
+   ],
+   "w": 631,
+   "h": 386,
+   "bytes": 66659,
+   "path": "headneck/images/hn05_lecture_p10_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p11_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "bbox": [
+    36.0,
+    106.02,
+    563.0,
+    348.02
+   ],
+   "w": 1005,
+   "h": 461,
+   "bytes": 76151,
+   "path": "headneck/images/hn05_lecture_p11_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p11_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "bbox": [
+    36.0,
+    492.76,
+    576.0,
+    755.76
+   ],
+   "w": 1014,
+   "h": 494,
+   "bytes": 111877,
+   "path": "headneck/images/hn05_lecture_p11_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p12_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 12,
+   "bbox": [
+    36.0,
+    389.0,
+    317.3,
+    612.2
+   ],
+   "w": 486,
+   "h": 386,
+   "bytes": 31783,
+   "path": "headneck/images/hn05_lecture_p12_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p13_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "bbox": [
+    39.0,
+    36.0,
+    239.7,
+    152.45
+   ],
+   "w": 267,
+   "h": 155,
+   "bytes": 10259,
+   "path": "headneck/images/hn05_lecture_p13_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p13_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "bbox": [
+    36.0,
+    172.02,
+    252.55,
+    338.37
+   ],
+   "w": 288,
+   "h": 221,
+   "bytes": 10114,
+   "path": "headneck/images/hn05_lecture_p13_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p14_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "bbox": [
+    33.0,
+    96.0,
+    576.0,
+    385.85
+   ],
+   "w": 723,
+   "h": 386,
+   "bytes": 44442,
+   "path": "headneck/images/hn05_lecture_p14_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p15_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    27.0,
+    36.0,
+    335.3,
+    274.8
+   ],
+   "w": 411,
+   "h": 318,
+   "bytes": 27253,
+   "path": "headneck/images/hn05_lecture_p15_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p15_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    0.0,
+    322.52,
+    363.75,
+    659.12
+   ],
+   "w": 484,
+   "h": 448,
+   "bytes": 54908,
+   "path": "headneck/images/hn05_lecture_p15_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p16_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "bbox": [
+    108.0,
+    62.4,
+    576.0,
+    315.55
+   ],
+   "w": 623,
+   "h": 337,
+   "bytes": 41601,
+   "path": "headneck/images/hn05_lecture_p16_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p17_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "bbox": [
+    37.5,
+    67.8,
+    574.5,
+    401.45
+   ],
+   "w": 874,
+   "h": 543,
+   "bytes": 110780,
+   "path": "headneck/images/hn05_lecture_p17_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p17_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "bbox": [
+    0.0,
+    418.0,
+    306.0,
+    686.75
+   ],
+   "w": 407,
+   "h": 357,
+   "bytes": 43238,
+   "path": "headneck/images/hn05_lecture_p17_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p18_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "bbox": [
+    16.2,
+    145.1,
+    532.8,
+    420.95
+   ],
+   "w": 1060,
+   "h": 566,
+   "bytes": 67165,
+   "path": "headneck/images/hn05_lecture_p18_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p19_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "bbox": [
+    67.5,
+    77.25,
+    530.25,
+    382.5
+   ],
+   "w": 775,
+   "h": 511,
+   "bytes": 55685,
+   "path": "headneck/images/hn05_lecture_p19_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p20_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "bbox": [
+    40.8,
+    75.05,
+    508.8,
+    509.45
+   ],
+   "w": 752,
+   "h": 698,
+   "bytes": 58385,
+   "path": "headneck/images/hn05_lecture_p20_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p21_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 21,
+   "bbox": [
+    36.0,
+    79.2,
+    504.0,
+    346.25
+   ],
+   "w": 623,
+   "h": 355,
+   "bytes": 53573,
+   "path": "headneck/images/hn05_lecture_p21_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p21_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 21,
+   "bbox": [
+    36.0,
+    530.57,
+    572.55,
+    755.07
+   ],
+   "w": 708,
+   "h": 296,
+   "bytes": 27607,
+   "path": "headneck/images/hn05_lecture_p21_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p22_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 22,
+   "bbox": [
+    35.1,
+    372.85,
+    572.35,
+    671.95
+   ],
+   "w": 754,
+   "h": 420,
+   "bytes": 77889,
+   "path": "headneck/images/hn05_lecture_p22_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p23_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 23,
+   "bbox": [
+    35.8,
+    206.14,
+    513.55,
+    552.94
+   ],
+   "w": 636,
+   "h": 462,
+   "bytes": 48605,
+   "path": "headneck/images/hn05_lecture_p23_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p24_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 24,
+   "bbox": [
+    28.25,
+    212.53,
+    254.2,
+    383.53
+   ],
+   "w": 301,
+   "h": 228,
+   "bytes": 11565,
+   "path": "headneck/images/hn05_lecture_p24_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p24_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 24,
+   "bbox": [
+    35.95,
+    462.87,
+    298.7,
+    733.47
+   ],
+   "w": 350,
+   "h": 360,
+   "bytes": 27908,
+   "path": "headneck/images/hn05_lecture_p24_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p25_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 25,
+   "bbox": [
+    36.0,
+    57.4,
+    272.95,
+    382.0
+   ],
+   "w": 315,
+   "h": 432,
+   "bytes": 28483,
+   "path": "headneck/images/hn05_lecture_p25_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p26_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 26,
+   "bbox": [
+    89.4,
+    111.9,
+    450.6,
+    429.65
+   ],
+   "w": 481,
+   "h": 423,
+   "bytes": 36392,
+   "path": "headneck/images/hn05_lecture_p26_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p27_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 27,
+   "bbox": [
+    85.8,
+    76.2,
+    478.2,
+    403.2
+   ],
+   "w": 523,
+   "h": 436,
+   "bytes": 81137,
+   "path": "headneck/images/hn05_lecture_p27_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p28_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 28,
+   "bbox": [
+    36.0,
+    112.27,
+    576.0,
+    617.47
+   ],
+   "w": 940,
+   "h": 879,
+   "bytes": 224752,
+   "path": "headneck/images/hn05_lecture_p28_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p29_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 29,
+   "bbox": [
+    39.6,
+    85.8,
+    469.2,
+    458.55
+   ],
+   "w": 572,
+   "h": 496,
+   "bytes": 49246,
+   "path": "headneck/images/hn05_lecture_p29_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p30_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 30,
+   "bbox": [
+    24.6,
+    114.26,
+    610.2,
+    489.21
+   ],
+   "w": 742,
+   "h": 475,
+   "bytes": 110494,
+   "path": "headneck/images/hn05_lecture_p30_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p31_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 31,
+   "bbox": [
+    40.2,
+    240.56,
+    529.8,
+    622.96
+   ],
+   "w": 699,
+   "h": 546,
+   "bytes": 72144,
+   "path": "headneck/images/hn05_lecture_p31_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p32_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 32,
+   "bbox": [
+    104.6,
+    36.0,
+    576.0,
+    325.18
+   ],
+   "w": 628,
+   "h": 385,
+   "bytes": 28540,
+   "path": "headneck/images/hn05_lecture_p32_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p33_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 33,
+   "bbox": [
+    18.95,
+    71.85,
+    576.0,
+    371.25
+   ],
+   "w": 742,
+   "h": 399,
+   "bytes": 97856,
+   "path": "headneck/images/hn05_lecture_p33_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p34_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 34,
+   "bbox": [
+    0.0,
+    69.1,
+    572.4,
+    414.65
+   ],
+   "w": 763,
+   "h": 461,
+   "bytes": 83208,
+   "path": "headneck/images/hn05_lecture_p34_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p35_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 35,
+   "bbox": [
+    13.5,
+    68.8,
+    611.85,
+    421.0
+   ],
+   "w": 742,
+   "h": 437,
+   "bytes": 103877,
+   "path": "headneck/images/hn05_lecture_p35_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p36_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 36,
+   "bbox": [
+    36.0,
+    70.95,
+    558.6,
+    400.35
+   ],
+   "w": 696,
+   "h": 439,
+   "bytes": 41940,
+   "path": "headneck/images/hn05_lecture_p36_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p36_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 36,
+   "bbox": [
+    30.85,
+    533.1,
+    358.15,
+    736.05
+   ],
+   "w": 436,
+   "h": 270,
+   "bytes": 18535,
+   "path": "headneck/images/hn05_lecture_p36_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p37_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 37,
+   "bbox": [
+    13.5,
+    73.85,
+    611.85,
+    426.05
+   ],
+   "w": 742,
+   "h": 437,
+   "bytes": 103877,
+   "path": "headneck/images/hn05_lecture_p37_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p37_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 37,
+   "bbox": [
+    36.0,
+    437.82,
+    382.2,
+    689.82
+   ],
+   "w": 461,
+   "h": 336,
+   "bytes": 31731,
+   "path": "headneck/images/hn05_lecture_p37_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p38_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 38,
+   "bbox": [
+    14.7,
+    438.65,
+    579.3,
+    752.6
+   ],
+   "w": 742,
+   "h": 413,
+   "bytes": 99948,
+   "path": "headneck/images/hn05_lecture_p38_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p38_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 38,
+   "bbox": [
+    36.0,
+    78.85,
+    569.95,
+    326.55
+   ],
+   "w": 711,
+   "h": 330,
+   "bytes": 44814,
+   "path": "headneck/images/hn05_lecture_p38_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p39_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 39,
+   "bbox": [
+    55.2,
+    78.65,
+    576.0,
+    367.2
+   ],
+   "w": 694,
+   "h": 385,
+   "bytes": 60406,
+   "path": "headneck/images/hn05_lecture_p39_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p39_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 39,
+   "bbox": [
+    15.0,
+    438.36,
+    481.2,
+    666.66
+   ],
+   "w": 621,
+   "h": 304,
+   "bytes": 27882,
+   "path": "headneck/images/hn05_lecture_p39_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p40_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 40,
+   "bbox": [
+    91.8,
+    118.8,
+    447.6,
+    366.9
+   ],
+   "w": 716,
+   "h": 499,
+   "bytes": 69512,
+   "path": "headneck/images/hn05_lecture_p40_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p40_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 40,
+   "bbox": [
+    0.0,
+    440.31,
+    400.35,
+    656.31
+   ],
+   "w": 758,
+   "h": 409,
+   "bytes": 73946,
+   "path": "headneck/images/hn05_lecture_p40_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p42_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 42,
+   "bbox": [
+    40.25,
+    70.25,
+    494.5,
+    289.75
+   ],
+   "w": 605,
+   "h": 292,
+   "bytes": 39352,
+   "path": "headneck/images/hn05_lecture_p42_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p42_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 42,
+   "bbox": [
+    49.7,
+    362.56,
+    556.15,
+    635.71
+   ],
+   "w": 675,
+   "h": 364,
+   "bytes": 49828,
+   "path": "headneck/images/hn05_lecture_p42_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p43_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 43,
+   "bbox": [
+    14.25,
+    326.5,
+    597.1,
+    669.65
+   ],
+   "w": 932,
+   "h": 549,
+   "bytes": 105106,
+   "path": "headneck/images/hn05_lecture_p43_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p44_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 44,
+   "bbox": [
+    36.0,
+    74.55,
+    587.1,
+    403.67
+   ],
+   "w": 973,
+   "h": 581,
+   "bytes": 107504,
+   "path": "headneck/images/hn05_lecture_p44_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p45_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 45,
+   "bbox": [
+    108.0,
+    155.64,
+    576.0,
+    447.29
+   ],
+   "w": 623,
+   "h": 388,
+   "bytes": 51388,
+   "path": "headneck/images/hn05_lecture_p45_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_netter_vertebrae",
+   "book": "netter",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 96,
+   "bbox": [
+    40,
+    65,
+    580,
+    365
+   ],
+   "w": 1080,
+   "h": 600,
+   "bytes": 134978,
+   "path": "headneck/images/hn05_netter_vertebrae.jpeg"
+  },
+  {
+   "asset_id": "hn05_netter_atlas_axis",
+   "book": "netter",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 95,
+   "bbox": [
+    45,
+    60,
+    580,
+    292
+   ],
+   "w": 1070,
+   "h": 464,
+   "bytes": 104601,
+   "path": "headneck/images/hn05_netter_atlas_axis.jpeg"
+  },
+  {
+   "asset_id": "hn05_netter_ligaments",
+   "book": "netter",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 99,
+   "bbox": [
+    35,
+    65,
+    590,
+    445
+   ],
+   "w": 1110,
+   "h": 760,
+   "bytes": 214012,
+   "path": "headneck/images/hn05_netter_ligaments.jpeg"
+  },
+  {
+   "asset_id": "hn05_grays_fascia",
+   "book": "grays",
+   "session": "hn05",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 29,
+   "bbox": [
+    75,
+    455,
+    545,
+    650
+   ],
+   "w": 940,
+   "h": 390,
+   "bytes": 82462,
+   "path": "headneck/images/hn05_grays_fascia.jpeg"
+  },
+  {
+   "asset_id": "hn05_grays_spaces",
+   "book": "grays",
+   "session": "hn05",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 30,
+   "bbox": [
+    90,
+    510,
+    550,
+    720
+   ],
+   "w": 920,
+   "h": 420,
+   "bytes": 86144,
+   "path": "headneck/images/hn05_grays_spaces.jpeg"
   }
  ]
 }
