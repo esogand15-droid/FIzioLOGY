@@ -843,9 +843,15 @@ def drop_trailing_blank_page(path: Path) -> int | None:
     if has_text or has_images:
         return len(reader.pages)
     writer = PdfWriter()
+    # Keep a NUL in an early PDF comment as well as the standard binary marker.
+    # Some patch/snapshot systems otherwise mistake ASCII85-heavy PDFs for text
+    # and transcode bytes, corrupting font streams and xref offsets. The comment
+    # is harmless to PDF readers; pypdf writes correct offsets after the header.
     for page in reader.pages[:-1]:
         writer.add_page(page)
     writer.add_metadata(reader.metadata or {})
+    # add_page may adopt the source header, so set this only after adding pages.
+    writer.pdf_header = "%PDF-1.4\n%binary\x00"
     with path.open("wb") as fh:
         writer.write(fh)
     return len(writer.pages)
