@@ -140,9 +140,33 @@ def export(only: set[str] | None = None, session: str | None = None) -> list[dic
         doc = cache[key]
         page = doc[page_no - 1]
         box = _netter_box(page) if bbox is None else pymupdf.Rect(bbox)
-        pix = page.get_pixmap(dpi=DPI, clip=box)
         name = f"{asset_id}.jpeg"
-        if asset_id in TRIM:
+        if asset_id == "hn02_lec_p08_outer":
+            # Page rendering also captures the adjacent paragraph and border.
+            # Preserve the complete original figure using its PDF soft mask.
+            from PIL import Image
+            images = [im for im in page.get_images(full=True)
+                      if im[2:4] == (646, 551) and im[1]]
+            if len(images) != 1:
+                raise ValueError(f"Expected one masked page-8 figure, got {len(images)}")
+            xref, mask = images[0][:2]
+            base = pymupdf.Pixmap(doc, xref)
+            mask_pix = pymupdf.Pixmap(doc, mask)
+            im = Image.frombytes("RGBA" if base.alpha else "RGB",
+                                 (base.width, base.height), base.samples).convert("RGB")
+            alpha = Image.frombytes("L", (mask_pix.width, mask_pix.height), mask_pix.samples)
+            bg = Image.new("RGB", im.size, "white")
+            bg.paste(im, mask=alpha)
+            # The source mask includes a dark page-edge fragment, not the figure.
+            bg = bg.crop((34, 0, bg.width, bg.height))
+            bg.save(OUT / name, quality=95)
+            pix = pymupdf.Pixmap(OUT / name)
+            box = page.get_image_rects(xref)[0]
+        else:
+            pix = page.get_pixmap(dpi=DPI, clip=box)
+        if asset_id == "hn02_lec_p08_outer":
+            pass  # already saved with its soft mask composited on white
+        elif asset_id in TRIM:
             from PIL import Image, ImageDraw
             import io as _io
             im = Image.open(_io.BytesIO(pix.tobytes("png"))).convert("RGB")

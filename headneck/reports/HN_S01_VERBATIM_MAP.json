@@ -1,0 +1,91 @@
+{
+  "session": "hn01",
+  "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+  "source_pages": {
+    "1": 3,
+    "2": 4,
+    "3": 5,
+    "4": 6,
+    "5": 7,
+    "6": 8,
+    "7": 11,
+    "8": 14,
+    "9": 16,
+    "10": 18,
+    "11": 20,
+    "12": 22,
+    "13": 23,
+    "14": 24,
+    "15": 25,
+    "16": 26,
+    "17": 27,
+    "18": 29,
+    "19": 30,
+    "20": 32,
+    "21": 33,
+    "22": 34
+  },
+  "references": [
+    {
+      "asset": "hn01_netter_p30.jpeg",
+      "after_source_page": 6,
+      "output_page": 9,
+      "citation": "نتر، ویراست ۸، پلیت ۳۰، صفحهٔ PDF ۸۲"
+    },
+    {
+      "asset": "hn02_grays_p860.jpeg",
+      "after_source_page": 6,
+      "output_page": 10,
+      "citation": "گری، ویراست ۳، شکل ۸.۲۱، صفحهٔ چاپی ۸۶۰"
+    },
+    {
+      "asset": "hn01_netter_p32.jpeg",
+      "after_source_page": 7,
+      "output_page": 12,
+      "citation": "نتر، ویراست ۸، پلیت ۳۲، صفحهٔ PDF ۸۴"
+    },
+    {
+      "asset": "hn01_grays_p857.jpeg",
+      "after_source_page": 7,
+      "output_page": 13,
+      "citation": "گری، ویراست ۳، شکل ۸.۱۹، صفحهٔ چاپی ۸۵۷"
+    },
+    {
+      "asset": "hn01_grays_p855.jpeg",
+      "after_source_page": 8,
+      "output_page": 15,
+      "citation": "گری، ویراست ۳، شکل ۸.۱۸، صفحهٔ چاپی ۸۵۵"
+    },
+    {
+      "asset": "hn01_netter_p25.jpeg",
+      "after_source_page": 9,
+      "output_page": 17,
+      "citation": "نتر، ویراست ۸، پلیت ۲۵، صفحهٔ PDF ۷۷"
+    },
+    {
+      "asset": "hn01_grays_p927.jpeg",
+      "after_source_page": 10,
+      "output_page": 19,
+      "citation": "گری، ویراست ۳، شکل ۸.۷۳، صفحهٔ چاپی ۹۲۷"
+    },
+    {
+      "asset": "hn01_netter_p27.jpeg",
+      "after_source_page": 11,
+      "output_page": 21,
+      "citation": "نتر، ویراست ۸، پلیت ۲۷، صفحهٔ PDF ۷۹"
+    },
+    {
+      "asset": "hn01_netter_p37.jpeg",
+      "after_source_page": 17,
+      "output_page": 28,
+      "citation": "نتر، ویراست ۸، پلیت ۳۷، صفحهٔ PDF ۸۹"
+    },
+    {
+      "asset": "hn01_netter_p26.jpeg",
+      "after_source_page": 19,
+      "output_page": 31,
+      "citation": "نتر، ویراست ۸، پلیت ۲۶، صفحهٔ PDF ۷۸"
+    }
+  ],
+  "output_pages": 34
+}

@@ -875,6 +875,15 @@ def main() -> None:
             f"{out} already exists — a published session PDF is never replaced by "
             "another session. Pass --force only to re-render this same session.")
 
+    if SESSION in ("hn01", "hn02"):
+        # These sessions use the original pages to honor the no-paraphrase rule.
+        sys.path.insert(0, str(REPO / "headneck" / "scripts"))
+        import build_hn_verbatim as V
+        mapping = V.build(SESSION, out)
+        V.verify(SESSION, out, mapping)
+        print(f"written: {out}")
+        return
+
     pages: dict[str, int] = {}
     book = None
     for attempt in range(4):
