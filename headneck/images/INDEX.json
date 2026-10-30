@@ -2571,6 +2571,780 @@
    "px": 339625,
    "bytes": 128915,
    "path": "headneck/images/hn02_lec_p11_ramus.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_base",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 2,
+   "bbox": [
+    36.5,
+    84.45,
+    281.0,
+    249.45
+   ],
+   "w": 746,
+   "h": 504,
+   "bytes": 61347,
+   "path": "headneck/images/hn04_p1_open_base.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_location",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 2,
+   "bbox": [
+    29.5,
+    394.5,
+    360.85,
+    583.5
+   ],
+   "w": 1013,
+   "h": 579,
+   "bytes": 81170,
+   "path": "headneck/images/hn04_p1_open_ethmoid_location.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_parts",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 3,
+   "bbox": [
+    72.0,
+    92.01,
+    539.75,
+    348.96
+   ],
+   "w": 1428,
+   "h": 785,
+   "bytes": 139048,
+   "path": "headneck/images/hn04_p1_open_ethmoid_parts.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_views",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 3,
+   "bbox": [
+    148.5,
+    535.2,
+    540.0,
+    755.15
+   ],
+   "w": 1196,
+   "h": 672,
+   "bytes": 101603,
+   "path": "headneck/images/hn04_p1_open_ethmoid_views.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_superior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 4,
+   "bbox": [
+    30.95,
+    422.75,
+    254.45,
+    609.6
+   ],
+   "w": 614,
+   "h": 513,
+   "bytes": 52728,
+   "path": "headneck/images/hn04_p1_open_ethmoid_superior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_labyrinth",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 5,
+   "bbox": [
+    72.0,
+    72.0,
+    539.3,
+    334.6
+   ],
+   "w": 1426,
+   "h": 802,
+   "bytes": 141272,
+   "path": "headneck/images/hn04_p1_open_labyrinth.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_lateral_ethmoid",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 6,
+   "bbox": [
+    114.0,
+    72.0,
+    539.28,
+    286.55
+   ],
+   "w": 1323,
+   "h": 667,
+   "bytes": 101056,
+   "path": "headneck/images/hn04_p1_open_lateral_ethmoid.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_inferior_ethmoid",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 6,
+   "bbox": [
+    28.85,
+    552.65,
+    238.65,
+    726.56
+   ],
+   "w": 642,
+   "h": 532,
+   "bytes": 58768,
+   "path": "headneck/images/hn04_p1_open_inferior_ethmoid.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_nasal_conchae",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 7,
+   "bbox": [
+    21.9,
+    98.3,
+    280.95,
+    300.4
+   ],
+   "w": 683,
+   "h": 533,
+   "bytes": 39000,
+   "path": "headneck/images/hn04_p1_open_nasal_conchae.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_uncinate",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 7,
+   "bbox": [
+    31.85,
+    424.65,
+    253.35,
+    600.5
+   ],
+   "w": 651,
+   "h": 517,
+   "bytes": 66830,
+   "path": "headneck/images/hn04_p1_open_uncinate.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_section",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 8,
+   "bbox": [
+    27.75,
+    109.65,
+    288.35,
+    289.3
+   ],
+   "w": 796,
+   "h": 549,
+   "bytes": 55666,
+   "path": "headneck/images/hn04_p1_open_ethmoid_section.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_nasal_septum",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 8,
+   "bbox": [
+    18.8,
+    335.25,
+    316.58,
+    559.35
+   ],
+   "w": 910,
+   "h": 685,
+   "bytes": 74147,
+   "path": "headneck/images/hn04_p1_open_nasal_septum.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_coronal",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 9,
+   "bbox": [
+    21.7,
+    245.15,
+    386.6,
+    425.4
+   ],
+   "w": 1115,
+   "h": 551,
+   "bytes": 88874,
+   "path": "headneck/images/hn04_p1_open_coronal.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_temporal",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 9,
+   "bbox": [
+    21.8,
+    528.05,
+    271.6,
+    711.8
+   ],
+   "w": 763,
+   "h": 561,
+   "bytes": 72677,
+   "path": "headneck/images/hn04_p1_open_temporal.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_base",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 10,
+   "bbox": [
+    138.1,
+    176.3,
+    474.66,
+    430.5
+   ],
+   "w": 1030,
+   "h": 778,
+   "bytes": 91296,
+   "path": "headneck/images/hn04_p1_open_petrous_base.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_anterior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 11,
+   "bbox": [
+    19.5,
+    372.1,
+    338.85,
+    585.15
+   ],
+   "w": 976,
+   "h": 651,
+   "bytes": 90457,
+   "path": "headneck/images/hn04_p1_open_petrous_anterior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_anterior_detail",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 12,
+   "bbox": [
+    17.4,
+    259.9,
+    329.4,
+    468.0
+   ],
+   "w": 953,
+   "h": 635,
+   "bytes": 101203,
+   "path": "headneck/images/hn04_p1_open_petrous_anterior_detail.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ear_section",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 13,
+   "bbox": [
+    33.0,
+    542.99,
+    215.8,
+    724.89
+   ],
+   "w": 284,
+   "h": 282,
+   "bytes": 25404,
+   "path": "headneck/images/hn04_p1_open_ear_section.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ear_tubes",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 13,
+   "bbox": [
+    195.75,
+    334.85,
+    531.75,
+    549.1
+   ],
+   "w": 1032,
+   "h": 657,
+   "bytes": 89269,
+   "path": "headneck/images/hn04_p1_open_ear_tubes.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_posterior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 14,
+   "bbox": [
+    24.4,
+    226.55,
+    324.7,
+    450.05
+   ],
+   "w": 918,
+   "h": 682,
+   "bytes": 100547,
+   "path": "headneck/images/hn04_p1_open_petrous_posterior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_labyrinth_aqueduct",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 15,
+   "bbox": [
+    72.0,
+    72.0,
+    539.45,
+    351.25
+   ],
+   "w": 1427,
+   "h": 853,
+   "bytes": 166881,
+   "path": "headneck/images/hn04_p1_open_labyrinth_aqueduct.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_inferior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 16,
+   "bbox": [
+    8.8,
+    71.85,
+    312.15,
+    390.35
+   ],
+   "w": 1015,
+   "h": 1066,
+   "bytes": 118704,
+   "path": "headneck/images/hn04_p1_open_petrous_inferior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_inferior_detail",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 16,
+   "bbox": [
+    23.2,
+    383.5,
+    359.7,
+    610.4
+   ],
+   "w": 1035,
+   "h": 698,
+   "bytes": 88805,
+   "path": "headneck/images/hn04_p1_open_petrous_inferior_detail.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_canaliculi",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 17,
+   "bbox": [
+    144.85,
+    150.65,
+    466.65,
+    392.5
+   ],
+   "w": 984,
+   "h": 740,
+   "bytes": 66383,
+   "path": "headneck/images/hn04_p1_open_canaliculi.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_cranial_bones",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 18,
+   "bbox": [
+    28.5,
+    103.5,
+    280.7,
+    297.5
+   ],
+   "w": 770,
+   "h": 592,
+   "bytes": 56950,
+   "path": "headneck/images/hn04_p1_open_cranial_bones.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_cranial_fossae",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 18,
+   "bbox": [
+    32.5,
+    309.5,
+    277.75,
+    542.0
+   ],
+   "w": 709,
+   "h": 672,
+   "bytes": 54016,
+   "path": "headneck/images/hn04_p1_open_cranial_fossae.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_cranial_sagittal",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 18,
+   "bbox": [
+    39.0,
+    537.0,
+    228.0,
+    722.1
+   ],
+   "w": 582,
+   "h": 570,
+   "bytes": 41642,
+   "path": "headneck/images/hn04_p1_open_cranial_sagittal.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_cranial_overview",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 19,
+   "bbox": [
+    73.0,
+    264.24,
+    540.0,
+    517.72
+   ],
+   "w": 1425,
+   "h": 774,
+   "bytes": 144535,
+   "path": "headneck/images/hn04_p1_open_cranial_overview.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_fossae_bones",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 25,
+   "bbox": [
+    17.6,
+    120.0,
+    254.04,
+    555.7
+   ],
+   "w": 579,
+   "h": 1067,
+   "bytes": 60735,
+   "path": "headneck/images/hn04_p1_open_fossae_bones.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_fossa_anterior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 25,
+   "bbox": [
+    232.6,
+    117.25,
+    585.0,
+    262.3
+   ],
+   "w": 1075,
+   "h": 443,
+   "bytes": 58042,
+   "path": "headneck/images/hn04_p1_open_fossa_anterior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_fossa_middle",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 25,
+   "bbox": [
+    233.6,
+    251.7,
+    582.4,
+    435.0
+   ],
+   "w": 1066,
+   "h": 560,
+   "bytes": 84295,
+   "path": "headneck/images/hn04_p1_open_fossa_middle.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_fossa_posterior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 25,
+   "bbox": [
+    221.45,
+    435.7,
+    583.35,
+    624.5
+   ],
+   "w": 1105,
+   "h": 577,
+   "bytes": 73819,
+   "path": "headneck/images/hn04_p1_open_fossa_posterior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_inferior_base",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 2,
+   "bbox": [
+    36.0,
+    143.93,
+    579.0,
+    452.63
+   ],
+   "w": 1661,
+   "h": 944,
+   "bytes": 259446,
+   "path": "headneck/images/hn04_p2_inferior_base.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_petrous_jugular",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 9,
+   "bbox": [
+    0.0,
+    103.5,
+    351.4,
+    323.5
+   ],
+   "w": 1074,
+   "h": 673,
+   "bytes": 100355,
+   "path": "headneck/images/hn04_p2_petrous_jugular.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_canaliculi",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 9,
+   "bbox": [
+    0.0,
+    323.51,
+    257.9,
+    514.91
+   ],
+   "w": 789,
+   "h": 585,
+   "bytes": 55672,
+   "path": "headneck/images/hn04_p2_canaliculi.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_occipital_base",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 10,
+   "bbox": [
+    0.0,
+    49.43,
+    322.4,
+    238.18
+   ],
+   "w": 986,
+   "h": 577,
+   "bytes": 95195,
+   "path": "headneck/images/hn04_p2_occipital_base.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_cranial_deformities",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 10,
+   "bbox": [
+    1.25,
+    376.18,
+    332.7,
+    582.73
+   ],
+   "w": 1014,
+   "h": 632,
+   "bytes": 83987,
+   "path": "headneck/images/hn04_p2_cranial_deformities.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_hydrocephaly",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 11,
+   "bbox": [
+    5.2,
+    71.33,
+    129.6,
+    257.48
+   ],
+   "w": 345,
+   "h": 517,
+   "bytes": 23161,
+   "path": "headneck/images/hn04_p2_hydrocephaly.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_microcephaly",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 11,
+   "bbox": [
+    8.45,
+    253.47,
+    125.7,
+    439.72
+   ],
+   "w": 358,
+   "h": 569,
+   "bytes": 26912,
+   "path": "headneck/images/hn04_p2_microcephaly.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_wormian_bones",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 11,
+   "bbox": [
+    7.1,
+    439.11,
+    221.8,
+    606.21
+   ],
+   "w": 533,
+   "h": 415,
+   "bytes": 40964,
+   "path": "headneck/images/hn04_p2_wormian_bones.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_lefort1",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 12,
+   "bbox": [
+    0.0,
+    118.43,
+    208.2,
+    346.68
+   ],
+   "w": 500,
+   "h": 548,
+   "bytes": 21802,
+   "path": "headneck/images/hn04_p2_lefort1.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_lefort2",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 12,
+   "bbox": [
+    0.0,
+    346.91,
+    216.7,
+    571.56
+   ],
+   "w": 521,
+   "h": 540,
+   "bytes": 22318,
+   "path": "headneck/images/hn04_p2_lefort2.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_lefort3",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 13,
+   "bbox": [
+    0.0,
+    49.88,
+    206.15,
+    262.88
+   ],
+   "w": 512,
+   "h": 529,
+   "bytes": 22767,
+   "path": "headneck/images/hn04_p2_lefort3.jpeg"
   }
  ]
 }

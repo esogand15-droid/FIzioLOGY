@@ -70,7 +70,8 @@ SESSIONS = {
         pdf=REPO / "pdf" / "HumsYar_HeadNeck_Jalase4.pdf",
         outline="hn04_topics.json",
         content=("hn04_a.json", "hn04_b.json"),
-        page_ranges=[(1, 39)],
+        # Two source PDFs: part 1 pages 1–25, part 2 encoded as 100+page.
+        page_ranges=[(1, 25), (101, 114)],
         report=REPO / "headneck" / "reports" / f"HN_S04_QA_REPORT.md",
     ),
     "hn05": dict(
@@ -155,7 +156,7 @@ def norm(text: str) -> str:
     is the only order-free check that measures something real.
     """
     import unicodedata
-    return MARK_RE.sub("", unicodedata.normalize("NFKC", text))
+    return MARK_RE.sub("", unicodedata.normalize("NFKC", text)).replace("⁄", "/")
 
 
 def fa_n(n: int | str) -> str:
