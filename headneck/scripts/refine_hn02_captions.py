@@ -66,6 +66,10 @@ def main():
     count=0
     for topic in topics:
         for block in topic['blocks']:
+            # Keep the source/page citation but remove the repeated editorial
+            # status from the reader-facing text; do not alter lecture content.
+            if 'src' in block:
+                block['src'] = block['src'].replace(' — رونویسی در حال مقابله', '')
             if block['type']=='plate':
                 ident=Path(block['asset']).stem
                 if ident in UPDATES:

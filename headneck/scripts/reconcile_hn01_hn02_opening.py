@@ -108,7 +108,7 @@ def session2(t: dict[str, dict]) -> None:
         heading("Foramen"), image(e, "hn02_lec_p05_foramina"),
         lecture("استخوان دارای سوراخ (foramen) هایی است که بر روی سطوح آن قرار گرفته.", 5),
         lecture("Zygomaticofacial foramen سوراخی است که بر روی سطح facial قرار گرفته است و عصب zygomaticofacial nerve از آن عبور میکند.", 5),
-        lecture("سوراخ گونه-کاسه چشمی (zygomatico orbital foramen) که از آن عصب zygomaticotemporal nerve عبور میکند.", 5),
+        lecture("سوراخ گونه-کاسه چشمی (zygomaticoorbital foramen) که از آن عصب zygomaticotemporal nerve عبور میکند.", 5),
         lecture("از سوراخ گونه ای-گیجگاهی (zygomaticotemporal foramen) نیز عصب zygomatic و temporal عبور میکند.", 5),
         lecture("لازم به ذکر است عصب zygomaticotemporal و zygomaticofacial ادامه عصب zygomatic هستند که این عصب از عصب maxillary یا دومین شاخه از عصب پنج مغزی (trigeminal ganglion) مبدأ میگیرد.", 5),
         {"type": "callout", "kind": "info", "title": "یادداشت برای بازبینی علمی", "text": "عبارت‌های مربوط به مسیر اعصاب در این قسمت همان بیان منبع‌اند و لازم است جداگانه با مرجع و نظر متخصص بررسی شوند؛ در متن درس دست برده نشده است.", "src": "جزوهٔ درس، ص ۵"},
