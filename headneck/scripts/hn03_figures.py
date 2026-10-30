@@ -8,7 +8,7 @@ from PIL import Image
 ROOT=Path(__file__).resolve().parents[2]
 SOURCE=next((ROOT/'علوم تشریح سر و گردن').glob('جلسه 3*/*.pdf'))
 D=pymupdf.open(SOURCE)
-# ordinal indexes count only image blocks on that page, top-to-bottom in the PDF.
+# ordinal indexes count image blocks in PyMuPDF extraction order, not necessarily visual order.
 PICKS={2:[('location',0)],3:[('skull_sections',0),('anterior',1)],5:[('posterior',0)],7:[('superior',0)],9:[('clivus',0)],10:[('pterion',0),('pterion_vessels',1)],11:[('surface',0),('infratemporal',1)],12:[('pal_medial',0),('context',1),('pal_lateral',2)],13:[('canals',0),('orbital',1)],14:[('pal_posterior',0)],15:[('palate',0),('sphenopalatine',1)],16:[('posterior',0),('sutures',1),('occ_side',2)],17:[('occ_external',0),('occ_inferior',1)],18:[('occ_internal',0)],19:[('occ_endocranial',0)],20:[('venous',0)]}
 index=ROOT/'headneck/images/INDEX.json'; data=json.loads(index.read_text()); data['assets']=[x for x in data['assets'] if x.get('session')!='hn03']
 for page, entries in PICKS.items():
