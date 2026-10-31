@@ -37,7 +37,7 @@ def _hn03_source_blocks(tid: str, mapping: dict) -> list:
 
 def apply_update(session: str, content: dict[str, list]) -> dict[str, list]:
     draft_hn03 = session == 'hn03' and os.environ.get('HUMSYAR_HN03_WIP') == '1'
-    if session not in ('hn01', 'hn02', 'hn04') and not draft_hn03:
+    if session not in ('hn01', 'hn02', 'hn04', 'hn05') and not draft_hn03:
         return content
     mapping = None
     if draft_hn03:
@@ -73,7 +73,7 @@ def apply_update(session: str, content: dict[str, list]) -> dict[str, list]:
                 b['display_items'] = [item.split('. ', 1)[1] for item in b['items']]
             if 'src' in b:
                 b['src'] = b['src'].replace(' — رونویسی در حال مقابله', '')
-            if session == 'hn04' and str(i) in spec.get('plate_overrides', {}):
+            if session in ('hn04', 'hn05') and str(i) in spec.get('plate_overrides', {}):
                 override = spec['plate_overrides'][str(i)]
                 allowed = {'asset', 'citation', 'src', 'fa_text', 'max_h', 'min_img_h', 'fresh', 'title', 'en_caption', 'view', 'labels'}
                 if b['type'] != 'plate' or not set(override).issubset(allowed):

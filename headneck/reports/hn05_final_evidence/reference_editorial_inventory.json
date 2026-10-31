@@ -1,0 +1,248 @@
+{
+  "final_pdf_sha256": "e8092e9917b6a6d125d6cdc4e9cbfc2951f99014bbab356d4ee64a56ff393f27",
+  "sources": [
+    {
+      "book": "netter",
+      "file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd"
+    },
+    {
+      "book": "gray",
+      "file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a"
+    }
+  ],
+  "pages": [
+    {
+      "book": "netter",
+      "source_pdf_page": 95,
+      "source_render": "reference/netter_95.jpg",
+      "source_render_sha256": "cd2a13ff079aeb9e11ca1e471b3ffd4c5b91879e12f58d5c6e3c77557431d010",
+      "status": "VISUALLY_READ",
+      "plate": 43,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 96,
+      "source_render": "reference/netter_96.jpg",
+      "source_render_sha256": "a63b3be903d56f45b5a5c651079a039b1143bc18a835d9c68f492eab79209bd4",
+      "status": "VISUALLY_READ",
+      "plate": 44,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 97,
+      "source_render": "reference/netter_97.jpg",
+      "source_render_sha256": "5758e0f2ef6eea1c380eaebb079494ec21deb86f98cff036b9f935b6aba88843",
+      "status": "VISUALLY_READ",
+      "plate": 45,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 98,
+      "source_render": "reference/netter_98.jpg",
+      "source_render_sha256": "0d414cb1a12a407445c89c50d0e7ea480bbc53ab3a3d6ce5ae5bb9a063fe6da4",
+      "status": "VISUALLY_READ",
+      "plate": 46,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 99,
+      "source_render": "reference/netter_99.jpg",
+      "source_render_sha256": "9df378534dd9ff9cf40f08f479fed1633fb336808b707f986e74a9083e2c134b",
+      "status": "VISUALLY_READ",
+      "plate": 47,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 100,
+      "source_render": "reference/netter_100.jpg",
+      "source_render_sha256": "7808fd8839595a002bf1d590a2f2c6e3c3f9e1c65d4d883dcb4eeb623b854221",
+      "status": "VISUALLY_READ",
+      "plate": 48,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 101,
+      "source_render": "reference/netter_101.jpg",
+      "source_render_sha256": "ba2d7e0e5aadc80706bca8ae20ccb32e923a44c6a8ce4cfe769ff69ee15bf71a",
+      "status": "VISUALLY_READ",
+      "plate": 49,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 102,
+      "source_render": "reference/netter_102.jpg",
+      "source_render_sha256": "a421b61fa0ef7939674b27d4152b8104044165fc4030e280cf86a2d84707393c",
+      "status": "VISUALLY_READ",
+      "plate": 50,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 103,
+      "source_render": "reference/netter_103.jpg",
+      "source_render_sha256": "c92918af937a17ac6c7a618e25afd997ea1dbd77b9e2b3edad36d0ba2ef162d6",
+      "status": "VISUALLY_READ",
+      "plate": 51,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 104,
+      "source_render": "reference/netter_104.jpg",
+      "source_render_sha256": "c81098fe3e0ba950c4a6ad854f939bc775b211218759400655822646ea71aa59",
+      "status": "VISUALLY_READ",
+      "plate": 52,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 105,
+      "source_render": "reference/netter_105.jpg",
+      "source_render_sha256": "f7c0276206fa1c1c0910d43da52a01c7f447bc2eb2dcf345a1e22d4678b44fef",
+      "status": "VISUALLY_READ",
+      "plate": 53,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 108,
+      "source_render": "reference/netter_108.jpg",
+      "source_render_sha256": "ce889075f4c0f7c61db1573c86d668cf9fb2d85855876386d5a5e38b8dbccfe7",
+      "status": "VISUALLY_READ",
+      "plate": 56,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 109,
+      "source_render": "reference/netter_109.jpg",
+      "source_render_sha256": "846e49b15285fc50225cf6d3da9ef27ab89939013a0aa291f1ca233bd06dcd54",
+      "status": "VISUALLY_READ",
+      "plate": 57,
+      "printed_page": null,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 26,
+      "source_render": "reference/gray_26.jpg",
+      "source_render_sha256": "8bd48b74e362bbec60cdd01437bac0c7bc41f581f1899e5ad8d6a23511033252",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 998,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 27,
+      "source_render": "reference/gray_27.jpg",
+      "source_render_sha256": "34aa8718363729c5b99219a693e83d3dd97637e5ae3f2e97b808e42f276ef307",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 999,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 28,
+      "source_render": "reference/gray_28.jpg",
+      "source_render_sha256": "36d8968ad2245d9786c0b6c2f4077555c04f623ca3dbbe80d0ab4658bf16578a",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 1000,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 29,
+      "source_render": "reference/gray_29.jpg",
+      "source_render_sha256": "1247f5be1ff4a817f691fd4c4e2fce457fdf3f0784de691f9757987aec6736d1",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 1001,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 30,
+      "source_render": "reference/gray_30.jpg",
+      "source_render_sha256": "203cf3101287d1cfd055efbb516d09e260a89c6ba6a506ae4aed0d83f4f501fb",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 1002,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 31,
+      "source_render": "reference/gray_31.jpg",
+      "source_render_sha256": "c7a5ccea6f494f97a3264c5d5fb26017e5b3592f86943311a69bda8838b04695",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 1003,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 32,
+      "source_render": "reference/gray_32.jpg",
+      "source_render_sha256": "8b1f290007c23a2fd27eaabd1b7717e0b2dc68bc1cd73d9fab1874194e5c28fd",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 1004,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 33,
+      "source_render": "reference/gray_33.jpg",
+      "source_render_sha256": "1db201cd599f2d6f86a814018c8d42e040fe8cc3ef845feb91a6ba213ab5a121",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 1006,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 34,
+      "source_render": "reference/gray_34.jpg",
+      "source_render_sha256": "3e61c75df06b1539a3590a16d934b83e4df59455337f482cc0809105c98b638a",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 1005,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    },
+    {
+      "book": "gray",
+      "source_pdf_page": 35,
+      "source_render": "reference/gray_35.jpg",
+      "source_render_sha256": "2d63aa3f3a2fe0545335a8473a5887bd0946ebf082bffc5122fb569c24f9937d",
+      "status": "VISUALLY_READ",
+      "plate": null,
+      "printed_page": 1007,
+      "note": "Selected relevant anatomy/labels compared; not a review of the entire atlas."
+    }
+  ],
+  "scope": "13 Netter and 10 Gray PDF pages viewed. New 13 crops also individually inspected after corrections. Gray PDF33 = printed1006; PDF34 = printed1005; no global offset assumed. Not every reference subfigure reproduced."
+}

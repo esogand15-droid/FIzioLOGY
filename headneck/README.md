@@ -60,3 +60,14 @@ python3 -m venv .venv
 - `pdf/HumsYar_HeadNeck_Jalase4_REVIEW.pdf`: نامزد تاریخی ۱۰۵صفحه‌ای، منتشرشده در `08bfbcc`؛ SHA `84c261bdcb88acb0835cfba0b70ec46bc674a5c95ce5a49cb72c9fe750846eb1`.
 - `HN_S04_UPDATE_2026.md`، `HN_S04_UPDATE_QA_REPORT.md` و `hn04_audit_evidence/`: فقط گزارش/شواهد همان REVIEW؛ وضعیت جاری FINAL را توصیف نمی‌کنند.
 - شاخهٔ ثابت این جلسه: `arena/3260a120-fiziology`. وابستگی‌های جلسهٔ ۴ ابتدا از `026cbcc` بازیابی شدند؛ وضعیت سایر جلسات در handoff تاریخی است و باید با فایل واقعی دوباره بررسی شود.
+
+## جلسهٔ ۵ — نسخهٔ به‌روزشدهٔ ۳۱ اکتبر ۲۰۲۶
+
+نسخهٔ جاری و پیش‌فرض builder/QA: [`HumsYar_HeadNeck_Jalase5_FINAL.pdf`](../pdf/HumsYar_HeadNeck_Jalase5_FINAL.pdf)، ۱۰۴ صفحه. نسخهٔ پایهٔ ۹۰صفحه‌ای بدون تغییر حفظ شده است. [گزارش بازبینی و محدودیت‌ها](reports/HN_S05_FINAL_REVIEW_REPORT.md) و [ماتریس قاب‌ها](reports/HN_S05_FINAL_SOURCE_FIGURE_MATRIX.md) متناظر همین FINAL هستند؛ گزارش قدیمی `HN_S05_QA_REPORT.md` به پایه مربوط است.
+
+```bash
+.venv/bin/python -m unittest discover -s headneck/tests -v
+.venv/bin/python headneck/scripts/verify_hn05_final_evidence.py
+```
+
+Verifier پیوستگی بایت/پوشش ثبت‌شده را می‌آزماید، نه وقوع مشاهده یا درستی علمی را. بازسازی PDF، شواهد مشاهدهٔ SHA قبلی را باطل می‌کند. `prepare_hn05.py` پایه را بازنویسی می‌کند؛ برای به‌روزرسانی جاری اجرا نکنید. ابزارهای overlay/دارایی نیز قبل از اجرا بررسی شوند.

@@ -76,11 +76,11 @@ SESSIONS = {
         report=REPO / "headneck" / "reports" / f"HN_S04_FINAL_TECHNICAL_QA_REPORT.md",
     ),
     "hn05": dict(
-        pdf=REPO / "pdf" / "HumsYar_HeadNeck_Jalase5.pdf",
+        pdf=REPO / "pdf" / "HumsYar_HeadNeck_Jalase5_FINAL.pdf",
         outline="hn05_topics.json",
         content=("hn05_a.json", "hn05_b.json"),
         page_ranges=[(1, 45)],
-        report=REPO / "headneck" / "reports" / f"HN_S05_QA_REPORT.md",
+        report=REPO / "headneck" / "reports" / f"HN_S05_FINAL_TECHNICAL_QA_REPORT.md",
     ),
     "hn06": dict(
         pdf=REPO / "pdf" / "HumsYar_HeadNeck_Jalase6.pdf",

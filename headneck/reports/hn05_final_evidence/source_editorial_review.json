@@ -1,0 +1,323 @@
+{
+  "final_pdf_sha256": "e8092e9917b6a6d125d6cdc4e9cbfc2951f99014bbab356d4ee64a56ff393f27",
+  "file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+  "source_sha256": "747c6412cbebb07a4e0fc0ca0c29390b11441afad3b7ba8d7d72e166b1990270",
+  "source_pages": [
+    {
+      "source_pdf_page": 1,
+      "source_render": "source/01.jpg",
+      "source_render_sha256": "c119f7b895422a9680fafef45c3dcc20a723c3b6e7225a2433ef569dab6b797e",
+      "status": "COVER_EXCLUDED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 2,
+      "source_render": "source/02.jpg",
+      "source_render_sha256": "1710a1f4ea56f1ac622b5b73d32823e624883ae77a72581d8ca3090744345088",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 3,
+      "source_render": "source/03.jpg",
+      "source_render_sha256": "774603112e517a0f3a434e8d39f0aac001c1820595e245880ae49ceabd0a32c6",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 4,
+      "source_render": "source/04.jpg",
+      "source_render_sha256": "88b357c1e25b15c50bb3aa9779375e44f6f9942057fa71bff267946e94cb9cbb",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 5,
+      "source_render": "source/05.jpg",
+      "source_render_sha256": "eafce6c078540e161b7cb8db3bcfd6a840e30213040afb0a1f546f12caca0d1f",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 6,
+      "source_render": "source/06.jpg",
+      "source_render_sha256": "b3a37f178cb807fdfef39dd2d445687ccca051e395d241b9154dcc47779a1ceb",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 7,
+      "source_render": "source/07.jpg",
+      "source_render_sha256": "8e3281f7e3ced9c83817757a915db652d532f62b3b52802ab87db86740555354",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 8,
+      "source_render": "source/08.jpg",
+      "source_render_sha256": "90c472df041e661c2340df314a037fe3460c14029a3ed84aec4d3b9af882ea8d",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 9,
+      "source_render": "source/09.jpg",
+      "source_render_sha256": "75057bc9971fe53ee359cf7e7fc40da4f40f9391ea8d88245d76be41c6364bec",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Literal 31 unresolved; preserved without guessing."
+    },
+    {
+      "source_pdf_page": 10,
+      "source_render": "source/10.jpg",
+      "source_render_sha256": "a32e7513cedc3281e593fc8c9ad07855e068ef60a3fbef1d70d4e56bb8863015",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 11,
+      "source_render": "source/11.jpg",
+      "source_render_sha256": "c348db95540dd8a1620320075f48c8d055ac7f64d2e17f0a35b23f5886e93b9e",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 12,
+      "source_render": "source/12.jpg",
+      "source_render_sha256": "6efa57a9e4e7236e51719f5b8685af610c46aaae75011da471c3dc5e39ad9c01",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 13,
+      "source_render": "source/13.jpg",
+      "source_render_sha256": "1e1c2435810e57f033e4d2539e457c80a3c1dd85f880af2e7973d7d00d51f512",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Short/clipped labels in original; complete Netter panels added."
+    },
+    {
+      "source_pdf_page": 14,
+      "source_render": "source/14.jpg",
+      "source_render_sha256": "74c8377f9bc04c1a2f2212e75da59dd87501dd0232842f7edab2e4902cf2102b",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Right-edge labels truncated in lecture original."
+    },
+    {
+      "source_pdf_page": 15,
+      "source_render": "source/15.jpg",
+      "source_render_sha256": "290e2d11d84b2ea72f057e67a78ca6397594c9ad578b03b0f804c5ccb9e9b2cc",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 16,
+      "source_render": "source/16.jpg",
+      "source_render_sha256": "e975c3d70fd0b60f9d3dd86f69b731d280e45bb809052886aaaec0f35795da4d",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 17,
+      "source_render": "source/17.jpg",
+      "source_render_sha256": "e8149d1faa8fdc594894fdacb8bcbef185b129fd90b03f177afc229961005234",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 18,
+      "source_render": "source/18.jpg",
+      "source_render_sha256": "784acd4c9634b823aec9bad6a3b466d79e398825d10b12edadc9e7501282ef55",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 19,
+      "source_render": "source/19.jpg",
+      "source_render_sha256": "517ee73edb4d1dca7f1bc82aa029c96c46edfad5cc3cb9317eb797b6872b85e2",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 20,
+      "source_render": "source/20.jpg",
+      "source_render_sha256": "197ca6ab63a028828f942a89102d905e94a5cf11dd0e812ed95e3e189343bef6",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 21,
+      "source_render": "source/21.jpg",
+      "source_render_sha256": "e25b3fabdc616c281fda52df92b72667049b20b555ed2bfc6a3e6b5c925be5ba",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 22,
+      "source_render": "source/22.jpg",
+      "source_render_sha256": "9be6a3fa1de68f9a9f5c1995bcae4801387309b77760bb8718a2dbf085f58ed0",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 23,
+      "source_render": "source/23.jpg",
+      "source_render_sha256": "d20739a54d80da62318a7f51f4e99ddcded6f08e7dcc044f925421fcd18a0132",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 24,
+      "source_render": "source/24.jpg",
+      "source_render_sha256": "2c3a79efa5d706f11b5a8358bdfda1716d11cb4d96dadb3aadb2e1671d94836b",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 25,
+      "source_render": "source/25.jpg",
+      "source_render_sha256": "8f7594f77acc5a5a071440882c051f93d64a26971f54fdd14db7bd09a6463db2",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 26,
+      "source_render": "source/26.jpg",
+      "source_render_sha256": "89472ff01e46a7f6face84227fed9528abdfe8b7edd0d9a373fac4f38dbdec65",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 27,
+      "source_render": "source/27.jpg",
+      "source_render_sha256": "0108f75307478ce81fd1fdeeb420df4b25e8d0923ace1b50dad09cb737ea41f5",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 28,
+      "source_render": "source/28.jpg",
+      "source_render_sha256": "36f1c20c6d4c491c7d163ba48c7b4cbd4747a9a1760bfd2c95b756e5b00b7427",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 29,
+      "source_render": "source/29.jpg",
+      "source_render_sha256": "f3fccc828211dab2ae9f062d5b821bc005d26a25eb28c78a55256d3bb15a10f9",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 30,
+      "source_render": "source/30.jpg",
+      "source_render_sha256": "a07aac9bae4686f12a7e564c5578fca827c0d6a6e2c8709847144c53c3f1dd9c",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Danger-space definition compared with p43 and atlas frameworks."
+    },
+    {
+      "source_pdf_page": 31,
+      "source_render": "source/31.jpg",
+      "source_render_sha256": "eba5c92fcc13fe1f8bbfee43a7a49f275118edaa9c4a9030090f4f2da184b46c",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 32,
+      "source_render": "source/32.jpg",
+      "source_render_sha256": "0c88151309a0bfb59300924881860299bcff82c98bd84859cbe7b9cda8c7b28a",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 33,
+      "source_render": "source/33.jpg",
+      "source_render_sha256": "430c1e19d36b02193f95d9fd4760a08392073360d147ca6ea88a676e90bae7e5",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 34,
+      "source_render": "source/34.jpg",
+      "source_render_sha256": "adce8710cd57312328e425f4906dc5b17d4847960ddafcd3f0a8d02cf63da231",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 35,
+      "source_render": "source/35.jpg",
+      "source_render_sha256": "c49196ee237bb66497c6006f44e938f7620210520ca1172bc757639980c90855",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 36,
+      "source_render": "source/36.jpg",
+      "source_render_sha256": "016dd4025b46e0ebac8658175d33b0aca7ca76a06dd207a12200227d109bd7bd",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 37,
+      "source_render": "source/37.jpg",
+      "source_render_sha256": "d67eba62cd6879a6b8895363ae743e0bce4b76df2a7da7c79716d14308acef47",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 38,
+      "source_render": "source/38.jpg",
+      "source_render_sha256": "8f3b3aa5773ab571c5de043cbb106598aa924453e1a798f5866e47f170d033fa",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 39,
+      "source_render": "source/39.jpg",
+      "source_render_sha256": "a27cfd2bd07b6a7d85485ed64bbcd2ae9f2e24f9f4fb64fe7628a301dbfa4bfc",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 40,
+      "source_render": "source/40.jpg",
+      "source_render_sha256": "7f204870186b5233f3a93192a54437780011d492e457760d7699c870dbd02465",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 41,
+      "source_render": "source/41.jpg",
+      "source_render_sha256": "934a721847eaa8fa698eb6c968c2bb1f641732d5d5a888400cbb31589da1e5b8",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 42,
+      "source_render": "source/42.jpg",
+      "source_render_sha256": "32bec1cb0a5fdcb97db39bf6851b44d8e24fdfdd12d61b9a2248c71edc682a33",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 43,
+      "source_render": "source/43.jpg",
+      "source_render_sha256": "fc2139f896be2ea714f16adc098c5fda73e7e12818fa0375e767e6d09a718edf",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Space-boundary inconsistency, Gemini aside and hyoid transition checked."
+    },
+    {
+      "source_pdf_page": 44,
+      "source_render": "source/44.jpg",
+      "source_render_sha256": "6c91addecc791e441ff89fc1fefb64b76b30ab8de31eda7c2f04aec405ea1bb1",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Actual source image read and compared with typed transcription in this session; source scientific claims are not automatically endorsed."
+    },
+    {
+      "source_pdf_page": 45,
+      "source_render": "source/45.jpg",
+      "source_render_sha256": "3c18110bcbe9ff1dbfee45932c184e140a6a671228adc0bbc090de2751133c5e",
+      "status": "EDITORIALLY_COMPARED",
+      "note": "Sternothyroid exception distinguished from digastric sling."
+    }
+  ],
+  "scope": "All 45 source pages actually viewed; cover excluded from body transcription. No confirmed major literal omission found; not a guarantee against every punctuation/spacing error. Same-agent editorial comparison, not independent human certification."
+}

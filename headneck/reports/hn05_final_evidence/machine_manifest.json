@@ -1,0 +1,1282 @@
+{
+  "sha256": "e8092e9917b6a6d125d6cdc4e9cbfc2951f99014bbab356d4ee64a56ff393f27",
+  "pages": 104,
+  "bytes": 8866682,
+  "errors": [],
+  "outside_spans": [],
+  "fonts": [
+    {
+      "xref": 7,
+      "name": "Helvetica",
+      "type": "Type1",
+      "embedded_bytes": 0
+    },
+    {
+      "xref": 8,
+      "name": "AAAAAA+Vazirmatn-Medium",
+      "type": "TrueType",
+      "embedded_bytes": 17380
+    },
+    {
+      "xref": 12,
+      "name": "AAAAAA+Vazirmatn-Bold",
+      "type": "TrueType",
+      "embedded_bytes": 21880
+    },
+    {
+      "xref": 16,
+      "name": "AAAAAA+Vazirmatn-Regular",
+      "type": "TrueType",
+      "embedded_bytes": 24808
+    },
+    {
+      "xref": 20,
+      "name": "AAAAAA+Vazirmatn-Light",
+      "type": "TrueType",
+      "embedded_bytes": 14380
+    },
+    {
+      "xref": 24,
+      "name": "AAAAAA+DejaVuSans-Bold",
+      "type": "TrueType",
+      "embedded_bytes": 35188
+    },
+    {
+      "xref": 28,
+      "name": "AAAAAA+DejaVuSans",
+      "type": "TrueType",
+      "embedded_bytes": 35524
+    }
+  ],
+  "figures": [
+    {
+      "topic": "hn05-T01",
+      "output_page": 7,
+      "asset": "headneck/images/hn05_lecture_p02_1.jpeg",
+      "asset_sha256": "febb06b624a18e0d2aeed3c59e08d2ebcdea9abae904327d41f53dd2def616e3",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 2,
+      "bbox": [
+        34.0,
+        36.0,
+        365.0,
+        339.0
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T01",
+      "output_page": 8,
+      "asset": "headneck/images/hn05_lecture_p02_2.jpeg",
+      "asset_sha256": "fd961b4723b7a3fdf115cf78adad9a7228408eff1cdeb4c25e23e2040dfa7077",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 2,
+      "bbox": [
+        34.0,
+        375.0,
+        339.0,
+        631.0
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T01",
+      "output_page": 11,
+      "asset": "headneck/images/hn05_netter_vertebrae.jpeg",
+      "asset_sha256": "fbce22d9b879cb56b42be1bafb63a0c0952cdff2e2c4867fe717edcd132d6f7b",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 96,
+      "bbox": [
+        40,
+        65,
+        580,
+        365
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T02",
+      "output_page": 13,
+      "asset": "headneck/images/hn05_lecture_p04_1.jpeg",
+      "asset_sha256": "771bc1ffd40d5fe65df18ff851e37fb0c02d096824822952340f18962437f2d5",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 4,
+      "bbox": [
+        36.0,
+        531.94,
+        573.0,
+        715.94
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T02",
+      "output_page": 15,
+      "asset": "headneck/images/hn05_netter_atlas_axis.jpeg",
+      "asset_sha256": "6605b3dcd8d76b5d26680decc5b35e72e4032dc6d13e07df15f26c61dd444775",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 95,
+      "bbox": [
+        45,
+        60,
+        580,
+        292
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T02",
+      "output_page": 16,
+      "asset": "headneck/images/hn05_u_atlas_axis_lower.jpeg",
+      "asset_sha256": "baa6bedfd34e49dc451d678b0500d63b749fcc72649beb4f5349a4dcadc94c1d",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 95,
+      "bbox": [
+        45,
+        300,
+        585,
+        492
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T03",
+      "output_page": 18,
+      "asset": "headneck/images/hn05_lecture_p06_1.jpeg",
+      "asset_sha256": "d7adf5af8affb322d5262e255fe3178b789151db127595b14e211626009de2c3",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 6,
+      "bbox": [
+        36.0,
+        366.22,
+        576.0,
+        625.22
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T03",
+      "output_page": 21,
+      "asset": "headneck/images/hn05_lecture_p08_1.jpeg",
+      "asset_sha256": "2223eab06995e13fb71e1653adc7bf888f01e9a278e7317cc3b005d1c27a98a3",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 8,
+      "bbox": [
+        0.0,
+        255.48,
+        294.6,
+        503.83
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T04",
+      "output_page": 24,
+      "asset": "headneck/images/hn05_lecture_p09_1.jpeg",
+      "asset_sha256": "ff5a025a68f0e87a1647b838b90f6e7a8ce8dbf4dd60a26f15b3881c2875ee67",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 9,
+      "bbox": [
+        36.0,
+        78.0,
+        573.0,
+        246.0
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T04",
+      "output_page": 25,
+      "asset": "headneck/images/hn05_lecture_p09_2.jpeg",
+      "asset_sha256": "febbb4cceffa75370433699ede1d2108a642496a41daaa2c982718e8b89c2ddf",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 9,
+      "bbox": [
+        36.0,
+        392.0,
+        291.6,
+        602.0
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T04",
+      "output_page": 26,
+      "asset": "headneck/images/hn05_lecture_p10_1.jpeg",
+      "asset_sha256": "48380a1849c014341edfd3cc62148193fc8df5518283e32973f457fe3f98f976",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 10,
+      "bbox": [
+        104.4,
+        121.35,
+        576.0,
+        409.95
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T04",
+      "output_page": 27,
+      "asset": "headneck/images/hn05_u_c7.jpeg",
+      "asset_sha256": "e6f6c38ad6c60ca160ceeee8decde5934f9093884cd77d5e4c95b0b966bc39a0",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 96,
+      "bbox": [
+        45,
+        510,
+        590,
+        758
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T05",
+      "output_page": 29,
+      "asset": "headneck/images/hn05_lecture_p11_1.jpeg",
+      "asset_sha256": "e1669102a43202f46cfb18ca3309da7ba2099bf2473067273b9a09c8d2bbc6af",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 11,
+      "bbox": [
+        36.0,
+        106.02,
+        563.0,
+        348.02
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T05",
+      "output_page": 30,
+      "asset": "headneck/images/hn05_lecture_p11_2.jpeg",
+      "asset_sha256": "80d8ec00403ef051849a59fdc7ea2e202c667c9a616830113f63f084dc0c82a0",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 11,
+      "bbox": [
+        36.0,
+        492.76,
+        576.0,
+        755.76
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T05",
+      "output_page": 31,
+      "asset": "headneck/images/hn05_lecture_p12_1.jpeg",
+      "asset_sha256": "9e6fe459fed6289793a2f2bd97208e7495d179752f2f19882f22ec0259be6322",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 12,
+      "bbox": [
+        36.0,
+        389.0,
+        317.3,
+        612.2
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T05",
+      "output_page": 33,
+      "asset": "headneck/images/hn05_u_assembled.jpeg",
+      "asset_sha256": "8ffb02cadabea52775cc29ebc9a6abcdf0ffed6e03a9d68d0d51ebf12f3048eb",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 95,
+      "bbox": [
+        90,
+        495,
+        520,
+        730
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 35,
+      "asset": "headneck/images/hn05_lecture_p13_1.jpeg",
+      "asset_sha256": "7ea98f32691003d5694cd484a9e3dee14918beb63d17b032ed8ad9223e769b84",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 13,
+      "bbox": [
+        39.0,
+        36.0,
+        239.7,
+        152.45
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 36,
+      "asset": "headneck/images/hn05_lecture_p13_2.jpeg",
+      "asset_sha256": "8b02bd96bca9cc0ba8101486ba88b5c32b159b4a68128252ed58a8309c35416f",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 13,
+      "bbox": [
+        36.0,
+        172.02,
+        252.55,
+        338.37
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 37,
+      "asset": "headneck/images/hn05_lecture_p14_1.jpeg",
+      "asset_sha256": "28d20f76ab02fad31c3c4287813d154dca63c213493785aafeac2ca5c664325a",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 14,
+      "bbox": [
+        33.0,
+        96.0,
+        576.0,
+        385.85
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 38,
+      "asset": "headneck/images/hn05_lecture_p15_1.jpeg",
+      "asset_sha256": "27521cb6aa501cb6bba16cc32b7454aecbe5b691bace35a1cc2a70edf14fec81",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 15,
+      "bbox": [
+        27.0,
+        36.0,
+        335.3,
+        274.8
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 39,
+      "asset": "headneck/images/hn05_lecture_p15_2.jpeg",
+      "asset_sha256": "51d9101ae480aee0f99f0f048111ac55116dac696cc0d0f876e807f185cfd449",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 15,
+      "bbox": [
+        0.0,
+        322.52,
+        363.75,
+        659.12
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 40,
+      "asset": "headneck/images/hn05_u_tectorial.jpeg",
+      "asset_sha256": "38b33bf465b9bf6b1b33bfe5abe96e3d0745ea58d2b3d31b80998e955dec82b7",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 99,
+      "bbox": [
+        55,
+        100,
+        560,
+        350
+      ],
+      "mask_rects": [
+        [
+          345,
+          257,
+          560,
+          350
+        ],
+        [
+          330,
+          320,
+          345,
+          350
+        ]
+      ]
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 41,
+      "asset": "headneck/images/hn05_u_external_lateral.jpeg",
+      "asset_sha256": "62579751ec6b07c2e9cc29f2ad5505a8dfa5f9f3cc833496fdcc6f3955ee27c1",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 98,
+      "bbox": [
+        40,
+        360,
+        600,
+        720
+      ],
+      "mask_rects": [
+        [
+          335,
+          360,
+          600,
+          490
+        ],
+        [
+          40,
+          360,
+          300,
+          367
+        ]
+      ]
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 42,
+      "asset": "headneck/images/hn05_u_cruciform.jpeg",
+      "asset_sha256": "70bd2d87762179ebfe74241d31f2a5d294e56cab4adfe364f814db29303a3121",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 99,
+      "bbox": [
+        140,
+        255,
+        580,
+        473
+      ],
+      "mask_rects": [
+        [
+          140,
+          255,
+          310,
+          350
+        ],
+        [
+          140,
+          465,
+          320,
+          473
+        ]
+      ]
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 43,
+      "asset": "headneck/images/hn05_u_alar.jpeg",
+      "asset_sha256": "b443bfc88f83efaa39bf9ba40b725f615ca1f15daf36c142084cfed1a924e25b",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 99,
+      "bbox": [
+        80,
+        465,
+        580,
+        704
+      ],
+      "mask_rects": [
+        [
+          340,
+          465,
+          580,
+          474
+        ]
+      ]
+    },
+    {
+      "topic": "hn05-T06",
+      "output_page": 44,
+      "asset": "headneck/images/hn05_u_transverse.jpeg",
+      "asset_sha256": "b18bd916d4437b23e1bf4dfecd63e4a7e576e5969300cdda0fa9456666757441",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 99,
+      "bbox": [
+        300,
+        530,
+        580,
+        703
+      ],
+      "mask_rects": [
+        [
+          300,
+          530,
+          326,
+          560
+        ]
+      ]
+    },
+    {
+      "topic": "hn05-T07",
+      "output_page": 46,
+      "asset": "headneck/images/hn05_lecture_p16_1.jpeg",
+      "asset_sha256": "9b793ef7b40e36e8c6db21f9ed2c123f76eadb7146cff5c483f38ecd441c08e2",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 16,
+      "bbox": [
+        108.0,
+        62.4,
+        576.0,
+        315.55
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T07",
+      "output_page": 47,
+      "asset": "headneck/images/hn05_lecture_p17_1.jpeg",
+      "asset_sha256": "3dbd97e35a642abea72ef195b4cab6f93094352a0f466fe5e233af831fe918db",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 17,
+      "bbox": [
+        37.5,
+        67.8,
+        574.5,
+        401.45
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T07",
+      "output_page": 48,
+      "asset": "headneck/images/hn05_lecture_p17_2.jpeg",
+      "asset_sha256": "cf937222b2cfbaa38797a5eda27d775549352a91889bee491718a6137ffbc62c",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 17,
+      "bbox": [
+        0.0,
+        418.0,
+        306.0,
+        686.75
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T07",
+      "output_page": 49,
+      "asset": "headneck/images/hn05_lecture_p18_1.jpeg",
+      "asset_sha256": "994a4a66c45286dfb3fa24c141749d5d2c7906debce5c3d3333a7c4b5ae77684",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 18,
+      "bbox": [
+        16.2,
+        145.1,
+        532.8,
+        420.95
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T07",
+      "output_page": 50,
+      "asset": "headneck/images/hn05_u_cervical_plexus.jpeg",
+      "asset_sha256": "f804c034f3c69cb3fa0881b556a66c8ea176e95b7d7dfe8d83815cad7bd5f65a",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 109,
+      "bbox": [
+        45,
+        90,
+        585,
+        398
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T08",
+      "output_page": 52,
+      "asset": "headneck/images/hn05_lecture_p19_1.jpeg",
+      "asset_sha256": "57b1c799a42cd93d3ac312a7f25fe3604cb9fcf9bcf98c9e14656b221145a1f6",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 19,
+      "bbox": [
+        67.5,
+        77.25,
+        530.25,
+        382.5
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T08",
+      "output_page": 53,
+      "asset": "headneck/images/hn05_lecture_p20_1.jpeg",
+      "asset_sha256": "70f899a44bf47dcb0182a7bc77f3312c73e3e269a9da17d3f7813250df119b27",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 20,
+      "bbox": [
+        40.8,
+        75.05,
+        508.8,
+        509.45
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T08",
+      "output_page": 54,
+      "asset": "headneck/images/hn05_lecture_p21_1.jpeg",
+      "asset_sha256": "7ea2f3db300809efdd55efbd90165e4d5545c21dc2e258f63d6d11f32b0703d6",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 21,
+      "bbox": [
+        36.0,
+        79.2,
+        504.0,
+        346.25
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T08",
+      "output_page": 55,
+      "asset": "headneck/images/hn05_lecture_p21_2.jpeg",
+      "asset_sha256": "4831ae0a654e7ea34ed511278c09c003fa66ebf0214f3262bffde729c4d814c8",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 21,
+      "bbox": [
+        36.0,
+        530.57,
+        572.55,
+        755.07
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T08",
+      "output_page": 56,
+      "asset": "headneck/images/hn05_lecture_p22_1.jpeg",
+      "asset_sha256": "17bc1b8bba62aae5a1e99e6c1c4a5a4717c0e778f4c62be5d4747331d17ca7d7",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 22,
+      "bbox": [
+        35.1,
+        372.85,
+        572.35,
+        671.95
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T09",
+      "output_page": 59,
+      "asset": "headneck/images/hn05_lecture_p23_1.jpeg",
+      "asset_sha256": "e88757f71d9c2246c21941c4e31906713e8f305d171fc5597c454cb547a66273",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 23,
+      "bbox": [
+        35.8,
+        206.14,
+        513.55,
+        552.94
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T09",
+      "output_page": 60,
+      "asset": "headneck/images/hn05_lecture_p24_1.jpeg",
+      "asset_sha256": "cf5625df20686fb9166feb7796f2f00595f87d3817c8ca61bbdf164ecde090ec",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 24,
+      "bbox": [
+        28.25,
+        212.53,
+        254.2,
+        383.53
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T09",
+      "output_page": 61,
+      "asset": "headneck/images/hn05_lecture_p24_2.jpeg",
+      "asset_sha256": "6ef2a7030f97ae3885e39ef929225c30df470e62edb89a25a3dc87449b5a8dae",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 24,
+      "bbox": [
+        35.95,
+        462.87,
+        298.7,
+        733.47
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T09",
+      "output_page": 63,
+      "asset": "headneck/images/hn05_lecture_p25_1.jpeg",
+      "asset_sha256": "0f03c904a4536195d078285cce5b67bb453e9fafcb4e78b8416a459c5bada639",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 25,
+      "bbox": [
+        36.0,
+        57.4,
+        272.95,
+        382.0
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T09",
+      "output_page": 64,
+      "asset": "headneck/images/hn05_lecture_p26_1.jpeg",
+      "asset_sha256": "2aac58d912b9f1bd616a22f014dca99bbec37504f306a1853c8666b588da0b00",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 26,
+      "bbox": [
+        89.4,
+        111.9,
+        450.6,
+        429.65
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T09",
+      "output_page": 65,
+      "asset": "headneck/images/hn05_u_cutaneous.jpeg",
+      "asset_sha256": "579f105b7e1f7ccf9ef8848b7359482e7ded1ff941ae26e7641f282a498048a7",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 108,
+      "bbox": [
+        45,
+        80,
+        585,
+        398
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T10",
+      "output_page": 67,
+      "asset": "headneck/images/hn05_lecture_p27_1.jpeg",
+      "asset_sha256": "5438dc2dabcd05f7e7111a9fcbae0da391e30e87219b830f752ac6c20cb2acd5",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 27,
+      "bbox": [
+        85.8,
+        76.2,
+        478.2,
+        403.2
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T10",
+      "output_page": 68,
+      "asset": "headneck/images/hn05_lecture_p28_1.jpeg",
+      "asset_sha256": "85547115086e58bcb5a98778ddf0b1f94c06b9cf774c328c66fe5a263c58130d",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 28,
+      "bbox": [
+        36.0,
+        112.27,
+        576.0,
+        617.47
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T10",
+      "output_page": 69,
+      "asset": "headneck/images/hn05_lecture_p29_1.jpeg",
+      "asset_sha256": "560b5cb00174312a22cb2969845c30b73e6fe124c91de8ca14233508f90b0e1a",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 29,
+      "bbox": [
+        39.6,
+        85.8,
+        469.2,
+        458.55
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T10",
+      "output_page": 70,
+      "asset": "headneck/images/hn05_u_veins.jpeg",
+      "asset_sha256": "d9f4cc6a02f7b37c79424c9a2637a42d045ffb9ff65c4214a50b7584c34cd2d5",
+      "book": "grays",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "source_pdf_page": 31,
+      "bbox": [
+        50,
+        270,
+        570,
+        715
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T11",
+      "output_page": 72,
+      "asset": "headneck/images/hn05_lecture_p30_1.jpeg",
+      "asset_sha256": "85d1780be9c8fcc66acacd3509dd0905b4fc712b585bfaf5871c7f0e816d759d",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 30,
+      "bbox": [
+        24.6,
+        114.26,
+        610.2,
+        489.21
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T11",
+      "output_page": 73,
+      "asset": "headneck/images/hn05_lecture_p31_1.jpeg",
+      "asset_sha256": "5cc93366011708912fc7f2476df47ac3a536003385ade17f32d46ff16f85efb2",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 31,
+      "bbox": [
+        40.2,
+        240.56,
+        529.8,
+        622.96
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T11",
+      "output_page": 74,
+      "asset": "headneck/images/hn05_lecture_p32_1.jpeg",
+      "asset_sha256": "2786e77714428818ea62d35c68b6b327167a3c597e346f3f14324e99a4c10c6c",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 32,
+      "bbox": [
+        104.6,
+        36.0,
+        576.0,
+        325.18
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T11",
+      "output_page": 75,
+      "asset": "headneck/images/hn05_lecture_p33_1.jpeg",
+      "asset_sha256": "1421eb9e07421763fd5efffc5c208d5c446656a2f52bc58df5e0df0b6af37a03",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 33,
+      "bbox": [
+        18.95,
+        71.85,
+        576.0,
+        371.25
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T11",
+      "output_page": 76,
+      "asset": "headneck/images/hn05_lecture_p34_1.jpeg",
+      "asset_sha256": "d9baddc3769f087632bfdd866802ce09341955904596505abef180f6440a861f",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 34,
+      "bbox": [
+        0.0,
+        69.1,
+        572.4,
+        414.65
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T11",
+      "output_page": 77,
+      "asset": "headneck/images/hn05_lecture_p35_1.jpeg",
+      "asset_sha256": "db22bd0823dca7b665d092297b2d8c7eef1f9b47fd3f466fe9139aeba5517818",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 35,
+      "bbox": [
+        13.5,
+        68.8,
+        611.85,
+        421.0
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T11",
+      "output_page": 78,
+      "asset": "headneck/images/hn05_grays_fascia.jpeg",
+      "asset_sha256": "e3b921db19d180155265cf2bbc973e01caea566197960f3822f4eee32a155e08",
+      "book": "grays",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "source_pdf_page": 29,
+      "bbox": [
+        75,
+        455,
+        545,
+        650
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T11",
+      "output_page": 79,
+      "asset": "headneck/images/hn05_u_fascia_cross.jpeg",
+      "asset_sha256": "4ff4f354068ab86c32bcb1256fbbcf4df7466505c7d9ef293de9a9d14bface93",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 103,
+      "bbox": [
+        48,
+        80,
+        585,
+        420
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 81,
+      "asset": "headneck/images/hn05_lecture_p36_1.jpeg",
+      "asset_sha256": "aa86a12ef958a7d73ce469693235f8051a805f010d9378ae7297c8a804ebc84c",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 36,
+      "bbox": [
+        36.0,
+        70.95,
+        558.6,
+        400.35
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 82,
+      "asset": "headneck/images/hn05_lecture_p36_2.jpeg",
+      "asset_sha256": "07a8dd3c8fb5bf09cb7b18d2c18f7b34ec06a5db8080b4d6a23a4619543f99b2",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 36,
+      "bbox": [
+        30.85,
+        533.1,
+        358.15,
+        736.05
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 83,
+      "asset": "headneck/images/hn05_lecture_p37_1.jpeg",
+      "asset_sha256": "db22bd0823dca7b665d092297b2d8c7eef1f9b47fd3f466fe9139aeba5517818",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 37,
+      "bbox": [
+        13.5,
+        73.85,
+        611.85,
+        426.05
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 84,
+      "asset": "headneck/images/hn05_lecture_p37_2.jpeg",
+      "asset_sha256": "79630983f2d931f0e92a6de6db38b086da563e7cabb7c4190a1c42b8e886e3df",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 37,
+      "bbox": [
+        36.0,
+        437.82,
+        382.2,
+        689.82
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 85,
+      "asset": "headneck/images/hn05_lecture_p38_2.jpeg",
+      "asset_sha256": "6f63a34f305642abd91481cf04535e94c0192374d095bf61b8ea5390d741f968",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 38,
+      "bbox": [
+        36.0,
+        78.85,
+        569.95,
+        326.55
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 86,
+      "asset": "headneck/images/hn05_lecture_p38_1.jpeg",
+      "asset_sha256": "f1348c537aad6bef913dcb3309dc7af287ce3a6f63018f055ab3a5fd00b7ec32",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 38,
+      "bbox": [
+        14.7,
+        438.65,
+        579.3,
+        752.6
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 87,
+      "asset": "headneck/images/hn05_lecture_p39_1.jpeg",
+      "asset_sha256": "56100c3d6eedcef551443c38e0c0ba7a4635402f86c459b2d264d788e88d82e1",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 39,
+      "bbox": [
+        55.2,
+        78.65,
+        576.0,
+        367.2
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 88,
+      "asset": "headneck/images/hn05_lecture_p39_2.jpeg",
+      "asset_sha256": "baa98da5f446a642ddb9f02b052b34099b824bd02b37ff00e2c3d0eeb0e3e538",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 39,
+      "bbox": [
+        15.0,
+        438.36,
+        481.2,
+        666.66
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 89,
+      "asset": "headneck/images/hn05_lecture_p40_1.jpeg",
+      "asset_sha256": "1355eba7fc14d091846f864e9691d451073ec6bf38b7559650c0a4006c4b55d5",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 40,
+      "bbox": [
+        91.8,
+        118.8,
+        447.6,
+        366.9
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T12",
+      "output_page": 90,
+      "asset": "headneck/images/hn05_lecture_p40_2.jpeg",
+      "asset_sha256": "5d8426a5300b89db555427f9d883f63badee4777946f0df812f11dc18cf63136",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 40,
+      "bbox": [
+        0.0,
+        440.31,
+        400.35,
+        656.31
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T13",
+      "output_page": 93,
+      "asset": "headneck/images/hn05_lecture_p42_1.jpeg",
+      "asset_sha256": "a29ecd44db47e118edeb492d0de26102c94f6316173b34b944e0b5896d80c69e",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 42,
+      "bbox": [
+        40.25,
+        70.25,
+        494.5,
+        289.75
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T13",
+      "output_page": 94,
+      "asset": "headneck/images/hn05_lecture_p42_2.jpeg",
+      "asset_sha256": "b89c06a5b8a9352324f378897ca6a3b874f997d2aaef17aeea0e132ee74c8a92",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 42,
+      "bbox": [
+        49.7,
+        362.56,
+        556.15,
+        635.71
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T13",
+      "output_page": 95,
+      "asset": "headneck/images/hn05_grays_spaces.jpeg",
+      "asset_sha256": "581346ec72bf8c6a5c75b1e534042b91b746dc23803ac52213ba2c2e8e169cf2",
+      "book": "grays",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "source_pdf_page": 30,
+      "bbox": [
+        90,
+        510,
+        550,
+        720
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T13",
+      "output_page": 96,
+      "asset": "headneck/images/hn05_u_fascia_sagittal.jpeg",
+      "asset_sha256": "279dc272866a933d749164561f126208a3c08b90b123e0824f9feb98f0f2437f",
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 103,
+      "bbox": [
+        48,
+        420,
+        585,
+        724
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T14",
+      "output_page": 98,
+      "asset": "headneck/images/hn05_lecture_p43_1.jpeg",
+      "asset_sha256": "2ae9fe94b366eb73124661411e69c4a43c595330fd7be065283629f5ad339ac4",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 43,
+      "bbox": [
+        14.25,
+        326.5,
+        597.1,
+        669.65
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T14",
+      "output_page": 99,
+      "asset": "headneck/images/hn05_lecture_p44_1.jpeg",
+      "asset_sha256": "bc1099802d6139367b70589b827f494099d8c40d315c859415d0b5ff9a9242e7",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 44,
+      "bbox": [
+        36.0,
+        74.55,
+        587.1,
+        403.67
+      ],
+      "mask_rects": []
+    },
+    {
+      "topic": "hn05-T14",
+      "output_page": 100,
+      "asset": "headneck/images/hn05_lecture_p45_1.jpeg",
+      "asset_sha256": "6a7cb23a96353ebe5970129dd03b5b7a1484bb96d5056ba912663326e879b6df",
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 45,
+      "bbox": [
+        108.0,
+        155.64,
+        576.0,
+        447.29
+      ],
+      "mask_rects": []
+    }
+  ],
+  "sources": [
+    {
+      "file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "sha256": "747c6412cbebb07a4e0fc0ca0c29390b11441afad3b7ba8d7d72e166b1990270"
+    },
+    {
+      "file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd"
+    },
+    {
+      "file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a"
+    }
+  ],
+  "baseline_pdf_sha256": "9ec70b745fc91b0740065bef73c83661761ee0b5b2dc4a311ec121194286fe70",
+  "content": [
+    {
+      "file": "headneck/content/hn05_a.json",
+      "sha256": "11b9a9d3640d435b1dd6e7aa744e1c829b5dabd7307763c373418e6d9c8530e8"
+    },
+    {
+      "file": "headneck/content/hn05_b.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "file": "headneck/content/hn05_transcription.json",
+      "sha256": "ce0f32d50960a26dd8a24fdb41077a2723db8f50b68019c018f1b8a5fac92959"
+    },
+    {
+      "file": "headneck/content/hn05_update.json",
+      "sha256": "6f7dd0c18a4f896d7316b16779b0a90025ca163ad8baf989771e1acd3bf14b81"
+    }
+  ],
+  "qa": {
+    "hard_errors": 0,
+    "warnings": 58,
+    "warning_scope": "58 existing two-label glossaries; not hidden additions to satisfy count"
+  },
+  "tests_passed": 21,
+  "limitations": "Automated integrity is not evidence of source reading or medical validation. Helvetica is a standard Base14 resource; six TrueType subsets are embedded."
+}

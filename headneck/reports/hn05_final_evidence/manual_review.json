@@ -1,0 +1,736 @@
+{
+  "pdf_sha256": "e8092e9917b6a6d125d6cdc4e9cbfc2951f99014bbab356d4ee64a56ff393f27",
+  "reviewer": "Same assistant, editorial pass after generation; not independent human specialist",
+  "method": "Each page individually opened with read_file at 1.45x; not inferred from rendering or automated checks.",
+  "reviewed_pages": [
+    {
+      "page": 1,
+      "render": "pages/001.jpg",
+      "render_sha256": "d89d8bc095451435f3bc5c6552d553b43471a13fe233886f7eb6e13f38f1d23c",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 2,
+      "render": "pages/002.jpg",
+      "render_sha256": "92396e7f56d72b5aa932a089decdca4e77a0d0c865d3b94a586b214a0b3b4d78",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 3,
+      "render": "pages/003.jpg",
+      "render_sha256": "42b11aeffe114f7a271ade66d55fbcdaf83dd5002ed1751a387cd9d71ae7e3cd",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 4,
+      "render": "pages/004.jpg",
+      "render_sha256": "c175e4aeff2984b12b5d718a8d7d92f10766908f5f75978d89e14768d6e39e02",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 5,
+      "render": "pages/005.jpg",
+      "render_sha256": "553e1b8a047efcf9c7b870457f3f683eb2741f765c4945450329528c2d22cb5c",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 6,
+      "render": "pages/006.jpg",
+      "render_sha256": "639c889435a6a1bbf76971b27c6548b62b366b1e186cbe53f84de514b370f537",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 7,
+      "render": "pages/007.jpg",
+      "render_sha256": "82a342748c382f13739d0b7c23790975ac6deb88fb08c7a876c2763a2b189b56",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 8,
+      "render": "pages/008.jpg",
+      "render_sha256": "10cab8b7086388610ccf24d35a81e0fad0ae84ed84162c3e4bd77658a3bf4222",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 9,
+      "render": "pages/009.jpg",
+      "render_sha256": "65ecaf9dcf03a40f5d222d65fde162613987519080d9b7eafb5a5415ed7d0986",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 10,
+      "render": "pages/010.jpg",
+      "render_sha256": "fbe436d48e89c9c6d4e115298ed82855044b5edd72083f9554f8d8c052aef470",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 11,
+      "render": "pages/011.jpg",
+      "render_sha256": "cf7bc6587918f63efefea34fbbce16489a70f91deca0f7a0eca8fc58007da7ea",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Legacy image/label quality limitation retained; not all fine labels complete or legible."
+    },
+    {
+      "page": 12,
+      "render": "pages/012.jpg",
+      "render_sha256": "f345ce9cfd8726bde226402798db357a54361d33b86ae538eb7f7e513c7187d9",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 13,
+      "render": "pages/013.jpg",
+      "render_sha256": "b497a04163c4f22be8bfe371c35bafa1dd8f1b676e79cf5660cf75d81177ab15",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 14,
+      "render": "pages/014.jpg",
+      "render_sha256": "9bb12ca55eeb73cb5de1f0086d6c8adf67394cf6013f5d7ab1d3627e8467926e",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 15,
+      "render": "pages/015.jpg",
+      "render_sha256": "75836470a973e3a8f4d32c1ec1ae2401d422f1d03edab2f8c0cd808f91d2d813",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 16,
+      "render": "pages/016.jpg",
+      "render_sha256": "63815d35b1a37ebd873ca255b3b41ad0dae655b2d4ae269962fc3f4c453beb0f",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 17,
+      "render": "pages/017.jpg",
+      "render_sha256": "477ed9408a4e251034f88a7852e4aeb1f6216c88f6cd3c71c2f956ed02170522",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 18,
+      "render": "pages/018.jpg",
+      "render_sha256": "3cda906077faf51c746cde79d2ddf7967e84de1147c5bda7de8f70afa82db966",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 19,
+      "render": "pages/019.jpg",
+      "render_sha256": "070924cb4a5fe56c2a73f3a6b4bd7f27c8953cf66721d53a795412235b996953",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 20,
+      "render": "pages/020.jpg",
+      "render_sha256": "6b7c629e53637282aa46e9b75f1ab8cf7a75ad69eaff056c0982037c6fc614b9",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 21,
+      "render": "pages/021.jpg",
+      "render_sha256": "b9cce7f60b485174f8441f7407bec065e42e1a94afe82eec7470a2749b76d4c9",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 22,
+      "render": "pages/022.jpg",
+      "render_sha256": "40619f435af07b5090f94abc43f3f1df1c8c87e30d58989a244b0c786e9ac0df",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 23,
+      "render": "pages/023.jpg",
+      "render_sha256": "8172282f1733875462a925acfbb56373c2a2ccf7271a858ddaba5abc43bc55db",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 24,
+      "render": "pages/024.jpg",
+      "render_sha256": "5fca428c37fa84b7b714ccf981bd984d42d780f0db6fbe6a21f0f6bd102902d3",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 25,
+      "render": "pages/025.jpg",
+      "render_sha256": "4d685b696c83f8a327d76a687249b95a32866278960dc2af40d4f0afcfc57e5b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 26,
+      "render": "pages/026.jpg",
+      "render_sha256": "2e734f661052bebf699b4cb8074a6eb9fc04d67f991b0d4962d75f18275ee67b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Legacy image/label quality limitation retained; not all fine labels complete or legible."
+    },
+    {
+      "page": 27,
+      "render": "pages/027.jpg",
+      "render_sha256": "9b4d7812fe743d031828a19d96c8df667404853e6eea4f46bf502b03be2bc99b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 28,
+      "render": "pages/028.jpg",
+      "render_sha256": "3460fe74330ccea8159de04508fe01a5806b548c26f8629da2b48175c6d7c042",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 29,
+      "render": "pages/029.jpg",
+      "render_sha256": "aff413242cd226f825aff49fd588e5d5e8c6c63519c43f9b8dd47a1d300061f4",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 30,
+      "render": "pages/030.jpg",
+      "render_sha256": "df38258108e077450cffbdadaa63c06109f1e61c40ed121aa322b2b6dd3aae67",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 31,
+      "render": "pages/031.jpg",
+      "render_sha256": "0627b3aa6f845288f7980a3c378a3258d0d849e91b583ba53b69cc1ff6b63770",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 32,
+      "render": "pages/032.jpg",
+      "render_sha256": "92b6543a6f7d574829761e61ea28a03a40dad54a7232173f2859cc769efd5f03",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 33,
+      "render": "pages/033.jpg",
+      "render_sha256": "121e63615f52f09506ae4c8d9dbff0f1174b933c26521e6f4c8e75a721e0ce7c",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 34,
+      "render": "pages/034.jpg",
+      "render_sha256": "8dc3180f0b9e349feaae42bbc9cc10568dc88890edb66f453d2c39fa40346407",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 35,
+      "render": "pages/035.jpg",
+      "render_sha256": "1b97bf74c2059105951023b821e4e4bb80104f85c58e3e71882db95c100fdf69",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 36,
+      "render": "pages/036.jpg",
+      "render_sha256": "c8ae0e8f116abdd2ac12d80e68babc657a9de11ae6325f01dfe47b3b529424f9",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 37,
+      "render": "pages/037.jpg",
+      "render_sha256": "cf134ad8e1fccffcc3b0d5b0e2179d30114b83ab3ade393f730abb11dc4a50a2",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Legacy image/label quality limitation retained; not all fine labels complete or legible."
+    },
+    {
+      "page": 38,
+      "render": "pages/038.jpg",
+      "render_sha256": "8fd1f0d6e45519858b2a55ecb1cb3f11c53ed0f1a9498ae0e52541c936a2b53f",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 39,
+      "render": "pages/039.jpg",
+      "render_sha256": "a35cb10278cd89308ada332d72ed6c00d348d1011350c95925fcd7fbb3b5090b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 40,
+      "render": "pages/040.jpg",
+      "render_sha256": "78528f4b974500005674f1fd018e2a03d09048789d48ae7b583b93f3af2fea0e",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Tiny fragment of adjacent panel remains at lower right; not target anatomy."
+    },
+    {
+      "page": 41,
+      "render": "pages/041.jpg",
+      "render_sha256": "904c6dc9967b6be3899de93de26530e7375fcb5901fdf93fd527fa69488e6900",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Tiny adjacent-panel fragment at upper right; guide distinguishes it."
+    },
+    {
+      "page": 42,
+      "render": "pages/042.jpg",
+      "render_sha256": "20e3db934d0ae5f3fc322d2f3a421067141b47c2fb211d5136a318dcda24831d",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 43,
+      "render": "pages/043.jpg",
+      "render_sha256": "e515a112e52bee1c442be3910be10693881a23e3dd17831fdcb7b7ee50dc9b0b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 44,
+      "render": "pages/044.jpg",
+      "render_sha256": "665285cf52aa58742ed340a455cb2461cfd5e82abee233fc09a2aef7b9b8c1ac",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 45,
+      "render": "pages/045.jpg",
+      "render_sha256": "df988eddfceffc10f7bc3dc3e3e4c95113bdd49c3ce307eb9f65def8a077aa11",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 46,
+      "render": "pages/046.jpg",
+      "render_sha256": "00633d46c354ca359a0d49abbd0a2ad966413be8aaebef6b539cf1922fa238d8",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 47,
+      "render": "pages/047.jpg",
+      "render_sha256": "87e8f59ee5d6e487a48c6077e1a9ed8e73d12d69f0168638bd6dad16c153fdc2",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 48,
+      "render": "pages/048.jpg",
+      "render_sha256": "b519bac134db1db4867dc67f6d8b39c3e8cc3180ce642e4cd9d05c55dde10915",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 49,
+      "render": "pages/049.jpg",
+      "render_sha256": "95601b83c94d25426e720ea891055829bbe68782a9244859ff6c60f7c1c0675a",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 50,
+      "render": "pages/050.jpg",
+      "render_sha256": "14400de508de90ae47fc679738f34fe336648dbad65c15d14142b5cec26729a7",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 51,
+      "render": "pages/051.jpg",
+      "render_sha256": "4e49a949c7d1f2032250b2a9325a716caa3c5e59d1a915ceaf633824f77c1e58",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 52,
+      "render": "pages/052.jpg",
+      "render_sha256": "5d4857b76aff74c1b6233ba0bf5c65d97b3992a8cc04645d78f07fecb9d4d52c",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 53,
+      "render": "pages/053.jpg",
+      "render_sha256": "84f456b817ca349c17e33755ee90ed971860492b45fbc6dd14ba964cfc5ced4b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 54,
+      "render": "pages/054.jpg",
+      "render_sha256": "084e8330f5e7dca2bc70dcd9c9f66cea659857ed0efad4ec123fd286601efbb5",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 55,
+      "render": "pages/055.jpg",
+      "render_sha256": "78e28ecfd48683e93622b66183aeabdf302cee68ef36186c72fd8a49402996ce",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 56,
+      "render": "pages/056.jpg",
+      "render_sha256": "929f35d6d74a8681c96584a46b258d4f29e1aa3f603a5e60ac9aebf89efb82eb",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 57,
+      "render": "pages/057.jpg",
+      "render_sha256": "2706b6bf3f496a5ee2743391a1cb1e1f4adf0079d41ac783b5503d6b29b36878",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 58,
+      "render": "pages/058.jpg",
+      "render_sha256": "9487e427e06d314aa1231d0dbeb047184fb307ce1e6dc9e97e6d5dbd920687f1",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 59,
+      "render": "pages/059.jpg",
+      "render_sha256": "4027c3eb40b2207d607dd3bd4f15cdecc60f5265186eadebd0f1b15a742e1891",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 60,
+      "render": "pages/060.jpg",
+      "render_sha256": "2a46f9f6ba8ca17de0046b1bc437324fba4ba44d32a8f62437d39c1494cbc147",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 61,
+      "render": "pages/061.jpg",
+      "render_sha256": "dfe74ac2c7397c05ddacba9ad8e61f2df21365651db2add24d077391e5cc4c0f",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 62,
+      "render": "pages/062.jpg",
+      "render_sha256": "2859eab588c8cad443c4daa2e8db6987b3e2c1348395179241804044d14d5fb8",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 63,
+      "render": "pages/063.jpg",
+      "render_sha256": "59381de163f49fb9cbfef672806cfb5d534353dd5775bee19818889213b0b2f4",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 64,
+      "render": "pages/064.jpg",
+      "render_sha256": "56f67cf5636012de7c4b9cc2a567c8967fe71f41a3c18250930c6c75fc658d2e",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 65,
+      "render": "pages/065.jpg",
+      "render_sha256": "db1c78de94c9657df2169e76af30050b36c4ab161fa84ca71e59bb6f943e5a38",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 66,
+      "render": "pages/066.jpg",
+      "render_sha256": "6da5419259c24728da317c6847f57aaa8a3e0064b1b3f46e70645f589abc79bb",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 67,
+      "render": "pages/067.jpg",
+      "render_sha256": "cbd427f85c930fbdc7676c88d10c49c5f40a7241e6a494e4cf8416670585443d",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 68,
+      "render": "pages/068.jpg",
+      "render_sha256": "9041a69d58d42c9510f6d154209492b92f9e488e5172d868a01eacd287b32d80",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 69,
+      "render": "pages/069.jpg",
+      "render_sha256": "0b139635c7f960ffca9ac36250352dd034777db93da1617cdc89e71d3d41dbb3",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 70,
+      "render": "pages/070.jpg",
+      "render_sha256": "a3fdcebcf4866d717d5f3675df71010b4270d5d2c8cbccdfcd386b766677aa2b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Fine source labels need zoom; no full source page substituted."
+    },
+    {
+      "page": 71,
+      "render": "pages/071.jpg",
+      "render_sha256": "eb1233951540f79b0f7036994f467035a89a4d23cd9bf3768eeca925e43d330d",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 72,
+      "render": "pages/072.jpg",
+      "render_sha256": "e13ebf1675244ddc28ef4b490913b9a59e093b56bb55094d5fb8ff6ece538a16",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 73,
+      "render": "pages/073.jpg",
+      "render_sha256": "db9f42eb4ace162ccaf45ce9dab3f744d9d67876f99c67a1e64456ba65122dd8",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 74,
+      "render": "pages/074.jpg",
+      "render_sha256": "2f91469842415e6b0aca15a5b7ec757077c29c175159b121e07cbef474050d04",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 75,
+      "render": "pages/075.jpg",
+      "render_sha256": "b2fbe92b0f34b756e4228a2c3a54f664cde6994765f687e13e097e448f4b28e0",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 76,
+      "render": "pages/076.jpg",
+      "render_sha256": "67531836770e3de5b51c6575a9314189cbb1471f8dfd95416828694706036127",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 77,
+      "render": "pages/077.jpg",
+      "render_sha256": "79be54cb2240ca3bc8560dceb6d4f13df039cd8a42b146f52a1c1cfe1c1d5615",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 78,
+      "render": "pages/078.jpg",
+      "render_sha256": "157a7b83ff380896c0fcc4897bb1ea941f4ded196397de680cd5be3b4edcc312",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 79,
+      "render": "pages/079.jpg",
+      "render_sha256": "468a227312a355f17d713928ca3ad42c0c1ece0f85282566cb11f95376462f5a",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 80,
+      "render": "pages/080.jpg",
+      "render_sha256": "4932e85889098318c5ff2887c922a1940ab00a640b46d7ccfe54f1dc5f012f46",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 81,
+      "render": "pages/081.jpg",
+      "render_sha256": "788d7eeb1b9c154357977554f04cbebbe1bb3e5c78aa9882b2ab5796be25f5ac",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 82,
+      "render": "pages/082.jpg",
+      "render_sha256": "cf9068135f2d231430a3e536f36f5cdc7e5574371e458a2c3338787d47e9105c",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 83,
+      "render": "pages/083.jpg",
+      "render_sha256": "4a52e2bf799c9b3da2700e221d5218fa6d04c18aa61945b6fc32e3b029fab726",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 84,
+      "render": "pages/084.jpg",
+      "render_sha256": "6fbb48f80f6d03901dedd6df4a74408739a35cc7a68d9adde1305da420102b21",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 85,
+      "render": "pages/085.jpg",
+      "render_sha256": "64b110fd3775d3b9e7438988fa90ab5eb256a17b97e33bf100f397a4359f53f5",
+      "status": "VISUALLY_REVIEWED",
+      "note": "White lower area accepted to keep figure whole."
+    },
+    {
+      "page": 86,
+      "render": "pages/086.jpg",
+      "render_sha256": "0372c2042e3db07679cd52cbd6add2475558e5309b8a042831fe875a842bf6a6",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 87,
+      "render": "pages/087.jpg",
+      "render_sha256": "eefcc60d97a668b9dcfeeecec8d08e603a13809476ac2e91505270692e1c562d",
+      "status": "VISUALLY_REVIEWED",
+      "note": "White lower area accepted to keep figure whole."
+    },
+    {
+      "page": 88,
+      "render": "pages/088.jpg",
+      "render_sha256": "958e9c5a8295b66e69d7994d086f19c7c3440341ff1e33db052fc6b1f7891b0b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 89,
+      "render": "pages/089.jpg",
+      "render_sha256": "47d723278c770031a92f9419ad4f16cb05d3b831f21d0fddb14ac72d1da1da40",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 90,
+      "render": "pages/090.jpg",
+      "render_sha256": "4d55651e849bab0807ac97a9abc1986d31d01ef107538fb10f68136bae6a6db4",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 91,
+      "render": "pages/091.jpg",
+      "render_sha256": "eec0fa7cc367d7b3dcc08a692739c02ea26783749f4633e580087e2a40a3104f",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 92,
+      "render": "pages/092.jpg",
+      "render_sha256": "1c84e55728636afe516d840f186ea55e96e157a2d482027fcbe737c08c97da04",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 93,
+      "render": "pages/093.jpg",
+      "render_sha256": "b0c59855d915b85b1f08a3c5fd70ecc411c6360f7c5b9e1faef1b11112ff6209",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 94,
+      "render": "pages/094.jpg",
+      "render_sha256": "f6620fc9462a3bf918b286c0796566f3a09309f5066eb0931803a831c01f080d",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 95,
+      "render": "pages/095.jpg",
+      "render_sha256": "0d09662a980fda9a895875a7b72b65637a4d9f3bbf0e55c06caf90dbfed8bc86",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Independent space framework clarification; source line continues on p96."
+    },
+    {
+      "page": 96,
+      "render": "pages/096.jpg",
+      "render_sha256": "70a2942b2b0a7542222b53fa2267be4377db1eca5acf58636fc4f6f19f715c24",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Continuation source line at top retained; anatomical reference complete."
+    },
+    {
+      "page": 97,
+      "render": "pages/097.jpg",
+      "render_sha256": "4cdb77a109bc1bda4cb019a26fada6ee7bf8a8e25a8764b16aaf8c1843398808",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 98,
+      "render": "pages/098.jpg",
+      "render_sha256": "cfea7de11c27db545925875c6b72f5fa53e31c4d4a8ca10a210f891b352ebedd",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 99,
+      "render": "pages/099.jpg",
+      "render_sha256": "3377b23f8bf55080fb0fd5dc8cb989ee8ee9902913627b6f536428cae09daa95",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Original hyoid heading clipped in lecture image; source faithful; independent anatomy clarification p101."
+    },
+    {
+      "page": 100,
+      "render": "pages/100.jpg",
+      "render_sha256": "48b2465636531da25fbf1b1685eec1d3ea879690debc71de1592b83435b567ef",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 101,
+      "render": "pages/101.jpg",
+      "render_sha256": "81c402daf545d0733d6b6025648c061d514ff03847c816f4c65ed2fbc411f623",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 102,
+      "render": "pages/102.jpg",
+      "render_sha256": "6c7888cf32c6c6363caa9d6e3713d9c756063c9d913fac57c19721518534ebb2",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 103,
+      "render": "pages/103.jpg",
+      "render_sha256": "591e2155bf53fa1536c4ad0055559c188e5711ff696a0a402ad3b151dc95753f",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    },
+    {
+      "page": 104,
+      "render": "pages/104.jpg",
+      "render_sha256": "ac7e0d8ff092a9d99774b704f15e35b9bf5da0357bfab62677297bb03043ecaa",
+      "status": "VISUALLY_REVIEWED",
+      "note": "Text flow, frame/table placement, margins and page content inspected; no blocking layout defect observed."
+    }
+  ],
+  "not_yet_reviewed": []
+}

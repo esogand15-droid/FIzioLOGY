@@ -6070,6 +6070,345 @@
    "path": "headneck/images/hn04_netter125_labyrinth.jpeg",
    "note": "Upper illustration — labyrinth schema",
    "mask_rects": []
+  },
+  {
+   "asset_id": "hn05_u_atlas_axis_lower",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 95,
+   "plate": 43,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    45,
+    300,
+    585,
+    492
+   ],
+   "path": "headneck/images/hn05_u_atlas_axis_lower.jpeg",
+   "w": 1620,
+   "h": 576,
+   "bytes": 181124,
+   "note": "Atlas inferior and axis posterosuperior views",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn05_u_assembled",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 95,
+   "plate": 43,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    90,
+    495,
+    520,
+    730
+   ],
+   "path": "headneck/images/hn05_u_assembled.jpeg",
+   "w": 1290,
+   "h": 705,
+   "bytes": 140251,
+   "note": "Assembled C1–C4",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn05_u_c7",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 96,
+   "plate": 44,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    45,
+    510,
+    590,
+    758
+   ],
+   "path": "headneck/images/hn05_u_c7.jpeg",
+   "w": 1635,
+   "h": 744,
+   "bytes": 213434,
+   "note": "C7 superior view and original variation footnote",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn05_u_external_lateral",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 98,
+   "plate": 46,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    40,
+    360,
+    600,
+    720
+   ],
+   "path": "headneck/images/hn05_u_external_lateral.jpeg",
+   "w": 1680,
+   "h": 1080,
+   "bytes": 270272,
+   "note": "External ligaments: lateral panel",
+   "mask_rects": [
+    [
+     335,
+     360,
+     600,
+     490
+    ],
+    [
+     40,
+     360,
+     300,
+     367
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn05_u_tectorial",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 99,
+   "plate": 47,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    55,
+    100,
+    560,
+    350
+   ],
+   "path": "headneck/images/hn05_u_tectorial.jpeg",
+   "w": 1515,
+   "h": 750,
+   "bytes": 232081,
+   "note": "Tectorial membrane intact",
+   "mask_rects": [
+    [
+     345,
+     257,
+     560,
+     350
+    ],
+    [
+     330,
+     320,
+     345,
+     350
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn05_u_cruciform",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 99,
+   "plate": 47,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    140,
+    255,
+    580,
+    473
+   ],
+   "path": "headneck/images/hn05_u_cruciform.jpeg",
+   "w": 1320,
+   "h": 654,
+   "bytes": 165094,
+   "note": "Tectorial membrane removed; cruciform ligament",
+   "mask_rects": [
+    [
+     140,
+     255,
+     310,
+     350
+    ],
+    [
+     140,
+     465,
+     320,
+     473
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn05_u_alar",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 99,
+   "plate": 47,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    80,
+    465,
+    580,
+    704
+   ],
+   "path": "headneck/images/hn05_u_alar.jpeg",
+   "w": 1500,
+   "h": 717,
+   "bytes": 240374,
+   "note": "Lower pair: deeper ligaments and median joint",
+   "mask_rects": [
+    [
+     340,
+     465,
+     580,
+     474
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn05_u_transverse",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 99,
+   "plate": 47,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    300,
+    530,
+    580,
+    703
+   ],
+   "path": "headneck/images/hn05_u_transverse.jpeg",
+   "w": 840,
+   "h": 519,
+   "bytes": 95337,
+   "note": "Median atlantoaxial joint: superior view",
+   "mask_rects": [
+    [
+     300,
+     530,
+     326,
+     560
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn05_u_cervical_plexus",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 109,
+   "plate": 57,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    45,
+    90,
+    585,
+    398
+   ],
+   "path": "headneck/images/hn05_u_cervical_plexus.jpeg",
+   "w": 1620,
+   "h": 924,
+   "bytes": 298992,
+   "note": "Cervical plexus schema, upper illustration",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn05_u_cutaneous",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 108,
+   "plate": 56,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    45,
+    80,
+    585,
+    398
+   ],
+   "path": "headneck/images/hn05_u_cutaneous.jpeg",
+   "w": 1620,
+   "h": 954,
+   "bytes": 277797,
+   "note": "Cutaneous nerves: upper illustration",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn05_u_fascia_cross",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 103,
+   "plate": 51,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    48,
+    80,
+    585,
+    420
+   ],
+   "path": "headneck/images/hn05_u_fascia_cross.jpeg",
+   "w": 1611,
+   "h": 1020,
+   "bytes": 406843,
+   "note": "Cross section: complete legend",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn05_u_fascia_sagittal",
+   "session": "hn05",
+   "book": "netter",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 103,
+   "plate": 51,
+   "figure": null,
+   "printed_page": null,
+   "bbox": [
+    48,
+    420,
+    585,
+    724
+   ],
+   "path": "headneck/images/hn05_u_fascia_sagittal.jpeg",
+   "w": 1611,
+   "h": 912,
+   "bytes": 297387,
+   "note": "Midsagittal section: complete legend",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn05_u_veins",
+   "session": "hn05",
+   "book": "grays",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 31,
+   "plate": null,
+   "figure": "8.160",
+   "printed_page": 1003,
+   "bbox": [
+    50,
+    270,
+    570,
+    715
+   ],
+   "path": "headneck/images/hn05_u_veins.jpeg",
+   "w": 1560,
+   "h": 1335,
+   "bytes": 344943,
+   "note": "Figure 8.160 superficial veins",
+   "mask_rects": []
   }
  ]
 }
