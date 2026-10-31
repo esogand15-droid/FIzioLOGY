@@ -258,3 +258,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## جزوهٔ مادر جلسهٔ ۴ — به‌روزرسانی جزوه‌نویسی
 
 ۲۰ برگهٔ تحویل اختصاصی، دو نمودار رابطه‌ای و چک‌لیست نهایی با حفظ بلوک‌ها و تصاویر نسخهٔ قبلی در `pdf/HumsYar_HeadNeck_Jalase4_WRITER_FINAL.pdf` قرار دارند. محدودهٔ کنترل و هش‌ها در `headneck/reports/HN_S04_WRITER_UPDATE.md` ثبت شده است؛ PDF نهایی قبلی محفوظ است.
+
+## قالب مشترک صفحه‌های آغازین و پایانی جلسات ۱ تا ۴
+
+جلد، صفحهٔ ساختار و قاعدهٔ خواندن، فهرست، آغاز فصل و پشت جلد چهار نسخه مطابق الگوی درخواستی بازسازی شد. جزئیات، مقایسهٔ ساخت‌ها و هش‌ها در `headneck/reports/HN_S01_S04_SHELL_UPDATE.md` قرار دارد.

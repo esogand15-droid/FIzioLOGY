@@ -8,6 +8,7 @@ import pymupdf
 import build_hn01_updated_review as R
 import hn02_writer_copy as W
 import writer_handoff as WH
+import writer_shell as SHELL
 K,H=R.K,R.H
 OUT=ROOT/'.cache/hn02_writer_final'
 BAD=re.compile(r'IMG[-ـ]?\d+|SRC[-ـ]?\d+|hn\d\d[-–]T\d+|C-\d{3}|JSON|BLOCKED|NOT_YET|PENDING|INTEGRATED|غیرنهایی|پیش‌نویس|رونویسی در حال مقابله|بازبینی علمی',re.I)
@@ -60,14 +61,8 @@ def build(path,toc=None):
  base,plan,outline,assets,n_overlay=inputs();cfg=H.HN_SESSIONS['hn02']
  book=Book(path,'جزوهٔ مادر آناتومی سر و گردن — جلسهٔ ۲',footer='HumsYar · جزوهٔ مادر سر و گردن · جلسهٔ ۲',subject='نسخهٔ نهایی جزوه‌نویسی')
  book.measure_idcard=True;book.keep_parenthesized_latin=True;book.block_trace=[];book.trace_topic=''
- book.dark_page(cover,reuse_blank_page=True)
- book.h1('راهنمای استفادهٔ جزوه‌نویس')
- book.para('متن درس، شکل‌های مربوط، توضیح‌های آموزشی، جدول، تمرین و راهنمای نگارش در ترتیب مباحث جلسه قرار گرفته‌اند. متن درس و توضیح تکمیلی از هم جدا هستند؛ منبع هر متن یا شکل در کنار همان بخش آمده است.')
- book.para('ابتدا شناسنامه و متن درس را بخوانید؛ سپس جهت نمای شکل، مقایسه‌ها و مسیرها را با متن مرتبط کنید. در پایان هر مبحث برگهٔ تحویل و در پایان جلسه چک‌لیست مرور قرار دارد.')
- book.new_page();book.h1('فهرست مباحث')
- for i,t in enumerate(outline['topics'],1):book.toc_row(K.fa_digits(str(i)),t['title'],(toc or {}).get(t['topic_id'],'—'),step=23)
- book.toc_row('پ','جمع‌بندی، چک‌لیست و برگهٔ تحویل',(toc or {}).get('hn-summary','—'),step=23)
- book.new_page();book.h1('از گونه تا آهیانه',anchor='chapter',kicker='جلسهٔ دوم');book.para(cfg['outcome'])
+ SHELL.opening(book,2,outline,toc)
+ book.h1('از گونه تا آهیانه',anchor='chapter',kicker='جلسهٔ دوم');book.para(cfg['outcome'])
  graphs=graph_data(outline);geometry=R.layouts(book,graphs)
  stats={'base_blocks':sum(len(t['blocks']) for t in base),'overlay_blocks':n_overlay,'topics':{},'figures':[],'source_text_sha256':{}}
  for idx,t in enumerate(outline['topics'],1):
@@ -126,6 +121,7 @@ def build(path,toc=None):
  rows=[['مبحث '+K.fa_digits(str(i))+' — '+t['title'],(t.get('gist') or t['title']).rstrip(' .')+'؟','☐'] for i,t in enumerate(outline['topics'],1)]
  H.emit_table(book,['چک‌لیست خودآزمایی','می‌توانم این را توضیح دهم؟','☐'],rows,widths=[K.CONTENT_W*.30,K.CONTENT_W*.58,K.CONTENT_W*.12],caption='چک‌لیست خودآزمایی جلسهٔ ۲',size=8.2)
  if book.missing_assets:raise ValueError(book.missing_assets)
+ SHELL.next_section(book,2);SHELL.back(book,2)
  book.save();stats['pages']=book.page;return book.heading_pages,stats
 
 def main():

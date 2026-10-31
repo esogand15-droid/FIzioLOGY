@@ -7,6 +7,7 @@ sys.path[:0]=[str(ROOT/'render'),str(Path(__file__).parent)]
 import pymupdf
 import build_headneck as H
 import hn04_writer_copy as W
+import writer_shell as SHELL
 import build_hn01_updated_review as R
 K=H.K
 OUT=ROOT/'.cache/hn04_writer_update'
@@ -48,13 +49,8 @@ def build(path,toc=None):
  base,content,outline=inputs();cfg=H.HN_SESSIONS['hn04']
  book=Book(path,'جزوهٔ مادر آناتومی سر و گردن — جلسهٔ ۴',footer='HumsYar · جزوهٔ مادر سر و گردن · جلسهٔ ۴',subject='جزوهٔ مادر')
  book.measure_idcard=True;book.keep_parenthesized_latin=True;book.block_trace=[];book.trace_topic=''
- book.dark_page(cover,reuse_blank_page=True)
- book.h1('راهنمای استفادهٔ جزوه‌نویس')
- book.para('شناسنامه، متن درس، تصویرها و توضیح‌های تکمیلی در ترتیب مباحث قرار دارند. منبع هر متن یا تصویر کنار همان بخش آمده است. در پایان هر مبحث برگهٔ تحویل و در پایان جلسه چک‌لیست مرور قرار دارد.')
- book.new_page();book.h1('فهرست مباحث')
- for i,t in enumerate(outline['topics'],1):book.toc_row(K.fa_digits(str(i)),t['title'],(toc or {}).get(t['topic_id'],'—'),step=23)
- book.toc_row('پ','جمع‌بندی و چک‌لیست',(toc or {}).get('hn-summary','—'),step=23)
- book.new_page();book.h1('قاعدهٔ جمجمه',anchor='chapter',kicker='جلسهٔ چهارم');book.para(cfg['outcome'])
+ SHELL.opening(book,4,outline,toc)
+ book.h1('قاعدهٔ جمجمه',anchor='chapter',kicker='جلسهٔ چهارم');book.para(cfg['outcome'])
  graphs=graph_data();geometry=R.layouts(book,graphs)
  stats={'base_blocks':sum(len(t['blocks']) for t in base),'merged_blocks':sum(len(v) for v in content.values()),'topics':{},'figures':[],'block_sha256':{}}
  for idx,t in enumerate(outline['topics'],1):
@@ -85,6 +81,7 @@ def build(path,toc=None):
  rows=[['مبحث '+K.fa_digits(str(i))+' — '+t['title'],(t.get('gist') or t['title']).rstrip(' .')+'؟','☐'] for i,t in enumerate(outline['topics'],1)]
  H.emit_table(book,['چک‌لیست خودآزمایی','می‌توانم این را توضیح دهم؟','☐'],rows,widths=[K.CONTENT_W*.30,K.CONTENT_W*.58,K.CONTENT_W*.12],caption='چک‌لیست خودآزمایی جلسهٔ ۴',size=8.2)
  if book.missing_assets:raise ValueError(book.missing_assets)
+ SHELL.next_section(book,4);SHELL.back(book,4)
  book.save();stats['pages']=book.page;return book.heading_pages,stats
 
 def main():

@@ -13,6 +13,7 @@ import pymupdf
 import build_hn01_updated_review as R
 import hn01_writer_copy as W
 import writer_handoff as WH
+import writer_shell as SHELL
 K,H=R.K,R.H
 OUT=ROOT/'.cache/hn01_writer_original_layout'
 BAD=re.compile(r'IMG[-ـ]?\d+|SRC[-ـ]?\d+|hn\d\d[-–]T\d+|C-\d{3}|JSON|jason|BLOCKED|DOCUMENTED|NOT_YET|AUTHORED|INTEGRATED|PENDING|Arena|غیرنهایی|پیش‌نویس|رونویسی در حال مقابله|دروازهٔ نهایی',re.I)
@@ -187,15 +188,8 @@ def build(path,toc=None):
  add=reader_additions();plans,assets,outline,stats=prepare_plan(add)
  book=WriterBook(path,TITLE,footer='HumsYar · جزوهٔ مادر سر و گردن · جلسهٔ ۱',subject='نسخهٔ نهاییِ جزوه‌نویسی؛ جمجمه، پیشانی، بینی و فک فوقانی')
  book.measure_idcard=True;book.keep_parenthesized_latin=True;book.block_trace=[];book.trace_topic='';book.surface=[]
- book.dark_page(cover,reuse_blank_page=True)
- book.h1('راهنمای استفادهٔ جزوه‌نویس')
- book.para('این جزوهٔ مادر، متن جلسهٔ اول را با شکل‌های مرتبط، توضیح مفهومی، جدول‌های مقایسه، نکته‌های تستی، نمودارهای رابطه‌ای و راهنمای نگارش در اختیار گروه جزوه‌نویسی قرار می‌دهد. ترتیب مباحث از جایگاه جمجمه در اسکلت آغاز می‌شود و به پیشانی، بینی، مکسلا و مرور پایانی می‌رسد.')
- book.para('متن برگرفته از درس با ارجاع «جزوهٔ درس» و توضیح‌های تکمیلی با عنوان مشخص آمده‌اند. برای هر شکل، شماره، عنوان، منبع و شرح خواندن درج شده است؛ شمارهٔ داخل عکس را از راهنمای همان عکس بخوانید. شمارهٔ صفحهٔ چاپی کتاب، صفحهٔ فایل و پلیت، هرکدام با نام خود نوشته شده‌اند.')
- book.para('پیشنهاد نگارش: ابتدا متن درس را بخوانید؛ سپس تعریف و رابطهٔ فضایی را با شکل پیوند دهید، جدول مقایسه را بنویسید و به پرسش تستی پاسخ دهید. راهنمای پایان هر مبحث، ترتیب نوشتن و انتخاب نمای مناسب را مشخص می‌کند.')
- book.new_page();book.h1('فهرست مباحث')
- for i,t in enumerate(outline['topics'],1):book.toc_row(K.fa_digits(str(i)),t['title'],(toc or {}).get(t['topic_id'],'—'),step=23)
- book.toc_row('پ','جمع‌بندی، چک‌لیست و برگهٔ تحویل',(toc or {}).get('hn-summary','—'),step=23)
- book.new_page();book.h1('از نما تا استخوان',anchor='chapter',kicker='جلسهٔ اول')
+ SHELL.opening(book,1,outline,toc)
+ book.h1('از نما تا استخوان',anchor='chapter',kicker='جلسهٔ اول')
  book.para(H.HN_SESSIONS['hn01']['outcome']);geometry=R.layouts(book,add)
  byasset={Path(k).name:v for k,v in assets.items()};cfg=H.HN_SESSIONS['hn01']
  for i,t in enumerate(outline['topics'],1):
@@ -270,6 +264,7 @@ def build(path,toc=None):
   rows.append(['مبحث '+K.fa_digits(str(i))+' — '+t['title'],(t.get('gist') or t['title']).rstrip(' .')+'؟','☐'])
  H.emit_table(book,['چک‌لیست خودآزمایی','می‌توانم این را توضیح دهم؟','☐'],rows,widths=[K.CONTENT_W*.30,K.CONTENT_W*.58,K.CONTENT_W*.12],caption='چک‌لیست خودآزمایی جلسهٔ ۱',size=8.5)
  if book.missing_assets:raise ValueError(book.missing_assets)
+ SHELL.next_section(book,1);SHELL.back(book,1)
  book.save();stats['pages']=book.page;return book.heading_pages,stats
 
 def main():
