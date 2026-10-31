@@ -20,6 +20,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -384,8 +385,8 @@ def front_matter(book: PDFBook, cfg: dict, stats: dict) -> None:
         "این جزوه چگونه ساخته شده است",
         [
             {"label": "قاعدهٔ ساخت",
-             "text": ("محتوای درس بازنویسی و در مبحث‌های مستقل تنظیم شده است؛ این نسخه نقل کامل و واژه‌به‌واژهٔ منبع نیست. "
-                      "هر مبحث شناسنامه، متن، شکل و برگهٔ تحویل دارد." if cfg["n"] == 3 else
+             "text": ("متن رونویسی‌شدهٔ جزوه با برچسب منبع، جدا از توضیحات تکمیلی در مبحث‌ها درج شده است؛ تطبیق نهایی واژه‌به‌واژه در حال انجام است. هر مبحث شناسنامه، متن، شکل و برگهٔ تحویل دارد." if cfg["n"] == 3 and os.environ.get("HUMSYAR_HN03_WIP") == "1" else
+                      "محتوای درس بازنویسی و در مبحث‌های مستقل تنظیم شده است؛ این نسخه نقل کامل و واژه‌به‌واژهٔ منبع نیست. هر مبحث شناسنامه، متن، شکل و برگهٔ تحویل دارد." if cfg["n"] == 3 else
                      "متن هر دو پارت بر اساس جزوه تنظیم و صفحات منبع و خروجی به‌صورت تصویری بررسی شده‌اند. این نسخه برای جزوه‌نویسان است؛ مقابلهٔ مستقلِ واژه‌به‌واژه تضمین نشده است. شناسنامه‌ها و شرح شکل‌ها توضیح تکمیلی‌اند." if cfg["n"] == 4 else
                      "متن و مرور جزوه رونویسی و صفحه‌های منبع و خروجی به‌صورت تصویری بررسی شده‌اند. این نسخه برای کار جزوه‌نویسان آماده شده؛ مقابلهٔ مستقل نهایی واژه‌به‌واژه هنوز انجام نشده است. شناسنامه‌ها و شرح شکل‌ها توضیح تکمیلی‌اند." if cfg["n"] in (1, 2) else
                      "پیش‌نویس: متن صفحه‌های محتوایی و مرور جزوه رونویسی اولیه شده است؛ مقابلهٔ مستقل واژه‌به‌واژه و بررسی جامع جای تصاویر هنوز کامل نشده است. شناسنامه‌ها و شرح شکل‌ها توضیح تکمیلی‌اند.")},
@@ -393,9 +394,11 @@ def front_matter(book: PDFBook, cfg: dict, stats: dict) -> None:
              "text": ("شکل‌های آموزشی هر دو بخش به‌صورت قاب مستقل نزدیک موضوع مربوط جای‌گذاری شده‌اند؛ برخی قاب‌ها به صفحهٔ بعد منتقل می‌شوند." if cfg["n"] == 4 else
                       "قاب‌های مرتبط در همان مبحث یا نزدیک متن آمده‌اند؛ بعضی قاب‌های بزرگ به صفحهٔ بعد منتقل می‌شوند. برش‌ها و شرح‌ها بازبینی تصویری شده‌اند." if cfg["n"] in (1, 2) else
                       "شکل‌ها نزدیک متن مرتبط قرار گرفته‌اند؛ بررسی کامل جای همهٔ آن‌ها در این پیش‌نویس هنوز تمام نشده است." if cfg["n"] == 2 else
+                      "قاب‌ها در مبحث مرتبط قرار گرفته‌اند؛ ممکن است به صفحهٔ بعد منتقل شوند و فاصلهٔ هر شکل تا توضیح آن نیازمند بررسی دیداری است." if cfg["n"] == 3 and os.environ.get("HUMSYAR_HN03_WIP") == "1" else
                       "هر شکل دقیقاً پس از پاراگرافی می‌آید که آن را توضیح می‌دهد؛ هیچ شکلی از متن خودش دور نمی‌افتد و شکل‌ها یک‌جا جمع نمی‌شوند.")},
             {"label": "منابع متن",
-             "text": (f"{cfg['lecture']}؛ متن بازنویسی‌شده از جزوه است. نتر و گری برای شکل‌ها و مقایسهٔ روابط تصویری استفاده شده‌اند." if cfg["n"] == 3 else
+             "text": (f"{cfg['lecture']}؛ رونویسی منبع و توضیحات افزوده با ارجاع مجزا درج شده‌اند. نتر و گری برای شکل‌ها و روابط تصویری استفاده شده‌اند." if cfg["n"] == 3 and os.environ.get("HUMSYAR_HN03_WIP") == "1" else
+                      f"{cfg['lecture']}؛ متن بازنویسی‌شده از جزوه است. نتر و گری برای شکل‌ها و مقایسهٔ روابط تصویری استفاده شده‌اند." if cfg["n"] == 3 else
                       f"{cfg['lecture']} · نتر، اطلس آناتومی انسان (نگرش منطقه‌ای) · گری، آناتومی برای دانشجویان")},
             {"label": "منابع تصویر",
              "text": f"{fa(stats['lec'])} تصویر از جزوهٔ درس · {fa(stats['netter'])} از نتر · "
@@ -472,8 +475,8 @@ def session_intro(book: PDFBook, cfg: dict, outline: dict, stats: dict) -> None:
     book.bullets([
         "هر مبحث با یک شناسنامه باز می‌شود: جای این مبحث در جزوه، و چیزی که باید از آن "
         "یاد گرفته شود.",
-        "بعد متن ساخت‌یافته می‌آید و شکل‌ها همان‌جا کنار متن خودشان می‌نشینند؛ هیچ شکلی "
-        "از متنش جدا نمی‌شود.",
+        ("متن و قاب‌های شکل در مبحث مربوط قرار دارند؛ قاب‌های بزرگ ممکن است به صفحهٔ بعد منتقل شوند." if cfg["n"] == 3 and os.environ.get("HUMSYAR_HN03_WIP") == "1" else
+         "بعد متن ساخت‌یافته می‌آید و شکل‌ها همان‌جا کنار متن خودشان می‌نشینند؛ هیچ شکلی از متنش جدا نمی‌شود."),
         "پایان هر مبحث یک کادر یادداشت دارد؛ همان‌جا بنویسید چه چیزی را باید دوباره "
         "بخوانید.",
         "آخرین برگهٔ هر مبحث برگهٔ تحویل است: منابع خوانده‌شده، پنج کار پیش از تحویل، و "
@@ -644,8 +647,27 @@ def render_blocks(book: PDFBook, blocks, cfg: dict) -> None:
             book.source_line(b.get("src", ""))
             book.spacer(3)
         elif kind == "h3":
-            # Keep an optional source line with the heading and its next block.
+            # Session 3 may have a page label followed by one or more headings.
+            # Reserve the whole chain plus the first content block: reserving
+            # just the next heading leaves the page label orphaned when that
+            # heading moves with its paragraph. Other sessions keep their layout.
             extra = cite_room if b.get("src") else 0
+            if cfg["n"] == 3:
+                idx = pos + 1
+                after = 0.0
+                while idx < len(blocks) and blocks[idx].get("type") == "h3":
+                    following = blocks[idx]
+                    lines = book.wrap(following.get("text", ""), "VazirB", 11.4, K.CONTENT_W - 18)
+                    after += 16 + len(lines) * 11.4 * 1.6 + 12
+                    after += cite_room if following.get("src") else 0
+                    idx += 1
+                if idx < len(blocks):
+                    nxt = blocks[idx]
+                    if nxt.get("type") == "p":
+                        lines = book.wrap(nxt.get("text", ""), "Vazir", 10.4, K.CONTENT_W)
+                        after += len(lines) * 17.6 + 16
+                    else:
+                        after += _block_height(book, nxt)
             book.h3(b["text"], keep_with=min(after + 12 + extra, book.usable_height() - 90))
             if b.get("src"):
                 book.source_line(b["src"])
@@ -671,7 +693,14 @@ def render_blocks(book: PDFBook, blocks, cfg: dict) -> None:
             # and become unreadable; such plates declare ``fresh`` and start a
             # page of their own so the figure keeps its full size.
             if b.get("fresh"):
-                book.new_page()
+                # A short preceding paragraph must not create an almost empty
+                # page just to honour a fresh-plate hint.  Only session 3 opts
+                # into this threshold; the plate still has at least ~80% of a
+                # page for its image and caption, and other sessions are stable.
+                enough_room = (cfg["n"] == 3 and
+                               book.bottom_limit() - book.y >= book.usable_height() - 140)
+                if not enough_room:
+                    book.new_page()
             book.anat_plate(
                 REPO / b["asset"],
                 b["title"], b["citation"], b.get("en_caption", ""),
@@ -830,6 +859,7 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
     book = PDFBook(out_path, f"جزوهٔ مادر آناتومی سر و گردن — جلسهٔ {cfg['num']}",
                    footer=FOOTER, subject="جزوهٔ مادر — آناتومی سر و گردن")
     book.measure_idcard = cfg.get("measure_idcard", False)
+    book.keep_parenthesized_latin = cfg['n'] == 3
     book.dark_page(lambda b: cover_page(b, cfg), reuse_blank_page=True)
     front_matter(book, cfg, stats)
     toc_page(book, cfg, outline, toc_pages or {})
@@ -843,7 +873,9 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
              f"{fa(n_tables)} جدول · {fa(n_paths)} مسیر گام‌به‌گام",
              "متن هر مبحث با ارجاع صفحه، و هر تصویر با مشخصات منبع",
              "نسخهٔ کاری برای جزوه‌نویسان" if cfg["n"] in (1, 2, 4) else "پیش‌نویس ویرایشی — بازبینی علمی در جریان"])
-    book.heading_pages[cfg["anchor"]] = book.page
+    # dark_page advances to the page *after* the divider; the chapter's TOC
+    # entry must point to the divider itself, not the following intro page.
+    book.heading_pages[cfg["anchor"]] = book.page - 1 if cfg["n"] == 3 else book.page
     session_intro(book, cfg, outline, stats)
 
     for i, t in enumerate(outline["topics"], start=1):

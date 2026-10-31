@@ -1,0 +1,929 @@
+{
+  "pdf_sha256": "7ed9ef363b269cddef2cedce1dfcad23f42a42359f1ffedb33a09fcb2397ddbd",
+  "pdf_path_at_generation": "headneck/work_hn03/hn03_candidate_7ed9ef.pdf",
+  "page_count": 100,
+  "source_pdf_sha256": "620ca2bdf63929f66b1c15756d6c7ef5a2142a4b32fe743d9b7927d385f20b81",
+  "source_pages": [
+    {
+      "page": 2,
+      "non_image_blocks": 9,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_02_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 3,
+      "non_image_blocks": 6,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_03_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 4,
+      "non_image_blocks": 15,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_04_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 5,
+      "non_image_blocks": 11,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_05_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 6,
+      "non_image_blocks": 18,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_06_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 7,
+      "non_image_blocks": 8,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_07_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 8,
+      "non_image_blocks": 15,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_08_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 9,
+      "non_image_blocks": 9,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_09_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 10,
+      "non_image_blocks": 12,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_10_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 11,
+      "non_image_blocks": 7,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_11_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 12,
+      "non_image_blocks": 15,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_12_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 13,
+      "non_image_blocks": 9,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_13_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 14,
+      "non_image_blocks": 11,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_14_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 15,
+      "non_image_blocks": 9,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_15_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 16,
+      "non_image_blocks": 14,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_16_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 17,
+      "non_image_blocks": 11,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_17_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 18,
+      "non_image_blocks": 7,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_18_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 19,
+      "non_image_blocks": 11,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_19_diff.json",
+      "visual_word_by_word_verified": false
+    },
+    {
+      "page": 20,
+      "non_image_blocks": 13,
+      "comparison_evidence": "headneck/reports/hn03_audit_evidence/lecture_page_20_diff.json",
+      "visual_word_by_word_verified": false
+    }
+  ],
+  "output_pages": [
+    {
+      "output_page": 1,
+      "extracted_text_sha256": "9b71641eb44d315d7f08567dee7b9274867c88e0f1449b5084c0d356c9c27ede",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/001.jpg",
+      "render_sha256": "18865bee3ed8d351888c0ad38c18be1e56d4267d9e0c0c36433a88d632660f5d",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 2,
+      "extracted_text_sha256": "f4a44cb2f7adaeb275fdd9f609d2a71d252c599c21f57ec15d0514c8a54cc6ac",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/002.jpg",
+      "render_sha256": "1ad302ec2443e1339ef903ad3a41a2dba7201b135da0548b558957c41ea07645",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 3,
+      "extracted_text_sha256": "60559cef71ff1c90ab1d40bfe60fa6691b2448aae85e6615480f5f6ad31b2b5a",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/003.jpg",
+      "render_sha256": "2f01a4ce8625e3970fbc3917542aef6630b9fbd46d1778ec351eb9b4a750198c",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 4,
+      "extracted_text_sha256": "106ce47d30e5a0d268f9519548b31ec461ee1a783e348ca3dd28b7ff70d21d5b",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/004.jpg",
+      "render_sha256": "259af3f5e6ed1eb276d3cd598265095f41a0155693d1c24eae4fec7007e98ae7",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 5,
+      "extracted_text_sha256": "596b24865ba586f2906bdaaa82eacc38eab9d6930d0af98d71ca307c64acb110",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/005.jpg",
+      "render_sha256": "54675666946a58462c5577781d4ae83d4d3626a1a763336c8cda1806f0c38052",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 6,
+      "extracted_text_sha256": "117c7324f87241c2760c2204cb816bf9fd58902a366a2b47b44ccb9c3bd33cb2",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/006.jpg",
+      "render_sha256": "e4eb62a2e0556cff423835f1c89f740481ef39f04dd48ce9f841f850a3fd1391",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 7,
+      "extracted_text_sha256": "339d147a0dddda558b5801d2e7b60be6011be0ccb1ece17efcf6b5d22b9a7a7b",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/007.jpg",
+      "render_sha256": "fcdd40235317fe6e42ab90f73d8bcf8a39f2a64a7bde9e3f48e7e870a89011a8",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 8,
+      "extracted_text_sha256": "c1fd1720111b8399750cd9cec4715a6aa4e06f18894fb12f31d425656f11edcf",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/008.jpg",
+      "render_sha256": "71efb10fa5bc09d58d69c6ae5e943de60d2519ebf8f049ddb8d76ad1078978b1",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 9,
+      "extracted_text_sha256": "c0b3c9b84021b0f9894283de822b74d97569e033bcf64af6c79c90194fcbaaef",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/009.jpg",
+      "render_sha256": "9a83912d7b0de5c4daad988dcb874c4898f66a98f21c26a318816cbb23d12cc8",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 10,
+      "extracted_text_sha256": "306c471e586af774c7621014da636e98d6cc49f88761075fe36d48e4cff245f0",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/010.jpg",
+      "render_sha256": "7ee9e3ddd156addebaa9dac8f70ea6ce880b56548fc03fec1362fc32cdc6d44d",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 11,
+      "extracted_text_sha256": "873c9b1c7d5b7a90555f74519d792887fdd19bba05cc1324f53956ff33b2f942",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/011.jpg",
+      "render_sha256": "2c8f53055a4b46d6baa805a0d79d7977fa14e208ffad8222dc4867d1dfbd6812",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 12,
+      "extracted_text_sha256": "ba35142403c5cf798c6138accc4fd45b3c7d4d40892fb51987e972672ce69776",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/012.jpg",
+      "render_sha256": "56e0d2557786ddcc9d6c04f7b8775694d7640a583fc9399604b4f68adf08a041",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 13,
+      "extracted_text_sha256": "24884d89f042232b0f7e487fe60fb279c5e800b43cb49cf76e032355caa14d2e",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/013.jpg",
+      "render_sha256": "d9e6c99466631741bfd2e2060593814a5d993531fd30cd2b80e3365d4f3566d0",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 14,
+      "extracted_text_sha256": "f4743c5d87965cbcdf0ba66a6768e2db5e58d6ecfc53b644d6302a0e9a3efeef",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/014.jpg",
+      "render_sha256": "cc6e5bac470961ce2c801b15e88a14935b76583069adbbc9a5016daea8e2bd05",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 15,
+      "extracted_text_sha256": "ae0451305a17ce4ca36dc91fbf0edda053815fe0a487620d94450e37cc088977",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/015.jpg",
+      "render_sha256": "04234838641920de2ffa99af709e85f936c76b23757ce79b4d42702aaedf52e9",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 16,
+      "extracted_text_sha256": "7d32cc387d782963e94a953258292e499f217e24633142d2bedc63f4a9f7b39e",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/016.jpg",
+      "render_sha256": "2cd00e83c1d846b9b9ed14076f5e95dd29bd16086c381edbbc19f3014e838d00",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 17,
+      "extracted_text_sha256": "bf5e7544bd7680ff6dc13f576811b2c8661971dc31fa08fea2ccbb28e6b0500c",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/017.jpg",
+      "render_sha256": "c77a2364b7201139f7cccc5d535af25ffa794f2299a8dd9c282ae0251ee8824e",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 18,
+      "extracted_text_sha256": "8aefdc93db3ef5248c7b2143fc81ea5a80f48b9ba2bce71a73331e0a9989bd79",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/018.jpg",
+      "render_sha256": "15086252e577c90e931c03d67c7e1a20fd3d1c55c698e3eff671a0223ab0d423",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 19,
+      "extracted_text_sha256": "406e71573fbfd249af67c43d3504d1be2c8515af623e332a8ca903aa72741482",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/019.jpg",
+      "render_sha256": "a6cfd37a3dd9fbb322812fb32d4b56f808acb2085db8cfac7f49ebd6748d8f3a",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 20,
+      "extracted_text_sha256": "cbf945132e89f60eaf0eaf069eb2f4862b6306a25be71e1604af22593467d761",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/020.jpg",
+      "render_sha256": "fa88fdaaec89fa2f42841bfa9f2a99de8d89470e50fdd1b5ebf3b082c05c2ab0",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 21,
+      "extracted_text_sha256": "afc307cf38edb357ed095ca62fe9ff7cec9381687ab7ae9bee011013afaf9547",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/021.jpg",
+      "render_sha256": "789ba2f737eff39a626d6fd7a29646fccbc5ea7987277be7a0df64304ba537a6",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 22,
+      "extracted_text_sha256": "f5fc3f6b099526930e4505cfabdef789ef35a3a6766134f3090a26eb6a2b26e6",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/022.jpg",
+      "render_sha256": "89fb69fbc0f6cbe5975e63f0ec92c81b5fce58d4e671101c542ad254c4d6f330",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 23,
+      "extracted_text_sha256": "e24d8e7ac880879c54de94f7b107aee09d9d5b39f830bfad712ec29b0c4de58c",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/023.jpg",
+      "render_sha256": "bb1b58048ca361c6b05d8d7269f2714255b4466a0fc5dd0eb34f9ada1afb37c7",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 24,
+      "extracted_text_sha256": "14cc1ea785ee67496f87a23d35ee4e4cb60b4677f1d2cd0cde9d1d513cb58360",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/024.jpg",
+      "render_sha256": "84e7804a74d06f48df914e0b9976ed4d67200207dbf8344ee5fcd85afadc28df",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 25,
+      "extracted_text_sha256": "607ed921c29b6a657b28a4d2a398aa27697994eb44d1819f868cb0578191149f",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/025.jpg",
+      "render_sha256": "34a98c70d5a524f818707333d64f82bb671d6634d5c2a3b353a9c02e3d357ad7",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 26,
+      "extracted_text_sha256": "9b8d8e2a4a6911b1f116c7d4d19c8554d03615488b8b87246f94a2f8f4225dc8",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/026.jpg",
+      "render_sha256": "292086a0f682a43a3d53fdb0db7300c646da941c0039f980413844f8c26eb525",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 27,
+      "extracted_text_sha256": "f06c39b430f019987cb32f8df419a3107bc6f4fde70516f5eb5a72475f0f9d32",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/027.jpg",
+      "render_sha256": "dc9856137498a1f360167e9dbf3a6d7ecdb3b9355f065783167dc53ba9981b10",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 28,
+      "extracted_text_sha256": "833de744d13afec559f4ef9310e1bfc62ed4ecd71f9c52fef6ed8b5f54ade8ef",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/028.jpg",
+      "render_sha256": "e5734a2d22d003344e70def241e009e519606e0c1718b416ec8048a54dd057ad",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 29,
+      "extracted_text_sha256": "ea7d1c459e231bcdd8c0680c36d9863acba29fec1eb60157ee197d065c1eb082",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/029.jpg",
+      "render_sha256": "931e7cd7699caa5f549fff2007821346eb82290ac7e66dbc2d0993619d595fb4",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 30,
+      "extracted_text_sha256": "414e2996ee13654d0abc8ea2141b2d4b619119b5273e6f147ce11fc9579ec009",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/030.jpg",
+      "render_sha256": "d7844e231057afecff27f86ca56047b7dada338da209ce6f2bf639f610e073a4",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 31,
+      "extracted_text_sha256": "9059e9aa19e01da2902688919c3acc1f1d58df8723eb9fbd19e997a47fda79d1",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/031.jpg",
+      "render_sha256": "9904887af19a19f92b58cdfa63f3d31c8819b6be8d2ae224aa9fa9233836902c",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 32,
+      "extracted_text_sha256": "2aeba9fdab370b4beca509c119dd676252ac5f19e5e3b50420f1ddf651d22287",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/032.jpg",
+      "render_sha256": "bf52122c2b7f37a1297009596819c9de7ec53196a301794585a237207b0216be",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 33,
+      "extracted_text_sha256": "81ce15b6814fd541b7129d6d5b330f19feebe11f8f5e067354090b95fb4a5cd2",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/033.jpg",
+      "render_sha256": "9c6db37521816a15a7237d410953a2f1ad41ce96b21658d3cc5bdcde5e536132",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 34,
+      "extracted_text_sha256": "9296dfc1e191fbeb0fc5070ad7016c5eb1b758b1c725261270b6f5d88e9f3ecf",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/034.jpg",
+      "render_sha256": "a90af7592fbafe94344a32ee94d5f625fae7bc6e34c793cc95831350ee658a1f",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 35,
+      "extracted_text_sha256": "45a0962efec4ca0e56a9bcda447aab1e15a5b6326e886e9c87bac9979befb2ea",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/035.jpg",
+      "render_sha256": "2898f5b4e4a9f66f5c90c0b328d4a2d929deda8f82b0853175087f3444136787",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 36,
+      "extracted_text_sha256": "cc5e2eb48d44345dbb9b78f5a3dde9e83c1b8e3a4eb14f06b0007f42b232a670",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/036.jpg",
+      "render_sha256": "77cc3316aa651661d77213d5e3c9440d80e3249b69fca8496ec20992add10ad0",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 37,
+      "extracted_text_sha256": "f031db1a88f619b1c44b343f5ce128328b2e35c99c49dbbd97de7153e58d4d6d",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/037.jpg",
+      "render_sha256": "be7271ad779d5d0477b64d153941dd8f35f398c5b59942ff4db5b3e09c387a91",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 38,
+      "extracted_text_sha256": "ed526d30a90b18742104e71effcdf51ea80546cbfbd2304b235bee15e45ff017",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/038.jpg",
+      "render_sha256": "cd14185155c4011dceee3ba475bbae8df9de284f6aef6c36d15e576bd3beb2ff",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 39,
+      "extracted_text_sha256": "5b91dcef971065442f44f76055f154acc697280ef471a7d94357e8b131ea9c8d",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/039.jpg",
+      "render_sha256": "de3f6d19fc55eb7e87dae4b87b868e0c63f48354e73c246d81198f3347dbbcb5",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 40,
+      "extracted_text_sha256": "58966ddcef1cd761862bcbedd25ae6a9e0b349729f1e8d6365b32705890e996f",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/040.jpg",
+      "render_sha256": "895b02b6a71c2bd091ade64a331a05bce0d81d2f1f819150dc08feb63715fd39",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 41,
+      "extracted_text_sha256": "1e66d10e5b5ba71290cdd05ddde15418eef1657fd81922af3b96adaccfd9e8ef",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/041.jpg",
+      "render_sha256": "4d825f627ccf386d53697c14bf7286a44a65a0f4491a580aab26d4f1f93bca63",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 42,
+      "extracted_text_sha256": "9ffb17a776395bf7f86f10af3eff1453488d1bdb6e94f89f0e063dccb3b094f1",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/042.jpg",
+      "render_sha256": "165f19cb09dd0a3fd4295ca8d460c50ca0a465c903f33dadd99ac48adc26ad97",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 43,
+      "extracted_text_sha256": "4fc020879124b1a5cffde8956d6e87f11e7778fec6dd7e863711d77498b0a435",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/043.jpg",
+      "render_sha256": "6956643b300418b0dcb64259406616d4b06e4231500dfae2b50311205b9ca345",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 44,
+      "extracted_text_sha256": "681b07c3b37295912c3ce8818db064666b21be07b060a96bc64ce79b041180df",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/044.jpg",
+      "render_sha256": "901b604eb2d740cbb9c9d839ff51d6015e04db0ccdaf5804aab5dd6b41354076",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 45,
+      "extracted_text_sha256": "e95ba63063c3f0a9d110249864413c0cbbba0401916f70baf74e44d56d937f29",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/045.jpg",
+      "render_sha256": "bc3f7158cf18c6d5cb51ca70075ba2750edd34a432d1eb982bb140722bedfa25",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 46,
+      "extracted_text_sha256": "62e2de7393e65bd3ab1093db3a52c2a7d77ea3ba4141d865058e4be35035d075",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/046.jpg",
+      "render_sha256": "25a9639499e4b6d95396b1bc00eafc9a4f992d80f2069aaf7b1dc6d6bbabb177",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 47,
+      "extracted_text_sha256": "4934ea29ddf56b1b58203d51a45e5adb15b392cf7e23b1dbca9767c9cf6b224f",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/047.jpg",
+      "render_sha256": "f063307eb4eb0171e6e61a502336db85f49c711dd84693c9f7fb6facf244ea09",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 48,
+      "extracted_text_sha256": "516cad57af066754c76e4c112f42c90dffef7b7acba83b61c6c153f78cc1bfc4",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/048.jpg",
+      "render_sha256": "09376bb41fe8c8423ad747b6bc0e13c66c8fb3c59663512809428b29c107386a",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 49,
+      "extracted_text_sha256": "96e13fb2418a0185a0a29d691d72702a565014c10bcde4f5ef2475f7e2b0c027",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/049.jpg",
+      "render_sha256": "0d2ebb231f7892c6e5b8b4d0d9ec03ccca3ddde479f8debd5cbd2e5a40b0e702",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 50,
+      "extracted_text_sha256": "698e37619dc0f5f62f18f3b6c38d7b6198869ce519faee3626cfe2f6ecf8d502",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/050.jpg",
+      "render_sha256": "22eccb9a8ac485fd7c6b3483af1aa6e6f2baed7d643b80fb1da15dbc1aedd084",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 51,
+      "extracted_text_sha256": "ee42eb313059d43133eab95c597c828934578dd5f34f744ffd574db59a9121d2",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/051.jpg",
+      "render_sha256": "c9fe35d6df08aa32f4cde80747d63b011dc6ab227074075c304948de4654d564",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 52,
+      "extracted_text_sha256": "abec3db13d7e5fad1e8738c051f471098357e1314f5c5545f47d602b5d3bbc9b",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/052.jpg",
+      "render_sha256": "4f791b686ed7434c585237a2bca165f5b20c0ba7a295f5caab6b0b432778a075",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 53,
+      "extracted_text_sha256": "c565b3c907db672ae1d71ecc75576fbe58d7682058b3fa98fe365ac7a35d6bd0",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/053.jpg",
+      "render_sha256": "6d1dcda7c45ddd221795210849b8db82fae2da25d4e23914252124796fc01f52",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 54,
+      "extracted_text_sha256": "a4e162dab32e40a4b478b7ce83aa73db82ee3757c9424951707e755a6aaf592a",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/054.jpg",
+      "render_sha256": "104d6cfe51b615d68f70f4b0c464362adc2cbaa9e0bde39427e30749d2d47419",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 55,
+      "extracted_text_sha256": "4b10a4f9810c50fef28d44c6e696ede3c3f15b22cef61cdb99826e12e5a3dde2",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/055.jpg",
+      "render_sha256": "acffd6e282a8c1d5d60e5cd6a82d3a7a0426fc6796761abfe825f44fa1b3f3f3",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 56,
+      "extracted_text_sha256": "6816d975d35e8a677f051e056b4d96b59c63293e1937b0aefe4075e39085deba",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/056.jpg",
+      "render_sha256": "f07ffc0aa370d8c7fcac2dd1878af98b3185ebcd749bd66cc2d3dd1f947943b2",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 57,
+      "extracted_text_sha256": "9de213461ad3132302f3734499aceb6af96be51e590762b46fd6078a72f5ef50",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/057.jpg",
+      "render_sha256": "9eb9ca0d592bbc7b141e60f51083db8adc1d72c3c5fdd442a9b71bf988d1254d",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 58,
+      "extracted_text_sha256": "8010cc7537069a454c8f2f727e5e9da1fa8b5dd1ed38b6f8f2ee2233661dea15",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/058.jpg",
+      "render_sha256": "da7c540cf188a4f277342777a16d7ed747f97b0f7eee5279a086b6649b37d4f1",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 59,
+      "extracted_text_sha256": "d8165f5abfcc183dfa98fd86e31120ee2c2ff7907d2dd235dea5c6a685de01eb",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/059.jpg",
+      "render_sha256": "54842e6a95176b918f949fea7ee1f58472ef2547ee7d2150101d59fa4b0298dc",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 60,
+      "extracted_text_sha256": "1f063d7d525ebad434dfda1819f14493b29b71b0aa274a51e60c4776d20f76a2",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/060.jpg",
+      "render_sha256": "82b5b2d9b1714a4aaa53fb1622072fa2ed0dc0dde62cfa321f7bb2d53f2821fb",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 61,
+      "extracted_text_sha256": "100391fbc18748fd20f21589d5f8639eeecc53f9a0f86aa2fb50212344121d55",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/061.jpg",
+      "render_sha256": "e8ee8c84668c612937cef6a47527c945f51658a651d0eaf3d6a3c52c057e0ad4",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 62,
+      "extracted_text_sha256": "ca39f9a70675c4211daf58b9e5d36c4a5ae25207d302f24cc472f61469cd0f10",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/062.jpg",
+      "render_sha256": "249f8507427356030a55e4cde473780de0c74445a7fcd4fb11448c6dc6f74321",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 63,
+      "extracted_text_sha256": "f8a3a3d8b2c598c5892cca28493f7aeab868547f4ecdc63a8808af84fbcdc34e",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/063.jpg",
+      "render_sha256": "5936a995b2b861accc74bf0d42be1189421ceba404e57d60330ec848bfd7f834",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 64,
+      "extracted_text_sha256": "d12d362ca4618559e9585eb24741a06745b8750746aa40bf188f75f23bdc2a21",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/064.jpg",
+      "render_sha256": "a497880266cefee7bdf4a21d0d850b84fb66068b5803f54d474605154d8311ab",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 65,
+      "extracted_text_sha256": "5b28c42c94620778cd85844301b17d08f532245b0c2b3dc899c9e2466cd734ac",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/065.jpg",
+      "render_sha256": "2893cb3e66297b27ed21aebc92b3358191dd480b534cae82f25df247ec558104",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 66,
+      "extracted_text_sha256": "2940c47c693570f1f9e49a6ccf702c60031f97ccce079cebcdc4191fb9a59a04",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/066.jpg",
+      "render_sha256": "4136561ef984aaea777f5f247c3b41c8140802ece6d863763470d6d23ee20735",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 67,
+      "extracted_text_sha256": "8b9a623f58ab6bcc315d9edd38a595a944c9b936859c34097e64cc3e46311372",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/067.jpg",
+      "render_sha256": "aa1605cb78220d640021de8eaccc69e63285edd96b1ac4595f69891220b520d7",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 68,
+      "extracted_text_sha256": "2e598f18e86c9016a12f041b04abc0a459cdbc556d092166e835b8a231e633ff",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/068.jpg",
+      "render_sha256": "ef9a675587de297619b0b877b52af003b78f09a0b97a3c2687ce4dbce55769c4",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 69,
+      "extracted_text_sha256": "075dc9ff880131951f78204aacde8649f49991e70b0995fa8c865d52cba65092",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/069.jpg",
+      "render_sha256": "0facde5de4548f87d48cb065f456d587b5ee729a63de9bf4408d0b918aacf1fb",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 70,
+      "extracted_text_sha256": "2b9db722bc2aa481f87faacabf888e95461fe243554264fd8009536870150692",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/070.jpg",
+      "render_sha256": "19e080c55b66f941f8c5917e050ab330ad7d8b0e3cf24ef854053cfeb8b83663",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 71,
+      "extracted_text_sha256": "45391acefa40c913f7b33b6f5ca2593a195a8ca3d6a498fd053a024fb1052a9a",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/071.jpg",
+      "render_sha256": "123e5aaba0a322a4d3ec99251e9ed698dbe9d2a3147402aa254dbd8547dd5bd9",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 72,
+      "extracted_text_sha256": "4fa60df7756e8c95bec8b1004c5d2797db4ed4a99f3d6e3c0b4428d9a0bd3d4e",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/072.jpg",
+      "render_sha256": "3a7277dd4eb086ee54ed1ed819f31b8101f67823142891f867ef062f7fb47110",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 73,
+      "extracted_text_sha256": "ad64646405aeb9e61708d83f01d47df80ce8ec80563d597f317ae2867520e867",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/073.jpg",
+      "render_sha256": "3413acc91cf817d9d1e7e3f5019b81812ad05bac8d4a0a647f7106d29fb74e9f",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 74,
+      "extracted_text_sha256": "56ec98597a43ae70a773092c50f950e29c0d5c49afc9451b35dffd73ef5d0a17",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/074.jpg",
+      "render_sha256": "1d3334f7b9cebf527b8eebfb8fd3c8790af6e15bab68d940f75485c916ab9276",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 75,
+      "extracted_text_sha256": "5c8cbf43ffa8310193fc23156a47edb8cd7bec578613228e62a8626e7a8ba83e",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/075.jpg",
+      "render_sha256": "2b99ac6ee7823abe5b3eace3225178ee799c16db63e361f35d42d6da747ce4a6",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 76,
+      "extracted_text_sha256": "d7b91c08877d6a9d42d24c8903bc8fdfe044fba00392cafd82794a4fb629aeed",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/076.jpg",
+      "render_sha256": "c7f8661461ef3133621da2d256120b051408d4c1040455346a3059e0310ecef8",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 77,
+      "extracted_text_sha256": "7120859804fc8b5c8a655144034407517e4b889e096a7152908f5ded4304e388",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/077.jpg",
+      "render_sha256": "5177eaa99f8a6cae15494d4d1677a89d65249c2712bced565f675d8311a7a7d3",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 78,
+      "extracted_text_sha256": "0cd4ff1c1a7cb1b5c005215c15f2ebc59d38a64cfa42495010d5fb031a88db69",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/078.jpg",
+      "render_sha256": "97650fbb8b9fa6063044b415d2122456d87e0147a8b517dd39e91c41553eb496",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 79,
+      "extracted_text_sha256": "5d2a8ee1331bbaf1250317cd5fd968a423a0460b2cbd684ddbec1ea67a80adfb",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/079.jpg",
+      "render_sha256": "acf41b68ebb180ad5e6d0add95854ca204dcced66d624d43a615c747f2cc171e",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 80,
+      "extracted_text_sha256": "116d945e32465dcd27dd504861e21cc5c9eda2d8dda5b1f0bc5526dd963790da",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/080.jpg",
+      "render_sha256": "d19f2387c246054062a9c64b1def2441be1b290d4fd1e9beec7b59b25fd55f9c",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 81,
+      "extracted_text_sha256": "66a95e9f39624eb63773fe712856449645a1ebdd94a726b68bdb988456dd13a6",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/081.jpg",
+      "render_sha256": "05d4e911aee466d2de9e36031d1aafef2730bd08001c63f2cb88f09543b72318",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 82,
+      "extracted_text_sha256": "6b466d6f71d38d7b962004b2858c148590dafed07be6b4f0f4ce7eb79fce0883",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/082.jpg",
+      "render_sha256": "616960a3f772263f153b905170c19017276d7fec46ef1e232367cb9144c18cf2",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 83,
+      "extracted_text_sha256": "47dc82e03c2b2a3fef247c7e17b4a580250a057ebbab80f898903153123af617",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/083.jpg",
+      "render_sha256": "f5836e325eade066c3af6d57c6a037f976fd2dff9349a56dc1dc0f9c27876424",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 84,
+      "extracted_text_sha256": "63e6aca840829ef7c8a0038695ab405ffd010558776ee6d7136daab83a8afb9f",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/084.jpg",
+      "render_sha256": "0fc11ca6029ce0f23ce4be4ee02c23794d7cf30c3ee91e43b62a2ac686b6a525",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 85,
+      "extracted_text_sha256": "311677be025ce822419472da1fa4c58aee3c66c1191862a1be1b95ccebc92ea1",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/085.jpg",
+      "render_sha256": "592ed0d3030535b13ded2cd72669e6386852e95c24df7d0ff139729679d06277",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 86,
+      "extracted_text_sha256": "12df53dc3366abc11abb61ea6f08e89dd9ce927820032cadb9a1ed0f59b2e2b0",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/086.jpg",
+      "render_sha256": "3f2c24a19d68f8e42bbab19fa99e565ace0b9393beafcbe4cb5275f57ed9b790",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 87,
+      "extracted_text_sha256": "eab7354ebf1b67b2578f0bb5d1b37a2769086e0d7b2e1dd5e0a6981a51068997",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/087.jpg",
+      "render_sha256": "9b160d84bd14b01fb5d26360930ddca51656b6e9f2514705265e228460268309",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 88,
+      "extracted_text_sha256": "085d79c730aa77f6be8e0efef1d15996a5934e39087d922d07d8e69048f8087b",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/088.jpg",
+      "render_sha256": "246e443b39e133e3024bc373b5f22558ea30178cb3efa31554df71a711987b3b",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 89,
+      "extracted_text_sha256": "ab5b362171e60b590d84eeb2b5e372145d355c965a7d3fd1aee68d3a7494f1e2",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/089.jpg",
+      "render_sha256": "a3aaa999a43129650182d019d448a1bf0ffc9e0ef6942013b23be8c46b80cb7a",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 90,
+      "extracted_text_sha256": "08bc0f5e483bea5f663ca1a07e29745ae879a6d0295946d733dca75a197c22c6",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/090.jpg",
+      "render_sha256": "de34d9f975223069a231e85d698236210f716c2e3c6013d8cc6d31e2e1b56901",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 91,
+      "extracted_text_sha256": "711a7dbcf3f387684a72819da377ff5fd881eb92b679b8ca3e7ea6495d1e041c",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/091.jpg",
+      "render_sha256": "9b1dd47fcd974420a3d31a08e2d53f8e8de8e1ec4da01941483279f7c9e890f0",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 92,
+      "extracted_text_sha256": "5f1b50b24e2363fbf8f0257455f2ccd981b187389bf08d946090985c1d242731",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/092.jpg",
+      "render_sha256": "f67db9fc4b8c942d0734e0f0b929ba5e207149e044767224d014e7b2da296486",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 93,
+      "extracted_text_sha256": "1f5a41be3f8f50e2613b18ca3bf2ba69e3dd22a93789d3ae0316d3f3bd18d73b",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/093.jpg",
+      "render_sha256": "90792af7075bbd74a3f196395cd119aa74adef6b09855ab54078501ff4357346",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 94,
+      "extracted_text_sha256": "b12f184cf7ce5f8aec2bbc8c9eea5c12eb04e95d54cf91b32df28527ec9f7bb8",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/094.jpg",
+      "render_sha256": "76bc5666bc47a5ad6a5c80a7caead64b93b9ab39a85609878ce6dc8f60b5ece7",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 95,
+      "extracted_text_sha256": "960e37e0e3e3755760370ad280623276abc5ed6c1b194827871ffb6987656ca9",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/095.jpg",
+      "render_sha256": "35b41070eafdca1e1c1feb183cb4a60cc803336951f6ddf82acaebc68876c9b2",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 96,
+      "extracted_text_sha256": "36d1b785f8a65b276bf5ca443d932297bca0e485edae3196109e0a6592dbb3c8",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/096.jpg",
+      "render_sha256": "82fe547ecd52d2a0f5c16cb59036f9335b8fd4c17e314ea0043ee2331871e931",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 97,
+      "extracted_text_sha256": "e68ab51949ffae7c927bc39fec53f2be413f247982e0c0b42ddfd01e81e97dd7",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/097.jpg",
+      "render_sha256": "5c812e822691e286806b24ade93f1edea526c9b34cb915829f91a633db250c7d",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 98,
+      "extracted_text_sha256": "d12598e481b64f747a561fcd1a9cff1e5fc44dab673c5ed83e5ada86cf58932a",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/098.jpg",
+      "render_sha256": "abc079555ef1f0806ab55c76a8b2da1489b5fbabf3431a0d96b9009303d7d59b",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 99,
+      "extracted_text_sha256": "c841a39dfb78da54bc36de040f1058f1079d24ee747ecc255e9609eff17e311e",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/099.jpg",
+      "render_sha256": "2f0cf6077a7ec876697d662c52c618640256aa6382f33e53eae7addf4f313f37",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    },
+    {
+      "output_page": 100,
+      "extracted_text_sha256": "bddb1b0cebce9e1f3bcaf02c259c536359b11120599958e288cbd8a8b6ccc6b2",
+      "visual_review": "IN_PROGRESS",
+      "render_path": "headneck/work_hn03/layout_7ed9ef363b26/100.jpg",
+      "render_sha256": "c2cc4adc8d5a721a5b415563f24f8b16fed9c94b48f926b21d40268fa848a50e",
+      "visual_scope": "Initial layout observation at 1.25x only; not final content, science, or crop verification."
+    }
+  ],
+  "notes": [
+    "Diffs compare source-extracted text to transcription, not rendered output.",
+    "Neither diffs nor a page render alone establish visual or textual correctness.",
+    "Any changed PDF invalidates page-specific visual review for that PDF hash."
+  ]
+}

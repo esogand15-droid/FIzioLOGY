@@ -1,0 +1,1084 @@
+{
+ "pdf_sha256": "d7b29bc404fce44e517698b6152e19411931564577c0910ad44442284853ac8f",
+ "plates": 43,
+ "matched_plates": 43,
+ "missing": [],
+ "images": [
+  {
+   "id": "hn03-T01-plate-020",
+   "topic": "hn03-T01",
+   "asset": "headneck/images/hn03_lec_p03_skull_sections.jpeg",
+   "asset_sha256": "4291828d5ac5dd0fcad19914024aeccb32fad0073c0823d4f198c09ed2e9199e",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 3 از فایل PDF",
+   "title": "قطعات جمجمه و بخش‌های اسفنوئید",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 3",
+   "output_pages": [
+    {
+     "page": 9,
+     "bbox_pdf_points": [
+      [
+       107.9135971069336,
+       99.52658081054688,
+       487.36199951171875,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T01-plate-021",
+   "topic": "hn03-T01",
+   "asset": "headneck/images/hn03_lec_p02_location.jpeg",
+   "asset_sha256": "b30c3f976e76e9c713d0a8df1fbdb07b6390ebb751a36ecc9ac27290e02b5f47",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 2 از فایل PDF",
+   "title": "جای اسفنوئید در نمای طرفی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 2",
+   "output_pages": [
+    {
+     "page": 10,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52667236328125,
+       544.756591796875,
+       407.47857666015625
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T02-plate-016",
+   "topic": "hn03-T02",
+   "asset": "headneck/images/hn03_netter_p29_nasal.jpeg",
+   "asset_sha256": "df5c56d1e4222a125ab2d8370c8e8372481f9fbfea3d447000aba272720f73a2",
+   "source": "netter",
+   "citation": "نتر، ویراست ۸، پلیت ۲۹، ص ۸۱",
+   "title": "دیوارهٔ طرفی بینی در برش میانی",
+   "source_reference": "نتر، ویراست ۸، پلیت ۲۹، ص ۸۱",
+   "output_pages": [
+    {
+     "page": 13,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       170.13058471679688,
+       544.756591796875,
+       402.7129821777344
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T02-plate-017",
+   "topic": "hn03-T02",
+   "asset": "headneck/images/hn03_lec_p03_anterior.jpeg",
+   "asset_sha256": "7cc7806de775e02c06d3cde08a938bbd576f0f622c102d8aadda1ba48ebb854b",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 3 از فایل PDF",
+   "title": "اسفنوئید از جلو",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 3",
+   "output_pages": [
+    {
+     "page": 14,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52655029296875,
+       544.756591796875,
+       380.9830627441406
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T03-plate-024",
+   "topic": "hn03-T03",
+   "asset": "headneck/images/hn03_up_netter_orbit.jpeg",
+   "asset_sha256": "4c006f89894975fd152b283eb1690c7aadaff52c602d16ab207798a242858abe",
+   "source": "netter",
+   "citation": "نتر، پلیت 25، ص 77 فایل PDF",
+   "title": "رأس کاسهٔ چشم و شکاف‌ها",
+   "source_reference": "نتر، پلیت 25، صفحهٔ PDF 77",
+   "output_pages": [
+    {
+     "page": 18,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52664184570312,
+       544.756591796875,
+       276.4803466796875
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T04-plate-032",
+   "topic": "hn03-T04",
+   "asset": "headneck/images/hn03_up_netter_pterygoid.jpeg",
+   "asset_sha256": "1dfca56c0e5dbee8b461bfd2ac3d987ca38fe9f34fcb830a4dc1c447be01a50d",
+   "source": "netter",
+   "citation": "نتر، پلیت 38، ص 90 فایل PDF",
+   "title": "صفحات پتریگوئید از عقب",
+   "source_reference": "نتر، پلیت 38، صفحهٔ PDF 90",
+   "output_pages": [
+    {
+     "page": 22,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52667236328125,
+       544.756591796875,
+       421.1910705566406
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T04-plate-035",
+   "topic": "hn03-T04",
+   "asset": "headneck/images/hn03_grays_p862_fig823.jpeg",
+   "asset_sha256": "a7d368b92b66ae975e0c8b315473b408dbec8e9455fe00f6c76caecf66786728",
+   "source": "grays",
+   "citation": "گری، ویراست ۳، شکل ۸.۲۳، ص ۸۶۲",
+   "title": "زوائد پتریگوئید در قاعدهٔ جمجمه",
+   "source_reference": "گری، ویراست ۳، شکل ۸.۲۳، ص ۸۶۲",
+   "output_pages": [
+    {
+     "page": 23,
+     "bbox_pdf_points": [
+      [
+       113.51709747314453,
+       99.52658081054688,
+       481.7585754394531,
+       482.19757080078125
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T04-plate-036",
+   "topic": "hn03-T04",
+   "asset": "headneck/images/hn03_lec_p05_posterior.jpeg",
+   "asset_sha256": "90192b9d10e30dffb29d0d5e3b1e9c8328119b9307f9cc8fe1a94d8e0dcbc8e0",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 5 از فایل PDF",
+   "title": "پتریگوئید از پشت",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 5",
+   "output_pages": [
+    {
+     "page": 24,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52658081054688,
+       544.756591796875,
+       347.1327819824219
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T05-plate-017",
+   "topic": "hn03-T05",
+   "asset": "headneck/images/hn03_lec_p07_superior.jpeg",
+   "asset_sha256": "03d04a469aed302de43e041ec359c890edcc7f442dcfbc357030cc43772c8bc0",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 7 از فایل PDF",
+   "title": "بال کوچک و کانال بینایی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 7",
+   "output_pages": [
+    {
+     "page": 27,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52659606933594,
+       544.756591796875,
+       322.1885986328125
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T06-plate-022",
+   "topic": "hn03-T06",
+   "asset": "headneck/images/hn03_grays_p867_fig826.jpeg",
+   "asset_sha256": "e67185d7637ba5127e947c48ce38b0f0a1165d12725a7058e154fb48b3aba2b9",
+   "source": "grays",
+   "citation": "گری، ویراست ۳، شکل ۸.۲۶، ص ۸۶۷",
+   "title": "زین ترکی و حفرهٔ میانی",
+   "source_reference": "گری، ویراست ۳، شکل ۸.۲۶، ص ۸۶۷",
+   "output_pages": [
+    {
+     "page": 31,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52655029296875,
+       544.756591796875,
+       353.9361572265625
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T07-plate-029",
+   "topic": "hn03-T07",
+   "asset": "headneck/images/hn03_netter_p34_foramina_superior.jpeg",
+   "asset_sha256": "214b4b9bf61d7aea6b90cff0040591d3955ef2f1e6bde9553693b744005bcb0b",
+   "source": "netter",
+   "citation": "نتر، ویراست ۸، پلیت ۳۴، ص ۸۶",
+   "title": "گذرگاه‌های بال بزرگ از داخل جمجمه",
+   "source_reference": "نتر، ویراست ۸، پلیت ۳۴، ص ۸۶",
+   "output_pages": [
+    {
+     "page": 35,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52668762207031,
+       544.756591796875,
+       297.5286865234375
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T07-plate-030",
+   "topic": "hn03-T07",
+   "asset": "headneck/images/hn03_lec_p09_clivus.jpeg",
+   "asset_sha256": "0c84f1c1c5600f38ea146c2b04053c0447fe212ae61a826904e589de49f89a56",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 9 از فایل PDF",
+   "title": "بال بزرگ و قاعده از بالا",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 9",
+   "output_pages": [
+    {
+     "page": 36,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52667236328125,
+       544.756591796875,
+       319.11907958984375
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T08-plate-016",
+   "topic": "hn03-T08",
+   "asset": "headneck/images/hn03_up_netter_clivus.jpeg",
+   "asset_sha256": "801da685943adac5b313331c7caf42ea1412763e0a3616adb27cdce5ce5897e3",
+   "source": "netter",
+   "citation": "نتر، پلیت 29، ص 81 فایل PDF",
+   "title": "برش میانی: اسفنوئید و پس‌سری",
+   "source_reference": "نتر، پلیت 29، صفحهٔ PDF 81",
+   "output_pages": [
+    {
+     "page": 39,
+     "bbox_pdf_points": [
+      [
+       63.35919952392578,
+       151.2625732421875,
+       531.9163818359375,
+       505.58758544921875
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T09-plate-020",
+   "topic": "hn03-T09",
+   "asset": "headneck/images/hn03_lec_p10_pterion.jpeg",
+   "asset_sha256": "3b25527435ca16649512c8c924ef300ed55707d3a170177521665ae4963c718d",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 10 از فایل PDF",
+   "title": "محل پتریون در نمای طرفی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 10",
+   "output_pages": [
+    {
+     "page": 42,
+     "bbox_pdf_points": [
+      [
+       122.72219848632812,
+       216.99853515625,
+       472.55328369140625,
+       542.9775390625
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T09-plate-021",
+   "topic": "hn03-T09",
+   "asset": "headneck/images/hn02_grays_p857.jpeg",
+   "asset_sha256": "6f00ed0bcce5cd1727eced3d8c86ffc7b864ce2a111575bf44f9fe4959a9915f",
+   "source": "grays",
+   "citation": "گری، ویراست ۳، شکل ۸.۱۹، ص ۸۵۷",
+   "title": "نمای طرفی جمجمه و پتریون",
+   "source_reference": "گری، ویراست ۳، شکل ۸.۱۹، ص ۸۵۷",
+   "output_pages": [
+    {
+     "page": 43,
+     "bbox_pdf_points": [
+      [
+       98.7314682006836,
+       99.52658081054688,
+       496.544189453125,
+       482.19757080078125
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T09-plate-022",
+   "topic": "hn03-T09",
+   "asset": "headneck/images/hn03_lec_p10_pterion_vessels.jpeg",
+   "asset_sha256": "3d46dbaf496972de4938cac38f21fd7ae3043a3787351ea7497d96e90d8f7cdb",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 10 از فایل PDF",
+   "title": "پتریون و شریان مننژیال میانی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 10",
+   "output_pages": [
+    {
+     "page": 44,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52656555175781,
+       544.756591796875,
+       293.93426513671875
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T10-plate-020",
+   "topic": "hn03-T10",
+   "asset": "headneck/images/hn03_lec_p11_surface.jpeg",
+   "asset_sha256": "e1c6407af0a4817dd3048d0208d38e51f98f0319dc38e7986cfc53456f3fc788",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 11 از فایل PDF",
+   "title": "نشانه‌های سطحی پتریون",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 11",
+   "output_pages": [
+    {
+     "page": 47,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       465.34259033203125,
+       544.756591796875,
+       648.7103881835938
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T10-plate-021",
+   "topic": "hn03-T10",
+   "asset": "headneck/images/hn03_netter_p27_infratemporal.jpeg",
+   "asset_sha256": "d4b70357cb245d903a4c9cb49ffbf3208022fa76bb26ff79a3f339d08268045f",
+   "source": "netter",
+   "citation": "نتر، ویراست ۸، پلیت ۲۷، ص ۷۹",
+   "title": "حفرهٔ زیرگیجگاهی و پتریگوپالاتین",
+   "source_reference": "نتر، ویراست ۸، پلیت ۲۷، ص ۷۹",
+   "output_pages": [
+    {
+     "page": 48,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52656555175781,
+       544.756591796875,
+       320.95916748046875
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T10-plate-022",
+   "topic": "hn03-T10",
+   "asset": "headneck/images/hn03_lec_p11_infratemporal.jpeg",
+   "asset_sha256": "621cc307121335d321e13e10291bc0929ec8cbfade4f4f7908c64f828500e251",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 11 از فایل PDF",
+   "title": "حفرهٔ پتریگوپالاتین",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 11",
+   "output_pages": [
+    {
+     "page": 48,
+     "bbox_pdf_points": [
+      [
+       125.20220184326172,
+       485.35919189453125,
+       470.0735168457031,
+       676.6323852539062
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T11-plate-028",
+   "topic": "hn03-T11",
+   "asset": "headneck/images/hn03_up_netter_palatine_nose.jpeg",
+   "asset_sha256": "130ad8342a837cc315bed6229a309781de50de95f04c32ee1991cce0e6ae2633",
+   "source": "netter",
+   "citation": "نتر، پلیت 62، ص 114 فایل PDF",
+   "title": "کامی و دیوارهٔ طرفی بینی",
+   "source_reference": "نتر، پلیت 62، صفحهٔ PDF 114",
+   "output_pages": [
+    {
+     "page": 52,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52667236328125,
+       544.756591796875,
+       428.899658203125
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T11-plate-030",
+   "topic": "hn03-T11",
+   "asset": "headneck/images/hn03_lec_p12_context.jpeg",
+   "asset_sha256": "5214e42ad0359993189744d83a5cc81388ba0607b4e54db87454cb3ded9af0cf",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 12 از فایل PDF",
+   "title": "مجاورت کامی و کاسهٔ چشم",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 12",
+   "output_pages": [
+    {
+     "page": 53,
+     "bbox_pdf_points": [
+      [
+       135.67660522460938,
+       99.52658081054688,
+       459.5989990234375,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T11-plate-031",
+   "topic": "hn03-T11",
+   "asset": "headneck/images/hn03_lec_p12_pal_medial.jpeg",
+   "asset_sha256": "a4c8346f86c1732d4e51ae081bfaf5d80b4683dd726368a35d9aff26f0d93e59",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 12 از فایل PDF",
+   "title": "کامی از سطح داخلی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 12",
+   "output_pages": [
+    {
+     "page": 54,
+     "bbox_pdf_points": [
+      [
+       55.981441497802734,
+       99.52658081054688,
+       539.2941284179688,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T11-plate-032",
+   "topic": "hn03-T11",
+   "asset": "headneck/images/hn03_lec_p12_pal_lateral.jpeg",
+   "asset_sha256": "29ba0befc677fb0659a7f52cfd8e9fb5077012b918b38419f627306516c73a39",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 12 از فایل PDF",
+   "title": "کامی از سطح خارجی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 12",
+   "output_pages": [
+    {
+     "page": 55,
+     "bbox_pdf_points": [
+      [
+       87.07720184326172,
+       99.52658081054688,
+       508.1983947753906,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T12-plate-024",
+   "topic": "hn03-T12",
+   "asset": "headneck/images/hn03_lec_p13_orbital.jpeg",
+   "asset_sha256": "adc20c8e5816e6129c097df177d6b5839d5dd9c9a009d6942b2880ae3e342bfa",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 13 از فایل PDF",
+   "title": "زائدهٔ چشمی استخوان کامی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 13",
+   "output_pages": [
+    {
+     "page": 59,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52658081054688,
+       544.756591796875,
+       368.8008728027344
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T12-plate-025",
+   "topic": "hn03-T12",
+   "asset": "headneck/images/hn03_lec_p15_sphenopalatine.jpeg",
+   "asset_sha256": "0f6c6814cfc961e009e8e9b1e03e174163d5d5ede85f3a53bf2f5870b5aab0fa",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 15 از فایل PDF",
+   "title": "سوراخ اسفنوپالاتین",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 15",
+   "output_pages": [
+    {
+     "page": 60,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52658081054688,
+       544.756591796875,
+       391.59918212890625
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T13-plate-019",
+   "topic": "hn03-T13",
+   "asset": "headneck/images/hn03_up_netter_palate.jpeg",
+   "asset_sha256": "8cacab657cb18e884b5c37507a0c2c8918a235ec5faeceb7ecb8d5cfe14d84f4",
+   "source": "netter",
+   "citation": "نتر، پلیت 31، ص 83 فایل PDF",
+   "title": "کام سخت در قاعدهٔ جمجمه",
+   "source_reference": "نتر، پلیت 31، صفحهٔ PDF 83",
+   "output_pages": [
+    {
+     "page": 64,
+     "bbox_pdf_points": [
+      [
+       83.08123779296875,
+       99.52655029296875,
+       512.1943359375,
+       623.9275512695312
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T13-plate-026",
+   "topic": "hn03-T13",
+   "asset": "headneck/images/hn03_lec_p15_palate.jpeg",
+   "asset_sha256": "15674cc652b3efc43776c2c8b4afea3cc4e2db501bd7274cab9013016e6a920a",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 15 از فایل PDF",
+   "title": "کام سخت از پایین",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 15",
+   "output_pages": [
+    {
+     "page": 66,
+     "bbox_pdf_points": [
+      [
+       96.18388366699219,
+       99.52658081054688,
+       499.0916748046875,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T14-plate-009",
+   "topic": "hn03-T14",
+   "asset": "headneck/images/hn03_lec_p13_canals.jpeg",
+   "asset_sha256": "0508376b9431a6609db63fb8b8507ef8fc0451c74eb4aa24bc96cce607072513",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 13 از فایل PDF",
+   "title": "گذرگاه‌های حفرهٔ پتریگوپالاتین",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 13",
+   "output_pages": [
+    {
+     "page": 69,
+     "bbox_pdf_points": [
+      [
+       101.76129913330078,
+       99.52658081054688,
+       493.5142822265625,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T14-plate-010",
+   "topic": "hn03-T14",
+   "asset": "headneck/images/hn03_lec_p14_pal_posterior.jpeg",
+   "asset_sha256": "188fd6707983439c80da15c36b06c8fe54e5e487c6343ce15a2795e6cc0f895b",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 14 از فایل PDF",
+   "title": "صفحهٔ عمودی کامی از پشت",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 14",
+   "output_pages": [
+    {
+     "page": 70,
+     "bbox_pdf_points": [
+      [
+       147.12600708007812,
+       99.52658081054688,
+       448.14971923828125,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T15-plate-021",
+   "topic": "hn03-T15",
+   "asset": "headneck/images/hn03_up_netter_lambda.jpeg",
+   "asset_sha256": "a74118ae142dd73b973deb1f842e04ceaca114aa90304887052c0e96a00bfc2e",
+   "source": "netter",
+   "citation": "نتر، پلیت 30، ص 82 فایل PDF",
+   "title": "درز ساجیتال و لامبدا",
+   "source_reference": "نتر، پلیت 30، صفحهٔ PDF 82",
+   "output_pages": [
+    {
+     "page": 74,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52667236328125,
+       544.756591796875,
+       423.0621643066406
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T15-plate-024",
+   "topic": "hn03-T15",
+   "asset": "headneck/images/hn03_lec_p16_posterior.jpeg",
+   "asset_sha256": "4e78bd59210b02ffb8ea2021eca973496dd2de6bdaf13d914b4042f5b6e7a1e9",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 16 از فایل PDF",
+   "title": "نمای کلی خلفی جمجمه",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 16",
+   "output_pages": [
+    {
+     "page": 75,
+     "bbox_pdf_points": [
+      [
+       166.4044952392578,
+       99.52658081054688,
+       428.8712158203125,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T15-plate-025",
+   "topic": "hn03-T15",
+   "asset": "headneck/images/hn03_grays_p859_fig820.jpeg",
+   "asset_sha256": "1002bdcd46c82cc371aa2b5af7098e9e8708b2d24158a31d5baa40560b6f713b",
+   "source": "grays",
+   "citation": "گری، ویراست ۳، شکل ۸.۲۰، ص ۸۵۹",
+   "title": "درزهای خلفی و برجستگی پس‌سری",
+   "source_reference": "گری، ویراست ۳، شکل ۸.۲۰، ص ۸۵۹",
+   "output_pages": [
+    {
+     "page": 76,
+     "bbox_pdf_points": [
+      [
+       66.47036743164062,
+       99.52658081054688,
+       528.8052978515625,
+       482.19757080078125
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T15-plate-026",
+   "topic": "hn03-T15",
+   "asset": "headneck/images/hn03_lec_p16_sutures.jpeg",
+   "asset_sha256": "645f6da54137b5070d65affb70bb785b3d63120f52ab0953d5c0eff95b886a7e",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 16 از فایل PDF",
+   "title": "درزهای نمای خلفی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 16",
+   "output_pages": [
+    {
+     "page": 77,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52658081054688,
+       544.756591796875,
+       378.3720703125
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T16-plate-023",
+   "topic": "hn03-T16",
+   "asset": "headneck/images/hn03_lec_p16_occ_side.jpeg",
+   "asset_sha256": "8d26d1f6c496cd87609f81d0cab7b383e311611efac5b3d23ca43db87e863c20",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 16 از فایل PDF",
+   "title": "استخوان پس‌سری از پهلو",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 16",
+   "output_pages": [
+    {
+     "page": 81,
+     "bbox_pdf_points": [
+      [
+       116.89340209960938,
+       99.52658081054688,
+       478.3821105957031,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T16-plate-024",
+   "topic": "hn03-T16",
+   "asset": "headneck/images/hn03_lec_p17_occ_external.jpeg",
+   "asset_sha256": "0fa2f60e74fe20a6a7ca2dc8751ebb1c3b7150442cfdd72931fe3b31050519d2",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 17 از فایل PDF",
+   "title": "بخش‌های پس‌سری از خارج",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 17",
+   "output_pages": [
+    {
+     "page": 82,
+     "bbox_pdf_points": [
+      [
+       76.65894317626953,
+       99.52658081054688,
+       518.6166381835938,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T17-plate-026",
+   "topic": "hn03-T17",
+   "asset": "headneck/images/hn03_lec_p17_occ_inferior.jpeg",
+   "asset_sha256": "5a1bec1ae976ebd2eb19ba1f4ad5bbf5c47c0eb42ac9eea7e1d29bc79a7c1d81",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 17 از فایل PDF",
+   "title": "پس‌سری از سطح تحتانی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 17",
+   "output_pages": [
+    {
+     "page": 87,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52655029296875,
+       544.756591796875,
+       406.5716552734375
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T17-plate-027",
+   "topic": "hn03-T17",
+   "asset": "headneck/images/hn03_netter_p33_foramina.jpeg",
+   "asset_sha256": "e4a7f50012b884556d098aff8df8b828aaef261b6c01c145eb8d5d00652768e5",
+   "source": "netter",
+   "citation": "نتر، ویراست ۸، پلیت ۳۳، ص ۸۵",
+   "title": "سوراخ‌ها و کانال‌های قاعدهٔ جمجمه",
+   "source_reference": "نتر، ویراست ۸، پلیت ۳۳، ص ۸۵",
+   "output_pages": [
+    {
+     "page": 88,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52658081054688,
+       544.756591796875,
+       418.1197814941406
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T18-plate-029",
+   "topic": "hn03-T18",
+   "asset": "headneck/images/hn03_lec_p18_occ_internal.jpeg",
+   "asset_sha256": "703c86547d043169ce5a6f991c4c8505b12057eb342721b0dc28a55e7768a5bd",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 18 از فایل PDF",
+   "title": "بخش‌های پس‌سری و ناودان‌های سطح داخلی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 18",
+   "output_pages": [
+    {
+     "page": 92,
+     "bbox_pdf_points": [
+      [
+       63.8073616027832,
+       99.52658081054688,
+       531.46826171875,
+       425.5055847167969
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T18-plate-030",
+   "topic": "hn03-T18",
+   "asset": "headneck/images/hn03_grays_p869_fig827.jpeg",
+   "asset_sha256": "31aeeb30747b1b12c5a2e2289bcd0cb9d926abaa3af5abc0ed141570e056f31d",
+   "source": "grays",
+   "citation": "گری، ویراست ۳، شکل ۸.۲۷، ص ۸۶۹",
+   "title": "حفرهٔ خلفی و شیارهای وریدی",
+   "source_reference": "گری، ویراست ۳، شکل ۸.۲۷، ص ۸۶۹",
+   "output_pages": [
+    {
+     "page": 93,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52658081054688,
+       544.756591796875,
+       363.5292663574219
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T18-plate-031",
+   "topic": "hn03-T18",
+   "asset": "headneck/images/hn03_lec_p19_occ_endocranial.jpeg",
+   "asset_sha256": "372b4a14bd3585514f4032739fafbd9002e2eeef82b97d2cdd4d189012a69cd5",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 19 از فایل PDF",
+   "title": "سطح داخلی استخوان پس‌سری",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 19",
+   "output_pages": [
+    {
+     "page": 94,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52667236328125,
+       544.756591796875,
+       357.2264709472656
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T19-plate-016",
+   "topic": "hn03-T19",
+   "asset": "headneck/images/hn03_up_netter_emissary.jpeg",
+   "asset_sha256": "4c467968dadfb04a902296c8152747f1840cfa4e7d7335b29b4e84ac5454a55e",
+   "source": "netter",
+   "citation": "نتر، پلیت 127، ص 179 فایل PDF",
+   "title": "وریدهای امیسری و دیپلوئیک",
+   "source_reference": "نتر، پلیت 127، صفحهٔ PDF 179",
+   "output_pages": [
+    {
+     "page": 97,
+     "bbox_pdf_points": [
+      [
+       81.17548370361328,
+       99.52655029296875,
+       514.10009765625,
+       623.9275512695312
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T19-plate-017",
+   "topic": "hn03-T19",
+   "asset": "headneck/images/hn03_up_netter_condylar_vein.jpeg",
+   "asset_sha256": "37ecb9080eab8a619a1e83fb8d4697643fedbd9ccf1d2a448505e1d257baf9ad",
+   "source": "netter",
+   "citation": "نتر، پلیت 194، ص 280 فایل PDF",
+   "title": "ورید ارتباطی کندیلار و شبکهٔ مهره‌ای",
+   "source_reference": "نتر، پلیت 194، صفحهٔ PDF 280",
+   "output_pages": [
+    {
+     "page": 98,
+     "bbox_pdf_points": [
+      [
+       50.51900100708008,
+       99.52664184570312,
+       544.756591796875,
+       296.4521484375
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  },
+  {
+   "id": "hn03-T19-plate-019",
+   "topic": "hn03-T19",
+   "asset": "headneck/images/hn03_lec_p20_venous.jpeg",
+   "asset_sha256": "d045adffd73db88ab6e019e74ab152c9bcbb5903f0807340ee0c0a4c8d4c6b5d",
+   "source": "lecture",
+   "citation": "جزوهٔ درس، ص 20 از فایل PDF",
+   "title": "سینوس‌ها و وریدهای ارتباطی",
+   "source_reference": "جزوهٔ درس، صفحهٔ PDF 20",
+   "output_pages": [
+    {
+     "page": 98,
+     "bbox_pdf_points": [
+      [
+       188.76210021972656,
+       512.5881958007812,
+       406.51361083984375,
+       663.6323852539062
+      ]
+     ]
+    }
+   ],
+   "image_visual_verification": "NOT_STARTED",
+   "caveat": "Exact byte match confirms embedding only; not source/crop relevance or legibility."
+  }
+ ],
+ "disclaimer": "Used-output image manifest only. It does not inventory every independent source figure."
+}

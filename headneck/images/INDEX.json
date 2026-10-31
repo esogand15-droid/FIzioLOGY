@@ -5368,6 +5368,164 @@
    "h": 630,
    "bytes": 156607,
    "path": "headneck/images/hn02_up_netter_fontanel_ct.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_orbit",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 77,
+   "plate": "25",
+   "bbox": [
+    45,
+    540,
+    590,
+    735
+   ],
+   "w": 1363,
+   "h": 488,
+   "bytes": 155740,
+   "path": "headneck/images/hn03_up_netter_orbit.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_pterygoid",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 90,
+   "plate": "38",
+   "bbox": [
+    55,
+    95,
+    585,
+    440
+   ],
+   "w": 1326,
+   "h": 863,
+   "bytes": 206636,
+   "path": "headneck/images/hn03_up_netter_pterygoid.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_clivus",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 81,
+   "plate": "29",
+   "bbox": [
+    42,
+    75,
+    590,
+    489
+   ],
+   "w": 1370,
+   "h": 1036,
+   "bytes": 323447,
+   "path": "headneck/images/hn03_up_netter_clivus.jpeg",
+   "masked_source_rect": [
+    180,
+    486,
+    590,
+    489
+   ],
+   "mask_reason": "remove fragment of adjacent lower figure"
+  },
+  {
+   "asset_id": "hn03_up_netter_palatine_nose",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 114,
+   "plate": "62",
+   "bbox": [
+    40,
+    80,
+    595,
+    450
+   ],
+   "w": 1388,
+   "h": 925,
+   "bytes": 249478,
+   "path": "headneck/images/hn03_up_netter_palatine_nose.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_palate",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 83,
+   "plate": "31",
+   "bbox": [
+    45,
+    75,
+    585,
+    735
+   ],
+   "w": 1351,
+   "h": 1651,
+   "bytes": 492606,
+   "path": "headneck/images/hn03_up_netter_palate.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_lambda",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "plate": "30",
+   "bbox": [
+    70,
+    85,
+    590,
+    425
+   ],
+   "w": 1300,
+   "h": 851,
+   "bytes": 131864,
+   "path": "headneck/images/hn03_up_netter_lambda.jpeg",
+   "masked_source_rect": [
+    70,
+    397,
+    325,
+    425
+   ],
+   "mask_reason": "remove fragment of adjacent inferior-view figure"
+  },
+  {
+   "asset_id": "hn03_up_netter_emissary",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 179,
+   "plate": "127",
+   "bbox": [
+    45,
+    75,
+    590,
+    735
+   ],
+   "w": 1363,
+   "h": 1651,
+   "bytes": 496167,
+   "path": "headneck/images/hn03_up_netter_emissary.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_condylar_vein",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 280,
+   "plate": "194",
+   "bbox": [
+    25,
+    80,
+    590,
+    305
+   ],
+   "w": 1413,
+   "h": 563,
+   "bytes": 105616,
+   "path": "headneck/images/hn03_up_netter_condylar_vein.jpeg"
   }
  ]
 }

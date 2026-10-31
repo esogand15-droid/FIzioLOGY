@@ -1,0 +1,480 @@
+{
+ "disclaimer": "Counts are order-insensitive and PDF extraction is noisy; missing or extra words may be extraction artifacts or transcription errors. A match does not prove verbatim accuracy.",
+ "pages": [
+  {
+   "pdf_page": 2,
+   "raw_token_count": 151,
+   "transcription_token_count": 151,
+   "raw_only": {
+    "پاالتین": 1
+   },
+   "transcription_only": {
+    "پالاتین": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 3,
+   "raw_token_count": 137,
+   "transcription_token_count": 137,
+   "raw_only": {
+    "باال": 2
+   },
+   "transcription_only": {
+    "بالا": 2
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 4,
+   "raw_token_count": 256,
+   "transcription_token_count": 255,
+   "raw_only": {
+    "ِخارجی": 1,
+    "ِحد": 1,
+    "ِمحدوده": 1,
+    "باال": 1,
+    "غالفی": 2,
+    "غالف": 1
+   },
+   "transcription_only": {
+    "خارجی": 1,
+    "محدوده": 1,
+    "بالا": 1,
+    "غلافی": 2,
+    "غلاف": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 5,
+   "raw_token_count": 160,
+   "transcription_token_count": 160,
+   "raw_only": {
+    "پاالتوواژینال": 1,
+    "انها": 1,
+    "بیرونیِ": 1,
+    "باالی": 1
+   },
+   "transcription_only": {
+    "پالاتوواژینال": 1,
+    "آنها": 1,
+    "بیرونی": 1,
+    "بالای": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 6,
+   "raw_token_count": 271,
+   "transcription_token_count": 271,
+   "raw_only": {
+    "بازیالر": 1,
+    "باالی": 1,
+    "اُستوزیس": 1,
+    "کامالً": 1,
+    "خارجیِ": 1,
+    "باال": 1
+   },
+   "transcription_only": {
+    "بازیلار": 1,
+    "بالای": 1,
+    "استوزیس": 1,
+    "کاملاً": 1,
+    "خارجی": 1,
+    "بالا": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 7,
+   "raw_token_count": 177,
+   "transcription_token_count": 177,
+   "raw_only": {
+    "قالب": 1,
+    "باال": 1
+   },
+   "transcription_only": {
+    "قلاب": 1,
+    "بالا": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 8,
+   "raw_token_count": 291,
+   "transcription_token_count": 291,
+   "raw_only": {
+    "طرفیِ": 1,
+    "ماگزیالری": 1,
+    "مندیبوالر": 1
+   },
+   "transcription_only": {
+    "طرفی": 1,
+    "ماگزیلاری": 1,
+    "مندیبولار": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 9,
+   "raw_token_count": 206,
+   "transcription_token_count": 205,
+   "raw_only": {
+    "خارجِ": 1,
+    "مندیبوالر": 2,
+    "اسفنو": 1,
+    "لینگوال": 3,
+    "التین": 1
+   },
+   "transcription_only": {
+    "خارج": 1,
+    "مندیبولار": 1,
+    "اسفنومندیبولار": 1,
+    "لینگولا": 3,
+    "لاتین": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 10,
+   "raw_token_count": 211,
+   "transcription_token_count": 211,
+   "raw_only": {
+    "اسفنوییدالِ": 1,
+    "تالقی": 1,
+    "الیه": 1
+   },
+   "transcription_only": {
+    "اسفنوییدال": 1,
+    "تلاقی": 1,
+    "لایه": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 11,
+   "raw_token_count": 225,
+   "transcription_token_count": 225,
+   "raw_only": {
+    "اسالیدها": 1,
+    "باالی": 2,
+    "اسالید": 1,
+    "ًمرکزش": 1,
+    "تقریبا": 1,
+    "حدودا": 1,
+    "پاالتین": 3,
+    "عالوه": 1,
+    "االن": 1,
+    "پتریگوپاالتین": 1
+   },
+   "transcription_only": {
+    "اسلایدها": 1,
+    "بالای": 2,
+    "اسلاید": 1,
+    "مرکزش": 1,
+    "تقریباً": 1,
+    "حدوداً": 1,
+    "پالاتین": 3,
+    "علاوه": 1,
+    "الان": 1,
+    "پتریگوپالاتین": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 12,
+   "raw_token_count": 166,
+   "transcription_token_count": 166,
+   "raw_only": {
+    "پاالتین": 5,
+    "پتریگوپاالتین": 1,
+    "صفح": 1,
+    "باال": 1,
+    "پرویز": 1
+   },
+   "transcription_only": {
+    "پالاتین": 5,
+    "پتریگوپالاتین": 1,
+    "صفحه": 1,
+    "بالا": 1,
+    "پرویزنی": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 13,
+   "raw_token_count": 199,
+   "transcription_token_count": 199,
+   "raw_only": {
+    "ِدقیقاً": 2,
+    "ماگزیالری": 1,
+    "باال": 3,
+    "واسفنوییدال": 1,
+    "خلفیِ": 2,
+    "داخلیِ": 1,
+    "پتریگوپاالتین": 1,
+    "اسفنوپاالتین": 1,
+    "ِروی": 1,
+    "واژینالِ": 1,
+    "تریگویید": 1,
+    "پاالتوواژینال": 1
+   },
+   "transcription_only": {
+    "دقیقاً": 2,
+    "ماگزیلاری": 1,
+    "بالا": 3,
+    "اسفنوییدال": 1,
+    "خلفی": 2,
+    "داخلی": 1,
+    "پتریگوپالاتین": 1,
+    "اسفنوپالاتین": 1,
+    "روی": 1,
+    "واژینال": 1,
+    "پتریگویید": 1,
+    "پالاتوواژینال": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 14,
+   "raw_token_count": 318,
+   "transcription_token_count": 318,
+   "raw_only": {
+    "اسفنوپاالتین": 2,
+    "پاالتین": 3,
+    "باال": 3,
+    "عضالنی": 1,
+    "داخلیِ": 1,
+    "پاالتینِ": 1,
+    "حاال": 1,
+    "خلفیِ": 1,
+    "ماگزیالست": 1,
+    "تالقی": 1,
+    "شکلِ": 1
+   },
+   "transcription_only": {
+    "اسفنوپالاتین": 2,
+    "پالاتین": 4,
+    "خلفی": 1,
+    "داخلی": 1,
+    "بالا": 3,
+    "عضلانی": 1,
+    "شکل": 1,
+    "حالا": 1,
+    "ماگزیلاست": 1,
+    "تلاقی": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 15,
+   "raw_token_count": 257,
+   "transcription_token_count": 257,
+   "raw_only": {
+    "تریگویید": 2,
+    "تحتانیِ": 1,
+    "تامین": 1,
+    "خارجیِ": 1,
+    "عمودیِ": 1,
+    "پاالتین": 2,
+    "باال": 1,
+    "ماگزیال": 1,
+    "پتریگوپاالتین": 2,
+    "اسفنوپاالتین": 4,
+    "ارتباطیِ": 1,
+    "خلفیِ": 1
+   },
+   "transcription_only": {
+    "خارجی": 1,
+    "پتریگویید": 2,
+    "تحتانی": 1,
+    "تأمین": 1,
+    "عمودی": 1,
+    "پالاتین": 2,
+    "بالا": 1,
+    "ماگزیلا": 1,
+    "ارتباطی": 1,
+    "پتریگوپالاتین": 2,
+    "اسفنوپالاتین": 4,
+    "خلفی": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 16,
+   "raw_token_count": 225,
+   "transcription_token_count": 225,
+   "raw_only": {
+    "پاالتین": 1,
+    "ماستوییدِ": 2,
+    "المبدویید": 4,
+    "باالترین": 1,
+    "ژوگوالر": 1,
+    "المبدا": 1,
+    "تالقیِ": 1,
+    "تالقی": 1,
+    "طرفیِ": 1,
+    "صدفیِ": 1,
+    "استخوانیِ": 1
+   },
+   "transcription_only": {
+    "پالاتین": 1,
+    "صدفی": 1,
+    "ماستویید": 2,
+    "طرفی": 1,
+    "لامبدویید": 4,
+    "بالاترین": 1,
+    "ژوگولار": 1,
+    "لامبدا": 1,
+    "تلاقی": 2,
+    "استخوانی": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 17,
+   "raw_token_count": 260,
+   "transcription_token_count": 261,
+   "raw_only": {
+    "خلفیِ": 1,
+    "باال": 2,
+    "کندیالر": 2,
+    "بازیالر": 2,
+    "بیرونِ": 1,
+    "وسطِ": 2,
+    "معموالً": 1,
+    "عضالت": 1
+   },
+   "transcription_only": {
+    "بیرون": 1,
+    "لوب": 1,
+    "خلفی": 1,
+    "بالا": 2,
+    "کندیلار": 2,
+    "بازیلار": 2,
+    "وسط": 2,
+    "معمولاً": 1,
+    "عضلات": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 18,
+   "raw_token_count": 288,
+   "transcription_token_count": 287,
+   "raw_only": {
+    "آتالنتو": 1,
+    "کندیالر": 1,
+    "باال": 3,
+    "عقبِ": 1,
+    "ژوگوالر": 4,
+    "ِدر": 1,
+    "بازیالر": 1,
+    "حاال": 1,
+    "استرِیت": 1,
+    "الیه": 1,
+    "سینوسیِ": 1,
+    "طرفِ": 1
+   },
+   "transcription_only": {
+    "عقب": 1,
+    "آتلانتو": 1,
+    "کندیلار": 1,
+    "بالا": 3,
+    "ژوگولار": 4,
+    "طرف": 1,
+    "بازیلار": 1,
+    "حالا": 1,
+    "استریت": 1,
+    "لایه": 1,
+    "سینوسی": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 19,
+   "raw_token_count": 221,
+   "transcription_token_count": 220,
+   "raw_only": {
+    "باالیی": 1,
+    "اکسیپیتالِ": 1,
+    "رفتگی": 1,
+    "همون": 1,
+    "طور": 1,
+    "قبالً": 1,
+    "صدفِ": 1,
+    "کامالً": 1,
+    "نرمِ": 1,
+    "ژوگوالر": 5,
+    "کندیالر": 1,
+    "باالی": 1,
+    "جلویِ": 1,
+    "هایپوگالسال": 3
+   },
+   "transcription_only": {
+    "اکسیپیتال": 1,
+    "بالایی": 1,
+    "تورفتگی": 1,
+    "همونطور": 1,
+    "قبلاً": 1,
+    "صدف": 1,
+    "کاملاً": 1,
+    "نرم": 1,
+    "ژوگولار": 5,
+    "کندیلار": 1,
+    "بالای": 1,
+    "جلوی": 1,
+    "هایپوگلوسال": 3
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  },
+  {
+   "pdf_page": 20,
+   "raw_token_count": 312,
+   "transcription_token_count": 312,
+   "raw_only": {
+    "هایپوگالسال": 1,
+    "بازیالر": 1,
+    "ژوگوالر": 5,
+    "ِسینوس": 1,
+    "کمرنگ": 1,
+    "ِهای": 2,
+    "کندیالر": 2,
+    "خالصه": 1,
+    "پاالتین": 1
+   },
+   "transcription_only": {
+    "هایپوگلوسال": 1,
+    "بازیلار": 1,
+    "سینوس": 1,
+    "های": 2,
+    "ژوگولار": 5,
+    "رنگ": 1,
+    "کندیلار": 2,
+    "خلاصه": 1,
+    "پالاتین": 1
+   },
+   "visual_second_pass_recorded": true,
+   "independent_reconciliation_verified": false
+  }
+ ]
+}

@@ -192,6 +192,7 @@ class PDFBook:
         self.show_furniture = True
         self.missing_assets: list[str] = []
         self._dirty = False          # has anything been drawn on the current page?
+        self.keep_parenthesized_latin = False
         self._paint_bg()
 
     def _touch(self) -> None:
@@ -311,6 +312,16 @@ class PDFBook:
     # ------------------------------------------------------------- text core
     def wrap(self, text: str, font: str, size: float, width: float) -> list[str]:
         words = str(text).split(" ")
+        if self.keep_parenthesized_latin:
+            # Keep short English anatomical names and their parentheses on one
+            # line in mixed RTL text. Very long groups still wrap normally.
+            tokens = re.findall(r'\([^()]*[A-Za-z][^()]*\)|\S+', str(text))
+            words = []
+            for token in tokens:
+                if token.startswith('(') and text_width(shape(token), font, size) > width:
+                    words.extend(token.split(' '))
+                else:
+                    words.append(token)
         lines: list[str] = []
         cur = ""
         for w in words:
@@ -339,7 +350,10 @@ class PDFBook:
             nsp = shaped.count(" ")
             if nsp:
                 gap = (width - sw) / nsp
-                if 0 < gap < style.size * 1.1:
+                # Tighten the limit when whole English names are kept together;
+                # forcing full justification can otherwise create distracting gaps.
+                max_gap = style.size * (0.4 if self.keep_parenthesized_latin else 1.1)
+                if 0 < gap < max_gap:
                     c.setFont(style.font, style.size)
                     c.setFillColor(style.color)
                     c.drawString(x_right - width, baseline, shaped, wordSpace=gap)

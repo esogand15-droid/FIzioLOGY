@@ -1,0 +1,421 @@
+{
+ "disclaimer": "Each existing lecture asset was opened individually. This does not certify final PDF placement, printed label readability, or scientific accuracy.",
+ "assets": [
+  {
+   "asset": "headneck/images/hn03_lec_p03_skull_sections.jpeg",
+   "source_pdf_page": 3,
+   "source_bbox": [
+    28.45,
+    36.0,
+    365.8,
+    324.8
+   ],
+   "base_topic": "hn03-T01",
+   "base_block_index": 4,
+   "title": "قطعات جمجمه و بخش‌های اسفنوئید",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای ترکیبی با فهرست عددی؛ واترمارک و لبهٔ تیره در خود تصویر منبع وجود دارد.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p02_location.jpeg",
+   "source_pdf_page": 2,
+   "source_bbox": [
+    174.4,
+    269.01,
+    494.8,
+    468.61
+   ],
+   "base_topic": "hn03-T01",
+   "base_block_index": 5,
+   "title": "جای اسفنوئید در نمای طرفی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای رنگی طرفی؛ تنها بال بزرگ برچسب دارد، بقیهٔ نام‌ها در توضیح قاب‌اند.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p03_anterior.jpeg",
+   "source_pdf_page": 3,
+   "source_bbox": [
+    44.4,
+    556.9,
+    567.7,
+    805.7
+   ],
+   "base_topic": "hn03-T02",
+   "base_block_index": 6,
+   "title": "اسفنوئید از جلو",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای قدامی اسفنوئید؛ متن پایین نزدیک لبه است و کیفیت اولیه محدود است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p05_posterior.jpeg",
+   "source_pdf_page": 5,
+   "source_bbox": [
+    53.6,
+    527.18,
+    551.95,
+    776.38
+   ],
+   "base_topic": "hn03-T04",
+   "base_block_index": 7,
+   "title": "پتریگوئید از پشت",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای خلفی اسفنوئید با فهرست قلاب، کانال و صفحات؛ نوار و واترمارک منبع باقی است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p07_superior.jpeg",
+   "source_pdf_page": 7,
+   "source_bbox": [
+    42.4,
+    204.84,
+    581.2,
+    447.79
+   ],
+   "base_topic": "hn03-T05",
+   "base_block_index": 3,
+   "title": "بال کوچک و کانال بینایی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای فوقانی با بال کوچک، زین و سوراخ‌ها؛ واترمارک و نوار پایین از منبع است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p09_clivus.jpeg",
+   "source_pdf_page": 9,
+   "source_bbox": [
+    36.0,
+    521.12,
+    559.2,
+    753.32
+   ],
+   "base_topic": "hn03-T07",
+   "base_block_index": 7,
+   "title": "بال بزرگ و قاعده از بالا",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای فوقانی‌ـ‌طرفی با کلیووس و سوراخ‌ها؛ واترمارک از منبع باقی است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p10_pterion.jpeg",
+   "source_pdf_page": 10,
+   "source_bbox": [
+    34.4,
+    212.83,
+    221.25,
+    387.23
+   ],
+   "base_topic": "hn03-T09",
+   "base_block_index": 5,
+   "title": "محل پتریون در نمای طرفی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "جمجمهٔ رنگی طرفی با محل پتریون؛ مشابه تصویر صفحهٔ ۲ اما با برچسب متفاوت.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p10_pterion_vessels.jpeg",
+   "source_pdf_page": 10,
+   "source_bbox": [
+    37.3,
+    625.65,
+    558.9,
+    803.65
+   ],
+   "base_topic": "hn03-T09",
+   "base_block_index": 7,
+   "title": "پتریون و شریان مننژیال میانی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "دو نما، راهنمای انگشت و مسیر شریان؛ همهٔ برچسب‌ها با کیفیت منبع حفظ شده‌اند.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p11_surface.jpeg",
+   "source_pdf_page": 11,
+   "source_bbox": [
+    35.8,
+    357.67,
+    558.6,
+    604.87
+   ],
+   "base_topic": "hn03-T10",
+   "base_block_index": 7,
+   "title": "نشانه‌های سطحی پتریون",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای جمجمه و صورت با شماره‌ها؛ جمجمه شبیه صفحهٔ ۱۰ ولی تصویر سطحی اطلاعات تکمیلی دارد.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p11_infratemporal.jpeg",
+   "source_pdf_page": 11,
+   "source_bbox": [
+    53.4,
+    662.97,
+    262.2,
+    805.62
+   ],
+   "base_topic": "hn03-T10",
+   "base_block_index": 9,
+   "title": "حفرهٔ پتریگوپالاتین",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای حفرهٔ پتریگوپالاتین؛ برچسب‌های کوچک محدود به کیفیت اصلی هستند.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p12_context.jpeg",
+   "source_pdf_page": 12,
+   "source_bbox": [
+    27.0,
+    36.0,
+    144.5,
+    181.45
+   ],
+   "base_topic": "hn03-T11",
+   "base_block_index": 5,
+   "title": "مجاورت کامی و کاسهٔ چشم",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای استخوانی بدون برچسب؛ نام‌های قاب نباید به صورت برچسب خود شکل معرفی شوند.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p12_pal_medial.jpeg",
+   "source_pdf_page": 12,
+   "source_bbox": [
+    0.0,
+    281.68,
+    306.96,
+    488.88
+   ],
+   "base_topic": "hn03-T11",
+   "base_block_index": 6,
+   "title": "کامی از سطح داخلی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای مدیال کامی با ستیغ‌ها، زوائد و صفحهٔ افقی.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p12_pal_lateral.jpeg",
+   "source_pdf_page": 12,
+   "source_bbox": [
+    0.0,
+    485.77,
+    263.3,
+    689.57
+   ],
+   "base_topic": "hn03-T11",
+   "base_block_index": 7,
+   "title": "کامی از سطح خارجی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای لترال کامی؛ بخشی از برچسب سمت چپ به لبهٔ تصویر نزدیک و منبع نیز محدود است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p13_orbital.jpeg",
+   "source_pdf_page": 13,
+   "source_bbox": [
+    80.75,
+    353.25,
+    473.8,
+    567.55
+   ],
+   "base_topic": "hn03-T12",
+   "base_block_index": 8,
+   "title": "زائدهٔ چشمی استخوان کامی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای کاسهٔ چشم و نمای رنگی کوچک؛ زائدهٔ کامی در تصویر مشخص است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p15_sphenopalatine.jpeg",
+   "source_pdf_page": 15,
+   "source_bbox": [
+    31.6,
+    550.37,
+    335.0,
+    781.62
+   ],
+   "base_topic": "hn03-T12",
+   "base_block_index": 9,
+   "title": "سوراخ اسفنوپالاتین",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای دیوارهٔ بینی با سوراخ اسفنوپالاتین مشخص‌شده و واترمارک منبع.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p15_palate.jpeg",
+   "source_pdf_page": 15,
+   "source_bbox": [
+    22.35,
+    62.15,
+    284.15,
+    257.95
+   ],
+   "base_topic": "hn03-T13",
+   "base_block_index": 7,
+   "title": "کام سخت از پایین",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای تحتانی کام با درزها و سوراخ‌ها؛ برچسب‌های منبع حفظ شده‌اند.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p13_canals.jpeg",
+   "source_pdf_page": 13,
+   "source_bbox": [
+    36.0,
+    583.19,
+    184.8,
+    775.19
+   ],
+   "base_topic": "hn03-T14",
+   "base_block_index": 3,
+   "title": "گذرگاه‌های حفرهٔ پتریگوپالاتین",
+   "asset_viewed_individually": true,
+   "asset_review_note": "گذرگاه‌ها با اصطلاحات لاتین؛ ارتباط با کانال‌های حفره باید کنار متن خوانده شود.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p14_pal_posterior.jpeg",
+   "source_pdf_page": 14,
+   "source_bbox": [
+    35.0,
+    87.5,
+    214.0,
+    293.7
+   ],
+   "base_topic": "hn03-T14",
+   "base_block_index": 4,
+   "title": "صفحهٔ عمودی کامی از پشت",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای خلفی کامی با زوائد و شیار؛ اندازهٔ نسبتاً باریک نیازمند کنترل اندازه در PDF است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p16_posterior.jpeg",
+   "source_pdf_page": 16,
+   "source_bbox": [
+    44.25,
+    65.95,
+    156.45,
+    205.25
+   ],
+   "base_topic": "hn03-T15",
+   "base_block_index": 4,
+   "title": "نمای کلی خلفی جمجمه",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای خلفی کلی؛ شکل ساده با برچسب محدود است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p16_sutures.jpeg",
+   "source_pdf_page": 16,
+   "source_bbox": [
+    36.5,
+    210.51,
+    277.9,
+    367.31
+   ],
+   "base_topic": "hn03-T15",
+   "base_block_index": 6,
+   "title": "درزهای نمای خلفی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای خلفی با درزهای لامبدوئید، ساجیتال و دو نقطهٔ کرانیومتریک.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p16_occ_side.jpeg",
+   "source_pdf_page": 16,
+   "source_bbox": [
+    32.15,
+    388.56,
+    198.7,
+    538.66
+   ],
+   "base_topic": "hn03-T16",
+   "base_block_index": 6,
+   "title": "استخوان پس‌سری از پهلو",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای طرفی استخوان پس‌سری؛ خطی در لبهٔ پایین از برش تصویر منبع باقی است.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p17_occ_external.jpeg",
+   "source_pdf_page": 17,
+   "source_bbox": [
+    33.25,
+    313.05,
+    260.45,
+    502.8
+   ],
+   "base_topic": "hn03-T16",
+   "base_block_index": 7,
+   "title": "بخش‌های پس‌سری از خارج",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نقشهٔ سطح خارجی رنگی؛ برخی برچسب‌های چپ در نزدیکی لبه‌اند.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p17_occ_inferior.jpeg",
+   "source_pdf_page": 17,
+   "source_bbox": [
+    32.7,
+    525.23,
+    261.15,
+    704.68
+   ],
+   "base_topic": "hn03-T17",
+   "base_block_index": 10,
+   "title": "پس‌سری از سطح تحتانی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای تحتانی پس‌سری با کندیل، کانال، خطوط گردنی و سوراخ بزرگ.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p18_occ_internal.jpeg",
+   "source_pdf_page": 18,
+   "source_bbox": [
+    36.0,
+    257.47,
+    276.8,
+    450.07
+   ],
+   "base_topic": "hn03-T18",
+   "base_block_index": 7,
+   "title": "بخش‌های پس‌سری و ناودان‌های سطح داخلی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "نمای رنگی سطح داخلی با سینوس‌ها و اجزای استخوان.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p19_occ_endocranial.jpeg",
+   "source_pdf_page": 19,
+   "source_bbox": [
+    29.15,
+    36.0,
+    523.26,
+    308.3
+   ],
+   "base_topic": "hn03-T18",
+   "base_block_index": 9,
+   "title": "سطح داخلی استخوان پس‌سری",
+   "asset_viewed_individually": true,
+   "asset_review_note": "دو نمای سطح داخلی، رنگی و استخوان خشک، شامل کانال‌ها و ناودان‌ها.",
+   "final_pdf_reviewed": false
+  },
+  {
+   "asset": "headneck/images/hn03_lec_p20_venous.jpeg",
+   "source_pdf_page": 20,
+   "source_bbox": [
+    33.25,
+    139.59,
+    299.1,
+    346.79
+   ],
+   "base_topic": "hn03-T19",
+   "base_block_index": 5,
+   "title": "سینوس‌ها و وریدهای ارتباطی",
+   "asset_viewed_individually": true,
+   "asset_review_note": "سینوس‌های وریدی و وریدهای ارتباطی در نمای خلفی؛ برچسب‌ها در خود دارایی دیده می‌شوند.",
+   "final_pdf_reviewed": false
+  }
+ ]
+}

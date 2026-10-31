@@ -1,0 +1,1434 @@
+{
+  "session": "hn03",
+  "source": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+  "status": "second visual pass recorded for pages 2–20; independent word-by-word reconciliation not yet verified; final content and layout QA pending",
+  "page_numbering": "one-based PDF page numbers; page 1 is the cover",
+  "pages": [
+    {
+      "pdf_page": 2,
+      "topic": "hn03-T01",
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "مقدمه: مباحث این جلسه"
+        },
+        {
+          "type": "paragraph",
+          "text": "توی این جلسه قراره در مورد استخوان‌های زیر و جایگاهشون صحبت کنیم:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "استخوان اسفنوئید یا پروانه ای (Sphenoid Bone)",
+            "استخوان پالاتین یا کامی (Palatine Bone)",
+            "استخوان پس‌سری (Occipital Bone)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "همچنین قراره عناصری که تو نمای گیجگاهی یا طرفی (Temporal view) و نمای خلفی (Posterior view) وجود دارند رو بررسی کنیم. در ادامه هم استخوان‌های تشکیل‌دهنده نمای طرفی (Temporal) به طور کامل توضیح داده می‌شوند."
+        },
+        {
+          "type": "heading",
+          "text": "استخوان اسفنوئید (Sphenoid Bone) یا پروانه ای"
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p02_location.jpeg",
+          "note": "diagram with English label; not transcription of paragraph text"
+        },
+        {
+          "type": "paragraph",
+          "text": "استخوان اسفنوئید یکی از استخوان‌های کلیدی و مرکزی جمجمه است. اگه بخوایم مجاورت‌هاش رو بررسی کنیم، به این شکل با بقیه استخوان‌ها مفصل می‌شود:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "نمای بیرونی جمجمه: در قدام (جلو) با استخوان پیشانی (Frontal) و در عقب با استخوان گیجگاهی (Temporal) مجاورت دارد.",
+            "نمای درون جمجمه: در قدام با استخوان پرویزنی (Ethmoid) و در خلف با استخوان پس‌سری (Occipital) مفصل می‌شود."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "به خاطر همین گستردگی، ما این استخوان رو از نماهای مختلفی بررسی می‌کنیم: نمای قدامی، نمای خلفی، نمای فوقانی و نمای تحتانی. استخوان اسفنوئید در تشکیل حفرات جمجمه قدامی (Anterior)، میانی (Middle) و خلفی (Posterior Cranial Fossae) و همچنین در تشکیل حفرات چشم (Orbit) شرکت می‌کند."
+        },
+        {
+          "type": "heading",
+          "text": "اجزای استخوان اسفنوئید"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 3,
+      "topic": [
+        "hn03-T01",
+        "hn03-T02"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "این استخوان شامل ۴ بخش اصلیه:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "تنه یا جسم (Body)",
+            "بال کوچک (Lesser Wing)",
+            "بال بزرگ (Greater Wing)",
+            "زوائد تریگوئید یا بالی‌شکل (Pterygoid Processes)"
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p03_skull_sections.jpeg",
+          "note": "figure placed beside the list"
+        },
+        {
+          "type": "heading",
+          "text": "سطح قدامی تنه اسفنوئید (Anterior Surface of Body)"
+        },
+        {
+          "type": "paragraph",
+          "text": "تنه استخوان اسفنوئید در سطح قدامی خودش ویژگی‌های زیر رو دارد:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "قسمت بالا و خارج: دهانه سینوس اسفنوئید (Sphenoidal Sinus) قرار گرفته است که با سینوس‌های اتموئیدال (Ethmoidal Sinuses) مفصل می‌شوند.",
+            "سطح پایین و سمت داخل: یک سطح صاف و مثلثی شکل داریم که در تشکیل قسمت سقف حفره بینی (Nasal Cavity Roof) شرکت می‌کند.",
+            "خط وسط (Midline): بین سینوس‌های اسفنوئید، تیغه اسفنوئید (Sphenoidal Crest) قرار گرفته است که قسمتی از تیغه بینی (Nasal Septum) رو می‌سازد. دقیقاً در جلوی این تیغه، صفحه عمودی استخوان اتموئید (Perpendicular plate of Ethmoid) قرار دارد.",
+            "قسمت تحتانی: یه زائده نوک‌تیز به سمت جلو آمده است که به آن منقار یا روستروم (Sphenoidal Rostrum) می‌گویند."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "از قسمت پایین و طرفین تنه استخوان اسفنوئید، دو تا بال به سمت بالا و خارج می روند و بال بزرگ رو تشکیل می دهند."
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p03_anterior.jpeg",
+          "note": "figure; labels retained in source asset"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 4,
+      "topic": [
+        "hn03-T03",
+        "hn03-T04"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "بال بزرگ اسفنوئید (Greater Wing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "بال بزرگ سه تا سطح مجزا دارد که هر کدوم در یک قسمت از جمجمه نقش دارند:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "سطح کاسه چشمی (Orbital Surface)",
+            "سطح لترال یا بیرون جمجمه‌ای (Lateral Surface)",
+            "سطح مغزی یا درون جمجمه‌ای (Cerebral Surface): که در نمای فوقانی دیده می‌شود."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "سطح اوربیتال (کاسه چشمی)"
+        },
+        {
+          "type": "paragraph",
+          "text": "این سطح تو تشکیل جدار خارجی کاسه چشم (Orbit) شرکت می‌کنه و کنارها (Borders) و مرزهای خیلی مهمی دارد:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "کنار فوقانی: با صفحه افقی استخوان پیشانی (Frontal) مفصل می‌شود.",
+            "کنار خارجی (لترال): حالت مضرس (دندانه‌دار) دارد و با استخوان گونه (Zygomatic) مفصل می‌شود.",
+            "کنار تحتانی: حالت کُند دارد و حد خلفی–خارجی شکاف کاسه چشمی تحتانی (Inferior Orbital Fissure) رو تشکیل می‌دهد.",
+            "کنار داخلی (مدیال): حد تحتانی شکاف کاسه چشمی فوقانی (Superior Orbital Fissure) رو به وجود می‌آورد. (این شکاف بین بال بزرگ و بال کوچک اسفنوئید قرار دارد)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "شکاف کاسه چشمی فوقانی (Superior Orbital Fissure)"
+        },
+        {
+          "type": "paragraph",
+          "text": "محدوده این شکاف:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "در بالا (Superior): بال کوچک استخوان اسفنوئید (Lesser Wing).",
+            "در پایین (Inferior): بال بزرگ استخوان اسفنوئید (Greater Wing).",
+            "در داخل (Medial): جسم یا تنه استخوان (Body of Sphenoid).",
+            "در خارج (Lateral): ممکنه است بال کوچک و بزرگ به هم نرسند و اتصال نداشته باشند؛ در این صورت، این قسمت توسط بخشی از استخوان پیشانی (Frontal Bone) تکمیل می‌شود."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "زوائد تریگوئید (Pterygoid Processes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "از محل اتصال بال بزرگ به تنه، زوائد تریگوئید به سمت پایین کشیده می‌شوند. صفحات تریگوئید خودشان شامل دو بخش اصلی هستند:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "صفحه خارجی (Lateral Pterygoid Plate)",
+            "صفحه داخلی (Medial Pterygoid Plate)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "نکته: صفحه داخلی (Medial Plate) زائده تریگوئید خودش دارای دو تا سطحه: سطح داخلی (Medial Surface) و سطح خارجی (Lateral Surface)."
+        },
+        {
+          "type": "heading",
+          "text": "زائده غلافی یا واژینالیس (Vaginal Process)"
+        },
+        {
+          "type": "paragraph",
+          "text": "از سطح داخلی (Medial) تنه، یک تیغه استخوانی به سمت پایین می‌آید که شبیه یک غلاف اطراف قسمت ابتدایی (پروکسیمال) زائده تریگوئید رو می‌پوشاند؛ به همین خاطر بهش زائده واژینالیس یا غلافی (Vaginal Process) می‌گویند."
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 5,
+      "topic": [
+        "hn03-T02",
+        "hn03-T03",
+        "hn03-T04"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "تشکیل کانال‌ها:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "این زائده با استخوان کامی (Palatine)، کانال پالاتوواژینال (Palatovaginal Canal) را می‌سازد.",
+            "همین زائده با استخوان تیغه بینی (Vomer)، کانال وومروواژینال (Vomerovaginal Canal) را تشکیل می‌دهد."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "کانال تریگوئید (Pterygoid Canal)"
+        },
+        {
+          "type": "paragraph",
+          "text": "دقیقاً تو محل ریشه زوائد تریگوئید و تنه (Body) استخوان، کانال تریگوئید (Pterygoid Canal) قرار دارد که محل عبور عصب تریگوئید (Nerve of Pterygoid Canal) است."
+        },
+        {
+          "type": "paragraph",
+          "text": "کلمه Pterygoid ریشه یونانی دارد؛ اگر “پتریگوئید” بگوییم تلفظ یونانی آن است و اگر “تریگوئید” بگوییم تلفظ انگلیسی آن است. هر دو تای آنها درست است."
+        },
+        {
+          "type": "heading",
+          "text": "ستیغ فروگیجگاهی (Infratemporal Crest)"
+        },
+        {
+          "type": "paragraph",
+          "text": "روی سطح بیرونی بال بزرگ (Greater Wing)، یه ستیغ یا برجستگی خطی خیلی مهم داریم به اسم اینفراتمپورال کرست (Infratemporal Crest). این ستیغ مثل یک مرز یا لندمارک عمل می‌کند:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "بالای ستیغ: سطح گیجگاهی (Temporal Surface) قرار دارد.",
+            "پایین ستیغ: سطح فروگیجگاهی (Infratemporal Surface) قرار گرفته است."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "سینوس اسفنوئید و کونکا (Conchae & Sphenoidal Sinus)"
+        },
+        {
+          "type": "paragraph",
+          "text": "تنه استخوان اسفنوئید توخالیه و داخل آن سینوس اسفنوئید (Sphenoidal Sinus) قرار دارد. جلوی این سینوس‌ها، یک سری تیغه‌های استخوانی به اسم شاخک یا کونکای اسفنوئید (Sphenoidal Conchae) قرار گرفته‌اند که دهانه سینوس رو محدود می‌کنند."
+        },
+        {
+          "type": "heading",
+          "text": "نمای خلفی (Posterior View) و مفصل با اکسیپیتال"
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p05_posterior.jpeg",
+          "note": "figure; labels retained in source asset"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 6,
+      "topic": [
+        "hn03-T04",
+        "hn03-T05",
+        "hn03-T08"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "در نمای پشتی، سطح خلفی تنه استخوان اسفنوئید با بخش قاعده‌ای استخوان پس‌سری یا بخش بازیلار اکسیپیتال (Basilar part of Occipital bone) مفصل می‌شود."
+        },
+        {
+          "type": "paragraph",
+          "text": "این مفصل از نوع غضروفی (Synchondrosis) است. تو افراد زیر 25 سال این جا غضروف رشد وجود دارد، اما بالای 25سال این غضروف استخوانی می‌شود (سین‌استوزیس) و درز بین این دو استخوان کاملاً از بین می‌رود و به هم جوش می‌خورند!"
+        },
+        {
+          "type": "heading",
+          "text": "ناودان کاروتید (Carotid Sulcus)"
+        },
+        {
+          "type": "paragraph",
+          "text": "در طرفین جسم اسفنوئید، یه ناودان خیلی حیاتی به اسم ناودان کاروتید (Carotid Sulcus/Groove) داریم. تو این ناودان، شریان کاروتید داخلی (Internal Carotid Artery) قرار می‌گیرد."
+        },
+        {
+          "type": "paragraph",
+          "text": "عمق این ناودان در جلو کم است، ولی تو قسمت عقب دهانه‌اش گشادتر و عمیق‌تر می‌شود."
+        },
+        {
+          "type": "heading",
+          "text": "بال کوچک استخوان اسفنوئید (Lesser Wing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "بال کوچک با دو تا ریشه به تنه وصل می‌شود: ریشه قدامی (Anterior Root) و ریشه خلفی (Posterior Root)."
+        },
+        {
+          "type": "paragraph",
+          "text": "کانال اپتیک: از به هم پیوستن این دو ریشه با تنه استخوان، کانال بینایی یا اپتیک کانال (Optic Canal) شکل می‌گیرد."
+        },
+        {
+          "type": "paragraph",
+          "text": "محتویات کانال: عصب بینایی یا زوج 2 مغزی (Optic Nerve / II Cranial Nerve) از همین جا رد می‌شود."
+        },
+        {
+          "type": "heading",
+          "text": "سطوح بال کوچک:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "سطح فوقانی (Superior Surface): در تشکیل حفره جمجمه‌ای قدامی (Anterior Cranial Fossa) نقش دارد.",
+            "سطح تحتانی (Inferior Surface): همان‌طور که در پارت قبل گفتیم، در تشکیل حد فوقانی شکاف کاسه چشمی فوقانی (Superior Orbital Fissure) مشارکت می‌کند."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "جزئیات زوائد تریگوئید (Pterygoid Processes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "صفحات داخلی و خارجی زائده تریگوئید وقتی به سمت پایین می‌آیند، از هم فاصله می‌گیرند و یک بریدگی به اسم بریدگی تریگوئید (Pterygoid Notch) را می‌سازند."
+        },
+        {
+          "type": "paragraph",
+          "text": "مجاورت مهم: زائده هرمی استخوان کامی (Pyramidal process of Palatine bone) دقیقاً در همین بریدگی جا می‌گیرد و مفصل می‌شود."
+        },
+        {
+          "type": "paragraph",
+          "text": "حفره تریگوئید (Pterygoid Fossa): به فضای بین صفحه داخلی و خارجی گفته می‌شود."
+        },
+        {
+          "type": "heading",
+          "text": "ویژگی‌های صفحه داخلی تریگوئید (Medial Pterygoid Plate)"
+        },
+        {
+          "type": "paragraph",
+          "text": "این صفحه نسبت به صفحه خارجی، بلندتر و باریک‌تر است و دو تا سطح دارد:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "سطح خارجی (Lateral Surface): در تشکیل همون حفره تریگوئید که بالا گفتیم شرکت می‌کند.",
+            "سطح داخلی (Medial Surface): در تشکیل جدار خارجی کوانا یا حفرات خلفی بینی (Choanae / Posterior Nasal Apertures) شرکت می‌کند."
+          ]
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 7,
+      "topic": [
+        "hn03-T04",
+        "hn03-T05",
+        "hn03-T06"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "کناره‌های صفحه داخلی: دارای کنار قدامی و خلفی است. کنار خلفی (Posterior Border) خیلی مهم است چون دو تا انتها دارد:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "انتهای فوقانی: شکافته می‌شود و یک فرورفتگی مثلثی شکل به اسم حفره اسکافوئید یا ناوسانی (Scaphoid Fossa) را می‌سازد.",
+            "انتهای تحتانی: به سمت پایین و خارج کشیده می‌شود و یک قلاب استخوانی به اسم تریگوئید (Pterygoid Hamulus) را به وجود می‌آورد."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p07_superior.jpeg",
+          "note": "figure; labels retained in source asset"
+        },
+        {
+          "type": "heading",
+          "text": "نمای درون جمجمه‌ای (Intracranial View) و حفرات مغزی"
+        },
+        {
+          "type": "paragraph",
+          "text": "اگر از بالا به جمجمه نگاه کنیم:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "سطح فوقانی بال کوچک (Lesser Wing) ← در ساخت حفره جمجمه‌ای قدامی (Anterior Cranial Fossa) شرکت می‌کند.",
+            "سطح مغزی بال بزرگ (Cerebral surface of Greater Wing) ← در ساخت حفره جمجمه‌ای میانی (Middle Cranial Fossa) نقش اساسی دارد."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "بررسی سطح فوقانی تنه اسفنوئید (از جلو به عقب)"
+        },
+        {
+          "type": "paragraph",
+          "text": "اگر روی تنه استخوان اسفنوئید رو از سمت قدام (جلو) به سمت خلف (عقب) نگاه کنیم، این لندمارک‌های مهم رو می‌بینیم:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "خار اتموئیدال (Ethmoidal Spine): در قدامی‌ترین بخش قرار دارد و با استخوان اتموئید (پرویزنی) مفصل می‌شود.",
+            "یوغ اسفنوئیدی (Jugum Sphenoidale): پشت خار اتموئیدال، یک سطح صاف و یکدست است که به آن یوغ اسفنوئید می‌گویند. روی این قسمت، مسیرها یا شیارهای بویایی (Olfactory Tracts) قرار می‌گیرند.",
+            "ناودان کیاسماتیک (Chiasmatic Groove / Sulcus): عقب‌تر از یوغ اسفنوئیدی، یه ناودان عرضی داریم که محل عبور و تقاطع عصب بینایی یا زوج 2 مغزی (II Cranial Nerve) است."
+          ]
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 8,
+      "topic": [
+        "hn03-T05",
+        "hn03-T06",
+        "hn03-T07"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "۴. کانال بینایی (Optic Canal): انتهای طرفی (Lateral) این ناودان کیاسماتیک، به کانال اپتیک ختم می‌شود که حفره کاسه چشم را به حفره جمجمه‌ای میانی وصل می‌کند."
+        },
+        {
+          "type": "heading",
+          "text": "زین ترکی (Sella Turcica) و اجزای آن"
+        },
+        {
+          "type": "paragraph",
+          "text": "پشت ناودان کیاسماتیک، یه ساختار به شدت مهم شبیه زین اسب داریم که بهش زین ترکی (Sella Turcica) میگن. این ساختار خودش از 3 بخش اصلی تشکیل شده (از جلو به عقب):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "دکمه زین (Tuberculum Sellae): قسمت برجسته قدامی زین ترکی هست.",
+            "حفره هیپوفیزی (Hypophyseal Fossa): یه حفره عمیق تو مرکز زین ترکی که غده بسیار مهم هیپوفیز (Pituitary Gland) اونجا می‌شینه و محافظت میشه.",
+            "پشت زین (Dorsum Sellae): یه تیغه استخوانی قائمه که حد خلفی زین ترکی و حفره هیپوفیز رو می‌سازه."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "زوائد کلینوئید (Clinoid Processes)"
+        },
+        {
+          "type": "paragraph",
+          "text": "استاد تو ویس گفته کلینوئید یعنی “دسته تخت پادشاهی” ما سه جفت از این زوائد داریم:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "زائده کلینوئید قدامی (Anterior Clinoid Process): بال کوچک اسفنوئید به سمت عقب و داخل کشیده میشه و این زائده رو می‌سازه. نکته امتحانی: لبه آزاد چادرینه مخچه (Tentorium Cerebelli) دقیقاً به همین زائده می‌چسبه.",
+            "زائده کلینوئید میانی (Middle Clinoid Process): از انتهای طرفی (Lateral) دکمه زین (Tuberculum sellae) به وجود میاد.",
+            "زائده کلینوئید خلفی (Posterior Clinoid Process): زوایای فوقانی و طرفی پشت زین (Dorsum sellae) پهن میشن و این زائده رو می‌سازن."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "سطح مغزی بال بزرگ (Cerebral Surface of Greater Wing)"
+        },
+        {
+          "type": "paragraph",
+          "text": "روی سطح فوقانی/مغزی بال بزرگ (که رو به داخل جمجمه است)، فرورفتگی‌ها و برجستگی‌هایی می‌بینیم که اثر شکنج‌های مغزی (Cerebral Gyri) هستن. همچنین شیارهایی برای عبور شریان مننژ میانی (Middle Meningeal Artery) تو این سطح دیده میشه."
+        },
+        {
+          "type": "heading",
+          "text": "سوراخ‌های بال بزرگ اسفنوئید (پرتکرارترین سوال آناتومی!)"
+        },
+        {
+          "type": "paragraph",
+          "text": "روی این سطح از سمت جلو به عقب و خارج، چند تا سوراخ حیاتی داریم:"
+        },
+        {
+          "type": "heading",
+          "text": "۱. سوراخ گرد (Foramen Rotundum):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "موقعیت: قسمت داخلی و دقیقاً زیر شکاف کاسه چشمی فوقانی.",
+            "محتویات عبوری: عصب ماگزیلاری (Maxillary Nerve) که شاخه دوم عصب دوقلو یا زوج 5 مغزی (Cranial V Nerve) هست."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "۲. سوراخ بیضی (Foramen Ovale):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "موقعیت: عقب‌تر و خارج‌تر از سوراخ گرد.",
+            "محتویات عبوری: عصب مندیبولار (Mandibular Nerve) که شاخه سوم زوج 5 مغزی هست. + همچنین عصب پتروزال کوچک (Lesser Petrosal Nerve) هم ممکنه ازش رد بشه."
+          ]
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 9,
+      "topic": [
+        "hn03-T07",
+        "hn03-T08"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "۳. سوراخ وزالیوس (Foramen of Vesalius / Emissary Sphenoidal Foramen):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "موقعیت: یه سوراخ کوچیک و متغیر که ممکنه سمت داخل سوراخ بیضی وجود داشته باشه.",
+            "محتویات عبوری: یه ورید خروجی (Emissary vein) ازش رد میشه که سینوس کاورنوس (Cavernous sinus) رو به شبکه وریدی بیرون جمجمه وصل می‌کنه."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "۴. سوراخ خاری (Foramen Spinosum):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "موقعیت: در قسمت خلف و خارج سوراخ بیضی.",
+            "محتویات عبوری: شریان مننژ میانی (Middle Meningeal Artery) و شاخه مننژیال عصب مندیبولار."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "خار اسفنوئید و ناودان کاروتید"
+        },
+        {
+          "type": "list",
+          "items": [
+            "خار اسفنوئید (Sphenoidal Spine): دقیقاً در عقب سوراخ خاری، یه زائده استخوانی هرمی رو به پایین داریم. نکته امتحانی: رباط اسفنومندیبولار (Sphenomandibular Ligament) به این خار متصل میشه.",
+            "ناودان کاروتید (Carotid Sulcus/Groove) و لینگولا (Lingula): در دو طرف تنه اسفنوئید، ناودان کاروتید قرار داره. لبه خارجی این ناودان در قسمت عقب، به زائده استخوانی کوچیک به اسم لینگولا یا زبانه (Lingula of Sphenoid) رو می‌سازه. حضور این لینگولا باعث میشه ناودان کاروتید تو اون قسمت عمیق‌تر بشه و شریان رو بهتر در بر بگیره."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "کلیووس (Clivus): سطح شیب‌دار قاعده جمجمه"
+        },
+        {
+          "type": "paragraph",
+          "text": "اگه وسط قاعده جمجمه رو نگاه کنیم، می‌بینیم که بخش خلفی تنه استخوان اسفنوئید (پشت زین ترکی) به بخش قدامی استخوان پس‌سری (Occipital Bone) متصل میشه. این اتصال، یه سطح استخوانی یکدست و شیب‌دار می‌سازه که بهش کلیووس (Clivus) میگن."
+        },
+        {
+          "type": "list",
+          "items": [
+            "ریشه کلمه: کلیووس تو لاتین دقیقاً به معنی “شیب” هست.",
+            "نکته امتحانی (ساختارهای مجاور): روی این سطح شیب‌دار، دو تا از مهم‌ترین بخش‌های ساقه مغز یعنی پل مغزی (Pons) و بصل‌النخاع (Medulla Oblongata) قرار می‌گیرن و استراحت می‌کنن."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p09_clivus.jpeg",
+          "note": "figure; labels retained in source asset"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 10,
+      "topic": [
+        "hn03-T09"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "نمای طرفی جمجمه و تشکیل ناحیه پتریون (Pterion)"
+        },
+        {
+          "type": "paragraph",
+          "text": "تو نمای طرفی (Lateral) جمجمه، بال بزرگ استخوان اسفنوئید رو می‌بینیم که توی حفره گیجگاهی یا تمپورال (Temporal Fossa) قرار گرفته. این بال بزرگ با استخوان‌های زیر مفصل (درز) میشه:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "در سمت قدام (جلو): با استخوان گونه‌ای (Zygomatic) و استخوان پیشانی (Frontal).",
+            "در سمت خلف (عقب): با صدف استخوان گیجگاهی (Temporal) و زاویه قدامی–تحتانی استخوان آهیانه یا پری‌تال (Parietal) (که به این زاویه، زاویه اسفنوئیدال استخوان پری‌تال هم میگن)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "این استخوان‌ها با هم کف حفره تمپورال یا گیجگاهی رو می‌سازن."
+        },
+        {
+          "type": "heading",
+          "text": "نقطه پتریون (Pterion)"
+        },
+        {
+          "type": "paragraph",
+          "text": "به اون ناحیه H شکلی که این 4 تا استخوان با هم تلاقی می‌کنن و درز میشن، پتریون (Pterion) میگن."
+        },
+        {
+          "type": "paragraph",
+          "text": "پس پتریون محل اتصال این استخوان‌هاست:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "استخوان پیشانی (Frontal)",
+            "استخوان آهیانه (Parietal)",
+            "بال بزرگ اسفنوئید (Greater wing of Sphenoid)",
+            "استخوان گیجگاهی (Temporal)"
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p10_pterion.jpeg",
+          "note": "figure placed beside the list"
+        },
+        {
+          "type": "heading",
+          "text": "اهمیت بالینی و اورژانسی پتریون"
+        },
+        {
+          "type": "paragraph",
+          "text": "چرا پتریون اینقدر مهمه؟ چون تو سطح داخلی جمجمه (دقیقاً زیر ناحیه پتریون)، شاخه قدامی شریان مننژیال میانی (Anterior branch of Middle Meningeal Artery) عبور می‌کنه."
+        },
+        {
+          "type": "list",
+          "items": [
+            "ضربه به پتریون: چون استخوان تو این ناحیه نسبتاً نازکه، اگه ضربه‌ای به شقیقه وارد بشه، استخوان می‌شکنه و این شریان پاره میشه. نتیجه‌اش میشه خونریزی اپی‌دورال (Epidural Hematoma) که خون بین استخوان جمجمه و لایه سخت‌شامه جمع میشه. اگه سریعاً درمان و جراحی نشه، باعث مرگ بیمار میشه!",
+            "نقطه سیلوین (Sylvian Point): دقیقاً تو همین محل، شیار طرفی مغز (Lateral Sulcus) یا همون شیار سیلوین (Sylvian Fissure) هم شروع میشه، برای همین به این قسمت “نقطه سیلوین” هم میگن."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "آناتومی سطحی (Surface Anatomy) در نمای طرفی"
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p10_pterion_vessels.jpeg",
+          "note": "figure; labels retained in source asset"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 11,
+      "topic": [
+        "hn03-T09",
+        "hn03-T10"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "استاد روی اسلایدها چند تا نقطه و لندمارک مهم رو تو فرد زنده روی پوست آدرس داده که اینا هستن:"
+        },
+        {
+          "type": "paragraph",
+          "text": "پیدا کردن پتریون با انگشتان: انگشت شست رو می‌ذاریم پشت زائده فرونتالِ استخوان زایگوماتیک (گونه). به اندازه پهنای یک انگشت شست به سمت عقب می‌ریم. بعد دو انگشت اشاره (Index) و میانی (Middle) رو بالای قوس گونه‌ای (Zygomatic Arch) قرار می‌دیم. تقاطع این دو مسیر، دقیقاً محل قرارگیری پتریون رو نشون میده."
+        },
+        {
+          "type": "heading",
+          "text": "لندمارک‌های شماره‌گذاری شده اسلاید استاد:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "شماره 1: مسیر شاخه قدامی شریان مننژیال میانی است که تو بیش از 50٪ افراد دقیقاً در عمق همین ناحیه پتریون قرار داره.",
+            "شماره 2: خود ناحیه پتریون رو نشون میده. آناتومیست‌ها میگن پتریون یه دایره به قطر 1 سانتی‌متر در نظر بگیرید که مرکزش تقریباً 2.5 سانتی‌متر در خلف و 1.5 سانتی‌متر در بالای درز فرونتوزایگوماتیک (Frontozygomatic Suture) قرار داره.",
+            "شماره 3: مسیر فیشر سیلوین یا طرفی (Lateral/Sylvian Fissure) رو نشون میده که با بخش قدامی قسمت صدفی (Squamous part) استخوان تمپورال منطبقه. این نقطه حدوداً 3 سانتی‌متر قدامی‌تر از مجرای گوش خارجی (External Acoustic Meatus) قرار داره.",
+            "شماره 4: مسیر شاخه خلفی شریان مننژیال میانی هست. این شاخه به موازات قوس گونه‌ای (Zygomatic Arch) و تقریباً در امتداد حاشیه فوق چشمی (Supraorbital Margin) به سمت عقب میره."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p11_surface.jpeg",
+          "note": "figure; labels retained in source asset"
+        },
+        {
+          "type": "heading",
+          "text": "حفره اینفراتمپورال و ورود به مبحث استخوان پالاتین:"
+        },
+        {
+          "type": "paragraph",
+          "text": "در نمای طرفی جمجمه، علاوه بر حفره تمپورال (گیجگاهی) که الان بررسی کردیم، یه حفره دیگه در قسمت پایین‌تر و در عمق استخوان فک تحتانی (Mandible) داریم که بهش حفره تحت گیجگاهی یا اینفراتمپورال (Infratemporal Fossa) میگن."
+        },
+        {
+          "type": "paragraph",
+          "text": "همچنین از اونجایی که استخوان کامی یا پالاتین (Palatine Bone) در تشکیل حفره مهمی به اسم پتریگوپالاتین (Pterygopalatine Fossa) شرکت می‌کنه، در ادامه استخوان پالاتین رو هم تو همین نما بررسی خواهیم کرد."
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p11_infratemporal.jpeg",
+          "note": "figure; labels retained in source asset"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 12,
+      "topic": [
+        "hn03-T11"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "استخوان پالاتین یا کامی (Palatine Bone)"
+        },
+        {
+          "type": "paragraph",
+          "text": "استخوان پالاتین (palatine bone) دو استخوان L شکل هست که تو بخش خلفی (عقبی) حفره بینی قرار گرفته."
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p12_context.jpeg",
+          "note": "figure; labels retained in source asset"
+        },
+        {
+          "type": "paragraph",
+          "text": "نقش استخوان پالاتین تو جمجمه چیه؟ هر کدوم از این استخوان‌ها تو تشکیل این قسمت‌ها شرکت می‌کنن:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "جدار طرفی (Lateral wall) و کف حفره بینی",
+            "سقف حفره دهان (کام سخت)",
+            "قسمت‌هایی از حفره پتریگوپالاتین (Pterygopalatine Fossa)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "ساختار کلی استخوان پالاتین"
+        },
+        {
+          "type": "paragraph",
+          "text": "چون این استخوان L شکله، از 2 تا صفحه (Plate) و 3 تا زائده (Process) تشکیل شده:"
+        },
+        {
+          "type": "heading",
+          "text": "صفحات:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "صفحه عمودی (Perpendicular Plate)",
+            "صفحه افقی (Horizontal Plate)"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "زوائد:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "زائده کاسه چشمی یا اوربیتال (Orbital Process)",
+            "زائده شب‌پره‌ای یا اسفنوئیدال (Sphenoidal Process)",
+            "زائده هرمی یا پیرامیدال (Pyramidal Process)"
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p12_pal_medial.jpeg",
+          "note": "figure placed beside the text"
+        },
+        {
+          "type": "heading",
+          "text": "صفحه عمودی پالاتین (Perpendicular Plate)"
+        },
+        {
+          "type": "paragraph",
+          "text": "این صفحه 2 تا سطح (مدیال و لترال) و 4 تا کنار (قدامی، خلفی، فوقانی، تحتانی) داره. اینجا بیشتر روی سطح داخلی (medial) تمرکز می‌کنیم و قابل مشاهده است."
+        },
+        {
+          "type": "heading",
+          "text": "الف) سطح داخلی (Medial Surface)"
+        },
+        {
+          "type": "paragraph",
+          "text": "روی این سطح که رو به حفره بینی قرار داره، دو تا ستیغ یا تیغه استخوانی (Crest) مهم می‌بینیم:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "تیغه اتموئیدال (Ethmoidal Crest): تو قسمت بالا قرار داره و با استخوان اتموئید یا پرویزنی (ethmoid) مفصل میشه.",
+            "تیغه شاخکی یا کنکال کرست (Conchal Crest): تو قسمت پایین قرار داره و با شاخک تحتانی بینی (Inferior Nasal Concha) مفصل میشه."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p12_pal_lateral.jpeg",
+          "note": "figure placed beside the text"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 13,
+      "topic": [
+        "hn03-T11",
+        "hn03-T12",
+        "hn03-T14"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "نکته امتحانی مجراهای بینی (Meatuses):"
+        },
+        {
+          "type": "paragraph",
+          "text": "فضای بین این دو تا ستیغ، بخشی از جدار بینی رو می‌سازه."
+        },
+        {
+          "type": "list",
+          "items": [
+            "دقیقاً زیر تیغه اتموئیدال، مجرای میانی بینی (Middle Nasal Meatus) قرار داره.",
+            "دقیقاً زیر تیغه کنکال (زیر شاخک تحتانی)، مجرای تحتانی بینی (Inferior Nasal Meatus) قرار می‌گیره."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "ب) کنارهای صفحه عمودی"
+        },
+        {
+          "type": "list",
+          "items": [
+            "کنار قدامی (Anterior Border): تو این قسمت زائده ماگزیلاری (Maxillary Process) رو داریم که زیر کنکال کرست قرار داره و با استخوان فک بالا (Maxilla) مفصل میشه.",
+            "کنار فوقانی (Superior Border): این کنار خیلی مهمه چون دو تا زائده مهم اوربیتال (orbital) و اسفنوئیدال (sphenoidal) روش قرار دارن که بینشون یه بریدگی هست:"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "۱. زائده اوربیتال (Orbital Process): به سمت بالا و خارج (لترال) برآمده شده و 3 تا سطح مهم داره که استاد اشاره کرده:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "سطح اوربیتال: تو تشکیل قسمت خلفی کف کاسه چشم (Orbit) شرکت می‌کنه.",
+            "سطح خارجی (لترال): تو تشکیل جدار داخلی حفره پتریگوپالاتین (pterygopalatine fossa) مشارکت می‌کنه.",
+            "سطح خلفی: رو به عقب و به سمت بریدگی اسفنوپالاتین (Sphenopalatine notch) قرار داره."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p13_orbital.jpeg",
+          "note": "figure placed beside text"
+        },
+        {
+          "type": "paragraph",
+          "text": "۲. زائده اسفنوئیدال (Sphenoidal Process): تو قسمت خلفی کنار فوقانی قرار داره. از زائده اوربیتال کوچیک‌تره و به سمت بالا و داخل (مدیال) کشیده شده. 2 تا سطح داره (فوقانی و تحتانی):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "سطح فوقانی: به طرف شاخک (concha) های جسم اسفنوئید (sphenoid) میره و باهاشون مفصل میشه.",
+            "نکته: روی این سطح یه ناودان هست. این ناودان با زائده واژینال صفحه داخلی پتریگوئید (Vaginal process of Medial Pterygoid Plate) از استخوان اسفنوئید روی هم میفتن و یه کانال می‌سازن به اسم کانال پالاتوواژینال (Palatovaginal Canal)."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p13_canals.jpeg",
+          "note": "figure placed beside text"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 14,
+      "topic": [
+        "hn03-T12",
+        "hn03-T13",
+        "hn03-T14"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "۳. بریدگی اسفنوپالاتین (Sphenopalatine Notch): این بریدگی دقیقاً بین زائده اوربیتال (جلو) و زائده اسفنوئیدال (عقب) قرار گرفته. وقتی استخوان اسفنوئید (sphenoid bone) میاد روی این بریدگی می‌شینه، این بریدگی تبدیل میشه به یه سوراخ خیلی مهم به اسم سوراخ اسفنوپالاتین (Sphenopalatine Foramen)."
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p14_pal_posterior.jpeg",
+          "note": "figure placed beside text"
+        },
+        {
+          "type": "heading",
+          "text": "صفحه افقی پالاتین (Horizontal Plate)"
+        },
+        {
+          "type": "paragraph",
+          "text": "این صفحه دقیقاً کف بینی و سقف دهان (بخش خلفی کام سخت) رو می‌سازه. دارای 2 سطح (فوقانی و تحتانی) و 4 کنار (قدامی، داخلی، خلفی و خارجی) هست."
+        },
+        {
+          "type": "list",
+          "items": [
+            "کنار قدامی: با زائده کامی از استخوان فک بالا (Palatine process of Maxilla) مفصل میشه و درز کامی–عرضی (Transverse Palatine Suture) رو می‌سازه.",
+            "کنار خلفی: آزاد هست و تو تشکیل کوانا (Choana) یا همون دهانه خلفی حفره بینی شرکت می‌کنه (بهش Posterior Nasal Notch هم میگن).",
+            "خار خلفی بینی (Posterior Nasal Spine): اگه کنار خلفی رو به سمت داخل (medial) ادامه بدیم، تو خط وسط برجسته و نوک‌تیز میشه و این خار رو می‌سازه. نکته عضلانی: عضله زبان کوچک (Musculus Uvulae) دقیقاً به همین خار می‌چسبه.",
+            "کنار داخلی (Medial): کناره‌های داخلی دو تا استخوان پالاتین راست و چپ تو خط وسط به هم متصل میشن.",
+            "کنار خارجی (Lateral): این کنار تو صفحه افقی، در واقع دقیقاً همون کنار تحتانی صفحه عمودیه که این دو صفحه با زاویه 90 درجه (L شکل) روی هم منطبق میشن."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "ادامه صفحه افقی استخوان پالاتین (Horizontal Plate)"
+        },
+        {
+          "type": "paragraph",
+          "text": "تو پارت قبلی گفتیم که صفحه افقی کف بینی رو می‌سازه. حالا بیایم کناره‌ها و سطوحش رو دقیق‌تر بررسی کنیم:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "کنار خارجی (Lateral Border): این کنار به سمت عقب و بالا میره و حاوی سوراخیه که در واقع دهانه پایینی کانال کامی بزرگ (Greater Palatine Canal) در این قسمت قرار می‌گیره.",
+            "کنار داخلی (Medial Border): این کنار به سمت بالا برآمده میشه و ستیغ بینی (Nasal Crest) رو به وجود میاره. اهمیتش چیه؟ این ستیغ با استخوان خیش (vomer) مفصل میشه و قسمتی از تیغه میانی بینی (Nasal Septum) رو تشکیل میده.",
+            "سطح فوقانی: این سطح، دقیقاً یک چهارم (1/4) خلفی کف حفره بینی رو می‌سازه (اون سه چهارم قدامیش کار استخوان ماگزیلاست)."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "زائده هرمی استخوان پالاتین (Pyramidal Process)"
+        },
+        {
+          "type": "paragraph",
+          "text": "دقیقاً از محل تلاقی صفحه عمودی و صفحه افقی (همون زاویه L شکل)، یه زائده به سمت عقب، پایین و خارج کشیده میشه که بهش میگن زائده هرمی (Pyramidal Process)."
+        },
+        {
+          "type": "heading",
+          "text": "نکات مهم سطح خلفی زائده هرمی:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "در سطح خلفی این زائده، یه سطح صاف و ناودانی شکل مثلثی داریم.",
+            "در دو طرف این بخش مثلثی، یه سری تورفتگی‌های زبر و مفصلی هست."
+          ]
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 15,
+      "topic": [
+        "hn03-T12",
+        "hn03-T13",
+        "hn03-T14"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "نقش امتحانی: این تورفتگی‌های زبر، دقیقاً میرن بین لبه‌های صفحه داخلی (Medial Plate) و صفحه خارجی (Lateral Plate) از زوائد پتریگوئید استخوان اسفنوئید قرار می‌گیرن و بهشون مفصل میشن. با این کار، حفره پتریگوئید (Pterygoid Fossa) رو در پایین کامل می‌کنن."
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p15_palate.jpeg",
+          "note": "figure placed beside text"
+        },
+        {
+          "type": "heading",
+          "text": "نکات مهم سطح تحتانی زائده هرمی:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "در سطح تحتانی این زائده، سوراخ‌هایی وجود داره به اسم سوراخ‌های کامی کوچک (Lesser Palatine Foramina).",
+            "چی ازشون رد میشه؟ اعصاب و عروقی به همین نام (Lesser palatine nerves/vessels) از اینجا عبور می‌کنن و میرن حس کام نرم و عضله زبان کوچک (Uvula) رو تأمین می‌کنن."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "کانال و سوراخ کامی بزرگ (Foramen & Greater Palatine Canal)"
+        },
+        {
+          "type": "list",
+          "items": [
+            "تشکیل کانال: روی سطح خارجی صفحه عمودی استخوان پالاتین، یه ناودان به سمت جلو و پایین قرار داره به اسم شیار کامی بزرگ (Greater Palatine Groove). وقتی این استخوان کنار فک بالا (maxilla) قرار می‌گیره، یه ناودان مشابه هم روی ماگزیلا هست. این دو تا ناودان روی هم میفتن و کانال کامی بزرگ (Greater Palatine Canal) رو می‌سازن.",
+            "مسیر کانال: این کانال یه مسیر ارتباطی خیلی مهمه! یه دهانه‌اش به سمت حفره پتریگوپالاتین (Pterygopalatine Fossa) باز میشه و دهانه دیگه‌اش تو سقف دهان (کام سخت) باز میشه که همون سوراخ کامی بزرگ (Greater Palatine Foramen) رو می‌سازه."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "مروری بر سوراخ اسفنوپالاتین (Sphenopalatine Foramen)"
+        },
+        {
+          "type": "paragraph",
+          "text": "همونطور که تو تصاویر جزوه استاد اشاره کرده، اگه یادت باشه بین زائده اوربیتال (orbital process) و زائده اسفنوئیدال (sphenoidal process) یه بریدگی بود به اسم بریدگی اسفنوپالاتین (Sphenopalatine Notch)."
+        },
+        {
+          "type": "list",
+          "items": [
+            "وقتی تنه استخوان اسفنوئید میاد روی این بریدگی قرار می‌گیره، تبدیلش می‌کنه به سوراخ اسفنوپالاتین (sphenopalatine foramen).",
+            "اهمیت ارتباطی: این سوراخ، مسیر ارتباطی بین حفره پتریگوپالاتین و حفره بینی (همون طرف) هست. (عروق و اعصاب اسفنوپالاتین ازش رد میشن).",
+            "یادآوری زائده اوربیتال پالاتین: تو تصاویر استاد مشخصه که این زائده تو قسمت خلفی جدار داخلی کاسه چشم (Orbit) شرکت می‌کنه."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p15_sphenopalatine.jpeg",
+          "note": "figure; labels retained in source asset"
+        },
+        {
+          "type": "heading",
+          "text": "نمای خلفی جمجمه (Norma Occipitalis) و استخوان اکسیپیتال"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 16,
+      "topic": [
+        "hn03-T15",
+        "hn03-T16"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "خب، مبحث پالاتین تموم شد و وارد نمای پشت جمجمه یا نمای اکسیپیتال میشیم. ستاره این نما، استخوان پس‌سری یا اکسیپیتال (Occipital Bone) هست. (اینجا منظور بخش صدفی یا Squamous part استخوانه)."
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p16_posterior.jpeg",
+          "note": "figure beside text"
+        },
+        {
+          "type": "heading",
+          "text": "موقعیت و درزهای (Sutures) استخوان اکسیپیتال:"
+        },
+        {
+          "type": "paragraph",
+          "text": "این استخوان در پشت سر، بین استخوان‌های آهیانه‌ای (Parietal) و بخش ماستوئید استخوان گیجگاهی (Temporal) قرار داره."
+        },
+        {
+          "type": "list",
+          "items": [
+            "کنارهای فوقانی–طرفی: با کنارهای خلفی استخوان‌های پری‌تال (parietal bone) مفصل میشن و درز لامبدوئید (Lambdoid Suture) رو می‌سازن.",
+            "کنارهای تحتانی–طرفی: با بخش ماستوئید استخوان تمپورال (temporal bone) مفصل میشن و درز اکسیپیتوماستوئید (Occipitomastoid Suture) رو تشکیل میدن."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p16_sutures.jpeg",
+          "note": "figure beside text"
+        },
+        {
+          "type": "heading",
+          "text": "زوایای استخوان اکسیپیتال (بخش صدفی):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "زاویه فوقانی (رأس): بالاترین نقطه استخوان.",
+            "زوایای طرفی (خارجی): در دو طرف استخوان.",
+            "زاویه تحتانی: (استاد تو ویس اشاره کرده که معادل تکمه ژوگولار یا Jugular tubercle در نظر گرفته میشه که به بخش‌های طرفی استخوان متصل میشه)."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p16_occ_side.jpeg",
+          "note": "figure beside text"
+        },
+        {
+          "type": "heading",
+          "text": "نقاط کرانیومتریک مهم (لندمارک‌های امتحانی):"
+        },
+        {
+          "type": "paragraph",
+          "text": "۱. لامبدا (Lambda): محل تلاقی درز ساجیتال (درز بین دو استخوان پری‌تال) با درز لامبدوئید (lambdoid suture). دقیقاً منطبق بر زاویه فوقانی (رأس) استخوان اکسیپیتاله (occipital bone)."
+        },
+        {
+          "type": "paragraph",
+          "text": "۲. آستریون (Asterion): یه نقطه ستاره‌ای شکله که محل تلاقی 3 تا درز مهمه:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "درز اکسیپیتوماستوئید (occipitomastoid suture)",
+            "درز لامبدوئید (lambdoid suture)",
+            "درز پری‌توماستوئید (Parietomastoid Suture)",
+            "موقعیت آناتومیک: این نقطه دقیقاً منطبق بر زوایای طرفی بخش صدفی استخوان اکسیپیتال هست."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "استخوان‌های درزی (Sutural Bones / Wormian Bones)"
+        },
+        {
+          "type": "paragraph",
+          "text": "گاهی اوقات بین درزهای جمجمه (مخصوصاً درز لامبدوئید)، یه سری قطعات استخوانی کوچک و مجزا تشکیل میشه که بهشون استخوان‌های درزی (Sutural Bones) یا استخوان‌های وورمین (Wormian) میگن."
+        },
+        {
+          "type": "heading",
+          "text": "سطوح استخوان اکسیپیتال:"
+        },
+        {
+          "type": "paragraph",
+          "text": "به طور کلی استخوان اکسیپیتال 2 تا سطح اصلی داره:"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 17,
+      "topic": [
+        "hn03-T16",
+        "hn03-T17"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "سطح خارجی یا بیرون جمجمه‌ای (External Surface): که از بیرون سر قابل مشاهده است و تو پارت‌های بعدی برآمدگی‌هاش رو بررسی می‌کنیم.",
+            "سطح داخلی یا درون جمجمه‌ای (Internal Surface): که مجاور بافت مغز (مخچه و لوب‌های اکسیپیتال مخ) قرار داره."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "استخوان اکسیپیتال (Occipital Bone) – ساختار کلی"
+        },
+        {
+          "type": "paragraph",
+          "text": "برای درک بهتر استخوان پس‌سری یا اکسیپیتال، باید سوراخ بزرگ یا فورامن مگنوم (Foramen Magnum) رو به عنوان مرکز در نظر بگیریم. این سوراخ جاییه که نخاع از جمجمه خارج میشه و نکته امتحانیش اینه که قطر قدامی–خلفی آن بیشتر از قطر عرضی است (یعنی بیضی شکله)."
+        },
+        {
+          "type": "paragraph",
+          "text": "استخوان اکسیپیتال از 4 بخش تشکیل شده که همگی دور این سوراخ بزرگ قرار گرفتن:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "بخش صدفی یا اسکواموس (Squamous part): به صورت عمودی در بالا و عقب فورامن مگنوم قرار داره.",
+            "توده‌های طرفی یا بخش کندیلار (Condylar parts): 2 عدد هستن که دقیقاً در دو طرف (راست و چپ) فورامن مگنوم قرار گرفتن.",
+            "بخش قاعده‌ای یا بازیلار (Basilar part): در قسمت جلو (قدام) فورامن مگنوم واقع شده."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p17_occ_external.jpeg",
+          "note": "figure beside text"
+        },
+        {
+          "type": "heading",
+          "text": "نمای برون جمجمه‌ای (External Surface)"
+        },
+        {
+          "type": "paragraph",
+          "text": "این همون نماییه که از بیرون پشت سر می‌بینیم. بیایم لندمارک‌های روی بخش صدفی (Squamous) رو بررسی کنیم:"
+        },
+        {
+          "type": "paragraph",
+          "text": "برجستگی پس‌سری بیرونی (External Occipital Protuberance): دقیقاً در وسط بخش صدفی یه برجستگی وجود داره. به برآمده‌ترین و برجسته‌ترین نقطه این قسمت، اینیون (Inion) میگن."
+        },
+        {
+          "type": "heading",
+          "text": "خطوط پس‌گردنی (Nuchal Lines):"
+        },
+        {
+          "type": "list",
+          "items": [
+            "خط پس‌گردنی فوقانی (Superior Nuchal Line): از برجستگی پس‌سری بیرونی (External Occipital Protuberance) به سمت دو طرف کشیده میشه.",
+            "خط گردنی فوقانی‌تر (Supreme Nuchal Line): یه خط ظریفه که از برجستگی به سمت بالا و خارج میره و معمولاً از روی پوست قابل لمس نیست.",
+            "ستیغ پس‌سری بیرونی (External Occipital Crest): یه تیغه استخوانیه که از برجستگی پس‌سری بیرونی (اینیون) تا لبه فورامن مگنوم (به سمت پایین) کشیده شده.",
+            "خط پس‌گردنی تحتانی (Inferior Nuchal Line): از وسط ستیغ پس‌سری بیرونی، یه خط به سمت طرفین کشیده میشه.",
+            "نکته امتحانی: تمام این خطوط و سطوح برجسته بین اون‌ها، محل اتصال عضلات پس گردن هستن."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p17_occ_inferior.jpeg",
+          "note": "figure beside text"
+        },
+        {
+          "type": "heading",
+          "text": "بخش‌های کندیلار و بازیلار (توده‌های طرفی و جلویی)"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 18,
+      "topic": [
+        "hn03-T17",
+        "hn03-T18"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "کندیل‌های اکسیپیتال (Occipital Condyles): در جلو و خارج سوراخ بزرگ قرار دارن. سطح تحتانی این کندیل‌ها یه سطح مفصلیه که از جلو به عقب و عرضی حالت محدب داره. این کندیل‌ها با اولین مهره گردن (اطلس) مفصل میشن و مفصل آتلانتو–اکسیپیتال (Atlanto-occipital joint) رو می‌سازن.",
+            "کانال کندیلار (Condylar Canal): تو بالا و عقب کندیل‌های اکسیپیتال یه سوراخ/کانال هست. محتویات مهمش برای امتحان: عبور یک ورید خروجی (Emissary vein) و شاخه مننژیال (meningeal) از شریان اکسیپیتال.",
+            "زائده ژوگولار (Jugular Process): در دو طرف توده‌های طرفی قرار داره.",
+            "بریدگی ژوگولار (Jugular Notch): فاصله‌ای بین زائده ژوگولار و کندیل اکسیپیتاله که با همکاری استخوان تمپورال، حفره/سوراخ ژوگولار رو تشکیل میده.",
+            "تکمه حلقی (Pharyngeal Tubercle): در سطح تحتانی بخش بازیلار (جلوی فورامن مگنوم) یه برجستگی هست که محل اتصال رافه حلقی (Pharyngeal raphe) محسوب میشه."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "نمای درون جمجمه‌ای (Internal Surface)"
+        },
+        {
+          "type": "paragraph",
+          "text": "حالا جمجمه رو باز کردیم و از داخل داریم به استخوان اکسیپیتال (occipital bone) نگاه می‌کنیم (جایی که مغز قرار می‌گیره). اینجا پر از ناودان برای رگ‌های بزرگه!"
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p18_occ_internal.jpeg",
+          "note": "figure beside text"
+        },
+        {
+          "type": "paragraph",
+          "text": "برآمدگی صلیبی (Cruciform Eminence): در فاصله بین رأس استخوان تا سوراخ مگنوم (magnum foramen)، یه برجستگی وجود داره به اسم برجستگی پس‌سری درونی (Internal Occipital Protuberance). چون این ناحیه شبیه یک صلیبه (به خاطر تقاطع سینوس‌های وریدی)، بهش برآمدگی صلیبی هم میگن."
+        },
+        {
+          "type": "paragraph",
+          "text": "تقاطع سینوس‌ها در برآمدگی صلیبی: در این نقطه، سینوس ساجیتال فوقانی (از بالا)، سینوس مستقیم یا استریت (Straight sinus) و سینوس‌های عرضی (از طرفین) به هم می‌رسن. (یادآوری: سینوس‌های وریدی مغز از دو لایه شدن سخت‌شامه یا Dura mater تشکیل میشن)."
+        },
+        {
+          "type": "heading",
+          "text": "ناودان‌های سینوسی منشعب از برجستگی درونی:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "ناودان سینوس عرضی (Transverse Sinus Groove): از هر طرف برجستگی به سمت خارج (به طرف زاویه طرفی/خارجی استخوان) میره. داخلش سینوس عرضی قرار داره و به لبه‌های این ناودان، چادرینه مخچه (Tentorium Cerebelli) متصل میشه.",
+            "ناودان سینوس ساجیتال فوقانی (Superior Sagittal Sinus Groove): از برجستگی درونی به سمت بالا و سپس جلو میره. محل قرارگیری سینوس ساجیتال فوقانیه و به لبه‌های اون، داس مغزی (Falx Cerebri) می‌چسبه.",
+            "ستیغ پس‌سری درونی (Internal Occipital Crest): از برجستگی درونی به سمت پایین (تا فورامن مگنوم) کشیده میشه."
+          ]
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 19,
+      "topic": [
+        "hn03-T17",
+        "hn03-T18",
+        "hn03-T19"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p19_occ_endocranial.jpeg",
+          "note": "figure at top of page"
+        },
+        {
+          "type": "heading",
+          "text": "حفرات چهارگانه استخوان اکسیپیتال"
+        },
+        {
+          "type": "paragraph",
+          "text": "مجموعه این سینوس‌های متقاطع (صلیبی شکل) و ستیغ درونی، سطح داخلی بخش صدفی رو به 4 حفره تقسیم می‌کنن:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "2 حفره بالایی (Cerebral fossae): در سمت راست و چپ، محل قرارگیری لوب‌های اکسیپیتال مخ هستن.",
+            "2 حفره پایینی (Cerebellar fossae): در پایین، جایگاه قرارگیری نیمکره‌های مخچه می‌باشند."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "شکنج‌ها و تورفتگی‌های سطح داخلی"
+        },
+        {
+          "type": "paragraph",
+          "text": "همونطور که قبلاً گفتیم، سطح داخلی صدف استخوان پس‌سری (Squamous part) کاملاً صاف نیست. روی این سطح، یه سری تورفتگی‌ها و برجستگی‌ها وجود داره."
+        },
+        {
+          "type": "paragraph",
+          "text": "دلیل علمیش چیه؟ این پستی و بلندی‌ها دقیقاً جایگاه قرارگیری شکنج‌ها (gyrus) و شیارهای مغز هستن که در طول رشد مغز، اثر خودشون رو روی استخوان نرم جمجمه میذارن و این شکل رو بهش میدن."
+        },
+        {
+          "type": "heading",
+          "text": "تکمه ژوگولار (Jugular Tubercle) و اعصاب کرانیال"
+        },
+        {
+          "type": "paragraph",
+          "text": "در بخش کندیلار استخوان اکسیپیتال، دقیقاً بالای کندیل‌ها، یه برجستگی خیلی مهم وجود داره به اسم تکمه ژوگولار (Jugular Tubercle)."
+        },
+        {
+          "type": "list",
+          "items": [
+            "موقعیت: این تکمه در قسمت خارجی (Lateral) و کمی متمایل به جلوی کانال هایپوگلوسال (hypoglossal canal) قرار داره.",
+            "اهمیت آناتومیک و بالینی: این برجستگی مثل یه سپر یا پل محافظ عمل می‌کنه و مسیر عبور اعصاب مغزی زوج 9 (Glossopharyngeal)، زوج 10 (Vagus) و زوج 11 (Accessory) رو که دارن به سمت سوراخ ژوگولار (Jugular Foramen) میرن، هدایت و محافظت می‌کنه. دونستن جایگاه دقیق این تکمه تو جراحی‌های حساس ناحیه کرانیال (Cranial) و گردنی (Cervical) به شدت حیاتیه.",
+            "نکته امتحانی: دقیقاً در قسمت عقب (خلف) تکمه ژوگولار، یه تورفتگی یا ناودان ظریف وجود داره. این تورفتگی در واقع اثر عبور همین اعصاب زوج 9، 10 و 11 است که روی استخوان جا انداخته."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "کانال هایپوگلوسال (Hypoglossal Canal):"
+        },
+        {
+          "type": "paragraph",
+          "text": "در ناحیه خلفی و زیر تکمه ژوگولار، کانالی وجود داره به اسم کانال هایپوگلوسال:"
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    },
+    {
+      "pdf_page": 20,
+      "topic": [
+        "hn03-T17",
+        "hn03-T18",
+        "hn03-T19"
+      ],
+      "visual_source": true,
+      "independently_reconciled": false,
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "عصب زوج 12 مغزی: یعنی عصب زیرزبانی یا هایپوگلوسال (Hypoglossal Nerve).",
+            "ورید خروجی (Emissary Vein): یک ورید ارتباطی که از شبکه وریدی قاعده‌ای یا بازیلار (Basilar Plexus) میاد.",
+            "شریان مننژیال (Meningeal Branch): شاخه‌ای مننژیال که از شریان حلقی صعودی (Ascending Pharyngeal Artery) جدا میشه. خود این شریان حلقی صعودی، شاخه‌ای از شریان کاروتید خارجی (External Carotid Artery) هست."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "مسیر سینوس‌های وریدی و تشکیل ورید ژوگولار"
+        },
+        {
+          "type": "paragraph",
+          "text": "بیایم مسیر خون وریدی رو تو این ناحیه مرور کنیم:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "سینوس عرضی به سیگموئید: ناودان سینوس عرضی (Transverse Sinus) رو یادت هست؟ این سینوس وقتی به سمت جلو و پایین میاد، مسیرش شبیه حرف S انگلیسی میشه؛ به همین دلیل از اینجا به بعد بهش میگن سینوس سیگموئید (Sigmoid Sinus).",
+            "ناودان سیگموئید: سینوس سیگموئید روی زائده ژوگولار استخوان اکسیپیتال، ناودانی به اسم ناودان سیگموئید (Sigmoid Sulcus) می‌سازه.",
+            "تخلیه نهایی: این ناودان در نهایت به سوراخ ژوگولار ختم میشه. نکته کلیدی اینه که سینوس سیگموئید از سوراخ ژوگولار خارج میشه و ورید ژوگولار داخلی (Internal Jugular Vein - IJV) رو می‌سازه."
+          ]
+        },
+        {
+          "type": "image",
+          "asset": "headneck/images/hn03_lec_p20_venous.jpeg",
+          "note": "figure; labels retained in source asset"
+        },
+        {
+          "type": "paragraph",
+          "text": "(توضیح عکس استاد: تو تصاویر آناتومی، چون سینوس‌ها داخل جمجمه هستن، وقتی از بیرون نگاه می‌کنیم کم‌رنگ کشیده میشن تا عمق رو نشون بدن)."
+        },
+        {
+          "type": "heading",
+          "text": "وریدهای امیسری یا ارتباطی (Emissary Veins)"
+        },
+        {
+          "type": "paragraph",
+          "text": "وریدهای امیسری یا خروجی، رگ‌های خیلی جالبی هستن که مثل یک پل ارتباطی، خون وریدی بیرون جمجمه رو به سینوس‌های وریدی درون جمجمه متصل می‌کنن."
+        },
+        {
+          "type": "paragraph",
+          "text": "دلیل اهمیت (نکته علوم پایه): چون این وریدها دریچه (Valve) ندارن، عفونت‌های پوست سر یا صورت می‌تونه از طریق این وریدها به داخل مغز (سینوس‌های سخت‌شامه‌ای) کشیده بشه و مننژیت یا ترومبوز ایجاد کنه!"
+        },
+        {
+          "type": "paragraph",
+          "text": "انواع وریدهای امیسری ذکر شده در این جلسه:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "ورید امیسری پریتال (Parietal Emissary Vein): از سوراخ پریتال (Parietal Foramen) عبور می‌کنه.",
+            "ورید امیسری اکسیپیتال (Occipital Emissary Vein): از سوراخ‌های ناحیه اکسیپیتال رد میشه.",
+            "ورید امیسری کندیلار (Condylar Emissary Vein): از کانال کندیلار (Condylar Canal) عبور می‌کنه و به شبکه وریدی متصل میشه."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "خلاصه کل جلسه"
+        },
+        {
+          "type": "paragraph",
+          "text": "در این جلسه، استخوان‌های نمای طرفی (Norma Lateralis / Pterion) و نمای خلفی (Norma Occipitalis) رو با جزئیات کامل بررسی کردیم."
+        },
+        {
+          "type": "list",
+          "items": [
+            "از نمای طرفی: روی استخوان‌های اسفنوئید (Sphenoid) و پالاتین (Palatine) و حفرات مهمی مثل اینفراتمپورال (infratemporal fossa) زوم کردیم.",
+            "از نمای خلفی: ساختار پیچیده، مجاری عصبی، و لندمارک‌های استخوان اکسیپیتال (Occipital Bone) رو به طور کامل کالبدشکافی کردیم."
+          ]
+        }
+      ],
+      "reconciliation_note": "Second visual pass against the full original PDF page; text and lists checked. Presentation whitespace and decorative emoji are not reproduced.",
+      "visual_second_pass_recorded": true
+    }
+  ]
+}

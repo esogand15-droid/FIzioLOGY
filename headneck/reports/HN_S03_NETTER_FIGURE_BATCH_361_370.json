@@ -1,0 +1,246 @@
+{
+  "scope": "Netter, eighth edition, PDF pages 361–370; one-based PDF numbering",
+  "method": "Each listed source page was opened separately with vision; individual visual units below are recorded separately. This is a partial inventory, not proof of review of the entire atlas.",
+  "session_scope": "Session 3: sphenoid, palatine, occipital bones and associated cranial passages and emissary veins",
+  "figures": [
+    {
+      "id": "netter-p361-a",
+      "page": 361,
+      "plate": 261,
+      "title": "Nerves of Esophagus — anterior view",
+      "topic": "esophageal innervation",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p361-b",
+      "page": 361,
+      "plate": 261,
+      "title": "Nerves of Esophagus — posterior view",
+      "topic": "esophageal innervation",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p362-a",
+      "page": 362,
+      "plate": 262,
+      "title": "Thorax: axial CT image A",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p362-b",
+      "page": 362,
+      "plate": 262,
+      "title": "Thorax: axial CT image B",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p362-c",
+      "page": 362,
+      "plate": 262,
+      "title": "Thorax: axial CT image C",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p362-locator",
+      "page": 362,
+      "plate": 262,
+      "title": "Thorax: levels of CT A–C",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p363-main",
+      "page": 363,
+      "plate": 263,
+      "title": "Cross section of thorax at T3 vertebral level",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p363-locator-skeleton",
+      "page": 363,
+      "plate": 263,
+      "title": "T3 section level locator, skeletal thorax",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p363-locator-viscera",
+      "page": 363,
+      "plate": 263,
+      "title": "T3 section level locator, thoracic and abdominal viscera",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p363-locator-vessels",
+      "page": 363,
+      "plate": 263,
+      "title": "T3 section level locator, heart and great vessels",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p364-main",
+      "page": 364,
+      "plate": 264,
+      "title": "Cross section of thorax at T3/T4 disc level",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p364-locator-skeleton",
+      "page": 364,
+      "plate": 264,
+      "title": "T3/T4 section level locator, skeletal thorax",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p364-locator-viscera",
+      "page": 364,
+      "plate": 264,
+      "title": "T3/T4 section level locator, thoracic and abdominal viscera",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p364-locator-vessels",
+      "page": 364,
+      "plate": 264,
+      "title": "T3/T4 section level locator, heart and great vessels",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p365-main",
+      "page": 365,
+      "plate": 265,
+      "title": "Cross section of thorax at T4/T5 disc level",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p365-locator-skeleton",
+      "page": 365,
+      "plate": 265,
+      "title": "T4/T5 section level locator, skeletal thorax",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p365-locator-viscera",
+      "page": 365,
+      "plate": 265,
+      "title": "T4/T5 section level locator, thoracic and abdominal viscera",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p365-locator-vessels",
+      "page": 365,
+      "plate": 265,
+      "title": "T4/T5 section level locator, heart and great vessels",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p366-main",
+      "page": 366,
+      "plate": 266,
+      "title": "Cross section of thorax at T7 vertebral level",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p366-locator-skeleton",
+      "page": 366,
+      "plate": 266,
+      "title": "T7 section level locator, skeletal thorax",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p366-locator-viscera",
+      "page": 366,
+      "plate": 266,
+      "title": "T7 section level locator, thoracic and abdominal viscera",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    },
+    {
+      "id": "netter-p366-locator-vessels",
+      "page": 366,
+      "plate": 266,
+      "title": "T7 section level locator, heart and great vessels",
+      "topic": "thorax",
+      "decision": "not selected; outside session scope",
+      "output_page": null,
+      "visual_status": "seen in enlarged locator on source page; not a selected crop"
+    }
+  ],
+  "non_figure_pages": [
+    {
+      "page": 367,
+      "kind": "clinical-significance table, thoracic structures"
+    },
+    {
+      "page": 368,
+      "kind": "clinical-significance table, cardiovascular structures"
+    },
+    {
+      "page": 369,
+      "kind": "clinical-significance table, thoracic structures"
+    },
+    {
+      "page": 370,
+      "kind": "thoracic-muscle table"
+    }
+  ],
+  "limitations": "Partial atlas inventory only; crop quality and PDF output are not applicable to these unselected figures. The three locator views for pages 363–366 were inspected in enlarged source-page crops and recorded separately."
+}

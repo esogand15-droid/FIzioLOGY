@@ -1,0 +1,375 @@
+{
+  "source": "Netter, PDF pages 381–390",
+  "review_scope": "Individual page views. One item for each visible figure or plate preview; embedded miniature variations within a preview remain unenumerated and need full-plate examination.",
+  "units": [
+    {
+      "id": "netter-381-01",
+      "pdf_page": 381,
+      "description": "upper coronal thorax CT",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-381-02",
+      "pdf_page": 381,
+      "description": "lower coronal thorax CT",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-382-01",
+      "pdf_page": 382,
+      "description": "diagram of sympathetic innervation of blood vessels",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-383-01",
+      "pdf_page": 383,
+      "description": "Bonus plate BP 53 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-383-02",
+      "pdf_page": 383,
+      "description": "Bonus plate BP 54 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-383-03",
+      "pdf_page": 383,
+      "description": "Bonus plate BP 55 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-383-04",
+      "pdf_page": 383,
+      "description": "Bonus plate BP 56 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-383-05",
+      "pdf_page": 383,
+      "description": "Bonus plate BP 57 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-383-06",
+      "pdf_page": 383,
+      "description": "Bonus plate BP 58 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-383-07",
+      "pdf_page": 383,
+      "description": "Bonus plate BP 59 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-383-08",
+      "pdf_page": 383,
+      "description": "Bonus plate BP 60 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-01",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 61 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-02",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 62 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-03",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 63 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-04",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 64 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-05",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 65 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-06",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 66 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-07",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 67 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-08",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 68 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-09",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 69 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-10",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 70 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-11",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 71 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-384-12",
+      "pdf_page": 384,
+      "description": "Bonus plate BP 72 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-01",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 73 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-02",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 74 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-03",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 75 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-04",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 76 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-05",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 77 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-06",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 78 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-07",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 79 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-08",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 80 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-09",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 81 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-10",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 82 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-385-11",
+      "pdf_page": 385,
+      "description": "Bonus plate BP 83 miniature preview",
+      "kind": "preview",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "IN_PROGRESS"
+    },
+    {
+      "id": "netter-386-01",
+      "pdf_page": 386,
+      "description": "anterior trunk surface anatomy",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-386-02",
+      "pdf_page": 386,
+      "description": "abdominal regions inset",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-387-01",
+      "pdf_page": 387,
+      "description": "osseous framework of abdomen",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-388-01",
+      "pdf_page": 388,
+      "description": "four abdominal quadrants inset",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-388-02",
+      "pdf_page": 388,
+      "description": "abdominal regions and planes",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-389-01",
+      "pdf_page": 389,
+      "description": "superficial anterior abdominal wall dissection",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    },
+    {
+      "id": "netter-390-01",
+      "pdf_page": 390,
+      "description": "intermediate anterior abdominal wall dissection",
+      "kind": "figure",
+      "selected": false,
+      "reason": "Outside session 3 sphenoid, palatine, occipital bones",
+      "status": "REVIEWED_INITIAL"
+    }
+  ]
+}
