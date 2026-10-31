@@ -89,9 +89,16 @@ process.stdout.write(JSON.stringify(out));""")
  r=subprocess.run(['node',str(js)],input=json.dumps(data),text=True,capture_output=True,check=True)
  return json.loads(r.stdout)
 
-def draw_graph(book,b,layout):
- graph=b['diagram'];book.new_page();book.h3('نمودار رابطه‌ها — '+graph['title'])
- area_h=500;area_w=K.CONTENT_W-12
+def draw_graph(book,b,layout,force_page=True):
+ graph=b['diagram'];area_h=500;area_w=K.CONTENT_W-12
+ if force_page:
+  book.new_page()
+ else:
+  # Reuse remaining space when the diagram can retain at least its minimum font.
+  min_height=min(v['height']*.76 for v in layout.values() if area_w/v['width']>=.76)
+  if book.bottom_limit()-book.y < min_height+90:book.new_page()
+  area_h=min(area_h,max(0,book.bottom_limit()-book.y-65))
+ book.h3('نمودار رابطه‌ها — '+graph['title'],keep_with=min(area_h,book.usable_height()-100))
  choices=[(min(area_w/x['width'],area_h/x['height'],1.12),x) for x in layout.values()]
  scale,g=max(choices,key=lambda x:x[0]);font=9*scale
  if font<6.8:raise ValueError('Diagram would be unreadable: '+graph['title'])

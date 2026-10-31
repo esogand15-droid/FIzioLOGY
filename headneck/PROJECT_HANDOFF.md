@@ -238,3 +238,7 @@ HUMSYAR_HN03_WIP=1 .venv/bin/python render/qa_headneck.py --session hn03 --pdf /
 ## Session 1 writer edition (2026-10-31)
 
 The current session-one editorial deliverable is `pdf/HumsYar_HeadNeck_Jalase1_WRITER_FINAL.pdf`, based on the historical 100-page topic order plus the later instructional additions. Its report and scope are in `headneck/reports/HN_S01_WRITER_FINAL_REPORT.md`. SHA-256: `5511416f7f00689014aad521a1b2ee01beb547a6c750542688e7248b780ac20f`. Prior editions remain intact. The user requested session 1 first, then sessions 2–7 individually; those later updates have not been performed as part of this delivery.
+
+## Original-layout session 1 revision
+
+The newest session-one writer deliverable is `pdf/HumsYar_HeadNeck_Jalase1_ORIGINAL_LAYOUT.pdf`; see `headneck/reports/HN_S01_ORIGINAL_LAYOUT_UPDATE.md`. The 100-page linked original was rasterized and inspected in overview on all pages; its single identity card, per-block sources, topical handoff and closing checklist informed this revision. The earlier 172-page writer file and original 100-page PDF remain intact. Later sessions have not yet been updated under this revision.

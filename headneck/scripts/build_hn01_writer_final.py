@@ -13,7 +13,7 @@ import pymupdf
 import build_hn01_updated_review as R
 import hn01_writer_copy as W
 K,H=R.K,R.H
-OUT=ROOT/'.cache/hn01_writer_final'
+OUT=ROOT/'.cache/hn01_writer_original_layout'
 BAD=re.compile(r'IMG[-ـ]?\d+|SRC[-ـ]?\d+|hn\d\d[-–]T\d+|C-\d{3}|JSON|jason|BLOCKED|DOCUMENTED|NOT_YET|AUTHORED|INTEGRATED|PENDING|Arena|غیرنهایی|پیش‌نویس|رونویسی در حال مقابله|دروازهٔ نهایی',re.I)
 DIGITS=str.maketrans('۰۱۲۳۴۵۶۷۸۹','0123456789')
 TITLE='جزوهٔ مادر آناتومی سر و گردن — جلسهٔ ۱'
@@ -39,6 +39,19 @@ def reference(r):
  if r.get('pdf_pages'):parts.append('صفحه‌های فایل '+ '،'.join(K.fa_digits(str(n)) for n in r['pdf_pages']))
  if label in ['SRC-632','SRC-628']:parts.append('فایل بخش '+('۸۰۱–۱۰۰۰' if label=='SRC-632' else '۱۰۰۱–۱۱۸۹'))
  return '؛ '.join(parts)
+
+def compact_references(refs):
+ groups={}
+ for r in refs:
+  label=r.get('source_label')
+  if label=='SRC-649':
+   pages=r.get('pdf_pages') or ([r['pdf_page']] if r.get('pdf_page') else [])
+   groups.setdefault('جزوهٔ درس، جلسهٔ ۱',[]).extend('فایل '+K.fa_digits(str(n)) for n in pages)
+  elif label=='SRC-648':
+   groups.setdefault('نتر، ویراست ۸',[]).append(('پلیت '+K.fa_digits(str(r['plate']))+'، ' if r.get('plate') else '')+'فایل '+K.fa_digits(str(r.get('pdf_page',''))))
+  elif label in ('SRC-632','SRC-628'):
+   groups.setdefault('گری، ویراست ۳، سر و گردن',[]).append(('چاپی '+K.fa_digits(str(r['printed_page']))+'، ' if r.get('printed_page') else '')+'فایل '+K.fa_digits(str(r.get('pdf_page','')))+' (بخش '+('۸۰۱–۱۰۰۰' if label=='SRC-632' else '۱۰۰۱–۱۱۸۹')+')')
+ return ' ؛ '.join(name+': '+ '، '.join(dict.fromkeys(entries)) for name,entries in groups.items())
 
 def reader_additions():
  a=copy.deepcopy(R.load('educational_additions.json')['topics'])
@@ -159,7 +172,7 @@ def cover(book):
 
 def graph(book,b,layout):
  # Reuse the audited geometry; supply reader-facing references and labels.
- x=copy.deepcopy(b);x['diagram']['reference']='نمودار آموزشی همین مبحث؛ منابع در پایان مبحث آمده است.'
+ x=copy.deepcopy(b);x['diagram']['reference']=compact_references(b['reference_links'])
  for node in x['diagram']['nodes']:node['text']=clean(node['text'])
  x['diagram']['title']=clean(x['diagram']['title']);x['diagram']['reading_task']=clean(x['diagram']['reading_task'])
  if 'مرور' in x['diagram']['title']:
@@ -167,7 +180,7 @@ def graph(book,b,layout):
   x['diagram']['reading_task']='یک ساختار را انتخاب کنید؛ نام کامل، نمای مناسب، رابطهٔ فضایی و تفاوت آن با ساختار مشابه را بگویید و سپس پاسخ را با متن و شکل مقایسه کنید.'
   for n in x['diagram']['nodes']:
    if 'حدود شاهد' in n['text']:n['text']='مقایسهٔ پاسخ با متن و تصویر'
- R.draw_graph(book,x,layout)
+ R.draw_graph(book,x,layout,force_page=False)
 
 def build(path,toc=None):
  add=reader_additions();plans,assets,outline,stats=prepare_plan(add)
@@ -179,23 +192,20 @@ def build(path,toc=None):
  book.para('متن برگرفته از درس با ارجاع «جزوهٔ درس» و توضیح‌های تکمیلی با عنوان مشخص آمده‌اند. برای هر شکل، شماره، عنوان، منبع و شرح خواندن درج شده است؛ شمارهٔ داخل عکس را از راهنمای همان عکس بخوانید. شمارهٔ صفحهٔ چاپی کتاب، صفحهٔ فایل و پلیت، هرکدام با نام خود نوشته شده‌اند.')
  book.para('پیشنهاد نگارش: ابتدا متن درس را بخوانید؛ سپس تعریف و رابطهٔ فضایی را با شکل پیوند دهید، جدول مقایسه را بنویسید و به پرسش تستی پاسخ دهید. راهنمای پایان هر مبحث، ترتیب نوشتن و انتخاب نمای مناسب را مشخص می‌کند.')
  book.new_page();book.h1('فهرست مباحث')
- for i,t in enumerate(outline['topics'],1):book.toc_row(K.fa_digits(str(i)),t['title'],(toc or {}).get(t['topic_id'],'—'),step=27)
+ for i,t in enumerate(outline['topics'],1):book.toc_row(K.fa_digits(str(i)),t['title'],(toc or {}).get(t['topic_id'],'—'),step=23)
+ book.toc_row('پ','جمع‌بندی، چک‌لیست و برگهٔ تحویل',(toc or {}).get('hn-summary','—'),step=23)
  book.new_page();book.h1('از نما تا استخوان',anchor='chapter',kicker='جلسهٔ اول')
  book.para(H.HN_SESSIONS['hn01']['outcome']);geometry=R.layouts(book,add)
  byasset={Path(k).name:v for k,v in assets.items()};cfg=H.HN_SESSIONS['hn01']
  for i,t in enumerate(outline['topics'],1):
-  tid=t['topic_id'];b=add[tid];plan=plans[tid]
-  if i>1:book.new_page()
-  book.trace_topic=tid;book.h2(t['title'],anchor=tid,keep_with=230)
-  book.para('مبحث '+K.fa_digits(str(i))+' · صفحه‌های جزوهٔ درس: '+H.page_range(t.get('pages',[])),small=True)
-  stats['topics'][tid]=dict(page=book.page,title=t['title'])
+  tid=t['topic_id'];b=add[tid];plan=plans[tid];source=compact_references(b['reference_links'])
+  book.trace_topic=tid
   card=copy.deepcopy(plan['rows'][0]);rows=card['rows']
-  for key,val in b['scientific_card'].items():
-   if key in ['title','link_forward']:continue
-   rows.append(dict(label=LABELS.get(key,key),text=clean(R.flat(val))))
-  for start in range(0,len(rows),3):
-   book.label_card(('شناسنامهٔ مبحث — ' if start==0 else 'ادامهٔ شناسنامه — ')+clean(b['scientific_card']['title']),rows[start:start+3],footer=clean(card.get('footer','')) if start+3>=len(rows) else '')
-  introduced=False;figure_no=0;handoff=None
+  card_h=book.card_height(rows,footer=clean(card.get('footer','')))
+  H.topic_head(book,t,i,len(outline['topics']),after=card_h+35)
+  stats['topics'][tid]=dict(page=book.page,title=t['title'])
+  book.label_card('شناسنامهٔ مبحث',rows,kicker=clean(card.get('kicker','')),footer=clean(card.get('footer','')))
+  figure_no=0;handoff=None
   def emit_figure(raw):
    nonlocal figure_no
    q=copy.deepcopy(raw);name=Path(q['asset']).name;figure_no+=1;title=q['title']
@@ -225,40 +235,42 @@ def build(path,toc=None):
    if origin.startswith('base:'):
     pos=int(origin.split(':')[1])
     if (i,pos) in W.NOTES:
-     title,text=W.NOTES[(i,pos)];book.callout(text,kind='info',title=title)
-    if not introduced and raw['type'] in ['p','ul','ol'] and not (i==1 and pos==2):
-     book.h3('شرح و پیوند مفهومی');book.para(clean(b['plain_explanation']));introduced=True
+     title,text=W.NOTES[(i,pos)];book.callout(text,kind='info',title=title);book.source_line(source)
   for extra in plan['extra']:emit_figure(extra)
-  book.h3('نکته‌های تستی و تمایزهای کلیدی');book.bullets([clean(x) for x in b['key_points']])
-  book.h3('روابط فضایی');book.bullets([clean(x) for x in b['spatial_relations']])
-  book.h3('جدول مقایسه')
-  H.emit_table(book,[clean(x) for x in b['comparison']['columns']],[[clean(x) for x in row] for row in b['comparison']['rows']],caption='مقایسهٔ مفاهیم این مبحث',size=8.6)
+  book.h3('شرح و پیوند مفهومی');book.para(clean(b['plain_explanation']));book.source_line(source)
+  book.h3('توضیح تکمیلی مبحث')
+  for key,val in b['scientific_card'].items():
+   if key in ['title','link_forward']:continue
+   book.para(LABELS.get(key,key)+' — '+clean(R.flat(val)))
+  book.source_line(source)
+  book.h3('نکته‌های تستی و تمایزهای کلیدی');book.bullets([clean(x) for x in b['key_points']]);book.source_line(source)
+  book.h3('روابط فضایی');book.bullets([clean(x) for x in b['spatial_relations']]);book.source_line(source)
+  columns=[clean(x) for x in b['comparison']['columns']];table_rows=[[clean(x) for x in row] for row in b['comparison']['rows']]
+  table_h=book.table_needs(columns,table_rows,None,'مقایسهٔ مفاهیم این مبحث',source,8.6)[3]
+  book.h3('جدول مقایسه',keep_with=min(table_h+12,book.usable_height()-80))
+  H.emit_table(book,columns,table_rows,caption='مقایسهٔ مفاهیم این مبحث',src=source,size=8.6)
   book.h3('اشتباه رایج و پاسخ درست')
-  for e in b['common_errors']:book.callout('برداشت نادرست: '+clean(e['error'])+'\nتمایز درست: '+clean(e['correction']),kind='key',title='نکتهٔ مقایسه‌ای')
-  stats['topics'][tid]['graph_page']=book.page+1;graph(book,b,geometry[tid])
+  for e in b['common_errors']:
+   book.callout('برداشت نادرست: '+clean(e['error'])+'\nتمایز درست: '+clean(e['correction']),kind='key',title='نکتهٔ مقایسه‌ای');book.source_line(source)
   book.h3('پرسش تستی و پاسخ')
   for q in b.get('exam_claims',[]):book.para(clean(q['text']));book.callout(clean(q.get('answer','')),title='پاسخ')
   book.h3('جمع‌بندی مبحث');book.para(clean(b['summary']))
   book.h3('راهنمای نگارش برای جزوه‌نویس');book.numbered(W.GUIDES[i])
   if b['scientific_card'].get('link_forward'):
    book.h3('پیوند با ادامهٔ درس');book.bullets([clean(x) for x in b['scientific_card']['link_forward']])
-  book.h3('منابع این مبحث')
-  for r in b['reference_links']:book.source_line(reference(r))
+  stats['topics'][tid]['graph_page']=book.page;graph(book,b,geometry[tid])
   if handoff:
+   book.note_box(28,title='یادداشت جزوه‌نویس')
    book.h3('برگهٔ تحویل به مسئول جزوه')
    book.label_card('چک‌لیست نگارش', [dict(label='پیش از تحویل',items=handoff['checklist'],tick=True)],accent=K.AMBER,tint=K.AMBER_BG)
    question=handoff.get('question','').removeprefix('پرسش باز:').strip()
    if question:book.para('پرسش تکمیلی برای نویسنده: '+clean(question))
-   book.note_box(28,title='یادداشت جزوه‌نویس')
- book.new_page();book.h1('جمع‌بندی و برنامهٔ تحویل جلسه')
- book.para('برای تحویل، نام‌های فارسی و انگلیسی را یک‌دست کنید؛ هر شکل باید عنوان، منبع و شرح خواندن داشته باشد. پاسخ پرسش‌های زیر را با رجوع به مبحث و شکل مربوط تکمیل کنید.')
- for start in range(0,17,6):
-  rows=[[K.fa_digits(str(i+1)),t['title'],t.get('gist',t['title'])] for i,t in list(enumerate(outline['topics']))[start:start+6]]
-  H.emit_table(book,['مبحث','موضوع','بازیابی فعال'],rows,caption='چک‌لیست پایانی جلسهٔ۱',size=8.3)
- book.para('منابع پایه: جزوهٔ درس علوم تشریح سر و گردن، جلسهٔ اول؛ نتر، اطلس آناتومی انسان، ویراست۸؛ گری، آناتومی برای دانشجویان، ویراست۳، فصل سر و گردن. ارجاع دقیق هر متن و شکل در مبحث مربوط آمده است.')
- book.new_page();book.h1('فهرست شکل‌ها')
- for fig in stats['figures']:
-  book.para('شکل '+K.fa_digits(fig['number'])+' — '+clean(fig['title'])+'؛ صفحهٔ '+K.fa_digits(str(fig['page'])),small=True)
+ book.new_page();book.h1('جمع‌بندی، چک‌لیست و برگهٔ تحویل',anchor='hn-summary',kicker='پایان جلسه')
+ book.para('هر ردیف یک مبحث است. اگر می‌توانید نکتهٔ آن را بدون نگاه به متن توضیح دهید، مربع کنار آن را علامت بزنید؛ سپس برگهٔ تحویل هر مبحث را تکمیل کنید. برای تحویل، متن درس، عنوان و منبع شکل‌ها و نام‌های فارسی و انگلیسی را مرور کنید.')
+ rows=[]
+ for i,t in enumerate(outline['topics'],1):
+  rows.append(['مبحث '+K.fa_digits(str(i))+' — '+t['title'],(t.get('gist') or t['title']).rstrip(' .')+'؟','☐'])
+ H.emit_table(book,['چک‌لیست خودآزمایی','می‌توانم این را توضیح دهم؟','☐'],rows,widths=[K.CONTENT_W*.30,K.CONTENT_W*.58,K.CONTENT_W*.12],caption='چک‌لیست خودآزمایی جلسهٔ ۱',size=8.5)
  if book.missing_assets:raise ValueError(book.missing_assets)
  book.save();stats['pages']=book.page;return book.heading_pages,stats
 
