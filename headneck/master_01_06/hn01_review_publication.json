@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "kind": "SESSION_ONE_USER_REQUESTED_NON_FINAL_REVIEW",
-  "publication_state": "PREPARED_FOR_GIT_PUBLICATION",
+  "publication_state": "PUBLISHED_AND_GITHUB_BYTES_VERIFIED",
   "branch": "arena/3260a120-fiziology",
   "build": {
     "topics": 17,
@@ -206,11 +206,33 @@
       }
     ]
   },
-  "github_download_verification": null,
+  "github_download_verification": {
+    "method": "gh api contents with application/vnd.github.raw+json at exact commit; full downloads and cmp",
+    "commit": "1797060e382f3e90213fd0a5bfbb6fce2fad545c",
+    "pdf": {
+      "path": "pdf/HumsYar_HeadNeck_Jalase1_UPDATED_REVIEW.pdf",
+      "sha256": "c7b92b33784dc95e403cc86d3996d82e9430732e64c4644be9ceac482a201834",
+      "bytes": 11243812,
+      "downloaded": true,
+      "byte_equal": true
+    },
+    "report": {
+      "path": "headneck/reports/HN_S01_UPDATED_REVIEW_REPORT.md",
+      "sha256": "7814546b47a90dd50869d595bcdff4771dfbfda9b376aedc31125c303703d8a5",
+      "downloaded": true,
+      "byte_equal": true
+    }
+  },
   "master_final_gate_unchanged": true,
   "cleared_topics": 0,
   "report": "headneck/reports/HN_S01_UPDATED_REVIEW_REPORT.md",
   "published_path": "pdf/HumsYar_HeadNeck_Jalase1_UPDATED_REVIEW.pdf",
   "publication_method": "Git branch file; direct Release asset upload failed with EOF; empty draft deleted",
-  "local_storage": "PDF in ignored cache and Git object/index; skip-worktree avoids another large working-tree artifact"
+  "local_storage": "PDF in ignored cache and Git object/index; skip-worktree avoids another large working-tree artifact",
+  "publication_commit": "1797060e382f3e90213fd0a5bfbb6fce2fad545c",
+  "download_url": "https://github.com/esogand15-droid/FIzioLOGY/raw/1797060e382f3e90213fd0a5bfbb6fce2fad545c/pdf/HumsYar_HeadNeck_Jalase1_UPDATED_REVIEW.pdf",
+  "tests": {
+    "command": ".venv/bin/python -m unittest discover -s headneck/tests -p 'test_*.py'",
+    "passed": 47
+  }
 }

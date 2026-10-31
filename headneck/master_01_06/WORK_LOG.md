@@ -1,3 +1,18 @@
+## تحویل تازهٔ درخواست‌شده — جلسهٔ۱، نسخهٔ بازبینی غیرنهایی
+
+**PDF جدید جلسهٔ۱ اکنون واقعاً منتشر شده است، نه لینک قدیمی.**
+
+- [دانلود PDF۱۵۹صفحه‌ای](https://github.com/esogand15-droid/FIzioLOGY/raw/1797060e382f3e90213fd0a5bfbb6fce2fad545c/pdf/HumsYar_HeadNeck_Jalase1_UPDATED_REVIEW.pdf)؛۱۱٬۲۴۳٬۸۱۲بایت؛ SHA `c7b92b33784dc95e403cc86d3996d82e9430732e64c4644be9ceac482a201834`.
+- [گزارش متنی](https://github.com/esogand15-droid/FIzioLOGY/blob/1797060e382f3e90213fd0a5bfbb6fce2fad545c/headneck/reports/HN_S01_UPDATED_REVIEW_REPORT.md)؛ PDF و گزارش از GitHub در commit `1797060e382f3e90213fd0a5bfbb6fce2fad545c` واقعاً دانلود و با محلی `cmp` شدند: هر دو برابر. رسید `headneck/master_01_06/hn01_review_publication.json`.
+- استثنای صریح کاربر: «نسخه جدیدشو قرار بده خب»؛ این PDF تک‌جلسه‌ای با برچسب غیرنهایی، جایگزین/تحویل نهایی جامع۱–۶ نیست. صفر cleared،۱۱C باز، gate جامع بدون تغییر BLOCKED.۸۵B دیگر همچنان pending.
+- بازچینی واقعی همه۱۸۷بلوک ثبت‌شدهٔ پایه و تکمیل مستقل هر۱۷مبحث؛۱۷گراف دارای پیکان/روابط،۱۰جایگاه مرجع تازه. PDFهای قبلی و پایه‌ها محفوظ؛ prepare/apply_update قدیمی اجرا نشده‌اند. موتور: `headneck/scripts/build_hn01_updated_review.py`؛ نیاز Dagre1.1.5 در cache و بازیابی شاهدها/دارایی‌های پین‌شده.
+- همه۱۵۹صفحه رندر/کنترل ماشینی شدند؛ فقط نمونه۱۳صفحه‌ایِ همین SHA واقعاً دیده شد:۱،۲،۳،۹،۲۵،۳۷،۶۱،۱۱۶،۱۱۷،۱۳۸،۱۴۸،۱۵۷،۱۵۹. **همه‌صفحه‌خوانی و تأیید علمی انجام نشده‌اند**؛ روی جلد/پابرگ/متن/گزارش صریح است. نمونهٔ نامزدهای قبلی به این SHA منتقل نشده است.۴۷تست پاس.
+- بارگذاری asset به `uploads.github.com` با EOF شکست خورد؛ draft خالی حذف شد و هیچ Release باقی نماند. PDF با Git روی همان شاخهٔ فعال push شد. برای سقف artifact، فایل بزرگ در cache و Git object/index است؛ `git ls-files -v` مسیر PDF تازه را `S` نشان می‌دهد (skip-worktree)، نه حذف از commit. آن را به‌اشتباه missing-baseline نشمارید. دانلود پایدار از GitHub است؛ در صورت نیاز برای materialize کردن محلی ابتدا `git update-index --no-skip-worktree pdf/HumsYar_HeadNeck_Jalase1_UPDATED_REVIEW.pdf` سپس `git restore --worktree -- pdf/HumsYar_HeadNeck_Jalase1_UPDATED_REVIEW.pdf`؛ این کار فایل بزرگ دیگری در snapshot می‌سازد. قدیمی‌ها برای فضا حذف نشده‌اند.
+
+این بند بر عبارت‌های تاریخی «هیچ PDF جدید/هیچ نمودار رندرشده نیست» در پایین مقدم است؛ **PDF جامع نهایی هنوز ساخته نشده**. گام بعد مأموریت جامع، بستن مقابله/دامنهٔ تصاویر جلسه۱ و تألیف/بررسی۲–۶ است، نه نهایی نامیدن این review.
+
+---
+
 ## ادامهٔ علمی — ۲۰۲۶-۱۰-۳۱؛ این وضعیت بر آمار مرحلهٔ قبل مقدم است
 
 - هنوز PDF جامع یا گزارش نهایی ساخته نشده و هیچ موضوعی cleared نیست؛ خروجی‌های قبلی بدون تغییر محفوظ‌اند.
