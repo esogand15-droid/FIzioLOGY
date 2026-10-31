@@ -133,11 +133,24 @@
           "pdf_page": 114,
           "plate": 62,
           "panel": "lower"
+        },
+        {
+          "source_label": "SRC-628",
+          "pdf_page": 104,
+          "printed_page": 1076,
+          "section": "Nasal cavities → Paranasal sinuses → Maxillary sinuses"
+        },
+        {
+          "source_label": "SRC-628",
+          "pdf_page": 108,
+          "printed_page": 1080,
+          "section": "Lateral wall continuation"
         }
       ],
       "editorial_action": "شکل موضعیِ دو دهانه، جدول hiatus / ostium و یادداشت اینکه بالابودن دهانه تمام سازوکار تخلیه را توضیح نمی‌دهد؛ برای فیزیولوژی مژکی شاهد متنی جدا لازم است.",
       "reference_observed": true,
-      "status": "PARTIALLY_DOCUMENTED_NEEDS_TEXT_REFERENCE"
+      "status": "ANATOMICAL_TEXT_EVIDENCE_EXTENDED_FINAL_INTEGRATION_PENDING",
+      "continuation_finding": "متن گریِ۱۰۷۶/۱۰۸۰ اکنون واقعاً دیده شد و جای دهانه نزدیک بالای قاعده و مسیر semilunar/middle meatus را مستند می‌کند؛ مکانیسم کامل مژکی از این صفحات ادعا نمی‌شود."
     },
     {
       "id": "C-007",
@@ -155,6 +168,116 @@
       "editorial_action": "محل موضعی ثابت را آموزش دهید؛ برجستگی قوس ابرویی را با توصیف گلابلا یکی نکنید. عبارت دو منبع در کادر اختلاف محفوظ بماند.",
       "reference_observed": true,
       "status": "DOCUMENTED_NOT_YET_INTEGRATED"
+    },
+    {
+      "id": "C-008",
+      "session": 1,
+      "topic": "hn01-T06",
+      "lecture_pdf_page": 8,
+      "lecture_statement": "سطر پایانی فهرست: Maxilla و Mandible یا فک تحتانی و فک فوقانی.",
+      "finding": "تطابق ترجمه با ترتیب انگلیسی جابه‌جا شده: Maxilla فوقانی و Mandible تحتانی. در نمای قدامی نتر۲۵ هر دو با جای واضح و مستقل برچسب دارند؛ گری۸۵۶ نیز upper jaw را maxillae و lower jaw را mandible می‌نامد.",
+      "verified_references": [
+        {
+          "source_label": "SRC-648",
+          "pdf_page": 77,
+          "plate": 25
+        },
+        {
+          "source_label": "SRC-632",
+          "pdf_page": 84,
+          "printed_page": 856,
+          "section": "Anterior view → Maxillae; Mandible"
+        }
+      ],
+      "editorial_action": "نقل سطر اصل بی‌دستکاری؛ یادداشت تطابق صحیح دو فک بلافاصله کنار آن. متن B تألیف شده ولی هنوز در PDF جانمایی نشده است.",
+      "reference_observed": true,
+      "status": "CORRECTION_AUTHORED_NOT_YET_FINAL_INTEGRATION"
+    },
+    {
+      "id": "C-009",
+      "session": 1,
+      "topic": "hn01-T05",
+      "lecture_pdf_page": 7,
+      "lecture_statement": "medial cranial fossae برای فوسای میانی در توالی قدامی/میانی/خلفی.",
+      "finding": "در راهنمای رنگی خود جزوه Middle آمده؛ نتر۳۲ و گری۸۶۷ عنوان Middle cranial fossa دارند. medial رابطهٔ نزدیکی به خط وسط است و جای نام middle نمی‌نشیند.",
+      "verified_references": [
+        {
+          "source_label": "SRC-649",
+          "pdf_page": 7,
+          "image_id": "IMG-009309"
+        },
+        {
+          "source_label": "SRC-648",
+          "pdf_page": 84,
+          "plate": 32
+        },
+        {
+          "source_label": "SRC-632",
+          "pdf_page": 95,
+          "printed_page": 867,
+          "section": "Cranial cavity → Middle cranial fossa"
+        }
+      ],
+      "editorial_action": "حفظ املای نقل، کادر واژه‌شناسی و نمودار توالی قدام/خلف؛ هنوز PDF نهایی ساخته نشده.",
+      "reference_observed": true,
+      "status": "CORRECTION_AUTHORED_NOT_YET_FINAL_INTEGRATION"
+    },
+    {
+      "id": "C-010",
+      "session": 1,
+      "topic": "hn01-T05",
+      "lecture_pdf_page": 7,
+      "lecture_statement": "حفره شنوایی یا Acoustic fossae؛ شکل Acoustic fossa.",
+      "finding": "طرح گوش بیرونی/میانی/داخلی جهت‌یابی را نشان می‌دهد اما هیچ شاهدی در مراجع اکنون مشاهده‌شده برای معرفی این نام به عنوان چهارمین فوسای اصلی قاعده به دست نیامده است. نبودن در این دامنه، اثبات نبود اصطلاح در تمام ادبیات نیست.",
+      "verified_references": [
+        {
+          "source_label": "SRC-649",
+          "pdf_page": 7,
+          "image_id": "IMG-009310"
+        },
+        {
+          "source_label": "SRC-648",
+          "pdf_page": 84,
+          "plate": 32
+        },
+        {
+          "source_label": "SRC-632",
+          "pdf_page": 95,
+          "printed_page": 867
+        }
+      ],
+      "editorial_action": "عنوان اصل و شکل محفوظ؛ محدودیت تأیید اصطلاح و منع قرار دادن آن در ردیف سه فوسای قاعده صریح باشد. شاهد اصطلاحی اختصاصی هنوز باز است.",
+      "reference_observed": true,
+      "status": "TERMINOLOGY_SCOPE_UNRESOLVED_LIMITATION_AUTHORED"
+    },
+    {
+      "id": "C-011",
+      "session": 1,
+      "topic": "hn01-T16",
+      "lecture_pdf_page": 18,
+      "lecture_statement": "در زمان تولد دندان‌ها هنوز در زائدهٔ آرواره‌ای تشکیل نشده‌اند.",
+      "finding": "تصویر بسته و بدون دندانِ روییده، نبود جوانه را نشان نمی‌دهد. گری۱۱۱۴ از emergence دندان شیری از لثه و نتر۴۰ از usual age of eruption و دندان‌های نهفته/روییده سخن می‌گویند؛ این شواهد، تاریخ آغاز جنینی تشکیل را مشخص نمی‌کنند. جملهٔ اصل نباید بی‌اعلان به «رویش نیافته» تبدیل شود.",
+      "verified_references": [
+        {
+          "source_label": "SRC-649",
+          "pdf_page": 18,
+          "image_id": "IMG-009382"
+        },
+        {
+          "source_label": "SRC-628",
+          "pdf_page": 142,
+          "printed_page": 1114,
+          "section": "Oral cavity → Teeth and gingivae"
+        },
+        {
+          "source_label": "SRC-648",
+          "pdf_page": 92,
+          "plate": 40
+        }
+      ],
+      "editorial_action": "نقل محفوظ، تمایز تشکیل/نهفتگی/رویش در B، و نیاز صریح به شاهد مستقیم تکاملی؛ هیچ تاریخ جنینی جعلی افزوده نشود.",
+      "reference_observed": true,
+      "status": "DIRECT_DEVELOPMENTAL_REFERENCE_STILL_NEEDED"
     }
   ]
 }

@@ -1,0 +1,1344 @@
+{
+  "status": "BOUNDED_CONTENT_COMPARISON_NOT_FULL_VERBATIM_OR_SCIENTIFIC_CLEARANCE",
+  "method": "The saved quotation blocks were read and compared to original source-page images (including text cards); not an OCR approval. Baseline bytes have not been changed. Page credits and listed typographic ambiguities remain open.",
+  "source_label": "SRC-649",
+  "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+  "page_notes": {
+    "2": "یادداشت اسفند۱۴۰۴ با نقل موجود خوانده شد؛ نام نویسندگان روی صفحه هنوز رونویسیِ نام‌به‌نام و تأیید نشده؛ گواهی کامل صفحه داده نمی‌شود.",
+    "3": "تعریف محوری/ضمیمه با اصل مقایسه شد. کاندید اصلاح «جمجه» پس از خواندن بزرگ‌نمایی واقعی رد شد: خود اصل هم «جمجه» نوشته است. نقل موجود با اصل در این واژه یکسان است و دست‌نخورده می‌ماند.",
+    "4": "تعریف/کارکرد/عضلات/دولایگی و دیپلوئه/شمار/توضیح پس از مرگ و فهرست فردها مقایسه شد. عنوان cranial vault و چیدمان دو ستونی فهرست، از ترتیب قطعی قدام‌خلف یا دامنهٔ تمام سقف پشتیبانی نمی‌کند.",
+    "5": "فهرست زوج/فرد صورت و لامی با سه بخش/نقش اتصال مقایسه شد؛ کمبود نام شاخک تحتانی در خود اصل است. اختلاف واحد «نوع جفت» و تعداد نمونه‌ها در B روشن می‌شود.",
+    "6": "جملهٔ cranium(neurocranium)، هر سه تقسیم و عبارت حفرات آخر صفحه در بلوک‌های مربوط حضور دارند؛ C001 علمی است، نه مجوز دستکاری نقل.",
+    "7": "سه فوسا و اصطلاح Acoustic، حفرات صورت، فرانکفورت و پنج نما مقایسه شد. medial و Acoustic در خود اصل‌اند؛ تصحیح/محدودیت جدا در C009/C010.",
+    "8": "تمام فهرست استخوان‌های قدامی و آغاز بخش صدفی در نقل مربوط حضور دارد؛ ترجمهٔ جابه‌جای دو فک از خود منبع است، C008. اشکی و شاخک تحتانی در فهرست متن نیامده‌اند هرچند در تصویر دیده می‌شوند.",
+    "9": "توصیف برجستگی‌ها، قوس/سینوس، گلابلا، متوپیک و آغاز استخوان‌سازی با متن موجود مقایسه شد؛ ادامهٔ جمله به۱۰ می‌رود. ادعاهای گروهی/تکاملی به صرف تطابق نقل تأیید نمی‌شوند.",
+    "10": "ادامهٔ استخوان‌سازی، صفحات اربیتال، دو فوسا، بریدگی/نیم‌سلول‌ها، margin و notch/foramen در متن موجود هستند. کلید شماره‌دار شکل جدا ثبت شده و تمام آن، پاراگراف بدنه نیست؛ جانمایی کلید اجباری است.",
+    "11": "پایان Foramen به پاراگراف قبلی پیوند دارد؛ زائده/خطوط گیجگاهی و بخش بینی و آغاز خار بینی با نقل مقایسه شد؛ ادامهٔ ادعای حفاظت از ضربه در۱۲ حفظ می‌شود، نه تأیید مطلق آن.",
+    "12": "ادامهٔ جملهٔ خار، دو سطح بینی، چهار کنار، درزها/ناسیون و ارتباط غضروفی با نقل موجود مقایسه شد. تصویر غضروف جای متن تایپی نمی‌گیرد.",
+    "13": "سوراخ‌های بینی و ناودان داخلی و آغاز مکسلا با نقل موجود مقایسه شد. عبارت آغاز مکسلا در اصل از نظر دستوری نارساست و نقل موجود «به» اضافه دارد؛ برای وفاداری حرف‌به‌حرف هنوز تصمیم صریح لازم است. عکس قدامی شاهد مشاهدهٔ ناودان داخلی نیست.",
+    "14": "ادامهٔ جسم/سطوح، تکرار سطح خلفی و هر دو خار با نقل موجود مقایسه شد؛ تکرار پاراگراف عمداً حذف نشده. انتساب خار خلفی باید جدا طبق C004 روشن شود.",
+    "15": "سه زائده و تمام شرح crest/groove/sac/canaliculi در نقل موجود حاضرند؛ برچسب زردِ جداشده باید در شکل با جای واقعی حفظ شود، نه در متن تصادفی.",
+    "16": "شرح زائدهٔ کامی، عبارت غیرروان «کام سقف»، سوراخ/ستیغ/خار، شکاف و آغاز سینوس با نقل مقایسه شد؛ «کام سقف» تایپی در اصل دیده می‌شود و به سخت بی‌اعلان تبدیل نمی‌شود.",
+    "17": "ادامهٔ کف سینوس، گسترش گونه‌ای، مخاط/عفونت و آغاز جملهٔ hiatus با متن موجود مقایسه شد؛ C006 اصطلاحی است و نقل باقی می‌ماند.",
+    "18": "پایان جملهٔ دهانه و همهٔ دو پاراگراف نوزاد/بالغ مقایسه شد؛ «تشکیل نشده‌اند» در اصل است، نه صرفاً خطای OCR. C011 باز است.",
+    "19": "چهار ساختار نام‌بردهٔ رادیوگرافی و یادداشت جنگنده/آرزوی پایانی در متن موجود حاضرند؛ حذف یادداشت شخصی به عنوان غیرعلمی مجاز تلقی نشده است.",
+    "20": "متن تمام سه کارت مرور و فهرست‌ها با بلوک‌های T17 مقایسه شد؛ قالب عدد/لاتینِ آهیانه در نقل موجود جابه‌جایی تایپوگرافیک دارد و نیازمند تنظیم بدون تغییر معناست. اسم شاخک تحتانی در این صفحه حاضر است.",
+    "21": "چهار کنار بینی، چهار زائده، crest/سینوس، شکاف/رشد و شش نکتهٔ پایانی همه در بلوک‌های T17 حضور دارند؛ اختلاف‌های علمی در مرور نیز حذف نمی‌شوند.",
+    "22": "بدنهٔ پاراگراف تازه ندارد؛ دو شکل مستقل با همهٔ نام‌های قابل خواندن در IMG-009391/9392 ثبت شدند. لبهٔ پایین شکل دوم بریده است و نام نادیده تأیید نمی‌شود."
+  },
+  "blocks": [
+    {
+      "topic_id": "hn01-T01",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "de1ce198027462f9cba8943df31eda204e1745c3f74a25658e3b45bb09867f1f",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        2
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "2"
+      ]
+    },
+    {
+      "topic_id": "hn01-T01",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "4ab2159ed353ed8ba201e21575bc2031b95db7fd072c286181b7eda37ee310cc",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        3
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "3"
+      ]
+    },
+    {
+      "topic_id": "hn01-T01",
+      "block_index": 7,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "baf4fc9c7103e0d99590dbf0927d47a618d4829634edbaf456ff5b7af01d4257",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        3
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "3"
+      ]
+    },
+    {
+      "topic_id": "hn01-T02",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "dea8badb9693446e99140208753b42220f9b884d82a2241bc9101c15b3865791",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        4
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "4"
+      ]
+    },
+    {
+      "topic_id": "hn01-T02",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "361374b7b7a53ef754ff1adc47d2d587cb4b3b06a4ca03e038b50771f3cd52ba",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        4
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "4"
+      ]
+    },
+    {
+      "topic_id": "hn01-T02",
+      "block_index": 5,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "e1d05d56850cb4719c86808a3beba872c0686e69e505e7f4c5304889f76a600f",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        4
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "4"
+      ]
+    },
+    {
+      "topic_id": "hn01-T02",
+      "block_index": 6,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "0defc6f884ab1abb16803967ed6e2575e3899a6bfdb41e0b647a50086d35cfd5",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        4
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "4"
+      ]
+    },
+    {
+      "topic_id": "hn01-T02",
+      "block_index": 7,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "dfb003e174c8ec77dcb2b98e8dea58818fbb49e8e150326103e7f87f38d4a8a2",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        4
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "4"
+      ]
+    },
+    {
+      "topic_id": "hn01-T02",
+      "block_index": 8,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "21687676b6025aa89cd6030f50981e8fef7ab9695cb0580a3ca7c5ca1739683c",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        4
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "4"
+      ]
+    },
+    {
+      "topic_id": "hn01-T03",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "da20106abf33053650aa8381dab4eb9ec2947bef0cd70f28aa64eb455a6d5425",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        4
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "4"
+      ]
+    },
+    {
+      "topic_id": "hn01-T03",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "0c4d53cce56077861b5cf51241f6a75c111a5d4d97fb82a4ac16c48398168a48",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        5
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "5"
+      ]
+    },
+    {
+      "topic_id": "hn01-T03",
+      "block_index": 6,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "50840bef583ad356f6e54b6afcc6b43ce9dd3f2d951c34820c6bdb91769bdaa0",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        5
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "5"
+      ]
+    },
+    {
+      "topic_id": "hn01-T03",
+      "block_index": 7,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "fb02721994d653a798fe9265d7c4b66b455d7dc64e5230ce1ca474626cb6c344",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        5
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "5"
+      ]
+    },
+    {
+      "topic_id": "hn01-T03",
+      "block_index": 12,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "8353313ddabc565553f518cfe60589a02db111e46fdd279dcff56025939e7c01",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        5
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "5"
+      ]
+    },
+    {
+      "topic_id": "hn01-T04",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "e0c6516ce1da07feb1911cda9e82311c086da96dd50583a9f0f35e1128462047",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        6
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "6"
+      ]
+    },
+    {
+      "topic_id": "hn01-T04",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "5227ffddf6b874ddd24e56be585cc1ff2086b7b06f6d3cd5e723f0846e97d2f1",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        6
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "6"
+      ]
+    },
+    {
+      "topic_id": "hn01-T04",
+      "block_index": 9,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "a7d223051a85227b1d26b1505c938c412e79cddb3317f521d15ae23c12ab8d49",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        6
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "6"
+      ]
+    },
+    {
+      "topic_id": "hn01-T04",
+      "block_index": 12,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "e8cf3ed8f7d5eb5402c40db91564a7aab749c6b3259d57e8448f21a8f7273fce",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        6
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "6"
+      ]
+    },
+    {
+      "topic_id": "hn01-T04",
+      "block_index": 14,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "3dddb562acbf71e68905214d5a23c80701c1a44c9161211aa33a3ee407746786",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        6
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "6"
+      ]
+    },
+    {
+      "topic_id": "hn01-T05",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "fb5743052789f9fbc04a9149602fb4ae3d395428ed3585b7945a28946e2dc4e1",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        6
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "6"
+      ]
+    },
+    {
+      "topic_id": "hn01-T05",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "9efcf430b6c9a68cec28de6333a323d3698321f8ba4a1eab6e2a5de0ae25caba",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        7
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "7"
+      ]
+    },
+    {
+      "topic_id": "hn01-T05",
+      "block_index": 7,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "05c046d815e5009f48599c21e897c995afaf2fbeb9af0d09bd6ed5b25f88857b",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        7
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "7"
+      ]
+    },
+    {
+      "topic_id": "hn01-T05",
+      "block_index": 10,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "c77ca7ec2185a7a2dfdccec9c972e412fb07ba4cde53f993be5fddb8a64bbf3e",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        7
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "7"
+      ]
+    },
+    {
+      "topic_id": "hn01-T05",
+      "block_index": 13,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "64be4f63abea35033d0923c433c8a213d5918385108cc52468c54d372c0d5fde",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        7
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "7"
+      ]
+    },
+    {
+      "topic_id": "hn01-T05",
+      "block_index": 15,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "8ac4c7035651745ef46f55ecb49dc31052d25eca9b674506a84f94b7800983dc",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        7
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "7"
+      ]
+    },
+    {
+      "topic_id": "hn01-T05",
+      "block_index": 16,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "c4e3caad76d9afead6880b2c3fd164ffe2b7d31e0a8a2888d3027754d2da3d1d",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        7
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "7"
+      ]
+    },
+    {
+      "topic_id": "hn01-T06",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "26d962e4326fde7758d7cc11b167d7b0b6d079354b4e421bbcfcd63c45ae741f",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        8
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "8"
+      ]
+    },
+    {
+      "topic_id": "hn01-T06",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "31d4916bad776f77353a8e6314c5332850cf1ba8facc9f1fedcc81aa9b4cc8c3",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        8
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "8"
+      ]
+    },
+    {
+      "topic_id": "hn01-T07",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "3cc37f26ae27a3d731d4edaff269480be8d81b0a7a0914e787d9fe730ca5c6fe",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        8
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "8"
+      ]
+    },
+    {
+      "topic_id": "hn01-T07",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "b9a0a697df06a82750d3a054372747eac96d9fb3987cbd806320ffca3d550807",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        8,
+        9
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "topic_id": "hn01-T07",
+      "block_index": 3,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "f15842da2be7d63c1848046a607b12625ee47ccaddc7463887b079140214ff43",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        9
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "9"
+      ]
+    },
+    {
+      "topic_id": "hn01-T07",
+      "block_index": 6,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "a929a0778558429f67f98c77e2fc63d6730595a25bd417f4e52027b0eb02f9b3",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        9
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "9"
+      ]
+    },
+    {
+      "topic_id": "hn01-T07",
+      "block_index": 7,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "b7fa6ed88097d23e44375df7551db56ac6ce6f51d515fb6d407dc44953afaf9e",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        9,
+        10
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "topic_id": "hn01-T08",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "c90d0ac741ab10ca43e905b2a8806dc36b21b066a9c2431f197d24f62b785438",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        10
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "10"
+      ]
+    },
+    {
+      "topic_id": "hn01-T08",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "f1fae0b647ea08328c94ca9e13cd39f3ff6f64fd872351b73d4de94c1ace90b7",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        10
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "10"
+      ]
+    },
+    {
+      "topic_id": "hn01-T08",
+      "block_index": 5,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "7bba08ad2e287b24f203a6e3885d78eaae7edb57b71dedd021cb20c9a70ca644",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        10
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "10"
+      ]
+    },
+    {
+      "topic_id": "hn01-T08",
+      "block_index": 6,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "30373abdcc5fecc16e7afa835cb6b7dfd32abe0d8ea2639ed79470436d7d02d2",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        10,
+        11
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "10",
+        "11"
+      ]
+    },
+    {
+      "topic_id": "hn01-T09",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "a228d2dc6cfee85a041ccc9145752001fc54edb88b34c1e4ed1fb7b04c5fbf11",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        11
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "11"
+      ]
+    },
+    {
+      "topic_id": "hn01-T09",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "6a051836e625ddf504b72b3d65cbb0cf6c5dac590ef6958bd9969ccd9d780aa7",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        11
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "11"
+      ]
+    },
+    {
+      "topic_id": "hn01-T09",
+      "block_index": 6,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "7c68494aa468d473e8d83cbfad17eb08186790b8ad3dd6f6074513a33c859dcf",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        11,
+        12
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "11",
+        "12"
+      ]
+    },
+    {
+      "topic_id": "hn01-T10",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "1122fc974e2e15bba68c21b3b23eda04a5c3094f2c5540e98a3708feed2b8a55",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        12
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "12"
+      ]
+    },
+    {
+      "topic_id": "hn01-T10",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "0b04c3aeab823c65c24ede404dabd60d09b4a3cb7fc24d847dac5af2c75ed94d",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        12
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "12"
+      ]
+    },
+    {
+      "topic_id": "hn01-T10",
+      "block_index": 3,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "ceda7237e0ebe1f064bb9790f02e1b5528071406d1b1507e07df5914fb941a0f",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        12
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "12"
+      ]
+    },
+    {
+      "topic_id": "hn01-T10",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "8c8de7cf6ef239f00bcff4b0d20f7c7f39e18cf0de3dbeea573b6db70132d1d3",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        12
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "12"
+      ]
+    },
+    {
+      "topic_id": "hn01-T10",
+      "block_index": 6,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "baseline_sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "block_sha256": "f951b0d14477e6770b71f234e123fb5c38b51b8d08b129f10ca497045b47ef9c",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        13
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "13"
+      ]
+    },
+    {
+      "topic_id": "hn01-T11",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "db66b1faa2d302c34d35564e255185bbd42501561a77995c790783cc20464136",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        13,
+        14
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "13",
+        "14"
+      ]
+    },
+    {
+      "topic_id": "hn01-T11",
+      "block_index": 5,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "30cc887de0641dfac5126e93eedf8f4d24dabb19fb57e3729facd0b2bece92bf",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        14
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "14"
+      ]
+    },
+    {
+      "topic_id": "hn01-T11",
+      "block_index": 6,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "bfa0d1aafac22b3e36e17d8def61b169febce67be74b31c339cd1ddce68c4fb6",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        14
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "14"
+      ]
+    },
+    {
+      "topic_id": "hn01-T11",
+      "block_index": 7,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "c9938ff3334eed79675c8d267dc72aebce45ee1582962c10463506b3bc81faf6",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        14
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "14"
+      ]
+    },
+    {
+      "topic_id": "hn01-T12",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "2b70e2bff8c762ab2e85228b9623054fe716db64b6b560afe19653b83b314e90",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        15
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "15"
+      ]
+    },
+    {
+      "topic_id": "hn01-T12",
+      "block_index": 3,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "7d560021b3bf3be0f96c93f7f8913616305ceedc9935ec8a87267dcc7a3281b4",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        15
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "15"
+      ]
+    },
+    {
+      "topic_id": "hn01-T13",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "4636e94fb17d2271af04a72533bc13bd9776fc5ffd1afb087a1822798150870c",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        15
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "15"
+      ]
+    },
+    {
+      "topic_id": "hn01-T14",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "8745f6919fe7bf4d2b1aa762c41a2bf5ec431caf1c151de39d22e350e20575a1",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        16
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "16"
+      ]
+    },
+    {
+      "topic_id": "hn01-T14",
+      "block_index": 3,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "90aed4cb3790bcfd6db933e389793bfd0dfa85f53d864edb2c456ee3bf561336",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        16
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "16"
+      ]
+    },
+    {
+      "topic_id": "hn01-T14",
+      "block_index": 5,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "23c147e0c100d804f3969627289d4d82d460cedc32c97f23fd65f5b4d083caec",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        16
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "16"
+      ]
+    },
+    {
+      "topic_id": "hn01-T15",
+      "block_index": 1,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "fbfc855f641103b4be6dd4ff0fdea72c1af0977552ac551b4055b33ff40d5612",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        16,
+        17
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "16",
+        "17"
+      ]
+    },
+    {
+      "topic_id": "hn01-T15",
+      "block_index": 3,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "1cb2f4423be37b599848a1c100c176ad6e7ab3b3daa8dbe8beab864d5d4e882b",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        17
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "17"
+      ]
+    },
+    {
+      "topic_id": "hn01-T15",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "dcb62ea1728c587662e413dd74ce599a19b7186bb97f5a3fb09b942cd0c2d64b",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        17,
+        18
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "17",
+        "18"
+      ]
+    },
+    {
+      "topic_id": "hn01-T16",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "738207b5825196995058d0e0565a0c93425ef603fde8274addd20b5e6ed1240f",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        18
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "18"
+      ]
+    },
+    {
+      "topic_id": "hn01-T16",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "78d7eb612c9167aa5f7cdaf50eb6647a11be917210b890ee38914f99d1756537",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        18
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "18"
+      ]
+    },
+    {
+      "topic_id": "hn01-T16",
+      "block_index": 6,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "4c421de3af03343e4f53001c9067ee2cc7270e549c7209a4218fe37f49adf7f5",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        19
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "19"
+      ]
+    },
+    {
+      "topic_id": "hn01-T16",
+      "block_index": 9,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "210d84fb4af2e931f571025056539ad1cd6a1f6e1ec12b662aacddc4fa170ce0",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        19
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "19"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 2,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "8d276158a1d1e281789a9855968f55b48605358d16e79dbb5a0456bb64798b98",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        20
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "20"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 4,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "d16da6027c46d013b0a2331fa02c6be47b919e63fde81c806c103b631fe7db49",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        20
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "20"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 5,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "711dd87bf32300de0551d40d7725de842a5f448ac8b09ddb8575392b1e533545",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        20
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "20"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 7,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "4fab3f7c97f8e5291ad65298cfb30536b0e045fc9bdcf8739f2a1f1e361a0a40",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        20
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "20"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 9,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "7915bcb9bff87e311e41f50d5f41ccc54872e78f7a1bc053096aa16b2be1a832",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        20
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "20"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 10,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "09668ac3194f1ab49d8cf19271772753fda0e0372093d4db2a4fb10d87672512",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        20
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "20"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 11,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "702f005dd36367f0def1c78bda0918d0b954dd1bd25faf5831ab09b28c584e9e",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        20
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "20"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 13,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "a8b7ef52f3eeff912a74d899a1567c7b37771325fce7326b356ab621ef3ee266",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        21
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "21"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 15,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "e24aab015b0cbaf72d5b2409abed643862963725a231a86fb2c818893caf94fe",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        21
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "21"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 16,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "da80bdf0e09fe71d548e1ee14dba8d7dfc155e843237b96c391f2f2f793536c4",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        21
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "21"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 17,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "aebced4fae5284f0d248b791f27f0e4960d9e97fa192eb1bacf8773fb09f39a5",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        21
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "21"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 19,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "07d8dde605079fe52972fe873fd88c81163db28c5f82b5ad07e85b103f96c041",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        21
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "21"
+      ]
+    },
+    {
+      "topic_id": "hn01-T17",
+      "block_index": 20,
+      "baseline_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "baseline_sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "block_sha256": "1ea055d868f43a25136a0c63eccdfc93a5c5fd297688ae14840aeada937b1ffa",
+      "source_label": "SRC-649",
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+      "lecture_pdf_pages": [
+        21
+      ],
+      "comparison": "CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED",
+      "decision": "KEEP_BASELINE_QUOTE_AND_EXPLICIT_EDITORIAL_NOTES",
+      "page_note_keys": [
+        "21"
+      ]
+    }
+  ],
+  "proposed_typographic_corrections": [],
+  "retracted_typographic_candidates": [
+    {
+      "id": "HN01-R001",
+      "status": "RETRACTED_AFTER_ACTUAL_SOURCE_CROP_REVIEW",
+      "reason": "The original also reads جمجه; the candidate correction was not supported and was not applied.",
+      "crop": ".cache/master_01_06/p03_spelling_check.png",
+      "crop_sha256": "3be315ccedf9b1766d25f465f244a75568d5323dc7802bf550c48d12ba24cbb3",
+      "render_recipe": {
+        "scale": 3.2,
+        "clip": [
+          230,
+          285,
+          560,
+          375
+        ],
+        "format": "png",
+        "pymupdf": "2.0"
+      },
+      "source_label": "SRC-649",
+      "pdf_page": 3,
+      "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7"
+    }
+  ]
+}

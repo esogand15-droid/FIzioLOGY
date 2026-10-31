@@ -32,6 +32,20 @@ def reproduce(dest):
   target=dest/r['preview'];target.parent.mkdir(exist_ok=True,parents=True);canvas.save(target)
   if sha(target)!=r['preview_sha256']:raise ValueError('Preview differs: '+str(target))
   count+=1
+ # Reproduce explicitly recorded source-detail crops as well. This covers the
+ # rejected spelling correction: the actual source crop must remain inspectable.
+ reconciliation=OUT/'source_reconciliation_hn01.json'
+ if reconciliation.exists():
+  for r in json.loads(reconciliation.read_text()).get('retracted_typographic_candidates',[]):
+   recipe=r['render_recipe'];src=ROOT/sources[r['source_label']]['file']
+   if sha(src)!=r['source_sha256']:raise ValueError('Crop source changed')
+   if pymupdf.VersionBind!=recipe['pymupdf']:raise ValueError('Crop renderer differs')
+   target=dest/r['crop'];target.parent.mkdir(exist_ok=True,parents=True)
+   with pymupdf.open(src) as doc:
+    pix=doc[r['pdf_page']-1].get_pixmap(matrix=pymupdf.Matrix(recipe['scale'],recipe['scale']),clip=pymupdf.Rect(recipe['clip']),alpha=False)
+    pix.save(target)
+   if sha(target)!=r['crop_sha256']:raise ValueError('Crop differs: '+str(target))
+   count+=1
  return count
 if __name__=='__main__':
  parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--out',type=Path,default=ROOT/'.cache/master_01_06/reproduced_views');args=parser.parse_args();n=reproduce(args.out);print(f'{n} view files reproduced with identical hashes; reproduction is NOT evidence of new reading or scientific approval.')

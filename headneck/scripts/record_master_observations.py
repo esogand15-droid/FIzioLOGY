@@ -10,6 +10,22 @@ ROOT=Path(__file__).resolve().parents[2]
 OUT=ROOT/'headneck/master_01_06';WORK=ROOT/'.cache/master_01_06'
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 
+def merge_observations(filename, seeds, key, jsonl=False):
+ """Seed old observations without erasing later authored reviews/reconciliation.
+
+ Re-running this recorder is not a new viewing. Existing entries take precedence;
+ updates must be authored explicitly against the source rather than rolled back
+ to the recorder's historical seed descriptions.
+ """
+ path=OUT/filename
+ existing=([json.loads(line) for line in path.read_text().splitlines()] if jsonl else json.loads(path.read_text())) if path.exists() else []
+ keys=[key(r) for r in existing]
+ if len(keys)!=len(set(keys)):raise ValueError('Duplicate observation keys: '+filename)
+ seen=set(keys)
+ rows=existing+[r for r in seeds if key(r) not in seen]
+ path.write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in rows) if jsonl else json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
+ return rows
+
 def main():
  registry={r['image_id']:r for r in map(json.loads,(WORK/'image_registry.jsonl').read_text().splitlines())}
  if sha(WORK/'image_registry.jsonl')!='59838203ec4481112c70615eae1b4460d0aa0b57164a3977bf5ae2564e8e1578':raise ValueError('Observation IDs belong to a different extracted registry; do not rebind automatically.')
@@ -33,14 +49,14 @@ def main():
   rid=f'IMG-{num:06}';r=registry[rid];preview=WORK/'vision'/(rid+'.png')
   row=dict(image_id=rid,source_label=r['source_label'],source_file=r['source_file'],pdf_page=r['pdf_page'],source_sha256=r['source_sha256'],resource_sha256=r['resource']['resource_sha256'],bbox=r['bbox'],image_registry_sha256=sha(WORK/'image_registry.jsonl'),observed_on='2026-10-31',observation='ACTUALLY_VIEWED_WITH_READ_FILE',observer='Arena agent; not an independent human/clinical reviewer',preview=str(preview.relative_to(ROOT)),preview_sha256=sha(preview),analysis=dict(image_type='طرح استخوانی/اسکلتی یا نمودار ماکروسکوپی؛ نه لام میکروسکوپی',anatomical_domain=topic,view_and_structures=description,visible_labels=labels,arrows='خطوط راهنما فقط در موارد برچسب‌دارِ شرح بالا؛ هیچ فلش بالینی یا عصب نادیده افزوده نشود.',spatial_relations=spatial,function='کارکرد آموزشیِ قابل استناد: '+teaching,teaching_point=teaching,testable_point='پرسش پیشنهادی تألیفی از همین تمایزها؛ هیچ شاهد پرتکراربودن آزمونی موجود نیست.',quality=quality,limitations='هیچ برچسب/جزء ریز نادیده از نام فایل یا caption قدیمی تأیید نشده؛ صحت علمیِ متن همراه جدا بررسی می‌شود.',duplication='پیکسل یکسانی یا کفایت حذف از شباهت موضوعی استنتاج نشده است.',decision=decision,proposed_placement=dict(topic=topic,where='پس از پاراگراف همان ساختار؛ صفحهٔ خروجی هنوز تخصیص نیافته'),microscopy=dict(applicable=False,stain=None,magnification=None),subpanels=[dict(panel=p,status='OBSERVED_AS_DISTINCT_VIEW_IN_COMPOSITE',analysis_scope='distinct view identified in description and spatial relations; no invented labels') for p in panels],final_pdf_location=None,scientific_disposition='NOT_FINAL_PLACEMENT_OR_SCIENTIFIC_CLEARANCE'))
   reviews.append(row)
- (OUT/'vision_reviews.jsonl').write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in reviews))
+ reviews=merge_observations('vision_reviews.jsonl',reviews,lambda r:r['image_id'],jsonl=True)
  # Whole-page viewing is logged separately from individual resource/panel review.
  ex=json.loads((OUT/'extraction_inventory.json').read_text());src={r['label']:r for r in ex['files']}
  notes={1:'جلد و نشان گروه؛ اطلاعات هویتی منبع، نه متن آناتومی.',2:'تصویر قدامی جمجمه، نام نویسندگان و یادداشت پایانیِ زیر تصویر؛ این نوشته بخشی از اصل است.',3:'تقسیم محوری/ضمیمه و دو شکل رنگی؛ اشاره به هیوئید در متن ولی خود آن در طرح کوچک قابل تشخیص مستقل نیست.',4:'تعریف و کارکرد جمجمه، ۲۲/۲۸، دو صفحه و استخوان اسفنجی؛ عنوان cranial vault روی شکل طرفی نیازمند توضیح دامنه است.',5:'فهرست صورت و لامی؛ شاخک تحتانی در فهرست اولیه جاافتاده ولی در مرور ۲۰ ذکر شده؛ سه نمای لامی.',6:'سه معیار تقسیم و درخت موجود؛ هم‌ارزی cranium و neurocranium در جملهٔ اول نیازمند رفع ابهام است.',7:'حفره‌های جمجمه/صورت، فرانکفورت، پنج نما؛ چندین نما/زیرنما در تصاویر ریز، هنوز تک‌تک استخراج و بسته نشده‌اند.',8:'نمای قدامی و آغاز پیشانی؛ نام‌ها/خطوط شکل باید جدا تحلیل شوند؛ جمله تا صفحهٔ بعد ادامه دارد.',9:'قوس ابرویی، برجستگی پیشانی، گلابلا، درز متوپیک؛ اختلاف توصیف گلابلا با گری ثبت شد.',10:'ادامهٔ استخوان‌سازی و نمای تحتانی پیشانی؛ حفرة غدهٔ اشکی خارج و فوسای تروکلئار داخل؛ تصویر شماره‌دار ریز است.',11:'ادامهٔ بریدگی/سوراخ، زائدهٔ گونه‌ای و خطوط گیجگاهی، بخش بینی و خار بینی استخوان پیشانی.',12:'استخوان بینی، سطوح و چهار کنار، nasion و غضروف‌های بینی؛ ادامهٔ جملهٔ صفحهٔ قبل حفظ شود.',13:'سوراخ‌های بینی و ناودان عصب؛ آغاز مکسلا و دو شکل مجاور سطح قدامی/اربیتال.',14:'سطوح مکسلا، توبروزیته، خارهای بینی؛ انتساب خار خلفی باید از مکسلا/کامی تفکیک شود.',15:'سه زائدهٔ نخست مکسلا؛ ستیغ اشکی قدامی و کیسه/کانالیکول‌ها؛ زائدهٔ کامی در صفحهٔ بعد ادامه دارد.',16:'زائدهٔ کامی، ۲/۳ نقل اصل، سوراخ ثنایایی، ستیغ بینی، دو تصویر شکاف کام، آغاز سینوس.',17:'نمای مقایسه‌ای سینوس سالم/ملتهب؛ مجاورت ریشهٔ دندان‌ها و اصطلاح maxillary hiatus.',18:'ادامهٔ تخلیهٔ سینوس و تغییرات سنی؛ دو نمای نوزاد و یک بزرگسال در پایین؛ روی تصویر، سن عددی مستند نیست.',19:'رادیوگرافی با اربیت و سینوس‌ها/دهانهٔ قدامی بینی، inset جهت تابش؛ متن پایانی غیرآناتومیک هم بخشی از اصل است.',20:'مرور تایپی‌نشده در extraction خام: دسته‌بندی ۸/۱۴، شاخک تحتانی، گوش/لامی و پیشانی؛ نیاز OCR و مقابله.',21:'مرور تصویریِ بینی، چهار زائدهٔ مکسلا و نکات پایانی؛ کلمهٔ مهم یا نکته در اصل شاهد فراوانی آزمونی نیست.',22:'دو شکل پر برچسب: قدامی رنگیِ جمجمه و برش کرونال صورت؛ همهٔ نوشته‌ها باید وارد دستورکار تصویر شوند، نه چسباندن صفحهٔ کامل.'}
  page_reviews=[]
  for n,note in notes.items():
   im=WORK/'pages/SRC-649'/f'{n:03}.jpg';page_reviews.append(dict(source_label='SRC-649',pdf_page=n,source_sha256=src['SRC-649']['sha256'],render=str(im.relative_to(ROOT)),render_sha256=sha(im),render_recipe=dict(scale=1.5,jpeg_quality=90,pymupdf=pymupdf.VersionBind),whole_page_vision='OBSERVED',note=note,typed_text_reconciliation='NOT_COMPLETED',all_individual_images_closed=False))
- (OUT/'lecture_page_observations.json').write_text(json.dumps(page_reviews,ensure_ascii=False,indent=2)+'\n')
+ page_reviews=merge_observations('lecture_page_observations.json',page_reviews,lambda r:(r['source_label'],r['pdf_page']))
  refs=[]
  refnotes={
  ('SRC-628',116):('printed 1088','Regional anatomy → Oral cavity → Skeletal framework → Maxillae; Palatine bones','متن ستون راست صریحاً anterior two-thirds برای زوائد کامی مکسلا؛ ادامهٔ همان ستون منشأ خار بینی خلفی از پیوستن دو صفحهٔ افقی کامی را می‌گوید. صفحه متن‌محور است. این مشاهده پس از جست‌وجوی OCR با تصویر اصلی مقابله شد.'),
@@ -67,6 +83,6 @@ def main():
  ('SRC-632',90):('printed 862 / Fig 8.23','Inferior view; Greater wing continuation','نمای تحتانی کامل، مکسلا/کامی/سوراخ‌ها؛ lower text کانال پتریگوئید و نقش بال بزرگ را ادامه می‌دهد. عدد صفحه واقعاً ۸۶۲ دیده شد.')}
  for (label,n),(ident,title,note) in refnotes.items():
   p=WORK/'pages'/label/f'{n:03}.jpg';refs.append(dict(source_label=label,pdf_page=n,source_sha256=src[label]['sha256'],identifier_seen=ident,section_or_title_seen=title,whole_page_vision='OBSERVED',render=str(p.relative_to(ROOT)),render_sha256=sha(p),render_recipe=dict(scale=1.6,jpeg_quality=92,pymupdf=pymupdf.VersionBind),observations=note,individual_image_registry_entries_closed=False,scope='Page actually viewed; not a full-book or individually closed image-registry claim.'))
- (OUT/'reference_page_observations.json').write_text(json.dumps(refs,ensure_ascii=False,indent=2)+'\n')
- print('Recorded 22 lecture page views, 22 reference page views, 11 image occurrences / 16 named subviews. No topic or final PDF certified.')
+ refs=merge_observations('reference_page_observations.json',refs,lambda r:(r['source_label'],r['pdf_page']))
+ print(f'Preserved/seeded {len(page_reviews)} lecture page observations, {len(refs)} reference page observations, {len(reviews)} resource observations. No new reading or approval performed.')
 if __name__=='__main__':main()

@@ -126,12 +126,49 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 3,
+            "role": "نقل و دو تصویر اصل"
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 45,
+            "plate": 8,
+            "title": "Overview of Skeletal System",
+            "role": "تکمیل فهرست کمربندها و مقایسهٔ گروه‌ها"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009280",
+            "placement": "پس از تعریف محوری",
+            "instruction": "جمجمه، ستون و قفسهٔ سینه را پیدا کنید؛ لامی را از این شکل کوچک حدس نزنید."
+          },
+          {
+            "image_id": "IMG-009279",
+            "placement": "پس از تعریف ضمیمه",
+            "instruction": "کمربندها را قبل از استخوان‌های آزاد اندام مشخص کنید؛ دو تصویر کارکرد مقایسه‌ای دارند و تکرار بی‌هدف نیستند."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 45,
+            "plate": 8,
+            "placement": "کنار مثال ساکروم/استخوان لگنی",
+            "instruction": "نمای کل برای جهت‌یابی؛ اگر برچسب‌های لگن کوچک ماند، یک بزرگ‌نمایی مکمل اضافه کنید، نه کشیدگی نامتناسب تصویر."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T01",
+          "topic_sha256": "3ac1b66ede7aafdb4a20b597db4ea66573a615cd8e8368103add4cd159ef1a88",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
         "issues": [],
@@ -261,12 +298,60 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 4,
+            "role": "نقل کامل اصل"
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 83,
+            "printed_page": 855,
+            "section": "Regional anatomy → Skull"
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 88,
+            "printed_page": 860,
+            "section": "Superior view"
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 89,
+            "printed_page": 861,
+            "figure": "8.22"
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 82,
+            "plate": 30
+          }
+        ],
+        "image_links": [
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 82,
+            "plate": 30,
+            "instruction": "دو سطح کالواریا مکمل‌اند؛ برش لبه و برچسب Diploë حفظ شود؛ مشاهدهٔ صفحه انجام شده ولی برش و QA نهایی باز است."
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 89,
+            "figure": "8.22",
+            "instruction": "طرح لایه‌ها کنار توضیح دیواره؛ به عنوان هیستولوژی با رنگ و بزرگ‌نمایی معرفی نشود."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T02",
+          "topic_sha256": "39c6643e2415fd936ff9723584f3376418d4f2a7387ee146089cdef110280f15",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
         "issues": [],
@@ -453,16 +538,68 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 5
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 20
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 83,
+            "printed_page": 855,
+            "section": "Regional anatomy → Skull"
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 45,
+            "plate": 8
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 88,
+            "plate": 36
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009297",
+            "instruction": "دو نمای قدامی/تحتانی کارکرد مکمل دارند؛ نام کامی در تحتانی خوانده شود."
+          },
+          {
+            "image_id": "IMG-009301",
+            "instruction": "سه نمای جزء و جایگاه لامی حفظ شود؛ تعیین C3 از متن/نتر۳۶، نه شمارش در عکس کوچک."
+          },
+          {
+            "image_id": "IMG-009391",
+            "instruction": "شاخک تحتانی مستقل را کنار شاخک میانی اتموئید نشان دهید."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T03",
+          "topic_sha256": "52ed867482dcb2bc6502fa4b79e5a6a2ac1e3430d1fcbf8bcc6e374624df1fe0",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-002",
+          "C-003"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -653,16 +790,65 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 6
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 83,
+            "printed_page": 855,
+            "section": "Regional anatomy → Skull"
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 45,
+            "plate": 8
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 82,
+            "plate": 30
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 84,
+            "plate": 32
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009302",
+            "instruction": "نمای طرفی و نمای داخل کف، دو کارکرد جدا دارند؛ عنوان جهت زیر هرکدام."
+          },
+          {
+            "image_id": "IMG-009305",
+            "instruction": "نمودار اصل کنار نمودار تکمیلی و کادر اختلاف، نه به عنوان نمودار تصحیح‌شده."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 45,
+            "plate": 8,
+            "instruction": "درخت شمار cranium21 / neuro8 / midface13 دقیقاً حفظ شود."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T04",
+          "topic_sha256": "cb76534e45de4fcac3393ee1d00cb6ef4d2d4756314076da3e57bcfc1634ef62",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-001"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -881,16 +1067,68 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 7
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 84,
+            "plate": 32
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 95,
+            "printed_page": 867,
+            "section": "Regional anatomy → Cranial cavity → Middle cranial fossa"
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 148,
+            "printed_page": 1120,
+            "section": "Surface anatomy → Anatomical position of the head and major landmarks",
+            "figure": "8.278"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009309",
+            "instruction": "راهنمای سه رنگ کنار شکل و کادر middle/medial باشد."
+          },
+          {
+            "image_id": "IMG-009310",
+            "instruction": "با عنوان اصل و یادداشت عدم تأیید اصطلاح؛ تصویر گوش به عنوان چهارمین فوسا معرفی نشود."
+          },
+          {
+            "image_id": "IMG-009314",
+            "instruction": "دو زیرنما جدا شرح داده شوند؛ نقطهٔ ارائه ساختار نیست."
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 148,
+            "printed_page": 1120,
+            "figure": "8.278",
+            "instruction": "مکمل تعریف حاشیه‌های صفحهٔ فرانکفورت؛ خط واقعی شکل با متن مقابله شد."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T05",
+          "topic_sha256": "96fa08726e58a5e47252b9d81ff12d26330e9af4c95b271985ae30700eb31b5f",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-009",
+          "C-010"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -990,16 +1228,66 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 8
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 22
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 83,
+            "printed_page": 855,
+            "figure": "8.18"
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 84,
+            "printed_page": 856,
+            "section": "Anterior view"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009316",
+            "instruction": "پس از فهرست اصل، نقشهٔ سادهٔ بدون افزودن فلش حدسی."
+          },
+          {
+            "image_id": "IMG-009391",
+            "instruction": "نقشهٔ مرجع برای شاخک‌ها، اجزای اتموئید و دو فک."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25,
+            "panel": "lower",
+            "instruction": "زیرنمای اربیت مستقل از نمای کامل برای دیوارهٔ داخلی و کف."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T06",
+          "topic_sha256": "ed94ed4813501d5bc0661bd554b19077f7109ad6697524fdc72cb8743b2245e4",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-008"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -1117,16 +1405,66 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 9
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 10
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 87,
+            "plate": 35
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 84,
+            "printed_page": 856,
+            "section": "Anterior view → Frontal bone"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009319",
+            "instruction": "هر دو زیرنما کنار نقشهٔ نشانه‌ها با شرح مستقل؛ رنگ قرمز صرفاً نشانگر اصل."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 87,
+            "plate": 35,
+            "instruction": "درز متوپیک و فونتانل در بافت رشد، نه تصویر تشخیص شکستگی بالغ."
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 84,
+            "printed_page": 856,
+            "instruction": "دو عبارت گلابلا و قوس ابرویی از متن، با شمارهٔ صفحهٔ واقعی."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T07",
+          "topic_sha256": "48958e8e42e9f6574acbb8b3ca8cb57c4c90935295c77e90e377380281c7148b",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-007"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -1234,12 +1572,55 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 10,
+            "role": "عکس شماره‌دار و کلید، متن فوساها"
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 11
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 84,
+            "printed_page": 856,
+            "table": "8.1"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009340",
+            "instruction": "عکس اصلی با جهت تحتانی و منبع درون‌جزوه‌ای Rohen2015؛ نه ادعای مطالعهٔ کتاب کامل."
+          },
+          {
+            "image_id": "IMG-009341",
+            "instruction": "کلید اجباری کنار عکس؛ برجسته‌کردن شماره۹ جای حفظ بقیهٔ شماره‌ها را نمی‌گیرد."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25,
+            "panel": "lower",
+            "instruction": "مقایسهٔ محل سقف در اربیتِ سوارشده با استخوان منفرد."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T08",
+          "topic_sha256": "746e864a3e95427bb5543762cb8ce963e1728ee5e43e8e0b1ec2bcb11c44b90b",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
         "issues": [],
@@ -1352,12 +1733,61 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 11
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 12
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 79,
+            "plate": 27
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 84,
+            "printed_page": 856,
+            "section": "Frontal bone; Zygomatic and nasal bones"
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 104,
+            "printed_page": 1076,
+            "figure": "8.232"
+          }
+        ],
+        "image_links": [
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 79,
+            "plate": 27,
+            "panel": "upper",
+            "instruction": "دو خط گیجگاهی و برچسب temporal fossa کنار توضیح طرفی؛ تعداد استخوان‌های در تصویر به شمار خطوط تبدیل نشود."
+          },
+          {
+            "image_id": "IMG-009319",
+            "instruction": "خارِ استخوان منفرد پیشانی را با خارِ مکسلا در IMG-009363 مقایسه کنید."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T09",
+          "topic_sha256": "c07beb2de5004ed9de16803e2ad503f39d05855b4354253b3b67d72d1b98b520",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
         "issues": [],
@@ -1478,12 +1908,55 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 11
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 12
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 13
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 84,
+            "printed_page": 856,
+            "section": "Anterior view → Zygomatic and nasal bones"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009347",
+            "instruction": "ناسیون و دو درز با سه خط مستقل؛ ارجاع فقط به تصویر گرانتِ درون جزوه، نه مطالعهٔ اطلس کامل."
+          },
+          {
+            "image_id": "IMG-009348",
+            "instruction": "مرز استخوان بالایی و غضروف‌های پایین نزدیک متن کنار تحتانی."
+          },
+          {
+            "image_id": "IMG-009362",
+            "instruction": "عنوان anterior aspect حفظ شود؛ ناودان داخلی روی آن با فلش ساختگی افزوده نشود."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T10",
+          "topic_sha256": "b6c842695d2cffcb78ca32b4f97b5f45bd1575baedef62e63fa3fd4dd92b2e1e",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
         "issues": [],
@@ -1632,16 +2105,73 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 13
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 14
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 79,
+            "plate": 27,
+            "panel": "lower"
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 104,
+            "printed_page": 1076,
+            "section": "Maxillary sinuses"
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 116,
+            "printed_page": 1088,
+            "section": "Oral cavity → Skeletal framework → Palatine bones"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009363",
+            "instruction": "سطح صورت و نوع فوسا/برجستگی/فورامن با نام کامل."
+          },
+          {
+            "image_id": "IMG-009364",
+            "instruction": "کنار تصویر صورت برای انتقال شیار بالایی به سوراخ جلویی."
+          },
+          {
+            "image_id": "IMG-009365",
+            "instruction": "با کلید IMG-009367 و صلیب جهت، IT از TM جدا شود."
+          },
+          {
+            "image_id": "IMG-009366",
+            "instruction": "HOLD: خط قرمز بی‌نام، هدف قطعی آن هنوز تأیید نشده."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T11",
+          "topic_sha256": "c093cb7affa1b1ef351e90df5999cb3cfd253000619af92a044f2d8bd09317a7",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-004"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -1732,12 +2262,55 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 15
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 16
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 21
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 84,
+            "printed_page": 856,
+            "section": "Anterior view → Maxillae"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009370",
+            "instruction": "سه زائدهٔ قابل رؤیت؛ شمار چهارمی با IMG-009372 تکمیل شود."
+          },
+          {
+            "image_id": "IMG-009371",
+            "instruction": "نوشتار جداشده را با خط راهنمای خود صفحه۱۵ بازجانمایی کنید."
+          },
+          {
+            "image_id": "IMG-009372",
+            "instruction": "چهارمین زائده از نمای تحتانی؛ اختلاف نسبتی کام در کادر مستقل T14 بماند."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T12",
+          "topic_sha256": "bd7771d0bc266ccc78a6279b73b9ec7dcb740552962e873cf99b0cf26ed0b742",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
         "issues": [],
@@ -1821,12 +2394,59 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 15
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 163,
+            "plate": 111
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25,
+            "panel": "lower"
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 113,
+            "plate": 61
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 114,
+            "plate": 62
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009368",
+            "instruction": "اطلاعات اصل محفوظ؛ نسخهٔ نتر۱۱۱ برای خوانایی مسیر جایگزین/مکمل با اعلام منشأ."
+          },
+          {
+            "image_id": "IMG-009369",
+            "instruction": "کنار توضیح فوسای کیسه و مقایسه با فوسای غده."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 163,
+            "plate": 111,
+            "instruction": "دو زیرنما مسیر و جایگاه؛ جهت جریان فقط روی مسیر واقعی دیده‌شده."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T13",
+          "topic_sha256": "b87e0525045a8a422e1cf3c75b426f3b3868f7ef8a29321be319a7abbbe848f1",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
         "issues": [],
@@ -1937,16 +2557,89 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_pages": [
+              16,
+              21
+            ],
+            "role": "نقل و نسبت اصل"
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 89,
+            "printed_page": 861,
+            "section": "Regional anatomy → Skull → Inferior view → Anterior part"
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 90,
+            "printed_page": 862,
+            "figure": "8.23"
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 116,
+            "printed_page": 1088,
+            "section": "Oral cavity → Skeletal framework → Maxillae; Palatine bones"
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 133,
+            "printed_page": 1105,
+            "section": "Oral cavity → Roof—palate → Hard palate"
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 81,
+            "plate": 29
+          }
+        ],
+        "image_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 16,
+            "instruction": "دو سطح طبیعیِ کام و دو زیرنمای شماتیک شکاف در مشاهدهٔ مستقل ثبت شدند؛ تصاویر طبیعی دو نقش دهانی/بینی دارند. جزئیات نوع نقص/مراحل جنینی و جایگذاری نهایی هنوز تأیید نشده‌اند.",
+            "status": "INDIVIDUAL_OBSERVATIONS_RECORDED_FINAL_PLACEMENT_PENDING",
+            "image_ids": [
+              "IMG-009372",
+              "IMG-009373",
+              "IMG-009374"
+            ]
+          },
+          {
+            "source_label": "SRC-632",
+            "pdf_page": 90,
+            "figure": "8.23",
+            "instruction": "برش موضعیِ کام در نمای تحتانی، با حفظ نام‌های hard palate(maxilla)، hard palate(palatine bone)، incisive fossa و posterior nasal spine.",
+            "status": "PAGE_SEEN_CROP_NOT_YET_MADE"
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 81,
+            "plate": 29,
+            "panel": "upper",
+            "instruction": "برش مدیان برای نمایش دهان پایین/بینی بالا و سهم مکسلا/کامی؛ همهٔ صفحه با ریزبرچسب‌های نامرتبط کوچک نشود.",
+            "status": "PAGE_SEEN_CROP_NOT_YET_MADE"
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T14",
+          "topic_sha256": "485e8527b0685ab1fd7a3fa8947dc857a216185512686b755fec5d6b8284e802",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-005"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -2065,16 +2758,86 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 17
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 18
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 22
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 104,
+            "printed_page": 1076,
+            "section": "Regional anatomy → Nasal cavities → Paranasal sinuses → Maxillary sinuses"
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 108,
+            "printed_page": 1080,
+            "section": "Nasal cavities → Lateral wall continuation"
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 113,
+            "plate": 61
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 114,
+            "plate": 62
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009381",
+            "instruction": "فقط سه شماره‌ای که کلید دارند نام‌گذاری قطعی شوند؛ نام‌های بقیه نیازمند کلید منبع‌اند."
+          },
+          {
+            "image_id": "IMG-009392",
+            "instruction": "برش کرونال کنار رابطهٔ سقف/کف؛ گوشهٔ پایین بریده برای نام‌گذاری عضلات اضافی استفاده نشود."
+          },
+          {
+            "image_id": "IMG-009375",
+            "instruction": "دو نیمهٔ سالم/ملتهب با عنوان مقایسه‌ای نه بیماری همیشگیِ یک طرف."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 113,
+            "plate": 61,
+            "panel": "lower",
+            "instruction": "دو دهانهٔ مجرای اشکی و سینوس کنار مئاتوس‌های درست."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 114,
+            "plate": 62,
+            "panel": "lower",
+            "instruction": "مکمل استخوانیِ محدودشدن hiatus؛ نه جایگزین نمای مخاطی."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T15",
+          "topic_sha256": "06c326a393d8f1ad693d8fd38e3ff395ae8f9e18a0258dcb1ac2f693e620d9ba",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-006"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -2211,16 +2974,75 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 18
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 19
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 87,
+            "plate": 35
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 78,
+            "plate": 26
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 92,
+            "plate": 40
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 142,
+            "printed_page": 1114,
+            "section": "Regional anatomy → Oral cavity → Teeth and gingivae"
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009382",
+            "instruction": "دو نمای کوچک را دو سن مستقل ننامید؛ نمای طرفی برای نسبت کلی و دو قدامی برای مقایسهٔ هم‌جهت."
+          },
+          {
+            "image_id": "IMG-009383",
+            "instruction": "طرح تابش و رادیوگرافی دو زیرنما با شرح مستقل؛ بدون تشخیص بیماری."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 78,
+            "plate": 26,
+            "instruction": "دو پروجکشن واقعی با نام خود مرجع؛ نامشان به عکس بی‌عنوان جزوه منتقل نشود."
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 92,
+            "plate": 40,
+            "instruction": "مثال تفاوت دندان نهفته/روییده و مفهوم eruption؛ نه شاهد اختصاصی زمان تولد."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T16",
+          "topic_sha256": "1eebf47ac570ce51bb227dc64517ba033466151bd2bf0190bff5f2ba05cee297",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
-        "issues": [],
-        "review": "PENDING"
+        "issues": [
+          "C-011"
+        ],
+        "review": "DOCUMENTED_OPEN_OR_NOT_YET_INTEGRATED"
       },
       "current_mission_review": "NOT_COMPLETE"
     },
@@ -2456,12 +3278,89 @@
         "prior_overlay_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
         "prior_overlay_sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
         "topic_specific_additions": [],
-        "reference_links": [],
-        "image_links": [],
-        "scientific_card": "PENDING",
-        "writer_guide": "PENDING",
-        "diagram": "PENDING",
-        "exam_claim_evidence": []
+        "reference_links": [
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 20
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 21
+          },
+          {
+            "source_label": "SRC-649",
+            "pdf_page": 22
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 77,
+            "plate": 25
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 113,
+            "plate": 61
+          },
+          {
+            "source_label": "SRC-648",
+            "pdf_page": 163,
+            "plate": 111
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 104,
+            "printed_page": 1076
+          },
+          {
+            "source_label": "SRC-628",
+            "pdf_page": 142,
+            "printed_page": 1114
+          }
+        ],
+        "image_links": [
+          {
+            "image_id": "IMG-009384",
+            "instruction": "متن کارت کامل تایپ شود؛ تصویر صفحهٔ کارت جانشین متن نیست."
+          },
+          {
+            "image_id": "IMG-009385",
+            "instruction": "دو بند گوش/لامی مستقل حفظ شوند."
+          },
+          {
+            "image_id": "IMG-009386",
+            "instruction": "مرور پیشانی با تمایز بریدگی بینی/اتموئید و حدود متوپیک."
+          },
+          {
+            "image_id": "IMG-009387",
+            "instruction": "فهرست چهار زائده و نسبت کام و مسیر سینوس بدون حذف تایپ شود."
+          },
+          {
+            "image_id": "IMG-009388",
+            "instruction": "دو بند شکاف/رشد با کادر حدود شاهد."
+          },
+          {
+            "image_id": "IMG-009390",
+            "instruction": "شش نکته به ترتیب اصل؛ فراوانی آزمونی جعل نشود."
+          },
+          {
+            "image_id": "IMG-009391",
+            "instruction": "مرجع قدامی برای پرسش پیدا کردن ساختار."
+          },
+          {
+            "image_id": "IMG-009392",
+            "instruction": "مکمل فضایی، نه عکس تکراری قدامی؛ برچسب‌های پایین بریده تأیید نشوند."
+          }
+        ],
+        "scientific_card": "AUTHORED_NOT_CLEARED",
+        "writer_guide": "AUTHORED_NOT_CLEARED",
+        "diagram": "AUTHORED_NOT_CLEARED",
+        "exam_claim_evidence": [],
+        "authored_addition_record": {
+          "file": "headneck/master_01_06/educational_additions.json",
+          "json_pointer": "/topics/hn01-T17",
+          "topic_sha256": "5a9580f87eda6bc7ba643cace7eb6bf8273dc71d4b444d6cec6338301a34d6fd",
+          "status": "AUTHORED_NOT_YET_LAYOUT_OR_TOPIC_CLEARED"
+        }
       },
       "C": {
         "issues": [],

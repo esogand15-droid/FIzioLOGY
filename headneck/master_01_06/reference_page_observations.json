@@ -285,7 +285,8 @@
     },
     "observations": "glabella در متن small depression؛ نصیب زوائد مکسلا و nasion؛ جدول کامل سوراخ‌ها با عصب و عروق باید جدا نقل/بررسی شود، نه صرف تشخیص عنوان جدول.",
     "individual_image_registry_entries_closed": false,
-    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim.",
+    "continuation_observation": "جدول۸.۱ و متن صفحه در ادامه دوباره دیده شدند: supraorbital/infraorbital/mental foramen با nerve and vessels، و بخش‌های نمای طرفی/فوقانی/تحتانی جدول. فقط ردیف فوقاربیتی در تکمیل T08 به کار می‌رود؛ دیدن جدول به معنای نهایی‌کردن تمام گذرگاه‌های جلسات بعد نیست."
   },
   {
     "source_label": "SRC-632",
@@ -394,5 +395,203 @@
     "observations": "نمای تحتانی کامل، مکسلا/کامی/سوراخ‌ها؛ lower text کانال پتریگوئید و نقش بال بزرگ را ادامه می‌دهد. عدد صفحه واقعاً ۸۶۲ دیده شد.",
     "individual_image_registry_entries_closed": false,
     "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 77,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 25",
+    "section_or_title_seen": "Bones and Joints → Skull: Anterior View",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/077.jpg",
+    "render_sha256": "97dbe038154fbd14230e768eb6dcf2b575db0ba3d084e7c27c625bc13bf51480",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "دو زیرنما: قدامی کامل با نام شاخک تحتانی مستقل و اجزای اتموئید؛ زیرنمای اربیت راست با هفت استخوان، فوسای کیسهٔ اشکی در داخل-قدام، شیار زیراربیتی در کف. هر دو واقعاً دیده شدند؛ برش‌های مستقل و QA نهایی هنوز انجام نشده.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 78,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 26",
+    "section_or_title_seen": "Bones and Joints → Skull: Radiographs",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/078.jpg",
+    "render_sha256": "eaa0a27b424cab06d2b2f7e564b8bcfd11a47f23f1b94c81bf9a5b5b1d3a2d7f",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "دو رادیوگرافی مستقل: posterior anterior در بالا و Waters در پایین. در بالایی درزهای سقف و اجزای قاعده همپوشان‌اند؛ پایینی سینوس‌های مکسلا را با فک/اربیت نشان می‌دهد. این مشاهده مجوز نام‌گذاری قطعی پروجکشن عکس جزوه نیست.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 84,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 32",
+    "section_or_title_seen": "Bones and Joints → Cranial Base: Superior View",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/084.jpg",
+    "render_sha256": "98f7e55ca3f06ddb610f065d65f02d91d137f6038c99bacdc275f826dff26e07",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "یک نیمهٔ قاعده از داخل با آکولادهای anterior/middle/posterior و خط‌های مرز؛ استخوان پیشانی/اتموئید در جلو، بال کوچک و بزرگ اسفنوئید در میانه و پتروس به سوی خلف. خط‌های راهنما به لوب‌های مغز اشاره نمی‌کنند. واژهٔ middle روشن است.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 92,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 40",
+    "section_or_title_seen": "Bones and Joints → Teeth",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/092.jpg",
+    "render_sha256": "13a46b92d7bfcf3c9a07519359aa808a85c597c04036078cb747e802df1de6a6",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "بالا دو فک با استخوان کنارزده و دندان‌های روییده/نهفته و دو ستون سن usual age of eruption برای شیری/دائمی؛ پایین نمای قوس بالایی و پایینی با نام گروه دندانی، زائدهٔ کامی و صفحهٔ افقی کامی. هیچ‌کدام نمونهٔ برچسب‌خوردهٔ زمان تولد نیست؛ از این صفحه تاریخ شروع تشکیل جنینی را تعیین نمی‌کنیم.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-628",
+    "pdf_page": 104,
+    "source_sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a",
+    "identifier_seen": "printed 1076 / Fig 8.232",
+    "section_or_title_seen": "Regional anatomy → Nasal cavities → Paranasal sinuses → Maxillary sinuses; Walls, floor, and roof → Medial wall",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-628/104.jpg",
+    "render_sha256": "14582658b67f028f7b8e57dd0b0577f8bcf532906a2e253ee5ab5b19136bff8e",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "متن صریحاً شکل هرمی، رأس طرفی، قاعده کنار بینی، مشارکت شاخک تحتانی و کامی روی hiatus، دهانه نزدیک بالای قاعده در semilunar hiatus و دیوارهٔ middle nasal meatus را می‌گوید؛ رابطه با اربیت و ریشه پرمولر/مولر، عصب‌دهی V2 و خون‌رسانی زیراربیتی/آلوئولار فوقانی آمده. شکل تیغهٔ بینی در نیمهٔ پایین مستقل است؛ این صفحه ادعای مکانیسم مژکی را ثابت نمی‌کند.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-628",
+    "pdf_page": 108,
+    "source_sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a",
+    "identifier_seen": "printed 1080 / Fig 8.236 A,B",
+    "section_or_title_seen": "Regional anatomy → Nasal cavities → Lateral wall continuation; Nares",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-628/108.jpg",
+    "render_sha256": "370d322c98bc4b88f5cfe54651fecc4b8ce985d879a3966b984ef405e31ee296",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "ستون چپ: maxillary sinus به semilunar hiatus درست پایین مرکز ethmoidal bulla باز می‌شود، دهانه نزدیک roof است. دو زیرنما A نمای تحتانی سوراخ‌های بینی با غضروف‌ها و خار قدامی، B عضلات nasalis و depressor septi nasi؛ این‌ها شکل خود ostium نیستند.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-628",
+    "pdf_page": 142,
+    "source_sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a",
+    "identifier_seen": "printed 1114",
+    "section_or_title_seen": "Regional anatomy → Oral cavity → Teeth and gingivae",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-628/142.jpg",
+    "render_sha256": "f7859b636693bc5312cd6d8c6a807361352493d78cf8f9c164a4c4c9fe75a7bf",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "ستون راست محل دندان در alveoli مکسلا بالا/مندیبل پایین، جذب استخوان آلوئولار پس از کشیدن دندان، دو دستهٔ شیری/دائمی و emergence دندان شیری از لثه بین ۶ ماه تا ۲ سال را می‌گوید. شروع جنینی تشکیل جوانه در این صفحه ذکر نشده؛ نبود دندان روییده مساوی نبود جوانه نیست. این صفحه شکل مستقل ندارد.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-628",
+    "pdf_page": 148,
+    "source_sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a",
+    "identifier_seen": "printed 1120 / Fig 8.278",
+    "section_or_title_seen": "Surface anatomy → Anatomical position of the head and major landmarks",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-628/148.jpg",
+    "render_sha256": "f0ad3c6277ee09f6f07b48fb9d2a567161771d5c71e10dae69c6a900ecb6b51b",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "متن حاشیهٔ تحتانی اربیت و حاشیهٔ فوقانی external acoustic meatus را هم‌صفحهٔ افقی می‌داند. در شکل خط فرانکفورت آبی از ناحیهٔ زیراربیتی تا ناحیهٔ مجراست؛ تراگوس/اینیون به عنوان دو نقطهٔ تعریف‌کنندهٔ صفحه معرفی نشده‌اند. عکس جانبی مرد همراه خطوط قلمروی V1/V2/V3 و C2/3؛ قلمروهای پوست با مرز استخوان‌ها یکی نیستند.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 95,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 867 / Fig 8.26",
+    "section_or_title_seen": "Regional anatomy → Cranial cavity → Middle cranial fossa",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/095.jpg",
+    "render_sha256": "c5b853d99c1678a964b14953403febc170a1e09d3037cf29489c503fa21087c2",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "عنوان و متن middle cranial fossa؛ از اسفنوئید و تمپورال، مرز خلفی با لبهٔ فوقانی پتروس و رابطهٔ لوب تمپورال در متن. دو زیرنما: جهت‌یاب کوچک قاعده و بزرگ‌نمایی فوسای میانی با کانال اپتیک، روتوندوم، اواله، اسپینوزوم و سوراخ لاسروم؛ هدف فعلی اثبات اصطلاح middle است، نه نهایی‌کردن تمام گذرگاه‌ها.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 82,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 30",
+    "section_or_title_seen": "Bones and Joints → Calvaria",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/082.jpg",
+    "render_sha256": "b5d88f165a2a73725ded8472ad8de94eb2aa441b06c8cfb11effbe6b3f4577c8",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "دو زیرنما واقعاً دیده شدند: سطح خارجی از بالا با درزهای کرونال/ساژیتال/لامبدوئید و bregma/lambda؛ سطح درونی سقف از پایین با frontal crest، شیار سینوس ساژیتال، شیار شاخه‌های MMA، فرورفتگی گرانولاسیون و Diploë در لبهٔ برش. این طرح ماکروسکوپی است نه لام بافتی.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Actually viewed page and described distinct subviews; not all image-registry entries or final placements closed."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 79,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 27",
+    "section_or_title_seen": "Bones and Joints → Skull: Lateral View",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/079.jpg",
+    "render_sha256": "f084ce0d66579e5449b3989f7d366384b9e3d8b4f067e0f5ea5d3886695eb56a",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "بالا جمجمهٔ طرفی با دو خط گیجگاهی، temporal fossa، پتریون/آستریون و مفصل/قوس گونه‌ای؛ پایین پس از برداشتن قوس گونه‌ای و مندیبل، ناحیهٔ اینفراتمپورال با posterior superior alveolar foramina، maxillary tuberosity و سطح خلف مکسلا. جهت‌یاب و نمای جراحی‌مانند دو نقش متفاوت دارند؛ خط‌چین دوم مرز ناحیه است نه مسیر عصب.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Actually viewed page and described distinct subviews; not all image-registry entries or final placements closed."
   }
 ]

@@ -43,9 +43,34 @@ class MasterPreflight(unittest.TestCase):
   self.assertTrue(any('unsupported exam frequency claim' in e for e in r['errors']))
  def test_images_and_pages_are_separate_units(self):
   rows=[json.loads(l) for l in (OUT/'vision_reviews.jsonl').read_text().splitlines()]
-  self.assertEqual(len(rows),11);self.assertEqual(len({r['image_id'] for r in rows}),11)
-  self.assertEqual(sum(len(r['analysis']['subpanels']) for r in rows),16)
+  self.assertGreaterEqual(len(rows),53);self.assertEqual(len({r['image_id'] for r in rows}),len(rows))
+  seed_ids={f'IMG-{n:06}' for n in [9266,9279,9280,9288,9289,9297,9301,9302,9303,9304,9305]}
+  self.assertEqual(sum(len(r['analysis']['subpanels']) for r in rows if r['image_id'] in seed_ids),16)
   self.assertTrue(all(r['analysis']['final_pdf_location'] is None for r in rows))
+  keyed={r['image_id']:r for r in rows}
+  self.assertEqual(keyed['IMG-009341']['analysis']['decision'],'KEEP_AS_REQUIRED_FIGURE_LEGEND')
+  self.assertEqual(keyed['IMG-009366']['analysis']['decision'],'HOLD_UNLABELLED_POINTER_TARGET')
+  self.assertTrue(any(p['status']=='PENDING_DETAIL' for p in keyed['IMG-009315']['analysis']['subpanels']))
+ def test_session_one_authoring_is_substantive_but_not_clearance(self):
+  additions=json.loads((OUT/'educational_additions.json').read_text())['topics']
+  self.assertTrue({f'hn01-T{i:02}' for i in range(1,18)}<=set(additions))
+  for tid,b in additions.items():
+   self.assertTrue(A.REQUIRED_B.issubset(b),tid)
+   self.assertTrue(b['comparison']['rows'],tid)
+   self.assertTrue(b['diagram']['edges'],tid)
+   nodes={r['id'] for r in b['diagram']['nodes']}
+   for edge in b['diagram']['edges']:self.assertTrue(set(edge)<=nodes,tid)
+   self.assertNotIn('CLEARED_AFTER_CONTENT_AND_FIGURE_REVIEW',b['status'])
+ def test_reconciliation_does_not_rewrite_or_bless_baseline(self):
+  d=json.loads((OUT/'source_reconciliation_hn01.json').read_text())
+  self.assertEqual(len(d['blocks']),75)
+  self.assertFalse(d['proposed_typographic_corrections'])
+  self.assertEqual(d['retracted_typographic_candidates'][0]['status'],'RETRACTED_AFTER_ACTUAL_SOURCE_CROP_REVIEW')
+  self.assertTrue(all(r['comparison']=='CONTENT_COMPARED_WITH_ORIGINAL_PAGE_IMAGES_NOT_VERBATIM_CERTIFIED' for r in d['blocks']))
+ def test_new_evidence_does_not_claim_birth_development_or_fourth_fossa(self):
+  issues={r['id']:r for r in json.loads((OUT/'scientific_issues.json').read_text())['issues']}
+  self.assertEqual(issues['C-011']['status'],'DIRECT_DEVELOPMENTAL_REFERENCE_STILL_NEEDED')
+  self.assertEqual(issues['C-010']['status'],'TERMINOLOGY_SCOPE_UNRESOLVED_LIMITATION_AUTHORED')
  def test_hard_palate_conflict_is_not_silently_corrected(self):
   r=next(r for r in json.loads((OUT/'scientific_issues.json').read_text())['issues'] if r['id']=='C-005')
   self.assertEqual(r['status'],'INTRA_REFERENCE_DISCREPANCY_DOCUMENTED_NOT_YET_INTEGRATED')
