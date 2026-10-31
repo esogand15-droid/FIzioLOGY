@@ -12,6 +12,7 @@ sys.path[:0]=[str(ROOT/'render'),str(Path(__file__).parent)]
 import pymupdf
 import build_hn01_updated_review as R
 import hn01_writer_copy as W
+import writer_handoff as WH
 K,H=R.K,R.H
 OUT=ROOT/'.cache/hn01_writer_original_layout'
 BAD=re.compile(r'IMG[-ـ]?\d+|SRC[-ـ]?\d+|hn\d\d[-–]T\d+|C-\d{3}|JSON|jason|BLOCKED|DOCUMENTED|NOT_YET|AUTHORED|INTEGRATED|PENDING|Arena|غیرنهایی|پیش‌نویس|رونویسی در حال مقابله|دروازهٔ نهایی',re.I)
@@ -261,10 +262,7 @@ def build(path,toc=None):
   stats['topics'][tid]['graph_page']=book.page;graph(book,b,geometry[tid])
   if handoff:
    book.note_box(28,title='یادداشت جزوه‌نویس')
-   book.h3('برگهٔ تحویل به مسئول جزوه')
-   book.label_card('چک‌لیست نگارش', [dict(label='پیش از تحویل',items=handoff['checklist'],tick=True)],accent=K.AMBER,tint=K.AMBER_BG)
-   question=handoff.get('question','').removeprefix('پرسش باز:').strip()
-   if question:book.para('پرسش تکمیلی برای نویسنده: '+clean(question))
+   WH.emit(book,1,i,card,handoff,W,clean)
  book.new_page();book.h1('جمع‌بندی، چک‌لیست و برگهٔ تحویل',anchor='hn-summary',kicker='پایان جلسه')
  book.para('هر ردیف یک مبحث است. اگر می‌توانید نکتهٔ آن را بدون نگاه به متن توضیح دهید، مربع کنار آن را علامت بزنید؛ سپس برگهٔ تحویل هر مبحث را تکمیل کنید. برای تحویل، متن درس، عنوان و منبع شکل‌ها و نام‌های فارسی و انگلیسی را مرور کنید.')
  rows=[]

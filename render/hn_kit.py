@@ -832,7 +832,7 @@ class PDFBook:
 
     def handoff_sheet(self, title: str, sources: str, checklist, question: str,
                       kicker: str = "این برگه را نویسندهٔ مبحث پر می‌کند",
-                      note: str = "", accent=AMBER, tint=AMBER_BG) -> None:
+                      note: str = "", accent=AMBER, tint=AMBER_BG, writer_name: bool = False) -> None:
         """The team's hand-off form: sources read, pre-delivery checks, one open point.
 
         It is one sheet (never split): the header, the source line, the tick list,
@@ -843,7 +843,8 @@ class PDFBook:
         body = TextStyle(size=9.4, leading=15.2, color=BODY, justify=False)
         lab = TextStyle(size=8.4, leading=12.6, color=accent, justify=False)
         rows: list[tuple[str, list[str], bool]] = []
-        rows.append(("منابعی که برای این مبحث خوانده شد",
+        rows.append((("منابع این مبحث (برای بررسی جزوه‌نویس)" if writer_name
+                      else "منابعی که برای این مبحث خوانده شد"),
                      self.wrap(sources, body.font, body.size, CONTENT_W - 46), False))
         for item in checklist:
             rows.append(("", self.wrap(item, body.font, body.size, CONTENT_W - 63), True))
@@ -853,7 +854,9 @@ class PDFBook:
         total = head_h + 8
         for label, lines, _ in rows:
             total += (15 if label else 0) + len(lines) * body.leading + 7
-        total += 20 + len(q_lines) * body.leading + len(note_lines) * lab.leading + 34
+        total += 20 + len(q_lines) * body.leading + len(note_lines) * lab.leading + 34 + (15 if writer_name else 0)
+        if writer_name and total > self.usable_height() - 12:
+            raise ValueError("Hand-off form too tall for a page")
         self.ensure(min(total, self.usable_height() - 12))
         c = self.c
         top = self.y
@@ -874,8 +877,8 @@ class PDFBook:
                 draw_shaped(c, A4W - M_RIGHT - 9, self.py(y + 10), shape(label), "VazirB",
                             8.4, accent, align="right")
                 y += 14
-            for line in lines:
-                if is_tick:
+            for line_index, line in enumerate(lines):
+                if is_tick and line_index == 0:
                     c.setStrokeColor(accent)
                     c.setLineWidth(0.9)
                     c.rect(M_LEFT + 9, self.py(y + 11.5), 8, 8, stroke=1, fill=0)
@@ -903,8 +906,15 @@ class PDFBook:
         c.line(M_LEFT + 9, self.py(y), A4W - M_RIGHT - 9, self.py(y))
         sig = TextStyle(size=8.0, leading=12, color=MUTED, justify=False)
         y += 5
-        self.draw_line("امضای نویسنده: …………………………    تاریخ: …………………………    شمارهٔ نسخه: ………………",
-                       y, sig, CONTENT_W - 18, A4W - M_RIGHT - 9, justify=False)
+        if writer_name:
+            self.draw_line("نام جزوه‌نویس: …………………………    امضای نویسنده: …………………………",
+                           y, sig, CONTENT_W - 18, A4W - M_RIGHT - 9, justify=False)
+            y += 15
+            self.draw_line("تاریخ: …………………………    شمارهٔ نسخه: ………………",
+                           y, sig, CONTENT_W - 18, A4W - M_RIGHT - 9, justify=False)
+        else:
+            self.draw_line("امضای نویسنده: …………………………    تاریخ: …………………………    شمارهٔ نسخه: ………………",
+                           y, sig, CONTENT_W - 18, A4W - M_RIGHT - 9, justify=False)
         self.y = top + total + 8
 
     def note_box(self, height_mm: float, title: str = "یادداشت عضو تیم",

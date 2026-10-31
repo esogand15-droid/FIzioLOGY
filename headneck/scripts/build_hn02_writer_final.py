@@ -7,6 +7,7 @@ sys.path[:0]=[str(ROOT/'render'),str(Path(__file__).parent)]
 import pymupdf
 import build_hn01_updated_review as R
 import hn02_writer_copy as W
+import writer_handoff as WH
 K,H=R.K,R.H
 OUT=ROOT/'.cache/hn02_writer_final'
 BAD=re.compile(r'IMG[-ـ]?\d+|SRC[-ـ]?\d+|hn\d\d[-–]T\d+|C-\d{3}|JSON|BLOCKED|NOT_YET|PENDING|INTEGRATED|غیرنهایی|پیش‌نویس|رونویسی در حال مقابله|بازبینی علمی',re.I)
@@ -119,10 +120,7 @@ def build(path,toc=None):
   if idx in W.PATHS:R.draw_graph(book,graphs[str(idx)],geometry[str(idx)],force_page=False)
   if handoff:
    book.note_box(24,title='یادداشت جزوه‌نویس')
-   book.h3('برگهٔ تحویل به مسئول جزوه')
-   book.label_card('چک‌لیست نگارش',[{'label':'پیش از تحویل','items':handoff['checklist'],'tick':True}],accent=K.AMBER,tint=K.AMBER_BG)
-   question=str(handoff.get('question','')).removeprefix('پرسش باز:').strip()
-   if question:book.para('پرسش تکمیلی برای نویسنده: '+clean(question))
+   WH.emit(book,2,idx,card,handoff,W,clean)
  book.new_page();book.h1('جمع‌بندی، چک‌لیست و برگهٔ تحویل',anchor='hn-summary',kicker='پایان جلسه')
  book.para('برای هر مبحث، توضیح را بدون نگاه به متن بازیابی کنید و مربع را علامت بزنید؛ سپس متن، عنوان شکل، منبع و نام‌های فارسی و انگلیسی را برای تحویل مرور کنید.')
  rows=[['مبحث '+K.fa_digits(str(i))+' — '+t['title'],(t.get('gist') or t['title']).rstrip(' .')+'؟','☐'] for i,t in enumerate(outline['topics'],1)]

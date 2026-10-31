@@ -246,3 +246,7 @@ The newest session-one writer deliverable is `pdf/HumsYar_HeadNeck_Jalase1_ORIGI
 ## Session 2 writer edition
 
 The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINAL.pdf` (110 pages; SHA-256 `29870a14d1769fa650030a354c98927fb5368f850cd386e4d64073283c149871`). Original 112-page mother input and 33-page lecture PDF remain intact. The structural checks, source-page-27 transcription correction, instructional additions, and visual-review limits are described in `headneck/reports/HN_S02_WRITER_FINAL_REPORT.md`. Session 3 is next when requested.
+
+## به‌روزرسانی برگه‌های تحویل جلسه‌های ۱ و ۲
+
+چک‌لیست اختصاصی و فرم کامل جزوه‌نویس برای همهٔ ۳۸ مبحث اضافه شد. جزئیات، هش و دامنهٔ کنترل‌ها در `headneck/reports/HN_S01_S02_HANDOFF_UPDATE.md` ثبت شده است. PDFهای نهایی در مسیرهای `pdf/HumsYar_HeadNeck_Jalase1_ORIGINAL_LAYOUT.pdf` و `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINAL.pdf` در Git قرار دارند.
