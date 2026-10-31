@@ -254,3 +254,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## جزوهٔ مادر جلسهٔ ۳ — نسخهٔ جزوه‌نویسی
 
 ۱۹ مبحث، رونوشت تاریخیِ درس، تصاویر و افزوده‌های موجود، دو نمودار رابطه‌ای و ۱۹ برگهٔ تحویل اختصاصی در `pdf/HumsYar_HeadNeck_Jalase3_WRITER_FINAL.pdf` ارائه شده‌اند. محدودهٔ کنترل، منشأ و هش‌ها در `headneck/reports/HN_S03_WRITER_UPDATE.md` ثبت شده است.
+
+## جزوهٔ مادر جلسهٔ ۴ — به‌روزرسانی جزوه‌نویسی
+
+۲۰ برگهٔ تحویل اختصاصی، دو نمودار رابطه‌ای و چک‌لیست نهایی با حفظ بلوک‌ها و تصاویر نسخهٔ قبلی در `pdf/HumsYar_HeadNeck_Jalase4_WRITER_FINAL.pdf` قرار دارند. محدودهٔ کنترل و هش‌ها در `headneck/reports/HN_S04_WRITER_UPDATE.md` ثبت شده است؛ PDF نهایی قبلی محفوظ است.
