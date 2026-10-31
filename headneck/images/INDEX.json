@@ -4990,6 +4990,384 @@
    "h": 720,
    "bytes": 257764,
    "path": "headneck/images/hn01_up_netter_palateroof.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_zygomatic",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 77,
+   "bbox": [
+    45,
+    75,
+    585,
+    525
+   ],
+   "note": "گونه در چارچوب جلویی جمجمه",
+   "w": 1080,
+   "h": 900,
+   "bytes": 254138,
+   "path": "headneck/images/hn02_up_netter_zygomatic.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_arch",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 79,
+   "bbox": [
+    50,
+    80,
+    590,
+    490
+   ],
+   "note": "قوس گونه‌ای و اجزای آن",
+   "w": 1080,
+   "h": 820,
+   "bytes": 274411,
+   "path": "headneck/images/hn02_up_netter_arch.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_face_vessels",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 76,
+   "bbox": [
+    45,
+    75,
+    585,
+    675
+   ],
+   "note": "رگ‌های سطحی صورت و گیجگاه",
+   "w": 1080,
+   "h": 1200,
+   "bytes": 437719,
+   "path": "headneck/images/hn02_up_netter_face_vessels.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_cranial_section",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 81,
+   "bbox": [
+    45,
+    80,
+    585,
+    486
+   ],
+   "note": "سطح درونی نیمهٔ جمجمه",
+   "w": 1080,
+   "h": 812,
+   "bytes": 281506,
+   "path": "headneck/images/hn02_up_netter_cranial_section.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_zygomatic_nerve",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 133,
+   "bbox": [
+    50,
+    80,
+    590,
+    735
+   ],
+   "note": "شاخه‌های عصبی استخوان گونه",
+   "w": 1080,
+   "h": 1310,
+   "bytes": 396643,
+   "path": "headneck/images/hn02_up_netter_zygomatic_nerve.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_mandible",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "bbox": [
+    60,
+    90,
+    570,
+    410
+   ],
+   "note": "جسم و شاخ مندیبل",
+   "w": 1020,
+   "h": 640,
+   "bytes": 136759,
+   "path": "headneck/images/hn02_up_netter_mandible.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_dental_arch",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 92,
+   "bbox": [
+    40,
+    430,
+    590,
+    720
+   ],
+   "note": "قوس دندان‌های دائمی",
+   "w": 1100,
+   "h": 580,
+   "bytes": 166163,
+   "path": "headneck/images/hn02_up_netter_dental_arch.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_dental_age",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 92,
+   "bbox": [
+    75,
+    80,
+    580,
+    425
+   ],
+   "note": "دندان‌های شیری و دائمی در فک",
+   "w": 1010,
+   "h": 690,
+   "bytes": 224380,
+   "path": "headneck/images/hn02_up_netter_dental_age.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_lateral_xray",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 80,
+   "bbox": [
+    50,
+    130,
+    585,
+    675
+   ],
+   "note": "رادیوگرافی طرفی جمجمه",
+   "w": 1070,
+   "h": 1090,
+   "bytes": 190315,
+   "path": "headneck/images/hn02_up_netter_lateral_xray.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_medial",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "bbox": [
+    65,
+    410,
+    540,
+    675
+   ],
+   "note": "سطح داخلی جسم مندیبل",
+   "w": 950,
+   "h": 530,
+   "bytes": 103934,
+   "path": "headneck/images/hn02_up_netter_medial.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_ramus",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "bbox": [
+    60,
+    90,
+    570,
+    410
+   ],
+   "note": "سوراخ مندیبل و زوائد شاخ",
+   "w": 1020,
+   "h": 640,
+   "bytes": 136759,
+   "path": "headneck/images/hn02_up_netter_ramus.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_age",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "bbox": [
+    355,
+    490,
+    560,
+    700
+   ],
+   "note": "مندیبل فرد بی‌دندان در نتر",
+   "w": 410,
+   "h": 420,
+   "bytes": 42394,
+   "path": "headneck/images/hn02_up_netter_age.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_facenerves",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 75,
+   "bbox": [
+    50,
+    70,
+    585,
+    490
+   ],
+   "note": "اعصاب حسی صورت",
+   "w": 1070,
+   "h": 840,
+   "bytes": 347426,
+   "path": "headneck/images/hn02_up_netter_facenerves.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_surface",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 74,
+   "bbox": [
+    60,
+    55,
+    580,
+    500
+   ],
+   "note": "نشانه‌های سطحی صورت",
+   "w": 1040,
+   "h": 890,
+   "bytes": 252174,
+   "path": "headneck/images/hn02_up_netter_surface.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_temporal",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 79,
+   "bbox": [
+    50,
+    80,
+    590,
+    490
+   ],
+   "note": "نمای طرفی: آهیانه و گیجگاهی",
+   "w": 1080,
+   "h": 820,
+   "bytes": 274411,
+   "path": "headneck/images/hn02_up_netter_temporal.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_opening",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 255,
+   "bbox": [
+    55,
+    90,
+    570,
+    710
+   ],
+   "note": "حرکت کندیل هنگام باز شدن دهان",
+   "w": 1030,
+   "h": 1240,
+   "bytes": 292863,
+   "path": "headneck/images/hn02_up_netter_opening.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_base",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 83,
+   "bbox": [
+    50,
+    180,
+    590,
+    620
+   ],
+   "note": "بخش تحتانی گیجگاهی و زوائد آن",
+   "w": 1080,
+   "h": 880,
+   "bytes": 335089,
+   "path": "headneck/images/hn02_up_netter_base.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_parietal",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "bbox": [
+    55,
+    75,
+    575,
+    390
+   ],
+   "note": "آهیانه و درزهای سقف جمجمه",
+   "w": 1040,
+   "h": 630,
+   "bytes": 116215,
+   "path": "headneck/images/hn02_up_netter_parietal.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_foveolae",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "bbox": [
+    55,
+    410,
+    575,
+    735
+   ],
+   "note": "سطح درونی کالواریا و گرانولاسیون‌ها",
+   "w": 1040,
+   "h": 650,
+   "bytes": 154059,
+   "path": "headneck/images/hn02_up_netter_foveolae.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_meninges",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 181,
+   "bbox": [
+    45,
+    65,
+    585,
+    342
+   ],
+   "note": "رابطهٔ گرانولاسیون، سینوس و استخوان",
+   "w": 1080,
+   "h": 554,
+   "bytes": 159984,
+   "path": "headneck/images/hn02_up_netter_meninges.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_fontanel_ct",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 246,
+   "bbox": [
+    60,
+    60,
+    590,
+    375
+   ],
+   "note": "جمجمهٔ کودک در بازسازی سه‌بعدی",
+   "w": 1060,
+   "h": 630,
+   "bytes": 156607,
+   "path": "headneck/images/hn02_up_netter_fontanel_ct.jpeg"
   }
  ]
 }

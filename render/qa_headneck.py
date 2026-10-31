@@ -313,7 +313,7 @@ def main() -> int:
     fig_re = re.compile(r"(Fig(?:ure)?\.?\s*\d+[-–.]\d+|شکل\s*[۰-۹]+[.\-–][۰-۹]+)")
     # Netter numbers its figures as plates (``Plate 25``); a Netter citation may
     # quote that number instead of a Fig. 8.x-style figure number.
-    plate_re = re.compile(r"(Plate|پلیت)\s*[۰-۹\d]+")
+    plate_re = re.compile(r"(?:Plate|پلیت)\s*(?:BP\s*)?[۰-۹\d]+", re.IGNORECASE)
     cite_ok = 0
     for tid, i, b in plates:
         cite = b.get("citation", "")

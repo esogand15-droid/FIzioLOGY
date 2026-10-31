@@ -77,7 +77,7 @@ HN_SESSIONS = {
         outcome="استخوان گونه با سه سطح و سه سوراخش، فک تحتانی با شاخ و لندمارک‌هایش، "
                 "شکستگی‌های شایع صورت، چهار بخش استخوان گیجگاهی با شکاف‌ها و زوائدش، و "
                 "استخوان آهیانه‌ای با درزها و چهار ملاج را بشناسید.",
-        intro_sources="نتر، سر و گردن (پلیت ۳۵، ۳۸، ۳۹ و ۴۲) · گری، فصل ۸ "
+        intro_sources="نتر، سر و گردن (از جمله پلیت‌های ۲۴، ۲۵، ۲۷ تا ۳۱، ۳۳، ۳۵، ۳۸ تا ۴۰، ۴۲، ۷۲، ۷۵، ۸۱، ۱۲۹، BP ۱۶ و BP ۲۵) · گری، فصل ۸ "
                       "(شکل‌های ۸.۱۸، ۸.۱۹، ۸.۲۱ و ۸.۲۴)",
         next_topics=["استخوان اسفنوئید و بال بزرگ و کوچک", "استخوان پالاتین و صفحهٔ عمودی آن",
                      "استخوان پس‌سری و بخش‌های قاعده‌ای", "سوراخ‌ها و مجاری قاعدهٔ جمجمه"],
@@ -621,7 +621,7 @@ def _block_height(book: PDFBook, b: dict | None) -> float:
 
 
 # ----------------------------------------------------------------- block render
-def render_blocks(book: PDFBook, blocks) -> None:
+def render_blocks(book: PDFBook, blocks, cfg: dict) -> None:
     for pos, b in enumerate(blocks):
         kind = b.get("type")
         after = _block_height(book, blocks[pos + 1] if pos + 1 < len(blocks) else None)
@@ -638,7 +638,9 @@ def render_blocks(book: PDFBook, blocks) -> None:
             book.source_line(b.get("src", ""))
             book.spacer(3)
         elif kind == "ol":
-            book.numbered(b["items"], keep_with=cite_room if b.get("src") else 0)
+            book.numbered(b.get("display_items", b["items"]),
+                          start=b.get("display_start", 1),
+                          keep_with=cite_room if b.get("src") else 0)
             book.source_line(b.get("src", ""))
             book.spacer(3)
         elif kind == "h3":
@@ -657,6 +659,14 @@ def render_blocks(book: PDFBook, blocks) -> None:
             # them into the last available space on a nearly full page.
             if b.get("min_img_h"):
                 book.ensure(b["min_img_h"] * MM + 130)
+            # In session 2, reference plates contain many small labels.  Do not
+            # squeeze them into the remaining space below another large figure.
+            elif cfg["n"] == 2 and b.get("asset", "").endswith(
+                ("hn02_netter_p35.jpeg", "hn02_netter_p38.jpeg", "hn02_netter_p39.jpeg", "hn02_netter_p42.jpeg")
+            ):
+                book.ensure(120 * MM + 220)
+            elif cfg["n"] == 2 and b.get("book") == "netter" and b.get("max_h", 132) >= 100:
+                book.ensure(85 * MM + 210)
             # a tall, narrow figure would be shrunk into whatever room is left
             # and become unreadable; such plates declare ``fresh`` and start a
             # page of their own so the figure keeps its full size.
@@ -667,7 +677,9 @@ def render_blocks(book: PDFBook, blocks) -> None:
                 b["title"], b["citation"], b.get("en_caption", ""),
                 b.get("fa_text", ""), labels=[tuple(x) for x in b.get("labels", [])],
                 view=b.get("view", ""), src=b.get("src", ""),
-                max_h=(b.get("max_h", 132)) * MM, en_body=b.get("en_body", ""),
+                max_h=(132 if cfg["n"] == 2 and b.get("asset", "").endswith(
+                    ("hn02_netter_p35.jpeg", "hn02_netter_p38.jpeg", "hn02_netter_p39.jpeg", "hn02_netter_p42.jpeg")
+                ) else b.get("max_h", 132)) * MM, en_body=b.get("en_body", ""),
             )
         elif kind == "path":
             book.path_steps(b["steps"], title=b.get("title", "مسیر گام‌به‌گام"))
@@ -838,7 +850,7 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
         blocks = with_notes(content.get(t["topic_id"], []), i)
         topic_head(book, t, i, len(outline["topics"]),
                    after=_block_height(book, blocks[0] if blocks else None))
-        render_blocks(book, blocks)
+        render_blocks(book, blocks, cfg)
 
     summary(book, content, outline, cfg)
     next_steps(book, cfg)
