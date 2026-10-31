@@ -1,0 +1,12 @@
+{
+  "verified_at_utc": "2026-10-31T13:43:39.251778+00:00",
+  "repository": "esogand15-droid/FIzioLOGY",
+  "branch": "arena/3260a120-fiziology",
+  "pdf_commit": "e5a7dfd767e50f7dd8d18cd11ea568748d42ef34",
+  "download_api": "repos/esogand15-droid/FIzioLOGY/contents/pdf/HumsYar_HeadNeck_Jalase4_FINAL.pdf?ref=arena%2F3260a120-fiziology",
+  "download_bytes": 10093139,
+  "local_sha256": "85e6c0b234f14592d399f234039138d15eee870fdc2e4f22cece234c7e72714b",
+  "download_sha256": "85e6c0b234f14592d399f234039138d15eee870fdc2e4f22cece234c7e72714b",
+  "binary_comparison": "IDENTICAL",
+  "pdf_immutable_url": "https://github.com/esogand15-droid/FIzioLOGY/raw/e5a7dfd767e50f7dd8d18cd11ea568748d42ef34/pdf/HumsYar_HeadNeck_Jalase4_FINAL.pdf"
+}

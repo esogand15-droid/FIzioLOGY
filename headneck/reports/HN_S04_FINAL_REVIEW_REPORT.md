@@ -130,3 +130,12 @@ python -m unittest discover -s headneck/tests -v
 ```
 
 اجرای build ممکن است PDF تازه با metadata/hash تازه بسازد؛ `--force` را برای بازنویسی آگاهانه به کار ببرید. **بعد از هر تغییر PDF، شواهد تصویری و ثبت مشاهده باید برای SHA تازه از نو انجام شود**؛ بازتولید ماشینی، حق انتقال ثبت دستی این فایل را نمی‌دهد. فایل‌های REVIEW/پایه را برای این کار بازنویسی نکنید.
+
+## ۸. انتشار و کنترل دانلود GitHub
+
+PDF و گزارش‌ها در commit `e5a7dfd767e50f7dd8d18cd11ea568748d42ef34` روی شاخهٔ `arena/3260a120-fiziology` منتشر شدند. PDF با GitHub API دوباره دانلود شد و `cmp` و SHA-256، برابری بایت‌به‌بایت ۱۰٬۰۹۳٬۱۳۹ بایت را تأیید کردند. SHA همان اثرانگشت بالای این گزارش است؛ پس از بازبینی تصویری، PDF تغییر نکرد.
+
+- [PDF با پیوند ثابت به commit انتشار](https://github.com/esogand15-droid/FIzioLOGY/raw/e5a7dfd767e50f7dd8d18cd11ea568748d42ef34/pdf/HumsYar_HeadNeck_Jalase4_FINAL.pdf)
+- [ثبت کنترل دانلود](hn04_final_evidence/github_delivery.json)
+
+تغییر ثبتیِ بعد از این commit فقط گزارش/هندآف تحویل را تکمیل می‌کند و محتوای PDF را تغییر نمی‌دهد.
