@@ -36,6 +36,7 @@ import pypdfium2 as pdfium
 
 REPO = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO / "render"))
+from hn_updates import apply_update
 
 CONTENT_DIR = REPO / "headneck" / "content"
 ASSET_INDEX = REPO / "headneck" / "images" / "INDEX.json"
@@ -181,6 +182,7 @@ def main() -> int:
     for fname in cfg["content"]:
         for topic in json.loads((CONTENT_DIR / fname).read_text(encoding="utf-8")):
             content[topic["topic_id"]] = topic["blocks"]
+    content = apply_update(session, content)
 
     problems: list[str] = []
     warnings: list[str] = []

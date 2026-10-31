@@ -28,6 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import hn_kit as K
 from hn_kit import MM, PDFBook, TextStyle
+from hn_updates import apply_update
 
 REPO = Path(__file__).resolve().parents[1]
 CONTENT = REPO / "headneck" / "content"
@@ -49,12 +50,13 @@ HN_SESSIONS = {
         pages_label="صفحه‌های ۱–۲۲",
         outline="hn01_topics.json",
         content=("hn01_a.json", "hn01_b.json"),
+        measure_idcard=True,
         anchor="hn-01",
         pdf_name="HumsYar_HeadNeck_Jalase1.pdf",
         outcome="جمجمه را از پنج نما ببینید، ۸ استخوان کاسهٔ سر و ۱۴ استخوان صورت "
                 "را دسته‌بندی کنید، و بخش‌های استخوان پیشانی، استخوان بینی و فک "
                 "فوقانی را با سینوس آن بشناسید.",
-        intro_sources="نتر، پلیت‌های ۲۵، ۲۶، ۲۷، ۳۰، ۳۲ و ۳۷ · گری، شکل‌های ۸.۱۸، ۸.۱۹، ۸.۲۱ و ۸.۷۳",
+        intro_sources="نتر، پلیت‌های ۸، ۲۵–۲۷، ۳۰–۳۲، ۳۵–۳۷، ۵۹، ۶۲–۶۳، ۶۷–۶۸، ۸۵، ۱۱۱ و ۱۲۷ · گری، شکل‌های ۸.۱۸، ۸.۱۹، ۸.۲۱ و ۸.۷۳",
         next_topics=["استخوان‌های گونه‌ای و اشکی", "شکل کامل فک فوقانی و کام",
                      "استخوان آهیانه و گیجگاهی", "نما‌های قاعدهٔ جمجمه"],
     ),
@@ -337,7 +339,7 @@ def cover_page(book: PDFBook, cfg: dict) -> None:
         ("متن اصلی: جزوهٔ درس · توضیح تکمیلی با ارجاع جداگانه" if cfg['n'] in (1, 2) else
          "متن: جزوهٔ درس + گری، آناتومی برای دانشجویان، ویراست ۳"),
         "تصویر: نتر، اطلس آناتومی انسان، ویراست ۸ · گری، آناتومی برای دانشجویان، ویراست ۳",
-        "نسخهٔ ۰٫۱ — پیش‌نویس ویرایشی",
+        ("نسخهٔ آموزشی به‌روزشده برای جزوه‌نویسان" if cfg['n'] == 1 else "نسخهٔ ۰٫۱ — پیش‌نویس ویرایشی"),
     ]
     yy = K.A4H * 0.375
     for t in lines:
@@ -346,7 +348,7 @@ def cover_page(book: PDFBook, cfg: dict) -> None:
     c.setFont("VazirL", 8.4)
     c.setFillColor(K.HexColor("#64748b"))
     c.drawCentredString(K.A4W / 2, K.A4H * 0.12,
-                        K.shape("سند کاری درس آناتومی سر و گردن — پیش‌نویس ویرایشی"))
+                        K.shape("سند کاری درس آناتومی سر و گردن — نسخهٔ آموزشی" if cfg['n'] == 1 else "سند کاری درس آناتومی سر و گردن — پیش‌نویس ویرایشی"))
 
 
 def divider(book: PDFBook, kicker: str, title: str, subtitle: str, bullets=()) -> None:
@@ -609,7 +611,7 @@ def _block_height(book: PDFBook, b: dict | None) -> float:
         # is never left behind at the foot of a page; session 1 keeps its
         # approved pagination
         if getattr(book, "measure_idcard", False):
-            return book.card_height(b.get("rows", []), b.get("footer", "")) + 4
+            return book.card_height(b.get("rows", []), footer=b.get("footer", "")) + 4
         return 150
     if kind == "handoff":
         return 170
@@ -804,6 +806,7 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
         for topic in load_json(CONTENT / fname):
             content[topic["topic_id"]] = topic["blocks"]
 
+    content = apply_update(SESSION, content)
     plates = [b for blocks in content.values() for b in blocks if b.get("type") == "plate"]
     stats = {
         "plates": len(plates),

@@ -4756,6 +4756,240 @@
    "h": 880,
    "bytes": 189310,
    "path": "headneck/images/hn06_grays_prevertebral.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_skeleton",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 45,
+   "bbox": [
+    55,
+    70,
+    585,
+    735
+   ],
+   "note": "اسکلت محوری و ضمیمه در یک نما",
+   "w": 1060,
+   "h": 1330,
+   "bytes": 299307,
+   "path": "headneck/images/hn01_up_netter_skeleton.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_diploe",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 179,
+   "bbox": [
+    55,
+    92,
+    585,
+    435
+   ],
+   "note": "لایه‌های سقف جمجمه در برش",
+   "w": 1060,
+   "h": 686,
+   "bytes": 249821,
+   "path": "headneck/images/hn01_up_netter_diploe.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_hyoid",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 88,
+   "bbox": [
+    105,
+    70,
+    600,
+    738
+   ],
+   "note": "استخوان لامی در چارچوب استخوانی گردن",
+   "w": 990,
+   "h": 1336,
+   "bytes": 408384,
+   "path": "headneck/images/hn01_up_netter_hyoid.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_palatebase",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 83,
+   "bbox": [
+    45,
+    70,
+    590,
+    370
+   ],
+   "note": "کام سخت در نمای تحتانی قاعده",
+   "w": 1090,
+   "h": 600,
+   "bytes": 206907,
+   "path": "headneck/images/hn01_up_netter_palatebase.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_orbit",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 77,
+   "bbox": [
+    50,
+    495,
+    590,
+    748
+   ],
+   "note": "دیواره‌ها و سقف کاسهٔ چشم",
+   "w": 1080,
+   "h": 506,
+   "bytes": 143864,
+   "path": "headneck/images/hn01_up_netter_orbit.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_nose",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 111,
+   "bbox": [
+    65,
+    65,
+    570,
+    410
+   ],
+   "note": "چارچوب استخوانی و غضروفی بینی",
+   "w": 1010,
+   "h": 690,
+   "bytes": 141452,
+   "path": "headneck/images/hn01_up_netter_nose.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_maxmedial",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 114,
+   "bbox": [
+    55,
+    75,
+    590,
+    420
+   ],
+   "note": "دیوارهٔ جانبی حفرهٔ بینی و ماگزیلا",
+   "w": 1070,
+   "h": 690,
+   "bytes": 213359,
+   "path": "headneck/images/hn01_up_netter_maxmedial.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_lacrimal",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 163,
+   "bbox": [
+    55,
+    65,
+    590,
+    695
+   ],
+   "note": "دستگاه اشکی و مسیر تخلیه",
+   "w": 1070,
+   "h": 1260,
+   "bytes": 326286,
+   "path": "headneck/images/hn01_up_netter_lacrimal.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_sinus",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 119,
+   "bbox": [
+    55,
+    380,
+    585,
+    723
+   ],
+   "note": "سینوس فکی، ریشه‌های دندان و دهانه",
+   "w": 1060,
+   "h": 686,
+   "bytes": 133547,
+   "path": "headneck/images/hn01_up_netter_sinus.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_sinus_age",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 120,
+   "bbox": [
+    55,
+    475,
+    575,
+    735
+   ],
+   "note": "رشد سینوس‌ها با افزایش سن",
+   "w": 1040,
+   "h": 520,
+   "bytes": 79604,
+   "path": "headneck/images/hn01_up_netter_sinus_age.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_newborn",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 87,
+   "bbox": [
+    60,
+    70,
+    585,
+    690
+   ],
+   "note": "جمجمهٔ نوزاد و درز پیشانی",
+   "w": 1050,
+   "h": 1240,
+   "bytes": 305822,
+   "path": "headneck/images/hn01_up_netter_newborn.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_septum",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 115,
+   "bbox": [
+    55,
+    428,
+    590,
+    720
+   ],
+   "note": "تیغهٔ بینی، خار و کام استخوانی",
+   "w": 1070,
+   "h": 584,
+   "bytes": 183617,
+   "path": "headneck/images/hn01_up_netter_septum.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_palateroof",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 137,
+   "bbox": [
+    50,
+    70,
+    590,
+    430
+   ],
+   "note": "سقف دهان و کام سخت",
+   "w": 1080,
+   "h": 720,
+   "bytes": 257764,
+   "path": "headneck/images/hn01_up_netter_palateroof.jpeg"
   }
  ]
 }
