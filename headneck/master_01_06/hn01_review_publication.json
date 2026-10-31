@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "kind": "SESSION_ONE_USER_REQUESTED_NON_FINAL_REVIEW",
+  "publication_state": "PREPARED_FOR_GIT_PUBLICATION",
+  "branch": "arena/3260a120-fiziology",
+  "build": {
+    "topics": 17,
+    "baseline_blocks": 187,
+    "new_graphs": 17,
+    "extra_reference_figures": 10,
+    "topic_pages": {
+      "hn01-T01": 4,
+      "hn01-T02": 11,
+      "hn01-T03": 18,
+      "hn01-T04": 27,
+      "hn01-T05": 40,
+      "hn01-T06": 53,
+      "hn01-T07": 62,
+      "hn01-T08": 70,
+      "hn01-T09": 77,
+      "hn01-T10": 86,
+      "hn01-T11": 94,
+      "hn01-T12": 104,
+      "hn01-T13": 111,
+      "hn01-T14": 119,
+      "hn01-T15": 128,
+      "hn01-T16": 140,
+      "hn01-T17": 151
+    },
+    "graph_pages": {
+      "hn01-T01": 9,
+      "hn01-T02": 15,
+      "hn01-T03": 25,
+      "hn01-T04": 37,
+      "hn01-T05": 51,
+      "hn01-T06": 59,
+      "hn01-T07": 68,
+      "hn01-T08": 75,
+      "hn01-T09": 83,
+      "hn01-T10": 92,
+      "hn01-T11": 102,
+      "hn01-T12": 109,
+      "hn01-T13": 116,
+      "hn01-T14": 125,
+      "hn01-T15": 136,
+      "hn01-T16": 147,
+      "hn01-T17": 157
+    },
+    "figure_pages": [
+      {
+        "topic": "hn01-T02",
+        "page": 16,
+        "source_label": "SRC-648",
+        "pdf_page": 82,
+        "plate": 30
+      },
+      {
+        "topic": "hn01-T04",
+        "page": 38,
+        "source_label": "SRC-648",
+        "pdf_page": 84,
+        "plate": 32
+      },
+      {
+        "topic": "hn01-T06",
+        "page": 60,
+        "source_label": "SRC-648",
+        "pdf_page": 77,
+        "plate": 25
+      },
+      {
+        "topic": "hn01-T09",
+        "page": 84,
+        "source_label": "SRC-648",
+        "pdf_page": 79,
+        "plate": 27
+      },
+      {
+        "topic": "hn01-T13",
+        "page": 117,
+        "source_label": "SRC-648",
+        "pdf_page": 163,
+        "plate": 111
+      },
+      {
+        "topic": "hn01-T14",
+        "page": 126,
+        "source_label": "SRC-648",
+        "pdf_page": 81,
+        "plate": 29
+      },
+      {
+        "topic": "hn01-T15",
+        "page": 137,
+        "source_label": "SRC-648",
+        "pdf_page": 113,
+        "plate": 61
+      },
+      {
+        "topic": "hn01-T15",
+        "page": 138,
+        "source_label": "SRC-648",
+        "pdf_page": 114,
+        "plate": 62
+      },
+      {
+        "topic": "hn01-T16",
+        "page": 148,
+        "source_label": "SRC-648",
+        "pdf_page": 92,
+        "plate": 40
+      },
+      {
+        "topic": "hn01-T16",
+        "page": 149,
+        "source_label": "SRC-648",
+        "pdf_page": 78,
+        "plate": 26
+      }
+    ],
+    "pages": 159,
+    "empty_pages": [],
+    "file": ".cache/master_01_06/publication/HumsYar_HeadNeck_Jalase1_UPDATED_REVIEW.pdf",
+    "sha256": "c7b92b33784dc95e403cc86d3996d82e9430732e64c4644be9ceac482a201834",
+    "bytes": 11243812,
+    "status": "NON_FINAL_REVIEW_FOR_USER_INSPECTION",
+    "all_pages_visually_reviewed": false,
+    "scientific_clearance": false,
+    "master_final_gate_overridden": false,
+    "source_inputs_sha256": {
+      "educational_additions.json": "948d17c0c5975226240941a182fa92f35e7eb2e3459f3c57c341ae67f5a01eeb",
+      "scientific_issues.json": "d62d58cacb5cb4a1f54afb490e4396afdd1427270f3640913735a7c5ce032900",
+      "historical_sources.json": "d09152b5442b887c6dbf5ec5c1c5b6960af2441905a5cc1d853791ef53a90afe",
+      "restored_assets.json": "3437ad530b646988490498773c0c1f8c58ce44a891315d51b16f1f2f92cc3a8d"
+    }
+  },
+  "mechanical_checks": {
+    "pdf_sha256": "c7b92b33784dc95e403cc86d3996d82e9430732e64c4644be9ceac482a201834",
+    "pages": 159,
+    "all_pages_rendered": true,
+    "render_scale": 1.25,
+    "render_jpeg_quality": 88,
+    "pymupdf": "2.0",
+    "outside_page_spans": [],
+    "body_near_footer": [],
+    "bookmarks": 17,
+    "toc_bookmark_pages_match": true,
+    "all_pages_visually_reviewed": false
+  },
+  "visual_review": {
+    "pdf_sha256": "c7b92b33784dc95e403cc86d3996d82e9430732e64c4644be9ceac482a201834",
+    "all_pages_reviewed": false,
+    "scope": "THIRTEEN_PAGE_SAMPLE_NOT_FULL_VISUAL_QA_OR_SCIENTIFIC_CLEARANCE",
+    "pages": [
+      {
+        "page": 1,
+        "render_sha256": "1049ea94d3c3697fccc82aadad9a2f174a918ddd4f9e72243fc3aa43e8db94e6"
+      },
+      {
+        "page": 2,
+        "render_sha256": "57ac92b4f5a3eb8d0ed82a505d684ec54c2fc5207bb83af1deef593cc05f2e80"
+      },
+      {
+        "page": 3,
+        "render_sha256": "9faf86ee202ab52731487d3ed7e2f5b3ba06e2a3893190fd2f3ebaaa55853b58"
+      },
+      {
+        "page": 9,
+        "render_sha256": "79e9490b551ecb2ae507bd393eaa7fe621a78d1a4ba378ac9b7056c894665a65"
+      },
+      {
+        "page": 25,
+        "render_sha256": "9c6f3315be95a4844670ebfbc2b028fd9ea212b893f7aab94ba1d7c4df747f90"
+      },
+      {
+        "page": 37,
+        "render_sha256": "91f475c6d89dd062cebf059c2e9ebe1078b6c9a52be28f56c080c8b5e76e82db"
+      },
+      {
+        "page": 61,
+        "render_sha256": "8391e7e01668f24a0e420a0ab6394f108b9a98c539eb253f3cdd062932cc718c"
+      },
+      {
+        "page": 116,
+        "render_sha256": "44a1c96e90da41c93c8f824f84f8b22e3b31605a4374be786e4e8bd049fde89a"
+      },
+      {
+        "page": 117,
+        "render_sha256": "9c0ade003933b1eb54ed74d276acc530f2b18c6a856a39da3d9b942d1d47020e"
+      },
+      {
+        "page": 138,
+        "render_sha256": "68f72aaf41ea38176662ccaae1cbdf3f78891527a54c8be70f55ff4453f69665"
+      },
+      {
+        "page": 148,
+        "render_sha256": "ca02534784e3e2313109573f3ed860bf2d840e782f546104538610abf330c515"
+      },
+      {
+        "page": 157,
+        "render_sha256": "07082c7380cb93de06144b460a0a4b5303dba48ee7a4f4c20470d0a0184cb6ca"
+      },
+      {
+        "page": 159,
+        "render_sha256": "3e6ee6fbeef559a5df03ffbd892fbc2ebf777c4bb307179e7d3020d98e36bfde"
+      }
+    ]
+  },
+  "github_download_verification": null,
+  "master_final_gate_unchanged": true,
+  "cleared_topics": 0,
+  "report": "headneck/reports/HN_S01_UPDATED_REVIEW_REPORT.md",
+  "published_path": "pdf/HumsYar_HeadNeck_Jalase1_UPDATED_REVIEW.pdf",
+  "publication_method": "Git branch file; direct Release asset upload failed with EOF; empty draft deleted",
+  "local_storage": "PDF in ignored cache and Git object/index; skip-worktree avoids another large working-tree artifact"
+}
