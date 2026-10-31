@@ -1,0 +1,855 @@
+{
+  "pdf": "pdf/HumsYar_HeadNeck_Jalase4_REVIEW.pdf",
+  "sha256": "84c261bdcb88acb0835cfba0b70ec46bc674a5c95ce5a49cb72c9fe750846eb1",
+  "reviewed_final_hash_pages": [
+    1,
+    3,
+    8,
+    16,
+    45,
+    58,
+    64,
+    94,
+    95,
+    102,
+    104,
+    105
+  ],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/001.jpg",
+      "render_sha256": "dc17be3cffd87fd00ec2a8ec5987b73a2334cd98b027e9225f11d001064be270"
+    },
+    {
+      "pdf_page": 2,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 3,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/003.jpg",
+      "render_sha256": "06e99af1c222ee35a8b4799c729f8ac2e1eac705b30f5de2c6dac9c1accc24f0"
+    },
+    {
+      "pdf_page": 4,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 5,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 6,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 7,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 8,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/008.jpg",
+      "render_sha256": "bfcfa9c1d2bbb4357aad16b33e538763d6c8d417eafaedcfd56a69d75e1c1f0a"
+    },
+    {
+      "pdf_page": 9,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 10,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 11,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 12,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 13,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 14,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 15,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 16,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/016.jpg",
+      "render_sha256": "1c553bd482b612d99e2e8de8a794a412c417c5eac2ff6a7d33ad8b4a8feaef20"
+    },
+    {
+      "pdf_page": 17,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 18,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 19,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 20,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 21,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 22,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 23,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 24,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 25,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 26,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 27,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 28,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 29,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 30,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 31,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 32,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 33,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 34,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 35,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 36,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 37,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 38,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 39,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 40,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 41,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 42,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 43,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 44,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 45,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/045.jpg",
+      "render_sha256": "a492c74244b7e8a6955874d38ea342c62bafb2d2afd00fd7b81c76fd015ab26d"
+    },
+    {
+      "pdf_page": 46,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 47,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 48,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 49,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 50,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 51,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 52,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 53,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 54,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 55,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 56,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 57,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 58,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/058.jpg",
+      "render_sha256": "582aacfd461a5161a2c64197af33324bb9ec744c261e15fe7560de03177b266a"
+    },
+    {
+      "pdf_page": 59,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 60,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 61,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 62,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 63,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 64,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/064.jpg",
+      "render_sha256": "f24db3aadbd47f7c5ab634149c8f5470df9481d688e8c4996e3f0ded577fa6cc"
+    },
+    {
+      "pdf_page": 65,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 66,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 67,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 68,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 69,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 70,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 71,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 72,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 73,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 74,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 75,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 76,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 77,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 78,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 79,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 80,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 81,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 82,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 83,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 84,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 85,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 86,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 87,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 88,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 89,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 90,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 91,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 92,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 93,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 94,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/094.jpg",
+      "render_sha256": "470b5a6839d101a07436f355b88e1a1a6e4a02f37b99e8c7558eb9dab2b37a8a"
+    },
+    {
+      "pdf_page": 95,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/095.jpg",
+      "render_sha256": "aa613b25c6a9038e29ba15b0aecaed7941d4fce2ad5f84b0057572f7fb559067"
+    },
+    {
+      "pdf_page": 96,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 97,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 98,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 99,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 100,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 101,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 102,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/102.jpg",
+      "render_sha256": "36322a9dabed4bd451b29173efc904a949a0ba20b4bb5c42dd51901c152b2ee7"
+    },
+    {
+      "pdf_page": 103,
+      "preliminary_visual_status": "NOT_STARTED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Not manually viewed for this PDF hash.",
+      "evidence": null
+    },
+    {
+      "pdf_page": 104,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/104.jpg",
+      "render_sha256": "c8d063a4c4ee0c073f570796056b004ec645f17dadc17ca46a7eb5c3df6d829f"
+    },
+    {
+      "pdf_page": 105,
+      "preliminary_visual_status": "VERIFIED",
+      "final_comprehensive_visual_status": "NOT_STARTED",
+      "scope": "Initial page layout only; not word-by-word/source/scientific approval.",
+      "evidence": "headneck/reports/hn04_audit_evidence/layout_84c261bdcb88/105.jpg",
+      "render_sha256": "a4633ea74180689b9f85b64fca9ff7c240ca0aa027dd25aa7c1fe6326faaa0a8"
+    }
+  ],
+  "source_targeted_review": [
+    {
+      "part": 1,
+      "pdf_page": 4,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    },
+    {
+      "part": 1,
+      "pdf_page": 7,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    },
+    {
+      "part": 1,
+      "pdf_page": 16,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    },
+    {
+      "part": 1,
+      "pdf_page": 17,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    },
+    {
+      "part": 1,
+      "pdf_page": 22,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    },
+    {
+      "part": 1,
+      "pdf_page": 24,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    },
+    {
+      "part": 2,
+      "pdf_page": 8,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    },
+    {
+      "part": 2,
+      "pdf_page": 11,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    },
+    {
+      "part": 2,
+      "pdf_page": 12,
+      "status": "IN_PROGRESS",
+      "scope": "Targeted statements and diagrams only; not an independent full-page word-by-word comparison."
+    }
+  ],
+  "new_reference_frames": [
+    {
+      "asset_id": "hn04_grays_f825",
+      "source_pdf_page": 93,
+      "status": "VERIFIED",
+      "scope": "Selected crop, source identity, and relation to caption checked visually; not a complete atlas audit."
+    },
+    {
+      "asset_id": "hn04_grays_f826",
+      "source_pdf_page": 95,
+      "status": "VERIFIED",
+      "scope": "Selected crop, source identity, and relation to caption checked visually; not a complete atlas audit."
+    },
+    {
+      "asset_id": "hn04_netter_p30_superior",
+      "source_pdf_page": 82,
+      "status": "VERIFIED",
+      "scope": "Selected crop, source identity, and relation to caption checked visually; not a complete atlas audit."
+    },
+    {
+      "asset_id": "hn04_netter_p31_inferior",
+      "source_pdf_page": 83,
+      "status": "VERIFIED",
+      "scope": "Selected crop, source identity, and relation to caption checked visually; not a complete atlas audit."
+    }
+  ],
+  "incomplete": [
+    "93 output pages have not been manually viewed at this hash.",
+    "Full independent original-to-transcription-to-output comparison remains unfinished.",
+    "All lecture subfigures and all potentially relevant atlas figures have not been independently inventoried.",
+    "No specialist scientific or clinical sign-off."
+  ]
+}

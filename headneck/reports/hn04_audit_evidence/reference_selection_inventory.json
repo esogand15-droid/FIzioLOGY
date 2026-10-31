@@ -1,0 +1,187 @@
+{
+  "status": "IN_PROGRESS",
+  "scope": "Netter PDF 81–86 and Gray PDF 88–97 only; not comprehensive across the books.",
+  "records": [
+    {
+      "book": "netter",
+      "source_pdf_page": 81,
+      "plate": 29,
+      "figure": null,
+      "subfigure": "median section",
+      "decision": "NOT_ADDED",
+      "reason": "Relevant orientation, but no new duplicate needed beside existing lecture sections.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 81,
+      "plate": 29,
+      "figure": null,
+      "subfigure": "lateral nasal wall",
+      "decision": "SELECTED_BASE",
+      "reason": "Base T02 already includes this subfigure.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 82,
+      "plate": 30,
+      "figure": null,
+      "subfigure": "superior view",
+      "decision": "SELECTED_NEW",
+      "reason": "T19: sutural Wormian bone visibly labelled.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 82,
+      "plate": 30,
+      "figure": null,
+      "subfigure": "inferior view",
+      "decision": "NOT_ADDED",
+      "reason": "Roof detail not required for this base-oriented update; fragment excluded from selected upper crop.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 83,
+      "plate": 31,
+      "figure": null,
+      "subfigure": "inferior cranial base",
+      "decision": "SELECTED_NEW",
+      "reason": "T10: spatial location of petrous part and carotid/jugular openings.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 84,
+      "plate": 32,
+      "figure": null,
+      "subfigure": "superior cranial base",
+      "decision": "SELECTED_BASE",
+      "reason": "T12: boundaries of three cranial fossae.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 85,
+      "plate": 33,
+      "figure": null,
+      "subfigure": "inferior foramina",
+      "decision": "SELECTED_BASE_REGIONAL_CROP",
+      "reason": "Regional crop used in T17 and T18; not the complete atlas panel.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 86,
+      "plate": 34,
+      "figure": null,
+      "subfigure": "superior foramina",
+      "decision": "SELECTED_BASE_REGIONAL_CROP",
+      "reason": "Middle-fossa region in T14; full plate also used to check foramina names.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 88,
+      "plate": null,
+      "figure": "8.21",
+      "subfigure": "superior skull",
+      "decision": "SELECTED_BASE",
+      "reason": "T19: major sutures; no Wormian label claimed for this figure.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 89,
+      "plate": null,
+      "figure": "8.22",
+      "subfigure": "calvarial layers",
+      "decision": "NOT_ADDED",
+      "reason": "Diploe and scalp layers are outside this focused update.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 90,
+      "plate": null,
+      "figure": "8.23",
+      "subfigure": "inferior skull",
+      "decision": "SELECTED_BASE",
+      "reason": "T16: hard palate and inferior landmarks.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 92,
+      "plate": null,
+      "figure": "8.24",
+      "subfigure": "internal cranial roof",
+      "decision": "NOT_ADDED",
+      "reason": "Roof rather than the anterior cranial fossa; wrong trial crop was rejected.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 93,
+      "plate": null,
+      "figure": "8.25",
+      "subfigure": "main fossa illustration",
+      "decision": "SELECTED_NEW",
+      "reason": "T13/T14: complete named fossa illustration, not a full book page.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 93,
+      "plate": null,
+      "figure": "8.25",
+      "subfigure": "small locator inset",
+      "decision": "SELECTED_NEW",
+      "reason": "Independent localisation inset retained with the main drawing.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 95,
+      "plate": null,
+      "figure": "8.26",
+      "subfigure": "main fossa illustration",
+      "decision": "SELECTED_NEW",
+      "reason": "T13/T14: complete named fossa illustration, not a full book page.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 95,
+      "plate": null,
+      "figure": "8.26",
+      "subfigure": "small locator inset",
+      "decision": "SELECTED_NEW",
+      "reason": "Independent localisation inset retained with the main drawing.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 97,
+      "plate": null,
+      "figure": "8.27",
+      "subfigure": "main posterior-fossa illustration",
+      "decision": "SELECTED_BASE",
+      "reason": "T01: orientation; original base crop retained.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    },
+    {
+      "book": "grays",
+      "source_pdf_page": 97,
+      "plate": null,
+      "figure": "8.27",
+      "subfigure": "small locator inset",
+      "decision": "SELECTED_BASE",
+      "reason": "Inset within the original base asset.",
+      "review_scope": "Page preview and selection, not independent validation of every label."
+    }
+  ],
+  "remaining": "Lecture source subfigure inventory and book-wide search remain incomplete."
+}

@@ -1,0 +1,5626 @@
+{
+ "assets": [
+  {
+   "asset_id": "hn01_grays_p855",
+   "book": "grays",
+   "session": "hn01",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 83,
+   "note": "نمای قدامی جمجمه",
+   "bbox": [
+    54.0,
+    316.0,
+    570.0,
+    756.0
+   ],
+   "w": 1434,
+   "h": 1223,
+   "px": 1753782,
+   "bytes": 212006,
+   "path": "headneck/images/hn01_grays_p855.jpeg"
+  },
+  {
+   "asset_id": "hn01_grays_p857",
+   "book": "grays",
+   "session": "hn01",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 85,
+   "note": "نمای طرفی جمجمه",
+   "bbox": [
+    32.0,
+    214.0,
+    594.0,
+    716.0
+   ],
+   "w": 1562,
+   "h": 1395,
+   "px": 2178990,
+   "bytes": 256365,
+   "path": "headneck/images/hn01_grays_p857.jpeg"
+  },
+  {
+   "asset_id": "hn01_grays_p860",
+   "book": "grays",
+   "session": "hn01",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 88,
+   "note": "گری ص ۸۶۰، نمای فوقانی جمجمه؛ متن بریدهٔ مجاور حذف شده است",
+   "bbox": [
+    112.0,
+    390.0,
+    548.0,
+    728.0
+   ],
+   "w": 1213,
+   "h": 940,
+   "px": 1140220,
+   "bytes": 163621,
+   "path": "headneck/images/hn01_grays_p860.jpeg"
+  },
+  {
+   "asset_id": "hn01_grays_p927",
+   "book": "grays",
+   "session": "hn01",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 155,
+   "note": "استخوان‌های کاسهٔ چشم؛ صفحهٔ کاسه‌چشمی پیشانی و سوراخ‌های پرویزنی",
+   "bbox": [
+    306.0,
+    54.0,
+    560.0,
+    344.0
+   ],
+   "w": 706,
+   "h": 806,
+   "px": 569036,
+   "bytes": 94578,
+   "path": "headneck/images/hn01_grays_p927.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p03_append",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "note": "تصویر اصلی xref 102، بدون متن مجاور",
+   "bbox": [
+    43.24079895019531,
+    484.9556884765625,
+    215.56080627441406,
+    717.2756958007812
+   ],
+   "w": 359,
+   "h": 484,
+   "px": 173756,
+   "bytes": 40165,
+   "path": "headneck/images/hn01_lec_p03_append.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p03_axial",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "note": "جزوهٔ درس، ص ۳ — اسکلت محوری با رنگ تیره",
+   "bbox": [
+    68.0,
+    161.0,
+    209.0,
+    398.0
+   ],
+   "w": 393,
+   "h": 659,
+   "px": 258987,
+   "bytes": 28154,
+   "path": "headneck/images/hn01_lec_p03_axial.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p04_skull",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "note": "جزءهٔ درس، ص ۴ — عکس جمجمه از نمای قدامی",
+   "bbox": [
+    49.0,
+    99.0,
+    239.0,
+    335.0
+   ],
+   "w": 528,
+   "h": 656,
+   "px": 346368,
+   "bytes": 43821,
+   "path": "headneck/images/hn01_lec_p04_skull.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p04_vault",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "note": "جزوهٔ درس، ص ۴ — استخوان‌های کاسهٔ سر با رنگ",
+   "bbox": [
+    56.0,
+    606.0,
+    256.0,
+    751.0
+   ],
+   "w": 557,
+   "h": 404,
+   "px": 225028,
+   "bytes": 27609,
+   "path": "headneck/images/hn01_lec_p04_vault.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p05_facial",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "note": "تصویر اصلی xref 148، بدون متن مجاور",
+   "bbox": [
+    39.7848014831543,
+    202.73388671875,
+    262.0248107910156,
+    459.05389404296875
+   ],
+   "w": 463,
+   "h": 534,
+   "px": 247242,
+   "bytes": 71316,
+   "path": "headneck/images/hn01_lec_p05_facial.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p05_hyoid",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "note": "بخشی از تصویر اصلی xref 145، ص ۵؛ نماهای تکراری جدا شده‌اند",
+   "bbox": [
+    80.2,
+    498.4,
+    209.8,
+    651.0
+   ],
+   "w": 270,
+   "h": 318,
+   "px": 85860,
+   "bytes": 15676,
+   "path": "headneck/images/hn01_lec_p05_hyoid.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p05_hyoidneck",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "note": "بخشی از تصویر اصلی xref 145، ص ۵؛ نماهای تکراری جدا شده‌اند",
+   "bbox": [
+    224.2,
+    498.4,
+    368.2,
+    651.0
+   ],
+   "w": 300,
+   "h": 318,
+   "px": 95400,
+   "bytes": 23371,
+   "path": "headneck/images/hn01_lec_p05_hyoidneck.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p06_craniofacial",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 6,
+   "note": "جزوهٔ درس، ص ۶ — اسکلت جمجمه و اسکلت صورت",
+   "bbox": [
+    219.0,
+    259.0,
+    410.0,
+    405.0
+   ],
+   "w": 531,
+   "h": 406,
+   "px": 215586,
+   "bytes": 24996,
+   "path": "headneck/images/hn01_lec_p06_craniofacial.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p06_flow",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 6,
+   "note": "جزوهٔ درس، ص ۶ — نمودار سه تقسیم‌بندی جمجمه",
+   "bbox": [
+    47.0,
+    535.0,
+    310.0,
+    707.0
+   ],
+   "w": 732,
+   "h": 478,
+   "px": 349896,
+   "bytes": 30090,
+   "path": "headneck/images/hn01_lec_p06_flow.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p06_neuroviscero",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 6,
+   "note": "جزوهٔ درس، ص ۶ — نوروکرانیوم و ویسروکرانیوم",
+   "bbox": [
+    58.0,
+    356.0,
+    218.0,
+    471.0
+   ],
+   "w": 445,
+   "h": 321,
+   "px": 142845,
+   "bytes": 11846,
+   "path": "headneck/images/hn01_lec_p06_neuroviscero.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p06_roofbase",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 6,
+   "note": "تصویر اصلی xref 161، بدون هم‌پوشانی شکل مجاور",
+   "bbox": [
+    59.35070037841797,
+    94.59100341796875,
+    252.31069946289062,
+    350.4309997558594
+   ],
+   "w": 402,
+   "h": 533,
+   "px": 214266,
+   "bytes": 62747,
+   "path": "headneck/images/hn01_lec_p06_roofbase.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p07_acoustic",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "note": "تصویر اصلی xref 187، بدون تکهٔ تصویر مجاور",
+   "bbox": [
+    48.41120147705078,
+    240.53219604492188,
+    203.45120239257812,
+    361.9721984863281
+   ],
+   "w": 323,
+   "h": 253,
+   "px": 81719,
+   "bytes": 29355,
+   "path": "headneck/images/hn01_lec_p07_acoustic.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p07_cavities",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "note": "تصویر اصلی xref 183، بدون تکهٔ شکل مجاور",
+   "bbox": [
+    190.92359924316406,
+    242.8179931640625,
+    367.0836181640625,
+    444.4179992675781
+   ],
+   "w": 367,
+   "h": 420,
+   "px": 154140,
+   "bytes": 60644,
+   "path": "headneck/images/hn01_lec_p07_cavities.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p07_fossae",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "note": "جزوهٔ درس، ص ۷ — سه حفرهٔ کرانیال با سه رنگ",
+   "bbox": [
+    34.0,
+    47.0,
+    272.0,
+    184.0
+   ],
+   "w": 662,
+   "h": 382,
+   "px": 252884,
+   "bytes": 43401,
+   "path": "headneck/images/hn01_lec_p07_fossae.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p07_frankfurt",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "note": "تصویر اصلی xref 182، بدون متن و حاشیهٔ صفحه",
+   "bbox": [
+    30.151599884033203,
+    489.0103759765625,
+    222.15159606933594,
+    610.4503784179688
+   ],
+   "w": 400,
+   "h": 253,
+   "px": 101200,
+   "bytes": 37587,
+   "path": "headneck/images/hn01_lec_p07_frankfurt.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p07_views",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "note": "جزوهٔ درس، ص ۷ — پنج نمای جمجمه",
+   "bbox": [
+    62.0,
+    602.0,
+    318.0,
+    760.0
+   ],
+   "w": 712,
+   "h": 440,
+   "px": 313280,
+   "bytes": 38431,
+   "path": "headneck/images/hn01_lec_p07_views.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p08_norma",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 8,
+   "note": "تصویر اصلی xref 198؛ برچسب کناری در خود جزوه ناقص است",
+   "bbox": [
+    44.81909942626953,
+    32.6007080078125,
+    288.6590881347656,
+    288.4407043457031
+   ],
+   "w": 508,
+   "h": 533,
+   "px": 270764,
+   "bytes": 81672,
+   "path": "headneck/images/hn01_lec_p08_norma.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p09_frontal",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "note": "جزوهٔ درس، ص ۹ — برجستگی‌های صدف پیشانی",
+   "bbox": [
+    46.0,
+    32.0,
+    567.0,
+    270.0
+   ],
+   "w": 1448,
+   "h": 662,
+   "px": 958576,
+   "bytes": 108272,
+   "path": "headneck/images/hn01_lec_p09_frontal.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p10_orbital",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 10,
+   "note": "ترکیب جداگانهٔ عکس xref 241 و راهنمای اصلی شماره‌ها xref 242 در صفحهٔ ۱۰",
+   "bbox": [
+    29,
+    153,
+    394,
+    333
+   ],
+   "w": 767,
+   "h": 375,
+   "px": 287625,
+   "bytes": 97474,
+   "path": "headneck/images/hn01_lec_p10_orbital.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p11_nasalpart",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "note": "جزوهٔ درس، ص ۱۱ — بخش بینی پیشانی و درزهای نازیون (Grant 2017)",
+   "bbox": [
+    68.0,
+    305.0,
+    329.0,
+    590.0
+   ],
+   "w": 726,
+   "h": 792,
+   "px": 574992,
+   "bytes": 73497,
+   "path": "headneck/images/hn01_lec_p11_nasalpart.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p12_nasalcavity",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 12,
+   "note": "تصویر اصلی xref 267، بدون متن مجاور",
+   "bbox": [
+    72.0,
+    412.5,
+    325.5,
+    640.5
+   ],
+   "w": 507,
+   "h": 456,
+   "px": 231192,
+   "bytes": 31895,
+   "path": "headneck/images/hn01_lec_p12_nasalcavity.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p13_facial",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "note": "تصویر اصلی xref 294، بدون حاشیهٔ صفحه",
+   "bbox": [
+    32.5,
+    467.7559814453125,
+    298.3999938964844,
+    719.2559814453125
+   ],
+   "w": 793,
+   "h": 750,
+   "px": 594750,
+   "bytes": 114094,
+   "path": "headneck/images/hn01_lec_p13_facial.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p13_nasal",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "note": "جزوهٔ درس، ص ۱۳ — استخوان بینی: نمای قدامی و خلفی",
+   "bbox": [
+    66.0,
+    92.0,
+    350.0,
+    320.0
+   ],
+   "w": 790,
+   "h": 634,
+   "px": 500860,
+   "bytes": 25370,
+   "path": "headneck/images/hn01_lec_p13_nasal.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p13_orbital",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "note": "جزوهٔ درس، ص ۱۳ — سطح فوقانی (کاسهٔ چشمی) فک فوقانی",
+   "bbox": [
+    300.0,
+    473.0,
+    543.0,
+    708.0
+   ],
+   "w": 676,
+   "h": 654,
+   "px": 442104,
+   "bytes": 42607,
+   "path": "headneck/images/hn01_lec_p13_orbital.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p14_key",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "note": "جزوهٔ درس، ص ۱۴ — راهنمای شماره‌های ماگزیلا و استخوان بینی",
+   "bbox": [
+    214.0,
+    642.0,
+    383.0,
+    723.0
+   ],
+   "w": 470,
+   "h": 226,
+   "px": 106220,
+   "bytes": 19770,
+   "path": "headneck/images/hn01_lec_p14_key.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p14_photo",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "note": "جزوهٔ درس، ص ۱۴ — سوراخ زیر کاسه‌چشمی روی جمجمهٔ خشک",
+   "bbox": [
+    36.0,
+    537.0,
+    215.0,
+    670.0
+   ],
+   "w": 498,
+   "h": 371,
+   "px": 184758,
+   "bytes": 37772,
+   "path": "headneck/images/hn01_lec_p14_photo.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p14_rohen",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "note": "جزوهٔ درس، ص ۱۴ — ماگزیلا با شماره‌گذاری (Rohen)",
+   "bbox": [
+    388.0,
+    537.0,
+    544.0,
+    720.0
+   ],
+   "w": 435,
+   "h": 509,
+   "px": 221415,
+   "bytes": 43210,
+   "path": "headneck/images/hn01_lec_p14_rohen.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p15_eye",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "note": "تصویر اصلی xref 315، بدون تکهٔ شکل مجاور",
+   "bbox": [
+    234.0,
+    552.4500122070312,
+    372.0,
+    682.9500122070312
+   ],
+   "w": 276,
+   "h": 261,
+   "px": 72036,
+   "bytes": 22322,
+   "path": "headneck/images/hn01_lec_p15_eye.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p15_maxilla",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "note": "برش محصور شکل صفحهٔ ۱۵ با حفظ برچسب و خط راهنمای روی‌هم‌گذاری‌شده",
+   "bbox": [
+    29.0,
+    126.0,
+    243.0,
+    341.0
+   ],
+   "w": 596,
+   "h": 598,
+   "px": 356408,
+   "bytes": 96548,
+   "path": "headneck/images/hn01_lec_p15_maxilla.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p15_sac",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "note": "تصویر اصلی xref 316، بدون تکهٔ شکل مجاور",
+   "bbox": [
+    372.0,
+    542.9500122070312,
+    539.5,
+    682.9500122070312
+   ],
+   "w": 513,
+   "h": 429,
+   "px": 220077,
+   "bytes": 56021,
+   "path": "headneck/images/hn01_lec_p15_sac.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p16_cleft",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "note": "جزوهٔ درس، ص ۱۶ — شکاف کام در نوزاد",
+   "bbox": [
+    68.0,
+    490.0,
+    238.0,
+    626.0
+   ],
+   "w": 474,
+   "h": 378,
+   "px": 179172,
+   "bytes": 22923,
+   "path": "headneck/images/hn01_lec_p16_cleft.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p16_crest",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "note": "جزوهٔ درس، ص ۱۶ — تیغهٔ بینی و خار بینی قدامی",
+   "bbox": [
+    68.0,
+    347.0,
+    264.0,
+    445.0
+   ],
+   "w": 546,
+   "h": 274,
+   "px": 149604,
+   "bytes": 18852,
+   "path": "headneck/images/hn01_lec_p16_crest.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p16_palate",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "note": "تصویر اصلی xref 328، بدون حاشیهٔ صفحه",
+   "bbox": [
+    37.099998474121094,
+    71.99996948242188,
+    204.54998779296875,
+    209.0999755859375
+   ],
+   "w": 513,
+   "h": 418,
+   "px": 214434,
+   "bytes": 51214,
+   "path": "headneck/images/hn01_lec_p16_palate.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p17_sinus",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "note": "جزوهٔ درس، ص ۱۷ — سینوس فک فوقانی در جسم ماگزیلا",
+   "bbox": [
+    212.0,
+    62.0,
+    550.0,
+    278.0
+   ],
+   "w": 940,
+   "h": 601,
+   "px": 564940,
+   "bytes": 73627,
+   "path": "headneck/images/hn01_lec_p17_sinus.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p18_hiatus",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "note": "تصویر اصلی xref 357، بدون حاشیهٔ صفحه",
+   "bbox": [
+    30.350000381469727,
+    72.00001525878906,
+    389.8500061035156,
+    271.95001220703125
+   ],
+   "w": 1097,
+   "h": 612,
+   "px": 671364,
+   "bytes": 136901,
+   "path": "headneck/images/hn01_lec_p18_hiatus.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p18_skulls",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "note": "جزوهٔ درس، ص ۱۸ — جمجمه در نوزاد، کودک و بالغ",
+   "bbox": [
+    68.0,
+    534.0,
+    404.0,
+    723.0
+   ],
+   "w": 935,
+   "h": 526,
+   "px": 491810,
+   "bytes": 76277,
+   "path": "headneck/images/hn01_lec_p18_skulls.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p19_xray",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "note": "جزوهٔ درس، ص ۱۹ — رادیوگرافی جمجمه و چهار ساختار",
+   "bbox": [
+    60.0,
+    240.0,
+    545.0,
+    621.0
+   ],
+   "w": 1348,
+   "h": 1059,
+   "px": 1427532,
+   "bytes": 116196,
+   "path": "headneck/images/hn01_lec_p19_xray.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p20_split",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "note": "جزوهٔ درس، ص ۲۰ — کارت تقسیم‌بندی استخوان‌های جمجمه",
+   "bbox": [
+    204.0,
+    232.0,
+    601.0,
+    424.0
+   ],
+   "w": 1104,
+   "h": 534,
+   "px": 589536,
+   "bytes": 97664,
+   "path": "headneck/images/hn01_lec_p20_split.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p21_gold",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 21,
+   "note": "جزوهٔ درس، ص ۲۱ — کادر جمع‌بندی طلایی پایان جزوه",
+   "bbox": [
+    2.0,
+    533.0,
+    614.0,
+    676.0
+   ],
+   "w": 1695,
+   "h": 398,
+   "px": 674610,
+   "bytes": 125646,
+   "path": "headneck/images/hn01_lec_p21_gold.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p22_section",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 22,
+   "note": "جزوهٔ درس، ص ۲۲ — برش پیشانی سر",
+   "bbox": [
+    0.0,
+    396.0,
+    568.0,
+    791.0
+   ],
+   "w": 1578,
+   "h": 1098,
+   "px": 1732644,
+   "bytes": 337375,
+   "path": "headneck/images/hn01_lec_p22_section.jpeg"
+  },
+  {
+   "asset_id": "hn01_netter_p25",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 77,
+   "note": "نمای قدامی جمجمه با برچسب‌های نتر",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 509875,
+   "path": "headneck/images/hn01_netter_p25.jpeg",
+   "plate": 25
+  },
+  {
+   "asset_id": "hn01_netter_p26",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 78,
+   "note": "رادیوگرافی جمجمه: کاسهٔ چشم و سینوس‌ها",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 292141,
+   "path": "headneck/images/hn01_netter_p26.jpeg",
+   "plate": 26
+  },
+  {
+   "asset_id": "hn01_netter_p27",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 79,
+   "note": "نمای طرفی جمجمه؛ خطوط گیجگاهی و زائدهٔ گونه‌ای",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 547336,
+   "path": "headneck/images/hn01_netter_p27.jpeg",
+   "plate": 27
+  },
+  {
+   "asset_id": "hn01_netter_p30",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "note": "کالواریا: نمای فوقانی و سطح داخلی",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 371993,
+   "path": "headneck/images/hn01_netter_p30.jpeg",
+   "plate": 30
+  },
+  {
+   "asset_id": "hn01_netter_p32",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 84,
+   "note": "قاعدهٔ جمجمه از بالا: سه حفرهٔ کرانیال",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 605267,
+   "path": "headneck/images/hn01_netter_p32.jpeg",
+   "plate": 32
+  },
+  {
+   "asset_id": "hn01_netter_p37",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 89,
+   "note": "اسکلت بینی و سینوس‌های اطراف بینی",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 376732,
+   "path": "headneck/images/hn01_netter_p37.jpeg",
+   "plate": 37
+  },
+  {
+   "asset_id": "hn02_grays_p857",
+   "book": "grays",
+   "session": "hn02",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 85,
+   "note": "گری، شکل ۸.۱۹ — نمای طرفی جمجمه",
+   "bbox": [
+    40.0,
+    215.0,
+    560.0,
+    715.0
+   ],
+   "w": 1445,
+   "h": 1390,
+   "px": 2008550,
+   "bytes": 252319,
+   "path": "headneck/images/hn02_grays_p857.jpeg"
+  },
+  {
+   "asset_id": "hn02_grays_p860",
+   "book": "grays",
+   "session": "hn02",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 88,
+   "note": "گری، شکل ۸.۲۱ — کالواریا از نمای فوقانی",
+   "bbox": [
+    95.0,
+    390.0,
+    510.0,
+    735.0
+   ],
+   "w": 1154,
+   "h": 959,
+   "px": 1106686,
+   "bytes": 89330,
+   "path": "headneck/images/hn02_grays_p860.jpeg"
+  },
+  {
+   "asset_id": "hn02_grays_p864",
+   "book": "grays",
+   "session": "hn02",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 92,
+   "note": "گری، شکل ۸.۲۴ — سقف حفرهٔ کرانیال از درون",
+   "bbox": [
+    60.0,
+    340.0,
+    612.0,
+    725.0
+   ],
+   "w": 1534,
+   "h": 1070,
+   "px": 1641380,
+   "bytes": 146521,
+   "path": "headneck/images/hn02_grays_p864.jpeg"
+  },
+  {
+   "asset_id": "hn02_grays_p870",
+   "book": "grays",
+   "session": "hn02",
+   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 98,
+   "note": "گری، شکل ۸.۲۸ — سوراخ‌های قاعدهٔ جمجمه",
+   "bbox": [
+    40.0,
+    60.0,
+    470.0,
+    715.0
+   ],
+   "w": 1195,
+   "h": 1821,
+   "px": 2176095,
+   "bytes": 404984,
+   "path": "headneck/images/hn02_grays_p870.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p03_zygo",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "note": "جزوهٔ درس، ص ۳ — استخوان گونهٔ رنگی در نمای طرفی",
+   "bbox": [
+    66.0,
+    332.0,
+    220.0,
+    554.0
+   ],
+   "w": 429,
+   "h": 617,
+   "px": 264693,
+   "bytes": 54463,
+   "path": "headneck/images/hn02_lec_p03_zygo.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p04_arch",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "note": "جزوهٔ درس، ص ۴ — قوس گونه‌ای و کناره‌هایش",
+   "bbox": [
+    35.0,
+    520.0,
+    224.0,
+    651.0
+   ],
+   "w": 526,
+   "h": 365,
+   "px": 191990,
+   "bytes": 33642,
+   "path": "headneck/images/hn02_lec_p04_arch.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p04_lat",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "note": "جزوهٔ درس، ص ۴ — زائدهٔ پیشانی و درز پیشانی‌گونه‌ای",
+   "bbox": [
+    66.0,
+    66.0,
+    262.0,
+    225.0
+   ],
+   "w": 545,
+   "h": 442,
+   "px": 240890,
+   "bytes": 40983,
+   "path": "headneck/images/hn02_lec_p04_lat.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p04_whitnall",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "note": "جزوهٔ درس، ص ۴ — تکمهٔ ویتنال در کاسهٔ چشم",
+   "bbox": [
+    45.0,
+    353.0,
+    170.0,
+    518.0
+   ],
+   "w": 348,
+   "h": 459,
+   "px": 159732,
+   "bytes": 16655,
+   "path": "headneck/images/hn02_lec_p04_whitnall.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p05_foramina",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "note": "جزوهٔ درس، ص ۵ — سه سوراخ استخوان گونه روی سه نما",
+   "bbox": [
+    114.0,
+    218.0,
+    546.0,
+    456.0
+   ],
+   "w": 1201,
+   "h": 662,
+   "px": 795062,
+   "bytes": 184694,
+   "path": "headneck/images/hn02_lec_p05_foramina.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p06_blackeye",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 6,
+   "note": "جزوهٔ درس، ص ۶ — چشم کبود و مسیر عصب سوپرااوربیتال",
+   "bbox": [
+    35.0,
+    116.0,
+    328.0,
+    317.0
+   ],
+   "w": 815,
+   "h": 559,
+   "px": 455585,
+   "bytes": 63235,
+   "path": "headneck/images/hn02_lec_p06_blackeye.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p07_mandible",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "note": "جزوهٔ درس، ص ۷ — استخوان مندیبل از دو نما",
+   "bbox": [
+    78.0,
+    113.0,
+    547.0,
+    353.0
+   ],
+   "w": 1304,
+   "h": 668,
+   "px": 871072,
+   "bytes": 114306,
+   "path": "headneck/images/hn02_lec_p07_mandible.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p08_outer",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 8,
+   "note": "جزوهٔ درس، ص ۸ — سطح بیرونی جسم و راموس مندیبل (Grant)",
+   "bbox": [
+    16.9,
+    176.3,
+    242.6,
+    368.8
+   ],
+   "w": 612,
+   "h": 551,
+   "px": 337212,
+   "bytes": 58975,
+   "path": "headneck/images/hn02_lec_p08_outer.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p08_xray",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 8,
+   "note": "جزوهٔ درس، ص ۸ — رادیوگرافی مندیبل: کانال و حفره‌های دندانی",
+   "bbox": [
+    28.0,
+    485.0,
+    267.0,
+    629.0
+   ],
+   "w": 665,
+   "h": 401,
+   "px": 266665,
+   "bytes": 42208,
+   "path": "headneck/images/hn02_lec_p08_xray.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p09_angle",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "note": "جزوهٔ درس، ص ۹ — زاویهٔ مندیبل و شیوع شکستگی",
+   "bbox": [
+    66.0,
+    412.0,
+    258.0,
+    584.0
+   ],
+   "w": 534,
+   "h": 479,
+   "px": 255786,
+   "bytes": 23956,
+   "path": "headneck/images/hn02_lec_p09_angle.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p11_medial",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "note": "جزوهٔ درس، ص ۱۱ — سطح داخلی جسم و راموس مندیبل",
+   "bbox": [
+    78.0,
+    66.0,
+    526.0,
+    353.0
+   ],
+   "w": 1246,
+   "h": 798,
+   "px": 994308,
+   "bytes": 127490,
+   "path": "headneck/images/hn02_lec_p11_medial.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p13_age",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "note": "جزوهٔ درس، ص ۱۳ — مندیبل در سه مرحلهٔ سنی",
+   "bbox": [
+    93.0,
+    413.0,
+    543.0,
+    621.0
+   ],
+   "w": 1251,
+   "h": 578,
+   "px": 723078,
+   "bytes": 43893,
+   "path": "headneck/images/hn02_lec_p13_age.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p14_prognathism",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "note": "جزوهٔ درس، ص ۱۴ — پروگناتیزم در مندیبل بی‌دندان",
+   "bbox": [
+    45.0,
+    516.0,
+    240.0,
+    635.0
+   ],
+   "w": 542,
+   "h": 331,
+   "px": 179402,
+   "bytes": 11532,
+   "path": "headneck/images/hn02_lec_p14_prognathism.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p15_mental",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "note": "جزوهٔ درس، ص ۱۵ — جای سوراخ منتال (گری)",
+   "bbox": [
+    67.0,
+    90.0,
+    583.0,
+    383.0
+   ],
+   "w": 1434,
+   "h": 814,
+   "px": 1167276,
+   "bytes": 84591,
+   "path": "headneck/images/hn02_lec_p15_mental.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p15_xray",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "note": "جزوهٔ درس، ص ۱۵ — سوراخ منتال در رادیوگرافی",
+   "bbox": [
+    118.0,
+    426.0,
+    480.0,
+    664.0
+   ],
+   "w": 1007,
+   "h": 662,
+   "px": 666634,
+   "bytes": 49449,
+   "path": "headneck/images/hn02_lec_p15_xray.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p16_foramina",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "note": "جزوهٔ درس، ص ۱۶ — سوراخ‌های نمای قدامی و آنچه از آن‌ها می‌گذرد",
+   "bbox": [
+    65.0,
+    66.0,
+    545.0,
+    345.0
+   ],
+   "w": 1334,
+   "h": 776,
+   "px": 1035184,
+   "bytes": 127275,
+   "path": "headneck/images/hn02_lec_p16_foramina.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p17_surface",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "note": "جزوهٔ درس، ص ۱۷ — آناتومی سطحی صورت (گری)",
+   "bbox": [
+    122.0,
+    82.0,
+    464.0,
+    319.0
+   ],
+   "w": 951,
+   "h": 660,
+   "px": 627660,
+   "bytes": 70781,
+   "path": "headneck/images/hn02_lec_p17_surface.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p18_norma",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "note": "جزوهٔ درس، ص ۱۸ — نمای طرفی رنگی: استخوان‌های دیده‌شده",
+   "bbox": [
+    32.0,
+    40.0,
+    214.0,
+    204.0
+   ],
+   "w": 507,
+   "h": 456,
+   "px": 231192,
+   "bytes": 41170,
+   "path": "headneck/images/hn02_lec_p18_norma.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p19_tempbone",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "note": "جزوهٔ درس، ص ۱۹ — چهار بخش استخوان گیجگاهی",
+   "bbox": [
+    74.0,
+    74.0,
+    585.0,
+    261.0
+   ],
+   "w": 1420,
+   "h": 520,
+   "px": 738400,
+   "bytes": 66434,
+   "path": "headneck/images/hn02_lec_p19_tempbone.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p20_tmj",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "note": "تصویر اصلی جزوه، ص 20، xref 178؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    39.75,
+    574.0800170898438,
+    293.6000061035156,
+    714.8300170898438
+   ],
+   "w": 776,
+   "h": 430,
+   "px": 333680,
+   "bytes": 73148,
+   "path": "headneck/images/hn02_lec_p20_tmj.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p21_base",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 21,
+   "note": "جزوهٔ درس، ص ۲۱ — مفصل گیجگاهی‌مندیبلی از نمای تحتانی",
+   "bbox": [
+    66.0,
+    482.0,
+    546.0,
+    719.0
+   ],
+   "w": 1334,
+   "h": 660,
+   "px": 880440,
+   "bytes": 116404,
+   "path": "headneck/images/hn02_lec_p21_base.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p22_deep",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 22,
+   "note": "تصویر اصلی جزوه، ص 22، xref 188؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    21.450000762939453,
+    537.3980102539062,
+    296.1500244140625,
+    762.7880249023438
+   ],
+   "w": 840,
+   "h": 690,
+   "px": 579600,
+   "bytes": 179567,
+   "path": "headneck/images/hn02_lec_p22_deep.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p22_infratemp",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 22,
+   "note": "تصویر اصلی جزوه، ص 22، xref 187؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    12.75,
+    125.97998046875,
+    363.25,
+    323.3299865722656
+   ],
+   "w": 1070,
+   "h": 603,
+   "px": 645210,
+   "bytes": 163632,
+   "path": "headneck/images/hn02_lec_p22_infratemp.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p23_suprameatal",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 23,
+   "note": "تصویر اصلی جزوه، ص 23، xref 193؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    342.8500061035156,
+    374.6099853515625,
+    566.7000122070312,
+    614.75
+   ],
+   "w": 684,
+   "h": 734,
+   "px": 502056,
+   "bytes": 83045,
+   "path": "headneck/images/hn02_lec_p23_suprameatal.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p23_tempbone",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 23,
+   "note": "تصویر اصلی جزوه، ص 23، xref 192؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    29.799999237060547,
+    71.99996948242188,
+    293.0,
+    241.0999755859375
+   ],
+   "w": 716,
+   "h": 460,
+   "px": 329360,
+   "bytes": 79466,
+   "path": "headneck/images/hn02_lec_p23_tempbone.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p24_petrous",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 24,
+   "note": "جزوهٔ درس، ص ۲۴ — بخش خاره‌ای از دو نما",
+   "bbox": [
+    66.0,
+    451.0,
+    546.0,
+    689.0
+   ],
+   "w": 1334,
+   "h": 662,
+   "px": 883108,
+   "bytes": 58352,
+   "path": "headneck/images/hn02_lec_p24_petrous.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p25_styloid",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 25,
+   "note": "جزوهٔ درس، ص ۲۵ — استخوان آهیانه از نمای فوقانی و طرفی",
+   "bbox": [
+    31.0,
+    508.0,
+    329.0,
+    691.0
+   ],
+   "w": 828,
+   "h": 509,
+   "px": 421452,
+   "bytes": 52541,
+   "path": "headneck/images/hn02_lec_p25_styloid.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p26_parietal",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 26,
+   "note": "تصویر اصلی جزوه، ص 26، xref 205؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    14.0,
+    416.77996826171875,
+    328.79998779296875,
+    566.9199829101562
+   ],
+   "w": 971,
+   "h": 463,
+   "px": 449573,
+   "bytes": 73644,
+   "path": "headneck/images/hn02_lec_p26_parietal.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p27_inner",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 27,
+   "note": "تصویر اصلی جزوه، ص 27، xref 209؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    28.899999618530273,
+    427.69000244140625,
+    388.79998779296875,
+    599.1400146484375
+   ],
+   "w": 1102,
+   "h": 523,
+   "px": 576346,
+   "bytes": 85756,
+   "path": "headneck/images/hn02_lec_p27_inner.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p28_composite",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 28,
+   "note": "جزوهٔ درس، ص ۲۸ — سطح داخلی آهیانه: نتر و عکس",
+   "bbox": [
+    66.0,
+    431.0,
+    546.0,
+    706.0
+   ],
+   "w": 1334,
+   "h": 765,
+   "px": 1020510,
+   "bytes": 138002,
+   "path": "headneck/images/hn02_lec_p28_composite.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p29_fetal",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 29,
+   "note": "تصویر اصلی جزوه، ص 29، xref 217؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    2.350100040435791,
+    72.0,
+    304.80010986328125,
+    344.3299865722656
+   ],
+   "w": 814,
+   "h": 733,
+   "px": 596662,
+   "bytes": 71157,
+   "path": "headneck/images/hn02_lec_p29_fetal.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p29_pforamen",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 29,
+   "note": "تصویر اصلی جزوه، ص 29، xref 218؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    36.95000076293945,
+    395.5,
+    243.5,
+    597.75
+   ],
+   "w": 432,
+   "h": 423,
+   "px": 182736,
+   "bytes": 53854,
+   "path": "headneck/images/hn02_lec_p29_pforamen.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p30_font_lat",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 30,
+   "note": "تصویر اصلی جزوه، ص 30، xref 224؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    32.29999923706055,
+    530.2640380859375,
+    349.6499938964844,
+    707.614013671875
+   ],
+   "w": 969,
+   "h": 542,
+   "px": 525198,
+   "bytes": 93008,
+   "path": "headneck/images/hn02_lec_p30_font_lat.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p30_font_sup",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 30,
+   "note": "تصویر اصلی جزوه، ص 30، xref 223؛ بدون حاشیهٔ صفحه و متن مجاور",
+   "bbox": [
+    23.700000762939453,
+    72.00001525878906,
+    320.0,
+    274.70001220703125
+   ],
+   "w": 905,
+   "h": 620,
+   "px": 561100,
+   "bytes": 92492,
+   "path": "headneck/images/hn02_lec_p30_font_sup.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p31_rev_clinic",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 31,
+   "note": "جزوهٔ درس، ص ۳۱ — نکتهٔ بالینی آسیب گونه",
+   "bbox": [
+    0.0,
+    328.0,
+    612.0,
+    432.0
+   ],
+   "w": 1700,
+   "h": 289,
+   "px": 491300,
+   "bytes": 84589,
+   "path": "headneck/images/hn02_lec_p31_rev_clinic.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p31_rev_mandible",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 31,
+   "note": "جزوهٔ درس، ص ۳۱ — کارت مرور مندیبل",
+   "bbox": [
+    0.0,
+    420.0,
+    612.0,
+    790.0
+   ],
+   "w": 1700,
+   "h": 1029,
+   "px": 1749300,
+   "bytes": 282993,
+   "path": "headneck/images/hn02_lec_p31_rev_mandible.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p31_rev_zygo",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 31,
+   "note": "جزوهٔ درس، ص ۳۱ — کارت مرور استخوان گونه",
+   "bbox": [
+    0.0,
+    50.0,
+    612.0,
+    240.0
+   ],
+   "w": 1700,
+   "h": 529,
+   "px": 899300,
+   "bytes": 134436,
+   "path": "headneck/images/hn02_lec_p31_rev_zygo.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p32_rev_cards",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 32,
+   "note": "جزوهٔ درس، ص ۳۲ — مثلث سوپرامیاتال، شکاف‌ها، TMJ",
+   "bbox": [
+    0.0,
+    478.0,
+    612.0,
+    790.0
+   ],
+   "w": 1700,
+   "h": 868,
+   "px": 1475600,
+   "bytes": 202622,
+   "path": "headneck/images/hn02_lec_p32_rev_cards.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p32_rev_dev",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 32,
+   "note": "جزوهٔ درس، ص ۳۲ — تکامل مندیبل و لندمارک‌های عصبی-عروقی",
+   "bbox": [
+    0.0,
+    218.0,
+    612.0,
+    445.0
+   ],
+   "w": 1700,
+   "h": 632,
+   "px": 1074400,
+   "bytes": 179942,
+   "path": "headneck/images/hn02_lec_p32_rev_dev.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p32_rev_ramus",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 32,
+   "note": "جزوهٔ درس، ص ۳۲ — کارت مرور شاخ مندیبل",
+   "bbox": [
+    0.0,
+    4.0,
+    612.0,
+    88.0
+   ],
+   "w": 1700,
+   "h": 234,
+   "px": 397800,
+   "bytes": 74863,
+   "path": "headneck/images/hn02_lec_p32_rev_ramus.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p33_rev_cards1",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 33,
+   "note": "جزوهٔ درس، ص ۳۳ — حفرات گرانولار، شیار شریان، سوراخ استایلومastوئید",
+   "bbox": [
+    0.0,
+    0.0,
+    612.0,
+    242.0
+   ],
+   "w": 1700,
+   "h": 673,
+   "px": 1144100,
+   "bytes": 143193,
+   "path": "headneck/images/hn02_lec_p33_rev_cards1.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p33_rev_cards2",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 33,
+   "note": "جزوهٔ درس، ص ۳۳ — فونتانل‌ها، درزها، خطوط گیجگاهی",
+   "bbox": [
+    0.0,
+    238.0,
+    612.0,
+    586.0
+   ],
+   "w": 1700,
+   "h": 967,
+   "px": 1643900,
+   "bytes": 165795,
+   "path": "headneck/images/hn02_lec_p33_rev_cards2.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p33_rev_cards3",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 33,
+   "note": "جزوهٔ درس، ص ۳۳ — دررفتگی TMJ و خون‌ریزی اپیدورال",
+   "bbox": [
+    2.0,
+    616.0,
+    612.0,
+    790.0
+   ],
+   "w": 1695,
+   "h": 484,
+   "px": 820380,
+   "bytes": 121477,
+   "path": "headneck/images/hn02_lec_p33_rev_cards3.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p33",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 85,
+   "note": "سوراخ‌ها و کانال‌های قاعدهٔ جمجمه از نمای تحتانی",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 355477,
+   "path": "headneck/images/hn02_netter_p33.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p35",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 87,
+   "note": "جمجمهٔ نوزاد: فونتانل‌ها از نمای طرفی و فوقانی",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 414551,
+   "path": "headneck/images/hn02_netter_p35.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p38",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 90,
+   "note": "جمجمه از نمای خلفی و طرفی: آهیانه‌ای و گیجگاهی",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 409478,
+   "path": "headneck/images/hn02_netter_p38.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p39",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "note": "مندیبل: نمای طرفی و مدیال، نوزاد و سالمند",
+   "bbox": [
+    51.0,
+    18.6,
+    579.0,
+    783.5
+   ],
+   "w": 1468,
+   "h": 2126,
+   "px": 3120968,
+   "bytes": 373369,
+   "path": "headneck/images/hn02_netter_p39.jpeg"
+  },
+  {
+   "asset_id": "hn02_netter_p42",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 94,
+   "note": "مفصل گیجگاهی‌مندیبلی: کپسول، دیسک و رباط‌ها",
+   "bbox": [
+    51.0,
+    6.6,
+    616.0,
+    783.5
+   ],
+   "w": 1571,
+   "h": 2159,
+   "px": 3391789,
+   "bytes": 610568,
+   "path": "headneck/images/hn02_netter_p42.jpeg"
+  },
+  {
+   "asset_id": "hn03_grays_p859_fig820",
+   "book": "grays",
+   "session": "hn03",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 87,
+   "printed_page": 859,
+   "figure": "8.20",
+   "bbox": [
+    50,
+    295,
+    570,
+    725
+   ],
+   "w": 1300,
+   "h": 1076,
+   "bytes": 156977,
+   "path": "headneck/images/hn03_grays_p859_fig820.jpeg"
+  },
+  {
+   "asset_id": "hn03_grays_p862_fig823",
+   "book": "grays",
+   "session": "hn03",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 90,
+   "printed_page": 862,
+   "figure": "8.23",
+   "bbox": [
+    55,
+    55,
+    565,
+    585
+   ],
+   "w": 1276,
+   "h": 1326,
+   "bytes": 335284,
+   "path": "headneck/images/hn03_grays_p862_fig823.jpeg"
+  },
+  {
+   "asset_id": "hn03_grays_p867_fig826",
+   "book": "grays",
+   "session": "hn03",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 95,
+   "printed_page": 867,
+   "figure": "8.26",
+   "bbox": [
+    50,
+    460,
+    565,
+    725
+   ],
+   "w": 1288,
+   "h": 663,
+   "bytes": 140199,
+   "path": "headneck/images/hn03_grays_p867_fig826.jpeg"
+  },
+  {
+   "asset_id": "hn03_grays_p869_fig827",
+   "book": "grays",
+   "session": "hn03",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 97,
+   "printed_page": 869,
+   "figure": "8.27",
+   "bbox": [
+    50,
+    55,
+    565,
+    330
+   ],
+   "w": 1288,
+   "h": 688,
+   "bytes": 131594,
+   "path": "headneck/images/hn03_grays_p869_fig827.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p02_location",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 2,
+   "bbox": [
+    174.4,
+    269.01,
+    494.8,
+    468.61
+   ],
+   "w": 979,
+   "h": 610,
+   "bytes": 51520,
+   "path": "headneck/images/hn03_lec_p02_location.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p03_anterior",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "bbox": [
+    44.4,
+    556.9,
+    567.7,
+    805.7
+   ],
+   "w": 878,
+   "h": 500,
+   "bytes": 56209,
+   "path": "headneck/images/hn03_lec_p03_anterior.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p03_skull_sections",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "bbox": [
+    28.45,
+    36.0,
+    365.8,
+    324.8
+   ],
+   "w": 1029,
+   "h": 884,
+   "bytes": 90948,
+   "path": "headneck/images/hn03_lec_p03_skull_sections.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p05_posterior",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "bbox": [
+    53.6,
+    527.18,
+    551.95,
+    776.38
+   ],
+   "w": 1521,
+   "h": 762,
+   "bytes": 104074,
+   "path": "headneck/images/hn03_lec_p05_posterior.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p07_superior",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "bbox": [
+    42.4,
+    204.84,
+    581.2,
+    447.79
+   ],
+   "w": 1647,
+   "h": 742,
+   "bytes": 115960,
+   "path": "headneck/images/hn03_lec_p07_superior.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p09_clivus",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "bbox": [
+    36.0,
+    521.12,
+    559.2,
+    753.32
+   ],
+   "w": 1598,
+   "h": 710,
+   "bytes": 110860,
+   "path": "headneck/images/hn03_lec_p09_clivus.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p10_pterion",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 10,
+   "bbox": [
+    34.4,
+    212.83,
+    221.25,
+    387.23
+   ],
+   "w": 572,
+   "h": 533,
+   "bytes": 30455,
+   "path": "headneck/images/hn03_lec_p10_pterion.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p10_pterion_vessels",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 10,
+   "bbox": [
+    37.3,
+    625.65,
+    558.9,
+    803.65
+   ],
+   "w": 872,
+   "h": 343,
+   "bytes": 36385,
+   "path": "headneck/images/hn03_lec_p10_pterion_vessels.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p11_infratemporal",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "bbox": [
+    53.4,
+    662.97,
+    262.2,
+    805.62
+   ],
+   "w": 714,
+   "h": 396,
+   "bytes": 22408,
+   "path": "headneck/images/hn03_lec_p11_infratemporal.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p11_surface",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "bbox": [
+    35.8,
+    357.67,
+    558.6,
+    604.87
+   ],
+   "w": 1849,
+   "h": 686,
+   "bytes": 103579,
+   "path": "headneck/images/hn03_lec_p11_surface.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p12_context",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 12,
+   "bbox": [
+    27.0,
+    36.0,
+    144.5,
+    181.45
+   ],
+   "w": 315,
+   "h": 317,
+   "bytes": 15245,
+   "path": "headneck/images/hn03_lec_p12_context.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p12_pal_lateral",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 12,
+   "bbox": [
+    0.0,
+    485.77,
+    263.3,
+    689.57
+   ],
+   "w": 810,
+   "h": 627,
+   "bytes": 56892,
+   "path": "headneck/images/hn03_lec_p12_pal_lateral.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p12_pal_medial",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 12,
+   "bbox": [
+    0.0,
+    281.68,
+    306.96,
+    488.88
+   ],
+   "w": 940,
+   "h": 634,
+   "bytes": 62276,
+   "path": "headneck/images/hn03_lec_p12_pal_medial.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p13_canals",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "bbox": [
+    36.0,
+    583.19,
+    184.8,
+    775.19
+   ],
+   "w": 542,
+   "h": 451,
+   "bytes": 28040,
+   "path": "headneck/images/hn03_lec_p13_canals.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p13_orbital",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "bbox": [
+    80.75,
+    353.25,
+    473.8,
+    567.55
+   ],
+   "w": 1160,
+   "h": 632,
+   "bytes": 91931,
+   "path": "headneck/images/hn03_lec_p13_orbital.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p14_pal_posterior",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "bbox": [
+    35.0,
+    87.5,
+    214.0,
+    293.7
+   ],
+   "w": 579,
+   "h": 627,
+   "bytes": 44439,
+   "path": "headneck/images/hn03_lec_p14_pal_posterior.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p15_palate",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    22.35,
+    62.15,
+    284.15,
+    257.95
+   ],
+   "w": 728,
+   "h": 589,
+   "bytes": 63967,
+   "path": "headneck/images/hn03_lec_p15_palate.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p15_sphenopalatine",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    31.6,
+    550.37,
+    335.0,
+    781.62
+   ],
+   "w": 973,
+   "h": 575,
+   "bytes": 85734,
+   "path": "headneck/images/hn03_lec_p15_sphenopalatine.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p16_occ_side",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "bbox": [
+    32.15,
+    388.56,
+    198.7,
+    538.66
+   ],
+   "w": 509,
+   "h": 459,
+   "bytes": 22254,
+   "path": "headneck/images/hn03_lec_p16_occ_side.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p16_posterior",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "bbox": [
+    44.25,
+    65.95,
+    156.45,
+    205.25
+   ],
+   "w": 343,
+   "h": 426,
+   "bytes": 17290,
+   "path": "headneck/images/hn03_lec_p16_posterior.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p16_sutures",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "bbox": [
+    36.5,
+    210.51,
+    277.9,
+    367.31
+   ],
+   "w": 849,
+   "h": 479,
+   "bytes": 32550,
+   "path": "headneck/images/hn03_lec_p16_sutures.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p17_occ_external",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "bbox": [
+    33.25,
+    313.05,
+    260.45,
+    502.8
+   ],
+   "w": 785,
+   "h": 579,
+   "bytes": 69528,
+   "path": "headneck/images/hn03_lec_p17_occ_external.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p17_occ_inferior",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "bbox": [
+    32.7,
+    525.23,
+    261.15,
+    704.68
+   ],
+   "w": 800,
+   "h": 497,
+   "bytes": 45522,
+   "path": "headneck/images/hn03_lec_p17_occ_inferior.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p18_occ_internal",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "bbox": [
+    36.0,
+    257.47,
+    276.8,
+    450.07
+   ],
+   "w": 845,
+   "h": 589,
+   "bytes": 52930,
+   "path": "headneck/images/hn03_lec_p18_occ_internal.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p19_occ_endocranial",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "bbox": [
+    29.15,
+    36.0,
+    523.26,
+    308.3
+   ],
+   "w": 1448,
+   "h": 755,
+   "bytes": 102661,
+   "path": "headneck/images/hn03_lec_p19_occ_endocranial.jpeg"
+  },
+  {
+   "asset_id": "hn03_lec_p20_venous",
+   "book": "lecture",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 3 -Spheneid & Palatin & Occipital bones/جلسه_سوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "bbox": [
+    33.25,
+    139.59,
+    299.1,
+    346.79
+   ],
+   "w": 914,
+   "h": 634,
+   "bytes": 54890,
+   "path": "headneck/images/hn03_lec_p20_venous.jpeg"
+  },
+  {
+   "asset_id": "hn03_netter_p27_infratemporal",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 79,
+   "plate": 27,
+   "bbox": [
+    42,
+    500,
+    600,
+    750
+   ],
+   "w": 1395,
+   "h": 625,
+   "bytes": 163876,
+   "path": "headneck/images/hn03_netter_p27_infratemporal.jpeg"
+  },
+  {
+   "asset_id": "hn03_netter_p29_nasal",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 81,
+   "plate": 29,
+   "bbox": [
+    50,
+    490,
+    560,
+    730
+   ],
+   "w": 1275,
+   "h": 600,
+   "bytes": 157391,
+   "path": "headneck/images/hn03_netter_p29_nasal.jpeg"
+  },
+  {
+   "asset_id": "hn03_netter_p33_foramina",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 85,
+   "plate": 33,
+   "bbox": [
+    60,
+    330,
+    580,
+    665
+   ],
+   "w": 1300,
+   "h": 838,
+   "bytes": 181853,
+   "path": "headneck/images/hn03_netter_p33_foramina.jpeg"
+  },
+  {
+   "asset_id": "hn03_netter_p34_foramina_superior",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 86,
+   "plate": 34,
+   "bbox": [
+    60,
+    195,
+    575,
+    401
+   ],
+   "w": 1288,
+   "h": 516,
+   "bytes": 153914,
+   "path": "headneck/images/hn03_netter_p34_foramina_superior.jpeg"
+  },
+  {
+   "asset_id": "hn01_lec_p22_anterior",
+   "book": "lecture",
+   "session": "hn01",
+   "source_file": "جلسه 1 - سر و گردن 1__جلسه_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 22,
+   "note": "نمای قدامی مشروح جمجمه در تصویر مرور جزوه، تصویر اصلی xref 380",
+   "bbox": [
+    0.0,
+    1.05,
+    612.0,
+    410.09
+   ],
+   "w": 898,
+   "h": 705,
+   "px": 633090,
+   "bytes": 290664,
+   "path": "headneck/images/hn01_lec_p22_anterior.jpeg"
+  },
+  {
+   "asset_id": "hn02_lec_p11_ramus",
+   "book": "lecture",
+   "session": "hn02",
+   "source_file": "جلسه 2 - سر و گردن 2__جلسه_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "note": "برش راموس از تصویر سطح داخلی مندیبل جزوهٔ ص ۱۱، مشتق از hn02_lec_p11_medial",
+   "bbox": [
+    166.09,
+    78.59,
+    423.17,
+    249.42
+   ],
+   "w": 715,
+   "h": 475,
+   "px": 339625,
+   "bytes": 128915,
+   "path": "headneck/images/hn02_lec_p11_ramus.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_base",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 2,
+   "bbox": [
+    36.5,
+    84.45,
+    281.0,
+    249.45
+   ],
+   "w": 746,
+   "h": 504,
+   "bytes": 61347,
+   "path": "headneck/images/hn04_p1_open_base.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_location",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 2,
+   "bbox": [
+    29.5,
+    394.5,
+    360.85,
+    583.5
+   ],
+   "w": 1013,
+   "h": 579,
+   "bytes": 81170,
+   "path": "headneck/images/hn04_p1_open_ethmoid_location.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_parts",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 3,
+   "bbox": [
+    72.0,
+    92.01,
+    539.75,
+    348.96
+   ],
+   "w": 1428,
+   "h": 785,
+   "bytes": 139048,
+   "path": "headneck/images/hn04_p1_open_ethmoid_parts.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_views",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 3,
+   "bbox": [
+    148.5,
+    535.2,
+    540.0,
+    755.15
+   ],
+   "w": 1196,
+   "h": 672,
+   "bytes": 101603,
+   "path": "headneck/images/hn04_p1_open_ethmoid_views.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_superior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 4,
+   "bbox": [
+    30.95,
+    422.75,
+    254.45,
+    609.6
+   ],
+   "w": 614,
+   "h": 513,
+   "bytes": 52728,
+   "path": "headneck/images/hn04_p1_open_ethmoid_superior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_labyrinth",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 5,
+   "bbox": [
+    72.0,
+    72.0,
+    539.3,
+    334.6
+   ],
+   "w": 1426,
+   "h": 802,
+   "bytes": 141272,
+   "path": "headneck/images/hn04_p1_open_labyrinth.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_lateral_ethmoid",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 6,
+   "bbox": [
+    114.0,
+    72.0,
+    539.28,
+    286.55
+   ],
+   "w": 1323,
+   "h": 667,
+   "bytes": 101056,
+   "path": "headneck/images/hn04_p1_open_lateral_ethmoid.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_inferior_ethmoid",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 6,
+   "bbox": [
+    28.85,
+    552.65,
+    238.65,
+    726.56
+   ],
+   "w": 642,
+   "h": 532,
+   "bytes": 58768,
+   "path": "headneck/images/hn04_p1_open_inferior_ethmoid.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_nasal_conchae",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 7,
+   "bbox": [
+    21.9,
+    98.3,
+    280.95,
+    300.4
+   ],
+   "w": 683,
+   "h": 533,
+   "bytes": 39000,
+   "path": "headneck/images/hn04_p1_open_nasal_conchae.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_uncinate",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 7,
+   "bbox": [
+    31.85,
+    424.65,
+    253.35,
+    600.5
+   ],
+   "w": 651,
+   "h": 517,
+   "bytes": 66830,
+   "path": "headneck/images/hn04_p1_open_uncinate.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ethmoid_section",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 8,
+   "bbox": [
+    27.75,
+    109.65,
+    288.35,
+    289.3
+   ],
+   "w": 796,
+   "h": 549,
+   "bytes": 55666,
+   "path": "headneck/images/hn04_p1_open_ethmoid_section.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_nasal_septum",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 8,
+   "bbox": [
+    18.8,
+    335.25,
+    316.58,
+    559.35
+   ],
+   "w": 910,
+   "h": 685,
+   "bytes": 74147,
+   "path": "headneck/images/hn04_p1_open_nasal_septum.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_coronal",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 9,
+   "bbox": [
+    21.7,
+    245.15,
+    386.6,
+    425.4
+   ],
+   "w": 1115,
+   "h": 551,
+   "bytes": 88874,
+   "path": "headneck/images/hn04_p1_open_coronal.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_temporal",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 9,
+   "bbox": [
+    21.8,
+    528.05,
+    271.6,
+    711.8
+   ],
+   "w": 763,
+   "h": 561,
+   "bytes": 72677,
+   "path": "headneck/images/hn04_p1_open_temporal.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_base",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 10,
+   "bbox": [
+    138.1,
+    176.3,
+    474.66,
+    430.5
+   ],
+   "w": 1030,
+   "h": 778,
+   "bytes": 91296,
+   "path": "headneck/images/hn04_p1_open_petrous_base.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_anterior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 11,
+   "bbox": [
+    19.5,
+    372.1,
+    338.85,
+    585.15
+   ],
+   "w": 976,
+   "h": 651,
+   "bytes": 90457,
+   "path": "headneck/images/hn04_p1_open_petrous_anterior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_anterior_detail",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 12,
+   "bbox": [
+    17.4,
+    259.9,
+    329.4,
+    468.0
+   ],
+   "w": 953,
+   "h": 635,
+   "bytes": 101203,
+   "path": "headneck/images/hn04_p1_open_petrous_anterior_detail.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ear_section",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 13,
+   "bbox": [
+    33.0,
+    542.99,
+    215.8,
+    724.89
+   ],
+   "w": 284,
+   "h": 282,
+   "bytes": 25404,
+   "path": "headneck/images/hn04_p1_open_ear_section.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_ear_tubes",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 13,
+   "bbox": [
+    195.75,
+    334.85,
+    531.75,
+    549.1
+   ],
+   "w": 1032,
+   "h": 657,
+   "bytes": 89269,
+   "path": "headneck/images/hn04_p1_open_ear_tubes.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_posterior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 14,
+   "bbox": [
+    24.4,
+    226.55,
+    324.7,
+    450.05
+   ],
+   "w": 918,
+   "h": 682,
+   "bytes": 100547,
+   "path": "headneck/images/hn04_p1_open_petrous_posterior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_labyrinth_aqueduct",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 15,
+   "bbox": [
+    72.0,
+    72.0,
+    539.45,
+    351.25
+   ],
+   "w": 1427,
+   "h": 853,
+   "bytes": 166881,
+   "path": "headneck/images/hn04_p1_open_labyrinth_aqueduct.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_inferior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 16,
+   "bbox": [
+    8.8,
+    71.85,
+    312.15,
+    390.35
+   ],
+   "w": 1015,
+   "h": 1066,
+   "bytes": 118704,
+   "path": "headneck/images/hn04_p1_open_petrous_inferior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_petrous_inferior_detail",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 16,
+   "bbox": [
+    23.2,
+    383.5,
+    359.7,
+    610.4
+   ],
+   "w": 1035,
+   "h": 698,
+   "bytes": 88805,
+   "path": "headneck/images/hn04_p1_open_petrous_inferior_detail.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_canaliculi",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 17,
+   "bbox": [
+    144.85,
+    150.65,
+    466.65,
+    392.5
+   ],
+   "w": 984,
+   "h": 740,
+   "bytes": 66383,
+   "path": "headneck/images/hn04_p1_open_canaliculi.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_cranial_bones",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 18,
+   "bbox": [
+    28.5,
+    103.5,
+    280.7,
+    297.5
+   ],
+   "w": 770,
+   "h": 592,
+   "bytes": 56950,
+   "path": "headneck/images/hn04_p1_open_cranial_bones.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_cranial_fossae",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 18,
+   "bbox": [
+    32.5,
+    309.5,
+    277.75,
+    542.0
+   ],
+   "w": 709,
+   "h": 672,
+   "bytes": 54016,
+   "path": "headneck/images/hn04_p1_open_cranial_fossae.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_cranial_sagittal",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 18,
+   "bbox": [
+    39.0,
+    537.0,
+    228.0,
+    722.1
+   ],
+   "w": 582,
+   "h": 570,
+   "bytes": 41642,
+   "path": "headneck/images/hn04_p1_open_cranial_sagittal.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_cranial_overview",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 19,
+   "bbox": [
+    73.0,
+    264.24,
+    540.0,
+    517.72
+   ],
+   "w": 1425,
+   "h": 774,
+   "bytes": 144535,
+   "path": "headneck/images/hn04_p1_open_cranial_overview.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_fossae_bones",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 25,
+   "bbox": [
+    17.6,
+    120.0,
+    254.04,
+    555.7
+   ],
+   "w": 579,
+   "h": 1067,
+   "bytes": 60735,
+   "path": "headneck/images/hn04_p1_open_fossae_bones.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_fossa_anterior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 25,
+   "bbox": [
+    232.6,
+    117.25,
+    585.0,
+    262.3
+   ],
+   "w": 1075,
+   "h": 443,
+   "bytes": 58042,
+   "path": "headneck/images/hn04_p1_open_fossa_anterior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_fossa_middle",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 25,
+   "bbox": [
+    233.6,
+    251.7,
+    582.4,
+    435.0
+   ],
+   "w": 1066,
+   "h": 560,
+   "bytes": 84295,
+   "path": "headneck/images/hn04_p1_open_fossa_middle.jpeg"
+  },
+  {
+   "asset_id": "hn04_p1_open_fossa_posterior",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 1,
+   "page": 25,
+   "bbox": [
+    221.45,
+    435.7,
+    583.35,
+    624.5
+   ],
+   "w": 1105,
+   "h": 577,
+   "bytes": 73819,
+   "path": "headneck/images/hn04_p1_open_fossa_posterior.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_inferior_base",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 2,
+   "bbox": [
+    36.0,
+    143.93,
+    579.0,
+    452.63
+   ],
+   "w": 1661,
+   "h": 944,
+   "bytes": 259446,
+   "path": "headneck/images/hn04_p2_inferior_base.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_petrous_jugular",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 9,
+   "bbox": [
+    0.0,
+    103.5,
+    351.4,
+    323.5
+   ],
+   "w": 1074,
+   "h": 673,
+   "bytes": 100355,
+   "path": "headneck/images/hn04_p2_petrous_jugular.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_canaliculi",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 9,
+   "bbox": [
+    0.0,
+    323.51,
+    257.9,
+    514.91
+   ],
+   "w": 789,
+   "h": 585,
+   "bytes": 55672,
+   "path": "headneck/images/hn04_p2_canaliculi.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_occipital_base",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 10,
+   "bbox": [
+    0.0,
+    49.43,
+    322.4,
+    238.18
+   ],
+   "w": 986,
+   "h": 577,
+   "bytes": 95195,
+   "path": "headneck/images/hn04_p2_occipital_base.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_cranial_deformities",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 10,
+   "bbox": [
+    1.25,
+    376.18,
+    332.7,
+    582.73
+   ],
+   "w": 1014,
+   "h": 632,
+   "bytes": 83987,
+   "path": "headneck/images/hn04_p2_cranial_deformities.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_hydrocephaly",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 11,
+   "bbox": [
+    5.2,
+    71.33,
+    129.6,
+    257.48
+   ],
+   "w": 345,
+   "h": 517,
+   "bytes": 23161,
+   "path": "headneck/images/hn04_p2_hydrocephaly.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_microcephaly",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 11,
+   "bbox": [
+    8.45,
+    253.47,
+    125.7,
+    439.72
+   ],
+   "w": 358,
+   "h": 569,
+   "bytes": 26912,
+   "path": "headneck/images/hn04_p2_microcephaly.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_wormian_bones",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 11,
+   "bbox": [
+    7.1,
+    439.11,
+    221.8,
+    606.21
+   ],
+   "w": 533,
+   "h": 415,
+   "bytes": 40964,
+   "path": "headneck/images/hn04_p2_wormian_bones.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_lefort1",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 12,
+   "bbox": [
+    0.0,
+    118.43,
+    208.2,
+    346.68
+   ],
+   "w": 500,
+   "h": 548,
+   "bytes": 21802,
+   "path": "headneck/images/hn04_p2_lefort1.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_lefort2",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 12,
+   "bbox": [
+    0.0,
+    346.91,
+    216.7,
+    571.56
+   ],
+   "w": 521,
+   "h": 540,
+   "bytes": 22318,
+   "path": "headneck/images/hn04_p2_lefort2.jpeg"
+  },
+  {
+   "asset_id": "hn04_p2_lefort3",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "part": 2,
+   "page": 13,
+   "bbox": [
+    0.0,
+    49.88,
+    206.15,
+    262.88
+   ],
+   "w": 512,
+   "h": 529,
+   "bytes": 22767,
+   "path": "headneck/images/hn04_p2_lefort3.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p02_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 2,
+   "bbox": [
+    34.0,
+    36.0,
+    365.0,
+    339.0
+   ],
+   "w": 662,
+   "h": 606,
+   "bytes": 80702,
+   "path": "headneck/images/hn05_lecture_p02_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p02_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 2,
+   "bbox": [
+    34.0,
+    375.0,
+    339.0,
+    631.0
+   ],
+   "w": 610,
+   "h": 512,
+   "bytes": 45368,
+   "path": "headneck/images/hn05_lecture_p02_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p04_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "bbox": [
+    36.0,
+    531.94,
+    573.0,
+    715.94
+   ],
+   "w": 693,
+   "h": 237,
+   "bytes": 47251,
+   "path": "headneck/images/hn05_lecture_p04_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p06_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 6,
+   "bbox": [
+    36.0,
+    366.22,
+    576.0,
+    625.22
+   ],
+   "w": 1023,
+   "h": 491,
+   "bytes": 87324,
+   "path": "headneck/images/hn05_lecture_p06_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p08_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 8,
+   "bbox": [
+    0.0,
+    255.48,
+    294.6,
+    503.83
+   ],
+   "w": 392,
+   "h": 330,
+   "bytes": 26045,
+   "path": "headneck/images/hn05_lecture_p08_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p09_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "bbox": [
+    36.0,
+    78.0,
+    573.0,
+    246.0
+   ],
+   "w": 1009,
+   "h": 316,
+   "bytes": 59257,
+   "path": "headneck/images/hn05_lecture_p09_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p09_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "bbox": [
+    36.0,
+    392.0,
+    291.6,
+    602.0
+   ],
+   "w": 382,
+   "h": 314,
+   "bytes": 20044,
+   "path": "headneck/images/hn05_lecture_p09_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p10_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 10,
+   "bbox": [
+    104.4,
+    121.35,
+    576.0,
+    409.95
+   ],
+   "w": 631,
+   "h": 386,
+   "bytes": 66659,
+   "path": "headneck/images/hn05_lecture_p10_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p11_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "bbox": [
+    36.0,
+    106.02,
+    563.0,
+    348.02
+   ],
+   "w": 1005,
+   "h": 461,
+   "bytes": 76151,
+   "path": "headneck/images/hn05_lecture_p11_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p11_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "bbox": [
+    36.0,
+    492.76,
+    576.0,
+    755.76
+   ],
+   "w": 1014,
+   "h": 494,
+   "bytes": 111877,
+   "path": "headneck/images/hn05_lecture_p11_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p12_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 12,
+   "bbox": [
+    36.0,
+    389.0,
+    317.3,
+    612.2
+   ],
+   "w": 486,
+   "h": 386,
+   "bytes": 31783,
+   "path": "headneck/images/hn05_lecture_p12_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p13_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "bbox": [
+    39.0,
+    36.0,
+    239.7,
+    152.45
+   ],
+   "w": 267,
+   "h": 155,
+   "bytes": 10259,
+   "path": "headneck/images/hn05_lecture_p13_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p13_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 13,
+   "bbox": [
+    36.0,
+    172.02,
+    252.55,
+    338.37
+   ],
+   "w": 288,
+   "h": 221,
+   "bytes": 10114,
+   "path": "headneck/images/hn05_lecture_p13_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p14_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "bbox": [
+    33.0,
+    96.0,
+    576.0,
+    385.85
+   ],
+   "w": 723,
+   "h": 386,
+   "bytes": 44442,
+   "path": "headneck/images/hn05_lecture_p14_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p15_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    27.0,
+    36.0,
+    335.3,
+    274.8
+   ],
+   "w": 411,
+   "h": 318,
+   "bytes": 27253,
+   "path": "headneck/images/hn05_lecture_p15_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p15_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    0.0,
+    322.52,
+    363.75,
+    659.12
+   ],
+   "w": 484,
+   "h": 448,
+   "bytes": 54908,
+   "path": "headneck/images/hn05_lecture_p15_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p16_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "bbox": [
+    108.0,
+    62.4,
+    576.0,
+    315.55
+   ],
+   "w": 623,
+   "h": 337,
+   "bytes": 41601,
+   "path": "headneck/images/hn05_lecture_p16_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p17_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "bbox": [
+    37.5,
+    67.8,
+    574.5,
+    401.45
+   ],
+   "w": 874,
+   "h": 543,
+   "bytes": 110780,
+   "path": "headneck/images/hn05_lecture_p17_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p17_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "bbox": [
+    0.0,
+    418.0,
+    306.0,
+    686.75
+   ],
+   "w": 407,
+   "h": 357,
+   "bytes": 43238,
+   "path": "headneck/images/hn05_lecture_p17_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p18_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "bbox": [
+    16.2,
+    145.1,
+    532.8,
+    420.95
+   ],
+   "w": 1060,
+   "h": 566,
+   "bytes": 67165,
+   "path": "headneck/images/hn05_lecture_p18_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p19_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "bbox": [
+    67.5,
+    77.25,
+    530.25,
+    382.5
+   ],
+   "w": 775,
+   "h": 511,
+   "bytes": 55685,
+   "path": "headneck/images/hn05_lecture_p19_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p20_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "bbox": [
+    40.8,
+    75.05,
+    508.8,
+    509.45
+   ],
+   "w": 752,
+   "h": 698,
+   "bytes": 58385,
+   "path": "headneck/images/hn05_lecture_p20_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p21_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 21,
+   "bbox": [
+    36.0,
+    79.2,
+    504.0,
+    346.25
+   ],
+   "w": 623,
+   "h": 355,
+   "bytes": 53573,
+   "path": "headneck/images/hn05_lecture_p21_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p21_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 21,
+   "bbox": [
+    36.0,
+    530.57,
+    572.55,
+    755.07
+   ],
+   "w": 708,
+   "h": 296,
+   "bytes": 27607,
+   "path": "headneck/images/hn05_lecture_p21_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p22_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 22,
+   "bbox": [
+    35.1,
+    372.85,
+    572.35,
+    671.95
+   ],
+   "w": 754,
+   "h": 420,
+   "bytes": 77889,
+   "path": "headneck/images/hn05_lecture_p22_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p23_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 23,
+   "bbox": [
+    35.8,
+    206.14,
+    513.55,
+    552.94
+   ],
+   "w": 636,
+   "h": 462,
+   "bytes": 48605,
+   "path": "headneck/images/hn05_lecture_p23_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p24_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 24,
+   "bbox": [
+    28.25,
+    212.53,
+    254.2,
+    383.53
+   ],
+   "w": 301,
+   "h": 228,
+   "bytes": 11565,
+   "path": "headneck/images/hn05_lecture_p24_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p24_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 24,
+   "bbox": [
+    35.95,
+    462.87,
+    298.7,
+    733.47
+   ],
+   "w": 350,
+   "h": 360,
+   "bytes": 27908,
+   "path": "headneck/images/hn05_lecture_p24_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p25_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 25,
+   "bbox": [
+    36.0,
+    57.4,
+    272.95,
+    382.0
+   ],
+   "w": 315,
+   "h": 432,
+   "bytes": 28483,
+   "path": "headneck/images/hn05_lecture_p25_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p26_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 26,
+   "bbox": [
+    89.4,
+    111.9,
+    450.6,
+    429.65
+   ],
+   "w": 481,
+   "h": 423,
+   "bytes": 36392,
+   "path": "headneck/images/hn05_lecture_p26_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p27_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 27,
+   "bbox": [
+    85.8,
+    76.2,
+    478.2,
+    403.2
+   ],
+   "w": 523,
+   "h": 436,
+   "bytes": 81137,
+   "path": "headneck/images/hn05_lecture_p27_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p28_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 28,
+   "bbox": [
+    36.0,
+    112.27,
+    576.0,
+    617.47
+   ],
+   "w": 940,
+   "h": 879,
+   "bytes": 224752,
+   "path": "headneck/images/hn05_lecture_p28_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p29_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 29,
+   "bbox": [
+    39.6,
+    85.8,
+    469.2,
+    458.55
+   ],
+   "w": 572,
+   "h": 496,
+   "bytes": 49246,
+   "path": "headneck/images/hn05_lecture_p29_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p30_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 30,
+   "bbox": [
+    24.6,
+    114.26,
+    610.2,
+    489.21
+   ],
+   "w": 742,
+   "h": 475,
+   "bytes": 110494,
+   "path": "headneck/images/hn05_lecture_p30_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p31_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 31,
+   "bbox": [
+    40.2,
+    240.56,
+    529.8,
+    622.96
+   ],
+   "w": 699,
+   "h": 546,
+   "bytes": 72144,
+   "path": "headneck/images/hn05_lecture_p31_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p32_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 32,
+   "bbox": [
+    104.6,
+    36.0,
+    576.0,
+    325.18
+   ],
+   "w": 628,
+   "h": 385,
+   "bytes": 28540,
+   "path": "headneck/images/hn05_lecture_p32_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p33_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 33,
+   "bbox": [
+    18.95,
+    71.85,
+    576.0,
+    371.25
+   ],
+   "w": 742,
+   "h": 399,
+   "bytes": 97856,
+   "path": "headneck/images/hn05_lecture_p33_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p34_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 34,
+   "bbox": [
+    0.0,
+    69.1,
+    572.4,
+    414.65
+   ],
+   "w": 763,
+   "h": 461,
+   "bytes": 83208,
+   "path": "headneck/images/hn05_lecture_p34_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p35_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 35,
+   "bbox": [
+    13.5,
+    68.8,
+    611.85,
+    421.0
+   ],
+   "w": 742,
+   "h": 437,
+   "bytes": 103877,
+   "path": "headneck/images/hn05_lecture_p35_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p36_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 36,
+   "bbox": [
+    36.0,
+    70.95,
+    558.6,
+    400.35
+   ],
+   "w": 696,
+   "h": 439,
+   "bytes": 41940,
+   "path": "headneck/images/hn05_lecture_p36_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p36_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 36,
+   "bbox": [
+    30.85,
+    533.1,
+    358.15,
+    736.05
+   ],
+   "w": 436,
+   "h": 270,
+   "bytes": 18535,
+   "path": "headneck/images/hn05_lecture_p36_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p37_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 37,
+   "bbox": [
+    13.5,
+    73.85,
+    611.85,
+    426.05
+   ],
+   "w": 742,
+   "h": 437,
+   "bytes": 103877,
+   "path": "headneck/images/hn05_lecture_p37_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p37_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 37,
+   "bbox": [
+    36.0,
+    437.82,
+    382.2,
+    689.82
+   ],
+   "w": 461,
+   "h": 336,
+   "bytes": 31731,
+   "path": "headneck/images/hn05_lecture_p37_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p38_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 38,
+   "bbox": [
+    14.7,
+    438.65,
+    579.3,
+    752.6
+   ],
+   "w": 742,
+   "h": 413,
+   "bytes": 99948,
+   "path": "headneck/images/hn05_lecture_p38_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p38_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 38,
+   "bbox": [
+    36.0,
+    78.85,
+    569.95,
+    326.55
+   ],
+   "w": 711,
+   "h": 330,
+   "bytes": 44814,
+   "path": "headneck/images/hn05_lecture_p38_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p39_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 39,
+   "bbox": [
+    55.2,
+    78.65,
+    576.0,
+    367.2
+   ],
+   "w": 694,
+   "h": 385,
+   "bytes": 60406,
+   "path": "headneck/images/hn05_lecture_p39_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p39_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 39,
+   "bbox": [
+    15.0,
+    438.36,
+    481.2,
+    666.66
+   ],
+   "w": 621,
+   "h": 304,
+   "bytes": 27882,
+   "path": "headneck/images/hn05_lecture_p39_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p40_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 40,
+   "bbox": [
+    91.8,
+    118.8,
+    447.6,
+    366.9
+   ],
+   "w": 716,
+   "h": 499,
+   "bytes": 69512,
+   "path": "headneck/images/hn05_lecture_p40_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p40_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 40,
+   "bbox": [
+    0.0,
+    440.31,
+    400.35,
+    656.31
+   ],
+   "w": 758,
+   "h": 409,
+   "bytes": 73946,
+   "path": "headneck/images/hn05_lecture_p40_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p42_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 42,
+   "bbox": [
+    40.25,
+    70.25,
+    494.5,
+    289.75
+   ],
+   "w": 605,
+   "h": 292,
+   "bytes": 39352,
+   "path": "headneck/images/hn05_lecture_p42_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p42_2",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 42,
+   "bbox": [
+    49.7,
+    362.56,
+    556.15,
+    635.71
+   ],
+   "w": 675,
+   "h": 364,
+   "bytes": 49828,
+   "path": "headneck/images/hn05_lecture_p42_2.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p43_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 43,
+   "bbox": [
+    14.25,
+    326.5,
+    597.1,
+    669.65
+   ],
+   "w": 932,
+   "h": 549,
+   "bytes": 105106,
+   "path": "headneck/images/hn05_lecture_p43_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p44_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 44,
+   "bbox": [
+    36.0,
+    74.55,
+    587.1,
+    403.67
+   ],
+   "w": 973,
+   "h": 581,
+   "bytes": 107504,
+   "path": "headneck/images/hn05_lecture_p44_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_lecture_p45_1",
+   "book": "lecture",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 5 - گردن/جلسه_پنجم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 45,
+   "bbox": [
+    108.0,
+    155.64,
+    576.0,
+    447.29
+   ],
+   "w": 623,
+   "h": 388,
+   "bytes": 51388,
+   "path": "headneck/images/hn05_lecture_p45_1.jpeg"
+  },
+  {
+   "asset_id": "hn05_netter_vertebrae",
+   "book": "netter",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 96,
+   "bbox": [
+    40,
+    65,
+    580,
+    365
+   ],
+   "w": 1080,
+   "h": 600,
+   "bytes": 134978,
+   "path": "headneck/images/hn05_netter_vertebrae.jpeg"
+  },
+  {
+   "asset_id": "hn05_netter_atlas_axis",
+   "book": "netter",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 95,
+   "bbox": [
+    45,
+    60,
+    580,
+    292
+   ],
+   "w": 1070,
+   "h": 464,
+   "bytes": 104601,
+   "path": "headneck/images/hn05_netter_atlas_axis.jpeg"
+  },
+  {
+   "asset_id": "hn05_netter_ligaments",
+   "book": "netter",
+   "session": "hn05",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 99,
+   "bbox": [
+    35,
+    65,
+    590,
+    445
+   ],
+   "w": 1110,
+   "h": 760,
+   "bytes": 214012,
+   "path": "headneck/images/hn05_netter_ligaments.jpeg"
+  },
+  {
+   "asset_id": "hn05_grays_fascia",
+   "book": "grays",
+   "session": "hn05",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 29,
+   "bbox": [
+    75,
+    455,
+    545,
+    650
+   ],
+   "w": 940,
+   "h": 390,
+   "bytes": 82462,
+   "path": "headneck/images/hn05_grays_fascia.jpeg"
+  },
+  {
+   "asset_id": "hn05_grays_spaces",
+   "book": "grays",
+   "session": "hn05",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 30,
+   "bbox": [
+    90,
+    510,
+    550,
+    720
+   ],
+   "w": 920,
+   "h": 420,
+   "bytes": 86144,
+   "path": "headneck/images/hn05_grays_spaces.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p02_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 2,
+   "bbox": [
+    54.0,
+    341.99,
+    533.5,
+    611.74
+   ],
+   "w": 1466,
+   "h": 825,
+   "bytes": 185269,
+   "path": "headneck/images/hn06_lecture_p02_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p03_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "bbox": [
+    36.5,
+    486.52,
+    266.5,
+    640.02
+   ],
+   "w": 702,
+   "h": 469,
+   "bytes": 63431,
+   "path": "headneck/images/hn06_lecture_p03_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p04_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "bbox": [
+    72.0,
+    333.87,
+    539.75,
+    640.47
+   ],
+   "w": 1580,
+   "h": 1036,
+   "bytes": 233298,
+   "path": "headneck/images/hn06_lecture_p04_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p07_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "bbox": [
+    23.0,
+    383.52,
+    319.0,
+    640.17
+   ],
+   "w": 904,
+   "h": 784,
+   "bytes": 107850,
+   "path": "headneck/images/hn06_lecture_p07_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p09_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "bbox": [
+    72.0,
+    72.0,
+    539.25,
+    334.55
+   ],
+   "w": 1426,
+   "h": 801,
+   "bytes": 211726,
+   "path": "headneck/images/hn06_lecture_p09_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p11_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "bbox": [
+    62.2,
+    72.0,
+    501.05,
+    398.4
+   ],
+   "w": 1385,
+   "h": 1030,
+   "bytes": 137402,
+   "path": "headneck/images/hn06_lecture_p11_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p14_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "bbox": [
+    31.0,
+    331.49,
+    332.3,
+    596.99
+   ],
+   "w": 919,
+   "h": 810,
+   "bytes": 125155,
+   "path": "headneck/images/hn06_lecture_p14_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p15_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    44.0,
+    135.0,
+    248.5,
+    206.5
+   ],
+   "w": 624,
+   "h": 218,
+   "bytes": 27696,
+   "path": "headneck/images/hn06_lecture_p15_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p15_2",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    33.0,
+    209.5,
+    332.0,
+    442.5
+   ],
+   "w": 991,
+   "h": 772,
+   "bytes": 86235,
+   "path": "headneck/images/hn06_lecture_p15_2.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p15_3",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    71.5,
+    440.98,
+    260.0,
+    707.23
+   ],
+   "w": 576,
+   "h": 814,
+   "bytes": 71899,
+   "path": "headneck/images/hn06_lecture_p15_3.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p16_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "bbox": [
+    72.0,
+    93.4,
+    540.0,
+    313.65
+   ],
+   "w": 1299,
+   "h": 611,
+   "bytes": 104440,
+   "path": "headneck/images/hn06_lecture_p16_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p17_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "bbox": [
+    72.0,
+    233.59,
+    540.0,
+    402.09
+   ],
+   "w": 1299,
+   "h": 468,
+   "bytes": 73429,
+   "path": "headneck/images/hn06_lecture_p17_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p18_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "bbox": [
+    72.0,
+    72.0,
+    539.5,
+    295.5
+   ],
+   "w": 1428,
+   "h": 683,
+   "bytes": 139676,
+   "path": "headneck/images/hn06_lecture_p18_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p19_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "bbox": [
+    35.0,
+    197.49,
+    301.0,
+    453.49
+   ],
+   "w": 825,
+   "h": 794,
+   "bytes": 61953,
+   "path": "headneck/images/hn06_lecture_p19_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p19_2",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "bbox": [
+    33.5,
+    509.01,
+    292.0,
+    713.61
+   ],
+   "w": 789,
+   "h": 624,
+   "bytes": 103529,
+   "path": "headneck/images/hn06_lecture_p19_2.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p20_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "bbox": [
+    72.0,
+    72.0,
+    540.0,
+    224.4
+   ],
+   "w": 1299,
+   "h": 423,
+   "bytes": 91795,
+   "path": "headneck/images/hn06_lecture_p20_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_hyoid",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 105,
+   "bbox": [
+    52,
+    170,
+    578,
+    600
+   ],
+   "w": 1052,
+   "h": 860,
+   "bytes": 300532,
+   "path": "headneck/images/hn06_netter_hyoid.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_lateral",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 106,
+   "bbox": [
+    52,
+    95,
+    576,
+    716
+   ],
+   "w": 1048,
+   "h": 1242,
+   "bytes": 380867,
+   "path": "headneck/images/hn06_netter_lateral.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_prevertebral",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 107,
+   "bbox": [
+    52,
+    95,
+    576,
+    716
+   ],
+   "w": 1048,
+   "h": 1242,
+   "bytes": 404822,
+   "path": "headneck/images/hn06_netter_prevertebral.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_posterior_superficial",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 281,
+   "bbox": [
+    48,
+    100,
+    582,
+    345
+   ],
+   "w": 1068,
+   "h": 490,
+   "bytes": 172834,
+   "path": "headneck/images/hn06_netter_posterior_superficial.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_posterior_deep",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 283,
+   "bbox": [
+    85,
+    100,
+    565,
+    300
+   ],
+   "w": 960,
+   "h": 400,
+   "bytes": 101119,
+   "path": "headneck/images/hn06_netter_posterior_deep.jpeg"
+  },
+  {
+   "asset_id": "hn06_grays_infrahyoid",
+   "book": "grays",
+   "session": "hn06",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 37,
+   "bbox": [
+    50,
+    280,
+    555,
+    740
+   ],
+   "w": 1010,
+   "h": 920,
+   "bytes": 176483,
+   "path": "headneck/images/hn06_grays_infrahyoid.jpeg"
+  },
+  {
+   "asset_id": "hn06_grays_suprahyoid",
+   "book": "grays",
+   "session": "hn06",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 36,
+   "bbox": [
+    55,
+    325,
+    310,
+    740
+   ],
+   "w": 510,
+   "h": 830,
+   "bytes": 99249,
+   "path": "headneck/images/hn06_grays_suprahyoid.jpeg"
+  },
+  {
+   "asset_id": "hn06_grays_prevertebral",
+   "book": "grays",
+   "session": "hn06",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 57,
+   "bbox": [
+    55,
+    65,
+    555,
+    505
+   ],
+   "w": 1000,
+   "h": 880,
+   "bytes": 189310,
+   "path": "headneck/images/hn06_grays_prevertebral.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_skeleton",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 45,
+   "bbox": [
+    55,
+    70,
+    585,
+    735
+   ],
+   "note": "اسکلت محوری و ضمیمه در یک نما",
+   "w": 1060,
+   "h": 1330,
+   "bytes": 299307,
+   "path": "headneck/images/hn01_up_netter_skeleton.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_diploe",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 179,
+   "bbox": [
+    55,
+    92,
+    585,
+    435
+   ],
+   "note": "لایه‌های سقف جمجمه در برش",
+   "w": 1060,
+   "h": 686,
+   "bytes": 249821,
+   "path": "headneck/images/hn01_up_netter_diploe.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_hyoid",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 88,
+   "bbox": [
+    105,
+    70,
+    600,
+    738
+   ],
+   "note": "استخوان لامی در چارچوب استخوانی گردن",
+   "w": 990,
+   "h": 1336,
+   "bytes": 408384,
+   "path": "headneck/images/hn01_up_netter_hyoid.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_palatebase",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 83,
+   "bbox": [
+    45,
+    70,
+    590,
+    370
+   ],
+   "note": "کام سخت در نمای تحتانی قاعده",
+   "w": 1090,
+   "h": 600,
+   "bytes": 206907,
+   "path": "headneck/images/hn01_up_netter_palatebase.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_orbit",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 77,
+   "bbox": [
+    50,
+    495,
+    590,
+    748
+   ],
+   "note": "دیواره‌ها و سقف کاسهٔ چشم",
+   "w": 1080,
+   "h": 506,
+   "bytes": 143864,
+   "path": "headneck/images/hn01_up_netter_orbit.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_nose",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 111,
+   "bbox": [
+    65,
+    65,
+    570,
+    410
+   ],
+   "note": "چارچوب استخوانی و غضروفی بینی",
+   "w": 1010,
+   "h": 690,
+   "bytes": 141452,
+   "path": "headneck/images/hn01_up_netter_nose.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_maxmedial",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 114,
+   "bbox": [
+    55,
+    75,
+    590,
+    420
+   ],
+   "note": "دیوارهٔ جانبی حفرهٔ بینی و ماگزیلا",
+   "w": 1070,
+   "h": 690,
+   "bytes": 213359,
+   "path": "headneck/images/hn01_up_netter_maxmedial.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_lacrimal",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 163,
+   "bbox": [
+    55,
+    65,
+    590,
+    695
+   ],
+   "note": "دستگاه اشکی و مسیر تخلیه",
+   "w": 1070,
+   "h": 1260,
+   "bytes": 326286,
+   "path": "headneck/images/hn01_up_netter_lacrimal.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_sinus",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 119,
+   "bbox": [
+    55,
+    380,
+    585,
+    723
+   ],
+   "note": "سینوس فکی، ریشه‌های دندان و دهانه",
+   "w": 1060,
+   "h": 686,
+   "bytes": 133547,
+   "path": "headneck/images/hn01_up_netter_sinus.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_sinus_age",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 120,
+   "bbox": [
+    55,
+    475,
+    575,
+    735
+   ],
+   "note": "رشد سینوس‌ها با افزایش سن",
+   "w": 1040,
+   "h": 520,
+   "bytes": 79604,
+   "path": "headneck/images/hn01_up_netter_sinus_age.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_newborn",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 87,
+   "bbox": [
+    60,
+    70,
+    585,
+    690
+   ],
+   "note": "جمجمهٔ نوزاد و درز پیشانی",
+   "w": 1050,
+   "h": 1240,
+   "bytes": 305822,
+   "path": "headneck/images/hn01_up_netter_newborn.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_septum",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 115,
+   "bbox": [
+    55,
+    428,
+    590,
+    720
+   ],
+   "note": "تیغهٔ بینی، خار و کام استخوانی",
+   "w": 1070,
+   "h": 584,
+   "bytes": 183617,
+   "path": "headneck/images/hn01_up_netter_septum.jpeg"
+  },
+  {
+   "asset_id": "hn01_up_netter_palateroof",
+   "book": "netter",
+   "session": "hn01",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 137,
+   "bbox": [
+    50,
+    70,
+    590,
+    430
+   ],
+   "note": "سقف دهان و کام سخت",
+   "w": 1080,
+   "h": 720,
+   "bytes": 257764,
+   "path": "headneck/images/hn01_up_netter_palateroof.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_zygomatic",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 77,
+   "bbox": [
+    45,
+    75,
+    585,
+    525
+   ],
+   "note": "گونه در چارچوب جلویی جمجمه",
+   "w": 1080,
+   "h": 900,
+   "bytes": 254138,
+   "path": "headneck/images/hn02_up_netter_zygomatic.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_arch",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 79,
+   "bbox": [
+    50,
+    80,
+    590,
+    490
+   ],
+   "note": "قوس گونه‌ای و اجزای آن",
+   "w": 1080,
+   "h": 820,
+   "bytes": 274411,
+   "path": "headneck/images/hn02_up_netter_arch.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_face_vessels",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 76,
+   "bbox": [
+    45,
+    75,
+    585,
+    675
+   ],
+   "note": "رگ‌های سطحی صورت و گیجگاه",
+   "w": 1080,
+   "h": 1200,
+   "bytes": 437719,
+   "path": "headneck/images/hn02_up_netter_face_vessels.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_cranial_section",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 81,
+   "bbox": [
+    45,
+    80,
+    585,
+    486
+   ],
+   "note": "سطح درونی نیمهٔ جمجمه",
+   "w": 1080,
+   "h": 812,
+   "bytes": 281506,
+   "path": "headneck/images/hn02_up_netter_cranial_section.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_zygomatic_nerve",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 133,
+   "bbox": [
+    50,
+    80,
+    590,
+    735
+   ],
+   "note": "شاخه‌های عصبی استخوان گونه",
+   "w": 1080,
+   "h": 1310,
+   "bytes": 396643,
+   "path": "headneck/images/hn02_up_netter_zygomatic_nerve.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_mandible",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "bbox": [
+    60,
+    90,
+    570,
+    410
+   ],
+   "note": "جسم و شاخ مندیبل",
+   "w": 1020,
+   "h": 640,
+   "bytes": 136759,
+   "path": "headneck/images/hn02_up_netter_mandible.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_dental_arch",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 92,
+   "bbox": [
+    40,
+    430,
+    590,
+    720
+   ],
+   "note": "قوس دندان‌های دائمی",
+   "w": 1100,
+   "h": 580,
+   "bytes": 166163,
+   "path": "headneck/images/hn02_up_netter_dental_arch.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_dental_age",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 92,
+   "bbox": [
+    75,
+    80,
+    580,
+    425
+   ],
+   "note": "دندان‌های شیری و دائمی در فک",
+   "w": 1010,
+   "h": 690,
+   "bytes": 224380,
+   "path": "headneck/images/hn02_up_netter_dental_age.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_lateral_xray",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 80,
+   "bbox": [
+    50,
+    130,
+    585,
+    675
+   ],
+   "note": "رادیوگرافی طرفی جمجمه",
+   "w": 1070,
+   "h": 1090,
+   "bytes": 190315,
+   "path": "headneck/images/hn02_up_netter_lateral_xray.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_medial",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "bbox": [
+    65,
+    410,
+    540,
+    675
+   ],
+   "note": "سطح داخلی جسم مندیبل",
+   "w": 950,
+   "h": 530,
+   "bytes": 103934,
+   "path": "headneck/images/hn02_up_netter_medial.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_ramus",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "bbox": [
+    60,
+    90,
+    570,
+    410
+   ],
+   "note": "سوراخ مندیبل و زوائد شاخ",
+   "w": 1020,
+   "h": 640,
+   "bytes": 136759,
+   "path": "headneck/images/hn02_up_netter_ramus.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_age",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 91,
+   "bbox": [
+    355,
+    490,
+    560,
+    700
+   ],
+   "note": "مندیبل فرد بی‌دندان در نتر",
+   "w": 410,
+   "h": 420,
+   "bytes": 42394,
+   "path": "headneck/images/hn02_up_netter_age.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_facenerves",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 75,
+   "bbox": [
+    50,
+    70,
+    585,
+    490
+   ],
+   "note": "اعصاب حسی صورت",
+   "w": 1070,
+   "h": 840,
+   "bytes": 347426,
+   "path": "headneck/images/hn02_up_netter_facenerves.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_surface",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 74,
+   "bbox": [
+    60,
+    55,
+    580,
+    500
+   ],
+   "note": "نشانه‌های سطحی صورت",
+   "w": 1040,
+   "h": 890,
+   "bytes": 252174,
+   "path": "headneck/images/hn02_up_netter_surface.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_temporal",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 79,
+   "bbox": [
+    50,
+    80,
+    590,
+    490
+   ],
+   "note": "نمای طرفی: آهیانه و گیجگاهی",
+   "w": 1080,
+   "h": 820,
+   "bytes": 274411,
+   "path": "headneck/images/hn02_up_netter_temporal.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_opening",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 255,
+   "bbox": [
+    55,
+    90,
+    570,
+    710
+   ],
+   "note": "حرکت کندیل هنگام باز شدن دهان",
+   "w": 1030,
+   "h": 1240,
+   "bytes": 292863,
+   "path": "headneck/images/hn02_up_netter_opening.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_base",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 83,
+   "bbox": [
+    50,
+    180,
+    590,
+    620
+   ],
+   "note": "بخش تحتانی گیجگاهی و زوائد آن",
+   "w": 1080,
+   "h": 880,
+   "bytes": 335089,
+   "path": "headneck/images/hn02_up_netter_base.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_parietal",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "bbox": [
+    55,
+    75,
+    575,
+    390
+   ],
+   "note": "آهیانه و درزهای سقف جمجمه",
+   "w": 1040,
+   "h": 630,
+   "bytes": 116215,
+   "path": "headneck/images/hn02_up_netter_parietal.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_foveolae",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "bbox": [
+    55,
+    410,
+    575,
+    735
+   ],
+   "note": "سطح درونی کالواریا و گرانولاسیون‌ها",
+   "w": 1040,
+   "h": 650,
+   "bytes": 154059,
+   "path": "headneck/images/hn02_up_netter_foveolae.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_meninges",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 181,
+   "bbox": [
+    45,
+    65,
+    585,
+    342
+   ],
+   "note": "رابطهٔ گرانولاسیون، سینوس و استخوان",
+   "w": 1080,
+   "h": 554,
+   "bytes": 159984,
+   "path": "headneck/images/hn02_up_netter_meninges.jpeg"
+  },
+  {
+   "asset_id": "hn02_up_netter_fontanel_ct",
+   "book": "netter",
+   "session": "hn02",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 246,
+   "bbox": [
+    60,
+    60,
+    590,
+    375
+   ],
+   "note": "جمجمهٔ کودک در بازسازی سه‌بعدی",
+   "w": 1060,
+   "h": 630,
+   "bytes": 156607,
+   "path": "headneck/images/hn02_up_netter_fontanel_ct.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_orbit",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 77,
+   "plate": "25",
+   "bbox": [
+    45,
+    540,
+    590,
+    735
+   ],
+   "w": 1363,
+   "h": 488,
+   "bytes": 155740,
+   "path": "headneck/images/hn03_up_netter_orbit.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_pterygoid",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 90,
+   "plate": "38",
+   "bbox": [
+    55,
+    95,
+    585,
+    440
+   ],
+   "w": 1326,
+   "h": 863,
+   "bytes": 206636,
+   "path": "headneck/images/hn03_up_netter_pterygoid.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_clivus",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 81,
+   "plate": "29",
+   "bbox": [
+    42,
+    75,
+    590,
+    489
+   ],
+   "w": 1370,
+   "h": 1036,
+   "bytes": 323447,
+   "path": "headneck/images/hn03_up_netter_clivus.jpeg",
+   "masked_source_rect": [
+    180,
+    486,
+    590,
+    489
+   ],
+   "mask_reason": "remove fragment of adjacent lower figure"
+  },
+  {
+   "asset_id": "hn03_up_netter_palatine_nose",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 114,
+   "plate": "62",
+   "bbox": [
+    40,
+    80,
+    595,
+    450
+   ],
+   "w": 1388,
+   "h": 925,
+   "bytes": 249478,
+   "path": "headneck/images/hn03_up_netter_palatine_nose.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_palate",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 83,
+   "plate": "31",
+   "bbox": [
+    45,
+    75,
+    585,
+    735
+   ],
+   "w": 1351,
+   "h": 1651,
+   "bytes": 492606,
+   "path": "headneck/images/hn03_up_netter_palate.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_lambda",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "plate": "30",
+   "bbox": [
+    70,
+    85,
+    590,
+    425
+   ],
+   "w": 1300,
+   "h": 851,
+   "bytes": 131864,
+   "path": "headneck/images/hn03_up_netter_lambda.jpeg",
+   "masked_source_rect": [
+    70,
+    397,
+    325,
+    425
+   ],
+   "mask_reason": "remove fragment of adjacent inferior-view figure"
+  },
+  {
+   "asset_id": "hn03_up_netter_emissary",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 179,
+   "plate": "127",
+   "bbox": [
+    45,
+    75,
+    590,
+    735
+   ],
+   "w": 1363,
+   "h": 1651,
+   "bytes": 496167,
+   "path": "headneck/images/hn03_up_netter_emissary.jpeg"
+  },
+  {
+   "asset_id": "hn03_up_netter_condylar_vein",
+   "book": "netter",
+   "session": "hn03",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 280,
+   "plate": "194",
+   "bbox": [
+    25,
+    80,
+    590,
+    305
+   ],
+   "w": 1413,
+   "h": 563,
+   "bytes": 105616,
+   "path": "headneck/images/hn03_up_netter_condylar_vein.jpeg"
+  },
+  {
+   "asset_id": "hn04_grays_f825",
+   "book": "grays",
+   "session": "hn04",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 93,
+   "printed_page": 865,
+   "figure": "8.25",
+   "plate": null,
+   "bbox": [
+    48,
+    377,
+    560,
+    550
+   ],
+   "w": 1536,
+   "h": 519,
+   "bytes": 133286,
+   "path": "headneck/images/hn04_grays_f825.jpeg",
+   "note": "حفرهٔ قدامی و نقشهٔ کوچک موقعیت آن",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_grays_f826",
+   "book": "grays",
+   "session": "hn04",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "page": 95,
+   "printed_page": 867,
+   "figure": "8.26",
+   "plate": null,
+   "bbox": [
+    48,
+    455,
+    560,
+    740
+   ],
+   "w": 1536,
+   "h": 855,
+   "bytes": 211966,
+   "path": "headneck/images/hn04_grays_f826.jpeg",
+   "note": "حفرهٔ میانی و نقشهٔ کوچک موقعیت آن",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_netter_p30_superior",
+   "book": "netter",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 82,
+   "printed_page": null,
+   "figure": null,
+   "plate": 30,
+   "bbox": [
+    50,
+    80,
+    580,
+    415
+   ],
+   "w": 1590,
+   "h": 1005,
+   "bytes": 206070,
+   "path": "headneck/images/hn04_netter_p30_superior.jpeg",
+   "note": "نمای فوقانی کالواریا و استخوان درزی",
+   "mask_rects": [
+    [
+     50,
+     390,
+     315,
+     415
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn04_netter_p31_inferior",
+   "book": "netter",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 83,
+   "printed_page": null,
+   "figure": null,
+   "plate": 31,
+   "bbox": [
+    48,
+    80,
+    590,
+    735
+   ],
+   "w": 1626,
+   "h": 1965,
+   "bytes": 763334,
+   "path": "headneck/images/hn04_netter_p31_inferior.jpeg",
+   "note": "نام ساختارهای قاعدهٔ خارجی",
+   "mask_rects": []
+  }
+ ]
+}
