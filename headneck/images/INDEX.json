@@ -4348,6 +4348,414 @@
    "h": 420,
    "bytes": 86144,
    "path": "headneck/images/hn05_grays_spaces.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p02_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 2,
+   "bbox": [
+    54.0,
+    341.99,
+    533.5,
+    611.74
+   ],
+   "w": 1466,
+   "h": 825,
+   "bytes": 185269,
+   "path": "headneck/images/hn06_lecture_p02_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p03_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "bbox": [
+    36.5,
+    486.52,
+    266.5,
+    640.02
+   ],
+   "w": 702,
+   "h": 469,
+   "bytes": 63431,
+   "path": "headneck/images/hn06_lecture_p03_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p04_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 4,
+   "bbox": [
+    72.0,
+    333.87,
+    539.75,
+    640.47
+   ],
+   "w": 1580,
+   "h": 1036,
+   "bytes": 233298,
+   "path": "headneck/images/hn06_lecture_p04_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p07_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 7,
+   "bbox": [
+    23.0,
+    383.52,
+    319.0,
+    640.17
+   ],
+   "w": 904,
+   "h": 784,
+   "bytes": 107850,
+   "path": "headneck/images/hn06_lecture_p07_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p09_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 9,
+   "bbox": [
+    72.0,
+    72.0,
+    539.25,
+    334.55
+   ],
+   "w": 1426,
+   "h": 801,
+   "bytes": 211726,
+   "path": "headneck/images/hn06_lecture_p09_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p11_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 11,
+   "bbox": [
+    62.2,
+    72.0,
+    501.05,
+    398.4
+   ],
+   "w": 1385,
+   "h": 1030,
+   "bytes": 137402,
+   "path": "headneck/images/hn06_lecture_p11_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p14_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 14,
+   "bbox": [
+    31.0,
+    331.49,
+    332.3,
+    596.99
+   ],
+   "w": 919,
+   "h": 810,
+   "bytes": 125155,
+   "path": "headneck/images/hn06_lecture_p14_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p15_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    44.0,
+    135.0,
+    248.5,
+    206.5
+   ],
+   "w": 624,
+   "h": 218,
+   "bytes": 27696,
+   "path": "headneck/images/hn06_lecture_p15_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p15_2",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    33.0,
+    209.5,
+    332.0,
+    442.5
+   ],
+   "w": 991,
+   "h": 772,
+   "bytes": 86235,
+   "path": "headneck/images/hn06_lecture_p15_2.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p15_3",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "bbox": [
+    71.5,
+    440.98,
+    260.0,
+    707.23
+   ],
+   "w": 576,
+   "h": 814,
+   "bytes": 71899,
+   "path": "headneck/images/hn06_lecture_p15_3.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p16_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 16,
+   "bbox": [
+    72.0,
+    93.4,
+    540.0,
+    313.65
+   ],
+   "w": 1299,
+   "h": 611,
+   "bytes": 104440,
+   "path": "headneck/images/hn06_lecture_p16_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p17_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 17,
+   "bbox": [
+    72.0,
+    233.59,
+    540.0,
+    402.09
+   ],
+   "w": 1299,
+   "h": 468,
+   "bytes": 73429,
+   "path": "headneck/images/hn06_lecture_p17_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p18_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 18,
+   "bbox": [
+    72.0,
+    72.0,
+    539.5,
+    295.5
+   ],
+   "w": 1428,
+   "h": 683,
+   "bytes": 139676,
+   "path": "headneck/images/hn06_lecture_p18_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p19_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "bbox": [
+    35.0,
+    197.49,
+    301.0,
+    453.49
+   ],
+   "w": 825,
+   "h": 794,
+   "bytes": 61953,
+   "path": "headneck/images/hn06_lecture_p19_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p19_2",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 19,
+   "bbox": [
+    33.5,
+    509.01,
+    292.0,
+    713.61
+   ],
+   "w": 789,
+   "h": 624,
+   "bytes": 103529,
+   "path": "headneck/images/hn06_lecture_p19_2.jpeg"
+  },
+  {
+   "asset_id": "hn06_lecture_p20_1",
+   "book": "lecture",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 20,
+   "bbox": [
+    72.0,
+    72.0,
+    540.0,
+    224.4
+   ],
+   "w": 1299,
+   "h": 423,
+   "bytes": 91795,
+   "path": "headneck/images/hn06_lecture_p20_1.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_hyoid",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 105,
+   "bbox": [
+    52,
+    170,
+    578,
+    600
+   ],
+   "w": 1052,
+   "h": 860,
+   "bytes": 300532,
+   "path": "headneck/images/hn06_netter_hyoid.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_lateral",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 106,
+   "bbox": [
+    52,
+    95,
+    576,
+    716
+   ],
+   "w": 1048,
+   "h": 1242,
+   "bytes": 380867,
+   "path": "headneck/images/hn06_netter_lateral.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_prevertebral",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 107,
+   "bbox": [
+    52,
+    95,
+    576,
+    716
+   ],
+   "w": 1048,
+   "h": 1242,
+   "bytes": 404822,
+   "path": "headneck/images/hn06_netter_prevertebral.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_posterior_superficial",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 281,
+   "bbox": [
+    48,
+    100,
+    582,
+    345
+   ],
+   "w": 1068,
+   "h": 490,
+   "bytes": 172834,
+   "path": "headneck/images/hn06_netter_posterior_superficial.jpeg"
+  },
+  {
+   "asset_id": "hn06_netter_posterior_deep",
+   "book": "netter",
+   "session": "hn06",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 283,
+   "bbox": [
+    85,
+    100,
+    565,
+    300
+   ],
+   "w": 960,
+   "h": 400,
+   "bytes": 101119,
+   "path": "headneck/images/hn06_netter_posterior_deep.jpeg"
+  },
+  {
+   "asset_id": "hn06_grays_infrahyoid",
+   "book": "grays",
+   "session": "hn06",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 37,
+   "bbox": [
+    50,
+    280,
+    555,
+    740
+   ],
+   "w": 1010,
+   "h": 920,
+   "bytes": 176483,
+   "path": "headneck/images/hn06_grays_infrahyoid.jpeg"
+  },
+  {
+   "asset_id": "hn06_grays_suprahyoid",
+   "book": "grays",
+   "session": "hn06",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 36,
+   "bbox": [
+    55,
+    325,
+    310,
+    740
+   ],
+   "w": 510,
+   "h": 830,
+   "bytes": 99249,
+   "path": "headneck/images/hn06_grays_suprahyoid.jpeg"
+  },
+  {
+   "asset_id": "hn06_grays_prevertebral",
+   "book": "grays",
+   "session": "hn06",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+   "page": 57,
+   "bbox": [
+    55,
+    65,
+    555,
+    505
+   ],
+   "w": 1000,
+   "h": 880,
+   "bytes": 189310,
+   "path": "headneck/images/hn06_grays_prevertebral.jpeg"
   }
  ]
 }

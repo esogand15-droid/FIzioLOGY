@@ -135,9 +135,9 @@ HN_SESSIONS = {
     ),
     "hn06": dict(
         num="۶", n=6, of="۱۳",
-        title="عضلات گردن: سطحی و هایوئیدی و عمقی",
+        title="عضلات گردن: لامی، پیش‌مهره‌ای و خلفی",
         cover_title=["آناتومی سر و گردن", "جلسهٔ ۶ — عضلات گردن"],
-        cover_topic="پلاتیسما، استرنوکلایدوماستوئید، اینفراهایوئید، سوپراهایوئید و عضلات عمقی",
+        cover_topic="عضلات بالا و زیر لامی، پیش‌مهره‌ای، اسکالن و خلف گردن",
         divider_title="لایه‌های عضلانی گردن",
         divider_sub="جزوهٔ درس · نتر · گری",
         lecture="جزوهٔ درس (جلسهٔ ۶) — مهر ۱۴۰۴",
@@ -145,9 +145,10 @@ HN_SESSIONS = {
         outline="hn06_topics.json",
         content=("hn06_a.json", "hn06_b.json"),
         anchor="hn-06",
+        measure_idcard=True,
         pdf_name="HumsYar_HeadNeck_Jalase6.pdf",
-        outcome="",
-        intro_sources="نتر، سر و گردن (پلیت ۲۲–۱۷۷) · گری، فصل ۸",
+        outcome="عضلات لامی، پیش‌مهره‌ای و اسکالن، لایه‌های عضلات خلف گردن و مثلث زیرپس‌سری را بشناسید.",
+        intro_sources="جزوهٔ جلسهٔ ۶ · نتر، پلیت‌های ۵۳ تا ۵۵، ۱۹۵ و ۱۹۷ · گری، شکل‌های ۸.۱۶۳، ۸.۱۶۴ و ۸.۱۸۵",
         next_topics=[],
     ),
     "hn07": dict(
@@ -639,8 +640,11 @@ def render_blocks(book: PDFBook, blocks) -> None:
             book.source_line(b.get("src", ""))
             book.spacer(3)
         elif kind == "h3":
-            # the sub-heading keeps the first part of its own block with it
-            book.h3(b["text"], keep_with=min(after + 12, book.usable_height() - 90))
+            # Keep an optional source line with the heading and its next block.
+            extra = cite_room if b.get("src") else 0
+            book.h3(b["text"], keep_with=min(after + 12 + extra, book.usable_height() - 90))
+            if b.get("src"):
+                book.source_line(b["src"])
         elif kind == "callout":
             book.callout(b["text"], kind=b.get("kind", "key"), title=b.get("title"))
             if b.get("src"):
