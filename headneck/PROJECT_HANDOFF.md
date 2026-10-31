@@ -234,3 +234,7 @@ HUMSYAR_HN03_WIP=1 .venv/bin/python render/qa_headneck.py --session hn03 --pdf /
 ## درخواست انتشار نسخهٔ موجود در GitHub
 
 کاربر پس از تحویل فایل، صریحاً خواست همین شاخه و PDF برای دانلود از GitHub در دسترس باشد. انتشار این تحویل مربوط به **نسخهٔ موجود با پسوند REVIEW و محدودیت‌های بالا** است، نه اعلام پایان کنترل‌ها یا ارتقای آن به نسخهٔ نهایی. نسخهٔ ۹۰ صفحه‌ای همچنان حفظ می‌شود. گزارش‌های «عدم انتشار» در متن بالا، وضعیت پیش از این درخواست را شرح می‌دهند.
+
+## Session 1 writer edition (2026-10-31)
+
+The current session-one editorial deliverable is `pdf/HumsYar_HeadNeck_Jalase1_WRITER_FINAL.pdf`, based on the historical 100-page topic order plus the later instructional additions. Its report and scope are in `headneck/reports/HN_S01_WRITER_FINAL_REPORT.md`. SHA-256: `5511416f7f00689014aad521a1b2ee01beb547a6c750542688e7248b780ac20f`. Prior editions remain intact. The user requested session 1 first, then sessions 2–7 individually; those later updates have not been performed as part of this delivery.
