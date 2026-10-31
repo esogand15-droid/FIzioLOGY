@@ -1,0 +1,24 @@
+{
+  "commit": "1ef00335a9bcccf478a92014909eb97f9fd022d1",
+  "branch": "arena/3260a120-fiziology",
+  "checked_at": "2026-10-31T14:25:36.165435+00:00",
+  "method": "Actual authenticated gh API raw-content downloads pinned to full commit, then byte-for-byte comparison against local files; not merely git status or matching filenames.",
+  "files": [
+    {
+      "file": "pdf/HumsYar_HeadNeck_Jalase6_FINAL.pdf",
+      "downloaded_from": "https://api.github.com/repos/esogand15-droid/FIzioLOGY/contents/pdf/HumsYar_HeadNeck_Jalase6_FINAL.pdf?ref=1ef00335a9bcccf478a92014909eb97f9fd022d1",
+      "bytes": 9553464,
+      "sha256": "d05692679a604d622dd43dc6b87ef1d985e968d06df85fd3926f572b80721204",
+      "byte_equal": true,
+      "public_url": "https://github.com/esogand15-droid/FIzioLOGY/blob/1ef00335a9bcccf478a92014909eb97f9fd022d1/pdf/HumsYar_HeadNeck_Jalase6_FINAL.pdf"
+    },
+    {
+      "file": "headneck/reports/HN_S06_FINAL_REVIEW_REPORT.md",
+      "downloaded_from": "https://api.github.com/repos/esogand15-droid/FIzioLOGY/contents/headneck/reports/HN_S06_FINAL_REVIEW_REPORT.md?ref=1ef00335a9bcccf478a92014909eb97f9fd022d1",
+      "bytes": 15842,
+      "sha256": "a5db2496f7d20cf14a9167f635cb72471408adfe9fc074bffc1a9807886b227d",
+      "byte_equal": true,
+      "public_url": "https://github.com/esogand15-droid/FIzioLOGY/blob/1ef00335a9bcccf478a92014909eb97f9fd022d1/headneck/reports/HN_S06_FINAL_REVIEW_REPORT.md"
+    }
+  ]
+}
