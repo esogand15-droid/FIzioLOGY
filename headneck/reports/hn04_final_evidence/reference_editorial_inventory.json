@@ -1,0 +1,241 @@
+{
+  "final_pdf_sha256": "85e6c0b234f14592d399f234039138d15eee870fdc2e4f22cece234c7e72714b",
+  "scope": "Relevant-page review, not a book-wide exhaustive search: Netter PDF 81–86, 113–115, 177; Gray Students 3rd ed part 801–1000 PDF 88–97. Source lecture subfigures are inventoried separately.",
+  "sources": [
+    {
+      "file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd"
+    },
+    {
+      "file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064"
+    }
+  ],
+  "pages": [
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 81,
+      "printed_page": null,
+      "plate_or_figure": "29",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "برش میانی جمجمه و دیوارهٔ طرفی بینی پس از برداشتن تیغه؛ نمای دیوارهٔ بینی انتخاب شد (ص ۱۱). نمای میانی برای مقابلهٔ جهت‌ها دیده شد؛ تکرار آن کنار تصاویر جزوه ضروری نبود.",
+      "source_render": "atlas/netter_81.jpg",
+      "source_render_sha256": "f7aeb38db1a368dc3e4b36f19aea3f7937f0849f272824010f8e54f59de0e1c5"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 82,
+      "printed_page": null,
+      "plate_or_figure": "30",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "نمای فوقانی کالواریا با استخوان ورمین و نمای تحتانی آن؛ نمای فوقانی انتخاب شد (ص ۱۱۱). نمای تحتانی سقف جمجمه، خارج از هدف قاعدهٔ این جلسه است؛ تکهٔ آن در برش منتخب ماسک شده است.",
+      "source_render": "atlas/netter_82.jpg",
+      "source_render_sha256": "bbd11a2ec8e0b10d7c0c871fc744eedb1f6854df35b93268a207d76e12a4394f"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 83,
+      "printed_page": null,
+      "plate_or_figure": "31",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "نمای تحتانی کامل قاعده؛ برای پتروس و جهت‌یابی انتخاب شد (ص ۵۸).",
+      "source_render": "atlas/netter_83.jpg",
+      "source_render_sha256": "3f701a971a0642f63c80269aaaedfcb75c57716a61c180d7d39692449dee114b"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 84,
+      "printed_page": null,
+      "plate_or_figure": "32",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "نمای فوقانی قاعده و تقسیم سه حفره؛ قاب پایه حفظ شد (ص ۶۷). ریزبرچسب‌های این نمای کلی با زوم خوانده می‌شوند؛ قاب‌های موضعی مکمل‌اند.",
+      "source_render": "atlas/netter_84.jpg",
+      "source_render_sha256": "7c341cb0ea031e88a39947ac92f1375e15f9f9fd39d9e79599ade06a28b13924"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 85,
+      "printed_page": null,
+      "plate_or_figure": "33",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "سوراخ‌های قاعده از زیر؛ نواحی کاروتید/کانالیکول/ژوگولار/سوراخ بزرگ از همان پنل انتخاب شده‌اند (ص ۹۵ و ۱۰۳). نواحی قدامی در نمای کامل پلیت ۳۱ و گری ۸.۲۳ موجودند؛ برش موضعی به نام پلیت کامل معرفی نشده است.",
+      "source_render": "atlas/netter_85.jpg",
+      "source_render_sha256": "c3ba789ccd3dc5c174408fa4e2913c67cbefca04299b55cc798cb6c60eee4665"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 86,
+      "printed_page": null,
+      "plate_or_figure": "34",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "سوراخ‌های قاعده از بالا؛ ناحیهٔ میانی انتخاب شد (ص ۷۶). نام شریان کنار کانال کندیلار در خود صفحه برای اختلاف با جزوه بررسی و اختلاف جدا ثبت شد؛ بخش نامرتبط پنل به برش میانی افزوده نشد.",
+      "source_render": "atlas/netter_86.jpg",
+      "source_render_sha256": "0f065f1134b1935b9d142276fbd4fb4551fcf75f70918ed05f523649d0da8b2f"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 113,
+      "printed_page": null,
+      "plate_or_figure": "61",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "دو تصویر دیوارهٔ طرفی بینی؛ نمای پایینی با شاخک‌های بریده برای دهانهٔ اشکی/مجاری انتخاب شد (ص ۳۱). نمای بالا برای مقایسه دیده شد؛ نمای کامل شاخک‌ها در جزوه/پلیت ۲۹ نیز موجود است.",
+      "source_render": "atlas/netter_113.jpg",
+      "source_render_sha256": "0e4d1b04c32491450e8aa015beb405f45c7b35de0a5304b311a03a0827849ad7"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 114,
+      "printed_page": null,
+      "plate_or_figure": "62",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "دو نمای دیوارهٔ طرفی/برش استخوانی بینی؛ مبدأ شاخک‌های فوقانی و میانی و دهانهٔ اشکی مقابله شد. قاب جدید تکراری افزوده نشد؛ پلیت ۶۱ شاهد تصویری مستقیم در خروجی است.",
+      "source_render": "atlas/netter_114.jpg",
+      "source_render_sha256": "c1989a7cced2fcaf09a2283b76bb48ccad3d9e9d6ac25dbe3a32781ded1e3127"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 115,
+      "printed_page": null,
+      "plate_or_figure": "63",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "تیغهٔ بینی در نماهای مکمل؛ نمای پایینی استخوان/غضروف انتخاب شد (ص ۳۶). نمای دیگر برای جهت‌یابی دیده شد؛ تکرار آن برای هدف اتموئید لازم نبود.",
+      "source_render": "atlas/netter_115.jpg",
+      "source_render_sha256": "632fb9d0b53de1aaca7f4903f237c63845c3c5939e4a0f39187171ea68261983"
+    },
+    {
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 177,
+      "printed_page": null,
+      "plate_or_figure": "125",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "طرح لابیرنت استخوانی/غشایی در بالا انتخاب شد (ص ۵۳)؛ نماهای موضعی گوش در باقیماندهٔ صفحه برای مقایسه دیده شدند؛ موضوع اینجا مسیر آبگذرهاست، نه درس کامل گوش.",
+      "source_render": "atlas/netter_177.jpg",
+      "source_render_sha256": "3381e2a1161dd45d4776b0a9857e72f3150501a6f58192a1aad7dca98cb7746c"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 88,
+      "printed_page": 860,
+      "plate_or_figure": "8.21",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "نمای فوقانی جمجمه و درزها؛ انتخاب پایه (ص ۱۱۰).",
+      "source_render": "atlas/gray_88.jpg",
+      "source_render_sha256": "07e6ba60665b514c8fbb5e5ab7f54d6a22e88c51b8f36df523dee3af76da0839"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 89,
+      "printed_page": 861,
+      "plate_or_figure": "8.22",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "برش لایه‌های کالواریا؛ دیده شد و افزوده نشد، زیرا شکل سقف/اسکالپ است نه قاعده؛ متن همین صفحه برای کام سخت و زوائد مقابله شد.",
+      "source_render": "atlas/gray_89.jpg",
+      "source_render_sha256": "c4940ace5f90b5bc3030bed5cfc3c2db1d7b70399f799f95fc99fec89cee5f5f"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 90,
+      "printed_page": 862,
+      "plate_or_figure": "8.23",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "نمای تحتانی جمجمه؛ انتخاب پایه برای کام و گذرگاه‌ها (ص ۸۹).",
+      "source_render": "atlas/gray_90.jpg",
+      "source_render_sha256": "c5cd0aef09cea11694a4403bde61727ad244c2596975fb07f2ff83c40cc50b37"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 91,
+      "printed_page": 863,
+      "plate_or_figure": "text",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "بدون شکل جدید؛ متن تمپورال، کاروتید، سوراخ پاره و پس‌سری برای مقابلهٔ روابط استفاده شد.",
+      "source_render": "atlas/gray_91.jpg",
+      "source_render_sha256": "f3f0883f4399245d153bbcff71beaa10ca5cd1843a927ba143a135478f1e7c27"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 92,
+      "printed_page": 864,
+      "plate_or_figure": "8.24",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "نمای داخلی سقف جمجمه؛ دیده شد و افزوده نشد. این شکل حفرهٔ قدامی نیست؛ انتخاب آزمایشیِ اشتباه کنار گذاشته شد.",
+      "source_render": "atlas/gray_92.jpg",
+      "source_render_sha256": "2745703ae607ca3114b31c7785e7e4e1f14f43de844c0ac49183e0b3bb6ba4e1"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 93,
+      "printed_page": 865,
+      "plate_or_figure": "8.25",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "شکل اصلی حفرهٔ قدامی به همراه inset مستقل جهت‌یابی؛ هر دو در قاب منتخب حفظ‌اند (ص ۷۱).",
+      "source_render": "atlas/gray_93.jpg",
+      "source_render_sha256": "5983ec4ce9d2562e2161aeb98fcde2b9a47c7808c50ed8d5242f3ba17f8ef220"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 94,
+      "printed_page": 866,
+      "plate_or_figure": "table 8.2 / text",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "جدول سوراخ‌ها و متن حفرهٔ قدامی؛ برای کادرهای رفع ابهام و جدول‌های آموزشی خوانده شد؛ عکس کامل صفحه جای متن تایپ‌شده استفاده نشده است.",
+      "source_render": "atlas/gray_94.jpg",
+      "source_render_sha256": "cd6e58abc56e5a166bf2f023fd40f3b68c252432604854d0684ae330750b395b"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 95,
+      "printed_page": 867,
+      "plate_or_figure": "8.26",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "شکل اصلی حفرهٔ میانی و inset جهت‌یابی مستقل؛ هر دو انتخاب شدند (ص ۷۷).",
+      "source_render": "atlas/gray_95.jpg",
+      "source_render_sha256": "1181a20272bd8205f1feb2f1020cbcd9234aba52e6ce63afd5add6377e34a5b6"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 96,
+      "printed_page": 868,
+      "plate_or_figure": "text",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "متن سوراخ‌ها/سطح پتروس/مرز حفرهٔ خلفی/سوراخ بزرگ؛ بدون شکل تازه برای درج.",
+      "source_render": "atlas/gray_96.jpg",
+      "source_render_sha256": "f92aeba1f2ed6c544b63bfafbe4dd6525bf379d705bf70e4beef7dec00017eda"
+    },
+    {
+      "book": "gray",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_pdf_page": 97,
+      "printed_page": 869,
+      "plate_or_figure": "8.27",
+      "review_status": "REVIEWED_RELEVANT_PAGE_AND_SUBFIGURES",
+      "decision_and_scope": "شکل اصلی حفرهٔ خلفی و inset جهت‌یابی مستقل؛ هر دو در قاب پایه حفظ‌اند (ص ۸). متن کانال کندیلار و ماستوئید نیز مقایسه شد.",
+      "source_render": "atlas/gray_97.jpg",
+      "source_render_sha256": "8672d9930718a87b4d7db4f0ec1fd21a5c66cf44a60c07d69c201e83b0dcb58c"
+    }
+  ],
+  "limitations": [
+    "Unselected relevant companion views are explicitly identified; this does not claim every image anywhere in either textbook has been inserted.",
+    "Selected regional crops are not complete atlas plates.",
+    "Same-agent editorial review, not an independent clinician sign-off."
+  ]
+}

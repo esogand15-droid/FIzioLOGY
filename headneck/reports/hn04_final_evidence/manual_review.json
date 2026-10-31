@@ -1,0 +1,668 @@
+{
+  "pdf_sha256": "85e6c0b234f14592d399f234039138d15eee870fdc2e4f22cece234c7e72714b",
+  "reviewer": "Arena agent; visual/editorial, not independent clinician certification",
+  "reviewed_pages": [
+    {
+      "page": 1,
+      "render": "pages/001.jpg",
+      "render_sha256": "68a5a6d46cf733e76972dcd934c9e1a1fb9e88fa4c8bc5214eceaaf5a5e5c337"
+    },
+    {
+      "page": 2,
+      "render": "pages/002.jpg",
+      "render_sha256": "0dcb4991039e426e3a60544c66548647806b52b7e154f6abbba30b9b045bbcdf"
+    },
+    {
+      "page": 3,
+      "render": "pages/003.jpg",
+      "render_sha256": "4d6ab5e06b1ca125ee36af64b7b0f37fd0ba4df4180921ab07e4115ade921638"
+    },
+    {
+      "page": 4,
+      "render": "pages/004.jpg",
+      "render_sha256": "02026f4b4232c62607f24a9990519f1b85d1f2d96b481a9d8b49a82da9db2d5d"
+    },
+    {
+      "page": 5,
+      "render": "pages/005.jpg",
+      "render_sha256": "1bb8441e11aeb4ebf287a0f33515fa708eb2bf0ebc391bd495d4c8bb8be1825c"
+    },
+    {
+      "page": 6,
+      "render": "pages/006.jpg",
+      "render_sha256": "49ee0bc553c4ce1e9c58a72f92aaabd46c1a804172eb9de88c9d8e99702cde94"
+    },
+    {
+      "page": 7,
+      "render": "pages/007.jpg",
+      "render_sha256": "19a99753952e6eb8b80dd3a7ac221d853e5abf899b35d38dd44d9152a9635d8b"
+    },
+    {
+      "page": 8,
+      "render": "pages/008.jpg",
+      "render_sha256": "edb6091aa1f2d6911e66092cc3bed2397907f85f5f56395b059962f12a4ee545"
+    },
+    {
+      "page": 9,
+      "render": "pages/009.jpg",
+      "render_sha256": "8ea1ccefc22a0d1276bdb4de1fa3953cb86afc466cfeb501bae21cc0e3020c3b"
+    },
+    {
+      "page": 10,
+      "render": "pages/010.jpg",
+      "render_sha256": "185e286db78100827c3c97f8828de44b04c2c4448a18cee5dc98a70dd5beb8ec"
+    },
+    {
+      "page": 11,
+      "render": "pages/011.jpg",
+      "render_sha256": "13888ed5ce91bf99366642956218570b96fcde2ee0e59844bc206e1fe8a81dff"
+    },
+    {
+      "page": 12,
+      "render": "pages/012.jpg",
+      "render_sha256": "9e7c91b4da6f1504faf8d7bced41149d582e6836bea454d8d51e97e6d529e5cb"
+    },
+    {
+      "page": 13,
+      "render": "pages/013.jpg",
+      "render_sha256": "beb3e0c49ca6854ed39edd3ce6a1c5252bd1061599b6b1a62ae76f65d56575bf"
+    },
+    {
+      "page": 14,
+      "render": "pages/014.jpg",
+      "render_sha256": "7c512ffd004eb493f26a8b63d314b921762977a1652c9357a6845f9b0b9399f5"
+    },
+    {
+      "page": 15,
+      "render": "pages/015.jpg",
+      "render_sha256": "b566f7867967f68022f03e5a7f25956ac981e075fcd9fad29868e25b65711a72"
+    },
+    {
+      "page": 16,
+      "render": "pages/016.jpg",
+      "render_sha256": "447d698b6afcf39335a52471c9077ac2fb400506c82511931df181e5ae0d1fbe"
+    },
+    {
+      "page": 17,
+      "render": "pages/017.jpg",
+      "render_sha256": "376c732a1a838aec34fda47b3de208ccdddc9ed0275c8c5081febde002f7691f"
+    },
+    {
+      "page": 18,
+      "render": "pages/018.jpg",
+      "render_sha256": "7452c78e426597084b3eec80ddb02dcef7433c595e1c1f4da1d04714239bf8d9"
+    },
+    {
+      "page": 19,
+      "render": "pages/019.jpg",
+      "render_sha256": "53ab36bee01d93294d222582f35c21322287eaaf210605afb8ae8e8c14b7efa4"
+    },
+    {
+      "page": 20,
+      "render": "pages/020.jpg",
+      "render_sha256": "41d2b3c290dd2cad51ee57458e32b4e0de8bba24cc3fe713917211aa8ae8f739"
+    },
+    {
+      "page": 21,
+      "render": "pages/021.jpg",
+      "render_sha256": "992223a8ff6281ff2f758d926f5b0e701f86f7ce5e606060a01353f3d4ece7bd"
+    },
+    {
+      "page": 22,
+      "render": "pages/022.jpg",
+      "render_sha256": "e2ad408ec9c02d5165ab63ce07cb49183ce36dcede481989aa8f7c7b19a8f2cd"
+    },
+    {
+      "page": 23,
+      "render": "pages/023.jpg",
+      "render_sha256": "eae8ae5b59784966812c069b2469902bbc8bf4a29ed51b134330b9d76dec8dad"
+    },
+    {
+      "page": 24,
+      "render": "pages/024.jpg",
+      "render_sha256": "fe1f2eb7dee0d8ec4010e874ca1e3634e0eea7a44564e346cf129154b417746e"
+    },
+    {
+      "page": 25,
+      "render": "pages/025.jpg",
+      "render_sha256": "ce7744f0fe7710631ed9316ca0c7bb5f782f85cb879656652b54829cf65f60ff"
+    },
+    {
+      "page": 26,
+      "render": "pages/026.jpg",
+      "render_sha256": "cbbebd27118521769d43c51cec8964f07ae276b2f274662d9f0dd54f3362f0b1"
+    },
+    {
+      "page": 27,
+      "render": "pages/027.jpg",
+      "render_sha256": "935e0c11cc187dd5859c9623fcd5f70e01de485dedd3f3e63164a6c64b9f73b2"
+    },
+    {
+      "page": 28,
+      "render": "pages/028.jpg",
+      "render_sha256": "0442a0bd3fadc99cccd6df6d46c17ab8f2b8f250659d118d40937b256b3b97c3"
+    },
+    {
+      "page": 29,
+      "render": "pages/029.jpg",
+      "render_sha256": "08671023e70175c98565f4957f0cf11a7d32316273030535591b07ba8e481054"
+    },
+    {
+      "page": 30,
+      "render": "pages/030.jpg",
+      "render_sha256": "2494a0598f4bde546c6fefe893c1b152f3e45521793c0c35046f96e0407edbd9"
+    },
+    {
+      "page": 31,
+      "render": "pages/031.jpg",
+      "render_sha256": "416dc19c299c2deec24f7cdd3e66d020f73741a7d985b2b007a75136d4b88657"
+    },
+    {
+      "page": 32,
+      "render": "pages/032.jpg",
+      "render_sha256": "ffeead22da3e89485be88a2176b7f517c3420a13f76dbfdbfc89cac3d1a11fda"
+    },
+    {
+      "page": 33,
+      "render": "pages/033.jpg",
+      "render_sha256": "a0e53201049a4b4ed1a989b9f98d58df645b1affaf0277e1cebc8d21b9ffdde4"
+    },
+    {
+      "page": 34,
+      "render": "pages/034.jpg",
+      "render_sha256": "135d9da49f5b4dbeab592b6db1e9787b6017947a0a641454c69c71a040b780ef"
+    },
+    {
+      "page": 35,
+      "render": "pages/035.jpg",
+      "render_sha256": "61534d3d4dc6be389cee12a9ceac793c42b218e72f3bc84966fd3cd2c8727186"
+    },
+    {
+      "page": 36,
+      "render": "pages/036.jpg",
+      "render_sha256": "65ab03d54aee7c3c7353a1f12280e247291fa32fc62e66d5bd91d43cb3317f75"
+    },
+    {
+      "page": 37,
+      "render": "pages/037.jpg",
+      "render_sha256": "e91a07885b5b17b61effdbb0d8e8987eea01c4b9d7e77fb752e52c6f68859450"
+    },
+    {
+      "page": 38,
+      "render": "pages/038.jpg",
+      "render_sha256": "b7637eb7ef1d139c6ace69cfb0170f4231e12cf4d20f97fb44bed59b5484cf19"
+    },
+    {
+      "page": 39,
+      "render": "pages/039.jpg",
+      "render_sha256": "6e9e01701922c9a6decbf57df422eab08b968fda97e9d931d36b65ee13aa6766"
+    },
+    {
+      "page": 40,
+      "render": "pages/040.jpg",
+      "render_sha256": "b97b6ebcca2da70c70f920216b8e32a21abd63e0f4b6c6b8b44fc446190c1db0"
+    },
+    {
+      "page": 41,
+      "render": "pages/041.jpg",
+      "render_sha256": "f95b80b4965512fff3e7450b9f118827a70d37fc1b2a3ec07fed07c1f4f68501"
+    },
+    {
+      "page": 42,
+      "render": "pages/042.jpg",
+      "render_sha256": "e7b2ec97d673f1983bedc00dac5b6d0bed0c3dab556ca6600c3fed1a95425253"
+    },
+    {
+      "page": 43,
+      "render": "pages/043.jpg",
+      "render_sha256": "a46ce00266fdbafcc01452949e07e0191684cf82d8af82dcd3e6a6d382b06076"
+    },
+    {
+      "page": 44,
+      "render": "pages/044.jpg",
+      "render_sha256": "42f8d7d05de9fcf7f3b5863b55419a159d7df48a5be07df4ac49da43c1e4ed88"
+    },
+    {
+      "page": 45,
+      "render": "pages/045.jpg",
+      "render_sha256": "205cb20c75cfd5a2541659f2111554696dd6aff68b3e07301204a0e6c19b04fb"
+    },
+    {
+      "page": 46,
+      "render": "pages/046.jpg",
+      "render_sha256": "a8b44415c13ed84a77012ccf680358355b7ac0a1bf1d98efe30b03109c6cb529"
+    },
+    {
+      "page": 47,
+      "render": "pages/047.jpg",
+      "render_sha256": "fc570460a60dc45cbbb2b64601e2ef86321a54f94c98181c0600930cc21cf800"
+    },
+    {
+      "page": 48,
+      "render": "pages/048.jpg",
+      "render_sha256": "9b6da6804b97f6fbe38132a67e944fadb796ff29858a13d5d836b9d9883381b9"
+    },
+    {
+      "page": 49,
+      "render": "pages/049.jpg",
+      "render_sha256": "a6dc70627f74c98c7b5d374ac67d3d24891bcf3ddf689db85d18bee4d3f3fef6"
+    },
+    {
+      "page": 50,
+      "render": "pages/050.jpg",
+      "render_sha256": "8ea340eb7c3ec085dab95aa73c57035e9a89297bf33d85626b5b71e75a2fd205"
+    },
+    {
+      "page": 51,
+      "render": "pages/051.jpg",
+      "render_sha256": "daa4e2c87ec38b105b47a684463d8811f615d4fe820830b39ba9208c2961f83d"
+    },
+    {
+      "page": 52,
+      "render": "pages/052.jpg",
+      "render_sha256": "8702825d855f0a8ed50d5e0f6b80b05b1f67014002519d2bdb10a64bcd74e5df"
+    },
+    {
+      "page": 53,
+      "render": "pages/053.jpg",
+      "render_sha256": "75b60792019d9ebe54ac6f7a5ee7130e01aaaad0d4f11fcd97b75e4ddd64e798"
+    },
+    {
+      "page": 54,
+      "render": "pages/054.jpg",
+      "render_sha256": "0d50853c6fec37df599fb2765f06a7f921bc42f07949e256f891d12a57fe5ee3"
+    },
+    {
+      "page": 55,
+      "render": "pages/055.jpg",
+      "render_sha256": "cd6a927c7599f5df93bfddd6dfdcbc4f9157409181d0f3da59d5c777e9f7ecbe"
+    },
+    {
+      "page": 56,
+      "render": "pages/056.jpg",
+      "render_sha256": "71abc3c04062b572427231f70f863e3bc0197bd32b7670baba018a62870b2e6b"
+    },
+    {
+      "page": 57,
+      "render": "pages/057.jpg",
+      "render_sha256": "90c6c3b9fc5ef757aafbc4245a7df04d664dd1d30eeb22a5969ae0355aa8403f"
+    },
+    {
+      "page": 58,
+      "render": "pages/058.jpg",
+      "render_sha256": "0cf40809cbee1043e4dbd9a7af502e26bd23750ac92464985bf4f8e3bd174c0a"
+    },
+    {
+      "page": 59,
+      "render": "pages/059.jpg",
+      "render_sha256": "86a74801aeea3c4be6305ff03486ffcd37e3d4859daafe0b4fb89bcf3eb23f46"
+    },
+    {
+      "page": 60,
+      "render": "pages/060.jpg",
+      "render_sha256": "662c88bfcb6aeef80eb188a38da24632cce8a54a18f5d11c8f6792a3620db615"
+    },
+    {
+      "page": 61,
+      "render": "pages/061.jpg",
+      "render_sha256": "32b9c285c80faa18b7d02cc70c98f30b43b3c9b42c3861bfe1c6b889830d9a51"
+    },
+    {
+      "page": 62,
+      "render": "pages/062.jpg",
+      "render_sha256": "748004cea392a2de2a11d3e5604b4da2841f9c9b556505d9e3ac9f535448d230"
+    },
+    {
+      "page": 63,
+      "render": "pages/063.jpg",
+      "render_sha256": "d0f5977e9eceadf0f39cc80b63bb2f60febed74845eca2d4e33422b393558005"
+    },
+    {
+      "page": 64,
+      "render": "pages/064.jpg",
+      "render_sha256": "3be1d7750b44a2dae8a7a739e9ff42261ef64a27decff9720b78ebaa899f9d79"
+    },
+    {
+      "page": 65,
+      "render": "pages/065.jpg",
+      "render_sha256": "7884275eba9b2c5f1d1522afb5df73179acbc37370b63378db077977ab241250"
+    },
+    {
+      "page": 66,
+      "render": "pages/066.jpg",
+      "render_sha256": "d317c97d36a65c575b01fb0efab640742668e95ffde66995f6c40d9e3b5493d5"
+    },
+    {
+      "page": 67,
+      "render": "pages/067.jpg",
+      "render_sha256": "288977062e3b340702e04e2c8f0327c2d4aa6ef5cf60f1885f50acbc4e1451cc"
+    },
+    {
+      "page": 68,
+      "render": "pages/068.jpg",
+      "render_sha256": "5a34f5c9cef0a159b0aa756e1e423865dea64f58d915268412e159954bc88f85"
+    },
+    {
+      "page": 69,
+      "render": "pages/069.jpg",
+      "render_sha256": "7211452025d3cddcecbc213b87b6bd5b189a0bcdacd66cad8f866b47be67810a"
+    },
+    {
+      "page": 70,
+      "render": "pages/070.jpg",
+      "render_sha256": "708f66576cddc080d647d6982f131bafed6fbc254dd4caf39d5365fbcf497726"
+    },
+    {
+      "page": 71,
+      "render": "pages/071.jpg",
+      "render_sha256": "671b4b89c0033f76f6c8f2d7d8e00fdced74798e5355ac573ed1b9edde7037ea"
+    },
+    {
+      "page": 72,
+      "render": "pages/072.jpg",
+      "render_sha256": "a41a77fc1a7d5d4a42f18f2a2b7286b1d4706a78cc629dfb009be31e25400d7f"
+    },
+    {
+      "page": 73,
+      "render": "pages/073.jpg",
+      "render_sha256": "139358cd4a54ee7f87c7d2392a84fdb42e8bf9cb4c679e2878f28bbe84010cc4"
+    },
+    {
+      "page": 74,
+      "render": "pages/074.jpg",
+      "render_sha256": "e70dff0d834e086d66c92454fe0ebcd52ceb6607ecb467969164b3fafd614e62"
+    },
+    {
+      "page": 75,
+      "render": "pages/075.jpg",
+      "render_sha256": "492b1e2b71f1189e0b0d5db5b619e5af08267df4d8b49f504e8995742edb9b7b"
+    },
+    {
+      "page": 76,
+      "render": "pages/076.jpg",
+      "render_sha256": "2e27ac1e9b754fdf3a95766792ec1b22141165933322ce687a4a1a99cb4ca05f"
+    },
+    {
+      "page": 77,
+      "render": "pages/077.jpg",
+      "render_sha256": "9237e59e39a514120172c45ac0cfa8dbbd1b88891da3784d218f4a9cac045d50"
+    },
+    {
+      "page": 78,
+      "render": "pages/078.jpg",
+      "render_sha256": "ef2e14dab32cee9a5f51fb7e6a06e4d5c8840fc1adb1674a2fa101bcc8bcc216"
+    },
+    {
+      "page": 79,
+      "render": "pages/079.jpg",
+      "render_sha256": "1a56dc212c88b5e9d6284c2008e07feccf8306731bf172314e7d25435331dc9c"
+    },
+    {
+      "page": 80,
+      "render": "pages/080.jpg",
+      "render_sha256": "d35a0b956248ba8c041aa58825163845ef303394b8c27d4198d546faaf18064b"
+    },
+    {
+      "page": 81,
+      "render": "pages/081.jpg",
+      "render_sha256": "3b667c2734a5446d9294315357a5f651ad27aa0943533ddadf5f0b121dfef5b3"
+    },
+    {
+      "page": 82,
+      "render": "pages/082.jpg",
+      "render_sha256": "d4b2fabff51c33b870969f3a34877f8b87639e406cc407c773d059213dcabfdf"
+    },
+    {
+      "page": 83,
+      "render": "pages/083.jpg",
+      "render_sha256": "260d91d00941759492750b00e97829757b2b63c353d2987053484b1c2d903e86"
+    },
+    {
+      "page": 84,
+      "render": "pages/084.jpg",
+      "render_sha256": "deaf82de5e8909b1e6bc62a098ba15162fd829ae10a03072c9da060f40157a2b"
+    },
+    {
+      "page": 85,
+      "render": "pages/085.jpg",
+      "render_sha256": "da9f4391341dd8ebde6d1a0bcd941010719497edacf7461640004005c3c00cfd"
+    },
+    {
+      "page": 86,
+      "render": "pages/086.jpg",
+      "render_sha256": "aa21dd15625f5a81601b57bb107c2187120c2115aa1c02b7344dd4ebe148a0e9"
+    },
+    {
+      "page": 87,
+      "render": "pages/087.jpg",
+      "render_sha256": "68fcee139390776ab601573fb7c50d5c34c51dc509796c427c35d88ac486593d"
+    },
+    {
+      "page": 88,
+      "render": "pages/088.jpg",
+      "render_sha256": "3138b604a8f78bd504783ce3bb544ec1a37ed41f130d0153391eeb26daa6492b"
+    },
+    {
+      "page": 89,
+      "render": "pages/089.jpg",
+      "render_sha256": "6574cb5c7a23829c36211fa9f9d7b4882ab8773f3747397f8ce9745ccdbb1d11"
+    },
+    {
+      "page": 90,
+      "render": "pages/090.jpg",
+      "render_sha256": "9419d33df8426d682910ce55defd17f7d97680661068ca00092b004d5c1f1483"
+    },
+    {
+      "page": 91,
+      "render": "pages/091.jpg",
+      "render_sha256": "c9d766a84d66f3c989f8681ff277471618c83eb17eac8100c70e8c280e6ea018"
+    },
+    {
+      "page": 92,
+      "render": "pages/092.jpg",
+      "render_sha256": "e9661e3bec416f46113ee32c6987f419454b500f558c4d1c8e6b3993e038f69e"
+    },
+    {
+      "page": 93,
+      "render": "pages/093.jpg",
+      "render_sha256": "32a1c2f68fe1d37826763988fde85a7a9e4e7d4a5ebfc2ffb833ce7a3aee3080"
+    },
+    {
+      "page": 94,
+      "render": "pages/094.jpg",
+      "render_sha256": "d1c1600b8cbd23797327eafb4561dfd0384d54dba8cca5227216e9b16a882d55"
+    },
+    {
+      "page": 95,
+      "render": "pages/095.jpg",
+      "render_sha256": "541b0ce9c369769cecd6439009ccd6b4b4f4b4b7779f89799d70770c264c07f6"
+    },
+    {
+      "page": 96,
+      "render": "pages/096.jpg",
+      "render_sha256": "f06d559352f52d33363d6f021bbce26c7c587cea68bbd732adc6890dc7a0416a"
+    },
+    {
+      "page": 97,
+      "render": "pages/097.jpg",
+      "render_sha256": "7b59fdc5c21807c437246e758a8db8c71eb361868fbec4b108dfa3a8909560ed"
+    },
+    {
+      "page": 98,
+      "render": "pages/098.jpg",
+      "render_sha256": "dec23a0be95154fbfb09a07bad73ed1bc8142af6401b1f5a4093a98ed4e7293e"
+    },
+    {
+      "page": 99,
+      "render": "pages/099.jpg",
+      "render_sha256": "3093f9092e04ef5e972eba19e4a2feffec34d12f3150709fc0c6e175007a7a4f"
+    },
+    {
+      "page": 100,
+      "render": "pages/100.jpg",
+      "render_sha256": "45dab06e226f522cc9b54344817f6059134fb17e56c0feb1c3da29a37cca36bc"
+    },
+    {
+      "page": 101,
+      "render": "pages/101.jpg",
+      "render_sha256": "d93dd427d87566be66d599d0d38dd6c547f49da8cd553ba99520882027a505f6"
+    },
+    {
+      "page": 102,
+      "render": "pages/102.jpg",
+      "render_sha256": "43433e5f0d3c6d9a779c8718f91106422a057a8f2c5c41e665d39b509c5f49fd"
+    },
+    {
+      "page": 103,
+      "render": "pages/103.jpg",
+      "render_sha256": "6aa644ef40b435cfa1a2bd7df1258120ec12e414fcd754b76336dbc4e5d0d85c"
+    },
+    {
+      "page": 104,
+      "render": "pages/104.jpg",
+      "render_sha256": "a8e53b8a75f51bea45cc96c2d59473024b5d610e20a8f64c8120c90e06f004d7"
+    },
+    {
+      "page": 105,
+      "render": "pages/105.jpg",
+      "render_sha256": "76a5b18cd804c5129b68ba7d8dd33b7fd9db7f8c174c998e2435e88ce3f47431"
+    },
+    {
+      "page": 106,
+      "render": "pages/106.jpg",
+      "render_sha256": "f02b4dd2af88c74b9abbe34a8f6e727eb428b486f8996630c1b994f44096b96e"
+    },
+    {
+      "page": 107,
+      "render": "pages/107.jpg",
+      "render_sha256": "dee9d53e60652da4eb825e02279f8a1dfc6fd991c4c5c6d1e8a1844e3f1f9682"
+    },
+    {
+      "page": 108,
+      "render": "pages/108.jpg",
+      "render_sha256": "2882048d93c74bf551dcd104a77d98a5fc37431a35ac01c1441db26c713c6c15"
+    },
+    {
+      "page": 109,
+      "render": "pages/109.jpg",
+      "render_sha256": "54af15315f8fb0fddf6266932466e99b28ef75931be2fb46c5a95096b6289849"
+    },
+    {
+      "page": 110,
+      "render": "pages/110.jpg",
+      "render_sha256": "939daf803f2fa314b5953f4d061fafddb54bb3cec609f0c7214843558c6b9dbc"
+    },
+    {
+      "page": 111,
+      "render": "pages/111.jpg",
+      "render_sha256": "c0384e9aeba6b4a63e0e21bc12be08b9b981a5be5a2dd01ed84682dc9448e3c9"
+    },
+    {
+      "page": 112,
+      "render": "pages/112.jpg",
+      "render_sha256": "2661e7bf264bc0e38ff46a83c32eff03c496add2ef963e30ec81cb1c34e0edf5"
+    },
+    {
+      "page": 113,
+      "render": "pages/113.jpg",
+      "render_sha256": "c36b65d1ae90ce2a6eb471d36f5e73ac51da530f85f3ed232c4678e889527de4"
+    },
+    {
+      "page": 114,
+      "render": "pages/114.jpg",
+      "render_sha256": "f69a5eb5edcbcf4c12835642dcd553e01a383e71dcb588fd4ba2b800197ce61e"
+    },
+    {
+      "page": 115,
+      "render": "pages/115.jpg",
+      "render_sha256": "bfabe562271d9f5b95232c95d991afee2afd9890ccf958d49005103505eef79b"
+    },
+    {
+      "page": 116,
+      "render": "pages/116.jpg",
+      "render_sha256": "145929be15b4a8938456894433a387f2ddf2b3974f7f6d53f6b8bff59e1f3bac"
+    },
+    {
+      "page": 117,
+      "render": "pages/117.jpg",
+      "render_sha256": "ee132653ddc5d462e64887bc8368ab3fe52d8610255c2e07629d7fddd15ead42"
+    },
+    {
+      "page": 118,
+      "render": "pages/118.jpg",
+      "render_sha256": "ee4c91afb01b1f719f52fa555d7262eea34cbbced945d87aed432fcd6828b46a"
+    },
+    {
+      "page": 119,
+      "render": "pages/119.jpg",
+      "render_sha256": "188f8c63a6dd1df85158455fed4e3ccc6801231b43a4d22ac720136aa2042a77"
+    },
+    {
+      "page": 120,
+      "render": "pages/120.jpg",
+      "render_sha256": "588771d9619eafdd47b42bc8212129e05cd97474ea567fd2564abb9d975dfe4d"
+    },
+    {
+      "page": 121,
+      "render": "pages/121.jpg",
+      "render_sha256": "345f5f8074f09327fe626b4ad4115fbcc14dbc8de32ec825f0bdf77a0f56a74f"
+    },
+    {
+      "page": 122,
+      "render": "pages/122.jpg",
+      "render_sha256": "5dde906516cc0dad55ea38b7e3f159a5a2c2f31b88492acfa046a9b2297c9b04"
+    }
+  ],
+  "not_yet_reviewed": [],
+  "findings": [
+    {
+      "pages": [
+        24
+      ],
+      "status": "ACCEPTED_SOURCE_LIMITATION",
+      "note": "Some edge lettering is short in the original lecture raster; identified in the plate caption, no guessed completion."
+    },
+    {
+      "pages": [
+        46,
+        66,
+        101
+      ],
+      "status": "ACCEPTED_COSMETIC",
+      "note": "Tiny residual footer marks from source rasters remain outside the anatomical drawing; not anatomical labels."
+    },
+    {
+      "pages": [
+        67,
+        86,
+        89
+      ],
+      "status": "ACCEPTED_REFERENCE_SCALE",
+      "note": "Dense overview labels require PDF zoom; localized companion plates and typed guide labels are provided. No upscaling can recover missing source resolution."
+    },
+    {
+      "pages": [
+        82,
+        83,
+        84
+      ],
+      "status": "ACCEPTED_COSMETIC",
+      "note": "Original column rules and a thin neighboring inset edge on page 84 remain outside the color-map anatomy; source watermarks retained. No claim of pristine artwork."
+    },
+    {
+      "pages": [
+        71
+      ],
+      "status": "ACCEPTED_ASPECT_RATIO",
+      "note": "Gray figure 8.25 is naturally wide, at full usable width; its short height is not page-fit shrinking."
+    },
+    {
+      "pages": [
+        45,
+        46
+      ],
+      "status": "FIXED_RECHECKED",
+      "note": "Second ear-section image now has a fresh page. The trial double-break blank page was removed by omitting redundant minimum-height hint."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "date_utc": "2026-10-31T13:42:44.567898+00:00",
+  "pdf": "pdf/HumsYar_HeadNeck_Jalase4_FINAL.pdf",
+  "sha256": "85e6c0b234f14592d399f234039138d15eee870fdc2e4f22cece234c7e72714b",
+  "pdf_pages": 122,
+  "tests_passed": 15,
+  "tests_failed": 0,
+  "technical_hard_errors": 0,
+  "technical_warnings": 15,
+  "warning_disposition": "All G6 short metadata label lists; individually explained in FINAL_REVIEW_REPORT.",
+  "figure_placements": 69,
+  "unique_embedded_asset_byte_matches": 68,
+  "asset_audit_errors": 0,
+  "embedded_fonts": 6,
+  "manual_output_pages_recorded": 122,
+  "source_pages_reviewed": 39,
+  "reference_pages_reviewed": 20,
+  "evidence_identity_check": "PASS; checks record/file consistency, not automatic proof of reading",
+  "historical_files_unchanged": [
+    "pdf/HumsYar_HeadNeck_Jalase4.pdf",
+    "pdf/HumsYar_HeadNeck_Jalase4_REVIEW.pdf",
+    "headneck/content/hn04_a.json"
+  ],
+  "commands": [
+    "python -m unittest discover -s headneck/tests -v",
+    "python headneck/scripts/verify_hn04_final_evidence.py",
+    "python headneck/scripts/verify_pdf_integrity.py pdf/HumsYar_HeadNeck_Jalase4_FINAL.pdf",
+    "python render/qa_headneck.py --session hn04",
+    "python headneck/scripts/audit_hn04_update.py --pdf pdf/HumsYar_HeadNeck_Jalase4_FINAL.pdf --out headneck/reports/hn04_final_evidence/machine_manifest.json",
+    "git diff --check"
+  ]
+}

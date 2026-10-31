@@ -1,0 +1,1316 @@
+{
+  "final_pdf_sha256": "85e6c0b234f14592d399f234039138d15eee870fdc2e4f22cece234c7e72714b",
+  "scope": "All 39 source PDF pages, including 2 covers; editorial comparison with typed p/h3 blocks and final PDF. Same agent, separate pass from generation; not an independent human specialist.",
+  "source_pages": [
+    {
+      "part": 1,
+      "source_pdf_page": 1,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "COVER_EXCLUDED",
+      "observed_content": "جلد؛ عناصر تزئینی، بدون متن درسی یا شکل آموزشیِ لازم برای انتقال.",
+      "source_render": "sources/tag_src_1_01.jpg",
+      "source_render_sha256": "4a40e8a82aab2f737d23923428b096e847494e3e220da91af00fbc62323bae9a",
+      "base_block_ids": [],
+      "output_figures": []
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 2,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو نمای مستقل قاعده (درونی/تحتانی) در یک قاب؛ یک نمای مستقل جای اتموئید با فهرست شماره‌دار.",
+      "source_render": "sources/tag_src_1_02.jpg",
+      "source_render_sha256": "34b0fd16b54f60ba530f773bf6e0b4b90f8e96b47619b32ec76015867f9aabfd",
+      "base_block_ids": [
+        "hn04-T01#2",
+        "hn04-T01#3",
+        "hn04-T01#4",
+        "hn04-T01#5",
+        "hn04-T02#2",
+        "hn04-T02#3",
+        "hn04-T02#4",
+        "hn04-T02#5",
+        "hn04-T02#6",
+        "hn04-T02#7",
+        "hn04-T02#8",
+        "hn04-T02#9",
+        "hn04-T02#10",
+        "hn04-T02#11"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_base.jpeg",
+          "output_pdf_pages": [
+            7
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_ethmoid_location.jpeg",
+          "output_pdf_pages": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 3,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "یک نمای قطعات جداشده با راهنمای شماره‌ها؛ پنج زیرشکل اتموئید A قدامی، B فوقانی، C خلفی، D طرفی چپ و E تحتانی همراه فرونتال. E نمای کوچکِ مجموعه است، نه شکل تزئینی.",
+      "source_render": "sources/tag_src_1_03.jpg",
+      "source_render_sha256": "884eb14136a2a4a32b7b0821f6fc353fd26dc02ffc3d61666b413f6aacf1b770",
+      "base_block_ids": [
+        "hn04-T02#14",
+        "hn04-T02#15",
+        "hn04-T02#16",
+        "hn04-T02#17",
+        "hn04-T02#18",
+        "hn04-T03#2"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_ethmoid_parts.jpeg",
+          "output_pdf_pages": [
+            12
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_ethmoid_A.jpeg",
+          "output_pdf_pages": [
+            14
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_ethmoid_B.jpeg",
+          "output_pdf_pages": [
+            15
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_ethmoid_C.jpeg",
+          "output_pdf_pages": [
+            16
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_ethmoid_D.jpeg",
+          "output_pdf_pages": [
+            17
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_ethmoid_E.jpeg",
+          "output_pdf_pages": [
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 4,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "یک نمای فوقانی اتموئید با برچسب‌های صفحهٔ غربالی، کریستا گالی و لابیرنت.",
+      "source_render": "sources/tag_src_1_04.jpg",
+      "source_render_sha256": "81db141c2ca4d534ca4b8a77dfb1bb25e25ae6f327384aa8431286c0f830bb26",
+      "base_block_ids": [
+        "hn04-T03#3",
+        "hn04-T03#4",
+        "hn04-T03#5",
+        "hn04-T03#6",
+        "hn04-T03#7",
+        "hn04-T03#9",
+        "hn04-T03#10",
+        "hn04-T03#11",
+        "hn04-T03#12",
+        "hn04-T03#13",
+        "hn04-T03#14"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_ethmoid_superior.jpeg",
+          "output_pdf_pages": [
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 5,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "چهار زیرشکل لابیرنت: تحتانی همراه فرونتال؛ سلول‌های بازشده؛ اربیت رنگیِ بی‌برچسب؛ اربیت بازشدهٔ برچسب‌دار. کادر رنگی C ذاتاً بی‌برچسب است. نوشته‌های حاشیهٔ D در خود منبع کوتاه‌اند.",
+      "source_render": "sources/tag_src_1_05.jpg",
+      "source_render_sha256": "0d5742d44da8997066ab6f652995694caaf8d5b0a9b4861036e7b34c68551b43",
+      "base_block_ids": [
+        "hn04-T04#2",
+        "hn04-T04#3",
+        "hn04-T04#4",
+        "hn04-T04#5",
+        "hn04-T04#6",
+        "hn04-T04#8"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_labyrinth_A.jpeg",
+          "output_pdf_pages": [
+            22
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_labyrinth_B.jpeg",
+          "output_pdf_pages": [
+            22
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_labyrinth_C.jpeg",
+          "output_pdf_pages": [
+            23
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_labyrinth_D.jpeg",
+          "output_pdf_pages": [
+            24
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 6,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "نمای طرفی اتموئید به همراه inset مستقل اربیت؛ نمای تحتانی اتموئید. هر سه نما داخل دو قاب انتقال یافته‌اند.",
+      "source_render": "sources/tag_src_1_06.jpg",
+      "source_render_sha256": "1e640830c1cd57ea3838428247ee80d0b96389c89bb74bdce650f42a60bf4366",
+      "base_block_ids": [
+        "hn04-T04#9",
+        "hn04-T04#11",
+        "hn04-T04#12",
+        "hn04-T04#13",
+        "hn04-T04#14",
+        "hn04-T04#15",
+        "hn04-T04#16",
+        "hn04-T05#2",
+        "hn04-T05#3"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_lateral_ethmoid.jpeg",
+          "output_pdf_pages": [
+            25
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_inferior_ethmoid.jpeg",
+          "output_pdf_pages": [
+            28
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 7,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "یک نمای شاخک‌های بینی؛ یک نمای دیوارهٔ طرفی با زائدهٔ قلابی و مجاری. خطای مجرای اشکی در متن منبع جدا توضیح داده شده است.",
+      "source_render": "sources/tag_src_1_07.jpg",
+      "source_render_sha256": "17142a04a22701580b6adb4ed8832874cebf2eb1ebb38e22ce4afcb3f29da1ea",
+      "base_block_ids": [
+        "hn04-T05#4",
+        "hn04-T05#5",
+        "hn04-T05#6",
+        "hn04-T05#7",
+        "hn04-T05#9",
+        "hn04-T05#11",
+        "hn04-T05#12",
+        "hn04-T05#13",
+        "hn04-T05#14",
+        "hn04-T05#15",
+        "hn04-T05#16"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_nasal_conchae.jpeg",
+          "output_pdf_pages": [
+            29
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_uncinate.jpeg",
+          "output_pdf_pages": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 8,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو نمای مستقل: برش میانی رنگی جمجمه؛ نمای تیغهٔ بینی با غضروف، اتموئید و وومر.",
+      "source_render": "sources/tag_src_1_08.jpg",
+      "source_render_sha256": "2bbe6ad67054544fd4817395e9bd69cdde0b34e0706de7e46dc3c29ec69df67e",
+      "base_block_ids": [
+        "hn04-T06#2",
+        "hn04-T06#3",
+        "hn04-T06#4",
+        "hn04-T06#5",
+        "hn04-T06#6",
+        "hn04-T06#8",
+        "hn04-T06#9",
+        "hn04-T06#10",
+        "hn04-T06#11",
+        "hn04-T06#12",
+        "hn04-T06#13",
+        "hn04-T06#14"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_ethmoid_section.jpeg",
+          "output_pdf_pages": [
+            33
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_nasal_septum.jpeg",
+          "output_pdf_pages": [
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 9,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو شکل مستقل: مقطع کرونال اتموئید؛ استخوان تمپورال از طرف.",
+      "source_render": "sources/tag_src_1_09.jpg",
+      "source_render_sha256": "31b10ed1c43aaf5007d23e986705ac3af1c3feb1e576ddd30c7fa31b25605ab7",
+      "base_block_ids": [
+        "hn04-T06#15",
+        "hn04-T06#16",
+        "hn04-T06#17",
+        "hn04-T06#18",
+        "hn04-T06#19",
+        "hn04-T06#20",
+        "hn04-T07#2",
+        "hn04-T07#3",
+        "hn04-T07#4",
+        "hn04-T07#5",
+        "hn04-T07#6",
+        "hn04-T07#7",
+        "hn04-T07#9"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_coronal.jpeg",
+          "output_pdf_pages": [
+            35
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_temporal.jpeg",
+          "output_pdf_pages": [
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 10,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو نیم‌نمای مستقل درونی/تحتانی قاعده برای مکان پتروس؛ هر دو داخل قاب منبع حفظ شده‌اند.",
+      "source_render": "sources/tag_src_1_10.jpg",
+      "source_render_sha256": "059c5e5d27847e401e0a4dcc2cb2075a802070d02ff3c28debb469394e65d783",
+      "base_block_ids": [
+        "hn04-T07#8",
+        "hn04-T07#10",
+        "hn04-T07#11",
+        "hn04-T07#12",
+        "hn04-T07#13",
+        "hn04-T07#14",
+        "hn04-T07#15",
+        "hn04-T07#16",
+        "hn04-T07#17",
+        "hn04-T07#18",
+        "hn04-T07#19",
+        "hn04-T07#20"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_petrous_base.jpeg",
+          "output_pdf_pages": [
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 11,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "یک نمای سطح قدامی پتروس، با شیارهای پتروزال و اثر تری‌ژمینال.",
+      "source_render": "sources/tag_src_1_11.jpg",
+      "source_render_sha256": "db7db96716643f7348ca43b77f64a7f347b9e595214327508949dad2710656f1",
+      "base_block_ids": [
+        "hn04-T07#21",
+        "hn04-T07#22",
+        "hn04-T07#23",
+        "hn04-T07#24",
+        "hn04-T07#25",
+        "hn04-T08#2",
+        "hn04-T08#3",
+        "hn04-T08#4",
+        "hn04-T08#5",
+        "hn04-T08#6"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_petrous_anterior.jpeg",
+          "output_pdf_pages": [
+            42
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 12,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "یک نمای تشریحی ساختارهای عمقی پتروس؛ نیم‌کانال‌ها و حفرهٔ گوش در همان قاب.",
+      "source_render": "sources/tag_src_1_12.jpg",
+      "source_render_sha256": "f1adc0e7a34fe86b48e31e7c99d45102de20b6da66d7d64453f68b71ffd46670",
+      "base_block_ids": [
+        "hn04-T08#7",
+        "hn04-T08#9",
+        "hn04-T08#10",
+        "hn04-T08#11",
+        "hn04-T08#12",
+        "hn04-T08#13",
+        "hn04-T08#14",
+        "hn04-T08#15",
+        "hn04-T08#16",
+        "hn04-T08#17",
+        "hn04-T08#18",
+        "hn04-T08#19"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_petrous_anterior_detail.jpeg",
+          "output_pdf_pages": [
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 13,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو شکل مستقل: عضله/لولهٔ شنوایی در تشریح؛ مقطع رنگی گوش. هر دو اکنون بزرگ و در صفحات جدا هستند.",
+      "source_render": "sources/tag_src_1_13.jpg",
+      "source_render_sha256": "215f0fc36c988fcb3e547845112c765b6f2604c0517ef051e722d2fbb3a341f7",
+      "base_block_ids": [
+        "hn04-T08#20",
+        "hn04-T08#22",
+        "hn04-T08#23",
+        "hn04-T08#24",
+        "hn04-T08#25",
+        "hn04-T08#26",
+        "hn04-T08#27",
+        "hn04-T08#28"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_ear_tubes.jpeg",
+          "output_pdf_pages": [
+            45
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_ear_section.jpeg",
+          "output_pdf_pages": [
+            46
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 14,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "یک نمای سطح خلفی پتروس با دهانهٔ مجرای درونی، آبگذر دهلیزی و ساب‌آرکوئیت فوسا.",
+      "source_render": "sources/tag_src_1_14.jpg",
+      "source_render_sha256": "2ee25e6075dc689e31baabddf9760963466dbf93791b9b5e664d99537eebbac0",
+      "base_block_ids": [
+        "hn04-T09#2",
+        "hn04-T09#3",
+        "hn04-T09#4",
+        "hn04-T09#5",
+        "hn04-T09#6",
+        "hn04-T09#7",
+        "hn04-T09#8",
+        "hn04-T09#9",
+        "hn04-T09#10",
+        "hn04-T09#11"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_petrous_posterior.jpeg",
+          "output_pdf_pages": [
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 15,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "سه زیرشکل مستقل: نمای فوقانی استخوانیِ چپ؛ طرح کیسهٔ اندولنفاتیک راستِ بالا؛ کپسول گوش/لابیرنت استخوانی راستِ پایین. سه قاب مجزا؛ نه حذف دو نمای کوچک.",
+      "source_render": "sources/tag_src_1_15.jpg",
+      "source_render_sha256": "775eff14cfdd016ee62cdd87df1b0e5f34c0029632116b913cc28d518bab052f",
+      "base_block_ids": [
+        "hn04-T09#13",
+        "hn04-T09#14",
+        "hn04-T09#15",
+        "hn04-T09#16",
+        "hn04-T09#17",
+        "hn04-T09#18",
+        "hn04-T09#19",
+        "hn04-T09#20",
+        "hn04-T09#21",
+        "hn04-T10#2",
+        "hn04-T10#3"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_aqueduct_A.jpeg",
+          "output_pdf_pages": [
+            50
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_aqueduct_B.jpeg",
+          "output_pdf_pages": [
+            51
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_aqueduct_C.jpeg",
+          "output_pdf_pages": [
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 16,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو نمای مستقل سطح تحتانی پتروس؛ inset مستقل جهت‌یابی جمجمه در نمای دوم حفظ است.",
+      "source_render": "sources/tag_src_1_16.jpg",
+      "source_render_sha256": "3cdadbf709d7f8b31a421a004813d66af82938ce1b08ae2a00f5e6c6d29a029c",
+      "base_block_ids": [
+        "hn04-T10#4",
+        "hn04-T10#5",
+        "hn04-T10#6",
+        "hn04-T10#7",
+        "hn04-T10#8",
+        "hn04-T10#9",
+        "hn04-T10#10",
+        "hn04-T10#11",
+        "hn04-T10#12"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_petrous_inferior.jpeg",
+          "output_pdf_pages": [
+            56
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_petrous_inferior_detail.jpeg",
+          "output_pdf_pages": [
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 17,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "یک نمای تحتانیِ نشان‌دهندهٔ دو کانالیکول با دو خط راهنما؛ دو نام واقعی، نه نیاز به برچسب سومِ ساختگی.",
+      "source_render": "sources/tag_src_1_17.jpg",
+      "source_render_sha256": "d1060579108d233b09f18696eac392e00137215a181afdaf670fef37db5a1945",
+      "base_block_ids": [
+        "hn04-T11#2",
+        "hn04-T11#3",
+        "hn04-T11#4",
+        "hn04-T11#5",
+        "hn04-T11#6",
+        "hn04-T11#7"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_canaliculi.jpeg",
+          "output_pdf_pages": [
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 18,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "سه شکل مستقل: استخوان‌های کف؛ حفره‌های رنگی از داخل؛ برش ساژیتال اختلاف ارتفاع حفره‌ها.",
+      "source_render": "sources/tag_src_1_18.jpg",
+      "source_render_sha256": "7f81589d4ecb3b8d14ed486bf68a204e25d486a6048afe73b3ca5e315c47f7e1",
+      "base_block_ids": [
+        "hn04-T12#2",
+        "hn04-T12#3",
+        "hn04-T12#4",
+        "hn04-T12#5",
+        "hn04-T12#6",
+        "hn04-T12#7",
+        "hn04-T12#8",
+        "hn04-T12#9",
+        "hn04-T12#10",
+        "hn04-T12#11",
+        "hn04-T12#12",
+        "hn04-T12#14",
+        "hn04-T12#15",
+        "hn04-T12#19"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_cranial_bones.jpeg",
+          "output_pdf_pages": [
+            63
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_cranial_fossae.jpeg",
+          "output_pdf_pages": [
+            64
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_cranial_sagittal.jpeg",
+          "output_pdf_pages": [
+            65
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 19,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو نمای مستقل قاعدهٔ داخلی: علامت‌گذاری آناتومیک و نقشهٔ رنگی سه حفره؛ هر دو در یک قاب.",
+      "source_render": "sources/tag_src_1_19.jpg",
+      "source_render_sha256": "763d785b675590b9852ecaf341b128e93920a94d87ac0668a7ddcdfde8836379",
+      "base_block_ids": [
+        "hn04-T12#16",
+        "hn04-T12#17",
+        "hn04-T12#18",
+        "hn04-T12#20",
+        "hn04-T12#21",
+        "hn04-T12#23",
+        "hn04-T12#24"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_cranial_overview.jpeg",
+          "output_pdf_pages": [
+            66
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 20,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن مرز حفره‌ها و عناصر حفرهٔ قدامی؛ شکل آموزشی مستقلی در این صفحه نیست.",
+      "source_render": "sources/tag_src_1_20.jpg",
+      "source_render_sha256": "33777903574b2fbd506221fb5d2e12d81bc886afc840a7893718411cf931f09e",
+      "base_block_ids": [
+        "hn04-T12#25",
+        "hn04-T13#2",
+        "hn04-T13#3",
+        "hn04-T13#4",
+        "hn04-T13#5",
+        "hn04-T13#6",
+        "hn04-T13#7",
+        "hn04-T13#8",
+        "hn04-T13#9",
+        "hn04-T13#10",
+        "hn04-T13#11",
+        "hn04-T13#12"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 21,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن ادامهٔ قدامی/شروع میانی؛ شکل مستقل ندارد.",
+      "source_render": "sources/tag_src_1_21.jpg",
+      "source_render_sha256": "c5fd50aaa27ac585db0eb8cfbaf227d6b382c718b020fa6208c21e86c3d8a9e8",
+      "base_block_ids": [
+        "hn04-T13#13",
+        "hn04-T13#14",
+        "hn04-T13#15",
+        "hn04-T13#16",
+        "hn04-T13#17",
+        "hn04-T13#18",
+        "hn04-T13#19",
+        "hn04-T13#20",
+        "hn04-T14#2",
+        "hn04-T14#3",
+        "hn04-T14#4",
+        "hn04-T14#5",
+        "hn04-T14#6",
+        "hn04-T14#7",
+        "hn04-T14#8",
+        "hn04-T14#9",
+        "hn04-T14#10",
+        "hn04-T14#11",
+        "hn04-T14#12",
+        "hn04-T14#13"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 22,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن سوراخ‌ها، سوراخ پاره و سطح پتروس؛ شکل مستقل ندارد.",
+      "source_render": "sources/tag_src_1_22.jpg",
+      "source_render_sha256": "1ded514f15d234fa66982652b02a5085ef0f554396b11fab6b15bf0485290771",
+      "base_block_ids": [
+        "hn04-T14#14",
+        "hn04-T14#15",
+        "hn04-T14#16",
+        "hn04-T14#17",
+        "hn04-T14#18",
+        "hn04-T14#19",
+        "hn04-T14#21",
+        "hn04-T14#22",
+        "hn04-T14#23",
+        "hn04-T14#24",
+        "hn04-T14#25",
+        "hn04-T14#26",
+        "hn04-T14#27",
+        "hn04-T14#29",
+        "hn04-T14#30",
+        "hn04-T14#31"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 23,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن تکمیل پتروس/حفرهٔ خلفی؛ شکل مستقل ندارد.",
+      "source_render": "sources/tag_src_1_23.jpg",
+      "source_render_sha256": "54484c286442ad67f7d7dcd511214d295b3a34feaf7932afc82b01df2a8581ca",
+      "base_block_ids": [
+        "hn04-T14#32",
+        "hn04-T14#33",
+        "hn04-T14#34",
+        "hn04-T14#35",
+        "hn04-T14#36",
+        "hn04-T14#37",
+        "hn04-T14#38",
+        "hn04-T15#2",
+        "hn04-T15#3",
+        "hn04-T15#4",
+        "hn04-T15#5",
+        "hn04-T15#6",
+        "hn04-T15#7",
+        "hn04-T15#8"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 24,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن عناصر حفرهٔ خلفی؛ شکل مستقل ندارد.",
+      "source_render": "sources/tag_src_1_24.jpg",
+      "source_render_sha256": "5f392a21ced9ff83aacfc2e75f2c0a227852e6acc5bd02fd55b73e6467030468",
+      "base_block_ids": [
+        "hn04-T15#9",
+        "hn04-T15#10",
+        "hn04-T15#11",
+        "hn04-T15#12",
+        "hn04-T15#13",
+        "hn04-T15#14",
+        "hn04-T15#15",
+        "hn04-T15#16",
+        "hn04-T15#17",
+        "hn04-T15#18",
+        "hn04-T15#19",
+        "hn04-T15#20",
+        "hn04-T15#21",
+        "hn04-T15#22",
+        "hn04-T15#23",
+        "hn04-T15#24",
+        "hn04-T15#25"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 1,
+      "source_pdf_page": 25,
+      "source_sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "سه نقشهٔ رنگی بی‌برچسب در ستون چپ؛ سه نمای برچسب‌دار حفره‌های قدامی/میانی/خلفی در راست؛ سه inset جهت‌یابی همراه قاب‌های راست. مجموع شش قاب اصلی و سه inset؛ همه منتقل شده‌اند. قواعد ستون/واترمارک و ریزلبهٔ نمای مجاور در برش C محدودیت ظاهری پذیرفته‌شده‌اند.",
+      "source_render": "sources/tag_src_1_25.jpg",
+      "source_render_sha256": "2bd8f1505df35275c665ff7a74de340fac83e9694044c09068d6abff824fa7eb",
+      "base_block_ids": [
+        "hn04-T13#21",
+        "hn04-T14#39",
+        "hn04-T15#26",
+        "hn04-T15#27",
+        "hn04-T15#28"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p1_open_fossa_anterior.jpeg",
+          "output_pdf_pages": [
+            71
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_fossa_middle.jpeg",
+          "output_pdf_pages": [
+            75
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p1_open_fossa_posterior.jpeg",
+          "output_pdf_pages": [
+            81
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_fossa_color_A.jpeg",
+          "output_pdf_pages": [
+            82
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_fossa_color_B.jpeg",
+          "output_pdf_pages": [
+            83
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_fossa_color_C.jpeg",
+          "output_pdf_pages": [
+            84
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 1,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "COVER_EXCLUDED",
+      "observed_content": "جلد بخش دوم؛ تزئینی، بدون شکل درسی لازم برای انتقال.",
+      "source_render": "sources/tag_src_2_01.jpg",
+      "source_render_sha256": "3c9ef454a8a94ad6f9a2c5f8444de425e6710d6b9757658a852c0d3534d63b82",
+      "base_block_ids": [],
+      "output_figures": []
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 2,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو نمای مستقل قاعدهٔ تحتانی: برچسب‌دار و رنگی؛ هر دو در یک قاب حفظ شده‌اند.",
+      "source_render": "sources/tag_src_2_02.jpg",
+      "source_render_sha256": "d0d12eda4cf985ca179db7c31da13d952687e5467c369ea6f7e120df433045e5",
+      "base_block_ids": [
+        "hn04-T16#2",
+        "hn04-T16#3",
+        "hn04-T16#4",
+        "hn04-T16#5",
+        "hn04-T16#6",
+        "hn04-T16#7",
+        "hn04-T16#9"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p2_inferior_base.jpeg",
+          "output_pdf_pages": [
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 3,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن کام سخت و سوراخ‌های ثنایایی/کامی؛ شکل مستقل ندارد. ترتیب انگلیسی تیتر کامی با اصل اصلاح شد.",
+      "source_render": "sources/tag_src_2_03.jpg",
+      "source_render_sha256": "8da61dee7f5f1fe514a897f9b255854c75abc6a4bb5a03f47c23fe3d3421b084",
+      "base_block_ids": [
+        "hn04-T16#11",
+        "hn04-T16#12",
+        "hn04-T16#13",
+        "hn04-T16#14",
+        "hn04-T16#16",
+        "hn04-T16#17",
+        "hn04-T16#18",
+        "hn04-T16#19",
+        "hn04-T16#20",
+        "hn04-T16#21",
+        "hn04-T16#22",
+        "hn04-T16#24",
+        "hn04-T16#25",
+        "hn04-T16#26",
+        "hn04-T16#28",
+        "hn04-T16#29"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 4,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن پایان قدامی/آغاز میانی، کوآنا و مجراها؛ شکل مستقل ندارد.",
+      "source_render": "sources/tag_src_2_04.jpg",
+      "source_render_sha256": "2d6b778cbeb1ce80607ac0bbc9abc57766cdaa49bb7a88c0542d213415bf967d",
+      "base_block_ids": [
+        "hn04-T16#31",
+        "hn04-T16#33",
+        "hn04-T16#35",
+        "hn04-T16#36",
+        "hn04-T17#2",
+        "hn04-T17#4",
+        "hn04-T17#6",
+        "hn04-T17#7",
+        "hn04-T17#8",
+        "hn04-T17#9",
+        "hn04-T17#10"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 5,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن مجراها، زوائد، حفره‌ها و سوراخ پاره؛ شکل مستقل ندارد.",
+      "source_render": "sources/tag_src_2_05.jpg",
+      "source_render_sha256": "40ffa583e07509d7509afe53f6b70c1cb0ed024425a1e7ee6d8a57161a25ad84",
+      "base_block_ids": [
+        "hn04-T17#11",
+        "hn04-T17#12",
+        "hn04-T17#14",
+        "hn04-T17#16",
+        "hn04-T17#17",
+        "hn04-T17#18",
+        "hn04-T17#20",
+        "hn04-T17#21",
+        "hn04-T17#22",
+        "hn04-T17#23",
+        "hn04-T17#25",
+        "hn04-T17#27",
+        "hn04-T17#28"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 6,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن عضلات و عروق/سوراخ‌ها؛ شکل مستقل ندارد. نسبت شریان مننژیال در کادر مستقل توضیح داده شد.",
+      "source_render": "sources/tag_src_2_06.jpg",
+      "source_render_sha256": "867f40745669d0ff6ae596161e2a75247fcb140f37e643219b4c5954d4ddd071",
+      "base_block_ids": [
+        "hn04-T17#29",
+        "hn04-T17#30",
+        "hn04-T17#32",
+        "hn04-T17#33",
+        "hn04-T17#35",
+        "hn04-T17#36",
+        "hn04-T17#37",
+        "hn04-T17#38",
+        "hn04-T17#39",
+        "hn04-T17#40",
+        "hn04-T17#41",
+        "hn04-T17#42",
+        "hn04-T17#43",
+        "hn04-T17#45",
+        "hn04-T17#46",
+        "hn04-T17#47",
+        "hn04-T17#48",
+        "hn04-T17#49",
+        "hn04-T17#50",
+        "hn04-T17#51",
+        "hn04-T17#52"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 7,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن عبوری‌های سوراخ‌ها و آغاز پس‌سری؛ شکل مستقل ندارد. تصویرِ واژهٔ «منتشر» بر استخراج اشتباه «مننژ» مقدم شد.",
+      "source_render": "sources/tag_src_2_07.jpg",
+      "source_render_sha256": "e27fb90fb56055c98787e7915fdd3bc36f8d2b16b39f43a00959a4b47dbffa1e",
+      "base_block_ids": [
+        "hn04-T17#53",
+        "hn04-T17#54",
+        "hn04-T17#55",
+        "hn04-T17#56",
+        "hn04-T17#57",
+        "hn04-T17#59",
+        "hn04-T17#60",
+        "hn04-T17#61",
+        "hn04-T17#62",
+        "hn04-T18#2",
+        "hn04-T18#4",
+        "hn04-T18#5",
+        "hn04-T18#6",
+        "hn04-T18#8",
+        "hn04-T18#9",
+        "hn04-T18#10",
+        "hn04-T18#11",
+        "hn04-T18#12",
+        "hn04-T18#13",
+        "hn04-T18#14",
+        "hn04-T18#15"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 8,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن سوراخ بزرگ/کندیل‌ها/کانال‌ها؛ شکل مستقل ندارد. ترتیب انگلیسی تیتر کندیلار با اصل اصلاح شد؛ تکرار رباط در منبع حفظ و جدا توضیح داده شد.",
+      "source_render": "sources/tag_src_2_08.jpg",
+      "source_render_sha256": "420826819dce8ce23eb103b02730e2abd8a6810dd452dd753d13c5b1b63019d7",
+      "base_block_ids": [
+        "hn04-T18#16",
+        "hn04-T18#18",
+        "hn04-T18#19",
+        "hn04-T18#20",
+        "hn04-T18#22",
+        "hn04-T18#23",
+        "hn04-T18#24",
+        "hn04-T18#25",
+        "hn04-T18#26",
+        "hn04-T18#27",
+        "hn04-T18#28",
+        "hn04-T18#30",
+        "hn04-T18#31",
+        "hn04-T18#32",
+        "hn04-T18#33",
+        "hn04-T18#34",
+        "hn04-T18#36",
+        "hn04-T18#37",
+        "hn04-T18#38"
+      ],
+      "output_figures": []
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 9,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "نمای تحتانی پتروس با inset جهت‌یابی مستقل؛ یک نمای مستقل کانالیکول‌ها. سه نما در دو قاب حفظ شده‌اند.",
+      "source_render": "sources/tag_src_2_09.jpg",
+      "source_render_sha256": "ac6a2d713b58bb0a88d50f8a7c0c7ebf1fe858205e5f07754d1e62ff7d95c999",
+      "base_block_ids": [
+        "hn04-T18#40",
+        "hn04-T18#41",
+        "hn04-T18#42",
+        "hn04-T18#43",
+        "hn04-T18#44",
+        "hn04-T18#45",
+        "hn04-T18#47",
+        "hn04-T18#48",
+        "hn04-T18#49",
+        "hn04-T18#50",
+        "hn04-T18#51",
+        "hn04-T18#52"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p2_petrous_jugular.jpeg",
+          "output_pdf_pages": [
+            100
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p2_canaliculi.jpeg",
+          "output_pdf_pages": [
+            101
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 10,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "یک نمای مستقل قاعدهٔ پس‌سری؛ مجموعهٔ ناهنجاری‌ها با چهار الگو a–d و دو نمای هر الگو (هشت ترسیم سر)، راهنمای a–d همراه مجموعه حفظ است.",
+      "source_render": "sources/tag_src_2_10.jpg",
+      "source_render_sha256": "16b164770c3c67687788709060b6861592079e0671ef309bff7b0118af340d2c",
+      "base_block_ids": [
+        "hn04-T18#54",
+        "hn04-T18#55",
+        "hn04-T18#56",
+        "hn04-T18#57",
+        "hn04-T18#58",
+        "hn04-T19#2",
+        "hn04-T19#3",
+        "hn04-T19#4",
+        "hn04-T19#5",
+        "hn04-T19#6",
+        "hn04-T19#7",
+        "hn04-T19#8",
+        "hn04-T19#9",
+        "hn04-T19#10",
+        "hn04-T19#11",
+        "hn04-T19#12",
+        "hn04-T19#13",
+        "hn04-T19#14",
+        "hn04-T19#15",
+        "hn04-T19#16"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p2_occipital_base.jpeg",
+          "output_pdf_pages": [
+            102
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p2_cranial_deformities.jpeg",
+          "output_pdf_pages": [
+            105
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 11,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "سه تصویر مستقل: هیدروسفالی a؛ میکروسفالی b؛ استخوان‌های درزی در نمای طرفی با خط راهنما. همه سه قاب منتقل شده‌اند.",
+      "source_render": "sources/tag_src_2_11.jpg",
+      "source_render_sha256": "6e2855fa9edfc2e13aaf8a445feefe2295f6086d84bfcf24dd6971101573071f",
+      "base_block_ids": [
+        "hn04-T19#17",
+        "hn04-T19#19",
+        "hn04-T19#20",
+        "hn04-T19#21",
+        "hn04-T19#23",
+        "hn04-T19#24",
+        "hn04-T19#25",
+        "hn04-T19#26",
+        "hn04-T19#28",
+        "hn04-T19#29",
+        "hn04-T19#30",
+        "hn04-T19#31",
+        "hn04-T19#32",
+        "hn04-T19#33",
+        "hn04-T19#34",
+        "hn04-T19#35"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p2_hydrocephaly.jpeg",
+          "output_pdf_pages": [
+            107
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p2_microcephaly.jpeg",
+          "output_pdf_pages": [
+            108
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p2_wormian_bones.jpeg",
+          "output_pdf_pages": [
+            109
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 12,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "دو زیرشکل شکستگی A لی‌فورت I و B لی‌فورت II؛ هر دو مستقل و بزرگ درج شده‌اند. واژهٔ سیریلیکِ انتهای تیتر II عیناً حفظ شد.",
+      "source_render": "sources/tag_src_2_12.jpg",
+      "source_render_sha256": "4dd091be39777db6aab091ae2466a4cede71403d7f084d43a3b54047a2d60588",
+      "base_block_ids": [
+        "hn04-T20#2",
+        "hn04-T20#4",
+        "hn04-T20#5",
+        "hn04-T20#6",
+        "hn04-T20#7",
+        "hn04-T20#8",
+        "hn04-T20#9",
+        "hn04-T20#11",
+        "hn04-T20#12",
+        "hn04-T20#13",
+        "hn04-T20#14",
+        "hn04-T20#15",
+        "hn04-T20#16",
+        "hn04-T20#17",
+        "hn04-T20#18",
+        "hn04-T20#19",
+        "hn04-T20#20",
+        "hn04-T20#22",
+        "hn04-T20#23",
+        "hn04-T20#24"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p2_lefort1.jpeg",
+          "output_pdf_pages": [
+            114
+          ]
+        },
+        {
+          "asset": "headneck/images/hn04_p2_lefort2.jpeg",
+          "output_pdf_pages": [
+            115
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 13,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "زیرشکل C لی‌فورت III؛ متن مسیر و عوارض؛ شکل مستقل دیگری ندارد.",
+      "source_render": "sources/tag_src_2_13.jpg",
+      "source_render_sha256": "12ac3b0a13c61d3f14a90d4e6c9cc09e3d3bd868a2a68e11768f2cee6568ff96",
+      "base_block_ids": [
+        "hn04-T20#25",
+        "hn04-T20#26",
+        "hn04-T20#27",
+        "hn04-T20#28",
+        "hn04-T20#29",
+        "hn04-T20#30",
+        "hn04-T20#31",
+        "hn04-T20#32",
+        "hn04-T20#33",
+        "hn04-T20#34",
+        "hn04-T20#36",
+        "hn04-T20#37",
+        "hn04-T20#38",
+        "hn04-T20#39",
+        "hn04-T20#41",
+        "hn04-T20#42",
+        "hn04-T20#43",
+        "hn04-T20#44",
+        "hn04-T20#45"
+      ],
+      "output_figures": [
+        {
+          "asset": "headneck/images/hn04_p2_lefort3.jpeg",
+          "output_pdf_pages": [
+            117
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "source_pdf_page": 14,
+      "source_sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0",
+      "review_status": "EDITORIAL_TEXT_AND_SUBFIGURES_REVIEWED",
+      "observed_content": "متن اهمیت بالینی/راه هوایی و جمع‌بندی؛ شکل مستقل ندارد. نقل دستور درمان منبع با کادر ایمنی جدا مشخص شده است.",
+      "source_render": "sources/tag_src_2_14.jpg",
+      "source_render_sha256": "57b98dda2a8e0bae4a50305d9b009063a315f382d86a50e3276e369f8aebf948",
+      "base_block_ids": [
+        "hn04-T20#46",
+        "hn04-T20#47",
+        "hn04-T20#49",
+        "hn04-T20#50",
+        "hn04-T20#51",
+        "hn04-T20#52",
+        "hn04-T20#53"
+      ],
+      "output_figures": []
+    }
+  ],
+  "heading_reconciliations": [
+    {
+      "topic": "T16",
+      "base_index": 27,
+      "part": 2,
+      "page": 3,
+      "change": "Restore Lesser Palatine Foramina & Greater ordering"
+    },
+    {
+      "topic": "T18",
+      "base_index": 29,
+      "part": 2,
+      "page": 8,
+      "change": "Restore Canal & Posterior Condylar Fossa ordering"
+    },
+    {
+      "topic": "T20",
+      "base_index": 10,
+      "part": 2,
+      "page": 12,
+      "change": "Restore literal пирамид"
+    }
+  ],
+  "limitations": [
+    "No claim of specialist clinical certification.",
+    "Original raster artifacts, watermarks and genuinely short marginal lettering were not reconstructed or guessed.",
+    "Byte preservation of base JSON is additional evidence only, not the source comparison itself."
+  ]
+}

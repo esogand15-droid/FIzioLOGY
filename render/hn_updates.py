@@ -75,10 +75,16 @@ def apply_update(session: str, content: dict[str, list]) -> dict[str, list]:
                 b['src'] = b['src'].replace(' — رونویسی در حال مقابله', '')
             if session == 'hn04' and str(i) in spec.get('plate_overrides', {}):
                 override = spec['plate_overrides'][str(i)]
-                allowed = {'asset', 'citation', 'src', 'fa_text', 'max_h', 'min_img_h', 'fresh'}
+                allowed = {'asset', 'citation', 'src', 'fa_text', 'max_h', 'min_img_h', 'fresh', 'title', 'en_caption', 'view', 'labels'}
                 if b['type'] != 'plate' or not set(override).issubset(allowed):
                     raise ValueError(f'{tid}: invalid figure presentation override at {i}')
                 b.update(deepcopy(override))
+            if session == 'hn04' and str(i) in spec.get('source_reconciliation', {}):
+                patch = spec['source_reconciliation'][str(i)]
+                if b.get('type') != 'h3' or b.get('text') != patch['expected_text']:
+                    raise ValueError(f'{tid}: source reconciliation mismatch at {i}')
+                b['text'] = patch['text']
+                b['src'] = (f"مقابلهٔ تیتر با اصل منبع؛ بخش ۲، صفحهٔ واقعی PDF {patch['source_pdf_page']}")
             blocks.append(b)
             if draft_hn03 and i == 0:
                 blocks.extend(_hn03_source_blocks(tid, mapping))

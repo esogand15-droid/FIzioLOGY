@@ -42,7 +42,7 @@
    "asset_id": "hn01_grays_p860",
    "book": "grays",
    "session": "hn01",
-   "source_file": "علوم تشریح دستگاه اعصاب__user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+   "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
    "page": 88,
    "note": "گری ص ۸۶۰، نمای فوقانی جمجمه؛ متن بریدهٔ مجاور حذف شده است",
    "bbox": [
@@ -920,7 +920,7 @@
    "asset_id": "hn01_netter_p32",
    "book": "netter",
    "session": "hn01",
-   "source_file": "جلسه 1 - سر و گردن 1__Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
    "page": 84,
    "note": "قاعدهٔ جمجمه از بالا: سه حفرهٔ کرانیال",
    "bbox": [
@@ -5620,6 +5620,455 @@
    "bytes": 763334,
    "path": "headneck/images/hn04_netter_p31_inferior.jpeg",
    "note": "نام ساختارهای قاعدهٔ خارجی",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_ethmoid_A",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    148.5,
+    535.2,
+    278,
+    637
+   ],
+   "w": 389,
+   "h": 306,
+   "bytes": 23290,
+   "path": "headneck/images/hn04_ethmoid_A.jpeg",
+   "note": "A — anterior view",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_ethmoid_B",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    284,
+    535.2,
+    405,
+    640
+   ],
+   "w": 363,
+   "h": 315,
+   "bytes": 21263,
+   "path": "headneck/images/hn04_ethmoid_B.jpeg",
+   "note": "B — superior view",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_ethmoid_C",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    411,
+    535.2,
+    540,
+    640
+   ],
+   "w": 387,
+   "h": 315,
+   "bytes": 27928,
+   "path": "headneck/images/hn04_ethmoid_C.jpeg",
+   "note": "C — posterior view",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_ethmoid_D",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    148.5,
+    648,
+    344,
+    755.15
+   ],
+   "w": 587,
+   "h": 322,
+   "bytes": 32288,
+   "path": "headneck/images/hn04_ethmoid_D.jpeg",
+   "note": "D — left lateral view",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_ethmoid_E",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 3,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    355,
+    648,
+    540,
+    755.15
+   ],
+   "w": 555,
+   "h": 322,
+   "bytes": 29871,
+   "path": "headneck/images/hn04_ethmoid_E.jpeg",
+   "note": "E — inferior view",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_labyrinth_A",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    72,
+    72,
+    267,
+    157
+   ],
+   "w": 585,
+   "h": 255,
+   "bytes": 31849,
+   "path": "headneck/images/hn04_labyrinth_A.jpeg",
+   "note": "Upper left — inferior view",
+   "mask_rects": [
+    [
+     72,
+     72,
+     94,
+     86
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn04_labyrinth_B",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    72,
+    156,
+    367,
+    334.6
+   ],
+   "w": 885,
+   "h": 536,
+   "bytes": 85024,
+   "path": "headneck/images/hn04_labyrinth_B.jpeg",
+   "note": "Lower left — opened air cells",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_labyrinth_C",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    400,
+    97,
+    539.3,
+    192
+   ],
+   "w": 418,
+   "h": 285,
+   "bytes": 31508,
+   "path": "headneck/images/hn04_labyrinth_C.jpeg",
+   "note": "Upper right — medial orbital wall",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_labyrinth_D",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 5,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    374,
+    193,
+    539.3,
+    334.6
+   ],
+   "w": 496,
+   "h": 425,
+   "bytes": 42744,
+   "path": "headneck/images/hn04_labyrinth_D.jpeg",
+   "note": "Lower right — opened orbit",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_aqueduct_A",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    72,
+    72,
+    340,
+    351.25
+   ],
+   "w": 804,
+   "h": 838,
+   "bytes": 155596,
+   "path": "headneck/images/hn04_aqueduct_A.jpeg",
+   "note": "Left — superior view of petrous bone",
+   "mask_rects": [
+    [
+     330,
+     170,
+     340,
+     185
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn04_aqueduct_B",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    328,
+    78,
+    539.45,
+    207
+   ],
+   "w": 635,
+   "h": 387,
+   "bytes": 41074,
+   "path": "headneck/images/hn04_aqueduct_B.jpeg",
+   "note": "Upper right — endolymphatic sac schema",
+   "mask_rects": [
+    [
+     328,
+     78,
+     385,
+     160
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn04_aqueduct_C",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 15,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    378,
+    213,
+    539.45,
+    306
+   ],
+   "w": 485,
+   "h": 279,
+   "bytes": 31256,
+   "path": "headneck/images/hn04_aqueduct_C.jpeg",
+   "note": "Lower right — osseous labyrinth",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_fossa_color_A",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 25,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    28,
+    120,
+    235,
+    238
+   ],
+   "w": 621,
+   "h": 354,
+   "bytes": 35634,
+   "path": "headneck/images/hn04_fossa_color_A.jpeg",
+   "note": "Left upper — anterior fossa color map",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_fossa_color_B",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 25,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    28,
+    265,
+    236,
+    397
+   ],
+   "w": 624,
+   "h": 396,
+   "bytes": 34600,
+   "path": "headneck/images/hn04_fossa_color_B.jpeg",
+   "note": "Left middle — middle fossa color map",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_fossa_color_C",
+   "book": "lecture",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+   "page": 25,
+   "part": 1,
+   "printed_page": null,
+   "figure": null,
+   "plate": null,
+   "bbox": [
+    28,
+    399,
+    235,
+    555.7
+   ],
+   "w": 621,
+   "h": 471,
+   "bytes": 49019,
+   "path": "headneck/images/hn04_fossa_color_C.jpeg",
+   "note": "Left lower — posterior fossa color map",
+   "mask_rects": []
+  },
+  {
+   "asset_id": "hn04_netter61_drainage",
+   "book": "netter",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 113,
+   "part": null,
+   "printed_page": null,
+   "figure": null,
+   "plate": 61,
+   "bbox": [
+    49,
+    474,
+    579,
+    721
+   ],
+   "w": 1590,
+   "h": 741,
+   "bytes": 317756,
+   "path": "headneck/images/hn04_netter61_drainage.jpeg",
+   "note": "Lower illustration — drainage openings",
+   "mask_rects": [
+    [
+     49,
+     474,
+     272,
+     489
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn04_netter63_septum",
+   "book": "netter",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 115,
+   "part": null,
+   "printed_page": null,
+   "figure": null,
+   "plate": 63,
+   "bbox": [
+    65,
+    429,
+    583,
+    725
+   ],
+   "w": 1554,
+   "h": 888,
+   "bytes": 328475,
+   "path": "headneck/images/hn04_netter63_septum.jpeg",
+   "note": "Lower illustration — bony nasal septum",
+   "mask_rects": [
+    [
+     400,
+     429,
+     583,
+     441
+    ]
+   ]
+  },
+  {
+   "asset_id": "hn04_netter125_labyrinth",
+   "book": "netter",
+   "session": "hn04",
+   "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+   "page": 177,
+   "part": null,
+   "printed_page": null,
+   "figure": null,
+   "plate": 125,
+   "bbox": [
+    48,
+    88,
+    582,
+    430
+   ],
+   "w": 1602,
+   "h": 1026,
+   "bytes": 370566,
+   "path": "headneck/images/hn04_netter125_labyrinth.jpeg",
+   "note": "Upper illustration — labyrinth schema",
    "mask_rects": []
   }
  ]

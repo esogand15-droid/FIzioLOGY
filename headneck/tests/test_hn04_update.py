@@ -23,8 +23,8 @@ class SessionFour(unittest.TestCase):
         self.overlay=json.loads((ROOT/'headneck/content/hn04_update.json').read_text())
     def test_default_does_not_overwrite_published_baseline(self):
         import qa_headneck as Q
-        self.assertEqual(B.HN_SESSIONS["hn04"]["pdf_name"],"HumsYar_HeadNeck_Jalase4_REVIEW.pdf")
-        self.assertEqual(Q.SESSIONS["hn04"]["pdf"].name,"HumsYar_HeadNeck_Jalase4_REVIEW.pdf")
+        self.assertEqual(B.HN_SESSIONS["hn04"]["pdf_name"],"HumsYar_HeadNeck_Jalase4_FINAL.pdf")
+        self.assertEqual(Q.SESSIONS["hn04"]["pdf"].name,"HumsYar_HeadNeck_Jalase4_FINAL.pdf")
 
     def test_baseline_fingerprint(self):
         self.assertEqual(hashlib.sha256((ROOT/'headneck/content/hn04_a.json').read_bytes()).hexdigest(),
@@ -49,6 +49,11 @@ class SessionFour(unittest.TestCase):
                 actual=result[tid][cursor]; expected=copy.deepcopy(b)
                 if i==0:expected['rows']+=spec['card_rows']
                 if str(i) in spec.get('plate_overrides',{}):expected.update(spec['plate_overrides'][str(i)])
+                if str(i) in spec.get('source_reconciliation',{}):
+                    patch=spec['source_reconciliation'][str(i)]
+                    self.assertEqual(expected['text'],patch['expected_text'])
+                    expected['text']=patch['text']
+                    expected['src']=f"مقابلهٔ تیتر با اصل منبع؛ بخش ۲، صفحهٔ واقعی PDF {patch['source_pdf_page']}"
                 self.assertEqual(actual,expected,f'{tid} base block {i}')
                 cursor+=1+len(spec['after'].get(str(i),[]))
             self.assertEqual(cursor,len(result[tid]))
@@ -78,13 +83,28 @@ class SessionFour(unittest.TestCase):
         result=U.apply_update('hn04',self.base)
         idx={a['path']:a for a in json.loads((ROOT/'headneck/images/INDEX.json').read_text())['assets']}
         plates=[b for bs in result.values() for b in bs if b['type']=='plate']
-        self.assertEqual(len(plates),55)
+        self.assertEqual(len(plates),69)
         for b in plates:
             self.assertTrue((ROOT/b['asset']).is_file())
             self.assertIn(b['asset'],idx)
             if b['book']=='grays':self.assertIn('PDF',b['citation'])
         self.assertEqual(idx['headneck/images/hn04_grays_f825.jpeg']['page'],93)
         self.assertEqual(idx['headneck/images/hn04_grays_f826.jpeg']['page'],95)
+    def test_explicit_heading_reconciliation_only(self):
+        patches=[(tid,k,p) for tid,s in self.overlay['topics'].items() for k,p in s.get('source_reconciliation',{}).items()]
+        self.assertEqual(len(patches),3)
+        for tid,k,p in patches:
+            self.assertEqual(self.base[tid][int(k)]['type'],'h3')
+            self.assertEqual(p['expected_text'],self.base[tid][int(k)]['text'])
+            self.assertTrue(p['reason'])
+        self.assertIn('пирамид',self.overlay['topics']['hn04-T20']['source_reconciliation']['10']['text'])
+    def test_stale_reconciliation_rejected(self):
+        with tempfile.TemporaryDirectory() as d:
+            malformed=copy.deepcopy(self.overlay)
+            malformed['topics']['hn04-T20']['source_reconciliation']['10']['expected_text']='stale'
+            Path(d,'hn04_update.json').write_text(json.dumps(malformed))
+            with patch.object(U,'CONTENT',Path(d)),self.assertRaises(ValueError):
+                U.apply_update('hn04',self.base)
     def test_bad_insertion_rejected(self):
         with tempfile.TemporaryDirectory() as d:
             malformed=copy.deepcopy(self.overlay)
@@ -92,5 +112,25 @@ class SessionFour(unittest.TestCase):
             Path(d,'hn04_update.json').write_text(json.dumps(malformed))
             with patch.object(U,'CONTENT',Path(d)),self.assertRaises(ValueError):
                 U.apply_update('hn04',self.base)
+
+
+class FinalEvidence(unittest.TestCase):
+    def test_final_evidence_identity_and_coverage(self):
+        from verify_hn04_final_evidence import verify
+        result = verify()
+        self.assertEqual(result['output_pages'], 122)
+        self.assertEqual(result['source_pages'], 39)
+        self.assertEqual(result['reference_pages'], 20)
+
+    def test_ear_section_has_no_redundant_double_break_hint(self):
+        overlay = json.loads((ROOT/'headneck/content/hn04_update.json').read_text())
+        ear = overlay['topics']['hn04-T08']['plate_overrides']['28']
+        self.assertTrue(ear['fresh'])
+        self.assertNotIn('min_img_h', ear)
+
+    def test_source_figure_paths_resolve_in_current_checkout(self):
+        inventory = json.loads((ROOT/'headneck/reports/hn04_final_evidence/machine_manifest.json').read_text())
+        for figure in inventory['figures']:
+            self.assertTrue((ROOT/figure['source_file']).is_file(), figure['source_file'])
 
 if __name__=='__main__':unittest.main()

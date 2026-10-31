@@ -68,12 +68,12 @@ SESSIONS = {
         report=REPO / "headneck" / "reports" / f"HN_S03_QA_REPORT.md",
     ),
     "hn04": dict(
-        pdf=REPO / "pdf" / "HumsYar_HeadNeck_Jalase4_REVIEW.pdf",
+        pdf=REPO / "pdf" / "HumsYar_HeadNeck_Jalase4_FINAL.pdf",
         outline="hn04_topics.json",
         content=("hn04_a.json", "hn04_b.json"),
         # Two source PDFs: part 1 pages 1–25, part 2 encoded as 100+page.
         page_ranges=[(1, 25), (101, 114)],
-        report=REPO / "headneck" / "reports" / f"HN_S04_UPDATE_QA_REPORT.md",
+        report=REPO / "headneck" / "reports" / f"HN_S04_FINAL_TECHNICAL_QA_REPORT.md",
     ),
     "hn05": dict(
         pdf=REPO / "pdf" / "HumsYar_HeadNeck_Jalase5.pdf",
@@ -317,7 +317,7 @@ def main() -> int:
     cite_ok = 0
     for tid, i, b in plates:
         cite = b.get("citation", "")
-        has_page = bool(re.search(r"(p\.\s*\d+|ص\s*[۰-۹\d]|pp\.\s*\d+)", cite))
+        has_page = bool(re.search(r"(?:p\.\s*\d+|ص\s*[۰-۹\d]+|pp\.\s*\d+|صفحه[ٔ]?(?:\s+واقعی)?\s+(?:PDF\s+)?[۰-۹\d]+)", cite))
         if not has_page:
             problems.append(f"G7 {tid}#{i}: citation without a page — {cite!r}")
         else:
@@ -404,6 +404,9 @@ def main() -> int:
         blocks = content.get(tid, [])
         n_plates = sum(1 for b in blocks if b.get("type") == "plate")
         pgs = "، ".join(fa_n(p) for p in t.get("pages", []))
+        if session == 'hn04':
+            from build_headneck import page_range
+            pgs = page_range(t.get('pages', []), part_labels=True)
         lines.append(f"| {tid} | {pgs} | {len(blocks)} | {n_plates} | "
                      f"{book.heading_pages.get(tid, '—')} |")
 
@@ -461,7 +464,7 @@ def main() -> int:
         "",
         "## آنچه این گزارش ادعا نمی‌کند",
         "",
-        "- **بازبینی علمی نشده است**: هیچ جمله‌ای توسط متخصص با رفرنس تطبیق داده نشده است؛ "
+        "- **این گزارش تأیید علمی نیست**: وضعیت بازبینی محتوایی باید از گزارش مستقلِ همراه خوانده شود؛ "
         "این گزارش فقط ساختار، ارجاع، پوشش و خوانایی را می‌سنجد.",
         "- درستی علمی محتوا، درستی ترجمهٔ برچسب‌ها و تناسب شکل با متن، هر سه خارج از دامنهٔ "
         "این دروازه‌ها هستند و باید در بازبینی علمی جداگانه تأیید شوند.",

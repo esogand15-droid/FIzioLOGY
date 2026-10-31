@@ -1,0 +1,3439 @@
+{
+  "pdf": "pdf/HumsYar_HeadNeck_Jalase4_FINAL.pdf",
+  "sha256": "85e6c0b234f14592d399f234039138d15eee870fdc2e4f22cece234c7e72714b",
+  "pdf_pages": 122,
+  "base_blocks": 586,
+  "updated_blocks": 699,
+  "block_types": {
+    "idcard": 20,
+    "h3": 90,
+    "p": 443,
+    "plate": 69,
+    "table": 20,
+    "callout": 37,
+    "handoff": 20
+  },
+  "sources": [
+    {
+      "part": 1,
+      "file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "pages": 25,
+      "sha256": "adfb37ec7af7377c9183172792b47fbf6bbd7c4e7b7e73ea9681f9e43bde10fb"
+    },
+    {
+      "part": 2,
+      "file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "pages": 14,
+      "sha256": "3c0d1378a383a31a438638194cd3d35928857306e43f361908d852d6a946e0a0"
+    }
+  ],
+  "source_pages": [
+    {
+      "part": 1,
+      "pdf_page": 1,
+      "role": "cover",
+      "base_block_ids": [],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 2,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T01#2",
+        "hn04-T01#3",
+        "hn04-T01#4",
+        "hn04-T01#5",
+        "hn04-T02#2",
+        "hn04-T02#3",
+        "hn04-T02#4",
+        "hn04-T02#5",
+        "hn04-T02#6",
+        "hn04-T02#7",
+        "hn04-T02#8",
+        "hn04-T02#9",
+        "hn04-T02#10",
+        "hn04-T02#11"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_base.jpeg",
+        "headneck/images/hn04_p1_open_ethmoid_location.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 3,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T02#14",
+        "hn04-T02#15",
+        "hn04-T02#16",
+        "hn04-T02#17",
+        "hn04-T02#18",
+        "hn04-T03#2"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_ethmoid_parts.jpeg",
+        "headneck/images/hn04_ethmoid_A.jpeg",
+        "headneck/images/hn04_ethmoid_B.jpeg",
+        "headneck/images/hn04_ethmoid_C.jpeg",
+        "headneck/images/hn04_ethmoid_D.jpeg",
+        "headneck/images/hn04_ethmoid_E.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 4,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T03#3",
+        "hn04-T03#4",
+        "hn04-T03#5",
+        "hn04-T03#6",
+        "hn04-T03#7",
+        "hn04-T03#9",
+        "hn04-T03#10",
+        "hn04-T03#11",
+        "hn04-T03#12",
+        "hn04-T03#13",
+        "hn04-T03#14"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_ethmoid_superior.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 5,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T04#2",
+        "hn04-T04#3",
+        "hn04-T04#4",
+        "hn04-T04#5",
+        "hn04-T04#6",
+        "hn04-T04#8"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_labyrinth_A.jpeg",
+        "headneck/images/hn04_labyrinth_B.jpeg",
+        "headneck/images/hn04_labyrinth_C.jpeg",
+        "headneck/images/hn04_labyrinth_D.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 6,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T04#9",
+        "hn04-T04#11",
+        "hn04-T04#12",
+        "hn04-T04#13",
+        "hn04-T04#14",
+        "hn04-T04#15",
+        "hn04-T04#16",
+        "hn04-T05#2",
+        "hn04-T05#3"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_lateral_ethmoid.jpeg",
+        "headneck/images/hn04_p1_open_inferior_ethmoid.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 7,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T05#4",
+        "hn04-T05#5",
+        "hn04-T05#6",
+        "hn04-T05#7",
+        "hn04-T05#9",
+        "hn04-T05#11",
+        "hn04-T05#12",
+        "hn04-T05#13",
+        "hn04-T05#14",
+        "hn04-T05#15",
+        "hn04-T05#16"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_nasal_conchae.jpeg",
+        "headneck/images/hn04_p1_open_uncinate.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 8,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T06#2",
+        "hn04-T06#3",
+        "hn04-T06#4",
+        "hn04-T06#5",
+        "hn04-T06#6",
+        "hn04-T06#8",
+        "hn04-T06#9",
+        "hn04-T06#10",
+        "hn04-T06#11",
+        "hn04-T06#12",
+        "hn04-T06#13",
+        "hn04-T06#14"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_ethmoid_section.jpeg",
+        "headneck/images/hn04_p1_open_nasal_septum.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 9,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T06#15",
+        "hn04-T06#16",
+        "hn04-T06#17",
+        "hn04-T06#18",
+        "hn04-T06#19",
+        "hn04-T06#20",
+        "hn04-T07#2",
+        "hn04-T07#3",
+        "hn04-T07#4",
+        "hn04-T07#5",
+        "hn04-T07#6",
+        "hn04-T07#7",
+        "hn04-T07#9"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_coronal.jpeg",
+        "headneck/images/hn04_p1_open_temporal.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 10,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T07#8",
+        "hn04-T07#10",
+        "hn04-T07#11",
+        "hn04-T07#12",
+        "hn04-T07#13",
+        "hn04-T07#14",
+        "hn04-T07#15",
+        "hn04-T07#16",
+        "hn04-T07#17",
+        "hn04-T07#18",
+        "hn04-T07#19",
+        "hn04-T07#20"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_petrous_base.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 11,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T07#21",
+        "hn04-T07#22",
+        "hn04-T07#23",
+        "hn04-T07#24",
+        "hn04-T07#25",
+        "hn04-T08#2",
+        "hn04-T08#3",
+        "hn04-T08#4",
+        "hn04-T08#5",
+        "hn04-T08#6"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_petrous_anterior.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 12,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T08#7",
+        "hn04-T08#9",
+        "hn04-T08#10",
+        "hn04-T08#11",
+        "hn04-T08#12",
+        "hn04-T08#13",
+        "hn04-T08#14",
+        "hn04-T08#15",
+        "hn04-T08#16",
+        "hn04-T08#17",
+        "hn04-T08#18",
+        "hn04-T08#19"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_petrous_anterior_detail.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 13,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T08#20",
+        "hn04-T08#22",
+        "hn04-T08#23",
+        "hn04-T08#24",
+        "hn04-T08#25",
+        "hn04-T08#26",
+        "hn04-T08#27",
+        "hn04-T08#28"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_ear_tubes.jpeg",
+        "headneck/images/hn04_p1_open_ear_section.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 14,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T09#2",
+        "hn04-T09#3",
+        "hn04-T09#4",
+        "hn04-T09#5",
+        "hn04-T09#6",
+        "hn04-T09#7",
+        "hn04-T09#8",
+        "hn04-T09#9",
+        "hn04-T09#10",
+        "hn04-T09#11"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_petrous_posterior.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 15,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T09#13",
+        "hn04-T09#14",
+        "hn04-T09#15",
+        "hn04-T09#16",
+        "hn04-T09#17",
+        "hn04-T09#18",
+        "hn04-T09#19",
+        "hn04-T09#20",
+        "hn04-T09#21",
+        "hn04-T10#2",
+        "hn04-T10#3"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_aqueduct_A.jpeg",
+        "headneck/images/hn04_aqueduct_B.jpeg",
+        "headneck/images/hn04_aqueduct_C.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 16,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T10#4",
+        "hn04-T10#5",
+        "hn04-T10#6",
+        "hn04-T10#7",
+        "hn04-T10#8",
+        "hn04-T10#9",
+        "hn04-T10#10",
+        "hn04-T10#11",
+        "hn04-T10#12"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_petrous_inferior.jpeg",
+        "headneck/images/hn04_p1_open_petrous_inferior_detail.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 17,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T11#2",
+        "hn04-T11#3",
+        "hn04-T11#4",
+        "hn04-T11#5",
+        "hn04-T11#6",
+        "hn04-T11#7"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_canaliculi.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 18,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T12#2",
+        "hn04-T12#3",
+        "hn04-T12#4",
+        "hn04-T12#5",
+        "hn04-T12#6",
+        "hn04-T12#7",
+        "hn04-T12#8",
+        "hn04-T12#9",
+        "hn04-T12#10",
+        "hn04-T12#11",
+        "hn04-T12#12",
+        "hn04-T12#14",
+        "hn04-T12#15",
+        "hn04-T12#19"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_cranial_bones.jpeg",
+        "headneck/images/hn04_p1_open_cranial_fossae.jpeg",
+        "headneck/images/hn04_p1_open_cranial_sagittal.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 19,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T12#16",
+        "hn04-T12#17",
+        "hn04-T12#18",
+        "hn04-T12#20",
+        "hn04-T12#21",
+        "hn04-T12#23",
+        "hn04-T12#24"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_cranial_overview.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 20,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T12#25",
+        "hn04-T13#2",
+        "hn04-T13#3",
+        "hn04-T13#4",
+        "hn04-T13#5",
+        "hn04-T13#6",
+        "hn04-T13#7",
+        "hn04-T13#8",
+        "hn04-T13#9",
+        "hn04-T13#10",
+        "hn04-T13#11",
+        "hn04-T13#12"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 21,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T13#13",
+        "hn04-T13#14",
+        "hn04-T13#15",
+        "hn04-T13#16",
+        "hn04-T13#17",
+        "hn04-T13#18",
+        "hn04-T13#19",
+        "hn04-T13#20",
+        "hn04-T14#2",
+        "hn04-T14#3",
+        "hn04-T14#4",
+        "hn04-T14#5",
+        "hn04-T14#6",
+        "hn04-T14#7",
+        "hn04-T14#8",
+        "hn04-T14#9",
+        "hn04-T14#10",
+        "hn04-T14#11",
+        "hn04-T14#12",
+        "hn04-T14#13"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 22,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T14#14",
+        "hn04-T14#15",
+        "hn04-T14#16",
+        "hn04-T14#17",
+        "hn04-T14#18",
+        "hn04-T14#19",
+        "hn04-T14#21",
+        "hn04-T14#22",
+        "hn04-T14#23",
+        "hn04-T14#24",
+        "hn04-T14#25",
+        "hn04-T14#26",
+        "hn04-T14#27",
+        "hn04-T14#29",
+        "hn04-T14#30",
+        "hn04-T14#31"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 23,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T14#32",
+        "hn04-T14#33",
+        "hn04-T14#34",
+        "hn04-T14#35",
+        "hn04-T14#36",
+        "hn04-T14#37",
+        "hn04-T14#38",
+        "hn04-T15#2",
+        "hn04-T15#3",
+        "hn04-T15#4",
+        "hn04-T15#5",
+        "hn04-T15#6",
+        "hn04-T15#7",
+        "hn04-T15#8"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 24,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T15#9",
+        "hn04-T15#10",
+        "hn04-T15#11",
+        "hn04-T15#12",
+        "hn04-T15#13",
+        "hn04-T15#14",
+        "hn04-T15#15",
+        "hn04-T15#16",
+        "hn04-T15#17",
+        "hn04-T15#18",
+        "hn04-T15#19",
+        "hn04-T15#20",
+        "hn04-T15#21",
+        "hn04-T15#22",
+        "hn04-T15#23",
+        "hn04-T15#24",
+        "hn04-T15#25"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 1,
+      "pdf_page": 25,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T13#21",
+        "hn04-T14#39",
+        "hn04-T15#26",
+        "hn04-T15#27",
+        "hn04-T15#28"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p1_open_fossa_anterior.jpeg",
+        "headneck/images/hn04_p1_open_fossa_middle.jpeg",
+        "headneck/images/hn04_p1_open_fossa_posterior.jpeg",
+        "headneck/images/hn04_fossa_color_A.jpeg",
+        "headneck/images/hn04_fossa_color_B.jpeg",
+        "headneck/images/hn04_fossa_color_C.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 1,
+      "role": "cover",
+      "base_block_ids": [],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 2,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T16#2",
+        "hn04-T16#3",
+        "hn04-T16#4",
+        "hn04-T16#5",
+        "hn04-T16#6",
+        "hn04-T16#7",
+        "hn04-T16#9"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p2_inferior_base.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 3,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T16#11",
+        "hn04-T16#12",
+        "hn04-T16#13",
+        "hn04-T16#14",
+        "hn04-T16#16",
+        "hn04-T16#17",
+        "hn04-T16#18",
+        "hn04-T16#19",
+        "hn04-T16#20",
+        "hn04-T16#21",
+        "hn04-T16#22",
+        "hn04-T16#24",
+        "hn04-T16#25",
+        "hn04-T16#26",
+        "hn04-T16#28",
+        "hn04-T16#29"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 4,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T16#31",
+        "hn04-T16#33",
+        "hn04-T16#35",
+        "hn04-T16#36",
+        "hn04-T17#2",
+        "hn04-T17#4",
+        "hn04-T17#6",
+        "hn04-T17#7",
+        "hn04-T17#8",
+        "hn04-T17#9",
+        "hn04-T17#10"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 5,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T17#11",
+        "hn04-T17#12",
+        "hn04-T17#14",
+        "hn04-T17#16",
+        "hn04-T17#17",
+        "hn04-T17#18",
+        "hn04-T17#20",
+        "hn04-T17#21",
+        "hn04-T17#22",
+        "hn04-T17#23",
+        "hn04-T17#25",
+        "hn04-T17#27",
+        "hn04-T17#28"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 6,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T17#29",
+        "hn04-T17#30",
+        "hn04-T17#32",
+        "hn04-T17#33",
+        "hn04-T17#35",
+        "hn04-T17#36",
+        "hn04-T17#37",
+        "hn04-T17#38",
+        "hn04-T17#39",
+        "hn04-T17#40",
+        "hn04-T17#41",
+        "hn04-T17#42",
+        "hn04-T17#43",
+        "hn04-T17#45",
+        "hn04-T17#46",
+        "hn04-T17#47",
+        "hn04-T17#48",
+        "hn04-T17#49",
+        "hn04-T17#50",
+        "hn04-T17#51",
+        "hn04-T17#52"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 7,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T17#53",
+        "hn04-T17#54",
+        "hn04-T17#55",
+        "hn04-T17#56",
+        "hn04-T17#57",
+        "hn04-T17#59",
+        "hn04-T17#60",
+        "hn04-T17#61",
+        "hn04-T17#62",
+        "hn04-T18#2",
+        "hn04-T18#4",
+        "hn04-T18#5",
+        "hn04-T18#6",
+        "hn04-T18#8",
+        "hn04-T18#9",
+        "hn04-T18#10",
+        "hn04-T18#11",
+        "hn04-T18#12",
+        "hn04-T18#13",
+        "hn04-T18#14",
+        "hn04-T18#15"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 8,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T18#16",
+        "hn04-T18#18",
+        "hn04-T18#19",
+        "hn04-T18#20",
+        "hn04-T18#22",
+        "hn04-T18#23",
+        "hn04-T18#24",
+        "hn04-T18#25",
+        "hn04-T18#26",
+        "hn04-T18#27",
+        "hn04-T18#28",
+        "hn04-T18#30",
+        "hn04-T18#31",
+        "hn04-T18#32",
+        "hn04-T18#33",
+        "hn04-T18#34",
+        "hn04-T18#36",
+        "hn04-T18#37",
+        "hn04-T18#38"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 9,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T18#40",
+        "hn04-T18#41",
+        "hn04-T18#42",
+        "hn04-T18#43",
+        "hn04-T18#44",
+        "hn04-T18#45",
+        "hn04-T18#47",
+        "hn04-T18#48",
+        "hn04-T18#49",
+        "hn04-T18#50",
+        "hn04-T18#51",
+        "hn04-T18#52"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p2_petrous_jugular.jpeg",
+        "headneck/images/hn04_p2_canaliculi.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 10,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T18#54",
+        "hn04-T18#55",
+        "hn04-T18#56",
+        "hn04-T18#57",
+        "hn04-T18#58",
+        "hn04-T19#2",
+        "hn04-T19#3",
+        "hn04-T19#4",
+        "hn04-T19#5",
+        "hn04-T19#6",
+        "hn04-T19#7",
+        "hn04-T19#8",
+        "hn04-T19#9",
+        "hn04-T19#10",
+        "hn04-T19#11",
+        "hn04-T19#12",
+        "hn04-T19#13",
+        "hn04-T19#14",
+        "hn04-T19#15",
+        "hn04-T19#16"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p2_occipital_base.jpeg",
+        "headneck/images/hn04_p2_cranial_deformities.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 11,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T19#17",
+        "hn04-T19#19",
+        "hn04-T19#20",
+        "hn04-T19#21",
+        "hn04-T19#23",
+        "hn04-T19#24",
+        "hn04-T19#25",
+        "hn04-T19#26",
+        "hn04-T19#28",
+        "hn04-T19#29",
+        "hn04-T19#30",
+        "hn04-T19#31",
+        "hn04-T19#32",
+        "hn04-T19#33",
+        "hn04-T19#34",
+        "hn04-T19#35"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p2_hydrocephaly.jpeg",
+        "headneck/images/hn04_p2_microcephaly.jpeg",
+        "headneck/images/hn04_p2_wormian_bones.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 12,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T20#2",
+        "hn04-T20#4",
+        "hn04-T20#5",
+        "hn04-T20#6",
+        "hn04-T20#7",
+        "hn04-T20#8",
+        "hn04-T20#9",
+        "hn04-T20#11",
+        "hn04-T20#12",
+        "hn04-T20#13",
+        "hn04-T20#14",
+        "hn04-T20#15",
+        "hn04-T20#16",
+        "hn04-T20#17",
+        "hn04-T20#18",
+        "hn04-T20#19",
+        "hn04-T20#20",
+        "hn04-T20#22",
+        "hn04-T20#23",
+        "hn04-T20#24"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p2_lefort1.jpeg",
+        "headneck/images/hn04_p2_lefort2.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 13,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T20#25",
+        "hn04-T20#26",
+        "hn04-T20#27",
+        "hn04-T20#28",
+        "hn04-T20#29",
+        "hn04-T20#30",
+        "hn04-T20#31",
+        "hn04-T20#32",
+        "hn04-T20#33",
+        "hn04-T20#34",
+        "hn04-T20#36",
+        "hn04-T20#37",
+        "hn04-T20#38",
+        "hn04-T20#39",
+        "hn04-T20#41",
+        "hn04-T20#42",
+        "hn04-T20#43",
+        "hn04-T20#44",
+        "hn04-T20#45"
+      ],
+      "figure_assets": [
+        "headneck/images/hn04_p2_lefort3.jpeg"
+      ],
+      "independent_word_by_word_status": "NOT_STARTED"
+    },
+    {
+      "part": 2,
+      "pdf_page": 14,
+      "role": "content",
+      "base_block_ids": [
+        "hn04-T20#46",
+        "hn04-T20#47",
+        "hn04-T20#49",
+        "hn04-T20#50",
+        "hn04-T20#51",
+        "hn04-T20#52",
+        "hn04-T20#53"
+      ],
+      "figure_assets": [],
+      "independent_word_by_word_status": "NOT_STARTED"
+    }
+  ],
+  "output_pages": [
+    {
+      "pdf_page": 1,
+      "text_spans": 9,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 2,
+      "text_spans": 36,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 3,
+      "text_spans": 81,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 4,
+      "text_spans": 7,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 5,
+      "text_spans": 24,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 6,
+      "text_spans": 51,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 7,
+      "text_spans": 30,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 8,
+      "text_spans": 33,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 9,
+      "text_spans": 32,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 10,
+      "text_spans": 29,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 11,
+      "text_spans": 20,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 12,
+      "text_spans": 32,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 13,
+      "text_spans": 32,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 14,
+      "text_spans": 11,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 15,
+      "text_spans": 11,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 16,
+      "text_spans": 10,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 17,
+      "text_spans": 10,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 18,
+      "text_spans": 22,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 19,
+      "text_spans": 27,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 20,
+      "text_spans": 35,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 21,
+      "text_spans": 40,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 22,
+      "text_spans": 17,
+      "images": 2,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 23,
+      "text_spans": 8,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 24,
+      "text_spans": 20,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 25,
+      "text_spans": 25,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 26,
+      "text_spans": 36,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 27,
+      "text_spans": 25,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 28,
+      "text_spans": 24,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 29,
+      "text_spans": 22,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 30,
+      "text_spans": 21,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 31,
+      "text_spans": 39,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 32,
+      "text_spans": 32,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 33,
+      "text_spans": 22,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 34,
+      "text_spans": 25,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 35,
+      "text_spans": 26,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 36,
+      "text_spans": 30,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 37,
+      "text_spans": 32,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 38,
+      "text_spans": 26,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 39,
+      "text_spans": 24,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 40,
+      "text_spans": 47,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 41,
+      "text_spans": 35,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 42,
+      "text_spans": 23,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 43,
+      "text_spans": 22,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 44,
+      "text_spans": 29,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 45,
+      "text_spans": 10,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 46,
+      "text_spans": 32,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 47,
+      "text_spans": 23,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 48,
+      "text_spans": 28,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 49,
+      "text_spans": 21,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 50,
+      "text_spans": 11,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 51,
+      "text_spans": 10,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 52,
+      "text_spans": 11,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 53,
+      "text_spans": 25,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 54,
+      "text_spans": 36,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 55,
+      "text_spans": 39,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 56,
+      "text_spans": 22,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 57,
+      "text_spans": 7,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 58,
+      "text_spans": 12,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 59,
+      "text_spans": 41,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 60,
+      "text_spans": 23,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 61,
+      "text_spans": 42,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 62,
+      "text_spans": 40,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 63,
+      "text_spans": 19,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 64,
+      "text_spans": 21,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 65,
+      "text_spans": 19,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 66,
+      "text_spans": 25,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 67,
+      "text_spans": 16,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 68,
+      "text_spans": 37,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 69,
+      "text_spans": 42,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 70,
+      "text_spans": 31,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 71,
+      "text_spans": 19,
+      "images": 2,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 72,
+      "text_spans": 44,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 73,
+      "text_spans": 44,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 74,
+      "text_spans": 45,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 75,
+      "text_spans": 21,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 76,
+      "text_spans": 11,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 77,
+      "text_spans": 32,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 78,
+      "text_spans": 23,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 79,
+      "text_spans": 43,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 80,
+      "text_spans": 41,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 81,
+      "text_spans": 7,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 82,
+      "text_spans": 26,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 83,
+      "text_spans": 13,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 84,
+      "text_spans": 11,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 85,
+      "text_spans": 35,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 86,
+      "text_spans": 27,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 87,
+      "text_spans": 37,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 88,
+      "text_spans": 28,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 89,
+      "text_spans": 16,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 90,
+      "text_spans": 40,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 91,
+      "text_spans": 42,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 92,
+      "text_spans": 42,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 93,
+      "text_spans": 43,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 94,
+      "text_spans": 33,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 95,
+      "text_spans": 16,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 96,
+      "text_spans": 40,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 97,
+      "text_spans": 43,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 98,
+      "text_spans": 44,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 99,
+      "text_spans": 30,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 100,
+      "text_spans": 7,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 101,
+      "text_spans": 23,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 102,
+      "text_spans": 23,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 103,
+      "text_spans": 16,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 104,
+      "text_spans": 38,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 105,
+      "text_spans": 28,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 106,
+      "text_spans": 41,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 107,
+      "text_spans": 20,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 108,
+      "text_spans": 18,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 109,
+      "text_spans": 20,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 110,
+      "text_spans": 11,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 111,
+      "text_spans": 17,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 112,
+      "text_spans": 32,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 113,
+      "text_spans": 40,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 114,
+      "text_spans": 27,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 115,
+      "text_spans": 26,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 116,
+      "text_spans": 32,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 117,
+      "text_spans": 20,
+      "images": 1,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 118,
+      "text_spans": 39,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 119,
+      "text_spans": 42,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 120,
+      "text_spans": 81,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 121,
+      "text_spans": 43,
+      "images": 0,
+      "outside_page_bounds": []
+    },
+    {
+      "pdf_page": 122,
+      "text_spans": 4,
+      "images": 0,
+      "outside_page_bounds": []
+    }
+  ],
+  "figures": [
+    {
+      "topic_id": "hn04-T01",
+      "block_index": 5,
+      "title": "دو نمای قاعدهٔ جمجمه",
+      "asset": "headneck/images/hn04_p1_open_base.jpeg",
+      "asset_sha256": "a699ac8d8f6de7ff97b513e09aec2be033b9d40f945bef1063425fd60351a2d0",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 2,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        36.5,
+        84.45,
+        281.0,
+        249.45
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        7
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T01",
+      "block_index": 6,
+      "title": "حفرهٔ جمجمه‌ای خلفی",
+      "asset": "headneck/images/hn03_grays_p869_fig827.jpeg",
+      "asset_sha256": "31aeeb30747b1b12c5a2e2289bcd0cb9d926abaa3af5abc0ed141570e056f31d",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_part": null,
+      "source_pdf_page": 97,
+      "printed_page": 869,
+      "plate": null,
+      "figure": "8.27",
+      "crop_bbox": [
+        50,
+        55,
+        565,
+        330
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        8
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T02",
+      "block_index": 11,
+      "title": "جای اتموئید در استخوان‌های جمجمه",
+      "asset": "headneck/images/hn04_p1_open_ethmoid_location.jpeg",
+      "asset_sha256": "16b8155d0b82186c04eabdb3c28a0ff82062c65672dcc83d5cfc0cf9ac973b2d",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 2,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        29.5,
+        394.5,
+        360.85,
+        583.5
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        10
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T02",
+      "block_index": 12,
+      "title": "دیوارهٔ طرفی بینی",
+      "asset": "headneck/images/hn03_netter_p29_nasal.jpeg",
+      "asset_sha256": "df5c56d1e4222a125ab2d8370c8e8372481f9fbfea3d447000aba272720f73a2",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 81,
+      "printed_page": null,
+      "plate": 29,
+      "figure": null,
+      "crop_bbox": [
+        50,
+        490,
+        560,
+        730
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        11
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T02",
+      "block_index": 18,
+      "title": "بخش‌های اتموئید در نمای جداشده",
+      "asset": "headneck/images/hn04_p1_open_ethmoid_parts.jpeg",
+      "asset_sha256": "8408245dcf5aa3587325fb992e8ee1ea553c198d084b2cc040191dc1e304f567",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 3,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        72.0,
+        92.01,
+        539.75,
+        348.96
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        12
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T03",
+      "block_index": 2,
+      "title": "اتموئید — زیرشکل A، نمای قدامی",
+      "asset": "headneck/images/hn04_ethmoid_A.jpeg",
+      "asset_sha256": "5b6c99d5db9e04ea5c9f4dbf5ffe4383d03b68d0f554e321a4b08e202b3e8596",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 3,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        148.5,
+        535.2,
+        278,
+        637
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        14
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T03",
+      "block_index": 3,
+      "title": "اتموئید — زیرشکل B، نمای فوقانی",
+      "asset": "headneck/images/hn04_ethmoid_B.jpeg",
+      "asset_sha256": "a12389b284dd46536adb562c797e3b3f3aca53c5a2c40585e797045d8b6a2f98",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 3,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        284,
+        535.2,
+        405,
+        640
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        15
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T03",
+      "block_index": 4,
+      "title": "اتموئید — زیرشکل C، نمای خلفی",
+      "asset": "headneck/images/hn04_ethmoid_C.jpeg",
+      "asset_sha256": "bddde1157b77554a1f05a8cd8c25944aae5976ef172149ad29923ee011843687",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 3,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        411,
+        535.2,
+        540,
+        640
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        16
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T03",
+      "block_index": 5,
+      "title": "اتموئید — زیرشکل D، نمای طرفی چپ",
+      "asset": "headneck/images/hn04_ethmoid_D.jpeg",
+      "asset_sha256": "eb7d198a92b12ba3a0b0b54758e37998751ac82741c36e5f61cb715f39e76ae4",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 3,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        148.5,
+        648,
+        344,
+        755.15
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        17
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T03",
+      "block_index": 6,
+      "title": "اتموئید — زیرشکل E، نمای تحتانی همراه فرونتال",
+      "asset": "headneck/images/hn04_ethmoid_E.jpeg",
+      "asset_sha256": "c31d695743018effdeedf93a7b8af996dfc52e58fc5da908a714ab1e81023280",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 3,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        355,
+        648,
+        540,
+        755.15
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        18
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T03",
+      "block_index": 18,
+      "title": "نمای فوقانی اتموئید",
+      "asset": "headneck/images/hn04_p1_open_ethmoid_superior.jpeg",
+      "asset_sha256": "b2fdbe36c4060bcec4218c22335c40f3dccb7e58381406baa574710855b456ab",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 4,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        30.95,
+        422.75,
+        254.45,
+        609.6
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        19
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T04",
+      "block_index": 6,
+      "title": "لابیرنت — نمای تحتانی همراه فرونتال",
+      "asset": "headneck/images/hn04_labyrinth_A.jpeg",
+      "asset_sha256": "8bcfcca346122d3550750d8ff7df3b5783bb2f1aa8b6ce987abf9b5d6a6ab982",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 5,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        72,
+        72,
+        267,
+        157
+      ],
+      "mask_rects": [
+        [
+          72,
+          72,
+          94,
+          86
+        ]
+      ],
+      "output_pdf_pages": [
+        22
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T04",
+      "block_index": 7,
+      "title": "لابیرنت — سلول‌های هوایی بازشده",
+      "asset": "headneck/images/hn04_labyrinth_B.jpeg",
+      "asset_sha256": "68473e997bd27893ac9c78b42223c8a884793f484535045be9dc6b842958ae09",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 5,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        72,
+        156,
+        367,
+        334.6
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        22
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T04",
+      "block_index": 8,
+      "title": "لابیرنت — جای صفحهٔ چشمی در اربیت",
+      "asset": "headneck/images/hn04_labyrinth_C.jpeg",
+      "asset_sha256": "95af8822e3e5e58bf5b097fa3877ffa86d53d0189677f82cfb64cbd79eef74b9",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 5,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        400,
+        97,
+        539.3,
+        192
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        23
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T04",
+      "block_index": 9,
+      "title": "لابیرنت — دیوارهٔ داخلی اربیت بازشده",
+      "asset": "headneck/images/hn04_labyrinth_D.jpeg",
+      "asset_sha256": "ae83207d2895667e8b71de01b69be14f0bbc901d37c5123920054ddfa2df1f98",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 5,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        374,
+        193,
+        539.3,
+        334.6
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        24
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T04",
+      "block_index": 19,
+      "title": "لامینا پاپیراسه در نمای طرفی",
+      "asset": "headneck/images/hn04_p1_open_lateral_ethmoid.jpeg",
+      "asset_sha256": "89318927f25af119c8d298e42ae9df280920ab0e3f54c364dfb1e865d79babf0",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 6,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        114.0,
+        72.0,
+        539.28,
+        286.55
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        25
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T05",
+      "block_index": 4,
+      "title": "اتموئید از پایین",
+      "asset": "headneck/images/hn04_p1_open_inferior_ethmoid.jpeg",
+      "asset_sha256": "a2adbfe3a5e1d18a0f83607b34d66746e0db6f2c9c66ccc1f13b9b55841c688c",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 6,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        28.85,
+        552.65,
+        238.65,
+        726.56
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        28
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T05",
+      "block_index": 11,
+      "title": "شاخک‌های بینی",
+      "asset": "headneck/images/hn04_p1_open_nasal_conchae.jpeg",
+      "asset_sha256": "e07c88b2c592fc5f9f55d86cc3697f1d49c0d2bdd068d46e31205f7a6a60d92a",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 7,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        21.9,
+        98.3,
+        280.95,
+        300.4
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        29
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T05",
+      "block_index": 18,
+      "title": "زائدهٔ قلابی و مجاری بینی",
+      "asset": "headneck/images/hn04_p1_open_uncinate.jpeg",
+      "asset_sha256": "e229bad92bc253e8f0efc820ddec28fe2e7ace8ca0464bfe532c1b9662e9603e",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 7,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        31.85,
+        424.65,
+        253.35,
+        600.5
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        30
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T05",
+      "block_index": 23,
+      "title": "دهانه‌های تخلیهٔ بینی — مرجع نتر",
+      "asset": "headneck/images/hn04_netter61_drainage.jpeg",
+      "asset_sha256": "7e9248c792cf5d56e690893f463948710c445f5643c73f51c70045403bf881bc",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 113,
+      "printed_page": null,
+      "plate": 61,
+      "figure": null,
+      "crop_bbox": [
+        49,
+        474,
+        579,
+        721
+      ],
+      "mask_rects": [
+        [
+          49,
+          474,
+          272,
+          489
+        ]
+      ],
+      "output_pdf_pages": [
+        31
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T06",
+      "block_index": 6,
+      "title": "اتموئید در برش میانی جمجمه",
+      "asset": "headneck/images/hn04_p1_open_ethmoid_section.jpeg",
+      "asset_sha256": "18d7d1ae48691996673f8977e346cc78d668c60bc45c13968648174c285c9856",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 8,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        27.75,
+        109.65,
+        288.35,
+        289.3
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        33
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T06",
+      "block_index": 14,
+      "title": "تیغهٔ بینی و صفحهٔ عمودی",
+      "asset": "headneck/images/hn04_p1_open_nasal_septum.jpeg",
+      "asset_sha256": "8732ae2ba7905c42ee4c955d87dd6963b894cc9f5151f43c5f9d67dfacbcc352",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 8,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        18.8,
+        335.25,
+        316.58,
+        559.35
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        34
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T06",
+      "block_index": 20,
+      "title": "مقطع کرونال استخوان اتموئید",
+      "asset": "headneck/images/hn04_p1_open_coronal.jpeg",
+      "asset_sha256": "856f44f887dfae430b821e19bcc701a54ad7ebdc9a9cd6ec036fbfe50261c6d3",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 9,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        21.7,
+        245.15,
+        386.6,
+        425.4
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        35
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T06",
+      "block_index": 25,
+      "title": "تیغهٔ بینی — مرجع نتر",
+      "asset": "headneck/images/hn04_netter63_septum.jpeg",
+      "asset_sha256": "6905b8ec56f3df6f198de70c3117c298344ed4a8431aa4759742c325040e5cbd",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 115,
+      "printed_page": null,
+      "plate": 63,
+      "figure": null,
+      "crop_bbox": [
+        65,
+        429,
+        583,
+        725
+      ],
+      "mask_rects": [
+        [
+          400,
+          429,
+          583,
+          441
+        ]
+      ],
+      "output_pdf_pages": [
+        36
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T07",
+      "block_index": 9,
+      "title": "بخش پترومستوئید استخوان تمپورال",
+      "asset": "headneck/images/hn04_p1_open_temporal.jpeg",
+      "asset_sha256": "7ed0efa0af59eb1511d248520e9da9ada3fb99f47cd21f9dc5fd0db3b213c97b",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 9,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        21.8,
+        528.05,
+        271.6,
+        711.8
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        38
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T07",
+      "block_index": 11,
+      "title": "بخش پتروس در قاعدهٔ جمجمه",
+      "asset": "headneck/images/hn04_p1_open_petrous_base.jpeg",
+      "asset_sha256": "fa8ccbe570c13e7f4dff26f245fa15f9b5938c809f7a05b745b6e3c1ffe82ed8",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 10,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        138.1,
+        176.3,
+        474.66,
+        430.5
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        39
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T08",
+      "block_index": 4,
+      "title": "سطح قدامی پتروس",
+      "asset": "headneck/images/hn04_p1_open_petrous_anterior.jpeg",
+      "asset_sha256": "0f00a574356c80743467906bd86b0fcf1a637b608545650d0c941d40d749b846",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 11,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        19.5,
+        372.1,
+        338.85,
+        585.15
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        42
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T08",
+      "block_index": 14,
+      "title": "ساختارهای عمقی پتروس",
+      "asset": "headneck/images/hn04_p1_open_petrous_anterior_detail.jpeg",
+      "asset_sha256": "5e47196b8b420176551b8b5646ef4aa1deb8b702e700b637ee874399e1ccaeb1",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 12,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        17.4,
+        259.9,
+        329.4,
+        468.0
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        43
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T08",
+      "block_index": 27,
+      "title": "عضله و لولهٔ شنوایی",
+      "asset": "headneck/images/hn04_p1_open_ear_tubes.jpeg",
+      "asset_sha256": "cf06ccba441d302d903f1426659f5397ce5b767530458924052704d149120452",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 13,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        195.75,
+        334.85,
+        531.75,
+        549.1
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        45
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T08",
+      "block_index": 28,
+      "title": "ساختارهای گوش در برش",
+      "asset": "headneck/images/hn04_p1_open_ear_section.jpeg",
+      "asset_sha256": "53b461c148fb95cd6da328ded5e9d7051fee120863dfcb23c99aa131aa107601",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 13,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        33.0,
+        542.99,
+        215.8,
+        724.89
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        46
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T09",
+      "block_index": 7,
+      "title": "سطح خلفی پتروس",
+      "asset": "headneck/images/hn04_p1_open_petrous_posterior.jpeg",
+      "asset_sha256": "024010d05aa853b184280d2cba8083d191b6b38bae06e125fe6c4197491b9e3e",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 14,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        24.4,
+        226.55,
+        324.7,
+        450.05
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        49
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T09",
+      "block_index": 13,
+      "title": "آبگذر دهلیزی — موقعیت در پتروس",
+      "asset": "headneck/images/hn04_aqueduct_A.jpeg",
+      "asset_sha256": "2fe9bf9d3d17300c17cb693f5dfaed69c4dc0a2657ac5332cbb8aac3d36d36ea",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 15,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        72,
+        72,
+        340,
+        351.25
+      ],
+      "mask_rects": [
+        [
+          330,
+          170,
+          340,
+          185
+        ]
+      ],
+      "output_pdf_pages": [
+        50
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T09",
+      "block_index": 14,
+      "title": "کیسهٔ اندولنفاتیک — طرح شماتیک",
+      "asset": "headneck/images/hn04_aqueduct_B.jpeg",
+      "asset_sha256": "9dfba757336187134ab641df42c145f1e9f985ab09eef831f5989d250114e478",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 15,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        328,
+        78,
+        539.45,
+        207
+      ],
+      "mask_rects": [
+        [
+          328,
+          78,
+          385,
+          160
+        ]
+      ],
+      "output_pdf_pages": [
+        51
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T09",
+      "block_index": 15,
+      "title": "لابیرنت استخوانی — نمای موضعی",
+      "asset": "headneck/images/hn04_aqueduct_C.jpeg",
+      "asset_sha256": "41e08f7d61369c021c115c0c709323dd09278454973304a448c4297b9bdf6b1c",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 15,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        378,
+        213,
+        539.45,
+        306
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        52
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T09",
+      "block_index": 16,
+      "title": "لابیرنت استخوانی و غشایی — مرجع نتر",
+      "asset": "headneck/images/hn04_netter125_labyrinth.jpeg",
+      "asset_sha256": "52f58ee5ad0fee535d725f97b039fcd8e4e83438f7b5b1aede8859d55524b4f0",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 177,
+      "printed_page": null,
+      "plate": 125,
+      "figure": null,
+      "crop_bbox": [
+        48,
+        88,
+        582,
+        430
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        53
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T10",
+      "block_index": 7,
+      "title": "سطح تحتانی پتروس راست",
+      "asset": "headneck/images/hn04_p1_open_petrous_inferior.jpeg",
+      "asset_sha256": "89b9965ed6783052e174bfca4e75801c071f3287d3a83e1cb9c368120556b36c",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 16,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        8.8,
+        71.85,
+        312.15,
+        390.35
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        56
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T10",
+      "block_index": 12,
+      "title": "جزئیات سطح تحتانی پتروس",
+      "asset": "headneck/images/hn04_p1_open_petrous_inferior_detail.jpeg",
+      "asset_sha256": "c64b078cb35c71b778ebc7a4aee9dad3c09264afad24e573117e24bdb02aa977",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 16,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        23.2,
+        383.5,
+        359.7,
+        610.4
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        57
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T10",
+      "block_index": 13,
+      "title": "جای پتروس در قاعدهٔ تحتانی",
+      "asset": "headneck/images/hn04_netter_p31_inferior.jpeg",
+      "asset_sha256": "f6d66c1b56bf1cd3034f59ac334e665f8026d185ca8df376ac95894093361cc0",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 83,
+      "printed_page": null,
+      "plate": 31,
+      "figure": null,
+      "crop_bbox": [
+        48,
+        80,
+        590,
+        735
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        58
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T11",
+      "block_index": 2,
+      "title": "کانالیکول‌های ماستوئید و تمپانیک",
+      "asset": "headneck/images/hn04_p1_open_canaliculi.jpeg",
+      "asset_sha256": "73ea528ca3815fe3e769bb512a97c0b8a50fdf3002ea6655cc86aa5ef1d659a0",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 17,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        144.85,
+        150.65,
+        466.65,
+        392.5
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        60
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T12",
+      "block_index": 10,
+      "title": "استخوان‌های کف جمجمه",
+      "asset": "headneck/images/hn04_p1_open_cranial_bones.jpeg",
+      "asset_sha256": "3968d61b2e1fdf9564861e11e771a458552ead0cddb2368e683444636f3f509a",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 18,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        28.5,
+        103.5,
+        280.7,
+        297.5
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        63
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T12",
+      "block_index": 12,
+      "title": "سه حفرهٔ جمجمه‌ای",
+      "asset": "headneck/images/hn04_p1_open_cranial_fossae.jpeg",
+      "asset_sha256": "75f8e60714e6643ea4ffa0a59701303e58c29ec0caa5755d5091cd94da66cc33",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 18,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        32.5,
+        309.5,
+        277.75,
+        542.0
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        64
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T12",
+      "block_index": 19,
+      "title": "حفره‌ها در برش ساجیتال",
+      "asset": "headneck/images/hn04_p1_open_cranial_sagittal.jpeg",
+      "asset_sha256": "ea35e40c14cd52c774459b8dc2a66480a80846c4a931ba671b7c3fcbe0a99b08",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 18,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        39.0,
+        537.0,
+        228.0,
+        722.1
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        65
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T12",
+      "block_index": 22,
+      "title": "قاعدهٔ داخلی جمجمه",
+      "asset": "headneck/images/hn04_p1_open_cranial_overview.jpeg",
+      "asset_sha256": "6adea4dbaf1ad18d54395716ab3888b0155e62d29375adb9eea28d046fcf1e28",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 19,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        73.0,
+        264.24,
+        540.0,
+        517.72
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        66
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T12",
+      "block_index": 28,
+      "title": "حدود حفره‌های جمجمه‌ای",
+      "asset": "headneck/images/hn01_netter_p32.jpeg",
+      "asset_sha256": "46d2b02649c97fa8879c25c0d766258c7c714fc3badf7933b86784714bd4d2bf",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 84,
+      "printed_page": null,
+      "plate": 32,
+      "figure": null,
+      "crop_bbox": [
+        51.0,
+        6.6,
+        616.0,
+        783.5
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        67
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T13",
+      "block_index": 22,
+      "title": "حفرهٔ جمجمه‌ای قدامی",
+      "asset": "headneck/images/hn04_p1_open_fossa_anterior.jpeg",
+      "asset_sha256": "e0b7d4ea6481e82d90e18a96df5b8dec05906e472841ef43956c1289ded7b6a8",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 25,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        232.6,
+        117.25,
+        585.0,
+        262.3
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        71
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T13",
+      "block_index": 23,
+      "title": "نقشهٔ مرجع حفرهٔ قدامی",
+      "asset": "headneck/images/hn04_grays_f825.jpeg",
+      "asset_sha256": "7105be1037fe370adeff593a1ffec1f9ec263a33924e24b57d4dfebd6cfc8366",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_part": null,
+      "source_pdf_page": 93,
+      "printed_page": 865,
+      "plate": null,
+      "figure": "8.25",
+      "crop_bbox": [
+        48,
+        377,
+        560,
+        550
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        71
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T14",
+      "block_index": 39,
+      "title": "حفرهٔ جمجمه‌ای میانی",
+      "asset": "headneck/images/hn04_p1_open_fossa_middle.jpeg",
+      "asset_sha256": "654290b7bf146177d98c198347aa72c87cb64abb807527f5c24c683ada749b52",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 25,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        233.6,
+        251.7,
+        582.4,
+        435.0
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        75
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T14",
+      "block_index": 40,
+      "title": "سوراخ‌های حفرهٔ میانی",
+      "asset": "headneck/images/hn03_netter_p34_foramina_superior.jpeg",
+      "asset_sha256": "214b4b9bf61d7aea6b90cff0040591d3955ef2f1e6bde9553693b744005bcb0b",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 86,
+      "printed_page": null,
+      "plate": 34,
+      "figure": null,
+      "crop_bbox": [
+        60,
+        195,
+        575,
+        401
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        76
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T14",
+      "block_index": 41,
+      "title": "نقشهٔ مرجع حفرهٔ میانی",
+      "asset": "headneck/images/hn04_grays_f826.jpeg",
+      "asset_sha256": "5fec724edbed1856689b31e494cf11ea99bad1649eeb38f705c9dd38f304638f",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_part": null,
+      "source_pdf_page": 95,
+      "printed_page": 867,
+      "plate": null,
+      "figure": "8.26",
+      "crop_bbox": [
+        48,
+        455,
+        560,
+        740
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        77
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T15",
+      "block_index": 28,
+      "title": "حفرهٔ جمجمه‌ای خلفی",
+      "asset": "headneck/images/hn04_p1_open_fossa_posterior.jpeg",
+      "asset_sha256": "4db68e4ea2fee7fcdcaa3a4ec747225ac527786b0b697a13c3ef31ffb3806a51",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 25,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        221.45,
+        435.7,
+        583.35,
+        624.5
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        81
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T15",
+      "block_index": 29,
+      "title": "نقشهٔ رنگیِ استخوان‌ها — حفرهٔ قدامی",
+      "asset": "headneck/images/hn04_fossa_color_A.jpeg",
+      "asset_sha256": "fac8e32c3ce9730623e88b42d55f4ac2b2b8d85d9f6fd6b15a3e9c874ed3f4ff",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 25,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        28,
+        120,
+        235,
+        238
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        82
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T15",
+      "block_index": 35,
+      "title": "نقشهٔ رنگیِ استخوان‌ها — حفرهٔ میانی",
+      "asset": "headneck/images/hn04_fossa_color_B.jpeg",
+      "asset_sha256": "ba430e1f4c6cc2ab1f01c025290f0fc7b61edb58de398800021ec6d1dc3e5228",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 25,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        28,
+        265,
+        236,
+        397
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        83
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T15",
+      "block_index": 36,
+      "title": "نقشهٔ رنگیِ استخوان‌ها — حفرهٔ خلفی",
+      "asset": "headneck/images/hn04_fossa_color_C.jpeg",
+      "asset_sha256": "e96c07af0a98475d1ce5794a553d26a86ea6343e5af413412b828cad7388cb21",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_اول_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 1,
+      "source_pdf_page": 25,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        28,
+        399,
+        235,
+        555.7
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        84
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T16",
+      "block_index": 3,
+      "title": "نمای تحتانی قاعدهٔ جمجمه",
+      "asset": "headneck/images/hn04_p2_inferior_base.jpeg",
+      "asset_sha256": "1ba444ff25ab15ea41e179b5481d3b28ba0d797e558138c0cd00538ffa0e0359",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 2,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        36.0,
+        143.93,
+        579.0,
+        452.63
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        86
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T16",
+      "block_index": 38,
+      "title": "کام سخت و قاعدهٔ تحتانی",
+      "asset": "headneck/images/hn03_grays_p862_fig823.jpeg",
+      "asset_sha256": "a7d368b92b66ae975e0c8b315473b408dbec8e9455fe00f6c76caecf66786728",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_part": null,
+      "source_pdf_page": 90,
+      "printed_page": 862,
+      "plate": null,
+      "figure": "8.23",
+      "crop_bbox": [
+        55,
+        55,
+        565,
+        585
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        89
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T17",
+      "block_index": 64,
+      "title": "مجرای کاروتید و کانالیکول‌های قاعده",
+      "asset": "headneck/images/hn03_netter_p33_foramina.jpeg",
+      "asset_sha256": "e4a7f50012b884556d098aff8df8b828aaef261b6c01c145eb8d5d00652768e5",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 85,
+      "printed_page": null,
+      "plate": 33,
+      "figure": null,
+      "crop_bbox": [
+        60,
+        330,
+        580,
+        665
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        95,
+        103
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T18",
+      "block_index": 45,
+      "title": "سطح تحتانی بخش پتروس",
+      "asset": "headneck/images/hn04_p2_petrous_jugular.jpeg",
+      "asset_sha256": "4015af4f389e8a87bd4933c96666db17d07f74d8fb1c32f6a7f9e6e39c191c8c",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 9,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        0.0,
+        103.5,
+        351.4,
+        323.5
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        100
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T18",
+      "block_index": 46,
+      "title": "کانالیکول‌های قاعدهٔ جمجمه",
+      "asset": "headneck/images/hn04_p2_canaliculi.jpeg",
+      "asset_sha256": "cd6492f97afc13b8041755cac7a2d14f52fedf38347cd0997fc99e595bf1e199",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 9,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        0.0,
+        323.51,
+        257.9,
+        514.91
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        101
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T18",
+      "block_index": 59,
+      "title": "قاعدهٔ جمجمه و سوراخ ماستوئید",
+      "asset": "headneck/images/hn04_p2_occipital_base.jpeg",
+      "asset_sha256": "1b3815f24ed675db5924a9f9e186b01786fa160023c82111383784d19042700e",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 10,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        0.0,
+        49.43,
+        322.4,
+        238.18
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        102
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T18",
+      "block_index": 60,
+      "title": "گذرگاه‌های قاعدهٔ خلفی",
+      "asset": "headneck/images/hn03_netter_p33_foramina.jpeg",
+      "asset_sha256": "e4a7f50012b884556d098aff8df8b828aaef261b6c01c145eb8d5d00652768e5",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 85,
+      "printed_page": null,
+      "plate": 33,
+      "figure": null,
+      "crop_bbox": [
+        60,
+        330,
+        580,
+        665
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        95,
+        103
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T19",
+      "block_index": 3,
+      "title": "انواع بدشکلی جمجمه",
+      "asset": "headneck/images/hn04_p2_cranial_deformities.jpeg",
+      "asset_sha256": "112d69fbfe29349ee4d991476a9cc74ab63ac17e59279f99588053a9143b802c",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 10,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        1.25,
+        376.18,
+        332.7,
+        582.73
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        105
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T19",
+      "block_index": 22,
+      "title": "هیدروسفالی",
+      "asset": "headneck/images/hn04_p2_hydrocephaly.jpeg",
+      "asset_sha256": "55bf9ba1cd1e6294dbba544fdd4db1829b84fc3b941d6e214507bdff70f4785b",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 11,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        5.2,
+        71.33,
+        129.6,
+        257.48
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        107
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T19",
+      "block_index": 27,
+      "title": "میکروسفالی",
+      "asset": "headneck/images/hn04_p2_microcephaly.jpeg",
+      "asset_sha256": "166be337af357b6dc1e94d89eff0c4dc5c71983fef4df3778be979f7d6c1ef32",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 11,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        8.45,
+        253.47,
+        125.7,
+        439.72
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        108
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T19",
+      "block_index": 31,
+      "title": "استخوان‌های درزی",
+      "asset": "headneck/images/hn04_p2_wormian_bones.jpeg",
+      "asset_sha256": "2bbd81a951c80146e8dbe0b51ccca0086f4a5e7298f876dc31c32ec721903b6b",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 11,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        7.1,
+        439.11,
+        221.8,
+        606.21
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        109
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T19",
+      "block_index": 37,
+      "title": "درزهای جمجمه در نمای فوقانی",
+      "asset": "headneck/images/hn01_grays_p860.jpeg",
+      "asset_sha256": "a3da418b85b1f3b000c10e85808e61d9110f0281840a24b570235bc5fccb2335",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+      "source_part": null,
+      "source_pdf_page": 88,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        112.0,
+        390.0,
+        548.0,
+        728.0
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        110
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T19",
+      "block_index": 38,
+      "title": "استخوان درزی در نمای فوقانی کالواریا",
+      "asset": "headneck/images/hn04_netter_p30_superior.jpeg",
+      "asset_sha256": "480ff7a750cf613b05faf20efae04baf5acddc6b7578f7e3aefd9afb91f81719",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_part": null,
+      "source_pdf_page": 82,
+      "printed_page": null,
+      "plate": 30,
+      "figure": null,
+      "crop_bbox": [
+        50,
+        80,
+        580,
+        415
+      ],
+      "mask_rects": [
+        [
+          50,
+          390,
+          315,
+          415
+        ]
+      ],
+      "output_pdf_pages": [
+        111
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T20",
+      "block_index": 9,
+      "title": "شکستگی لی فورت I",
+      "asset": "headneck/images/hn04_p2_lefort1.jpeg",
+      "asset_sha256": "c7f28b0b40cc8d5b35fdeec1e8c7d532f1bf0e16782bd2800a76d7b13184103e",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 12,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        0.0,
+        118.43,
+        208.2,
+        346.68
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        114
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T20",
+      "block_index": 21,
+      "title": "شکستگی لی فورت II",
+      "asset": "headneck/images/hn04_p2_lefort2.jpeg",
+      "asset_sha256": "d367386f288ad069a8a41f8586588e8747b4248a255110c7d7252f1eb346a518",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 12,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        0.0,
+        346.91,
+        216.7,
+        571.56
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        115
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    },
+    {
+      "topic_id": "hn04-T20",
+      "block_index": 35,
+      "title": "شکستگی لی فورت III",
+      "asset": "headneck/images/hn04_p2_lefort3.jpeg",
+      "asset_sha256": "7679f65f370f14fde4bfb7b3326b21b081642af14e85c46900fa8709f9fe3cc3",
+      "source_file": "علوم تشریح سر و گردن/جلسه 4 - قاعده جمجمه/جلسه_چهارم_پارت_دوم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_part": 2,
+      "source_pdf_page": 13,
+      "printed_page": null,
+      "plate": null,
+      "figure": null,
+      "crop_bbox": [
+        0.0,
+        49.88,
+        206.15,
+        262.88
+      ],
+      "mask_rects": [],
+      "output_pdf_pages": [
+        117
+      ],
+      "embedded_bytes_verified": true,
+      "subfigure_inventory_status": "NOT_STARTED"
+    }
+  ],
+  "unique_embedded_images": 68,
+  "errors": [],
+  "limitations": [
+    "This is machine evidence, not a completed visual or scientific review.",
+    "Source-page attribution does not prove complete or faithful transcription.",
+    "A figure asset may contain several independent subfigures."
+  ]
+}

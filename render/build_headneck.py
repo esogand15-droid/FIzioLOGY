@@ -19,6 +19,7 @@ number of the picture; a missing file is reported on the page (never skipped).
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -114,9 +115,9 @@ HN_SESSIONS = {
         outline="hn04_topics.json",
         content=("hn04_a.json", "hn04_b.json"),
         anchor="hn-04",
-        pdf_name="HumsYar_HeadNeck_Jalase4_REVIEW.pdf",
+        pdf_name="HumsYar_HeadNeck_Jalase4_FINAL.pdf",
         outcome="نمای درونی و تحتانی قاعده، پتروس، گذرگاه‌ها و مباحث بالینی جزوه را بشناسید.",
-        intro_sources="جزوهٔ جلسهٔ ۴، دو بخش · نتر، پلیت‌های ۲۹–۳۴ · گری، شکل‌های ۸.۲۱، ۸.۲۳ و ۸.۲۵–۸.۲۷",
+        intro_sources="جزوهٔ جلسهٔ ۴، دو بخش · نتر، پلیت‌های ۲۹–۳۴، ۶۱، ۶۳ و ۱۲۵ · گری، شکل‌های ۸.۲۱، ۸.۲۳ و ۸.۲۵–۸.۲۷",
         next_topics=["مهره‌های گردنی", "مفاصل و رباط‌های گردن", "فاسیاها و فضاهای گردنی"],
     ),
     "hn05": dict(
@@ -341,7 +342,7 @@ def cover_page(book: PDFBook, cfg: dict) -> None:
         ("متن اصلی: جزوهٔ درس · توضیح تکمیلی با ارجاع جداگانه" if cfg['n'] in (1, 2, 4) else
          "متن: جزوهٔ درس + گری، آناتومی برای دانشجویان، ویراست ۳"),
         "تصویر: نتر، اطلس آناتومی انسان، ویراست ۸ · گری، آناتومی برای دانشجویان، ویراست ۳",
-        ("نسخهٔ افزایشی — بازبینی نهایی ناتمام — ۳۱ اکتبر ۲۰۲۶" if cfg['n'] == 4 else "نسخهٔ آموزشی به‌روزشده برای جزوه‌نویسان" if cfg['n'] == 1 else "نسخهٔ ۰٫۱ — پیش‌نویس ویرایشی"),
+        ("نسخهٔ نهایی ویرایشی و آموزشی — ۳۱ اکتبر ۲۰۲۶" if cfg['n'] == 4 else "نسخهٔ آموزشی به‌روزشده برای جزوه‌نویسان" if cfg['n'] == 1 else "نسخهٔ ۰٫۱ — پیش‌نویس ویرایشی"),
     ]
     yy = K.A4H * 0.375
     for t in lines:
@@ -388,7 +389,7 @@ def front_matter(book: PDFBook, cfg: dict, stats: dict) -> None:
             {"label": "قاعدهٔ ساخت",
              "text": ("متن رونویسی‌شدهٔ جزوه با برچسب منبع، جدا از توضیحات تکمیلی در مبحث‌ها درج شده است؛ تطبیق نهایی واژه‌به‌واژه در حال انجام است. هر مبحث شناسنامه، متن، شکل و برگهٔ تحویل دارد." if cfg["n"] == 3 and os.environ.get("HUMSYAR_HN03_WIP") == "1" else
                       "محتوای درس بازنویسی و در مبحث‌های مستقل تنظیم شده است؛ این نسخه نقل کامل و واژه‌به‌واژهٔ منبع نیست. هر مبحث شناسنامه، متن، شکل و برگهٔ تحویل دارد." if cfg["n"] == 3 else
-                     "رونویسی هر دو بخش حفظ شده است. جدول‌ها و کادرهای دارای عنوان «آموزشی» یا «تکمیلی» افزوده‌اند، نه نقل منبع. کنترل فنی به معنی تأیید مستقل تمام واژه‌ها یا تأیید علمی جامع نیست؛ دامنهٔ بازبینی در گزارش همراه ثبت شده است." if cfg["n"] == 4 else
+                     "متن هر دو بخش با تصاویر منبع مقابله شده است؛ سه اصلاح لفظیِ تیترها در گزارش ثبت شده‌اند. جدول‌ها و کادرهای آموزشی از نقل منبع جدا هستند. بازبینی تمام صفحات خروجی و شکل‌های مرتبط در گزارش همراه مستند است. این بازبینی ویرایشی، تأیید مستقل متخصص بالینی یا راهنمای درمان نیست." if cfg["n"] == 4 else
                      "متن و مرور جزوه رونویسی و صفحه‌های منبع و خروجی به‌صورت تصویری بررسی شده‌اند. این نسخه برای کار جزوه‌نویسان آماده شده؛ مقابلهٔ مستقل نهایی واژه‌به‌واژه هنوز انجام نشده است. شناسنامه‌ها و شرح شکل‌ها توضیح تکمیلی‌اند." if cfg["n"] in (1, 2) else
                      "پیش‌نویس: متن صفحه‌های محتوایی و مرور جزوه رونویسی اولیه شده است؛ مقابلهٔ مستقل واژه‌به‌واژه و بررسی جامع جای تصاویر هنوز کامل نشده است. شناسنامه‌ها و شرح شکل‌ها توضیح تکمیلی‌اند.")},
             {"label": "جای شکل‌ها",
@@ -627,6 +628,7 @@ def _block_height(book: PDFBook, b: dict | None) -> float:
 # ----------------------------------------------------------------- block render
 def render_blocks(book: PDFBook, blocks, cfg: dict) -> None:
     for pos, b in enumerate(blocks):
+        trace_before = book.page
         kind = b.get("type")
         after = _block_height(book, blocks[pos + 1] if pos + 1 < len(blocks) else None)
         # the citation line belongs to its own block: the paragraph or list
@@ -763,6 +765,12 @@ def render_blocks(book: PDFBook, blocks, cfg: dict) -> None:
                                note=(f"پرسش باز: {q}" if q else ""))
         else:
             raise ValueError(f"unknown block type: {kind}")
+        if hasattr(book, 'block_trace'):
+            book.block_trace.append(dict(topic_id=book.trace_topic, position=pos,
+                type=kind, text=b.get('text',''), source=b.get('src',''),
+                asset=b.get('asset'), page_before=trace_before, page_end=book.page,
+                block_sha256=hashlib.sha256(json.dumps(b,ensure_ascii=False,sort_keys=True).encode()).hexdigest()))
+
 
 
 def summary(book: PDFBook, content: dict, outline: dict, cfg: dict) -> None:
@@ -860,6 +868,8 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
 
     book = PDFBook(out_path, f"جزوهٔ مادر آناتومی سر و گردن — جلسهٔ {cfg['num']}",
                    footer=FOOTER, subject="جزوهٔ مادر — آناتومی سر و گردن")
+    book.block_trace = []
+    book.trace_topic = ''
     book.measure_idcard = cfg.get("measure_idcard", False)
     book.keep_parenthesized_latin = cfg['n'] == 3
     book.dark_page(lambda b: cover_page(b, cfg), reuse_blank_page=True)
@@ -884,6 +894,7 @@ def build(out_path: Path, toc_pages: dict | None = None) -> PDFBook:
         blocks = with_notes(content.get(t["topic_id"], []), i)
         topic_head(book, t, i, len(outline["topics"]),
                    after=_block_height(book, blocks[0] if blocks else None), part_labels=cfg["n"] == 4)
+        book.trace_topic = t['topic_id']
         render_blocks(book, blocks, cfg)
 
     summary(book, content, outline, cfg)
@@ -928,6 +939,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--session", default="s01", choices=sorted(HN_SESSIONS))
     ap.add_argument("--out", default=None)
+    ap.add_argument("--trace", help="write block-to-output-page layout evidence as JSON")
     ap.add_argument("--force", action="store_true",
                     help="allow overwriting an already published session PDF")
     args = ap.parse_args()
@@ -955,6 +967,11 @@ def main() -> None:
     after = drop_trailing_blank_page(out)
     if after is not None and after != book.page:
         print(f"dropped empty trailing page: {book.page} -> {after} pages")
+    if args.trace:
+        trace_path=Path(args.trace)
+        trace_path.parent.mkdir(parents=True,exist_ok=True)
+        trace_path.write_text(json.dumps(dict(pdf=str(out.relative_to(REPO)),
+            sha256=hashlib.sha256(out.read_bytes()).hexdigest(),blocks=book.block_trace),ensure_ascii=False,indent=2)+'\n')
     if book.missing_assets:
         print("MISSING ASSETS:", *book.missing_assets, sep="\n  ")
     try:

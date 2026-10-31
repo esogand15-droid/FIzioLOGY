@@ -202,7 +202,8 @@ def build():
         'برای مقایسه، سه نشانه را در شکل‌ها پیدا کنید: بینی، لبهٔ تحتانی اربیت و قوس گونه‌ای. این مرور، دستور درمان یا تعیین شدت قطعی یک بیمار نیست.',
         'جزوه، بخش ۲، صفحات PDF ۱۲–۱۴')
     from hn04_overlay_figures import attach
-    return attach({'session':'hn04','version':'2026-10-31','provenance':'Additive teaching blocks; source transcription remains unchanged.', 'topics':topics})
+    from hn04_final_review import attach_final
+    return attach_final(attach({'session':'hn04','version':'2026-10-31','provenance':'Additive teaching blocks; source transcription remains unchanged.', 'topics':topics}))
 
 if __name__ == '__main__':
     path = CONTENT/'hn04_update.json'
