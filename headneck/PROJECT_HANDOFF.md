@@ -250,3 +250,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## به‌روزرسانی برگه‌های تحویل جلسه‌های ۱ و ۲
 
 چک‌لیست اختصاصی و فرم کامل جزوه‌نویس برای همهٔ ۳۸ مبحث اضافه شد. جزئیات، هش و دامنهٔ کنترل‌ها در `headneck/reports/HN_S01_S02_HANDOFF_UPDATE.md` ثبت شده است. PDFهای نهایی در مسیرهای `pdf/HumsYar_HeadNeck_Jalase1_ORIGINAL_LAYOUT.pdf` و `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINAL.pdf` در Git قرار دارند.
+
+## جزوهٔ مادر جلسهٔ ۳ — نسخهٔ جزوه‌نویسی
+
+۱۹ مبحث، رونوشت تاریخیِ درس، تصاویر و افزوده‌های موجود، دو نمودار رابطه‌ای و ۱۹ برگهٔ تحویل اختصاصی در `pdf/HumsYar_HeadNeck_Jalase3_WRITER_FINAL.pdf` ارائه شده‌اند. محدودهٔ کنترل، منشأ و هش‌ها در `headneck/reports/HN_S03_WRITER_UPDATE.md` ثبت شده است.
