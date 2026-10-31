@@ -1,0 +1,398 @@
+[
+  {
+    "source_label": "SRC-628",
+    "pdf_page": 116,
+    "source_sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a",
+    "identifier_seen": "printed 1088",
+    "section_or_title_seen": "Regional anatomy → Oral cavity → Skeletal framework → Maxillae; Palatine bones",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-628/116.jpg",
+    "render_sha256": "b522e1124eac77bdfe11a4c50e34b35406c4388b4fc5be36866207bff067bcde",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "متن ستون راست صریحاً anterior two-thirds برای زوائد کامی مکسلا؛ ادامهٔ همان ستون منشأ خار بینی خلفی از پیوستن دو صفحهٔ افقی کامی را می‌گوید. صفحه متن‌محور است. این مشاهده پس از جست‌وجوی OCR با تصویر اصلی مقابله شد.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-628",
+    "pdf_page": 133,
+    "source_sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a",
+    "identifier_seen": "printed 1105 / Figs 8.263,8.264",
+    "section_or_title_seen": "Regional anatomy → Oral cavity → Roof—palate → Hard palate",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-628/133.jpg",
+    "render_sha256": "44dd23d41b66438e8f273460ad423613740bdb0937f8d169daec02b26793e907",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "متن سمت راست صریحاً anterior three-quarters برای مکسلا و posterior one-quarter برای کامی، بر خلاف ۱۰۸۸ همین کتاب؛ مخاط تنفسی بالا و مخاط دهانی پایین کام. دو تصویر: مسیر پاراسمپاتیک و نمای کام؛ زیرنماها هنوز در registry مستقل بسته نشده‌اند.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 45,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 8",
+    "section_or_title_seen": "Overview of Skeletal System",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/045.jpg",
+    "render_sha256": "4520ed81d4fd65e3c3ed2f59053452a06b09b989b60cb5e18f999183b0626d9f",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "محوری ۸۰، ضمیمه ۱۲۶؛ cranium=۲۱، neurocranium=۸ و midface=۱۳؛ گوش/لامی/مندیبل در associated bones جدا آمده‌اند.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 81,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 29",
+    "section_or_title_seen": "Cranium: Median Section",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/081.jpg",
+    "render_sha256": "040377ab869385fc99f9f65d4064a34d6f6e9119fe09b2a6ca8b6a86e5d9c7d7",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "دو زیرنما: برش مدیان بالا، دیوارهٔ طرفی بینی با سپتوم برداشته در پایین؛ این صفحه نمای قدامی جمجمه نیست.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 87,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 35",
+    "section_or_title_seen": "Cranium of Newborn",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/087.jpg",
+    "render_sha256": "25a1096b80119c07c9ec4c167e1e54b93d8bdb04c6945dadf4968c5ccfaf50c6",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "طرفی بالا و فوقانی پایین؛ درز متوپیک و فونتانل قدامی/خلفی و دو فونتانل طرفی؛ صفحهٔ کالواریا بالغ نیست.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 88,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 36",
+    "section_or_title_seen": "Bony Framework of Head and Neck",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/088.jpg",
+    "render_sha256": "49bd74bf3b4bbafb7213af0b99753451a1ccc29909a141156fd55dcf56d4530d",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "لامی زیر مندیبل، اجزای body/lesser horn/greater horn و C3 با برچسب؛ اتصال رباط استایلوهیوئید و مهره‌های گردن/غضروف‌ها.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 113,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 61",
+    "section_or_title_seen": "Lateral Wall of Nasal Cavity",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/113.jpg",
+    "render_sha256": "1bf3e32184fb5f317c9934e3b5f8d96eb407199f72c83588af7bf93a7bfff55e",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "سه زیرنما: دیوارهٔ کامل، نمای تحتانی با اسپکولوم، نمای شاخک‌های بریده؛ دهانهٔ نازولاکریمال در پایین، دهانهٔ سینوس مکسلا در مسیر میانی.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 114,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 62",
+    "section_or_title_seen": "Lateral Wall of Nasal Cavity of Cranium",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/114.jpg",
+    "render_sha256": "7de32af151cf6d8b14ec8f46794670659128d8f37aa37d0d638b3f202bc86db9",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "دو نمای استخوانی کامل/بریده؛ شاخک تحتانی مستقل و شاخک‌های اتموئید، posterior nasal spine در برچسب‌های استخوان کامی، محل کانال نازولاکریمال.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 163,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 111",
+    "section_or_title_seen": "Lacrimal Apparatus",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/163.jpg",
+    "render_sha256": "4a76c74aabb1f26e19386e43ed0e9bc4843c1314f45b35d80cb4521c0cb0273e",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "دو نما: سطحی بالا و برش پایین؛ غده در خارج/بالا و کیسه در داخل، کانالیکول‌ها و انتهای مجرا در مئاتوس تحتانی؛ مکمل نه تکرار بی‌هدفِ نمای سادهٔ جزوه.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-648",
+    "pdf_page": 179,
+    "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+    "identifier_seen": "Plate 127",
+    "section_or_title_seen": "Meninges and Diploic Veins",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-648/179.jpg",
+    "render_sha256": "eb5d22ae7d2fda15ac7cbc646824b3f3277bcfad27537ef6794a67e220239a76",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "دو نما: کرونال و کالواریای نمایان‌شده؛ لایه‌های سخت‌شامه و عروق دیپلوئیک/امیسیری؛ برای دیپلوئه باید برش موضعی خوانا همراه شاهد ساده‌تر گری ۸.۲۲ باشد.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 79,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 851 / Fig 8.15 A,B",
+    "section_or_title_seen": "Conceptual overview → Key features → Cervical nerves",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/079.jpg",
+    "render_sha256": "94e1a2ea42674125ed2e8fdfd08f05a3fa99dbd3e29497b7478491e4904698c9",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "A شبکهٔ گردنی/بازویی و فرنیک، B قلمرو پوستی با CN V و C2–4؛ C1–4 شبکه گردنی و C5–T1 بازویی. مرتبط با جلسات ۵/۶، نه فقط جلسهٔ ۱.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 80,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 852 / Fig 8.16 A",
+    "section_or_title_seen": "Functional separation of digestive and respiratory passages",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/080.jpg",
+    "render_sha256": "49c9ba33950a2a41d3b5e41373b924a5e2c69ebac886c8efc758bd3c23e94364",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "فضاهای سر، مسیر حلق/حنجره و سطح CVI؛ نمای مفهومیِ کارکردی نه برش تشخیصی.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 81,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 853 / Fig 8.16 B–E",
+    "section_or_title_seen": "Functional separation, continued",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/081.jpg",
+    "render_sha256": "0253585362178035e781958e3463d262cf94b6f82b0a5b64417e34d992f175a0",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "چهار زیرنما: تنفس معمول، حضور غذا، بلع، نوزاد؛ D حرکت لامی/حنجره به بالا و جلو، E مسیر شیر در نوزاد؛ نکات بالینی را فراتر از متن تعمیم ندهید.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 82,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 854 / Fig 8.17",
+    "section_or_title_seen": "Triangles of the neck",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/082.jpg",
+    "render_sha256": "7311e9a8fefef967dbff795a17a30edd07abb99f6a5369e208fa49f63e3786f0",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "مرزهای قدامی و خلفی در متن و طرح؛ ترپزیوس و SCM دو مرز عضلانی کلیدی؛ مکمل روابط جلسات ۵/۶.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 83,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 855 / Fig 8.18",
+    "section_or_title_seen": "Regional anatomy → Skull → Anterior view",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/083.jpg",
+    "render_sha256": "acb1eb7cb8fa3d927dfc2c1a2dad48d98f8c3a0e797e2130935dbc0ea72096f0",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "۲۲ استخوان بدون ossicles؛ cranium بدون مندیبل؛ متن صریحاً mandible را از facial skeleton کنار می‌گذارد. طرح قدامی دارای خطوط راهنما؛ اختلاف قرارداد با ۱۴ صورتِ جزوه ثبت شد.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 84,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 856 / Table 8.1",
+    "section_or_title_seen": "Anterior view → Frontal bone; Zygomatic and nasal bones; Maxillae; Mandible",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/084.jpg",
+    "render_sha256": "6193f4582b413d2154b03d68b563052e2993ced056284768a3299254199c6cb3",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "glabella در متن small depression؛ نصیب زوائد مکسلا و nasion؛ جدول کامل سوراخ‌ها با عصب و عروق باید جدا نقل/بررسی شود، نه صرف تشخیص عنوان جدول.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 85,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 857 / Fig 8.19",
+    "section_or_title_seen": "Regional anatomy → Skull → Lateral view",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/085.jpg",
+    "render_sha256": "b6b7d1dc1b60c219afc3464a5af3e6e15b9792d95bc49b3e4610d738fad6f098",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "نمای طرفی دارای پتریون/آستریون، درزهای سقف، قسمت‌های تمپورال و دو زائدهٔ مندیبل؛ متن بالای صفحه جذب قسمت آلوئولار پس از حذف دندان را بیان می‌کند.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 86,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 858",
+    "section_or_title_seen": "Lateral portion of calvaria; Temporal bone; Visible facial skeleton",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/086.jpg",
+    "render_sha256": "269ac411a1d2aa4b51cf1d66a07d2b2443896dec7c3faf0af0b94ec7b4eea85b",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "پتریون و MMA/extradural hematoma، ساخت قوس گونه‌ای و قسمت‌های تمپورال؛ صفحه متن‌محور است، تصویر مستقلی در متن ندارد.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 87,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 859 / Fig 8.20",
+    "section_or_title_seen": "Mandible; Posterior view → Occipital bone",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/087.jpg",
+    "render_sha256": "fabe7791a9e33713d3f6dcda309407a481d49dcb6dfe0975fc35cdc77d616319",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "مندیبل از طرف، مفصل‌بودن کندیل و اتصال تمپورالیس به کورونوئید؛ نمای خلفی پس‌سری و استخوان درزی؛ نه اثبات یک بیماری از شکل درز.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 88,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 860 / Fig 8.21",
+    "section_or_title_seen": "Superior view; Inferior view introduction",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/088.jpg",
+    "render_sha256": "b4f5276d02eddb9fd03c9561128a294e6433535ac56fbe001e96f73dda5ec355",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "درزها و bregma/lambda؛ دو صفحهٔ compact و diploe در متن؛ طرح فوقانی، سوراخ آهیانه و انتقال به قاعده.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 89,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 861 / Fig 8.22",
+    "section_or_title_seen": "Inferior view → Anterior part; Middle part",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/089.jpg",
+    "render_sha256": "c7b5473fd447c5b6f93ad38e6166be1025113bdfa735253012d530489891b353",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "برش سادهٔ کالواریا و تعریف diploe؛ کام قدام از مکسلا و عقب از صفحهٔ افقی کامی، بدون تصریح نسبت ۳/۴ در همین صفحه؛ خار بینی خلفی در لبهٔ آزاد خلفی کام.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  },
+  {
+    "source_label": "SRC-632",
+    "pdf_page": 90,
+    "source_sha256": "6da0727b6193776a75d677f06bfb0f2c3fddc257793c1088e3df2c78183fd064",
+    "identifier_seen": "printed 862 / Fig 8.23",
+    "section_or_title_seen": "Inferior view; Greater wing continuation",
+    "whole_page_vision": "OBSERVED",
+    "render": ".cache/master_01_06/pages/SRC-632/090.jpg",
+    "render_sha256": "ba80319d20100ce52c0cc5ce9805f0fc71c01460620edf9fadc3bc87d4762696",
+    "render_recipe": {
+      "scale": 1.6,
+      "jpeg_quality": 92,
+      "pymupdf": "2.0"
+    },
+    "observations": "نمای تحتانی کامل، مکسلا/کامی/سوراخ‌ها؛ lower text کانال پتریگوئید و نقش بال بزرگ را ادامه می‌دهد. عدد صفحه واقعاً ۸۶۲ دیده شد.",
+    "individual_image_registry_entries_closed": false,
+    "scope": "Page actually viewed; not a full-book or individually closed image-registry claim."
+  }
+]

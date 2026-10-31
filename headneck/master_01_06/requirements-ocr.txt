@@ -1,0 +1,3 @@
+# Optional extraction tool; not needed by the existing published session builders.
+# Wheel used: includes Tesseract 5.5.3. Model files live in ignored .cache.
+tesserocr==2.12.0

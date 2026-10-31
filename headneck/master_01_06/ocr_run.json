@@ -1,0 +1,15 @@
+{
+  "status": "OCR_COMPLETE_NOT_VERIFIED",
+  "completed": 1394,
+  "models": {
+    "eng": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2",
+    "fas": "db1c0a91208aff00d3cf1ed2c1d23f76419afd5f024688b4f71adc3f2ce4a505"
+  },
+  "receipts": ".cache/master_01_06/ocr_receipts.json",
+  "receipts_sha256": "8621ca6f0aee2508b14279641120601fc3207ed4a54663ae0f40e0bacedf46c2",
+  "engine": "tesseract 5.5.3\n leptonica-1.87.0\n  libjpeg 6b (libjpeg-turbo 1.5.3) : libpng 1.6.34 : libtiff 4.0.9 : zlib 1.2.11 : libwebp 1.0.0",
+  "options": {
+    "scale": 2,
+    "workers": 4
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "session": 1,
+    "role": "a",
+    "file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+    "sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa"
+  },
+  {
+    "session": 1,
+    "role": "b",
+    "file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+    "sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed"
+  },
+  {
+    "session": 1,
+    "role": "update",
+    "file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
+    "sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292"
+  },
+  {
+    "session": 1,
+    "role": "outline",
+    "file": ".cache/master_01_06/historical/headneck/content/outline/hn01_topics.json",
+    "sha256": "5916090281c83e8ee7f87fcc68ce46ec880c929264bbdca5c951b95624c61efd"
+  },
+  {
+    "session": 2,
+    "role": "a",
+    "file": ".cache/master_01_06/historical/headneck/content/hn02_a.json",
+    "sha256": "1d0411adbd987eab6b0eb02667553d6701e02288fc9d0ccb194808e6da018f07"
+  },
+  {
+    "session": 2,
+    "role": "b",
+    "file": ".cache/master_01_06/historical/headneck/content/hn02_b.json",
+    "sha256": "0157038ffd5fe092dd569172b0d73ef607821849949a999b2c0576dcf7e8edf8"
+  },
+  {
+    "session": 2,
+    "role": "update",
+    "file": ".cache/master_01_06/historical/headneck/content/hn02_update.json",
+    "sha256": "a462cdd68dfe79336f73b00e64f63ca0edac0875e5a9f02d533cfa48664c5a66"
+  },
+  {
+    "session": 2,
+    "role": "outline",
+    "file": ".cache/master_01_06/historical/headneck/content/outline/hn02_topics.json",
+    "sha256": "1b6113292613080e029ef7ba6b2e27b044686a704f12b54c40bb52bdd47faa6c"
+  },
+  {
+    "session": 3,
+    "role": "a",
+    "file": ".cache/master_01_06/historical/headneck/content/hn03_a.json",
+    "sha256": "69aa2bc002c3e4952b3cbe516c6fe0773096c64be82398c7271aa485a080adeb"
+  },
+  {
+    "session": 3,
+    "role": "b",
+    "file": ".cache/master_01_06/historical/headneck/content/hn03_b.json",
+    "sha256": "87dcf5a50381761ea0800e7054fbc81a4407ccc7b3fd50251cf3bd4b49f855ff"
+  },
+  {
+    "session": 3,
+    "role": "update",
+    "file": ".cache/master_01_06/historical/headneck/content/hn03_update.json",
+    "sha256": "4f72ead64be3ac38b6b3d4244856ef509e87f259279a91ee8dfaca7c2a5507e5"
+  },
+  {
+    "session": 3,
+    "role": "outline",
+    "file": ".cache/master_01_06/historical/headneck/content/outline/hn03_topics.json",
+    "sha256": "d8ce76e5dd31646807ef43996fd6eb81f4f9e089314ff4c73f3b6ffe6e227636"
+  },
+  {
+    "session": 4,
+    "role": "a",
+    "file": "headneck/content/hn04_a.json",
+    "sha256": "551817b682eef44694452b445cc761a5d294aab40b73259c625075c08fc5faf3"
+  },
+  {
+    "session": 4,
+    "role": "b",
+    "file": "headneck/content/hn04_b.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "session": 4,
+    "role": "update",
+    "file": "headneck/content/hn04_update.json",
+    "sha256": "0e3a4374a552ed144665680e21c57152697f79ec4e4ab2f5600fa2b99234f4ff"
+  },
+  {
+    "session": 4,
+    "role": "outline",
+    "file": "headneck/content/outline/hn04_topics.json",
+    "sha256": "883c75af9cba5768c437cbe0528c60cb2ceb89c5769a6a3ac85bc1c0e5647669"
+  },
+  {
+    "session": 5,
+    "role": "a",
+    "file": "headneck/content/hn05_a.json",
+    "sha256": "11b9a9d3640d435b1dd6e7aa744e1c829b5dabd7307763c373418e6d9c8530e8"
+  },
+  {
+    "session": 5,
+    "role": "b",
+    "file": "headneck/content/hn05_b.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "session": 5,
+    "role": "update",
+    "file": "headneck/content/hn05_update.json",
+    "sha256": "6f7dd0c18a4f896d7316b16779b0a90025ca163ad8baf989771e1acd3bf14b81"
+  },
+  {
+    "session": 5,
+    "role": "outline",
+    "file": "headneck/content/outline/hn05_topics.json",
+    "sha256": "323799e653da0f801f3d48cffdd7b491eb612556d6edb27d4681b4ad6cf595ba"
+  },
+  {
+    "session": 6,
+    "role": "a",
+    "file": "headneck/content/hn06_a.json",
+    "sha256": "0d1fe2bd731e2b62fda9e6f9c8964560febf1e9241aeb633fbb47e33253a1d3d"
+  },
+  {
+    "session": 6,
+    "role": "b",
+    "file": "headneck/content/hn06_b.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "session": 6,
+    "role": "update",
+    "file": "headneck/content/hn06_update.json",
+    "sha256": "c692ca3dcbf10c2bcf21952a6070c2a2e005ec424f60f28b2d2b8820138ca0ff"
+  },
+  {
+    "session": 6,
+    "role": "outline",
+    "file": "headneck/content/outline/hn06_topics.json",
+    "sha256": "cbd03093ee1853b1e4feda23a9e943e97dd0065f20103a373d71b470a0820b76"
+  }
+]

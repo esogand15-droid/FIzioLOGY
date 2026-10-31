@@ -1,0 +1,160 @@
+{
+  "status": "OPEN_REGISTER_NOT_FINAL_CLEARANCE",
+  "issues": [
+    {
+      "id": "C-001",
+      "session": 1,
+      "topic": "hn01-T04",
+      "lecture_pdf_page": 6,
+      "lecture_statement": "اگر از جمجمه mandible را جدا کنیم cranium (neurocranium) نامیده می‌شود.",
+      "finding": "هم‌ارزگرفتن cranium و neurocranium در این جمله دقیق نیست. نتر در پلیت ۸ برای cranium عدد ۲۱ و برای neurocranium عدد ۸ می‌دهد. بنابراین عبارت «جمجمه بدون مندیبل» با «۸ استخوان محافظ مغز» یک مجموعه نیست.",
+      "verified_reference": {
+        "source_label": "SRC-648",
+        "pdf_page": 45,
+        "plate": 8,
+        "title_seen": "Overview of Skeletal System"
+      },
+      "editorial_action": "نقل اصل بدون دستکاری محفوظ؛ تعریف‌ها در جدول با ذکر قرارداد همان مرجع تفکیک شوند.",
+      "reference_observed": true,
+      "status": "DOCUMENTED_NOT_YET_INTEGRATED"
+    },
+    {
+      "id": "C-002",
+      "session": 1,
+      "topic": "hn01-T03",
+      "lecture_pdf_page": 5,
+      "lecture_statement": "۶ استخوان زوج صورت گفته شده ولی در همین فهرست نام پنج جفت آمده است.",
+      "finding": "شاخک تحتانی بینی در فهرست آغازین این صفحه نیامده؛ در مرور PDF ۲۰ همان منبع ذکر شده است. حذف جملهٔ اصل مجاز نیست؛ تکمیل فهرست باید مستقل باشد.",
+      "verified_reference": {
+        "source_label": "SRC-632",
+        "pdf_page": 83,
+        "printed_page": 855,
+        "section": "Head and Neck → Regional anatomy → Skull"
+      },
+      "cross_source_caveat": "خودِ گری در این بخش مندیبل را از facial skeleton کنار می‌گذارد؛ شمار رایج ۱۴ صورت در جزوه با این قرارداد یکسان معرفی نشود. نتر پلیت ۸، midface=۱۳ و mandible=۱ را جدا نشان می‌دهد.",
+      "editorial_action": "جدول نام و شمار جفت/فرد با دو یادداشت جدا: تکمیل فهرست جزوه و تفاوت اصطلاح‌شناسی مرجع.",
+      "reference_observed": true,
+      "status": "DOCUMENTED_NOT_YET_INTEGRATED"
+    },
+    {
+      "id": "C-003",
+      "session": 1,
+      "topic": "hn01-T03",
+      "lecture_pdf_page": 20,
+      "lecture_statement": "ویسروکرانیوم / صورت ۱۴ استخوان، شامل مندیبل.",
+      "finding": "گری چاپ ۳، PDF ۸۳ / چاپی ۸۵۵، پس از شمردن استخوان‌های صورت صریحاً می‌گوید مندیبل نه جزء cranium و نه facial skeleton است. این تفاوت قراردادِ همان کتاب است؛ نباید نقل جزوه به‌صورت پنهان از ۱۴ به ۱۳ تبدیل شود یا همهٔ مراجع دارای یک تعریف معرفی شوند.",
+      "verified_reference": {
+        "source_label": "SRC-632",
+        "pdf_page": 83,
+        "printed_page": 855,
+        "section": "Regional anatomy → Skull"
+      },
+      "editorial_action": "کادر تفاوت اصطلاح‌شناسی با مثال شمارش ۸ + ۱۳ + ۱ = ۲۲، بدون محکوم‌کردن قرارداد دیگر به خطای شمارش.",
+      "reference_observed": true,
+      "status": "DOCUMENTED_NOT_YET_INTEGRATED"
+    },
+    {
+      "id": "C-004",
+      "session": 1,
+      "topic": "hn01-T11",
+      "lecture_pdf_page": 14,
+      "lecture_statement": "در دهانهٔ خلفی حفرات بینی هم خار Nasal خلفی وجود دارد؛ در ادامهٔ بحث مکسلا.",
+      "finding": "جای این جمله می‌تواند انتساب خار بینی خلفی به مکسلا را القا کند. نتر پلیت ۶۲، نمای بالا، آن را در مجموعهٔ برچسب‌های palatine bone نشان می‌دهد. گری PDF ۸۹ / چاپی ۸۶۱، خار بینی خلفی را در لبهٔ آزاد خلفی کام سخت توصیف می‌کند.",
+      "verified_references": [
+        {
+          "source_label": "SRC-648",
+          "pdf_page": 114,
+          "plate": 62,
+          "panel": "upper"
+        },
+        {
+          "source_label": "SRC-632",
+          "pdf_page": 89,
+          "printed_page": 861,
+          "section": "Inferior view → Anterior part"
+        }
+      ],
+      "editorial_action": "نقل محفوظ؛ جدول تفاوت خار قدامیِ مکسلا و خار خلفیِ کامی در لایهٔ افزوده.",
+      "reference_observed": true,
+      "status": "DOCUMENTED_NOT_YET_INTEGRATED"
+    },
+    {
+      "id": "C-005",
+      "session": 1,
+      "topic": "hn01-T14",
+      "lecture_pdf_page": 16,
+      "lecture_statement": "زوائد کامی مکسلا دو سوم قدامی کام را تشکیل می‌دهند.",
+      "finding": "پس از OCR برای یافتن موضع و سپس مشاهدهٔ واقعی هر دو صفحه، اختلاف درون همان رفرنس تأیید شد: گری چاپ ۳، بخش Skeletal framework → Maxillae، PDF ۱۱۶ / چاپی ۱۰۸۸ صریحاً anterior two-thirds؛ در بخش Roof—palate → Hard palate، PDF ۱۳۳ / چاپی ۱۱۰۵ صریحاً anterior three-quarters و posterior one-quarter می‌گوید. بنابراین ۲/۳ جزوه را نمی‌توان با استناد به همین کتاب خطای قطعی نامید یا بی‌توضیح به ۳/۴ تبدیل کرد.",
+      "verified_reference": {
+        "source_label": "SRC-632",
+        "pdf_page": 89,
+        "printed_page": 861,
+        "section": "Inferior view → Anterior part"
+      },
+      "editorial_action": "حفظ لفظی نسبت ۲/۳ جزوه؛ جدول دو نقلِ مرجع با صفحهٔ واقعی، بیان اختلاف درون چاپ ۳ و توضیح مشترکِ قدام مکسلا/خلف کامی. از نسبت شکل شاهد عددی نسازید؛ اصلاح قطعی عدد ادعا نشود.",
+      "reference_observed": true,
+      "status": "INTRA_REFERENCE_DISCREPANCY_DOCUMENTED_NOT_YET_INTEGRATED",
+      "verified_references": [
+        {
+          "source_label": "SRC-628",
+          "pdf_page": 116,
+          "printed_page": 1088,
+          "section": "Regional anatomy → Oral cavity → Skeletal framework → Maxillae",
+          "exact_observed_phrase": "the anterior two-thirds of the hard palate"
+        },
+        {
+          "source_label": "SRC-628",
+          "pdf_page": 133,
+          "printed_page": 1105,
+          "section": "Regional anatomy → Oral cavity → Roof—palate → Hard palate",
+          "exact_observed_phrase": "the anterior three-quarters of the hard palate"
+        }
+      ]
+    },
+    {
+      "id": "C-006",
+      "session": 1,
+      "topic": "hn01-T15",
+      "lecture_pdf_pages": [
+        17,
+        18
+      ],
+      "lecture_statement": "دهانهٔ سینوس مکسلا به سمت بینی را Maxillary hiatus می‌نامد و بالابودن آن از کف را مطرح می‌کند.",
+      "finding": "hiatus در استخوانِ مجزا، دهانهٔ طبیعی تخلیه در دیوارهٔ کامل و ارتباط آن با مئاتوس میانی باید تفکیک شوند. در نتر پلیت ۶۱، نمای پایین، opening of maxillary sinus و opening of nasolacrimal duct دو مقصد متفاوت‌اند؛ در پلیت ۶۲، نمای پایین، اجزای استخوانی محدودکننده دیده می‌شوند.",
+      "verified_references": [
+        {
+          "source_label": "SRC-648",
+          "pdf_page": 113,
+          "plate": 61,
+          "panel": "lower"
+        },
+        {
+          "source_label": "SRC-648",
+          "pdf_page": 114,
+          "plate": 62,
+          "panel": "lower"
+        }
+      ],
+      "editorial_action": "شکل موضعیِ دو دهانه، جدول hiatus / ostium و یادداشت اینکه بالابودن دهانه تمام سازوکار تخلیه را توضیح نمی‌دهد؛ برای فیزیولوژی مژکی شاهد متنی جدا لازم است.",
+      "reference_observed": true,
+      "status": "PARTIALLY_DOCUMENTED_NEEDS_TEXT_REFERENCE"
+    },
+    {
+      "id": "C-007",
+      "session": 1,
+      "topic": "hn01-T07",
+      "lecture_pdf_page": 9,
+      "lecture_statement": "گلابلا را یک برجستگی در خط وسط بین دو قوس ابرویی می‌نامد.",
+      "finding": "گری PDF ۸۴ / چاپی ۸۵۶ در بخش Frontal bone برای glabella عبارت small depression between the arches را به کار می‌برد؛ شکل ۸.۱۸ همان موضع میانی را مشخص می‌کند. اختلاف توصیف ظاهر با مرجع باید گفته شود، نه مخفیانه بازنویسی.",
+      "verified_reference": {
+        "source_label": "SRC-632",
+        "pdf_page": 84,
+        "printed_page": 856,
+        "section": "Anterior view → Frontal bone"
+      },
+      "editorial_action": "محل موضعی ثابت را آموزش دهید؛ برجستگی قوس ابرویی را با توصیف گلابلا یکی نکنید. عبارت دو منبع در کادر اختلاف محفوظ بماند.",
+      "reference_observed": true,
+      "status": "DOCUMENTED_NOT_YET_INTEGRATED"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+[
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 1,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/001.jpg",
+    "render_sha256": "fe2eb689840d1fd0ce43df757cb950ca73bd01a43cddefa5fdbf99edcca98cfe",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "جلد و نشان گروه؛ اطلاعات هویتی منبع، نه متن آناتومی.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 2,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/002.jpg",
+    "render_sha256": "4c4ed3171d13d771eda56c9cba7a459e1f2f04aff968c476d1f697faea962a9e",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "تصویر قدامی جمجمه، نام نویسندگان و یادداشت پایانیِ زیر تصویر؛ این نوشته بخشی از اصل است.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 3,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/003.jpg",
+    "render_sha256": "387af23d543bfe5a1111ca427b02c518a421d6daf9ddbff05aa79aa2d28476f6",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "تقسیم محوری/ضمیمه و دو شکل رنگی؛ اشاره به هیوئید در متن ولی خود آن در طرح کوچک قابل تشخیص مستقل نیست.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 4,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/004.jpg",
+    "render_sha256": "98bc82c08e2d923c710884b3dc3cb847af1315d66a8a9fe0fec29e6de791c17c",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "تعریف و کارکرد جمجمه، ۲۲/۲۸، دو صفحه و استخوان اسفنجی؛ عنوان cranial vault روی شکل طرفی نیازمند توضیح دامنه است.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 5,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/005.jpg",
+    "render_sha256": "43f5b86c3fef4fc883463e50ba29b12f106d0c38489022fbea2515f88b7af2d4",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "فهرست صورت و لامی؛ شاخک تحتانی در فهرست اولیه جاافتاده ولی در مرور ۲۰ ذکر شده؛ سه نمای لامی.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 6,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/006.jpg",
+    "render_sha256": "45a974fa848ca5571a99f37c834a685be845979d65569f9589781ad1b071d273",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "سه معیار تقسیم و درخت موجود؛ هم‌ارزی cranium و neurocranium در جملهٔ اول نیازمند رفع ابهام است.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 7,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/007.jpg",
+    "render_sha256": "2cf7771093af5857964444a75c9058ab467c807a345201329580775094a0eb34",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "حفره‌های جمجمه/صورت، فرانکفورت، پنج نما؛ چندین نما/زیرنما در تصاویر ریز، هنوز تک‌تک استخراج و بسته نشده‌اند.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 8,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/008.jpg",
+    "render_sha256": "fedf01537689af722b2352a98209474b7f714913c4d5d2a9f3a5c10c6e811fd0",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "نمای قدامی و آغاز پیشانی؛ نام‌ها/خطوط شکل باید جدا تحلیل شوند؛ جمله تا صفحهٔ بعد ادامه دارد.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 9,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/009.jpg",
+    "render_sha256": "14a91a97816fbc239ff19a2a6f49822559d8e410b0ef52e69e06d5e644cd35db",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "قوس ابرویی، برجستگی پیشانی، گلابلا، درز متوپیک؛ اختلاف توصیف گلابلا با گری ثبت شد.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 10,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/010.jpg",
+    "render_sha256": "70137887566a8310a5b67b8a90720513647183f74d3a7905f989547a8e92d34c",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "ادامهٔ استخوان‌سازی و نمای تحتانی پیشانی؛ حفرة غدهٔ اشکی خارج و فوسای تروکلئار داخل؛ تصویر شماره‌دار ریز است.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 11,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/011.jpg",
+    "render_sha256": "fd7af18b3946037024f60a37462c2b24333a49adf479a880051a505d1e6a8cc4",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "ادامهٔ بریدگی/سوراخ، زائدهٔ گونه‌ای و خطوط گیجگاهی، بخش بینی و خار بینی استخوان پیشانی.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 12,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/012.jpg",
+    "render_sha256": "a7048a8cfa406df06f46678ab9a6e81db35a22f42d218d6392cfffd8c302e522",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "استخوان بینی، سطوح و چهار کنار، nasion و غضروف‌های بینی؛ ادامهٔ جملهٔ صفحهٔ قبل حفظ شود.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 13,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/013.jpg",
+    "render_sha256": "b3e1f753b799bea714723fe5f1650172bb99f0fd79cd79e9be30dde2ea8085dc",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "سوراخ‌های بینی و ناودان عصب؛ آغاز مکسلا و دو شکل مجاور سطح قدامی/اربیتال.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 14,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/014.jpg",
+    "render_sha256": "7597e6518c21cd5237a8974251e651dc94c56d0a65a785fc52b520c755f9307f",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "سطوح مکسلا، توبروزیته، خارهای بینی؛ انتساب خار خلفی باید از مکسلا/کامی تفکیک شود.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 15,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/015.jpg",
+    "render_sha256": "25d20c752039e380daca08bd202ba14bb2edec5b808e5c7552c2ddd1312a8072",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "سه زائدهٔ نخست مکسلا؛ ستیغ اشکی قدامی و کیسه/کانالیکول‌ها؛ زائدهٔ کامی در صفحهٔ بعد ادامه دارد.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 16,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/016.jpg",
+    "render_sha256": "8a5ed94cb11001639a8768b0988de14761ae8abbd313024c765c0b7be69cdd8b",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "زائدهٔ کامی، ۲/۳ نقل اصل، سوراخ ثنایایی، ستیغ بینی، دو تصویر شکاف کام، آغاز سینوس.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 17,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/017.jpg",
+    "render_sha256": "ef862c839eda5945ac5123eeb943009cd77e5bbb5d74eba1522d2077f3fa4faa",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "نمای مقایسه‌ای سینوس سالم/ملتهب؛ مجاورت ریشهٔ دندان‌ها و اصطلاح maxillary hiatus.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 18,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/018.jpg",
+    "render_sha256": "ce53340cf14779f94ff371b8e13de1d625d0f81bcbb7b075f5cb0bc19b5159fd",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "ادامهٔ تخلیهٔ سینوس و تغییرات سنی؛ دو نمای نوزاد و یک بزرگسال در پایین؛ روی تصویر، سن عددی مستند نیست.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 19,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/019.jpg",
+    "render_sha256": "cd0bf00341cf95c2148415552ea507e20d16a09489cb8d0788a90e3cbc24f7b1",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "رادیوگرافی با اربیت و سینوس‌ها/دهانهٔ قدامی بینی، inset جهت تابش؛ متن پایانی غیرآناتومیک هم بخشی از اصل است.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 20,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/020.jpg",
+    "render_sha256": "5c7092a75349d1fc9362f0c216632078d5889576b22452da5aa9d5fd9b0d5978",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "مرور تایپی‌نشده در extraction خام: دسته‌بندی ۸/۱۴، شاخک تحتانی، گوش/لامی و پیشانی؛ نیاز OCR و مقابله.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 21,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/021.jpg",
+    "render_sha256": "c64b2be24e85a9b2005256895b89ecf5051a9eaa220dec112d6536cd1590d9ee",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "مرور تصویریِ بینی، چهار زائدهٔ مکسلا و نکات پایانی؛ کلمهٔ مهم یا نکته در اصل شاهد فراوانی آزمونی نیست.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  },
+  {
+    "source_label": "SRC-649",
+    "pdf_page": 22,
+    "source_sha256": "2fced692b5d3f4bd2f1f7a39f0d19d55f1d8e6c1485a29645b832f73463192b7",
+    "render": ".cache/master_01_06/pages/SRC-649/022.jpg",
+    "render_sha256": "99a2a365431c0f1f18460302bc71369877e3af7a8964ec8842777d87c29c2bb3",
+    "render_recipe": {
+      "scale": 1.5,
+      "jpeg_quality": 90,
+      "pymupdf": "2.0"
+    },
+    "whole_page_vision": "OBSERVED",
+    "note": "دو شکل پر برچسب: قدامی رنگیِ جمجمه و برش کرونال صورت؛ همهٔ نوشته‌ها باید وارد دستورکار تصویر شوند، نه چسباندن صفحهٔ کامل.",
+    "typed_text_reconciliation": "NOT_COMPLETED",
+    "all_individual_images_closed": false
+  }
+]

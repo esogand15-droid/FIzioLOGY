@@ -1,0 +1,179 @@
+{
+  "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+  "files": [
+    {
+      "file": "headneck/content/hn01_a.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 1,
+      "bytes": 80154,
+      "sha256": "cd07403e3c8c1451fbaf3a8d15febffecb1394f4edf8cccbcb541e5caf19eefa",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn01_a.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/hn01_b.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 1,
+      "bytes": 50185,
+      "sha256": "87325a1541b277d7c9abd7c47399763612d64616c862615c36743dc110aa55ed",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn01_b.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/hn01_update.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 1,
+      "bytes": 40159,
+      "sha256": "d70a5f26b96e7732de4dd8646f16972f7c9b7457dca529663615f40431860292",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn01_update.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/outline/hn01_topics.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 1,
+      "bytes": 6232,
+      "sha256": "5916090281c83e8ee7f87fcc68ce46ec880c929264bbdca5c951b95624c61efd",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/outline/hn01_topics.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "pdf/HumsYar_HeadNeck_Jalase1.pdf",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 1,
+      "bytes": 11474566,
+      "sha256": "8045c83a51586a3cdcfdc3d1d15b2f5ffb2c86924a152d15b9513252461f400a",
+      "workspace_file": ".cache/master_01_06/historical/pdf/HumsYar_HeadNeck_Jalase1.pdf",
+      "review": "HISTORICAL_NOT_REAPPROVED",
+      "pages": 100
+    },
+    {
+      "file": "headneck/reports/HN_S01_VERBATIM_MAP.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 1,
+      "bytes": 2473,
+      "sha256": "2ba3b99df1fd1b4366d32efce384282179d249f51dca0780e91089b4ce48526f",
+      "workspace_file": ".cache/master_01_06/historical/headneck/reports/HN_S01_VERBATIM_MAP.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/hn02_a.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 2,
+      "bytes": 57058,
+      "sha256": "1d0411adbd987eab6b0eb02667553d6701e02288fc9d0ccb194808e6da018f07",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn02_a.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/hn02_b.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 2,
+      "bytes": 101272,
+      "sha256": "0157038ffd5fe092dd569172b0d73ef607821849949a999b2c0576dcf7e8edf8",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn02_b.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/hn02_update.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 2,
+      "bytes": 66982,
+      "sha256": "a462cdd68dfe79336f73b00e64f63ca0edac0875e5a9f02d533cfa48664c5a66",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn02_update.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/outline/hn02_topics.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 2,
+      "bytes": 7709,
+      "sha256": "1b6113292613080e029ef7ba6b2e27b044686a704f12b54c40bb52bdd47faa6c",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/outline/hn02_topics.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "pdf/HumsYar_HeadNeck_Jalase2.pdf",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 2,
+      "bytes": 12397415,
+      "sha256": "49d99eb6b1b369c0de4077c9fd5022b084aa0a7600954bf12db9a23705e55b9b",
+      "workspace_file": ".cache/master_01_06/historical/pdf/HumsYar_HeadNeck_Jalase2.pdf",
+      "review": "HISTORICAL_NOT_REAPPROVED",
+      "pages": 112
+    },
+    {
+      "file": "headneck/reports/HN_S02_VERBATIM_MAP.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 2,
+      "bytes": 2440,
+      "sha256": "d4c65f9347661ed96ecdc71212eb69428b8ca76dbd896f618eefb002cee48b26",
+      "workspace_file": ".cache/master_01_06/historical/headneck/reports/HN_S02_VERBATIM_MAP.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/hn03_a.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 3,
+      "bytes": 50685,
+      "sha256": "69aa2bc002c3e4952b3cbe516c6fe0773096c64be82398c7271aa485a080adeb",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn03_a.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/hn03_b.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 3,
+      "bytes": 53469,
+      "sha256": "87dcf5a50381761ea0800e7054fbc81a4407ccc7b3fd50251cf3bd4b49f855ff",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn03_b.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/hn03_update.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 3,
+      "bytes": 49413,
+      "sha256": "4f72ead64be3ac38b6b3d4244856ef509e87f259279a91ee8dfaca7c2a5507e5",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn03_update.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/content/outline/hn03_topics.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 3,
+      "bytes": 5840,
+      "sha256": "d8ce76e5dd31646807ef43996fd6eb81f4f9e089314ff4c73f3b6ffe6e227636",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/outline/hn03_topics.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "pdf/HumsYar_HeadNeck_Jalase3.pdf",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 3,
+      "bytes": 7188183,
+      "sha256": "d7b29bc404fce44e517698b6152e19411931564577c0910ad44442284853ac8f",
+      "workspace_file": ".cache/master_01_06/historical/pdf/HumsYar_HeadNeck_Jalase3.pdf",
+      "review": "HISTORICAL_NOT_REAPPROVED",
+      "pages": 102
+    },
+    {
+      "file": "headneck/content/hn03_source_transcription_wip.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 3,
+      "bytes": 81148,
+      "sha256": "fdf512cd688b3ccff4f99ff5559bea993dd6ef39c423b76bb8cfb0d284bf7b26",
+      "workspace_file": ".cache/master_01_06/historical/headneck/content/hn03_source_transcription_wip.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    },
+    {
+      "file": "headneck/reports/HN_S03_TRANSCRIPTION_TOPIC_MAP_WIP.json",
+      "commit": "026cbcc1191751a491bcb37675adcb2cb8c827d0",
+      "session": 3,
+      "bytes": 81323,
+      "sha256": "b4d4a9df66ec7b951429992b78dbc4544b6be5844875ea4728b481b88a491a06",
+      "workspace_file": ".cache/master_01_06/historical/headneck/reports/HN_S03_TRANSCRIPTION_TOPIC_MAP_WIP.json",
+      "review": "HISTORICAL_NOT_REAPPROVED"
+    }
+  ]
+}
