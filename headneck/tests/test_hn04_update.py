@@ -59,7 +59,7 @@ class SessionFour(unittest.TestCase):
             self.assertEqual(cursor,len(result[tid]))
             self.assertEqual(result[tid][-1]['type'],'handoff')
     def test_unrelated_sessions_noop(self):
-        for session in ('hn03','hn06','hn07','hn08','hn09','hn10','hn11','hn12','hn13'):
+        for session in ('hn03','hn07','hn08','hn09','hn10','hn11','hn12','hn13'):
             with patch.dict(os.environ,{'HUMSYAR_HN03_WIP':'0'}):
                 self.assertIs(U.apply_update(session,self.base),self.base)
     def test_prior_overlay_sessions_still_work(self):

@@ -1,0 +1,438 @@
+{
+  "pdf_sha256": "d05692679a604d622dd43dc6b87ef1d985e968d06df85fd3926f572b80721204",
+  "date": "2026-10-31",
+  "reviewer": "Arena agent; actual individual read_file visual inspection after last PDF rebuild, not an independent human reviewer.",
+  "scope": "All 60 full-page final renders viewed after final rebuild; not certification of every microscopic atlas label.",
+  "not_yet_reviewed": [],
+  "reviewed_pages": [
+    {
+      "page": 1,
+      "render": "pages/001.jpg",
+      "render_sha256": "3945c63a805a1f2a138f260de0f98d9ae6be15df6673cac3b889e90415b101c7",
+      "status": "VISUALLY_REVIEWED",
+      "note": "جلد/عنوان جلسه/تاریخ؛ روشنایی نوشته‌های فرعی پایین جلد کم‌تر از متن اصلی است."
+    },
+    {
+      "page": 2,
+      "render": "pages/002.jpg",
+      "render_sha256": "5cc28e7cebb955c6a65be7cbd859ef61ea17c6a8ecff708206f8dd7df768882d",
+      "status": "VISUALLY_REVIEWED",
+      "note": "مرز نقل و افزوده‌ها و ارجاع واقعی PDF صریح است."
+    },
+    {
+      "page": 3,
+      "render": "pages/003.jpg",
+      "render_sha256": "3711e96b73e17b1eb82cda82dd69474770179f2bc89b63ffd77de2fc94f6b939",
+      "status": "VISUALLY_REVIEWED",
+      "note": "فهرست با شروع مباحث و جمع‌بندی مطابق است."
+    },
+    {
+      "page": 4,
+      "render": "pages/004.jpg",
+      "render_sha256": "623cbcfc99b4972f0c236b011554902983f299ff030f5ecf35f0cced1d140588",
+      "status": "VISUALLY_REVIEWED",
+      "note": "جداکننده؛ شمار قاب‌ها/جدول‌های بدنه درست است."
+    },
+    {
+      "page": 5,
+      "render": "pages/005.jpg",
+      "render_sha256": "3f519381281a17ff029bfd13ee9eb66eb538265c78674dd6df8154f670afbb45",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقشهٔ جلسه و تعداد قاب‌های هر منبع."
+    },
+    {
+      "page": 6,
+      "render": "pages/006.jpg",
+      "render_sha256": "55b5bbb4248bd0dc7e44216926ba388492d5bd6a2a2ae6dff250ebed8ec65060",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقشهٔ مباحث، شناسنامهٔ اول و آغاز نقل؛ ادامهٔ فهرست در صفحهٔ بعد."
+    },
+    {
+      "page": 7,
+      "render": "pages/007.jpg",
+      "render_sha256": "cbe6082c9c99f926a9c5b6cb69f8f862ad9480532adf29aae39cd4cdf8f47635",
+      "status": "VISUALLY_REVIEWED",
+      "note": "شکل جزوه PDF۲ با چند زیرنما؛ واترمارک و کیفیت میراثی حفظ شده."
+    },
+    {
+      "page": 8,
+      "render": "pages/008.jpg",
+      "render_sha256": "261daa65eb72c5bfc8f57fb57f703229c98675a1d3e57d60085c309259f6a68c",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نتر۵۳ کامل؛ تیروهایوئید/تاندون/استرنوتیروئید و منبع."
+    },
+    {
+      "page": 9,
+      "render": "pages/009.jpg",
+      "render_sha256": "b9667e2bbdb1ecbf1b8cd2aeed676c38bec3c10dd05e05ce77273a4fe55d91e6",
+      "status": "VISUALLY_REVIEWED",
+      "note": "جدول و کادر مستقل اول؛ برگهٔ یادداشت خالی عمدی است."
+    },
+    {
+      "page": 10,
+      "render": "pages/010.jpg",
+      "render_sha256": "b328e5b464d6d590138e2080823f3b0ab83bc4f7818444499445f084dcd0c015",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقل اتصالات استرنوهایوئید و آغاز اوموهایوئید."
+    },
+    {
+      "page": 11,
+      "render": "pages/011.jpg",
+      "render_sha256": "3a34a6c9b493768603bb38effa1b3f61bd16659306b010a8cd312bda53aefb08",
+      "status": "VISUALLY_REVIEWED",
+      "note": "شکل جزوه PDF۳ و نقل بطن تحتانی؛ حاشیهٔ سبز کوچک اصلی باقی است."
+    },
+    {
+      "page": 12,
+      "render": "pages/012.jpg",
+      "render_sha256": "82b1bc3a42b3396aeef705cc99ef7c0b84c8ca565069f101d691cbbfe55421c9",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقل فقط C1 و شکل کامل گری۸.۱۶۴؛ توضیح در صفحهٔ بعد."
+    },
+    {
+      "page": 13,
+      "render": "pages/013.jpg",
+      "render_sha256": "8d9d16dc8132e63f4b324267e548feeab814981cf86859b046249d9516e990a5",
+      "status": "VISUALLY_REVIEWED",
+      "note": "کادر C1/کل عضله و طرح ریشه‌های آنسا؛ خطوط حفظ شده‌اند."
+    },
+    {
+      "page": 14,
+      "render": "pages/014.jpg",
+      "render_sha256": "491d037d35b4580271564a04530f42ce3567306610bb031e8296de7c80ac628d",
+      "status": "VISUALLY_REVIEWED",
+      "note": "برگهٔ تحویل/آغاز موضوع۳؛ فضای خالی برای یادداشت عمدی."
+    },
+    {
+      "page": 15,
+      "render": "pages/015.jpg",
+      "render_sha256": "250549b6e65184cce8b80018236ee623f9c57827800271ba4c911db29e84e395",
+      "status": "VISUALLY_REVIEWED",
+      "note": "چهار زیرنمای جزوه PDF۴ و آغاز استرنوتیروئید."
+    },
+    {
+      "page": 16,
+      "render": "pages/016.jpg",
+      "render_sha256": "97a650b5d4730fcad8acd807f91f2bd11eb3261e62e8a8ee6816c45198162692",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقل و جدول مستقل تیروهایوئید؛ مثال high notes از گری رد نشده."
+    },
+    {
+      "page": 17,
+      "render": "pages/017.jpg",
+      "render_sha256": "3b36fad3baf93474e9d7659d6120ba7aee02aa9b977c0721b8611c10079d09e9",
+      "status": "VISUALLY_REVIEWED",
+      "note": "تحویل و شناسنامهٔ موضوع۴؛ متن در صفحهٔ بعد ادامه دارد."
+    },
+    {
+      "page": 18,
+      "render": "pages/018.jpg",
+      "render_sha256": "3076388ab62880fc46d3e1d5c59fd79046fa0f661b7f980f1d1869fc7da44152",
+      "status": "VISUALLY_REVIEWED",
+      "note": "دو بطن دیگاستریک؛ نقل بندهای PDF۵–۷."
+    },
+    {
+      "page": 19,
+      "render": "pages/019.jpg",
+      "render_sha256": "bd92bda4e6a1f29d1b9e2e7c3cd90e7e52feff11d6e0a6be78d80763f33a4a01",
+      "status": "VISUALLY_REVIEWED",
+      "note": "عصب‌ها و شکل طرفی جزوه PDF۷؛ قطع متن تازه دیده نشد."
+    },
+    {
+      "page": 20,
+      "render": "pages/020.jpg",
+      "render_sha256": "c1feb86b115e84903155b6bc5794a3ee11556dd53421155f429bcee85c50c587",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نتر۵۴ کامل؛ حاشیه/نام‌های ریز برای چاپ به زوم نیاز دارند."
+    },
+    {
+      "page": 21,
+      "render": "pages/021.jpg",
+      "render_sha256": "c29fa89786d41869e0e9b8669e07dde7446d983d58f884df007201566ce6686b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقل شاخهٔ سرویکال و توضیح مستقل عدم خلط با پلاتیسما."
+    },
+    {
+      "page": 22,
+      "render": "pages/022.jpg",
+      "render_sha256": "a97500a1de49e04e854ef14aa0955a095e25b01777d136e266a92e14936b17b6",
+      "status": "VISUALLY_REVIEWED",
+      "note": "تحویل و مایلوهایوئید؛ ادامهٔ نقل در صفحهٔ بعد."
+    },
+    {
+      "page": 23,
+      "render": "pages/023.jpg",
+      "render_sha256": "93ce6293daab6d817d2b6c1bca54aef805e688ac6412e0160b95ab831097fe5e",
+      "status": "VISUALLY_REVIEWED",
+      "note": "دو زیرشکل A/B گری کامل؛ برچسب‌های کوچک به زوم نیاز دارند."
+    },
+    {
+      "page": 24,
+      "render": "pages/024.jpg",
+      "render_sha256": "386c3439c5ec4fd46965d730cde9792ae029ffed23d9bdb7811c4326a80d3b74",
+      "status": "VISUALLY_REVIEWED",
+      "note": "شکل چندنمای جزوه PDF۹؛ واترمارک و ریزنوشته‌ها میراثی‌اند."
+    },
+    {
+      "page": 25,
+      "render": "pages/025.jpg",
+      "render_sha256": "f46f0cdcfea2172901c3a082dffa0fbd4d71c80a5a33fbaf4d0b34a020bfa72a",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقل مرور روی تصاویر؛ ادعای مبدأ استرنوتیروئید حفظ، در موضوع۳ رفع اختلاف شده."
+    },
+    {
+      "page": 26,
+      "render": "pages/026.jpg",
+      "render_sha256": "4f4c2d92f0ecc782230c1995e8228c9df9424ff0cb71980429ac066f990d7d0b",
+      "status": "VISUALLY_REVIEWED",
+      "note": "جدول کف دهان و توضیح C1 همراه XII."
+    },
+    {
+      "page": 27,
+      "render": "pages/027.jpg",
+      "render_sha256": "da7e98d23a9eeaaf31e7d1f9f0b4b20c4e46e4e6369905177c371126a9a4c92e",
+      "status": "VISUALLY_REVIEWED",
+      "note": "شکل جزوه PDF۱۱ کوچک و کم‌کیفیت است؛ نمای مرجع بزرگ در صفحهٔ بعد."
+    },
+    {
+      "page": 28,
+      "render": "pages/028.jpg",
+      "render_sha256": "63fbd591d020158f63c57bdbfe2115e6df6180cde1dead47a00cdb3a42697891",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نتر۵۵ کامل؛ اتصال بازیلار/کندیل و فرنیک قابل پیگیری."
+    },
+    {
+      "page": 29,
+      "render": "pages/029.jpg",
+      "render_sha256": "1b9d4e752988acae0d13da6295f631c9e20c247244b85d3a54b401e478227abb",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقل چهار قدامی؛ وصف کندیل حفظ، توضیح مستقل در۳۰."
+    },
+    {
+      "page": 30,
+      "render": "pages/030.jpg",
+      "render_sha256": "f4ab7f59ed4c7b93399439ae8ced7de0381721575aad2288b69e97c0907993eb",
+      "status": "VISUALLY_REVIEWED",
+      "note": "جدول سه بخش کولی و کادر بازیلار/تفاوت بازه‌ها."
+    },
+    {
+      "page": 31,
+      "render": "pages/031.jpg",
+      "render_sha256": "36426a5f35fb356d2750dae0ea2bd83ec529d19af1e4c94fb7f9cb2156d72f12",
+      "status": "VISUALLY_REVIEWED",
+      "note": "تصویر جدول۸.۱۶ کامل تا لانگوس کپیتیس؛ ریزنوشته‌ها نیازمند زوم."
+    },
+    {
+      "page": 32,
+      "render": "pages/032.jpg",
+      "render_sha256": "f2aee281149cf7987e891318219a1145ed0445993cac06df15374e08b003bbec",
+      "status": "VISUALLY_REVIEWED",
+      "note": "تحویل و شناسنامهٔ اسکالن‌ها؛ ادامه در صفحهٔ بعد."
+    },
+    {
+      "page": 33,
+      "render": "pages/033.jpg",
+      "render_sha256": "9bbf64d72b8152e750c0c132ccf61133de3768c7eae2562ba7eeb8a6551c355a",
+      "status": "VISUALLY_REVIEWED",
+      "note": "گری۸.۱۸۵ کامل و فهرست سه اسکالن."
+    },
+    {
+      "page": 34,
+      "render": "pages/034.jpg",
+      "render_sha256": "bbf9495aa29bddc9d72d23c965da19a1249bc7cb50de36d8ca0f3f66e0b973bc",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقل مبدأ/انتها و عصب اسکالن‌ها؛ رفع ابهام در۳۵."
+    },
+    {
+      "page": 35,
+      "render": "pages/035.jpg",
+      "render_sha256": "9c1d31fa938dafb0a9aae07bf5b251697c3a8efe29c2c915221fea33ab450457",
+      "status": "VISUALLY_REVIEWED",
+      "note": "جدول روابط شریان/ورید/فرنیک؛ کادر و تحویل."
+    },
+    {
+      "page": 36,
+      "render": "pages/036.jpg",
+      "render_sha256": "e748a0ea3ad3612e29491598bfc9d227c0324f3735774fc0047708272e446127",
+      "status": "VISUALLY_REVIEWED",
+      "note": "شکل خلف گردن جزوه PDF۱۴؛ برچسب‌های ریز نیازمند زوم."
+    },
+    {
+      "page": 37,
+      "render": "pages/037.jpg",
+      "render_sha256": "f62b29c20a540e3db41d76733dcdad1beeb9fb82a1c336b3adc2c6b537e52f45",
+      "status": "VISUALLY_REVIEWED",
+      "note": "شکل بدون label جزوه PDF۱۵؛ label ساختگی اضافه نشده."
+    },
+    {
+      "page": 38,
+      "render": "pages/038.jpg",
+      "render_sha256": "059123b3b67c79740ff3172041a3fdc44b5a48b2d69eae1124bacaf286999aa7",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نمای تراپزیوس و نقل کسر یک‌سوم؛ متن اصلی ۷مهره حفظ."
+    },
+    {
+      "page": 39,
+      "render": "pages/039.jpg",
+      "render_sha256": "dbd204133e51bd78c38d6ec1e796d6d7eb53b01c728d014a6f0a2f7a9cd49092",
+      "status": "VISUALLY_REVIEWED",
+      "note": "اتصالات جزوه؛ واترمارک/بخش زیرین لاتیسیموس زمینهٔ اصلی است."
+    },
+    {
+      "page": 40,
+      "render": "pages/040.jpg",
+      "render_sha256": "fa1994dd974d4180304990bdab9cf8a257df653ca2f5a4c52a82b10aac85aa88",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نتر۱۹۵ کامل؛ نیمهٔ مقابل، تراپزیوس برداشته شده؛ پایین تنه فقط زمینه."
+    },
+    {
+      "page": 41,
+      "render": "pages/041.jpg",
+      "render_sha256": "f72cc807b6693372de9526776fe608bea176c346734873a2aa09191045bcdf55",
+      "status": "VISUALLY_REVIEWED",
+      "note": "جدول XI و C3–C4، تفکیک رباط/خط نوکال و دسته‌بندی عضلات."
+    },
+    {
+      "page": 42,
+      "render": "pages/042.jpg",
+      "render_sha256": "fa1956806010a1975bb1f6debe8273bf91a32c458d231f734283b6e555108147",
+      "status": "VISUALLY_REVIEWED",
+      "note": "تحویل و شناسنامهٔ اسپلنیوس/لواتور."
+    },
+    {
+      "page": 43,
+      "render": "pages/043.jpg",
+      "render_sha256": "6b67517d34ea91c90ce01fda19fb377f0dfd6fbe59b70c957eb5475915b80a3f",
+      "status": "VISUALLY_REVIEWED",
+      "note": "دو زیرنمای اسپلنیوس و نقل جابه‌جایی مبدأ/انتها."
+    },
+    {
+      "page": 44,
+      "render": "pages/044.jpg",
+      "render_sha256": "866ff1ff13aa92360b5af4c42ee9bb98355acf39c4d58bb3e5e59a62f5dd0293",
+      "status": "VISUALLY_REVIEWED",
+      "note": "ادامهٔ نقل سرویسس؛ فضای سفید عمدی ناشی از یک‌تکه‌بودن قاب بعدی."
+    },
+    {
+      "page": 45,
+      "render": "pages/045.jpg",
+      "render_sha256": "c243c013be729271d55726fda0cf77801471503d79f4c726f6779eef7e6d6ffd",
+      "status": "VISUALLY_REVIEWED",
+      "note": "لواتور و جدول اسپلنیوس؛ ارجاع پس از اصلاح به PDF۱۲۲/چاپی۹۳ تأیید شد."
+    },
+    {
+      "page": 46,
+      "render": "pages/046.jpg",
+      "render_sha256": "92efb811f1d3cd6382d882bd23fad147577f0b339de0a8c372b8deaf8ec7c861",
+      "status": "VISUALLY_REVIEWED",
+      "note": "کادر جابه‌جایی نام‌ها و تکرار عمدی نتر۱۹۵؛ ارجاع۱۲۲/۹۳ صحیح."
+    },
+    {
+      "page": 47,
+      "render": "pages/047.jpg",
+      "render_sha256": "76fb36ef1fd395a9068f3312a7a57a87fadcc81e19e1cf1da4f5002d1ca8ba78",
+      "status": "VISUALLY_REVIEWED",
+      "note": "تحویل و شناسنامهٔ عضلات عمقی/زیرپس‌سری."
+    },
+    {
+      "page": 48,
+      "render": "pages/048.jpg",
+      "render_sha256": "e178428bfb0dbb287b2a8187270e4f45373f662a56bc8407f9014d41a4657279",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقل سمی‌اسپاینالیس و شکل عمقی جزوه PDF۱۸."
+    },
+    {
+      "page": 49,
+      "render": "pages/049.jpg",
+      "render_sha256": "7efd990b8b661a10ba2fb791f31f999fc7bab67c7e567bf195b1c5c3ca78dcb5",
+      "status": "VISUALLY_REVIEWED",
+      "note": "شمای اتصال جزوه PDF۱۹ و نقل عصب C2؛ اصلاح مستقل در۵۲."
+    },
+    {
+      "page": 50,
+      "render": "pages/050.jpg",
+      "render_sha256": "ad054b7dfc8b6e77f8a9b4d0c6254f06293e765a00a5aa779d531842094b63fa",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نتر۱۹۷ کامل؛ ناحیهٔ گردنی موضوع اصلی است و بقیه زمینه."
+    },
+    {
+      "page": 51,
+      "render": "pages/051.jpg",
+      "render_sha256": "801936251ee981fa2cd4ac16292f3fa5246e8bd5117b74801fc350ba6f5fa120",
+      "status": "VISUALLY_REVIEWED",
+      "note": "جدول نقل چهار عضله و جدول آموزشی مستقل؛ هر دو از هم جدا."
+    },
+    {
+      "page": 52,
+      "render": "pages/052.jpg",
+      "render_sha256": "d4730352fc53593bad12d6943e774607465bb52e4f58b5731d98bff070f83ec5",
+      "status": "VISUALLY_REVIEWED",
+      "note": "کادر مستقل طبقه‌بندی transversospinales و عصب/اتصالات؛ مرز قاب سالم."
+    },
+    {
+      "page": 53,
+      "render": "pages/053.jpg",
+      "render_sha256": "579a317233d2590f04b199a5e564cc29fb136c6548e8f3a867f57cbcb4b39f6c",
+      "status": "VISUALLY_REVIEWED",
+      "note": "مثلث و شکل جزوه PDF۱۹؛ کف و غشای خلفی در شکل."
+    },
+    {
+      "page": 54,
+      "render": "pages/054.jpg",
+      "render_sha256": "579c89c87c7c27ca5c10b5c6a5670eebc846ad3961735c0da5ef2d43479cfdda",
+      "status": "VISUALLY_REVIEWED",
+      "note": "دو زیرنمای جزوه PDF۲۰ و جدول مستقل مرز/کف/محتوا."
+    },
+    {
+      "page": 55,
+      "render": "pages/055.jpg",
+      "render_sha256": "bd636b1863fe2cf774c7b1b31bbf93b3b31dbc1c84541ceeb53829026365d5c8",
+      "status": "VISUALLY_REVIEWED",
+      "note": "شکل کامل۲.۴۶ گری و کادر C1/شریان؛ جدول مرجع زیر شکل عمداً وارد crop نشده."
+    },
+    {
+      "page": 56,
+      "render": "pages/056.jpg",
+      "render_sha256": "018b45991aab0e97a5c79e9e02b6fc55009528c51214f9f491e0c396beac5329",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نتر۱۹۹ کامل؛ C1/C2 و شریان مهره‌ای؛ ریزنام‌ها با زوم."
+    },
+    {
+      "page": 57,
+      "render": "pages/057.jpg",
+      "render_sha256": "c30b4955a6c7d8a5e7c0af80ad08e972cd9c47a8102c19d9c28920f94e9b2934",
+      "status": "VISUALLY_REVIEWED",
+      "note": "یادداشت و تحویل آخر؛ فضای سفید عمدی، صفحه خالی نیست."
+    },
+    {
+      "page": 58,
+      "render": "pages/058.jpg",
+      "render_sha256": "394bb854877f83ea446e94dcab14c9fc022365aca01bab884d41d733ce6df50c",
+      "status": "VISUALLY_REVIEWED",
+      "note": "چک‌لیست و موضوع‌های جلسهٔ۷؛ bullet خالی نسخهٔ آزمایشی رفع شده."
+    },
+    {
+      "page": 59,
+      "render": "pages/059.jpg",
+      "render_sha256": "67aed96cbc9899633a0dc47ff45241426f0e387fc0235598d65b5da3e9f5a386",
+      "status": "VISUALLY_REVIEWED",
+      "note": "نقشهٔ۱۳ جلسه؛ قبل/همین/بعد درست، هشدار نبود داوری متخصص."
+    },
+    {
+      "page": 60,
+      "render": "pages/060.jpg",
+      "render_sha256": "2273726445facc4587bb39c0806558b490d8d56de40216f6460e52cb2eb21f12",
+      "status": "VISUALLY_REVIEWED",
+      "note": "پشت جلد؛ پایان سالم سند."
+    }
+  ],
+  "render_recipe": {
+    "scale": 1.45,
+    "quality": 90
+  },
+  "renderer_versions": {
+    "pymupdf": "2.0",
+    "pillow": "13.0.0"
+  },
+  "render_storage": "Exact viewed JPEG hashes and deterministic recipes are committed; duplicate page rasters are reproducible under .cache, not stored in Git."
+}

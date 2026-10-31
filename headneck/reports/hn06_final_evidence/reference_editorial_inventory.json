@@ -1,0 +1,578 @@
+{
+  "final_pdf_sha256": "d05692679a604d622dd43dc6b87ef1d985e968d06df85fd3926f572b80721204",
+  "method": "Actual read_file review of selected page images; no claim of exhaustive atlas search or every microscopic label.",
+  "sources": [
+    {
+      "file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd"
+    },
+    {
+      "file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a"
+    },
+    {
+      "file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+      "sha256": "58e98628520ee6be03e70a316a0149381ae7648ad7ea537f0be4157bdb2927fa"
+    }
+  ],
+  "pages": [
+    {
+      "book": "netter",
+      "source_pdf_page": 105,
+      "printed_page": null,
+      "plate": 53,
+      "note": "نتر۵۳؛ درج کامل",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_105.jpg",
+      "source_render_sha256": "d3c2877028ce141532e6e4156d6bd67813a0c02d1b07fa760dd733b9fac1bcdf",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 105,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 106,
+      "printed_page": null,
+      "plate": 54,
+      "note": "نتر۵۴؛ درج کامل",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_106.jpg",
+      "source_render_sha256": "6b2acfcdf8983cb5eed49e78bd83b7557816f7dc23c0944917f2388db153c876",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 106,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 107,
+      "printed_page": null,
+      "plate": 55,
+      "note": "نتر۵۵؛ درج کامل",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_107.jpg",
+      "source_render_sha256": "474c3671164304a5537aed296d0cb0715d59d9f56af5cc8ba9d6623e9d1e631f",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 107,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 109,
+      "printed_page": null,
+      "plate": 57,
+      "note": "نتر۵۷؛ فقط طرح بالایی آنسا/ریشه‌ها درج، نمای تشریحی پایین برای جهت‌یابی دیده ولی برای پرهیز از تکرار درج نشده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_109.jpg",
+      "source_render_sha256": "07ebb5880d5910ebcb2e9d34a2fbdf8e16de77f98ca13e436b21c6c1d2ed88f0",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 109,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 281,
+      "printed_page": null,
+      "plate": 195,
+      "note": "نتر۱۹۵؛ قاب کامل، دو جایگاه عمدی موضوع۸و۹",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_281.jpg",
+      "source_render_sha256": "0b23427398273e8d03305320a8bde3d780969b32ac3e4868c4139dfab2a9487d",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 281,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 282,
+      "printed_page": null,
+      "plate": 196,
+      "note": "نتر۱۹۶؛ لایهٔ میانی دیده؛ برای این جلسه انتخاب نشده، نه اینکه نامرتبط یا بررسی‌نشده باشد.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_282.jpg",
+      "source_render_sha256": "8621cc413a4e34c3c9b52757eb883b25b9155ce3d912cbbb57067c3c90bd74b3",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 282,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 283,
+      "printed_page": null,
+      "plate": 197,
+      "note": "نتر۱۹۷؛ کامل درج، تمرکز گردنی",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_283.jpg",
+      "source_render_sha256": "eb8a80980aebc81a6cb3e61362fa3fbc07a5b6254b65bfb48af401c5e53f083f",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 283,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 284,
+      "printed_page": null,
+      "plate": 198,
+      "note": "نتر۱۹۸؛ اعصاب پشت دیده؛ نمای اختصاصی گردن پلیت۱۹۹ ترجیح داده شد.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_284.jpg",
+      "source_render_sha256": "9dec2e6af85b68c7c1beac783f2e5a1ef96ca1d3f1961a7a4969d11bf2760621",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 284,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "netter",
+      "source_pdf_page": 285,
+      "printed_page": null,
+      "plate": 199,
+      "note": "نتر۱۹۹؛ عصب C1/C2 و شریان درج",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/netter_285.jpg",
+      "source_render_sha256": "3f5286fec5ec9ed8d616d59a9406c7e9d7a52cacdeaee764de3226b47c733b14",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+        "pdf_page": 285,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_neck",
+      "source_pdf_page": 35,
+      "printed_page": 1007,
+      "plate": null,
+      "note": "چاپی۱۰۰۷؛ جدول۸.۱۲، مبدأ/انتها/اعصاب؛ مرجع متن، تصویر جدول درج نشده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_neck_35.jpg",
+      "source_render_sha256": "03c0d9a28c84029d810c4de06b677e3ded97f43fb2d2209c035791128cf308f6",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+        "pdf_page": 35,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_neck",
+      "source_pdf_page": 36,
+      "printed_page": 1008,
+      "plate": null,
+      "note": "چاپی۱۰۰۸؛ شکل۸.۱۶۳ A و B هر دو درج",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_neck_36.jpg",
+      "source_render_sha256": "c2a9e5b5909d971481159735442835f16e784e9a39099aeeee0d76a77a224ca3",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+        "pdf_page": 36,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_neck",
+      "source_pdf_page": 37,
+      "printed_page": 1009,
+      "plate": null,
+      "note": "چاپی۱۰۰۹؛ شکل۸.۱۶۴ درج و متن اوموهایوئید مقایسه",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_neck_37.jpg",
+      "source_render_sha256": "7155f699fca3a7088daa3985f936f845097faf2c2ad8dc4ca5068aa20d34cba3",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+        "pdf_page": 37,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_neck",
+      "source_pdf_page": 38,
+      "printed_page": 1010,
+      "plate": null,
+      "note": "چاپی۱۰۱۰؛ تیروهایوئید با hyoid ثابت و مثال high notes؛ مرجع متن، شکل جدیدی برای درج ندارد.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_neck_38.jpg",
+      "source_render_sha256": "2722efdd9ba9111fa8d5bb2a2fca3466a728870a07c9d516e0ed793e8a50c9ed",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+        "pdf_page": 38,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_neck",
+      "source_pdf_page": 56,
+      "printed_page": 1028,
+      "plate": null,
+      "note": "چاپی۱۰۲۸؛ شکل۸.۱۸۴ شبکه گردنی؛ دیده، طرح نتر۵۷ برای درج ترجیح داده شد.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_neck_56.jpg",
+      "source_render_sha256": "80e71319a5ed765d53141597a65da15d3c7c38c4710892d747af22f5752aa2c5",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+        "pdf_page": 56,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_neck",
+      "source_pdf_page": 57,
+      "printed_page": 1029,
+      "plate": null,
+      "note": "چاپی۱۰۲۹؛ شکل۸.۱۸۵ و جدول۸.۱۶ هر دو جدا و کامل درج",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_neck_57.jpg",
+      "source_render_sha256": "cdc645c7fb6f90ced0903e06372c16bd6d9483b165096588c306bbf8bd4a5f86",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+        "pdf_page": 57,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_neck",
+      "source_pdf_page": 58,
+      "printed_page": 1030,
+      "plate": null,
+      "note": "چاپی۱۰۳۰؛ شکل۸.۱۸۶ شبکهٔ گردنی، دیده و برای جلوگیری از تکرار درج نشده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_neck_58.jpg",
+      "source_render_sha256": "63c9cdc7735aa4ee445648a67e62c13c8e700699c58893a1889b981c3cd0819b",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+        "pdf_page": 58,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 85,
+      "printed_page": 57,
+      "plate": null,
+      "note": "۵۷؛ مقدمهٔ عضلات ذاتی و شاخه‌های خلفی؛ پشتوانهٔ مفهومی، شکل درج نشده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_85.jpg",
+      "source_render_sha256": "bbf723bbd6f9f3cf03437bbc61d01acd9fbd99c6e06aed1ddad8c474f5d45b57",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 85,
+        "scale": 1.35,
+        "quality": 90
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 95,
+      "printed_page": 67,
+      "plate": null,
+      "note": "۶۷؛ زمینهٔ اسکلتی، صفحهٔ اکتشافی دیده‌شده؛ مبنای اصلاح اتصال عضله نیست و درج نشده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_95.jpg",
+      "source_render_sha256": "019e4228afa96581708c05553a1a20dad9744682189b5c554a817e889d33a6cf",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 95,
+        "scale": 1.35,
+        "quality": 90
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 108,
+      "printed_page": 80,
+      "plate": null,
+      "note": "۸۰؛ رباط‌های پشت، زمینهٔ اکتشافی دیده‌شده؛ درج نشده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_108.jpg",
+      "source_render_sha256": "a80d3baae58ad941941d04573810727ca1063c254503575d2df687f982eacea9",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 108,
+        "scale": 1.5,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 112,
+      "printed_page": 84,
+      "plate": null,
+      "note": "۸۴؛ دسته‌بندی عضلات پشت؛ پشتوانهٔ تفکیک لایهٔ موضعی از گروه‌بندی کل پشت.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_112.jpg",
+      "source_render_sha256": "2263e7f31f0b2d555d4e57e9d76e9804f72e02bf4c37d79dad6e4e70ddd912bf",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 112,
+        "scale": 1.5,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 113,
+      "printed_page": 85,
+      "plate": null,
+      "note": "۸۵؛ شکل۲.۳۶ سطحی، دیده؛ نتر۱۹۵ به جای تکرار درج شده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_113.jpg",
+      "source_render_sha256": "6131b1b4ce1c2393421a4c82170dce1cf11d8a2a38f754216caac24025691547",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 113,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 114,
+      "printed_page": 86,
+      "plate": null,
+      "note": "۸۶؛ شکل۲.۳۷ اتصالات، دیده؛ نتر۱۹۵ انتخاب شد.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_114.jpg",
+      "source_render_sha256": "ff3c6adc46db5d67a175bed3512a2a7874a14377f4f2c6db9742c9b98e7377db",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 114,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 115,
+      "printed_page": 87,
+      "plate": null,
+      "note": "۸۷؛ تراپزیوس XI و C3/C4 و شکل۲.۳۸؛ متن مرجع، شکل تکراری درج نشده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_115.jpg",
+      "source_render_sha256": "c47cb272551418689bfd76466e60fa70ede8544f52a55007728af6c5ff08ea6a",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 115,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 116,
+      "printed_page": 88,
+      "plate": null,
+      "note": "۸۸؛ شکل۲.۳۹ لواتور/رومبوئید؛ دیده، نمای جزوه و نتر۱۹۵ انتخاب شده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_116.jpg",
+      "source_render_sha256": "219a7cb624b17b88ed726a656568743b070ceb17edca3bed4e602506ddb9fe82",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 116,
+        "scale": 1.5,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 117,
+      "printed_page": 89,
+      "plate": null,
+      "note": "۸۹؛ جدول۲.۱ تراپزیوس و لواتور؛ پشتوانهٔ اتصالات و اعصاب، جدول در متن مستقل خلاصه شد.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_117.jpg",
+      "source_render_sha256": "5ad7591da56c5f4f1ba8abbde01ae9c8ff6aeb08e55b721e361e2b1b56301f72",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 117,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 120,
+      "printed_page": 92,
+      "plate": null,
+      "note": "۹۲؛ عضلات عمقی و spinotransversales؛ دسته‌بندی مرجع.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_120.jpg",
+      "source_render_sha256": "7a96e68390d4cd5b23078b18c87eeecd5447d0975e1ffd6865d8f04d673b11e9",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 120,
+        "scale": 1.5,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 121,
+      "printed_page": 94,
+      "plate": null,
+      "note": "۹۴؛ شکل۲.۴۴، erector؛ دیده، نه جدول اسپلنیوس؛ ترتیب چاپی این دو صفحه جابه‌جاست.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_121.jpg",
+      "source_render_sha256": "4d9b79ba0f21abc3eb13407f0eb4ec8fe5106627b3f02ef1d43cf05e943cedda",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 121,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 122,
+      "printed_page": 93,
+      "plate": null,
+      "note": "۹۳؛ شکل۲.۴۳/جدول۲.۳؛ اسپلنیوس، پشتوانهٔ اصلاح مبدأ/انتها. ارجاع آزمایشی۱۲۱ پس از بازبینی به۱۲۲ اصلاح شد.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_122.jpg",
+      "source_render_sha256": "69361f0623de621a728f391cb95f451fe0fb80b7b194cfe3ab315aa808e4b10c",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 122,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 123,
+      "printed_page": 95,
+      "plate": null,
+      "note": "۹۵؛ جدول۲.۴ erector؛ دیده، مبنای مقایسه با transversospinales.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_123.jpg",
+      "source_render_sha256": "61204e0882ee2acf7832541f774b5f36e58153da3f53eb660e4a2b903e07fe00",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 123,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 124,
+      "printed_page": 96,
+      "plate": null,
+      "note": "۹۶؛ شکل۲.۴۵ عضلات عمقی؛ دیده، قاب نتر۱۹۷/گری۲.۴۶ انتخاب شدند.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_124.jpg",
+      "source_render_sha256": "5856a8f107b12a34bc020879ffc3a68adf9a973535f90123909d6b75de3fe7ba",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 124,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 125,
+      "printed_page": 97,
+      "plate": null,
+      "note": "۹۷؛ جدول۲.۵ سمی‌اسپاینالیس؛ اختلاف توصیف جهت چرخش با حکم کلی همان متن مانع اصلاح قطعی جهت بر این اساس است؛ محور اصلاح O/I است.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_125.jpg",
+      "source_render_sha256": "2da5db02a9b06337df421fe4e3f254cd2d1de30136a402c9dc76d3378bb434ba",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 125,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 126,
+      "printed_page": 98,
+      "plate": null,
+      "note": "۹۸؛ شکل۲.۴۶ درج و جدول۲.۷ چهار زیرپس‌سری برای اتصال/عمل/C1 مقایسه؛ تصویر جدول درج نشده چون جدول آموزشی مستقل موجود است.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_126.jpg",
+      "source_render_sha256": "fe1c57acba31c7baf772d34f0c4a8d462ac4414219b467b800561ad1c0013936",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 126,
+        "scale": 1.6,
+        "quality": 92
+      }
+    },
+    {
+      "book": "gray_back",
+      "source_pdf_page": 127,
+      "printed_page": 99,
+      "plate": null,
+      "note": "۹۹؛ ادامهٔ محتویات مثلث C1/شریان/وریدها؛ نخاع مبحث این جلسه نیست، شکل۲.۴۷ درج نشده.",
+      "status": "ACTUALLY_VIEWED",
+      "source_render": "atlas/gray_back_127.jpg",
+      "source_render_sha256": "905fc39944fb663ff3007a8fe4f6d0fb0bd27339f19a4d2fb4e2d9d5661d313d",
+      "render_recipe": {
+        "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+        "pdf_page": 127,
+        "scale": 1.6,
+        "quality": 92
+      }
+    }
+  ],
+  "excluded_pages": [
+    {
+      "book": "netter",
+      "pdf_pages": [
+        111,
+        112
+      ],
+      "status": "VIEWED_EXCLUDED",
+      "reason": "بینی/صورت، نه مرجع عضلات این جلسه"
+    },
+    {
+      "book": "netter",
+      "pdf_pages": [
+        286,
+        287
+      ],
+      "status": "RENDERED_NOT_VIEWED_NOT_USED",
+      "reason": "کمری/سینه‌ای؛ ادعای مشاهده نداریم"
+    },
+    {
+      "book": "gray_back",
+      "pdf_pages": [
+        65,
+        75
+      ],
+      "status": "RENDERED_NOT_VIEWED_NOT_USED",
+      "reason": "فقط جست‌وجوی اولیه؛ ادعای مشاهده نداریم"
+    }
+  ],
+  "render_storage": "Reproducible JPEG byte hashes/recipes, not a committed duplicate raster dataset."
+}

@@ -1,0 +1,648 @@
+{
+  "sha256": "d05692679a604d622dd43dc6b87ef1d985e968d06df85fd3926f572b80721204",
+  "pages": 60,
+  "bytes": 9553464,
+  "baseline_pdf_sha256": "fd92b99026629cff963965eea6d5b8546f6b9eff6f91b48a958cd8fdf37dd50f",
+  "errors": [],
+  "outside_spans": [],
+  "fonts": [
+    {
+      "xref": 7,
+      "name": "Helvetica",
+      "type": "Type1",
+      "embedded_bytes": 0
+    },
+    {
+      "xref": 8,
+      "name": "AAAAAA+Vazirmatn-Medium",
+      "type": "TrueType",
+      "embedded_bytes": 17380
+    },
+    {
+      "xref": 12,
+      "name": "AAAAAA+Vazirmatn-Bold",
+      "type": "TrueType",
+      "embedded_bytes": 21864
+    },
+    {
+      "xref": 16,
+      "name": "AAAAAA+Vazirmatn-Regular",
+      "type": "TrueType",
+      "embedded_bytes": 24436
+    },
+    {
+      "xref": 20,
+      "name": "AAAAAA+Vazirmatn-Light",
+      "type": "TrueType",
+      "embedded_bytes": 14380
+    },
+    {
+      "xref": 24,
+      "name": "AAAAAA+DejaVuSans",
+      "type": "TrueType",
+      "embedded_bytes": 35888
+    },
+    {
+      "xref": 28,
+      "name": "AAAAAA+DejaVuSans-Bold",
+      "type": "TrueType",
+      "embedded_bytes": 35188
+    }
+  ],
+  "figures": [
+    {
+      "output_page": 7,
+      "topic": "hn06-T01",
+      "asset": "headneck/images/hn06_lecture_p02_1.jpeg",
+      "asset_sha256": "87f64096c07e61493a42287f7df91c1de03e1ba722288e4fab2e7df440a8d027",
+      "output_pages": [
+        7
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 2,
+      "bbox": [
+        54.0,
+        341.99,
+        533.5,
+        611.74
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 2 از فایل PDF"
+    },
+    {
+      "output_page": 8,
+      "topic": "hn06-T01",
+      "asset": "headneck/images/hn06_u_hyoid.jpeg",
+      "asset_sha256": "b09716ee33b093f28c96e8a2b37f8f9611b8465a763dcf3c75ee4369bab734e7",
+      "output_pages": [
+        8
+      ],
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 105,
+      "bbox": [
+        45,
+        185,
+        590,
+        630
+      ],
+      "citation": "نتر، پلیت 53، صفحهٔ واقعی PDF 105"
+    },
+    {
+      "output_page": 11,
+      "topic": "hn06-T02",
+      "asset": "headneck/images/hn06_lecture_p03_1.jpeg",
+      "asset_sha256": "041fd0bb5aada1ebb1ee79480d45846682e058a6b872b2f497edffa359fe5cb9",
+      "output_pages": [
+        11
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 3,
+      "bbox": [
+        36.5,
+        486.52,
+        266.5,
+        640.02
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 3 از فایل PDF"
+    },
+    {
+      "output_page": 12,
+      "topic": "hn06-T02",
+      "asset": "headneck/images/hn06_u_infrahyoid.jpeg",
+      "asset_sha256": "4a11bd32c1becd57d42971847b52ee981ead2fd3b2b446406cd94fd22fad9661",
+      "output_pages": [
+        12
+      ],
+      "book": "grays",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "source_pdf_page": 37,
+      "bbox": [
+        50,
+        282,
+        562,
+        740
+      ],
+      "citation": "گری، شکل۸.۱۶۴، چاپی 1009، صفحهٔ واقعی PDF 37 از بخش ۱۰۰۱–۱۱۸۹"
+    },
+    {
+      "output_page": 13,
+      "topic": "hn06-T02",
+      "asset": "headneck/images/hn06_u_plexus.jpeg",
+      "asset_sha256": "6a0bbd74abe4ec0bee7b27c70f89bd7e9d68eeab36ab3f548727147f21244fa3",
+      "output_pages": [
+        13
+      ],
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 109,
+      "bbox": [
+        45,
+        90,
+        595,
+        398
+      ],
+      "citation": "نتر، پلیت 57، صفحهٔ واقعی PDF 109"
+    },
+    {
+      "output_page": 15,
+      "topic": "hn06-T03",
+      "asset": "headneck/images/hn06_lecture_p04_1.jpeg",
+      "asset_sha256": "c85e7b5b1ffb191b944175833eed66ac8974607bd8dab67f23bc07f10f14718d",
+      "output_pages": [
+        15
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 4,
+      "bbox": [
+        72.0,
+        333.87,
+        539.75,
+        640.47
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 4 از فایل PDF"
+    },
+    {
+      "output_page": 19,
+      "topic": "hn06-T04",
+      "asset": "headneck/images/hn06_lecture_p07_1.jpeg",
+      "asset_sha256": "56a57c89c3e4fc9cb17f47b366c5fe5e192b658eecd4e254030df1ed17814c6e",
+      "output_pages": [
+        19
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 7,
+      "bbox": [
+        23.0,
+        383.52,
+        319.0,
+        640.17
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 7 از فایل PDF"
+    },
+    {
+      "output_page": 20,
+      "topic": "hn06-T04",
+      "asset": "headneck/images/hn06_u_lateral.jpeg",
+      "asset_sha256": "ec89ef760f7d91f80b3fd25f65f41a6d55df60c50444fac693118f35f1bef1fe",
+      "output_pages": [
+        20
+      ],
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 106,
+      "bbox": [
+        45,
+        90,
+        595,
+        725
+      ],
+      "citation": "نتر، پلیت 54، صفحهٔ واقعی PDF 106"
+    },
+    {
+      "output_page": 23,
+      "topic": "hn06-T05",
+      "asset": "headneck/images/hn06_u_suprahyoid.jpeg",
+      "asset_sha256": "9daf387049831cff22061213ad4ded9c708fb039fe03483459f4b48a17f66968",
+      "output_pages": [
+        23
+      ],
+      "book": "grays",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "source_pdf_page": 36,
+      "bbox": [
+        55,
+        323,
+        308,
+        740
+      ],
+      "citation": "گری، شکل۸.۱۶۳، چاپی 1008، صفحهٔ واقعی PDF 36 از بخش ۱۰۰۱–۱۱۸۹"
+    },
+    {
+      "output_page": 24,
+      "topic": "hn06-T05",
+      "asset": "headneck/images/hn06_lecture_p09_1.jpeg",
+      "asset_sha256": "3ebf6bd81e642abb5401b93c8be993890dcfab5d7c2a9a0fd9e0f1bd712dd667",
+      "output_pages": [
+        24
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 9,
+      "bbox": [
+        72.0,
+        72.0,
+        539.25,
+        334.55
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 9 از فایل PDF"
+    },
+    {
+      "output_page": 27,
+      "topic": "hn06-T06",
+      "asset": "headneck/images/hn06_lecture_p11_1.jpeg",
+      "asset_sha256": "a96ee0ca0f4e8a0cf32c41ce3d9e569471af3ad6f3748a45498f3209d31b345c",
+      "output_pages": [
+        27
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 11,
+      "bbox": [
+        62.2,
+        72.0,
+        501.05,
+        398.4
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 11 از فایل PDF"
+    },
+    {
+      "output_page": 28,
+      "topic": "hn06-T06",
+      "asset": "headneck/images/hn06_u_prevertebral.jpeg",
+      "asset_sha256": "872f63ec40b8e023661e2f4f6fa38077ee4925449e668e8483af956ea9a09be5",
+      "output_pages": [
+        28
+      ],
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 107,
+      "bbox": [
+        45,
+        85,
+        595,
+        720
+      ],
+      "citation": "نتر، پلیت 55، صفحهٔ واقعی PDF 107"
+    },
+    {
+      "output_page": 31,
+      "topic": "hn06-T06",
+      "asset": "headneck/images/hn06_u_prevertebral_table.jpeg",
+      "asset_sha256": "4bdbb8acd806d582b1c6e74a6f062e8a85fe92642c7d023706644a3b56f74dcf",
+      "output_pages": [
+        31
+      ],
+      "book": "grays",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "source_pdf_page": 57,
+      "bbox": [
+        50,
+        520,
+        562,
+        742
+      ],
+      "citation": "گری، جدول۸.۱۶، چاپی 1029، صفحهٔ واقعی PDF 57 از بخش ۱۰۰۱–۱۱۸۹"
+    },
+    {
+      "output_page": 33,
+      "topic": "hn06-T07",
+      "asset": "headneck/images/hn06_u_gray_prevertebral.jpeg",
+      "asset_sha256": "e70f278f4acfdba0adf4f94040ce901bb901c417f6110323caf200adec920182",
+      "output_pages": [
+        33
+      ],
+      "book": "grays",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "source_pdf_page": 57,
+      "bbox": [
+        50,
+        60,
+        562,
+        505
+      ],
+      "citation": "گری، شکل۸.۱۸۵، چاپی 1029، صفحهٔ واقعی PDF 57 از بخش ۱۰۰۱–۱۱۸۹"
+    },
+    {
+      "output_page": 36,
+      "topic": "hn06-T08",
+      "asset": "headneck/images/hn06_lecture_p14_1.jpeg",
+      "asset_sha256": "dea521b2b8058e75d41ff249914a4e77e4b03d63a5dabf9b3171ed929eb6056c",
+      "output_pages": [
+        36
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 14,
+      "bbox": [
+        31.0,
+        331.49,
+        332.3,
+        596.99
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 14 از فایل PDF"
+    },
+    {
+      "output_page": 37,
+      "topic": "hn06-T08",
+      "asset": "headneck/images/hn06_lecture_p15_1.jpeg",
+      "asset_sha256": "70f1790b74dda50cc971aaa9a8a5b8c81ccf964765512a122c957894a8713cc7",
+      "output_pages": [
+        37
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 15,
+      "bbox": [
+        44.0,
+        135.0,
+        248.5,
+        206.5
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 15 از فایل PDF"
+    },
+    {
+      "output_page": 38,
+      "topic": "hn06-T08",
+      "asset": "headneck/images/hn06_lecture_p15_2.jpeg",
+      "asset_sha256": "11f17f495cba00113e52d2c753aec404580f1a83f1894649cefb28cf9d507546",
+      "output_pages": [
+        38
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 15,
+      "bbox": [
+        33.0,
+        209.5,
+        332.0,
+        442.5
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 15 از فایل PDF"
+    },
+    {
+      "output_page": 39,
+      "topic": "hn06-T08",
+      "asset": "headneck/images/hn06_lecture_p15_3.jpeg",
+      "asset_sha256": "3a0813ff95a08e1d60e4f52f0368d9ff6deb35a8e5217ec33b36ee407e9fd024",
+      "output_pages": [
+        39
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 15,
+      "bbox": [
+        71.5,
+        440.98,
+        260.0,
+        707.23
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 15 از فایل PDF"
+    },
+    {
+      "output_page": 40,
+      "topic": "hn06-T08",
+      "asset": "headneck/images/hn06_u_posterior_superficial.jpeg",
+      "asset_sha256": "201b2faa4cba283c7146458a95c9b26d9db60893724fd85f6577b3491780d54b",
+      "output_pages": [
+        40,
+        46
+      ],
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 281,
+      "bbox": [
+        45,
+        85,
+        595,
+        720
+      ],
+      "citation": "نتر، پلیت 195، صفحهٔ واقعی PDF 281"
+    },
+    {
+      "output_page": 43,
+      "topic": "hn06-T09",
+      "asset": "headneck/images/hn06_lecture_p16_1.jpeg",
+      "asset_sha256": "856f379c11752d533703a9978e6c5f39c0192d9dda330f4e3553325a9abceca8",
+      "output_pages": [
+        43
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 16,
+      "bbox": [
+        72.0,
+        93.4,
+        540.0,
+        313.65
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 16 از فایل PDF"
+    },
+    {
+      "output_page": 45,
+      "topic": "hn06-T09",
+      "asset": "headneck/images/hn06_lecture_p17_1.jpeg",
+      "asset_sha256": "bb77ead2d87fde15fcdc40235aaf93b1880e59ea6f84e9ff1af5f631b03013ae",
+      "output_pages": [
+        45
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 17,
+      "bbox": [
+        72.0,
+        233.59,
+        540.0,
+        402.09
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 17 از فایل PDF"
+    },
+    {
+      "output_page": 46,
+      "topic": "hn06-T09",
+      "asset": "headneck/images/hn06_u_posterior_superficial.jpeg",
+      "asset_sha256": "201b2faa4cba283c7146458a95c9b26d9db60893724fd85f6577b3491780d54b",
+      "output_pages": [
+        40,
+        46
+      ],
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 281,
+      "bbox": [
+        45,
+        85,
+        595,
+        720
+      ],
+      "citation": "نتر، پلیت 195، صفحهٔ واقعی PDF 281"
+    },
+    {
+      "output_page": 48,
+      "topic": "hn06-T10",
+      "asset": "headneck/images/hn06_lecture_p18_1.jpeg",
+      "asset_sha256": "d6bc06b3f010401b9dbf81f595fe0ef5bd79f17333ebf3693b461e362e8ff303",
+      "output_pages": [
+        48
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 18,
+      "bbox": [
+        72.0,
+        72.0,
+        539.5,
+        295.5
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 18 از فایل PDF"
+    },
+    {
+      "output_page": 49,
+      "topic": "hn06-T10",
+      "asset": "headneck/images/hn06_lecture_p19_1.jpeg",
+      "asset_sha256": "9772cb5be2f84a66449ee4bdfa019b85da309c68b2faf94686914048d7786ac8",
+      "output_pages": [
+        49
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 19,
+      "bbox": [
+        35.0,
+        197.49,
+        301.0,
+        453.49
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 19 از فایل PDF"
+    },
+    {
+      "output_page": 50,
+      "topic": "hn06-T10",
+      "asset": "headneck/images/hn06_u_posterior_deep.jpeg",
+      "asset_sha256": "23683a8b97c3b7a993cac56918607a7dc02740cc0ffb0442c2c224efe9619e9c",
+      "output_pages": [
+        50
+      ],
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 283,
+      "bbox": [
+        45,
+        85,
+        595,
+        720
+      ],
+      "citation": "نتر، پلیت 197، صفحهٔ واقعی PDF 283"
+    },
+    {
+      "output_page": 53,
+      "topic": "hn06-T11",
+      "asset": "headneck/images/hn06_lecture_p19_2.jpeg",
+      "asset_sha256": "7ba0ad350d896fb47c025271a0fcfe784ce37d2bcc75e4b4436893466c6f128e",
+      "output_pages": [
+        53
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 19,
+      "bbox": [
+        33.5,
+        509.01,
+        292.0,
+        713.61
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 19 از فایل PDF"
+    },
+    {
+      "output_page": 54,
+      "topic": "hn06-T11",
+      "asset": "headneck/images/hn06_lecture_p20_1.jpeg",
+      "asset_sha256": "f12ee24b64b56b42297073e4cdad822db8eea8e14a8fcfdfdececc195e3259d8",
+      "output_pages": [
+        54
+      ],
+      "book": "lecture",
+      "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 20,
+      "bbox": [
+        72.0,
+        72.0,
+        540.0,
+        224.4
+      ],
+      "citation": "جزوهٔ جلسهٔ ۶، ص 20 از فایل PDF"
+    },
+    {
+      "output_page": 55,
+      "topic": "hn06-T11",
+      "asset": "headneck/images/hn06_u_gray_triangle.jpeg",
+      "asset_sha256": "72be246615f8891bd32c732ecbacd9bf5a18467509d68df3eca9946ffe53224e",
+      "output_pages": [
+        55
+      ],
+      "book": "grays",
+      "source_file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+      "source_pdf_page": 126,
+      "bbox": [
+        55,
+        65,
+        565,
+        380
+      ],
+      "citation": "گری، شکل۲.۴۶، چاپی 98، صفحهٔ واقعی PDF 126 از بخش ۱–۲۰۰"
+    },
+    {
+      "output_page": 56,
+      "topic": "hn06-T11",
+      "asset": "headneck/images/hn06_u_suboccipital.jpeg",
+      "asset_sha256": "a32682e4ac9ad08f1fbc2f44b0c122f8e018c09a5df73f76ce956fb497f91d16",
+      "output_pages": [
+        56
+      ],
+      "book": "netter",
+      "source_file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 285,
+      "bbox": [
+        45,
+        110,
+        595,
+        711
+      ],
+      "citation": "نتر، پلیت 199، صفحهٔ واقعی PDF 285"
+    }
+  ],
+  "content": [
+    {
+      "file": "headneck/content/hn06_a.json",
+      "sha256": "0d1fe2bd731e2b62fda9e6f9c8964560febf1e9241aeb633fbb47e33253a1d3d"
+    },
+    {
+      "file": "headneck/content/hn06_b.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "file": "headneck/content/hn06_transcription.json",
+      "sha256": "e6e62303d67a72a81f3bb0fcbfa0e581751fff3e2cb3cb7f3891d9345f477d84"
+    },
+    {
+      "file": "headneck/content/hn06_update.json",
+      "sha256": "c692ca3dcbf10c2bcf21952a6070c2a2e005ec424f60f28b2d2b8820138ca0ff"
+    },
+    {
+      "file": "headneck/content/outline/hn06_topics.json",
+      "sha256": "cbd03093ee1853b1e4feda23a9e943e97dd0065f20103a373d71b470a0820b76"
+    }
+  ],
+  "sources": [
+    {
+      "file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1-200.pdf",
+      "sha256": "58e98628520ee6be03e70a316a0149381ae7648ad7ea537f0be4157bdb2927fa"
+    },
+    {
+      "file": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+      "sha256": "f09e4eda87607f25f04b278ed662640e6d7f8da144d22ce27abe1c6a2d234a1a"
+    },
+    {
+      "file": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd"
+    },
+    {
+      "file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "sha256": "0feed951453e52eab2b17b3195893477b22067da9d37fe502eab7c497870bc48"
+    }
+  ],
+  "manual_review": "NOT_INFERRED_BY_THIS_SCRIPT"
+}

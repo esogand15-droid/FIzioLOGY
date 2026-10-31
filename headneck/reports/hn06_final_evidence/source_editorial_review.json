@@ -1,0 +1,291 @@
+{
+  "final_pdf_sha256": "d05692679a604d622dd43dc6b87ef1d985e968d06df85fd3926f572b80721204",
+  "file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+  "source_sha256": "0feed951453e52eab2b17b3195893477b22067da9d37fe502eab7c497870bc48",
+  "method": "All original pages actually viewed; content pages 2–20 compared with typed baseline in a separate editorial pass by the same agent. Structural equality tests are not that comparison; no external human expert certification.",
+  "unresolved_major_literal_omissions": [],
+  "limitations": "No claim of zero minor spelling/punctuation errors. Scientific errors in the source remain verbatim and are discussed separately.",
+  "source_pages": [
+    {
+      "source_pdf_page": 1,
+      "printed_page": null,
+      "status": "COVER_VIEWED_NOT_TRANSCRIBED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/01.jpg",
+      "source_render_sha256": "68c7557bc392a666de72fa878da575f98505e63b936330608167db036808e304",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 1,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 2,
+      "printed_page": 1,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/02.jpg",
+      "source_render_sha256": "68ea894028e5c6a8d34d10bcc10cca02d51396e5d024e97e72a2f10761a5bcb1",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 2,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 3,
+      "printed_page": 2,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/03.jpg",
+      "source_render_sha256": "2bb08d9a4d291816a6c30d76631c8e2496034eb73d89d1664d093a720a25664a",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 3,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 4,
+      "printed_page": 3,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "«فقط C1» با گری کل عضله/نتر مسیر شاخه تفکیک شد؛ نقل عوض نشد.",
+      "source_render": "source/04.jpg",
+      "source_render_sha256": "cee19a9fe54cf740beda1b417426e490ab82059d57b83934629a50394fd36947",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 4,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 5,
+      "printed_page": 4,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "استرنوتیروئید/ترقوه و مثال high notes جدا توضیح داده شدند.",
+      "source_render": "source/05.jpg",
+      "source_render_sha256": "917d6ecaea9a613bef4a9bd6a8d4683f292c2d7eb0a1ba9a027660e2493d7d40",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 5,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 6,
+      "printed_page": 5,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/06.jpg",
+      "source_render_sha256": "c405cfaa4c3e1b6e433bf57eba638986d83a15c1e7d7d64fd65d70c67bd6702e",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 6,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 7,
+      "printed_page": 6,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/07.jpg",
+      "source_render_sha256": "203a4eb231722b67fc2597b478566818610f302d0869744f5bac66ece177c0a3",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 7,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 8,
+      "printed_page": 7,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "شاخهٔ سرویکال VII و عبارت حرکتی خالص حفظ؛ توضیح مستقل.",
+      "source_render": "source/08.jpg",
+      "source_render_sha256": "fbaed21af27dba9e4d888c8374a53bb7ed96dab30580c1ec5325951fbaed6c2e",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 8,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 9,
+      "printed_page": 8,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/09.jpg",
+      "source_render_sha256": "2f9344443e94ea7bc4ab3bfbfc51378e9eaabc187383ecd7adbbbf8b287a7652",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 9,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 10,
+      "printed_page": 9,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/10.jpg",
+      "source_render_sha256": "ee7d352a6711b3d281b7aa90e078a8cc3a2bde0340c7ae540d2bed5b06a0fae2",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 10,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 11,
+      "printed_page": 10,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "جلوی کندیل/بخش بازیلار در کادر مستقل.",
+      "source_render": "source/11.jpg",
+      "source_render_sha256": "d5dd2d003abe62c8fcb990675cc0ac2a5c27c67504b9f68c587a608b914ffacf",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 11,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 12,
+      "printed_page": 11,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "سه قسمت کولی و اختلاف T1–T2/3؛ نقل دست‌نخورده.",
+      "source_render": "source/12.jpg",
+      "source_render_sha256": "0f47308bfa832066792a5e7daffa5207dd688ccccdb1dcc1cf5552825fb232b8",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 12,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 13,
+      "printed_page": 12,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "زاویه/زائده و سطح دندهٔ اول جدا توضیح داده شدند.",
+      "source_render": "source/13.jpg",
+      "source_render_sha256": "186f25662a915d96c23af44a775d423b67357b9219ae80260d023525b13df8d2",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 13,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 14,
+      "printed_page": 13,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/14.jpg",
+      "source_render_sha256": "b9036b19cb4fceee3dc3ab70c9e20fc99c10f7ffbd2555a6553fd7cf1cbf4ad6",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 14,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 15,
+      "printed_page": 14,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "کسر یک‌سوم در متن استخراج‌شدهٔ اصل نیز وجود دارد؛ رباط/خط و C7–T12 رفع ابهام شد.",
+      "source_render": "source/15.jpg",
+      "source_render_sha256": "1421e9ff7753b99d95802a61ffff22ffb70ffc4fcd226eac6b7c83cec3631c02",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 15,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 16,
+      "printed_page": 15,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "مبدأ/انتها وارونه در اصل؛ اصلاح فقط جدول مستقل.",
+      "source_render": "source/16.jpg",
+      "source_render_sha256": "467d1b7935fdb7df4b7d3f838576abb5d8d3ab97f349e16f1a87cb87d25a5f89",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 16,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 17,
+      "printed_page": 16,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "متن و شکل‌های همین صفحه با تایپی مقابله شد؛ علمِ نقل خودکار تأیید نمی‌شود.",
+      "source_render": "source/17.jpg",
+      "source_render_sha256": "bccee16c0be0439a5af20f86b72d0ab0513eec51cedf80afc8d807e1fb3cf849",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 17,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 18,
+      "printed_page": 17,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "سمی‌اسپاینالیس مبدأ/انتها و عصب C2 نیازمند تفکیک؛ جدول چهار عضله نقل حفظ شد.",
+      "source_render": "source/18.jpg",
+      "source_render_sha256": "a28b0a08a0ae6e8b3b0b6c840f58cfdb1c133a2124d2670eb05442ac9fd11cd3",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 18,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 19,
+      "printed_page": 18,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "شمای اتصال همان منبع با متن پیشین فرق دارد؛ مرزهای مثلث و جدول نقل حفظ.",
+      "source_render": "source/19.jpg",
+      "source_render_sha256": "c427c4bff6a258173ada623772e79b11b577b249537e9c0a9cfc09f1ed8781b1",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 19,
+        "scale": 1.65,
+        "quality": 92
+      }
+    },
+    {
+      "source_pdf_page": 20,
+      "printed_page": 19,
+      "status": "EDITORIALLY_COMPARED",
+      "note": "دو زیرنمای آخر هر دو در قاب جزوه محفوظ‌اند.",
+      "source_render": "source/20.jpg",
+      "source_render_sha256": "24793f735ecd74f041e50e265287969540131453345ce5bc6a8fd4378114e5bd",
+      "render_recipe": {
+        "source_file": "علوم تشریح سر و گردن/جلسه 6 - عضلات گردن/جلسه_ششم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+        "pdf_page": 20,
+        "scale": 1.65,
+        "quality": 92
+      }
+    }
+  ],
+  "render_storage": "Reproducible JPEG byte hashes/recipes, not a committed duplicate raster dataset."
+}

@@ -71,3 +71,23 @@ python3 -m venv .venv
 ```
 
 Verifier پیوستگی بایت/پوشش ثبت‌شده را می‌آزماید، نه وقوع مشاهده یا درستی علمی را. بازسازی PDF، شواهد مشاهدهٔ SHA قبلی را باطل می‌کند. `prepare_hn05.py` پایه را بازنویسی می‌کند؛ برای به‌روزرسانی جاری اجرا نکنید. ابزارهای overlay/دارایی نیز قبل از اجرا بررسی شوند.
+
+## جلسهٔ ۶ — بازبینی و به‌روزرسانی نسخهٔ موجود، ۳۱ اکتبر ۲۰۲۶
+
+نسخهٔ جاری و پیش‌فرض builder/QA: [`HumsYar_HeadNeck_Jalase6_FINAL.pdf`](../pdf/HumsYar_HeadNeck_Jalase6_FINAL.pdf)، **۶۰ صفحه**؛ SHA `d05692679a604d622dd43dc6b87ef1d985e968d06df85fd3926f572b80721204`. پایهٔ ۵۲صفحه‌ای و متن آن بی‌تغییر حفظ شده‌اند؛ جلسهٔ ۴ و ۵ دوباره ساخته نشدند.
+
+- [گزارش نهایی و محدودیت‌ها](reports/HN_S06_FINAL_REVIEW_REPORT.md)، [ماتریس قاب‌ها](reports/HN_S06_FINAL_SOURCE_FIGURE_MATRIX.md)، [QA فنی](reports/HN_S06_FINAL_TECHNICAL_QA_REPORT.md)، [tracker](reports/HN_S06_QA_TRACKER.md).
+- ۱۱ مبحث؛ ۱۱ جدول و ۱۱ کادر مستقل تازه؛ ۲۹ قاب شامل ۱۶ جزوه/۸ نتر/۵ گری. اصل۲۰ صفحه و ۳۳ صفحهٔ مرجع دیده شدند؛ تمام۶۰صفحهٔ همین SHA بعد از آخرین ساخت دوباره دیده شدند. تأیید متخصص انسانی یا تضمین صفر خطای جزئی نیست.
+- ۳۰ آزمون و QA صفر خطای سخت/۱۷هشدار تعیین‌تکلیف‌شده. هشدارها به معنی حذف یا نادیده‌گرفتن محدودیت‌ها نیستند.
+- برای پرهیز از مجموعهٔ رستر تکراری حجیم، hash و دستور بازتولید دقیق ۱۱۳ تصویرِ واقعاً دیده‌شده در [شواهد](reports/hn06_final_evidence/README.md) ثبت است؛ تصاویر کامل صفحات در Git ذخیره نمی‌شوند. بازتولید از صفر برای همهٔ آن‌ها دقیقاً بایت‌برابر بود. این کنترل ماشینی جای مشاهده/مقابله نیست.
+
+```bash
+.venv/bin/python headneck/scripts/reproduce_hn06_evidence.py --out .cache/hn06-reproduced
+.venv/bin/python headneck/scripts/verify_hn06_final_evidence.py
+.venv/bin/python -m unittest discover -s headneck/tests -v
+# نامزد جدا، بدون بازنویسی FINAL منتشرشده:
+.venv/bin/python render/build_headneck.py --session hn06 --out .cache/hn06_candidate.pdf
+.venv/bin/python render/qa_headneck.py --session hn06 --pdf .cache/hn06_candidate.pdf --report .cache/hn06_candidate_QA.md
+```
+
+`prepare_hn06.py` تاریخی پایه/INDEX را بازنویسی می‌کند؛ برای به‌روزرسانی جاری اجرا نشود. overlay فقط دادهٔ افزایشی/نمایشی دارد و متن نقل را اصلاح علمی نکرده است. قبل از اجرای ابزارهای تولید، آن‌ها را بررسی کنید؛ بعد از هر تغییر PDF، QA و مشاهدهٔ همهٔ صفحات برای SHA تازه لازم است. گزارش‌های S06 قدیمی مربوط به نسخهٔ پایه‌اند.

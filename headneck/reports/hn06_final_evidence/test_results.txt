@@ -1,0 +1,35 @@
+test_ear_section_has_no_redundant_double_break_hint (test_hn04_update.FinalEvidence.test_ear_section_has_no_redundant_double_break_hint) ... ok
+test_final_evidence_identity_and_coverage (test_hn04_update.FinalEvidence.test_final_evidence_identity_and_coverage) ... ok
+test_source_figure_paths_resolve_in_current_checkout (test_hn04_update.FinalEvidence.test_source_figure_paths_resolve_in_current_checkout) ... ok
+test_all_twenty_topics (test_hn04_update.SessionFour.test_all_twenty_topics) ... ok
+test_bad_insertion_rejected (test_hn04_update.SessionFour.test_bad_insertion_rejected) ... ok
+test_baseline_fingerprint (test_hn04_update.SessionFour.test_baseline_fingerprint) ... ok
+test_default_does_not_overwrite_published_baseline (test_hn04_update.SessionFour.test_default_does_not_overwrite_published_baseline) ... ok
+test_deterministic_generator (test_hn04_update.SessionFour.test_deterministic_generator) ... ok
+test_explicit_heading_reconciliation_only (test_hn04_update.SessionFour.test_explicit_heading_reconciliation_only) ... ok
+test_prior_overlay_sessions_still_work (test_hn04_update.SessionFour.test_prior_overlay_sessions_still_work) ... ok
+test_pure_addition_and_lecture_text_order (test_hn04_update.SessionFour.test_pure_addition_and_lecture_text_order) ... ok
+test_reference_assets_exist_and_pdf_pages_are_explicit (test_hn04_update.SessionFour.test_reference_assets_exist_and_pdf_pages_are_explicit) ... ok
+test_stale_reconciliation_rejected (test_hn04_update.SessionFour.test_stale_reconciliation_rejected) ... ok
+test_two_independent_pdf_page_ranges (test_hn04_update.SessionFour.test_two_independent_pdf_page_ranges) ... ok
+test_unrelated_sessions_noop (test_hn04_update.SessionFour.test_unrelated_sessions_noop) ... ok
+test_assets_and_seventy_one_plates (test_hn05_update.SessionFive.test_assets_and_seventy_one_plates) ... ok
+test_baseline_bytes_unchanged (test_hn05_update.SessionFive.test_baseline_bytes_unchanged) ... ok
+test_deterministic_generation (test_hn05_update.SessionFive.test_deterministic_generation) ... ok
+test_fourteen_topic_additions (test_hn05_update.SessionFive.test_fourteen_topic_additions) ... ok
+test_original_blocks_and_order_preserved (test_hn05_update.SessionFive.test_original_blocks_and_order_preserved) ... ok
+test_separate_published_path (test_hn05_update.SessionFive.test_separate_published_path) ... ok
+test_assets_and_twenty_nine_plates (test_hn06_update.SessionSix.test_assets_and_twenty_nine_plates) ... ok
+test_baseline_bytes_unchanged (test_hn06_update.SessionSix.test_baseline_bytes_unchanged) ... ok
+test_deterministic_generation (test_hn06_update.SessionSix.test_deterministic_generation) ... ok
+test_eleven_topic_additions (test_hn06_update.SessionSix.test_eleven_topic_additions) ... ok
+test_original_blocks_and_order_preserved (test_hn06_update.SessionSix.test_original_blocks_and_order_preserved) ... ok
+test_recorded_evidence_is_byte_consistent (test_hn06_update.SessionSix.test_recorded_evidence_is_byte_consistent) ... ok
+test_reference_coordinates_inside_pages (test_hn06_update.SessionSix.test_reference_coordinates_inside_pages) ... ok
+test_separate_published_path (test_hn06_update.SessionSix.test_separate_published_path) ... ok
+test_transcription_preserved_in_order (test_hn06_update.SessionSix.test_transcription_preserved_in_order) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 3.593s
+
+OK
