@@ -262,3 +262,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## قالب مشترک صفحه‌های آغازین و پایانی جلسات ۱ تا ۴
 
 جلد، صفحهٔ ساختار و قاعدهٔ خواندن، فهرست، آغاز فصل و پشت جلد چهار نسخه مطابق الگوی درخواستی بازسازی شد. جزئیات، مقایسهٔ ساخت‌ها و هش‌ها در `headneck/reports/HN_S01_S04_SHELL_UPDATE.md` قرار دارد.
+
+## جزوهٔ مادر جلسهٔ ۵ — نسخهٔ جزوه‌نویسی
+
+۱۴ مبحث و برگهٔ تحویل اختصاصی، قالب مشترک، نمودار ارتباط مفاصل و چک‌لیست در `pdf/HumsYar_HeadNeck_Jalase5_WRITER_FINAL.pdf` هستند. نسخهٔ پیشین `Jalase5_FINAL.pdf` محفوظ است. شمار بلوک‌ها و تصاویر، هش و حدود بازبینی در `headneck/reports/HN_S05_WRITER_UPDATE.md` ثبت شده است. ادامهٔ ترتیب جلسات، جلسهٔ ۶ است.
