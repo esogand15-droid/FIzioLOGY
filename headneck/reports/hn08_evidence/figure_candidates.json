@@ -1,0 +1,456 @@
+{
+  "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+  "source_sha256": "bee4f56e1a034522776b1a9827aa9c03686ff9bc72f3b64832cd38eb71b4d9df",
+  "pages": 13,
+  "source_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "figure_assets": [
+    {
+      "path": ".cache/hn08/candidates/lecture_p01_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 1,
+      "bbox_points": [
+        395,
+        280,
+        576,
+        454
+      ],
+      "sha256": "dc15f7c80e5c00503717024c4033366eaf3306cf9c28edf750233c47cda5c3a7",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p01_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 1,
+      "bbox_points": [
+        343,
+        539,
+        596,
+        745
+      ],
+      "sha256": "7db5b8e3c7f5a180d0189a907db09f0ebad17787e20cad256fd5b052cee3cc69",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p01_3.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 1,
+      "bbox_points": [
+        11,
+        484,
+        277,
+        684
+      ],
+      "sha256": "3a90799223b1dd71deec3bbcf8841ab1728153ce591f209c8b24f9104f1e5d9d",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p02_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 2,
+      "bbox_points": [
+        302,
+        68,
+        598,
+        267
+      ],
+      "sha256": "3d1bb18620490fa9b93153e80b9fc370cef75e78149ea15e48027a95e377e96c",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p02_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 2,
+      "bbox_points": [
+        35,
+        153,
+        261,
+        350
+      ],
+      "sha256": "ad93d86a83d8e47d7344b712b104f8d5646f6781b0da2495ca77316cfd041e2f",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p02_3.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 2,
+      "bbox_points": [
+        3,
+        439,
+        314,
+        623
+      ],
+      "sha256": "5ea4ee0b16881ecea15075dc32e667fbc55c77a47d32a873cbfab2d7801dac90",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p03_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 3,
+      "bbox_points": [
+        305,
+        580,
+        577,
+        752
+      ],
+      "sha256": "abec55ed79b445d99343648b5d06f6bffb6cab9f31f52c8761672b376ca53b88",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p04_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 4,
+      "bbox_points": [
+        367,
+        578,
+        561,
+        756
+      ],
+      "sha256": "8de497ea8ead974b2bd0ecc81172144ce92d23847496087aec4bc9c4c9df5169",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p04_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 4,
+      "bbox_points": [
+        9,
+        206,
+        315,
+        431
+      ],
+      "sha256": "9f085675c37acba24f6714911623065c0220fa97951e8ca5970db6c63f97684b",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p05_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 5,
+      "bbox_points": [
+        310,
+        341,
+        576,
+        581
+      ],
+      "sha256": "b485a2bab11767cb7fd3e0da03ce3bf3ffd3e3705e657c4445e3b348a3157ab7",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p05_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 5,
+      "bbox_points": [
+        355,
+        583,
+        572,
+        757
+      ],
+      "sha256": "e7d8aa3da9f8b6ee2acb2d9d3e04b446c32f298389dca4739699ccb2b4f71e6a",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p05_3.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 5,
+      "bbox_points": [
+        10,
+        328,
+        289,
+        636
+      ],
+      "sha256": "424fc8a5f1916154d9cad43b426fb28d3a082fd5df2e109a01af5f4dca621f1c",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p06_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 6,
+      "bbox_points": [
+        305,
+        160,
+        595,
+        343
+      ],
+      "sha256": "af5bc8ba6f3641fa0f001f9e6dbb1a0126d0ac0cdc3f31e91b64b474ab3234bb",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p06_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 6,
+      "bbox_points": [
+        295,
+        415,
+        595,
+        586
+      ],
+      "sha256": "9bae9fd1e7fbbf0555c6af04c57bc489f2fe4af3b005a6859347403790fae87a",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p06_3.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 6,
+      "bbox_points": [
+        10,
+        246,
+        299,
+        439
+      ],
+      "sha256": "1d900a9df2046aa4a791f5908bff83faef4198b8052c9a5d1057306665cd0f4f",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p07_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 7,
+      "bbox_points": [
+        42,
+        64,
+        281,
+        200
+      ],
+      "sha256": "cd399af0c816cd9e1b2bdc277161b5d1178ced0c7703b61cc5df251e6f95ec0e",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p07_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 7,
+      "bbox_points": [
+        16,
+        408,
+        299,
+        577
+      ],
+      "sha256": "83dd5912cb5632e18356a6296123a967e034b0a8adb2f1ad4e6b2e232750dec2",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p08_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 8,
+      "bbox_points": [
+        300,
+        149,
+        609,
+        354
+      ],
+      "sha256": "1c3557103083365180ac7c7dc6cf7ff89b4fb5503bebae7acac0648b5a4cfb0a",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p09_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 9,
+      "bbox_points": [
+        323,
+        64,
+        577,
+        280
+      ],
+      "sha256": "889ca9fd4162d57788275bbecf4c057f20c0bd40628bf9e3bc4b40842adc5424",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p09_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 9,
+      "bbox_points": [
+        298,
+        519,
+        611,
+        757
+      ],
+      "sha256": "aba7e0d3eaf750ce627f21a2772c263e341b41965b2ea044f0ccedc55c2ced37",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p09_3.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 9,
+      "bbox_points": [
+        35,
+        160,
+        251,
+        398
+      ],
+      "sha256": "a6acbab355ee5329a6482cda133be5ea1924c317ce07cb8972e81867516b9186",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p10_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 10,
+      "bbox_points": [
+        315,
+        101,
+        596,
+        357
+      ],
+      "sha256": "d474f5d4298e72f4d9b2cddc7240e2d522745d4732db0839a793f6ada7c19a12",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p10_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 10,
+      "bbox_points": [
+        305,
+        452,
+        601,
+        655
+      ],
+      "sha256": "8d72fa43088be557f7f70b2cc0e07a66d3a1ac70cf1247aa7314ff54d2f2f3af",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p10_3.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 10,
+      "bbox_points": [
+        4,
+        64,
+        314,
+        256
+      ],
+      "sha256": "468eeb873751a67b76951ad0b6ddba9aab9de5a9cdbbd0700f0753025d44e1c0",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p11_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 11,
+      "bbox_points": [
+        315,
+        408,
+        603,
+        727
+      ],
+      "sha256": "ac56ff88ad5405d9637a3e7e2c3a4a4dc42ea236bf92c7c93def515f13473909",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p11_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 11,
+      "bbox_points": [
+        5,
+        456,
+        315,
+        668
+      ],
+      "sha256": "baadef09246f77bd9853c267c0b7d0e77829d14dad80d477a141dc2488bd0157",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p12_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 12,
+      "bbox_points": [
+        297,
+        161,
+        610,
+        335
+      ],
+      "sha256": "a7f3f37ac3298df8fa3a8c1bd6361464f8f40a731ed3c49715f7838d711a472f",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p12_2.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 12,
+      "bbox_points": [
+        26,
+        439,
+        305,
+        705
+      ],
+      "sha256": "02778802ab302e12276b0721eac0e92bd5d17ff05a5e60d03b1dd29de542a17d",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/lecture_p13_1.png",
+      "source": "علوم تشریح سر و گردن/جلسه 8 - عروق گردنی/جلسه_هشتم_علوم_تشریح_سر_و_گردن_مهر_1404.pdf",
+      "source_pdf_page": 13,
+      "bbox_points": [
+        0,
+        101,
+        612,
+        463
+      ],
+      "sha256": "f7249066621dd6e4d04978195229c5ea8dd96786648754a07b571f1b4d7a0fba",
+      "status": "CANDIDATE: requires figure crop and labeling review"
+    },
+    {
+      "path": ".cache/hn08/candidates/netter_plate58.png",
+      "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 110,
+      "plate": 58,
+      "bbox_points": [
+        35,
+        65,
+        600,
+        730
+      ],
+      "sha256": "95b2326f52849f676abfcc52cd233b6fd0261db66f103afae9e02d80d50f8851",
+      "status": "CANDIDATE: figure cropped, needs review"
+    },
+    {
+      "path": ".cache/hn08/candidates/netter_plate99.png",
+      "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 151,
+      "plate": 99,
+      "bbox_points": [
+        45,
+        65,
+        580,
+        730
+      ],
+      "sha256": "79d0b3a60498cad8611ad813713b45726c09961be00e9aa8cd97ee8e74ecb9e0",
+      "status": "CANDIDATE: figure cropped, needs review"
+    },
+    {
+      "path": ".cache/hn08/candidates/netter_plate103.png",
+      "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 155,
+      "plate": 103,
+      "bbox_points": [
+        35,
+        55,
+        590,
+        740
+      ],
+      "sha256": "46507791c8829831506d7c5aee44cc88effe54e5fb410bd0a277fb99a2de4dd6",
+      "status": "CANDIDATE: figure cropped, needs review"
+    },
+    {
+      "path": ".cache/hn08/candidates/netter_plate104.png",
+      "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+      "source_pdf_page": 156,
+      "plate": 104,
+      "bbox_points": [
+        35,
+        55,
+        590,
+        735
+      ],
+      "sha256": "da3d3331d3a26d8d7f4ab9d43fff4a50147d52f160854bf9caf0e0c54780e895",
+      "status": "CANDIDATE: figure cropped, needs review"
+    }
+  ],
+  "notes": "Draft candidates; no assertion of completeness or crop correctness. Full-page source raster is not a substitute for typed transcription."
+}
