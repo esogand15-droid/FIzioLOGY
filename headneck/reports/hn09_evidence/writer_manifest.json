@@ -1,0 +1,388 @@
+{
+  "topics": {
+    "hn09-T01": {
+      "page": 5,
+      "title": "نمای کلی اعصاب گردن"
+    },
+    "hn09-T02": {
+      "page": 8,
+      "title": "شبکهٔ گردنی و شاخه‌های سطحی"
+    },
+    "hn09-T03": {
+      "page": 13,
+      "title": "قوس گردنی و شاخه‌های عمقی"
+    },
+    "hn09-T04": {
+      "page": 17,
+      "title": "اعصاب مغزی گردن و زوج نهم"
+    },
+    "hn09-T05": {
+      "page": 22,
+      "title": "شاخه‌های زوج نهم و شبکهٔ حلقی"
+    },
+    "hn09-T06": {
+      "page": 26,
+      "title": "عصب واگ در گردن"
+    },
+    "hn09-T07": {
+      "page": 30,
+      "title": "شاخه‌های حنجره‌ای و عصب راجعه"
+    },
+    "hn09-T08": {
+      "page": 32,
+      "title": "عصب اکسسوری"
+    },
+    "hn09-T09": {
+      "page": 36,
+      "title": "عصب زیرزبانی و مجاورات آن"
+    },
+    "hn09-T10": {
+      "page": 39,
+      "title": "تنهٔ سمپاتیک و گانگلیون فوقانی"
+    },
+    "hn09-T11": {
+      "page": 44,
+      "title": "گانگلیون‌های میانی و تحتانی"
+    },
+    "hn09-T12": {
+      "page": 46,
+      "title": "غدهٔ تیروئید و ایستموس"
+    },
+    "hn09-T13": {
+      "page": 49,
+      "title": "لوب‌های تیروئید و مجاورات"
+    },
+    "hn09-T14": {
+      "page": 52,
+      "title": "پاراتیروئید و عروق تیروئید"
+    }
+  },
+  "figures": [
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_01_p01.png",
+      "sha256": "16b2ca3d054adedbbaef061eb3f2b5fd02e869a822615bb006c61f8c961b7110",
+      "topic": "hn09-T01",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 1"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_109.png",
+      "sha256": "f6849156325145a88984f30f55116a83fbda01bfc52e5385438e93ae8e0b188b",
+      "topic": "hn09-T01",
+      "source": "نتر، پلیت ۵۷، صفحهٔ فایل ۱۰۹"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_02_p02.png",
+      "sha256": "adc98f0870f875b50dd6f892ff33500654c7fb101c8dc3c8b0ec4111ea2a43cf",
+      "topic": "hn09-T02",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 2"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_03_p02.png",
+      "sha256": "23114097b1b5efa2a6fd1206e4ed0a149c54a953ae612528a8e9832ada534df2",
+      "topic": "hn09-T02",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 2"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_208.png",
+      "sha256": "2a9ec6ec5e7d30049ecb3de17ddccc7f937b7e836f88c3de77246e4e053720d2",
+      "topic": "hn09-T02",
+      "source": "نتر، پلیت ۱۵۶، صفحهٔ فایل ۲۰۸"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/gray_8184.png",
+      "sha256": "a24b450545bb5ada2b5b5dc7d06f5008d1c71372c405a514bb76ad069417de19",
+      "topic": "hn09-T02",
+      "source": "گری، صفحهٔ فایل ۵۶، چاپی ۱۰۲۸، شکل ۸.۱۸۴"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_04_p03.png",
+      "sha256": "8768241cbff44dee7fb54db8a134748a8a0b8dc677c0260d6b52dcec9904e8ee",
+      "topic": "hn09-T03",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 3"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_05_p03.png",
+      "sha256": "e51b23669d3a86b24c3ea5b02f019acc16dfddaded30cfe16e0f873a41abd7e9",
+      "topic": "hn09-T03",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 3"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_06_p04.png",
+      "sha256": "f15c366cf1916035de93f90da6c887882fd18e48defa569bdbf63c416141e703",
+      "topic": "hn09-T04",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 4"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_07_p04.png",
+      "sha256": "05e6a0b9d06df7563a602fd292bbcd170d4234241bc73ad05313531457892b3b",
+      "topic": "hn09-T04",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 4"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_204.png",
+      "sha256": "53da3066c9a8c9c088ac54574b1ff4ed9f914faf202ab2992521d9b21b80e028",
+      "topic": "hn09-T04",
+      "source": "نتر، پلیت ۱۵۲، صفحهٔ فایل ۲۰۴"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/gray_8168.png",
+      "sha256": "0a5ed6e44b7d57ad26c8f58dac9bbec32480c216007e5e0673d680e7fbd33de1",
+      "topic": "hn09-T04",
+      "source": "گری، صفحهٔ فایل ۴۲، چاپی ۱۰۱۴، شکل ۸.۱۶۸"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_08_p05.png",
+      "sha256": "521be4fdae3efb0d8f527feae155c48c315b3479ac91dfa8b5abf36fdbcd1b39",
+      "topic": "hn09-T05",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 5"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_09_p05.png",
+      "sha256": "2bf875545ec3893d320d5161425e8b4b401af566d255710952c4c81c9fe52d94",
+      "topic": "hn09-T05",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 5"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_10_p06.png",
+      "sha256": "424b8bb8d06a3fbf13bdb96d4226fad4e153cc5f8d1956abe46f07f21c30433b",
+      "topic": "hn09-T06",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 6"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_205.png",
+      "sha256": "6d23a5d65abca38c47569f5ed7975538ae14355c89acdc7b9487c24987d945da",
+      "topic": "hn09-T06",
+      "source": "نتر، پلیت ۱۵۳، صفحهٔ فایل ۲۰۵"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/gray_8169.png",
+      "sha256": "c13a1839775cfa28317c592695485ec49c248634d5464470e5e9a0197959aee3",
+      "topic": "hn09-T06",
+      "source": "گری، صفحهٔ فایل ۴۲، چاپی ۱۰۱۴، شکل ۸.۱۶۹"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_11_p08.png",
+      "sha256": "3976b33123d713ec44797fd4e862cd1acc2901b83d4b7ad054bdcce64e2711e5",
+      "topic": "hn09-T08",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 8"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_12_p08.png",
+      "sha256": "c1ed906277bfb0dad6ba6e2f4746d9c4a7663696b0479126ce1c4f9eff0c94ce",
+      "topic": "hn09-T08",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 8"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_206.png",
+      "sha256": "e422e1dd028f50010852f53ec465f53301824d0d0962554b02be9cc55673816c",
+      "topic": "hn09-T08",
+      "source": "نتر، پلیت ۱۵۴، صفحهٔ فایل ۲۰۶"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_13_p09.png",
+      "sha256": "4b963d25ba3301a160ca82f76361c253491b9c9a5469eb77c2e5c31bceb23a01",
+      "topic": "hn09-T09",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 9"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_207.png",
+      "sha256": "c5f82832722d2a121eee4b9a4c1cd7d1f2b8d69140f442fe96b7eb28a18a80ec",
+      "topic": "hn09-T09",
+      "source": "نتر، پلیت ۱۵۵، صفحهٔ فایل ۲۰۷"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_14_p09.png",
+      "sha256": "1de741c5903bd403e96eae17bc9115dcac8b3432de6339c3de143a730b0b3d73",
+      "topic": "hn09-T10",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 9"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_15_p10.png",
+      "sha256": "9b6a88dde16fc2fe329426d733d2a43f47d289a86514ce7618254b1ee8bdb222",
+      "topic": "hn09-T10",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 10"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_209.png",
+      "sha256": "63c2bb11cb6a971409e448dfdf95347b1c0dd3d82b2b981d0a167cb249433342",
+      "topic": "hn09-T10",
+      "source": "نتر، پلیت ۱۵۷، صفحهٔ فایل ۲۰۹"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/gray_8190.png",
+      "sha256": "1df4d3301b0c63f92e392c92fa0cbf22f6d20fbe980ed576d781ba93821f70e8",
+      "topic": "hn09-T10",
+      "source": "گری، صفحهٔ فایل ۶۴، چاپی ۱۰۳۶، شکل ۸.۱۹۰"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_extra11_p11.png",
+      "sha256": "8232be94bf2bb1a0788fdea107cf87204d514f632f9886d68338faf1a989f87c",
+      "topic": "hn09-T11",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 11"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_16_p12.png",
+      "sha256": "94e6d17210d0cdce999691c6a3b72f84549d0f1c72fbd18ba35f45257ab208f6",
+      "topic": "hn09-T12",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 12"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_155.png",
+      "sha256": "c5481c189ccca63758c84aecf290580d7839814dd88990ac15204532855179b1",
+      "topic": "hn09-T12",
+      "source": "نتر، پلیت ۱۰۳، صفحهٔ فایل ۱۵۵"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_17_p13.png",
+      "sha256": "303aff4bd6e4b07e5370926e486fb1dc94f2cfd89e059ef3522e2f680cbbdaec",
+      "topic": "hn09-T13",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 13"
+    },
+    {
+      "asset": "headneck/images/hn09_refs/netter_156.png",
+      "sha256": "813db41873889d343b97307039c1f3368b40596bc393c4dcb6c2aaae80380e3f",
+      "topic": "hn09-T13",
+      "source": "نتر، پلیت ۱۰۴، صفحهٔ فایل ۱۵۶"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_18_p14.png",
+      "sha256": "58efcd0ad1f99146d2a5cd0cbadd3a61d8922eb4460e9e9f74048916ad8a8106",
+      "topic": "hn09-T14",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 14"
+    },
+    {
+      "asset": "headneck/images/hn09_candidates/lecture_figure_19_p15.png",
+      "sha256": "549a740955cd13c3422a462f1aa5df97fc304d51492e940906071b7082d2146e",
+      "topic": "hn09-T14",
+      "source": "جزوهٔ جلسهٔ ۹، صفحهٔ فایل 15"
+    }
+  ],
+  "source_paragraphs": {
+    "1": 7,
+    "2": 7,
+    "3": 9,
+    "4": 8,
+    "5": 10,
+    "6": 10,
+    "7": 10,
+    "8": 7,
+    "9": 4,
+    "10": 13,
+    "11": 11,
+    "12": 6,
+    "13": 11,
+    "14": 9
+  },
+  "pages": 57,
+  "bookmarks": [
+    [
+      1,
+      "ساختار این جزوه و قاعدهٔ خواندن آن",
+      2
+    ],
+    [
+      2,
+      "قاعدهٔ ارجاع و علامت‌گذاری",
+      2
+    ],
+    [
+      1,
+      "فهرست مطالب",
+      3
+    ],
+    [
+      1,
+      "اعصاب گردن و تیروئید",
+      5
+    ],
+    [
+      2,
+      "نمای کلی اعصاب گردن",
+      5
+    ],
+    [
+      2,
+      "شبکهٔ گردنی و شاخه‌های سطحی",
+      8
+    ],
+    [
+      2,
+      "قوس گردنی و شاخه‌های عمقی",
+      13
+    ],
+    [
+      2,
+      "اعصاب مغزی گردن و زوج نهم",
+      17
+    ],
+    [
+      2,
+      "شاخه‌های زوج نهم و شبکهٔ حلقی",
+      22
+    ],
+    [
+      2,
+      "عصب واگ در گردن",
+      26
+    ],
+    [
+      2,
+      "شاخه‌های حنجره‌ای و عصب راجعه",
+      30
+    ],
+    [
+      2,
+      "عصب اکسسوری",
+      32
+    ],
+    [
+      2,
+      "عصب زیرزبانی و مجاورات آن",
+      36
+    ],
+    [
+      2,
+      "تنهٔ سمپاتیک و گانگلیون فوقانی",
+      39
+    ],
+    [
+      2,
+      "گانگلیون‌های میانی و تحتانی",
+      44
+    ],
+    [
+      2,
+      "غدهٔ تیروئید و ایستموس",
+      46
+    ],
+    [
+      2,
+      "لوب‌های تیروئید و مجاورات",
+      49
+    ],
+    [
+      2,
+      "پاراتیروئید و عروق تیروئید",
+      52
+    ],
+    [
+      1,
+      "جمع‌بندی و چک‌لیست",
+      56
+    ],
+    [
+      1,
+      "قدم بعدی: چه چیزی در جلسهٔ بعد می‌آید",
+      56
+    ]
+  ],
+  "file": ".cache/hn09_writer_update/HumsYar_HeadNeck_Jalase9_WRITER_FINAL.pdf",
+  "sha256": "9409bb4984b1827bf02c299d076dadf2438e48f56a1a4dcbfae513d99918951b",
+  "bytes": 28464304,
+  "qa": {
+    "outside_spans": [],
+    "empty_pages": [],
+    "leaks": [],
+    "body_near_footer": []
+  }
+}
