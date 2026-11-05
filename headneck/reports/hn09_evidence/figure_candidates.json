@@ -1,0 +1,267 @@
+{
+  "source": "علوم تشریح سر و گردن/جلسه 9 - اعصاب گردن و غده تیروید/neck nerve and thyroid gland.pdf",
+  "source_sha256": "ee55fa8ece5de95cdcb2baf4a68e7c26b54c3d6e2a18f684965540865860ca5f",
+  "source_pages": 15,
+  "candidates": [
+    {
+      "figure": "01",
+      "pdf_page": 1,
+      "caption_pdf_page": 1,
+      "rect_overview_918x1188": [
+        170,
+        195,
+        815,
+        715
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_01_p01.png",
+      "sha256": "16b2ca3d054adedbbaef061eb3f2b5fd02e869a822615bb006c61f8c961b7110"
+    },
+    {
+      "figure": "02",
+      "pdf_page": 2,
+      "caption_pdf_page": 2,
+      "rect_overview_918x1188": [
+        170,
+        175,
+        810,
+        550
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_02_p02.png",
+      "sha256": "adc98f0870f875b50dd6f892ff33500654c7fb101c8dc3c8b0ec4111ea2a43cf"
+    },
+    {
+      "figure": "03",
+      "pdf_page": 2,
+      "caption_pdf_page": 2,
+      "rect_overview_918x1188": [
+        90,
+        635,
+        400,
+        925
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_03_p02.png",
+      "sha256": "23114097b1b5efa2a6fd1206e4ed0a149c54a953ae612528a8e9832ada534df2"
+    },
+    {
+      "figure": "04",
+      "pdf_page": 3,
+      "caption_pdf_page": 3,
+      "rect_overview_918x1188": [
+        465,
+        190,
+        800,
+        530
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_04_p03.png",
+      "sha256": "8768241cbff44dee7fb54db8a134748a8a0b8dc677c0260d6b52dcec9904e8ee"
+    },
+    {
+      "figure": "05",
+      "pdf_page": 3,
+      "caption_pdf_page": 3,
+      "rect_overview_918x1188": [
+        50,
+        245,
+        405,
+        565
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_05_p03.png",
+      "sha256": "e51b23669d3a86b24c3ea5b02f019acc16dfddaded30cfe16e0f873a41abd7e9"
+    },
+    {
+      "figure": "06",
+      "pdf_page": 4,
+      "caption_pdf_page": 4,
+      "rect_overview_918x1188": [
+        485,
+        385,
+        810,
+        910
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_06_p04.png",
+      "sha256": "f15c366cf1916035de93f90da6c887882fd18e48defa569bdbf63c416141e703"
+    },
+    {
+      "figure": "07",
+      "pdf_page": 4,
+      "caption_pdf_page": 4,
+      "rect_overview_918x1188": [
+        80,
+        210,
+        415,
+        465
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_07_p04.png",
+      "sha256": "05e6a0b9d06df7563a602fd292bbcd170d4234241bc73ad05313531457892b3b"
+    },
+    {
+      "figure": "08",
+      "pdf_page": 5,
+      "caption_pdf_page": 5,
+      "rect_overview_918x1188": [
+        475,
+        560,
+        820,
+        900
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_08_p05.png",
+      "sha256": "521be4fdae3efb0d8f527feae155c48c315b3479ac91dfa8b5abf36fdbcd1b39"
+    },
+    {
+      "figure": "09",
+      "pdf_page": 5,
+      "caption_pdf_page": 5,
+      "rect_overview_918x1188": [
+        80,
+        185,
+        450,
+        355
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_09_p05.png",
+      "sha256": "2bf875545ec3893d320d5161425e8b4b401af566d255710952c4c81c9fe52d94"
+    },
+    {
+      "figure": "10",
+      "pdf_page": 6,
+      "caption_pdf_page": 6,
+      "rect_overview_918x1188": [
+        475,
+        225,
+        810,
+        770
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_10_p06.png",
+      "sha256": "424b8bb8d06a3fbf13bdb96d4226fad4e153cc5f8d1956abe46f07f21c30433b"
+    },
+    {
+      "figure": "11",
+      "pdf_page": 8,
+      "caption_pdf_page": 8,
+      "rect_overview_918x1188": [
+        480,
+        300,
+        820,
+        615
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_11_p08.png",
+      "sha256": "3976b33123d713ec44797fd4e862cd1acc2901b83d4b7ad054bdcce64e2711e5"
+    },
+    {
+      "figure": "12",
+      "pdf_page": 8,
+      "caption_pdf_page": 8,
+      "rect_overview_918x1188": [
+        75,
+        435,
+        425,
+        725
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_12_p08.png",
+      "sha256": "c1ed906277bfb0dad6ba6e2f4746d9c4a7663696b0479126ce1c4f9eff0c94ce"
+    },
+    {
+      "figure": "13",
+      "pdf_page": 9,
+      "caption_pdf_page": 9,
+      "rect_overview_918x1188": [
+        45,
+        145,
+        425,
+        415
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_13_p09.png",
+      "sha256": "4b963d25ba3301a160ca82f76361c253491b9c9a5469eb77c2e5c31bceb23a01"
+    },
+    {
+      "figure": "14",
+      "pdf_page": 9,
+      "caption_pdf_page": 10,
+      "rect_overview_918x1188": [
+        80,
+        685,
+        460,
+        1060
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_14_p09.png",
+      "sha256": "1de741c5903bd403e96eae17bc9115dcac8b3432de6339c3de143a730b0b3d73"
+    },
+    {
+      "figure": "15",
+      "pdf_page": 10,
+      "caption_pdf_page": 10,
+      "rect_overview_918x1188": [
+        500,
+        670,
+        810,
+        1060
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_15_p10.png",
+      "sha256": "9b6a88dde16fc2fe329426d733d2a43f47d289a86514ce7618254b1ee8bdb222"
+    },
+    {
+      "figure": "extra11",
+      "pdf_page": 11,
+      "caption_pdf_page": null,
+      "rect_overview_918x1188": [
+        505,
+        125,
+        810,
+        485
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_extra11_p11.png",
+      "sha256": "8232be94bf2bb1a0788fdea107cf87204d514f632f9886d68338faf1a989f87c"
+    },
+    {
+      "figure": "16",
+      "pdf_page": 12,
+      "caption_pdf_page": 12,
+      "rect_overview_918x1188": [
+        55,
+        200,
+        450,
+        590
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_16_p12.png",
+      "sha256": "94e6d17210d0cdce999691c6a3b72f84549d0f1c72fbd18ba35f45257ab208f6"
+    },
+    {
+      "figure": "17",
+      "pdf_page": 13,
+      "caption_pdf_page": 13,
+      "rect_overview_918x1188": [
+        80,
+        380,
+        450,
+        760
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_17_p13.png",
+      "sha256": "303aff4bd6e4b07e5370926e486fb1dc94f2cfd89e059ef3522e2f680cbbdaec"
+    },
+    {
+      "figure": "18",
+      "pdf_page": 14,
+      "caption_pdf_page": 14,
+      "rect_overview_918x1188": [
+        80,
+        450,
+        425,
+        830
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_18_p14.png",
+      "sha256": "d9202e5ff8605b4c900aec9328044831056e2f0e3f708d7e019334ee2973ea1d"
+    },
+    {
+      "figure": "19",
+      "pdf_page": 15,
+      "caption_pdf_page": 14,
+      "rect_overview_918x1188": [
+        510,
+        125,
+        815,
+        510
+      ],
+      "asset": "headneck/images/hn09_candidates/lecture_figure_19_p15.png",
+      "sha256": "549a740955cd13c3422a462f1aa5df97fc304d51492e940906071b7082d2146e"
+    }
+  ]
+}
