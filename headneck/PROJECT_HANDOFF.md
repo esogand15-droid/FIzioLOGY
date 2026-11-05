@@ -266,3 +266,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## جزوهٔ مادر جلسهٔ ۵ — نسخهٔ جزوه‌نویسی
 
 ۱۴ مبحث و برگهٔ تحویل اختصاصی، قالب مشترک، نمودار ارتباط مفاصل و چک‌لیست در `pdf/HumsYar_HeadNeck_Jalase5_WRITER_FINAL.pdf` هستند. نسخهٔ پیشین `Jalase5_FINAL.pdf` محفوظ است. شمار بلوک‌ها و تصاویر، هش و حدود بازبینی در `headneck/reports/HN_S05_WRITER_UPDATE.md` ثبت شده است. ادامهٔ ترتیب جلسات، جلسهٔ ۶ است.
+
+## جزوهٔ مادر جلسهٔ ۶ — نسخهٔ جزوه‌نویسی
+
+۱۱ مبحث و برگهٔ تحویل اختصاصی، قالب مشترک، نمودار مسیر اوموهایوئید و چک‌لیست در `pdf/HumsYar_HeadNeck_Jalase6_WRITER_FINAL.pdf` هستند. نسخهٔ پیشین `Jalase6_FINAL.pdf` محفوظ است. شمار بلوک‌ها و تصاویر، هش و حدود بازبینی در `headneck/reports/HN_S06_WRITER_UPDATE.md` ثبت شده است. ادامهٔ ترتیب جلسات، جلسهٔ ۷ است.
