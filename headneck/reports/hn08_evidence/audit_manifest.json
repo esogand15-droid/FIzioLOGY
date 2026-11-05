@@ -1,0 +1,410 @@
+{
+  "topics": {
+    "hn08-T01": {
+      "page": 5,
+      "title": "مبدأ شریان‌های گردن و کاروتید مشترک"
+    },
+    "hn08-T02": {
+      "page": 11,
+      "title": "مجاورات و دوشاخگی کاروتید مشترک"
+    },
+    "hn08-T03": {
+      "page": 17,
+      "title": "جسم کاروتید و مسیر کاروتید داخلی"
+    },
+    "hn08-T04": {
+      "page": 21,
+      "title": "انسداد و شاخه‌های کاروتید خارجی"
+    },
+    "hn08-T05": {
+      "page": 26,
+      "title": "شاخه‌های انتهایی و تیروئیدی فوقانی"
+    },
+    "hn08-T06": {
+      "page": 30,
+      "title": "شریان زبانی و مسیر شریان صورتی"
+    },
+    "hn08-T07": {
+      "page": 35,
+      "title": "شاخه‌های صورتی، پس‌سری و گوشی خلفی"
+    },
+    "hn08-T08": {
+      "page": 38,
+      "title": "گیجگاهی سطحی و آغاز ساب‌کلاوین"
+    },
+    "hn08-T09": {
+      "page": 42,
+      "title": "شریان مهره‌ای و توراسیک داخلی"
+    },
+    "hn08-T10": {
+      "page": 49,
+      "title": "توراسیک داخلی و تنهٔ تیروسرویکال"
+    },
+    "hn08-T11": {
+      "page": 54,
+      "title": "کاستوسرویکال و شریان کتفی خلفی"
+    },
+    "hn08-T12": {
+      "page": 57,
+      "title": "اختلالات ساب‌کلاوین و وریدهای گردن"
+    }
+  },
+  "figures": [
+    {
+      "asset": "headneck/images/hn08/lecture_p01_1.png",
+      "sha256": "dc15f7c80e5c00503717024c4033366eaf3306cf9c28edf750233c47cda5c3a7",
+      "topic": "hn08-T01",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 1"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p01_2.png",
+      "sha256": "7db5b8e3c7f5a180d0189a907db09f0ebad17787e20cad256fd5b052cee3cc69",
+      "topic": "hn08-T01",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 1"
+    },
+    {
+      "asset": "headneck/images/hn08/gray_fig8165.png",
+      "sha256": "662d411616557654137fa0fe32fe2b9c5f0a3384a0b7fb5826c3f3593efab6fe",
+      "topic": "hn08-T01",
+      "source": "گری، بخش ۱۰۰۱–۱۱۸۹، صفحهٔ فایل ۳۸، چاپی ۱۰۱۰، شکل ۸.۱۶۵"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p01_3.png",
+      "sha256": "3a90799223b1dd71deec3bbcf8841ab1728153ce591f209c8b24f9104f1e5d9d",
+      "topic": "hn08-T01",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 1"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p02_1.png",
+      "sha256": "3d1bb18620490fa9b93153e80b9fc370cef75e78149ea15e48027a95e377e96c",
+      "topic": "hn08-T02",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 2"
+    },
+    {
+      "asset": "headneck/images/hn08/netter_plate58.png",
+      "sha256": "95b2326f52849f676abfcc52cd233b6fd0261db66f103afae9e02d80d50f8851",
+      "topic": "hn08-T02",
+      "source": "نتر، پلیت ۵۸، صفحهٔ فایل ۱۱۰"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p02_2.png",
+      "sha256": "ad93d86a83d8e47d7344b712b104f8d5646f6781b0da2495ca77316cfd041e2f",
+      "topic": "hn08-T02",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 2"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p02_3.png",
+      "sha256": "5ea4ee0b16881ecea15075dc32e667fbc55c77a47d32a873cbfab2d7801dac90",
+      "topic": "hn08-T02",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 2"
+    },
+    {
+      "asset": "headneck/images/hn08/gray_fig8167.png",
+      "sha256": "0139720b53eea56ccc430f828ba12f48597cf5ece931b94748d6979004aeb018",
+      "topic": "hn08-T02",
+      "source": "گری، بخش ۱۰۰۱–۱۱۸۹، صفحهٔ فایل ۴۰، چاپی ۱۰۱۲، شکل ۸.۱۶۷"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p03_1.png",
+      "sha256": "abec55ed79b445d99343648b5d06f6bffb6cab9f31f52c8761672b376ca53b88",
+      "topic": "hn08-T03",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 3"
+    },
+    {
+      "asset": "headneck/images/hn08/netter_plate165.png",
+      "sha256": "0237af9a54218b41ec962c7315088e1f3941ef4a00c61c4c05e7c1e291dd8d49",
+      "topic": "hn08-T03",
+      "source": "نتر، پلیت ۱۶۵، صفحهٔ فایل ۲۱۷"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p05_2.png",
+      "sha256": "e7d8aa3da9f8b6ee2acb2d9d3e04b446c32f298389dca4739699ccb2b4f71e6a",
+      "topic": "hn08-T04",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل ۵"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p04_1.png",
+      "sha256": "8de497ea8ead974b2bd0ecc81172144ce92d23847496087aec4bc9c4c9df5169",
+      "topic": "hn08-T04",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 4"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p04_2.png",
+      "sha256": "9f085675c37acba24f6714911623065c0220fa97951e8ca5970db6c63f97684b",
+      "topic": "hn08-T04",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 4"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p05_1.png",
+      "sha256": "b485a2bab11767cb7fd3e0da03ce3bf3ffd3e3705e657c4445e3b348a3157ab7",
+      "topic": "hn08-T05",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 5"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p05_3.png",
+      "sha256": "424fc8a5f1916154d9cad43b426fb28d3a082fd5df2e109a01af5f4dca621f1c",
+      "topic": "hn08-T05",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 5"
+    },
+    {
+      "asset": "headneck/images/hn08/netter_plate103.png",
+      "sha256": "46507791c8829831506d7c5aee44cc88effe54e5fb410bd0a277fb99a2de4dd6",
+      "topic": "hn08-T05",
+      "source": "نتر، پلیت ۱۰۳، صفحهٔ فایل ۱۵۵"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p06_1.png",
+      "sha256": "fe514888caa9a210efb8a42c3c2c6e2e39e3e7c5d9906912d6c9cf8922e8e64d",
+      "topic": "hn08-T06",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 6"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p06_2.png",
+      "sha256": "9bae9fd1e7fbbf0555c6af04c57bc489f2fe4af3b005a6859347403790fae87a",
+      "topic": "hn08-T06",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 6"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p06_3.png",
+      "sha256": "be69c42484852ee71f258df9b91b7b5e98f520eb8c9696168aeb77498a294e53",
+      "topic": "hn08-T06",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 6"
+    },
+    {
+      "asset": "headneck/images/hn08/netter_plate99.png",
+      "sha256": "79d0b3a60498cad8611ad813713b45726c09961be00e9aa8cd97ee8e74ecb9e0",
+      "topic": "hn08-T06",
+      "source": "نتر، پلیت ۹۹، صفحهٔ فایل ۱۵۱"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p07_1.png",
+      "sha256": "cd399af0c816cd9e1b2bdc277161b5d1178ced0c7703b61cc5df251e6f95ec0e",
+      "topic": "hn08-T07",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 7"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p07_2.png",
+      "sha256": "83dd5912cb5632e18356a6296123a967e034b0a8adb2f1ad4e6b2e232750dec2",
+      "topic": "hn08-T07",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 7"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p08_1.png",
+      "sha256": "1c3557103083365180ac7c7dc6cf7ff89b4fb5503bebae7acac0648b5a4cfb0a",
+      "topic": "hn08-T08",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 8"
+    },
+    {
+      "asset": "headneck/images/hn08/gray_fig8182.png",
+      "sha256": "481ad5760d79601464f8cd0dbd2cd96581dbf31fa81985ea92a8b95ad6ffec1f",
+      "topic": "hn08-T08",
+      "source": "گری، بخش ۱۰۰۱–۱۱۸۹، صفحهٔ فایل ۵۴، چاپی ۱۰۲۶، شکل ۸.۱۸۲"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p09_1.png",
+      "sha256": "889ca9fd4162d57788275bbecf4c057f20c0bd40628bf9e3bc4b40842adc5424",
+      "topic": "hn08-T09",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 9"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p09_2.png",
+      "sha256": "aba7e0d3eaf750ce627f21a2772c263e341b41965b2ea044f0ccedc55c2ced37",
+      "topic": "hn08-T09",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 9"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p09_3.png",
+      "sha256": "a6acbab355ee5329a6482cda133be5ea1924c317ce07cb8972e81867516b9186",
+      "topic": "hn08-T09",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 9"
+    },
+    {
+      "asset": "headneck/images/hn08/gray_fig8187.png",
+      "sha256": "6e60f70788b89a1be5176bb408c96ffdf1e49c6f7ca0a45147153b64b9d4e7bb",
+      "topic": "hn08-T09",
+      "source": "گری، بخش ۱۰۰۱–۱۱۸۹، صفحهٔ فایل ۵۹، چاپی ۱۰۳۱، شکل ۸.۱۸۷"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p10_1.png",
+      "sha256": "d474f5d4298e72f4d9b2cddc7240e2d522745d4732db0839a793f6ada7c19a12",
+      "topic": "hn08-T10",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 10"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p10_2.png",
+      "sha256": "8d72fa43088be557f7f70b2cc0e07a66d3a1ac70cf1247aa7314ff54d2f2f3af",
+      "topic": "hn08-T10",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 10"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p10_3.png",
+      "sha256": "468eeb873751a67b76951ad0b6ddba9aab9de5a9cdbbd0700f0753025d44e1c0",
+      "topic": "hn08-T10",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 10"
+    },
+    {
+      "asset": "headneck/images/hn08/netter_plate104.png",
+      "sha256": "da3d3331d3a26d8d7f4ab9d43fff4a50147d52f160854bf9caf0e0c54780e895",
+      "topic": "hn08-T10",
+      "source": "نتر، پلیت ۱۰۴، صفحهٔ فایل ۱۵۶"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p11_1.png",
+      "sha256": "ac56ff88ad5405d9637a3e7e2c3a4a4dc42ea236bf92c7c93def515f13473909",
+      "topic": "hn08-T11",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 11"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p11_2.png",
+      "sha256": "baadef09246f77bd9853c267c0b7d0e77829d14dad80d477a141dc2488bd0157",
+      "topic": "hn08-T11",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 11"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p12_1.png",
+      "sha256": "a7f3f37ac3298df8fa3a8c1bd6361464f8f40a731ed3c49715f7838d711a472f",
+      "topic": "hn08-T12",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 12"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p12_2.png",
+      "sha256": "02778802ab302e12276b0721eac0e92bd5d17ff05a5e60d03b1dd29de542a17d",
+      "topic": "hn08-T12",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل 12"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p13_1.png",
+      "sha256": "f7249066621dd6e4d04978195229c5ea8dd96786648754a07b571f1b4d7a0fba",
+      "topic": "hn08-T12",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل ۱۳"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p13_detail_sinus.png",
+      "sha256": "6a715078fafb4bd19e6ae88de1239410adfbb8fa0ed703016e01861f08512b29",
+      "topic": "hn08-T12",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل ۱۳"
+    },
+    {
+      "asset": "headneck/images/hn08/lecture_p13_detail_veins.png",
+      "sha256": "905b6c54434d1ee85c1b35e41e18059805af4200c78f46f7a890ccadff82e76e",
+      "topic": "hn08-T12",
+      "source": "جزوهٔ جلسهٔ ۸، صفحهٔ فایل ۱۳"
+    }
+  ],
+  "source_paragraphs": {
+    "1": 14,
+    "2": 15,
+    "3": 20,
+    "4": 16,
+    "5": 12,
+    "6": 20,
+    "7": 15,
+    "8": 20,
+    "9": 12,
+    "10": 9,
+    "11": 13,
+    "12": 13
+  },
+  "pages": 65,
+  "bookmarks": [
+    [
+      1,
+      "ساختار این جزوه و قاعدهٔ خواندن آن",
+      2
+    ],
+    [
+      2,
+      "قاعدهٔ ارجاع و علامت‌گذاری",
+      2
+    ],
+    [
+      1,
+      "فهرست مطالب",
+      3
+    ],
+    [
+      1,
+      "عروق گردن",
+      5
+    ],
+    [
+      2,
+      "مبدأ شریان‌های گردن و کاروتید مشترک",
+      5
+    ],
+    [
+      2,
+      "مجاورات و دوشاخگی کاروتید مشترک",
+      11
+    ],
+    [
+      2,
+      "جسم کاروتید و مسیر کاروتید داخلی",
+      17
+    ],
+    [
+      2,
+      "انسداد و شاخه‌های کاروتید خارجی",
+      21
+    ],
+    [
+      2,
+      "شاخه‌های انتهایی و تیروئیدی فوقانی",
+      26
+    ],
+    [
+      2,
+      "شریان زبانی و مسیر شریان صورتی",
+      30
+    ],
+    [
+      2,
+      "شاخه‌های صورتی، پس‌سری و گوشی خلفی",
+      35
+    ],
+    [
+      2,
+      "گیجگاهی سطحی و آغاز ساب‌کلاوین",
+      38
+    ],
+    [
+      2,
+      "شریان مهره‌ای و توراسیک داخلی",
+      42
+    ],
+    [
+      2,
+      "توراسیک داخلی و تنهٔ تیروسرویکال",
+      49
+    ],
+    [
+      2,
+      "کاستوسرویکال و شریان کتفی خلفی",
+      54
+    ],
+    [
+      2,
+      "اختلالات ساب‌کلاوین و وریدهای گردن",
+      57
+    ],
+    [
+      1,
+      "جمع‌بندی و چک‌لیست",
+      64
+    ],
+    [
+      1,
+      "قدم بعدی: چه چیزی در جلسهٔ بعد می‌آید",
+      64
+    ]
+  ],
+  "file": ".cache/hn08_audit/HumsYar_HeadNeck_Jalase8_AUDITED.pdf",
+  "sha256": "bba49423797ec91801892eb7fcb94583cb101cc1b483198708fd07df0a3ea14b",
+  "bytes": 23928120,
+  "qa": {
+    "outside_spans": [],
+    "empty_pages": [],
+    "leaks": [],
+    "body_near_footer": []
+  }
+}

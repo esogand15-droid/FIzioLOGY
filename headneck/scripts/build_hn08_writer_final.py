@@ -44,6 +44,31 @@ CAPTIONS={
 13:['دو نمای وریدی را کنار هم بخوانید؛ سینوس سیگموئید و ژوگولار داخلی را دنبال کنید.']}
 REFS={1:[('gray_fig8165','گری، بخش ۱۰۰۱–۱۱۸۹، صفحهٔ فایل ۳۸، چاپی ۱۰۱۰، شکل ۸.۱۶۵','مبدأ کاروتیدهای مشترک و ساب‌کلاوین‌ها را با محل اتصال وریدها مقایسه کنید.')],2:[('gray_fig8167','گری، بخش ۱۰۰۱–۱۱۸۹، صفحهٔ فایل ۴۰، چاپی ۱۰۱۲، شکل ۸.۱۶۷','دوشاخگی و سینوس را در کنار شاخه‌های کاروتید پیدا کنید.'),('netter_plate58','نتر، پلیت ۵۸، صفحهٔ فایل ۱۱۰','نمای طرفی بالا و طرح پایین را برای شاخه‌ها و مجاورات مقایسه کنید.')],3:[('netter_plate165','نتر، پلیت ۱۶۵، صفحهٔ فایل ۲۱۷','افتالمیک، کاروتید داخلی و شاخه‌های مغزی را در شماتیک دنبال کنید.')],5:[('netter_plate103','نتر، پلیت ۱۰۳، صفحهٔ فایل ۱۵۵','عروق تیروئیدی و شاخه‌های حنجره‌ای را در نمای قدامی مشخص کنید.')],6:[('netter_plate99','نتر، پلیت ۹۹، صفحهٔ فایل ۱۵۱','لینگوال و فاسیال را در ارتباط با عضلات و غدهٔ زیر فکی دنبال کنید.')],8:[('gray_fig8182','گری، بخش ۱۰۰۱–۱۱۸۹، صفحهٔ فایل ۵۴، چاپی ۱۰۲۶، شکل ۸.۱۸۲','قسمت‌های ساب‌کلاوین را نسبت به اسکالن و شبکهٔ بازویی جهت‌یابی کنید.')],9:[('gray_fig8187','گری، بخش ۱۰۰۱–۱۱۸۹، صفحهٔ فایل ۵۹، چاپی ۱۰۳۱، شکل ۸.۱۸۷','ورتبرال را از ریشهٔ گردن به بالا و ساب‌کلاوین را نسبت به دندهٔ اول دنبال کنید.')],10:[('netter_plate104','نتر، پلیت ۱۰۴، صفحهٔ فایل ۱۵۶','تیروئیدی تحتانی و عصب راجعه را در نمای خلفی تشخیص دهید.')]}
 
+# Each image follows a specific passage of its own lecture page.  This avoids
+# detaching a figure from the anatomical relationship it is intended to show.
+FIGURE_ANCHORS={
+ 1:{1:'این دو تا شریان و شاخه',2:'• سمت چپ:',3:'• در جلو (Anterior):'},
+ 2:{1:'• در خارج (Lateral):',2:'۲. شریان کاروتید بیرونی',3:'۱. سینوس کاروتید'},
+ 3:{1:'بعد از اون از طریق کانال کاروتید'},
+ 4:{1:'شریان کاروتید بیرونی یا خارجی (ECA)',2:'شاخه‌های سطح خلفی'},
+ 5:{1:'نکته مجاورتی با عضله دیگاستریک',3:'• شاخه خلفی:'},
+ 6:{1:'• شاخه کریکوتیروئید:',2:'• قسمت انتهایی‌ش به شریان عمقی زبان',3:'شریان فاسیال (صورتی) و مسیر حرکت آن:'},
+ 7:{1:'شریان آکسیپیتال (پس‌سری)',2:'شریان گوشی خلفی (Posterior Auricular)'},
+ 8:{1:'شریان گیجگاهی سطحی (Superficial Temporal) — شاخه انتهایی:'},
+ 9:{1:'شاخه‌های بخش اول شریان ساب‌کلاوین',2:'۱. شریان ورتبرال یا مهره‌ای',3:'با توجه به این مسیر، شریان ورتبرال'},
+ 10:{1:'پایین میاد و در مقابل ششمین فضای',2:'• سایر شاخه‌های فرعی:',3:'• الف) شریان تیروئیدی تحتانی'},
+ 11:{1:'مسیر و شاخه‌ها: این تنه',2:'بخش سوم شریان ساب‌کلاوین و شریان کتفی خلفی:'},
+ 12:{1:'۲. سندرم دزدیدن ساب‌کلاوین',2:'• مسیر و ویژگی‌ها:'}}
+REF_ANCHORS={
+ 1:{'gray_fig8165':'• سمت چپ:'},
+ 2:{'gray_fig8167':'۱. سینوس کاروتید','netter_plate58':'وقتی این شریان به موازات'},
+ 3:{'netter_plate165':'بعد از اون از طریق کانال کاروتید'},
+ 5:{'netter_plate103':'• شاخه خلفی:'},
+ 6:{'netter_plate99':'شریان فاسیال (صورتی) و مسیر حرکت آن:'},
+ 8:{'gray_fig8182':'• بخش سوم در سمت خارج'},
+ 9:{'gray_fig8187':'با توجه به این مسیر، شریان ورتبرال'},
+ 10:{'netter_plate104':'نکته بالینی و جراحی بسیار حیاتی:'}}
+
 def outline():
  return {'session':'hn08','title':'عروق گردنی','topics':[{'topic_id':f'hn08-T{i:02}','title':title,'pages':([12,13] if i==12 else [i]),'gist':W.QUESTIONS[i], 'prereq':'شناخت جهت‌ها، لامی و فاسیای گردن'} for i,title in enumerate(W.TITLES,1)]}
 
@@ -68,7 +93,8 @@ def emit_table(book,idx):
 def build(path,toc=None):
  pages=source_pages();o=outline();cfg=H.HN_SESSIONS['hn08'];book=Book(path,'جزوهٔ مادر آناتومی سر و گردن — جلسهٔ ۸',footer='HumsYar · جزوهٔ مادر سر و گردن · جلسهٔ ۸',subject='جزوهٔ مادر')
  book.measure_idcard=True;book.keep_parenthesized_latin=True;book.block_trace=[];book.trace_topic=''
- SHELL.opening(book,8,o,toc);book.h1('عروق گردن',anchor='chapter',kicker='جلسهٔ هشتم');book.para('مسیر شریان‌های کاروتید و ساب‌کلاوین، شاخه‌ها و وریدهای گردن را در متن و شکل دنبال کنید.')
+ SHELL.opening(book,8,o,toc);book.h1('عروق گردن',anchor='chapter',kicker='جلسهٔ هشتم');book.para('در شناسنامهٔ جزوهٔ اصلی: استاد میرزایی؛ ویس به متن: نرگس بنایی؛ تألیف: پوریا عبداللهی.')
+ book.source_line('جزوهٔ جلسهٔ ۸، صفحهٔ فایل ۱');book.para('مسیر شریان‌های کاروتید و ساب‌کلاوین، شاخه‌ها و وریدهای گردن را در متن و شکل دنبال کنید.')
  graphs=graph_data();geometry=R.layouts(book,graphs);stats={'topics':{},'figures':[],'source_paragraphs':{}}
  for i,t in enumerate(o['topics'],1):
   book.trace_topic=t['topic_id'];card=[{'label':'جای این مبحث','text':t['title']},{'label':'هدف یادگیری','text':W.QUESTIONS[i]},{'label':'پیش‌نیاز','text':t['prereq']},{'label':'راهنمای خواندن شکل','text':W.GUIDES[i][0]}]
@@ -81,16 +107,37 @@ def build(path,toc=None):
   # the subject's anatomical ambiguity is included separately in the reviewer sheet.
   paras=[x for x in paras if not x.startswith('یادداشت حاشیه‌ای منبع:')]
   stats['source_paragraphs'][str(i)]=len(paras)
+  placed=set()
+  def put(path,title,cite,guide):
+   block=image_block(path,title,cite,guide);H.render_blocks(book,[block],cfg)
+   stats['figures'].append({'asset':str(path.relative_to(ROOT)),'sha256':R.sha(path),'topic':t['topic_id'],'source':cite})
   for para in paras:
    H.render_blocks(book,[{'type':'p','text':para,'src':f'جزوهٔ جلسهٔ ۸، صفحهٔ فایل {i}'}],cfg)
-  book.callout(W.NOTES[i][0],kind='info',title='توضیح آموزشی — جدا از متن جزوه');book.source_line(W.NOTES[i][1]);emit_table(book,i)
-  srcpages=[i,13] if i==12 else [i]
-  for n in srcpages:
-   for j,caption in enumerate(CAPTIONS[n],1):
-    path=ROOT/f'headneck/images/hn08/lecture_p{n:02}_{j}.png';cite=f'جزوهٔ جلسهٔ ۸، صفحهٔ فایل {n}'
-    block=image_block(path,'تصویر جزوه — '+t['title'],cite,caption);H.render_blocks(book,[block],cfg);stats['figures'].append({'asset':str(path.relative_to(ROOT)),'sha256':R.sha(path),'topic':t['topic_id'],'source':cite})
-  for name,cite,caption in REFS.get(i,[]):
-   path=ROOT/f'headneck/images/hn08/{name}.png';block=image_block(path,'نمای مرجع — '+t['title'],cite,caption);H.render_blocks(book,[block],cfg);stats['figures'].append({'asset':str(path.relative_to(ROOT)),'sha256':R.sha(path),'topic':t['topic_id'],'source':cite})
+   if i==6 and para.startswith('• شاخه سوپراهیوئید:'):
+    book.callout('یادداشت حاشیه‌ای جزوه: در گفتهٔ استاد سوپراهیوئید آمده و دربارهٔ اینفراهیوئید اختلاف یادداشت شده است. '+W.NOTES[i][0],kind='info',title='یادداشت منبع و توضیح آموزشی')
+    book.source_line('جزوهٔ جلسهٔ ۸، صفحهٔ فایل ۶؛ '+W.NOTES[i][1])
+   if i==4 and '۲. از طریق آناستوموز' in para:
+    path=ROOT/'headneck/images/hn08/lecture_p05_2.png';cite='جزوهٔ جلسهٔ ۸، صفحهٔ فایل ۵'
+    put(path,'تصویر جزوه — آناستوموز کاروتید داخلی و خارجی',cite,CAPTIONS[5][1]);placed.add('lecture_p05_2')
+   for j,anchor in FIGURE_ANCHORS[i].items():
+    key=f'lecture_p{i:02}_{j}'
+    if anchor in para and key not in placed:
+     cite=f'جزوهٔ جلسهٔ ۸، صفحهٔ فایل {i}';path=ROOT/f'headneck/images/hn08/{key}.png'
+     put(path,'تصویر جزوه — '+t['title'],cite,CAPTIONS[i][j-1]);placed.add(key)
+   for name,anchor in REF_ANCHORS.get(i,{}).items():
+    if anchor in para and name not in placed:
+     ref=next(r for r in REFS[i] if r[0]==name);path=ROOT/f'headneck/images/hn08/{name}.png'
+     put(path,'نمای مرجع — '+t['title'],ref[1],ref[2]);placed.add(name)
+  expected={f'lecture_p{i:02}_{j}' for j in FIGURE_ANCHORS[i]} | set(REF_ANCHORS.get(i,{}))
+  if i==4:expected.add('lecture_p05_2')
+  if placed!=expected:raise ValueError(f'Missing figure anchors topic {i}: {expected-placed}')
+  if i!=6:
+   book.callout(W.NOTES[i][0],kind='info',title='توضیح آموزشی — جدا از متن جزوه');book.source_line(W.NOTES[i][1])
+  emit_table(book,i)
+  if i==12:
+   cite='جزوهٔ جلسهٔ ۸، صفحهٔ فایل ۱۳'
+   for name,guide in [('lecture_p13_1','دو نمای وریدی اصل را کنار هم بخوانید؛ مسیر ژوگولار داخلی را دنبال کنید.'),('lecture_p13_detail_sinus','بزرگ‌نمایی نیمهٔ چپ همان شکل: مسیر سینوس ساژیتال، سینوس عرضی و سیگموئید تا ژوگولار داخلی را دنبال کنید.'),('lecture_p13_detail_veins','بزرگ‌نمایی نیمهٔ راست همان شکل: وریدهای سطحی صورت و گردن را نسبت به ژوگولار داخلی شناسایی کنید.')]:
+    put(ROOT/f'headneck/images/hn08/{name}.png','تصویر جزوه — وریدهای سر و گردن',cite,guide)
   if str(i) in graphs:R.draw_graph(book,graphs[str(i)],geometry[str(i)],force_page=True)
   book.note_box(24,title='یادداشت جزوه‌نویس')
   book.handoff_sheet('برگهٔ تحویل — مبحث '+str(i)+' — '+t['title'],f'جزوهٔ جلسهٔ ۸، صفحهٔ فایل {i}'+(' و ۱۳' if i==12 else '')+'؛ '+W.NOTES[i][1],W.GUIDES[i],W.REVIEW[i],kicker='برای تکمیل جزوه‌نویس',note='پرسش باز: '+W.QUESTIONS[i],writer_name=True)

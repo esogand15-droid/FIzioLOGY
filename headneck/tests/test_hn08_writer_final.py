@@ -1,5 +1,5 @@
 """Regression and provenance checks for the session-eight writer edition."""
-import hashlib,io,json,sys,unittest,unicodedata
+import hashlib,io,json,re,sys,unittest,unicodedata
 from pathlib import Path
 from PIL import Image
 import pymupdf
@@ -10,8 +10,8 @@ import build_hn08_writer_final as B
 class SessionEightWriterTests(unittest.TestCase):
  @classmethod
  def setUpClass(cls):
-  cls.out=ROOT/'pdf/HumsYar_HeadNeck_Jalase8_WRITER_FINAL.pdf'
-  cls.manifest=ROOT/'headneck/reports/hn08_evidence/writer_manifest.json'
+  cls.out=ROOT/'pdf/HumsYar_HeadNeck_Jalase8_AUDITED.pdf'
+  cls.manifest=ROOT/'headneck/reports/hn08_evidence/audit_manifest.json'
  def test_original_source_and_transcription_coverage(self):
   src=next((ROOT/'علوم تشریح سر و گردن/جلسه 8 - عروق گردنی').glob('*.pdf'))
   self.assertEqual(hashlib.sha256(src.read_bytes()).hexdigest(),'bee4f56e1a034522776b1a9827aa9c03686ff9bc72f3b64832cd38eb71b4d9df')
@@ -29,7 +29,7 @@ class SessionEightWriterTests(unittest.TestCase):
    for name,_,_ in refs:self.assertTrue((ROOT/f'headneck/images/hn08/{name}.png').exists())
  def test_rendered_figure_pixels_and_qa(self):
   if not self.out.exists() or not self.manifest.exists():self.skipTest('Generated booklet not present')
-  data=json.loads(self.manifest.read_text());self.assertEqual(len(data['figures']),38);self.assertFalse(any(data['qa'].values()))
+  data=json.loads(self.manifest.read_text());self.assertEqual(len(data['figures']),40);self.assertFalse(any(data['qa'].values()))
   with pymupdf.open(self.out) as doc:
    xrefs={im[0] for p in doc for im in p.get_images()};hashes=set()
    for xref in xrefs:
@@ -38,6 +38,31 @@ class SessionEightWriterTests(unittest.TestCase):
   for rec in data['figures']:
    p=ROOT/rec['asset'];self.assertEqual(hashlib.sha256(p.read_bytes()).hexdigest(),rec['sha256'])
    im=Image.open(p).convert('RGB');self.assertIn((im.size,hashlib.sha256(im.tobytes()).hexdigest()),hashes)
+ def test_each_figure_has_a_matching_source_anchor(self):
+  pages=B.source_pages()
+  for n,figs in B.FIGURE_ANCHORS.items():
+   for j,anchor in figs.items():
+    self.assertEqual(sum(anchor in p for p in pages[n].splitlines()),1,(n,j,anchor))
+  for n,figs in B.REF_ANCHORS.items():
+   for name,anchor in figs.items():
+    self.assertEqual(sum(anchor in p for p in pages[n].splitlines()),1,(n,name,anchor))
+  # The page-five collateral image is deliberately placed by the relevant page-four text.
+  self.assertIn('۲. از طریق آناستوموز',pages[4])
+  orig={(n,j) for n,figs in B.CAPTIONS.items() for j in range(1,len(figs)+1)}
+  mapped={(n,j) for n,figs in B.FIGURE_ANCHORS.items() for j in figs}|{(5,2),(13,1)}
+  self.assertEqual(orig,mapped)
+ def test_source_persian_words_are_present_in_pdf(self):
+  if not self.out.exists():self.skipTest('Generated booklet not present')
+  def clean(s):
+   s=unicodedata.normalize('NFKC',s).replace('\u200c','').replace('ي','ی').replace('ك','ک')
+   return ''.join(c for c in s if not unicodedata.combining(c))
+  with pymupdf.open(self.out) as doc:body=clean(' '.join(p.get_text() for p in doc))
+  for credit in ['استاد میرزایی','نرگس بنایی','پوریا عبداللهی','یادداشت حاشیهای جزوه']:
+   self.assertIn(clean(credit),body)
+  for page,source in B.source_pages().items():
+   source='\n'.join(line for line in source.splitlines() if not line.startswith('یادداشت حاشیه‌ای منبع:'))
+   for word in set(re.findall(r'[ء-غف-یپچژگ]{4,}',clean(source))):
+    self.assertIn(word,body,(page,word))
  def test_shell_forms_and_chapter_destinations(self):
   if not self.out.exists():self.skipTest('Generated booklet not present')
   def norm(s):return unicodedata.normalize('NFKC',s).replace('\u200c','').replace('ٔ','')
