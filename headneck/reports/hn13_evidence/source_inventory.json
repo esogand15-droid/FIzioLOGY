@@ -1,0 +1,7895 @@
+{
+  "sources": [
+    {
+      "part": "1",
+      "source": "علوم تشریح سر و گردن/جلسه 13 - اناتومی سر و گردن عملی/Practical anatomy 1.pdf",
+      "sha256": "a5bc24597a0a61e3d42f67ab30f1dc667c806a6acb9ee2014927863e72866c7b",
+      "page_count": 17,
+      "pages": [
+        {
+          "page": 1,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Practical anatomy of head and neck",
+              "bbox": [
+                224.66,
+                23.86,
+                755.52,
+                59.86
+              ]
+            },
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "✓",
+              "bbox": [
+                139.85,
+                104.99,
+                174.47,
+                153.61
+              ]
+            },
+            {
+              "text": "Anterior view or norma frontalis",
+              "bbox": [
+                184.85,
+                111.55,
+                774.85,
+                155.59
+              ]
+            },
+            {
+              "text": "✓",
+              "bbox": [
+                139.85,
+                189.57,
+                174.48,
+                238.21
+              ]
+            },
+            {
+              "text": "lateral view or norma temporalis",
+              "bbox": [
+                184.85,
+                196.13,
+                782.67,
+                240.2
+              ]
+            },
+            {
+              "text": "✓",
+              "bbox": [
+                139.85,
+                269.99,
+                174.47,
+                318.61
+              ]
+            },
+            {
+              "text": "Posterior view or norma occipitalis",
+              "bbox": [
+                184.85,
+                276.55,
+                818.19,
+                320.59
+              ]
+            },
+            {
+              "text": "✓",
+              "bbox": [
+                139.85,
+                351.49,
+                174.47,
+                400.11
+              ]
+            },
+            {
+              "text": "Superior view or norma parietalis",
+              "bbox": [
+                184.85,
+                358.05,
+                796.08,
+                402.09
+              ]
+            },
+            {
+              "text": "First session  of practical anatomy",
+              "bbox": [
+                50.16,
+                39.33,
+                497.5,
+                71.37
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Glabella",
+              "bbox": [
+                233.33,
+                20.15,
+                292.71,
+                38.15
+              ]
+            },
+            {
+              "text": "Supra-orbital notch",
+              "bbox": [
+                104.42,
+                38.08,
+                245.4,
+                56.08
+              ]
+            },
+            {
+              "text": "(foramen)",
+              "bbox": [
+                104.42,
+                59.66,
+                181.38,
+                77.69
+              ]
+            },
+            {
+              "text": "Lacrimal bone",
+              "bbox": [
+                37.92,
+                242.17,
+                140.79,
+                260.17
+              ]
+            },
+            {
+              "text": "Greater wing of",
+              "bbox": [
+                33.22,
+                149.87,
+                151.33,
+                167.87
+              ]
+            },
+            {
+              "text": "sphenoidal bone",
+              "bbox": [
+                33.22,
+                171.47,
+                155.0,
+                189.47
+              ]
+            },
+            {
+              "text": "Lesser wing of",
+              "bbox": [
+                51.67,
+                90.88,
+                159.8,
+                108.88
+              ]
+            },
+            {
+              "text": "sphenoidal bone",
+              "bbox": [
+                51.67,
+                112.48,
+                173.46,
+                130.48
+              ]
+            },
+            {
+              "text": "Zygomatic bone",
+              "bbox": [
+                30.02,
+                371.15,
+                145.88,
+                389.18
+              ]
+            },
+            {
+              "text": "Zygomaticofacial",
+              "bbox": [
+                27.62,
+                281.2,
+                149.59,
+                299.2
+              ]
+            },
+            {
+              "text": "foramen",
+              "bbox": [
+                27.62,
+                302.8,
+                89.62,
+                320.8
+              ]
+            },
+            {
+              "text": "Infra-orbital foramen",
+              "bbox": [
+                671.23,
+                391.48,
+                824.65,
+                409.48
+              ]
+            },
+            {
+              "text": "Frontal process of maxillary bone",
+              "bbox": [
+                27.62,
+                479.8,
+                269.67,
+                497.83
+              ]
+            },
+            {
+              "text": "Alveolar process  of maxillary bone",
+              "bbox": [
+                549.17,
+                498.08,
+                803.69,
+                516.08
+              ]
+            },
+            {
+              "text": "Canine fossa",
+              "bbox": [
+                669.12,
+                443.56,
+                760.96,
+                461.56
+              ]
+            },
+            {
+              "text": "Zygomatic process  of maxillary bone",
+              "bbox": [
+                14.38,
+                434.95,
+                283.4,
+                452.97
+              ]
+            },
+            {
+              "text": "Anterior nasal spine",
+              "bbox": [
+                185.26,
+                504.76,
+                331.09,
+                522.79
+              ]
+            },
+            {
+              "text": "Frontal tuber / prominence",
+              "bbox": [
+                664.94,
+                36.56,
+                864.06,
+                54.56
+              ]
+            },
+            {
+              "text": "Superciliary arch",
+              "bbox": [
+                695.57,
+                87.3,
+                816.57,
+                105.3
+              ]
+            },
+            {
+              "text": "Frontal bone",
+              "bbox": [
+                573.12,
+                9.97,
+                666.18,
+                27.97
+              ]
+            },
+            {
+              "text": "Middle nasal concha",
+              "bbox": [
+                738.41,
+                232.17,
+                888.23,
+                250.2
+              ]
+            },
+            {
+              "text": "Inferior nasal concha",
+              "bbox": [
+                728.3,
+                287.05,
+                880.78,
+                305.05
+              ]
+            },
+            {
+              "text": "Nasal bones",
+              "bbox": [
+                728.33,
+                156.23,
+                816.93,
+                174.23
+              ]
+            },
+            {
+              "text": "Nasion",
+              "bbox": [
+                723.91,
+                123.37,
+                774.27,
+                141.37
+              ]
+            },
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                8.02,
+                526.35,
+                302.39,
+                540.39
+              ]
+            },
+            {
+              "text": "Inferior orbital fissure",
+              "bbox": [
+                35.28,
+                198.92,
+                193.72,
+                216.92
+              ]
+            },
+            {
+              "text": "Superior orbital fissure",
+              "bbox": [
+                730.97,
+                188.7,
+                897.67,
+                206.7
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page03.png",
+          "figure_sha256": "9c0bde6aafa26b30cf8ffe41345c1475471abc4a21473985c0e6fcff0c0d4ca2",
+          "figure_rect": [
+            10.38,
+            2.12,
+            901.67,
+            537.87
+          ]
+        },
+        {
+          "page": 4,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                5.83,
+                519.85,
+                300.21,
+                533.89
+              ]
+            },
+            {
+              "text": "Superciliary arch",
+              "bbox": [
+                720.84,
+                42.11,
+                841.84,
+                60.11
+              ]
+            },
+            {
+              "text": "Frontal bone",
+              "bbox": [
+                573.12,
+                9.97,
+                666.18,
+                27.97
+              ]
+            },
+            {
+              "text": "Nasion",
+              "bbox": [
+                729.67,
+                92.05,
+                780.03,
+                110.05
+              ]
+            },
+            {
+              "text": "Superior orbital fissure",
+              "bbox": [
+                720.84,
+                132.37,
+                887.54,
+                150.37
+              ]
+            },
+            {
+              "text": "Middle nasal concha",
+              "bbox": [
+                737.06,
+                197.15,
+                886.88,
+                215.18
+              ]
+            },
+            {
+              "text": "Inferior nasal concha",
+              "bbox": [
+                756.77,
+                252.88,
+                909.0,
+                270.88
+              ]
+            },
+            {
+              "text": "Infra-orbital foramen",
+              "bbox": [
+                690.7,
+                341.1,
+                844.14,
+                359.1
+              ]
+            },
+            {
+              "text": "Canine fossa",
+              "bbox": [
+                706.27,
+                378.06,
+                798.11,
+                396.06
+              ]
+            },
+            {
+              "text": "Alveolar process  of maxillary bone",
+              "bbox": [
+                582.65,
+                443.53,
+                837.17,
+                461.53
+              ]
+            },
+            {
+              "text": "Anterior nasal spine",
+              "bbox": [
+                214.08,
+                463.6,
+                359.92,
+                481.6
+              ]
+            },
+            {
+              "text": "Frontal process of maxillary bone",
+              "bbox": [
+                38.14,
+                440.53,
+                280.18,
+                458.53
+              ]
+            },
+            {
+              "text": "Zygomatic process  of maxillary bone",
+              "bbox": [
+                41.76,
+                405.73,
+                310.81,
+                423.73
+              ]
+            },
+            {
+              "text": "Zygomatic bone",
+              "bbox": [
+                63.02,
+                340.43,
+                178.91,
+                358.43
+              ]
+            },
+            {
+              "text": "Zygomaticofacial",
+              "bbox": [
+                51.82,
+                281.05,
+                174.09,
+                299.05
+              ]
+            },
+            {
+              "text": "foramen",
+              "bbox": [
+                51.82,
+                302.65,
+                113.92,
+                320.65
+              ]
+            },
+            {
+              "text": "Lacrimal bone",
+              "bbox": [
+                29.74,
+                214.52,
+                132.61,
+                232.52
+              ]
+            },
+            {
+              "text": "Inferior orbital fissure",
+              "bbox": [
+                37.78,
+                244.45,
+                196.21,
+                262.45
+              ]
+            },
+            {
+              "text": "Greater wing of",
+              "bbox": [
+                28.15,
+                142.12,
+                146.27,
+                160.12
+              ]
+            },
+            {
+              "text": "sphenoidal bone",
+              "bbox": [
+                28.15,
+                163.72,
+                149.94,
+                181.72
+              ]
+            },
+            {
+              "text": "Lesser wing of",
+              "bbox": [
+                51.82,
+                78.25,
+                160.12,
+                96.25
+              ]
+            },
+            {
+              "text": "sphenoidal bone",
+              "bbox": [
+                51.82,
+                99.85,
+                173.8,
+                117.85
+              ]
+            },
+            {
+              "text": "Supra-orbital notch",
+              "bbox": [
+                67.8,
+                10.28,
+                208.77,
+                28.28
+              ]
+            },
+            {
+              "text": "(foramen)",
+              "bbox": [
+                67.8,
+                31.88,
+                144.87,
+                49.88
+              ]
+            },
+            {
+              "text": "Glabella",
+              "bbox": [
+                233.33,
+                20.15,
+                292.71,
+                38.15
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page04.png",
+          "figure_sha256": "fd015e701bf4bf91512a835258d2f19b439acaeb07d3e68d6e3fe2c3c44319e8",
+          "figure_rect": [
+            24.15,
+            5.97,
+            913.0,
+            485.6
+          ]
+        },
+        {
+          "page": 5,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei",
+              "bbox": [
+                16.25,
+                529.93,
+                77.02,
+                544.0
+              ]
+            },
+            {
+              "text": "Hormozgan medical science university",
+              "bbox": [
+                86.19,
+                529.93,
+                307.57,
+                544.0
+              ]
+            },
+            {
+              "text": "Nasion",
+              "bbox": [
+                772.61,
+                97.12,
+                823.03,
+                115.12
+              ]
+            },
+            {
+              "text": "Frontal bone",
+              "bbox": [
+                590.11,
+                26.0,
+                683.17,
+                44.0
+              ]
+            },
+            {
+              "text": "Superciliary arch",
+              "bbox": [
+                759.62,
+                39.13,
+                880.62,
+                57.13
+              ]
+            },
+            {
+              "text": "Superior orbital fissure",
+              "bbox": [
+                750.1,
+                203.17,
+                916.8,
+                221.17
+              ]
+            },
+            {
+              "text": "Middle nasal concha",
+              "bbox": [
+                776.38,
+                241.88,
+                926.19,
+                259.88
+              ]
+            },
+            {
+              "text": "Inferior nasal concha",
+              "bbox": [
+                789.62,
+                288.42,
+                942.1,
+                306.42
+              ]
+            },
+            {
+              "text": "Infra-orbital foramen",
+              "bbox": [
+                735.36,
+                396.85,
+                888.78,
+                414.85
+              ]
+            },
+            {
+              "text": "Canine fossa",
+              "bbox": [
+                763.61,
+                435.78,
+                855.45,
+                453.78
+              ]
+            },
+            {
+              "text": "Alveolar process  of maxillary bone",
+              "bbox": [
+                643.51,
+                458.46,
+                898.03,
+                476.46
+              ]
+            },
+            {
+              "text": "Anterior nasal spine",
+              "bbox": [
+                245.66,
+                498.47,
+                391.5,
+                516.47
+              ]
+            },
+            {
+              "text": "Frontal process of maxillary bone",
+              "bbox": [
+                93.96,
+                468.61,
+                336.01,
+                486.61
+              ]
+            },
+            {
+              "text": "Zygomatic process",
+              "bbox": [
+                742.46,
+                327.78,
+                884.75,
+                345.78
+              ]
+            },
+            {
+              "text": "of maxillary bone",
+              "bbox": [
+                742.46,
+                349.38,
+                869.11,
+                367.38
+              ]
+            },
+            {
+              "text": "Zygomatic bone",
+              "bbox": [
+                51.98,
+                378.11,
+                167.87,
+                396.11
+              ]
+            },
+            {
+              "text": "Zygomaticofacial foramen",
+              "bbox": [
+                30.26,
+                305.72,
+                218.36,
+                323.72
+              ]
+            },
+            {
+              "text": "Inferior orbital fissure",
+              "bbox": [
+                39.48,
+                257.34,
+                197.92,
+                275.34
+              ]
+            },
+            {
+              "text": "Lacrimal bone",
+              "bbox": [
+                65.74,
+                218.48,
+                168.61,
+                236.48
+              ]
+            },
+            {
+              "text": "Greater wing of",
+              "bbox": [
+                62.66,
+                152.27,
+                180.78,
+                170.27
+              ]
+            },
+            {
+              "text": "sphenoidal bone",
+              "bbox": [
+                62.66,
+                173.87,
+                184.45,
+                191.87
+              ]
+            },
+            {
+              "text": "Lesser wing of",
+              "bbox": [
+                778.56,
+                138.42,
+                886.69,
+                156.42
+              ]
+            },
+            {
+              "text": "sphenoidal bone",
+              "bbox": [
+                778.56,
+                160.02,
+                900.35,
+                178.02
+              ]
+            },
+            {
+              "text": "Supra-orbital notch",
+              "bbox": [
+                118.58,
+                74.58,
+                259.56,
+                92.58
+              ]
+            },
+            {
+              "text": "(foramen)",
+              "bbox": [
+                118.58,
+                96.18,
+                195.51,
+                114.18
+              ]
+            },
+            {
+              "text": "Glabella",
+              "bbox": [
+                277.56,
+                29.12,
+                336.94,
+                47.12
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page05.png",
+          "figure_sha256": "5455e0c97bb0030714bdd7b3d5d190249d269516456b292f6c3930d5223b496a",
+          "figure_rect": [
+            26.26,
+            22.0,
+            946.1,
+            520.47
+          ]
+        },
+        {
+          "page": 6,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Mental tubercle",
+              "bbox": [
+                656.16,
+                375.47,
+                773.09,
+                393.47
+              ]
+            },
+            {
+              "text": "Mental protuberance",
+              "bbox": [
+                476.54,
+                463.76,
+                632.35,
+                481.76
+              ]
+            },
+            {
+              "text": "Mental foramen",
+              "bbox": [
+                657.89,
+                299.15,
+                776.46,
+                317.15
+              ]
+            },
+            {
+              "text": "Oblique line",
+              "bbox": [
+                94.68,
+                200.77,
+                183.02,
+                218.77
+              ]
+            },
+            {
+              "text": "Condylar process",
+              "bbox": [
+                171.17,
+                18.18,
+                296.11,
+                36.18
+              ]
+            },
+            {
+              "text": "Pterygoid fovea",
+              "bbox": [
+                592.08,
+                30.85,
+                706.24,
+                48.85
+              ]
+            },
+            {
+              "text": "Coronoid process",
+              "bbox": [
+                32.66,
+                63.52,
+                159.55,
+                81.52
+              ]
+            },
+            {
+              "text": "Angle of mandible",
+              "bbox": [
+                685.92,
+                251.92,
+                819.26,
+                269.92
+              ]
+            },
+            {
+              "text": "Alveolar part",
+              "bbox": [
+                113.28,
+                311.82,
+                207.76,
+                329.85
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page06.png",
+          "figure_sha256": "e79cc2b29b4df37590484a865b321fa2f3edcfe9cd13b51246005f38090b7ac7",
+          "figure_rect": [
+            28.66,
+            14.18,
+            823.26,
+            485.76
+          ]
+        },
+        {
+          "page": 7,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                5.83,
+                519.85,
+                300.21,
+                533.89
+              ]
+            },
+            {
+              "text": "Mental protuberance",
+              "bbox": [
+                272.45,
+                490.57,
+                428.26,
+                508.57
+              ]
+            },
+            {
+              "text": "Mental foramen",
+              "bbox": [
+                540.31,
+                477.71,
+                658.88,
+                495.71
+              ]
+            },
+            {
+              "text": "Oblique line",
+              "bbox": [
+                94.68,
+                200.77,
+                183.02,
+                218.77
+              ]
+            },
+            {
+              "text": "Angle of mandible",
+              "bbox": [
+                702.02,
+                300.4,
+                835.36,
+                318.4
+              ]
+            },
+            {
+              "text": "Ramus",
+              "bbox": [
+                694.63,
+                209.27,
+                743.9,
+                227.27
+              ]
+            },
+            {
+              "text": "Coronoid process",
+              "bbox": [
+                734.71,
+                53.27,
+                861.59,
+                71.27
+              ]
+            },
+            {
+              "text": "Alveolar part",
+              "bbox": [
+                101.9,
+                370.45,
+                196.38,
+                388.45
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page07.png",
+          "figure_sha256": "bd89cf86c6895f9d9a9258c8a8c9c4762369c2d1fdff9eab44f60384200e5eff",
+          "figure_rect": [
+            90.68,
+            15.27,
+            865.59,
+            512.57
+          ]
+        },
+        {
+          "page": 8,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                5.83,
+                519.85,
+                300.21,
+                533.89
+              ]
+            },
+            {
+              "text": "Oblique line",
+              "bbox": [
+                492.55,
+                496.52,
+                580.89,
+                514.52
+              ]
+            },
+            {
+              "text": "Mental foramen",
+              "bbox": [
+                259.99,
+                478.21,
+                378.36,
+                496.21
+              ]
+            },
+            {
+              "text": "Mental tubercle",
+              "bbox": [
+                57.86,
+                415.45,
+                175.01,
+                433.45
+              ]
+            },
+            {
+              "text": "Mental protuberance",
+              "bbox": [
+                26.9,
+                352.67,
+                182.71,
+                370.67
+              ]
+            },
+            {
+              "text": "Coronoid process",
+              "bbox": [
+                301.99,
+                6.9,
+                428.87,
+                24.9
+              ]
+            },
+            {
+              "text": "Condylar process",
+              "bbox": [
+                456.46,
+                25.0,
+                581.4,
+                43.0
+              ]
+            },
+            {
+              "text": "Pterygoid fovea",
+              "bbox": [
+                665.35,
+                187.5,
+                779.51,
+                205.5
+              ]
+            },
+            {
+              "text": "Mandibular notch",
+              "bbox": [
+                579.0,
+                135.97,
+                709.99,
+                153.97
+              ]
+            },
+            {
+              "text": "Angle",
+              "bbox": [
+                556.63,
+                468.49,
+                598.1,
+                486.49
+              ]
+            },
+            {
+              "text": "Mylohyoid groove",
+              "bbox": [
+                291.72,
+                91.89,
+                423.55,
+                109.92
+              ]
+            },
+            {
+              "text": "Mylohyoid line",
+              "bbox": [
+                268.68,
+                124.36,
+                376.72,
+                142.39
+              ]
+            },
+            {
+              "text": "Alveolar part",
+              "bbox": [
+                23.78,
+                262.38,
+                118.27,
+                280.41
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page08.png",
+          "figure_sha256": "3eeb92fbdc10cfc8e0770264c3795fc917839ec6485dbf511cd1035c88628507",
+          "figure_rect": [
+            19.78,
+            2.9,
+            783.51,
+            518.52
+          ]
+        },
+        {
+          "page": 9,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                10.54,
+                519.85,
+                304.91,
+                533.89
+              ]
+            },
+            {
+              "text": "Mandibular",
+              "bbox": [
+                762.36,
+                314.99,
+                847.36,
+                332.99
+              ]
+            },
+            {
+              "text": "foramen",
+              "bbox": [
+                762.36,
+                336.57,
+                824.34,
+                354.6
+              ]
+            },
+            {
+              "text": "Coronoid process",
+              "bbox": [
+                730.99,
+                35.68,
+                857.86,
+                53.71
+              ]
+            },
+            {
+              "text": "Coronoid process",
+              "bbox": [
+                535.68,
+                93.23,
+                662.56,
+                111.23
+              ]
+            },
+            {
+              "text": "Mylohyoid groove",
+              "bbox": [
+                490.46,
+                197.78,
+                622.29,
+                215.81
+              ]
+            },
+            {
+              "text": "Mylohyoid line",
+              "bbox": [
+                451.58,
+                234.97,
+                559.62,
+                252.97
+              ]
+            },
+            {
+              "text": "Angle",
+              "bbox": [
+                782.26,
+                433.04,
+                823.73,
+                451.04
+              ]
+            },
+            {
+              "text": "Mandibular notch",
+              "bbox": [
+                507.41,
+                134.65,
+                638.4,
+                152.65
+              ]
+            },
+            {
+              "text": "Submandibular fossa",
+              "bbox": [
+                587.86,
+                465.07,
+                740.67,
+                483.09
+              ]
+            },
+            {
+              "text": "Sublingual fossa",
+              "bbox": [
+                477.77,
+                493.24,
+                595.04,
+                511.24
+              ]
+            },
+            {
+              "text": "Digastric fossa",
+              "bbox": [
+                339.46,
+                486.83,
+                443.78,
+                504.86
+              ]
+            },
+            {
+              "text": "Superior and inferior mental spines (genial tubercles)",
+              "bbox": [
+                322.42,
+                520.48,
+                710.51,
+                538.51
+              ]
+            },
+            {
+              "text": "Lingula",
+              "bbox": [
+                305.26,
+                137.41,
+                357.1,
+                155.41
+              ]
+            },
+            {
+              "text": "Head",
+              "bbox": [
+                102.29,
+                158.2,
+                144.63,
+                176.2
+              ]
+            },
+            {
+              "text": "Neck",
+              "bbox": [
+                127.03,
+                194.87,
+                163.43,
+                212.87
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page09.png",
+          "figure_sha256": "4939b8ce349985ff5944fb52b290275e156d87db42343f1afdd35d4ea32693bb",
+          "figure_rect": [
+            98.29,
+            31.68,
+            861.86,
+            540.0
+          ]
+        },
+        {
+          "page": 10,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Zygomatic bone,",
+              "bbox": [
+                795.67,
+                180.37,
+                916.05,
+                198.37
+              ]
+            },
+            {
+              "text": "frontal process",
+              "bbox": [
+                795.67,
+                201.97,
+                904.21,
+                219.97
+              ]
+            },
+            {
+              "text": "Coronal suture",
+              "bbox": [
+                526.03,
+                9.4,
+                633.94,
+                27.4
+              ]
+            },
+            {
+              "text": "Pterion",
+              "bbox": [
+                649.44,
+                24.92,
+                702.81,
+                42.92
+              ]
+            },
+            {
+              "text": "Zygomatic process",
+              "bbox": [
+                795.67,
+                133.4,
+                929.79,
+                151.4
+              ]
+            },
+            {
+              "text": "Nasal",
+              "bbox": [
+                812.66,
+                241.98,
+                856.89,
+                259.98
+              ]
+            },
+            {
+              "text": "bone",
+              "bbox": [
+                812.66,
+                263.58,
+                850.1,
+                281.58
+              ]
+            },
+            {
+              "text": "Anterior",
+              "bbox": [
+                801.36,
+                373.28,
+                862.0,
+                391.28
+              ]
+            },
+            {
+              "text": "nasal spine",
+              "bbox": [
+                801.36,
+                394.88,
+                882.41,
+                412.88
+              ]
+            },
+            {
+              "text": "Mastoidforamen",
+              "bbox": [
+                45.82,
+                376.93,
+                167.55,
+                394.93
+              ]
+            },
+            {
+              "text": "External",
+              "bbox": [
+                461.64,
+                466.96,
+                525.49,
+                484.96
+              ]
+            },
+            {
+              "text": "acoustic",
+              "bbox": [
+                461.64,
+                488.56,
+                521.2,
+                506.56
+              ]
+            },
+            {
+              "text": "meatus",
+              "bbox": [
+                461.64,
+                510.16,
+                516.05,
+                528.16
+              ]
+            },
+            {
+              "text": "Styloid",
+              "bbox": [
+                370.1,
+                491.7,
+                419.62,
+                509.7
+              ]
+            },
+            {
+              "text": "process",
+              "bbox": [
+                370.1,
+                513.3,
+                425.72,
+                531.3
+              ]
+            },
+            {
+              "text": "Mastoid",
+              "bbox": [
+                217.68,
+                433.69,
+                277.4,
+                451.69
+              ]
+            },
+            {
+              "text": "process",
+              "bbox": [
+                217.68,
+                455.27,
+                273.3,
+                473.3
+              ]
+            },
+            {
+              "text": "Lambdoid",
+              "bbox": [
+                52.51,
+                241.98,
+                125.11,
+                259.98
+              ]
+            },
+            {
+              "text": "suture",
+              "bbox": [
+                52.51,
+                263.56,
+                99.54,
+                281.59
+              ]
+            },
+            {
+              "text": "Postglenoid tubercle",
+              "bbox": [
+                553.39,
+                514.16,
+                703.49,
+                532.16
+              ]
+            },
+            {
+              "text": "Asterion",
+              "bbox": [
+                42.89,
+                308.84,
+                104.18,
+                326.84
+              ]
+            },
+            {
+              "text": "Articular tubercle",
+              "bbox": [
+                772.46,
+                69.3,
+                899.95,
+                87.3
+              ]
+            },
+            {
+              "text": "Parietal tuber",
+              "bbox": [
+                121.37,
+                24.92,
+                220.96,
+                42.92
+              ]
+            },
+            {
+              "text": "Supra meatal",
+              "bbox": [
+                52.51,
+                116.44,
+                152.83,
+                134.44
+              ]
+            },
+            {
+              "text": "triangle",
+              "bbox": [
+                52.51,
+                138.04,
+                108.51,
+                156.04
+              ]
+            },
+            {
+              "text": "Tympanic plate",
+              "bbox": [
+                61.46,
+                423.3,
+                176.21,
+                441.3
+              ]
+            },
+            {
+              "text": "of temporal bone",
+              "bbox": [
+                61.46,
+                444.9,
+                188.78,
+                462.9
+              ]
+            },
+            {
+              "text": "Zygomaticofacial",
+              "bbox": [
+                808.94,
+                306.14,
+                930.91,
+                324.17
+              ]
+            },
+            {
+              "text": "foramen",
+              "bbox": [
+                808.94,
+                327.78,
+                870.93,
+                345.78
+              ]
+            },
+            {
+              "text": "Alveolar process",
+              "bbox": [
+                760.56,
+                461.58,
+                888.43,
+                479.58
+              ]
+            },
+            {
+              "text": "of maxillary bone",
+              "bbox": [
+                760.56,
+                483.18,
+                887.21,
+                501.18
+              ]
+            },
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                9.58,
+                524.89,
+                303.95,
+                538.93
+              ]
+            },
+            {
+              "text": "Parietal bone",
+              "bbox": [
+                96.55,
+                73.31,
+                193.36,
+                91.34
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page10.png",
+          "figure_sha256": "8a5660f3b2cb0b189dab41d4a3d95894db5c1db47b63f9387b96cb371c8bf9e7",
+          "figure_rect": [
+            38.89,
+            5.4,
+            934.91,
+            536.16
+          ]
+        },
+        {
+          "page": 11,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Pterion",
+              "bbox": [
+                606.19,
+                76.02,
+                659.56,
+                94.02
+              ]
+            },
+            {
+              "text": "Superior temporal line",
+              "bbox": [
+                269.74,
+                11.75,
+                433.65,
+                29.75
+              ]
+            },
+            {
+              "text": "Coronal suture",
+              "bbox": [
+                553.34,
+                37.52,
+                661.25,
+                55.52
+              ]
+            },
+            {
+              "text": "Inferior temporal line",
+              "bbox": [
+                205.56,
+                46.57,
+                361.21,
+                64.57
+              ]
+            },
+            {
+              "text": "Anterior",
+              "bbox": [
+                770.69,
+                365.48,
+                831.33,
+                383.48
+              ]
+            },
+            {
+              "text": "nasal spine",
+              "bbox": [
+                770.69,
+                387.08,
+                851.74,
+                405.08
+              ]
+            },
+            {
+              "text": "Parietal tuber",
+              "bbox": [
+                87.77,
+                77.8,
+                187.36,
+                95.8
+              ]
+            },
+            {
+              "text": "Mastoid process",
+              "bbox": [
+                105.36,
+                487.14,
+                224.79,
+                505.14
+              ]
+            },
+            {
+              "text": "Asterion",
+              "bbox": [
+                51.0,
+                365.77,
+                112.29,
+                383.77
+              ]
+            },
+            {
+              "text": "Lambdoid",
+              "bbox": [
+                44.3,
+                312.88,
+                116.9,
+                330.88
+              ]
+            },
+            {
+              "text": "suture",
+              "bbox": [
+                44.3,
+                334.48,
+                91.28,
+                352.48
+              ]
+            },
+            {
+              "text": "Styloid",
+              "bbox": [
+                481.7,
+                475.02,
+                531.22,
+                493.02
+              ]
+            },
+            {
+              "text": "process",
+              "bbox": [
+                481.7,
+                496.62,
+                537.32,
+                514.62
+              ]
+            },
+            {
+              "text": "External",
+              "bbox": [
+                321.34,
+                468.11,
+                385.19,
+                486.11
+              ]
+            },
+            {
+              "text": "acoustic",
+              "bbox": [
+                321.34,
+                489.71,
+                380.9,
+                507.71
+              ]
+            },
+            {
+              "text": "meatus",
+              "bbox": [
+                321.34,
+                511.31,
+                375.75,
+                529.31
+              ]
+            },
+            {
+              "text": "Supra meatal triangle",
+              "bbox": [
+                56.21,
+                174.73,
+                212.48,
+                192.73
+              ]
+            },
+            {
+              "text": "Tympanic plate",
+              "bbox": [
+                70.37,
+                434.6,
+                185.12,
+                452.6
+              ]
+            },
+            {
+              "text": "of temporal bone",
+              "bbox": [
+                70.37,
+                456.2,
+                197.68,
+                474.2
+              ]
+            },
+            {
+              "text": "Zygomaticofacial",
+              "bbox": [
+                746.95,
+                318.88,
+                869.22,
+                336.88
+              ]
+            },
+            {
+              "text": "foramen",
+              "bbox": [
+                746.95,
+                340.48,
+                809.05,
+                358.48
+              ]
+            },
+            {
+              "text": "Zygomatic process",
+              "bbox": [
+                742.1,
+                168.73,
+                876.22,
+                186.73
+              ]
+            },
+            {
+              "text": "Articular tubercle",
+              "bbox": [
+                714.7,
+                99.85,
+                842.19,
+                117.85
+              ]
+            },
+            {
+              "text": "Nasal",
+              "bbox": [
+                757.06,
+                248.1,
+                801.24,
+                266.13
+              ]
+            },
+            {
+              "text": "bone",
+              "bbox": [
+                757.06,
+                269.75,
+                794.41,
+                287.75
+              ]
+            },
+            {
+              "text": "Alveolar process",
+              "bbox": [
+                757.27,
+                444.04,
+                885.14,
+                462.04
+              ]
+            },
+            {
+              "text": "of maxillary bone",
+              "bbox": [
+                757.27,
+                465.64,
+                883.92,
+                483.64
+              ]
+            },
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                1.44,
+                526.13,
+                295.82,
+                540.17
+              ]
+            },
+            {
+              "text": "Mastoid foramen",
+              "bbox": [
+                39.53,
+                402.52,
+                165.35,
+                420.55
+              ]
+            },
+            {
+              "text": "Supra mastoid crest",
+              "bbox": [
+                38.81,
+                228.2,
+                182.93,
+                246.2
+              ]
+            },
+            {
+              "text": "Postglenoid tubercle",
+              "bbox": [
+                578.78,
+                511.62,
+                728.88,
+                529.62
+              ]
+            },
+            {
+              "text": "Parietal bone",
+              "bbox": [
+                82.32,
+                127.69,
+                179.03,
+                145.69
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page11.png",
+          "figure_sha256": "1cf73704a391a0c396800a980b0f05f464e69ac502b22df2294b62fc268c2de4",
+          "figure_rect": [
+            34.81,
+            7.75,
+            889.14,
+            533.62
+          ]
+        },
+        {
+          "page": 12,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei",
+              "bbox": [
+                16.25,
+                529.93,
+                77.02,
+                544.0
+              ]
+            },
+            {
+              "text": "Hormozgan medical science university",
+              "bbox": [
+                86.19,
+                529.93,
+                307.57,
+                544.0
+              ]
+            },
+            {
+              "text": "Coronal suture",
+              "bbox": [
+                518.35,
+                12.04,
+                626.26,
+                30.04
+              ]
+            },
+            {
+              "text": "Pterion",
+              "bbox": [
+                623.26,
+                37.6,
+                676.63,
+                55.6
+              ]
+            },
+            {
+              "text": "Nasal",
+              "bbox": [
+                765.34,
+                205.19,
+                809.51,
+                223.19
+              ]
+            },
+            {
+              "text": "bone",
+              "bbox": [
+                765.34,
+                226.79,
+                802.69,
+                244.79
+              ]
+            },
+            {
+              "text": "Articular tubercle",
+              "bbox": [
+                706.32,
+                66.68,
+                833.81,
+                84.68
+              ]
+            },
+            {
+              "text": "Zygomaticofacial",
+              "bbox": [
+                771.77,
+                289.07,
+                893.74,
+                307.07
+              ]
+            },
+            {
+              "text": "foramen",
+              "bbox": [
+                771.77,
+                310.67,
+                833.76,
+                328.67
+              ]
+            },
+            {
+              "text": "Anterior",
+              "bbox": [
+                773.02,
+                334.07,
+                833.66,
+                352.07
+              ]
+            },
+            {
+              "text": "nasal spine",
+              "bbox": [
+                773.02,
+                355.65,
+                854.06,
+                373.68
+              ]
+            },
+            {
+              "text": "Alveolar process",
+              "bbox": [
+                766.3,
+                407.48,
+                894.17,
+                425.48
+              ]
+            },
+            {
+              "text": "of maxillary bone",
+              "bbox": [
+                766.3,
+                429.08,
+                892.95,
+                447.08
+              ]
+            },
+            {
+              "text": "External",
+              "bbox": [
+                309.6,
+                449.2,
+                373.42,
+                467.23
+              ]
+            },
+            {
+              "text": "acoustic",
+              "bbox": [
+                309.6,
+                470.84,
+                369.16,
+                488.84
+              ]
+            },
+            {
+              "text": "meatus",
+              "bbox": [
+                309.6,
+                492.44,
+                364.01,
+                510.44
+              ]
+            },
+            {
+              "text": "Postglenoid tubercle",
+              "bbox": [
+                578.78,
+                511.62,
+                728.88,
+                529.62
+              ]
+            },
+            {
+              "text": "Tympanic plate of",
+              "bbox": [
+                389.93,
+                482.75,
+                523.87,
+                500.75
+              ]
+            },
+            {
+              "text": "temporal bone",
+              "bbox": [
+                389.93,
+                504.35,
+                498.16,
+                522.35
+              ]
+            },
+            {
+              "text": "Supra meatal triangle",
+              "bbox": [
+                66.6,
+                187.38,
+                222.88,
+                205.38
+              ]
+            },
+            {
+              "text": "Supra mastoid crest",
+              "bbox": [
+                104.83,
+                125.1,
+                248.96,
+                143.1
+              ]
+            },
+            {
+              "text": "Lambdoid",
+              "bbox": [
+                57.1,
+                308.63,
+                129.69,
+                326.63
+              ]
+            },
+            {
+              "text": "suture",
+              "bbox": [
+                57.1,
+                330.23,
+                104.08,
+                348.23
+              ]
+            },
+            {
+              "text": "Asterion",
+              "bbox": [
+                84.62,
+                361.02,
+                145.91,
+                379.02
+              ]
+            },
+            {
+              "text": "Mastoid foramen",
+              "bbox": [
+                92.66,
+                432.35,
+                218.48,
+                450.35
+              ]
+            },
+            {
+              "text": "Mastoid process",
+              "bbox": [
+                126.72,
+                483.97,
+                246.15,
+                501.97
+              ]
+            },
+            {
+              "text": "Parietal bone",
+              "bbox": [
+                212.57,
+                61.6,
+                309.28,
+                79.6
+              ]
+            },
+            {
+              "text": "Sutural bone",
+              "bbox": [
+                63.94,
+                243.85,
+                157.3,
+                261.85
+              ]
+            },
+            {
+              "text": "Zygomatic bone,",
+              "bbox": [
+                753.38,
+                134.96,
+                873.76,
+                152.96
+              ]
+            },
+            {
+              "text": "frontal process",
+              "bbox": [
+                753.38,
+                156.56,
+                861.92,
+                174.56
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page12.png",
+          "figure_sha256": "2d4c463719a0ed8d258d07545b94d3bc2bff0feae9c43dda1459cc8d1bf2ab66",
+          "figure_rect": [
+            53.1,
+            8.04,
+            898.17,
+            533.62
+          ]
+        },
+        {
+          "page": 13,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei",
+              "bbox": [
+                7.1,
+                529.93,
+                67.87,
+                544.0
+              ]
+            },
+            {
+              "text": "Hormozgan medical science university",
+              "bbox": [
+                77.04,
+                529.93,
+                298.43,
+                544.0
+              ]
+            },
+            {
+              "text": "External occipital",
+              "bbox": [
+                120.82,
+                175.57,
+                249.59,
+                193.57
+              ]
+            },
+            {
+              "text": "Protuberance (inion)",
+              "bbox": [
+                120.82,
+                197.2,
+                271.68,
+                215.2
+              ]
+            },
+            {
+              "text": "Superior nuchal line",
+              "bbox": [
+                101.06,
+                267.76,
+                247.08,
+                285.76
+              ]
+            },
+            {
+              "text": "Inferior nuchal line",
+              "bbox": [
+                118.34,
+                374.94,
+                256.09,
+                392.94
+              ]
+            },
+            {
+              "text": "Lambda",
+              "bbox": [
+                248.71,
+                51.4,
+                306.85,
+                69.4
+              ]
+            },
+            {
+              "text": "Lambdoid suture",
+              "bbox": [
+                148.46,
+                114.25,
+                272.34,
+                132.25
+              ]
+            },
+            {
+              "text": "External occipital crest",
+              "bbox": [
+                536.02,
+                461.72,
+                700.52,
+                479.72
+              ]
+            },
+            {
+              "text": "Mastoid process",
+              "bbox": [
+                654.94,
+                390.93,
+                774.38,
+                408.96
+              ]
+            },
+            {
+              "text": "Parietal bone",
+              "bbox": [
+                611.74,
+                25.74,
+                708.45,
+                43.74
+              ]
+            },
+            {
+              "text": "Parietal foramen (for emissary vein)",
+              "bbox": [
+                646.37,
+                67.43,
+                907.06,
+                85.43
+              ]
+            },
+            {
+              "text": "Occipital bone",
+              "bbox": [
+                662.76,
+                183.66,
+                767.65,
+                201.66
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page13.png",
+          "figure_sha256": "0e657db8db37e98bacdd7e6aeab5fae9938844fc32685730c7de187ea43d5271",
+          "figure_rect": [
+            97.06,
+            3.58,
+            911.06,
+            536.42
+          ]
+        },
+        {
+          "page": 14,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Lambda",
+              "bbox": [
+                570.26,
+                32.89,
+                628.4,
+                50.89
+              ]
+            },
+            {
+              "text": "Interparietal bone",
+              "bbox": [
+                320.81,
+                14.32,
+                453.06,
+                32.32
+              ]
+            },
+            {
+              "text": "Sutural bone",
+              "bbox": [
+                42.82,
+                147.61,
+                136.4,
+                165.61
+              ]
+            },
+            {
+              "text": "External occipital",
+              "bbox": [
+                37.73,
+                91.64,
+                166.5,
+                109.64
+              ]
+            },
+            {
+              "text": "Protuberance (inion)",
+              "bbox": [
+                37.73,
+                113.24,
+                188.59,
+                131.24
+              ]
+            },
+            {
+              "text": "Choanae",
+              "bbox": [
+                590.78,
+                482.1,
+                655.02,
+                500.1
+              ]
+            },
+            {
+              "text": "Lambdoid suture",
+              "bbox": [
+                108.26,
+                41.99,
+                232.14,
+                59.99
+              ]
+            },
+            {
+              "text": "Superior nuchal line",
+              "bbox": [
+                669.74,
+                189.71,
+                815.76,
+                207.71
+              ]
+            },
+            {
+              "text": "Inferior nuchal line",
+              "bbox": [
+                657.07,
+                253.84,
+                794.82,
+                271.84
+              ]
+            },
+            {
+              "text": "External occipital crest",
+              "bbox": [
+                595.51,
+                421.98,
+                760.01,
+                439.98
+              ]
+            },
+            {
+              "text": "Mastoid process",
+              "bbox": [
+                666.31,
+                385.45,
+                785.74,
+                403.45
+              ]
+            },
+            {
+              "text": "Occipital bone",
+              "bbox": [
+                665.14,
+                100.21,
+                770.03,
+                118.21
+              ]
+            },
+            {
+              "text": "Parietal bone",
+              "bbox": [
+                681.17,
+                56.05,
+                777.88,
+                74.05
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page14.png",
+          "figure_sha256": "d383e88bc61af9e2a7ee75a29ae8af4ce77dd644d09048fb1064ae6729a56a3e",
+          "figure_rect": [
+            33.73,
+            10.32,
+            819.76,
+            504.1
+          ]
+        },
+        {
+          "page": 15,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                7.1,
+                519.85,
+                301.48,
+                533.89
+              ]
+            },
+            {
+              "text": "Lambda",
+              "bbox": [
+                594.26,
+                54.37,
+                652.4,
+                72.37
+              ]
+            },
+            {
+              "text": "Parietal bone",
+              "bbox": [
+                681.17,
+                56.05,
+                777.88,
+                74.05
+              ]
+            },
+            {
+              "text": "Occipital bone",
+              "bbox": [
+                681.17,
+                113.12,
+                786.06,
+                131.12
+              ]
+            },
+            {
+              "text": "Superior nuchal line",
+              "bbox": [
+                643.44,
+                213.88,
+                789.46,
+                231.88
+              ]
+            },
+            {
+              "text": "Inferior nuchal line",
+              "bbox": [
+                652.85,
+                290.61,
+                790.64,
+                308.64
+              ]
+            },
+            {
+              "text": "External occipital crest",
+              "bbox": [
+                598.2,
+                447.42,
+                762.7,
+                465.42
+              ]
+            },
+            {
+              "text": "External occipital",
+              "bbox": [
+                47.74,
+                174.01,
+                176.51,
+                192.01
+              ]
+            },
+            {
+              "text": "Protuberance (inion)",
+              "bbox": [
+                47.74,
+                195.61,
+                198.59,
+                213.61
+              ]
+            },
+            {
+              "text": "Mastoid foramen",
+              "bbox": [
+                665.33,
+                253.02,
+                791.4,
+                271.02
+              ]
+            },
+            {
+              "text": "Mastoid process",
+              "bbox": [
+                105.72,
+                270.32,
+                225.15,
+                288.32
+              ]
+            },
+            {
+              "text": "Lambdoid suture",
+              "bbox": [
+                136.58,
+                96.18,
+                260.46,
+                114.18
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page15.png",
+          "figure_sha256": "be02e283e144e0fdc3dd2b26f0f7c3564f63640d32ba207417fcba252e00493b",
+          "figure_rect": [
+            43.74,
+            16.36,
+            795.4,
+            469.42
+          ]
+        },
+        {
+          "page": 16,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                2.35,
+                526.57,
+                296.73,
+                540.61
+              ]
+            },
+            {
+              "text": "Bregma",
+              "bbox": [
+                586.13,
+                54.52,
+                642.47,
+                72.52
+              ]
+            },
+            {
+              "text": "Frontal bone",
+              "bbox": [
+                187.63,
+                52.62,
+                280.69,
+                70.62
+              ]
+            },
+            {
+              "text": "Coronal suture",
+              "bbox": [
+                136.44,
+                105.28,
+                244.35,
+                123.28
+              ]
+            },
+            {
+              "text": "Parietal bone",
+              "bbox": [
+                678.07,
+                178.5,
+                774.78,
+                196.5
+              ]
+            },
+            {
+              "text": "Sagittal suture",
+              "bbox": [
+                668.04,
+                248.39,
+                772.87,
+                266.39
+              ]
+            },
+            {
+              "text": "Occipital bone",
+              "bbox": [
+                170.16,
+                445.05,
+                275.1,
+                463.07
+              ]
+            },
+            {
+              "text": "Parietal foramen",
+              "bbox": [
+                108.94,
+                362.03,
+                234.36,
+                380.03
+              ]
+            },
+            {
+              "text": "(for emissary vein)",
+              "bbox": [
+                108.94,
+                383.63,
+                244.17,
+                401.63
+              ]
+            },
+            {
+              "text": "Lambda",
+              "bbox": [
+                659.45,
+                344.89,
+                717.59,
+                362.89
+              ]
+            },
+            {
+              "text": "Lambdoid suture",
+              "bbox": [
+                657.19,
+                385.91,
+                781.07,
+                403.91
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page16.png",
+          "figure_sha256": "ab897f00a15cfd209707ea24c7eb4fd997dda458951cd9f048dedab9789d32ef",
+          "figure_rect": [
+            104.94,
+            10.53,
+            785.07,
+            521.92
+          ]
+        },
+        {
+          "page": 17,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                4.56,
+                519.85,
+                298.94,
+                533.89
+              ]
+            },
+            {
+              "text": "Parietal bone",
+              "bbox": [
+                157.54,
+                221.2,
+                254.25,
+                239.2
+              ]
+            },
+            {
+              "text": "Groove for superior sagittal sinus",
+              "bbox": [
+                675.94,
+                236.7,
+                917.64,
+                254.7
+              ]
+            },
+            {
+              "text": "Sagittal suture",
+              "bbox": [
+                665.35,
+                175.4,
+                770.18,
+                193.4
+              ]
+            },
+            {
+              "text": "Coronal suture",
+              "bbox": [
+                665.35,
+                121.79,
+                773.26,
+                139.79
+              ]
+            },
+            {
+              "text": "Frontal bone",
+              "bbox": [
+                597.65,
+                64.19,
+                690.71,
+                82.19
+              ]
+            },
+            {
+              "text": "Frontal crest",
+              "bbox": [
+                511.9,
+                22.76,
+                603.0,
+                40.76
+              ]
+            },
+            {
+              "text": "Granular foveolae",
+              "bbox": [
+                660.05,
+                296.99,
+                790.84,
+                314.99
+              ]
+            },
+            {
+              "text": "(for arachnoid granulations)",
+              "bbox": [
+                660.05,
+                318.61,
+                863.68,
+                336.61
+              ]
+            },
+            {
+              "text": "Lambdoid suture",
+              "bbox": [
+                679.61,
+                391.33,
+                803.49,
+                409.33
+              ]
+            },
+            {
+              "text": "Occipital bone",
+              "bbox": [
+                190.51,
+                421.38,
+                295.4,
+                439.38
+              ]
+            },
+            {
+              "text": "Grooves for branches of",
+              "bbox": [
+                70.68,
+                284.99,
+                245.69,
+                302.99
+              ]
+            },
+            {
+              "text": "middle meningeal vessels",
+              "bbox": [
+                70.68,
+                306.61,
+                257.39,
+                324.61
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part1_page17.png",
+          "figure_sha256": "2921a86564f2520ddc3b145a068360ff9af3450710207bc98250f957aec84791",
+          "figure_rect": [
+            66.68,
+            18.76,
+            921.64,
+            526.67
+          ]
+        }
+      ]
+    },
+    {
+      "part": "3",
+      "source": "علوم تشریح سر و گردن/جلسه 13 - اناتومی سر و گردن عملی/Practical anatomy 3 .pdf",
+      "sha256": "6ea0e594f4e3925b2138c4062cdd1839ddd961552eaf1a91b6b7c5c88a63e9d5",
+      "page_count": 5,
+      "pages": [
+        {
+          "page": 1,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Third session of practical anatomy",
+              "bbox": [
+                71.64,
+                46.65,
+                523.54,
+                78.69
+              ]
+            },
+            {
+              "text": "➢",
+              "bbox": [
+                125.64,
+                257.94,
+                160.61,
+                306.56
+              ]
+            },
+            {
+              "text": "External view of the base of the skull",
+              "bbox": [
+                170.64,
+                264.5,
+                842.69,
+                308.54
+              ]
+            },
+            {
+              "text": "➢",
+              "bbox": [
+                139.54,
+                157.98,
+                174.51,
+                206.6
+              ]
+            },
+            {
+              "text": "Internal view of the skull base",
+              "bbox": [
+                184.54,
+                164.54,
+                731.21,
+                208.58
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Frontal crest",
+              "bbox": [
+                206.45,
+                36.85,
+                297.55,
+                54.85
+              ]
+            },
+            {
+              "text": "Foramen cecum",
+              "bbox": [
+                173.78,
+                62.94,
+                290.96,
+                80.94
+              ]
+            },
+            {
+              "text": "Superior surface of orbital part",
+              "bbox": [
+                67.56,
+                86.41,
+                293.08,
+                104.41
+              ]
+            },
+            {
+              "text": "Crista galli",
+              "bbox": [
+                645.14,
+                72.08,
+                719.57,
+                90.08
+              ]
+            },
+            {
+              "text": "Cribriform plate",
+              "bbox": [
+                670.54,
+                103.76,
+                786.55,
+                121.76
+              ]
+            },
+            {
+              "text": "Greater wing of Sphenoid bone",
+              "bbox": [
+                700.46,
+                183.56,
+                928.97,
+                201.56
+              ]
+            },
+            {
+              "text": "Prechiasmatic groove",
+              "bbox": [
+                680.4,
+                129.54,
+                836.64,
+                147.57
+              ]
+            },
+            {
+              "text": "Optic canal",
+              "bbox": [
+                154.66,
+                115.43,
+                236.16,
+                133.43
+              ]
+            },
+            {
+              "text": "Tuberculum sellae",
+              "bbox": [
+                93.6,
+                146.53,
+                226.21,
+                164.53
+              ]
+            },
+            {
+              "text": "Hypophysial fossa",
+              "bbox": [
+                85.82,
+                193.91,
+                216.2,
+                211.91
+              ]
+            },
+            {
+              "text": "Anterior clinoidprocess",
+              "bbox": [
+                48.53,
+                169.26,
+                217.21,
+                187.26
+              ]
+            },
+            {
+              "text": "Foramen rotundum",
+              "bbox": [
+                689.78,
+                159.04,
+                832.5,
+                177.04
+              ]
+            },
+            {
+              "text": "Foramen ovale",
+              "bbox": [
+                97.87,
+                214.88,
+                205.91,
+                232.88
+              ]
+            },
+            {
+              "text": "Foramen spinosum",
+              "bbox": [
+                61.39,
+                233.8,
+                200.93,
+                251.83
+              ]
+            },
+            {
+              "text": "Greater petrosal groove",
+              "bbox": [
+                38.5,
+                278.08,
+                212.59,
+                296.08
+              ]
+            },
+            {
+              "text": "Lesser petrosal groove",
+              "bbox": [
+                49.08,
+                255.08,
+                213.17,
+                273.08
+              ]
+            },
+            {
+              "text": "Arcuate eminence",
+              "bbox": [
+                85.82,
+                331.38,
+                218.61,
+                349.38
+              ]
+            },
+            {
+              "text": "Tegmen tympany",
+              "bbox": [
+                689.62,
+                328.12,
+                815.23,
+                346.15
+              ]
+            },
+            {
+              "text": "groove of inferior petrosal sinus",
+              "bbox": [
+                691.46,
+                236.94,
+                923.83,
+                254.97
+              ]
+            },
+            {
+              "text": "groove of superior petrosal sinus",
+              "bbox": [
+                689.26,
+                273.4,
+                928.88,
+                291.4
+              ]
+            },
+            {
+              "text": "Internal acoustic meatus",
+              "bbox": [
+                77.76,
+                365.34,
+                257.15,
+                383.34
+              ]
+            },
+            {
+              "text": "Opening of vestibular aqueduct",
+              "bbox": [
+                692.93,
+                357.21,
+                923.37,
+                375.24
+              ]
+            },
+            {
+              "text": "Jugular foramen",
+              "bbox": [
+                153.05,
+                398.1,
+                271.4,
+                416.13
+              ]
+            },
+            {
+              "text": "Groove of transverse sinus",
+              "bbox": [
+                681.1,
+                393.73,
+                874.46,
+                411.73
+              ]
+            },
+            {
+              "text": "Foramen magnum",
+              "bbox": [
+                188.83,
+                495.4,
+                322.64,
+                513.4
+              ]
+            },
+            {
+              "text": "Internal occipital crest",
+              "bbox": [
+                665.98,
+                424.31,
+                827.84,
+                442.34
+              ]
+            },
+            {
+              "text": "Internal occipital protuberance",
+              "bbox": [
+                637.32,
+                467.29,
+                863.6,
+                485.29
+              ]
+            },
+            {
+              "text": "Clivus",
+              "bbox": [
+                231.26,
+                432.52,
+                273.65,
+                450.52
+              ]
+            },
+            {
+              "text": "Hypoglossal canal",
+              "bbox": [
+                164.02,
+                460.07,
+                293.64,
+                478.07
+              ]
+            },
+            {
+              "text": "(Groove for) superior sagittal sinus",
+              "bbox": [
+                513.94,
+                509.83,
+                767.33,
+                529.75
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part3_page03.png",
+          "figure_sha256": "a157c595bafa989a7a3242beab34b71a418475539b3a4e0858bed84aa15dacfc",
+          "figure_rect": [
+            34.5,
+            19.87,
+            932.97,
+            533.75
+          ]
+        },
+        {
+          "page": 4,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Frontal crest",
+              "bbox": [
+                191.33,
+                37.31,
+                282.43,
+                55.31
+              ]
+            },
+            {
+              "text": "Foramen cecum",
+              "bbox": [
+                165.5,
+                56.41,
+                282.46,
+                74.41
+              ]
+            },
+            {
+              "text": "Superior surface of orbital part",
+              "bbox": [
+                48.34,
+                92.89,
+                273.5,
+                110.89
+              ]
+            },
+            {
+              "text": "Crista galli",
+              "bbox": [
+                636.98,
+                63.56,
+                711.41,
+                81.56
+              ]
+            },
+            {
+              "text": "Cribriform plate",
+              "bbox": [
+                652.32,
+                90.93,
+                768.32,
+                108.96
+              ]
+            },
+            {
+              "text": "lesser wing of Sphenoid bone",
+              "bbox": [
+                668.35,
+                115.96,
+                883.36,
+                133.99
+              ]
+            },
+            {
+              "text": "Ethmoidal spine of sphenoid bone",
+              "bbox": [
+                27.79,
+                124.67,
+                277.6,
+                142.7
+              ]
+            },
+            {
+              "text": "Greater wing of Sphenoid bone",
+              "bbox": [
+                671.14,
+                162.32,
+                899.65,
+                180.32
+              ]
+            },
+            {
+              "text": "Prechiasmatic groove",
+              "bbox": [
+                678.91,
+                135.26,
+                835.16,
+                153.29
+              ]
+            },
+            {
+              "text": "Tuberculum sellae",
+              "bbox": [
+                72.67,
+                155.56,
+                205.28,
+                173.56
+              ]
+            },
+            {
+              "text": "Hypophysial fossa",
+              "bbox": [
+                86.11,
+                230.51,
+                216.49,
+                248.51
+              ]
+            },
+            {
+              "text": "Foramen rotundum",
+              "bbox": [
+                77.28,
+                205.5,
+                220.0,
+                223.5
+              ]
+            },
+            {
+              "text": "Foramen ovale",
+              "bbox": [
+                97.44,
+                255.78,
+                205.45,
+                273.78
+              ]
+            },
+            {
+              "text": "Foramen spinosum",
+              "bbox": [
+                90.17,
+                281.05,
+                229.67,
+                299.05
+              ]
+            },
+            {
+              "text": "Anterior clinoidprocess",
+              "bbox": [
+                50.38,
+                181.86,
+                219.08,
+                199.86
+              ]
+            },
+            {
+              "text": "Lesser petrosal groove",
+              "bbox": [
+                682.13,
+                208.57,
+                846.22,
+                226.57
+              ]
+            },
+            {
+              "text": "Greater petrosal groove",
+              "bbox": [
+                692.59,
+                236.03,
+                866.69,
+                254.03
+              ]
+            },
+            {
+              "text": "Foramen lacerum",
+              "bbox": [
+                684.17,
+                182.84,
+                812.51,
+                200.84
+              ]
+            },
+            {
+              "text": "Arcuate eminence",
+              "bbox": [
+                67.8,
+                347.32,
+                200.84,
+                365.32
+              ]
+            },
+            {
+              "text": "Tegmen tympany",
+              "bbox": [
+                92.14,
+                309.59,
+                217.72,
+                327.59
+              ]
+            },
+            {
+              "text": "groove of superior petrosal sinus",
+              "bbox": [
+                685.01,
+                283.84,
+                924.63,
+                301.84
+              ]
+            },
+            {
+              "text": "groove of inferior petrosal sinus",
+              "bbox": [
+                683.83,
+                256.93,
+                916.14,
+                274.93
+              ]
+            },
+            {
+              "text": "Internal acoustic meatus",
+              "bbox": [
+                48.34,
+                384.85,
+                227.72,
+                402.85
+              ]
+            },
+            {
+              "text": "Opening of vestibular aqueduct",
+              "bbox": [
+                32.98,
+                418.69,
+                263.3,
+                436.69
+              ]
+            },
+            {
+              "text": "Jugular foramen",
+              "bbox": [
+                170.52,
+                447.9,
+                288.87,
+                465.9
+              ]
+            },
+            {
+              "text": "Groove of transverse sinus",
+              "bbox": [
+                678.91,
+                356.15,
+                872.27,
+                374.15
+              ]
+            },
+            {
+              "text": "Foramen magnum",
+              "bbox": [
+                668.35,
+                394.02,
+                802.23,
+                412.05
+              ]
+            },
+            {
+              "text": "Internal occipital protuberance",
+              "bbox": [
+                629.71,
+                458.75,
+                855.57,
+                476.75
+              ]
+            },
+            {
+              "text": "Groove of transverse sinus",
+              "bbox": [
+                112.32,
+                481.74,
+                305.68,
+                499.74
+              ]
+            },
+            {
+              "text": "Internal occipital crest",
+              "bbox": [
+                648.48,
+                426.13,
+                810.34,
+                444.13
+              ]
+            },
+            {
+              "text": "Hypoglossal canal",
+              "bbox": [
+                412.01,
+                519.28,
+                541.63,
+                537.28
+              ]
+            },
+            {
+              "text": "Jugular tubercle",
+              "bbox": [
+                294.58,
+                501.11,
+                411.49,
+                519.11
+              ]
+            },
+            {
+              "text": "Groove of superior sagittal sinus",
+              "bbox": [
+                545.47,
+                496.91,
+                780.43,
+                516.84
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part3_page04.png",
+          "figure_sha256": "d1af8ecc40e8e7db0ee2da32c3ec7250cdf282f56059fabd5790234db32b5b08",
+          "figure_rect": [
+            23.79,
+            20.78,
+            928.63,
+            540.0
+          ]
+        },
+        {
+          "page": 5,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Frontal crest",
+              "bbox": [
+                184.7,
+                40.62,
+                275.8,
+                58.62
+              ]
+            },
+            {
+              "text": "Foramen cecum",
+              "bbox": [
+                161.9,
+                67.26,
+                278.86,
+                85.26
+              ]
+            },
+            {
+              "text": "Superior surface of orbital part",
+              "bbox": [
+                69.12,
+                105.08,
+                294.28,
+                123.08
+              ]
+            },
+            {
+              "text": "Crista galli",
+              "bbox": [
+                631.63,
+                71.44,
+                706.06,
+                89.44
+              ]
+            },
+            {
+              "text": "Cribriform plate",
+              "bbox": [
+                641.09,
+                101.2,
+                757.1,
+                119.2
+              ]
+            },
+            {
+              "text": "lesser wing of Sphenoid bone",
+              "bbox": [
+                658.75,
+                124.79,
+                873.67,
+                142.79
+              ]
+            },
+            {
+              "text": "Greater wing of Sphenoid bone",
+              "bbox": [
+                695.16,
+                175.69,
+                923.67,
+                193.69
+              ]
+            },
+            {
+              "text": "Prechiasmatic groove",
+              "bbox": [
+                78.55,
+                135.01,
+                234.8,
+                153.01
+              ]
+            },
+            {
+              "text": "Tuberculum sellae",
+              "bbox": [
+                68.33,
+                158.3,
+                200.93,
+                176.33
+              ]
+            },
+            {
+              "text": "Hypophysial fossa",
+              "bbox": [
+                75.84,
+                204.9,
+                206.21,
+                222.9
+              ]
+            },
+            {
+              "text": "Anterior clinoidprocess",
+              "bbox": [
+                43.1,
+                181.24,
+                211.78,
+                199.24
+              ]
+            },
+            {
+              "text": "Optic canal",
+              "bbox": [
+                681.0,
+                150.21,
+                762.49,
+                168.24
+              ]
+            },
+            {
+              "text": "Foramen ovale",
+              "bbox": [
+                82.01,
+                227.56,
+                190.02,
+                245.56
+              ]
+            },
+            {
+              "text": "Lesser petrosal groove",
+              "bbox": [
+                704.26,
+                219.08,
+                868.35,
+                237.08
+              ]
+            },
+            {
+              "text": "Arcuate eminence",
+              "bbox": [
+                98.83,
+                324.04,
+                231.62,
+                342.04
+              ]
+            },
+            {
+              "text": "Tegmen tympany",
+              "bbox": [
+                704.26,
+                264.3,
+                829.85,
+                282.3
+              ]
+            },
+            {
+              "text": "Foramen lacerum",
+              "bbox": [
+                693.14,
+                198.9,
+                821.48,
+                216.9
+              ]
+            },
+            {
+              "text": "Foramen spinosum",
+              "bbox": [
+                69.12,
+                257.29,
+                208.62,
+                275.29
+              ]
+            },
+            {
+              "text": "groove of superior petrosal sinus",
+              "bbox": [
+                677.62,
+                294.01,
+                917.24,
+                312.01
+              ]
+            },
+            {
+              "text": "groove of inferior petrosal sinus",
+              "bbox": [
+                22.08,
+                293.0,
+                254.39,
+                311.0
+              ]
+            },
+            {
+              "text": "Grater petrosal groove",
+              "bbox": [
+                681.26,
+                241.64,
+                846.23,
+                259.64
+              ]
+            },
+            {
+              "text": "Jugular foramen",
+              "bbox": [
+                128.57,
+                382.21,
+                246.92,
+                400.21
+              ]
+            },
+            {
+              "text": "Groove of sigmoid sinus",
+              "bbox": [
+                690.41,
+                327.78,
+                865.23,
+                345.78
+              ]
+            },
+            {
+              "text": "Groove of transverse sinus",
+              "bbox": [
+                694.13,
+                398.99,
+                887.49,
+                416.99
+              ]
+            },
+            {
+              "text": "Foramen magnum",
+              "bbox": [
+                169.68,
+                455.84,
+                303.49,
+                473.84
+              ]
+            },
+            {
+              "text": "Internal occipital crest",
+              "bbox": [
+                702.67,
+                364.81,
+                864.53,
+                382.81
+              ]
+            },
+            {
+              "text": "Internal occipital protuberance",
+              "bbox": [
+                653.04,
+                437.22,
+                878.9,
+                455.22
+              ]
+            },
+            {
+              "text": "Groove for superior sagittal sinus",
+              "bbox": [
+                54.62,
+                488.68,
+                295.97,
+                506.68
+              ]
+            },
+            {
+              "text": "Internal acoustic meatus",
+              "bbox": [
+                48.02,
+                355.38,
+                227.41,
+                373.38
+              ]
+            },
+            {
+              "text": "Clivus",
+              "bbox": [
+                202.32,
+                407.94,
+                244.71,
+                425.94
+              ]
+            },
+            {
+              "text": "Hypoglossal canal",
+              "bbox": [
+                133.94,
+                432.56,
+                263.56,
+                450.56
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part3_page05.png",
+          "figure_sha256": "d6357fb0991e984a3917f517d2ffabb8014b9d6ee4435f734327d49952b79a2d",
+          "figure_rect": [
+            18.08,
+            29.71,
+            927.67,
+            510.68
+          ]
+        }
+      ]
+    },
+    {
+      "part": "4",
+      "source": "علوم تشریح سر و گردن/جلسه 13 - اناتومی سر و گردن عملی/Practical anatomy 4.pdf",
+      "sha256": "6268b32d220f8f97e22ee07225e24fb48341c807fddbadb2aae46c8e19ddde05",
+      "page_count": 13,
+      "pages": [
+        {
+          "page": 1,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Fourth session of practical anatomy",
+              "bbox": [
+                59.95,
+                45.57,
+                531.32,
+                77.61
+              ]
+            },
+            {
+              "text": "➢",
+              "bbox": [
+                95.83,
+                293.12,
+                130.8,
+                341.74
+              ]
+            },
+            {
+              "text": "Neck vertebrae",
+              "bbox": [
+                140.83,
+                299.68,
+                419.12,
+                343.72
+              ]
+            },
+            {
+              "text": "➢",
+              "bbox": [
+                84.74,
+                143.43,
+                119.71,
+                192.05
+              ]
+            },
+            {
+              "text": "External (inferior) view of the base of the",
+              "bbox": [
+                129.74,
+                149.99,
+                890.8,
+                194.03
+              ]
+            },
+            {
+              "text": "skull",
+              "bbox": [
+                129.74,
+                202.79,
+                213.2,
+                246.83
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Incisive fossa",
+              "bbox": [
+                265.08,
+                8.05,
+                360.43,
+                26.05
+              ]
+            },
+            {
+              "text": "Greater palatine foramen",
+              "bbox": [
+                652.39,
+                65.22,
+                837.84,
+                83.25
+              ]
+            },
+            {
+              "text": "Maxillary tuberosity",
+              "bbox": [
+                108.46,
+                92.17,
+                254.35,
+                110.17
+              ]
+            },
+            {
+              "text": "Lesser palatine foramen",
+              "bbox": [
+                663.26,
+                98.58,
+                838.58,
+                116.58
+              ]
+            },
+            {
+              "text": "Infratemporal crest",
+              "bbox": [
+                100.97,
+                145.96,
+                240.99,
+                163.96
+              ]
+            },
+            {
+              "text": "Mandibular fossa",
+              "bbox": [
+                722.59,
+                226.91,
+                849.26,
+                244.91
+              ]
+            },
+            {
+              "text": "Articular tubercle",
+              "bbox": [
+                710.09,
+                200.46,
+                837.58,
+                218.46
+              ]
+            },
+            {
+              "text": "Petrotympanic fissure",
+              "bbox": [
+                89.88,
+                232.17,
+                249.34,
+                250.2
+              ]
+            },
+            {
+              "text": "Carotid canal",
+              "bbox": [
+                726.86,
+                253.45,
+                822.66,
+                271.45
+              ]
+            },
+            {
+              "text": "Foramen spinosum",
+              "bbox": [
+                92.33,
+                192.78,
+                231.87,
+                210.81
+              ]
+            },
+            {
+              "text": "Stylomastoid foramen",
+              "bbox": [
+                80.09,
+                286.05,
+                240.95,
+                304.08
+              ]
+            },
+            {
+              "text": "pterygoid canal",
+              "bbox": [
+                711.14,
+                149.17,
+                823.46,
+                167.17
+              ]
+            },
+            {
+              "text": "Mastoid process",
+              "bbox": [
+                743.57,
+                300.59,
+                863.01,
+                318.62
+              ]
+            },
+            {
+              "text": "Mastoid notch",
+              "bbox": [
+                141.41,
+                316.09,
+                246.96,
+                334.09
+              ]
+            },
+            {
+              "text": "(for digastric belly)",
+              "bbox": [
+                141.41,
+                337.69,
+                281.61,
+                355.69
+              ]
+            },
+            {
+              "text": "Mastoid groove",
+              "bbox": [
+                129.0,
+                373.86,
+                243.19,
+                391.86
+              ]
+            },
+            {
+              "text": "Occipital condyle",
+              "bbox": [
+                712.39,
+                362.96,
+                836.99,
+                380.96
+              ]
+            },
+            {
+              "text": "Condylar canal",
+              "bbox": [
+                135.91,
+                404.15,
+                243.55,
+                422.15
+              ]
+            },
+            {
+              "text": "Posterior nasal spine",
+              "bbox": [
+                621.46,
+                23.77,
+                772.7,
+                41.77
+              ]
+            },
+            {
+              "text": "Scaphoid fossa",
+              "bbox": [
+                689.3,
+                122.65,
+                797.21,
+                140.65
+              ]
+            },
+            {
+              "text": "Hamulus",
+              "bbox": [
+                172.87,
+                117.01,
+                237.11,
+                135.01
+              ]
+            },
+            {
+              "text": "Choana",
+              "bbox": [
+                246.1,
+                44.82,
+                301.38,
+                62.82
+              ]
+            },
+            {
+              "text": "Pterygoid fossa",
+              "bbox": [
+                122.4,
+                167.82,
+                233.8,
+                185.82
+              ]
+            },
+            {
+              "text": "External occipital protuberance (inion)",
+              "bbox": [
+                595.32,
+                515.6,
+                875.51,
+                533.6
+              ]
+            },
+            {
+              "text": "External occipital crest",
+              "bbox": [
+                151.49,
+                479.12,
+                315.99,
+                497.12
+              ]
+            },
+            {
+              "text": "Inferior nuchal line",
+              "bbox": [
+                652.39,
+                457.52,
+                790.14,
+                475.52
+              ]
+            },
+            {
+              "text": "Jugular foramen",
+              "bbox": [
+                91.94,
+                256.38,
+                210.29,
+                274.38
+              ]
+            },
+            {
+              "text": "Mastoid foramen",
+              "bbox": [
+                141.17,
+                432.52,
+                266.99,
+                450.52
+              ]
+            },
+            {
+              "text": "Pharyngeal tubercle",
+              "bbox": [
+                715.99,
+                176.56,
+                862.06,
+                194.56
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page03.png",
+          "figure_sha256": "03f50389bf0e850404f06ca7c456bf82021049b93de6b18a2073ed65febf34e0",
+          "figure_rect": [
+            76.09,
+            0.0,
+            879.51,
+            537.6
+          ]
+        },
+        {
+          "page": 4,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                8.93,
+                519.85,
+                303.3,
+                533.89
+              ]
+            },
+            {
+              "text": "Incisive fossa",
+              "bbox": [
+                278.62,
+                16.48,
+                373.97,
+                34.48
+              ]
+            },
+            {
+              "text": "Greater palatine foramen",
+              "bbox": [
+                76.13,
+                108.04,
+                261.55,
+                126.04
+              ]
+            },
+            {
+              "text": "Maxillary tuberosity",
+              "bbox": [
+                668.04,
+                110.48,
+                813.93,
+                128.48
+              ]
+            },
+            {
+              "text": "Lesser palatine foramen",
+              "bbox": [
+                65.86,
+                141.23,
+                241.23,
+                159.26
+              ]
+            },
+            {
+              "text": "Infratemporal crest",
+              "bbox": [
+                88.68,
+                170.48,
+                228.7,
+                188.48
+              ]
+            },
+            {
+              "text": "Stylomastoid foramen",
+              "bbox": [
+                79.51,
+                332.17,
+                240.38,
+                350.17
+              ]
+            },
+            {
+              "text": "Pterygoid fossa",
+              "bbox": [
+                106.63,
+                243.28,
+                218.03,
+                261.28
+              ]
+            },
+            {
+              "text": "Choana",
+              "bbox": [
+                232.37,
+                52.12,
+                287.67,
+                70.15
+              ]
+            },
+            {
+              "text": "Palatine process of maxilla",
+              "bbox": [
+                588.41,
+                34.96,
+                781.64,
+                52.96
+              ]
+            },
+            {
+              "text": "Horizontal plate of palatine bone",
+              "bbox": [
+                639.62,
+                72.61,
+                879.81,
+                90.61
+              ]
+            },
+            {
+              "text": "Posterior nasal spine",
+              "bbox": [
+                706.01,
+                134.84,
+                857.25,
+                152.84
+              ]
+            },
+            {
+              "text": "Scaphoid fossa",
+              "bbox": [
+                716.9,
+                167.56,
+                824.81,
+                185.56
+              ]
+            },
+            {
+              "text": "Foramen ovale",
+              "bbox": [
+                706.01,
+                201.37,
+                814.04,
+                219.37
+              ]
+            },
+            {
+              "text": "Stylomastoid foramen",
+              "bbox": [
+                718.73,
+                282.66,
+                879.6,
+                300.66
+              ]
+            },
+            {
+              "text": "Foramen spinosum",
+              "bbox": [
+                719.83,
+                224.75,
+                859.33,
+                242.75
+              ]
+            },
+            {
+              "text": "Carotid canal",
+              "bbox": [
+                726.86,
+                253.45,
+                822.66,
+                271.45
+              ]
+            },
+            {
+              "text": "Pharyngeal tubercle",
+              "bbox": [
+                88.92,
+                299.29,
+                234.99,
+                317.29
+              ]
+            },
+            {
+              "text": "Hamulus",
+              "bbox": [
+                155.71,
+                217.33,
+                219.95,
+                235.33
+              ]
+            },
+            {
+              "text": "Petrotympanic fissure",
+              "bbox": [
+                88.68,
+                270.08,
+                248.07,
+                288.08
+              ]
+            },
+            {
+              "text": "Jugular foramen",
+              "bbox": [
+                701.9,
+                354.35,
+                820.25,
+                372.35
+              ]
+            },
+            {
+              "text": "Mastoid notch(for digastric",
+              "bbox": [
+                40.32,
+                363.56,
+                241.76,
+                381.56
+              ]
+            },
+            {
+              "text": "belly)",
+              "bbox": [
+                40.32,
+                385.16,
+                80.57,
+                403.16
+              ]
+            },
+            {
+              "text": "Mastoid groove",
+              "bbox": [
+                139.94,
+                398.58,
+                254.13,
+                416.58
+              ]
+            },
+            {
+              "text": "Condylar canal",
+              "bbox": [
+                680.78,
+                403.6,
+                788.42,
+                421.6
+              ]
+            },
+            {
+              "text": "Occipital condyle",
+              "bbox": [
+                146.16,
+                439.84,
+                270.76,
+                457.84
+              ]
+            },
+            {
+              "text": "External occipital crest",
+              "bbox": [
+                161.35,
+                473.36,
+                325.85,
+                491.36
+              ]
+            },
+            {
+              "text": "External occipital protuberance (inion)",
+              "bbox": [
+                595.32,
+                515.6,
+                875.51,
+                533.6
+              ]
+            },
+            {
+              "text": "Inferior nuchal line",
+              "bbox": [
+                646.32,
+                461.22,
+                784.07,
+                479.22
+              ]
+            },
+            {
+              "text": "Superior nuchal  line",
+              "bbox": [
+                188.69,
+                499.86,
+                339.04,
+                517.86
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page04.png",
+          "figure_sha256": "f9ba92bac2a777d006987afb390b22fd2826bcc4ca4eabdea39bfad918c12d4d",
+          "figure_rect": [
+            12.28,
+            0.0,
+            960.0,
+            540.0
+          ]
+        },
+        {
+          "page": 5,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                4.99,
+                519.85,
+                299.37,
+                533.89
+              ]
+            },
+            {
+              "text": "Incisive fossa",
+              "bbox": [
+                195.86,
+                16.31,
+                291.21,
+                34.31
+              ]
+            },
+            {
+              "text": "Greater palatine foramen",
+              "bbox": [
+                111.29,
+                82.28,
+                296.71,
+                100.28
+              ]
+            },
+            {
+              "text": "Lesser palatine foramen",
+              "bbox": [
+                100.49,
+                115.6,
+                276.15,
+                133.6
+              ]
+            },
+            {
+              "text": "Maxillary tuberosity",
+              "bbox": [
+                635.93,
+                62.8,
+                782.11,
+                80.8
+              ]
+            },
+            {
+              "text": "Infratemporal crest",
+              "bbox": [
+                98.28,
+                171.32,
+                238.3,
+                189.32
+              ]
+            },
+            {
+              "text": "Pterygoid fossa",
+              "bbox": [
+                127.01,
+                199.81,
+                238.41,
+                217.81
+              ]
+            },
+            {
+              "text": "Choana",
+              "bbox": [
+                600.17,
+                34.41,
+                655.47,
+                52.44
+              ]
+            },
+            {
+              "text": "Palatine process of maxilla",
+              "bbox": [
+                109.18,
+                43.64,
+                302.41,
+                61.64
+              ]
+            },
+            {
+              "text": "Horizontal plate of palatine bone",
+              "bbox": [
+                531.0,
+                11.27,
+                771.19,
+                29.27
+              ]
+            },
+            {
+              "text": "Petrotympanic fissure",
+              "bbox": [
+                85.54,
+                269.89,
+                244.93,
+                287.89
+              ]
+            },
+            {
+              "text": "Mandibular fossa",
+              "bbox": [
+                674.16,
+                215.51,
+                800.83,
+                233.51
+              ]
+            },
+            {
+              "text": "Articular tubercle",
+              "bbox": [
+                690.17,
+                181.31,
+                817.65,
+                199.34
+              ]
+            },
+            {
+              "text": "Palatovaginal canal",
+              "bbox": [
+                690.17,
+                91.88,
+                829.27,
+                109.88
+              ]
+            },
+            {
+              "text": "Vomerovaginal canal",
+              "bbox": [
+                698.78,
+                141.18,
+                850.41,
+                159.18
+              ]
+            },
+            {
+              "text": "Scaphoid fossa",
+              "bbox": [
+                119.47,
+                228.9,
+                227.38,
+                246.9
+              ]
+            },
+            {
+              "text": "Mastoid notch",
+              "bbox": [
+                709.13,
+                286.64,
+                814.68,
+                304.64
+              ]
+            },
+            {
+              "text": "(for digastric belly)",
+              "bbox": [
+                709.13,
+                308.24,
+                849.33,
+                326.24
+              ]
+            },
+            {
+              "text": "Mastoid groove",
+              "bbox": [
+                690.17,
+                360.95,
+                804.36,
+                378.95
+              ]
+            },
+            {
+              "text": "Occipital condyle",
+              "bbox": [
+                629.66,
+                408.02,
+                754.3,
+                426.05
+              ]
+            },
+            {
+              "text": "Condylar canal",
+              "bbox": [
+                135.05,
+                381.64,
+                242.69,
+                399.64
+              ]
+            },
+            {
+              "text": "External occipital protuberance (inion)",
+              "bbox": [
+                560.06,
+                504.97,
+                840.25,
+                522.97
+              ]
+            },
+            {
+              "text": "External occipital crest",
+              "bbox": [
+                108.0,
+                452.08,
+                272.5,
+                470.08
+              ]
+            },
+            {
+              "text": "Superior nuchal  line",
+              "bbox": [
+                188.09,
+                486.83,
+                338.17,
+                504.83
+              ]
+            },
+            {
+              "text": "Inferior nuchal line",
+              "bbox": [
+                642.29,
+                472.99,
+                780.08,
+                491.01
+              ]
+            },
+            {
+              "text": "Carotid canal",
+              "bbox": [
+                690.17,
+                239.05,
+                785.97,
+                257.05
+              ]
+            },
+            {
+              "text": "Jugular foramen",
+              "bbox": [
+                712.94,
+                263.58,
+                831.29,
+                281.58
+              ]
+            },
+            {
+              "text": "Pharyngeal tubercle",
+              "bbox": [
+                92.81,
+                340.36,
+                238.88,
+                358.36
+              ]
+            },
+            {
+              "text": "Hamulus",
+              "bbox": [
+                193.25,
+                139.4,
+                257.49,
+                157.4
+              ]
+            },
+            {
+              "text": "Foramen lacerum",
+              "bbox": [
+                108.55,
+                310.24,
+                236.89,
+                328.24
+              ]
+            },
+            {
+              "text": "Mastoid foramen",
+              "bbox": [
+                131.78,
+                410.77,
+                257.6,
+                428.77
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page05.png",
+          "figure_sha256": "fd131f7103afba326e53d131ac5ca53472e903217db011f652e5d90a86884e7d",
+          "figure_rect": [
+            81.54,
+            0.0,
+            854.41,
+            526.97
+          ]
+        },
+        {
+          "page": 6,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                402.0,
+                46.28,
+                527.33,
+                64.28
+              ]
+            },
+            {
+              "text": "Posterior tubercle",
+              "bbox": [
+                383.33,
+                475.67,
+                514.06,
+                493.67
+              ]
+            },
+            {
+              "text": "Posterior arch",
+              "bbox": [
+                637.42,
+                410.51,
+                739.25,
+                428.51
+              ]
+            },
+            {
+              "text": "Anterior arch",
+              "bbox": [
+                581.02,
+                92.82,
+                677.47,
+                110.85
+              ]
+            },
+            {
+              "text": "Superior articular surface of",
+              "bbox": [
+                50.98,
+                107.37,
+                258.95,
+                125.4
+              ]
+            },
+            {
+              "text": "lateral mass for occipital condyle",
+              "bbox": [
+                50.98,
+                129.01,
+                289.42,
+                147.01
+              ]
+            },
+            {
+              "text": "Posterior arch",
+              "bbox": [
+                227.54,
+                422.63,
+                329.37,
+                440.63
+              ]
+            },
+            {
+              "text": "Transverse process",
+              "bbox": [
+                783.14,
+                266.72,
+                920.12,
+                284.72
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                776.16,
+                202.86,
+                919.51,
+                220.86
+              ]
+            },
+            {
+              "text": "C1,",
+              "bbox": [
+                31.61,
+                16.62,
+                101.52,
+                70.65
+              ]
+            },
+            {
+              "text": "superior view",
+              "bbox": [
+                101.47,
+                39.14,
+                237.29,
+                63.14
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page06.png",
+          "figure_sha256": "5fb486c9eb5561223076b2a4d5430ffe8a10b82b2b06d2e98361fcf83ba2abf9",
+          "figure_rect": [
+            27.61,
+            12.62,
+            924.12,
+            497.67
+          ]
+        },
+        {
+          "page": 7,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                435.46,
+                84.85,
+                561.05,
+                102.85
+              ]
+            },
+            {
+              "text": "Articular facet for dens",
+              "bbox": [
+                560.33,
+                115.74,
+                727.73,
+                133.74
+              ]
+            },
+            {
+              "text": "Tubercle for transverse ligament of atlas",
+              "bbox": [
+                629.81,
+                155.25,
+                922.21,
+                173.28
+              ]
+            },
+            {
+              "text": "Transverse process",
+              "bbox": [
+                84.94,
+                213.13,
+                222.19,
+                231.13
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                70.94,
+                243.73,
+                214.3,
+                261.73
+              ]
+            },
+            {
+              "text": "Posterior tubercle",
+              "bbox": [
+                416.52,
+                458.83,
+                547.27,
+                476.85
+              ]
+            },
+            {
+              "text": "Groove for vertebral artery",
+              "bbox": [
+                57.36,
+                316.96,
+                254.14,
+                334.96
+              ]
+            },
+            {
+              "text": "Posterior arch",
+              "bbox": [
+                656.4,
+                384.37,
+                758.23,
+                402.37
+              ]
+            },
+            {
+              "text": "Anterior arch",
+              "bbox": [
+                287.76,
+                125.87,
+                384.19,
+                143.87
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                165.07,
+                386.8,
+                298.68,
+                404.8
+              ]
+            },
+            {
+              "text": "Inferior articular",
+              "bbox": [
+                718.99,
+                188.73,
+                838.2,
+                206.76
+              ]
+            },
+            {
+              "text": "surface of lateral",
+              "bbox": [
+                718.99,
+                210.37,
+                841.39,
+                228.37
+              ]
+            },
+            {
+              "text": "mass for axis",
+              "bbox": [
+                718.99,
+                231.97,
+                812.52,
+                249.97
+              ]
+            },
+            {
+              "text": "C1,",
+              "bbox": [
+                31.61,
+                16.62,
+                101.52,
+                70.65
+              ]
+            },
+            {
+              "text": "inferior view",
+              "bbox": [
+                101.47,
+                39.14,
+                227.76,
+                63.14
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page07.png",
+          "figure_sha256": "06b6f1aeea0542a0586495706062c97744f20e1b5b0e496e43110312660998b5",
+          "figure_rect": [
+            27.61,
+            12.62,
+            926.21,
+            480.85
+          ]
+        },
+        {
+          "page": 8,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Articular facet for dens",
+              "bbox": [
+                514.13,
+                101.2,
+                681.53,
+                119.2
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                399.79,
+                75.08,
+                525.12,
+                93.08
+              ]
+            },
+            {
+              "text": "Transverse process",
+              "bbox": [
+                43.01,
+                284.0,
+                179.99,
+                302.0
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                43.01,
+                178.21,
+                186.36,
+                196.21
+              ]
+            },
+            {
+              "text": "Superior articular surface of",
+              "bbox": [
+                656.09,
+                147.8,
+                864.04,
+                165.8
+              ]
+            },
+            {
+              "text": "lateral mass for occipital condyle",
+              "bbox": [
+                656.09,
+                169.38,
+                894.58,
+                187.41
+              ]
+            },
+            {
+              "text": "Tubercle for transverse ligament of atlas",
+              "bbox": [
+                82.82,
+                90.25,
+                375.25,
+                108.25
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                143.47,
+                389.53,
+                277.08,
+                407.53
+              ]
+            },
+            {
+              "text": "Posterior tubercle",
+              "bbox": [
+                384.94,
+                492.08,
+                515.67,
+                510.08
+              ]
+            },
+            {
+              "text": "Posterior arch",
+              "bbox": [
+                656.09,
+                398.92,
+                757.92,
+                416.92
+              ]
+            },
+            {
+              "text": "C1,",
+              "bbox": [
+                31.61,
+                16.62,
+                101.52,
+                70.65
+              ]
+            },
+            {
+              "text": "superior view",
+              "bbox": [
+                101.47,
+                39.14,
+                237.29,
+                63.14
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page08.png",
+          "figure_sha256": "b5a025359868e8f5ea064effd305781b41c832f93082de8dbe8c4801f41f58cc",
+          "figure_rect": [
+            27.61,
+            12.62,
+            898.58,
+            514.08
+          ]
+        },
+        {
+          "page": 9,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Dens",
+              "bbox": [
+                403.9,
+                42.68,
+                440.42,
+                60.68
+              ]
+            },
+            {
+              "text": "Posterior articular facet",
+              "bbox": [
+                607.97,
+                71.77,
+                783.76,
+                89.77
+              ]
+            },
+            {
+              "text": "(for transverse ligament of atlas)",
+              "bbox": [
+                607.97,
+                93.37,
+                844.96,
+                111.37
+              ]
+            },
+            {
+              "text": "Superior articular facet",
+              "bbox": [
+                702.07,
+                131.51,
+                870.05,
+                149.51
+              ]
+            },
+            {
+              "text": "for atlas",
+              "bbox": [
+                702.07,
+                153.11,
+                765.48,
+                171.11
+              ]
+            },
+            {
+              "text": "Spinous process",
+              "bbox": [
+                444.05,
+                481.6,
+                561.1,
+                499.6
+              ]
+            },
+            {
+              "text": "Inferior articular process",
+              "bbox": [
+                83.47,
+                334.12,
+                262.54,
+                352.12
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                342.58,
+                91.12,
+                394.62,
+                109.12
+              ]
+            },
+            {
+              "text": "C2",
+              "bbox": [
+                31.61,
+                16.62,
+                87.58,
+                70.65
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page09.png",
+          "figure_sha256": "54bc869f45dd46e3357966fa6af3b44ee07704ba497f045b0ec3d3b503383d3d",
+          "figure_rect": [
+            27.61,
+            12.62,
+            874.05,
+            503.6
+          ]
+        },
+        {
+          "page": 10,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Transverse process",
+              "bbox": [
+                98.83,
+                303.28,
+                235.81,
+                321.28
+              ]
+            },
+            {
+              "text": "Inferior articular process",
+              "bbox": [
+                176.09,
+                448.19,
+                355.14,
+                466.22
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                81.79,
+                348.11,
+                225.14,
+                366.11
+              ]
+            },
+            {
+              "text": "Dens",
+              "bbox": [
+                299.23,
+                76.58,
+                335.8,
+                94.61
+              ]
+            },
+            {
+              "text": "Superior articular facet",
+              "bbox": [
+                114.96,
+                184.76,
+                282.94,
+                202.76
+              ]
+            },
+            {
+              "text": "for atlas",
+              "bbox": [
+                114.96,
+                206.36,
+                178.37,
+                224.36
+              ]
+            },
+            {
+              "text": "Spinous process",
+              "bbox": [
+                707.64,
+                358.36,
+                824.69,
+                376.36
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                675.24,
+                288.73,
+                808.85,
+                306.73
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                214.75,
+                131.24,
+                266.79,
+                149.24
+              ]
+            },
+            {
+              "text": "C2",
+              "bbox": [
+                31.61,
+                16.62,
+                87.58,
+                70.65
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page10.png",
+          "figure_sha256": "b07c05f6ec2ae3ee0df7b76aaf4f8ef5e05879d1420d9e0b3ea20b3d67aac15e",
+          "figure_rect": [
+            27.61,
+            12.62,
+            828.69,
+            470.22
+          ]
+        },
+        {
+          "page": 11,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Bifid spinous process",
+              "bbox": [
+                545.62,
+                133.93,
+                698.53,
+                151.93
+              ]
+            },
+            {
+              "text": "uncinate process",
+              "bbox": [
+                685.66,
+                310.79,
+                808.96,
+                328.82
+              ]
+            },
+            {
+              "text": "Superior articular process and facet",
+              "bbox": [
+                31.99,
+                208.16,
+                291.34,
+                226.16
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                64.3,
+                423.5,
+                189.65,
+                441.53
+              ]
+            },
+            {
+              "text": "Posterior tubercle",
+              "bbox": [
+                46.94,
+                316.67,
+                177.68,
+                334.67
+              ]
+            },
+            {
+              "text": "Lamina",
+              "bbox": [
+                255.38,
+                137.63,
+                308.16,
+                155.63
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                693.58,
+                236.92,
+                745.62,
+                254.92
+              ]
+            },
+            {
+              "text": "Vertebral body",
+              "bbox": [
+                377.4,
+                455.8,
+                485.56,
+                473.8
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                575.76,
+                184.88,
+                709.37,
+                202.88
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                685.66,
+                371.46,
+                829.01,
+                389.46
+              ]
+            },
+            {
+              "text": "C4",
+              "bbox": [
+                29.78,
+                18.04,
+                85.72,
+                72.04
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page11.png",
+          "figure_sha256": "a7e0fb82883976650106ca37a4be52453a3cfd5375d83227b91313ec307ea0d9",
+          "figure_rect": [
+            25.78,
+            14.04,
+            833.01,
+            477.8
+          ]
+        },
+        {
+          "page": 12,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                736.13,
+                245.05,
+                788.17,
+                263.05
+              ]
+            },
+            {
+              "text": "Superior articular process and facet",
+              "bbox": [
+                24.58,
+                191.03,
+                283.92,
+                209.03
+              ]
+            },
+            {
+              "text": "Lamina",
+              "bbox": [
+                255.38,
+                137.63,
+                308.16,
+                155.63
+              ]
+            },
+            {
+              "text": "Bifid spinous process",
+              "bbox": [
+                565.82,
+                108.54,
+                718.73,
+                126.54
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                596.9,
+                153.37,
+                730.51,
+                171.37
+              ]
+            },
+            {
+              "text": "uncinate process",
+              "bbox": [
+                683.09,
+                371.53,
+                806.35,
+                389.53
+              ]
+            },
+            {
+              "text": "Vertebral body",
+              "bbox": [
+                377.4,
+                455.8,
+                485.56,
+                473.8
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                76.32,
+                398.24,
+                201.65,
+                416.24
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                33.79,
+                331.26,
+                177.14,
+                349.26
+              ]
+            },
+            {
+              "text": "C4",
+              "bbox": [
+                29.78,
+                18.04,
+                85.72,
+                72.04
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page12.png",
+          "figure_sha256": "085d336bdce361b7355f60144cb608b88eb8163fc6fe71699851ef847ac9728c",
+          "figure_rect": [
+            20.58,
+            14.04,
+            810.35,
+            477.8
+          ]
+        },
+        {
+          "page": 13,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                691.8,
+                231.3,
+                743.84,
+                249.3
+              ]
+            },
+            {
+              "text": "Spinous process",
+              "bbox": [
+                526.42,
+                44.96,
+                643.47,
+                62.96
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                256.1,
+                168.8,
+                389.71,
+                186.8
+              ]
+            },
+            {
+              "text": "Lamina",
+              "bbox": [
+                580.49,
+                172.09,
+                633.27,
+                190.09
+              ]
+            },
+            {
+              "text": "uncinate process",
+              "bbox": [
+                666.65,
+                375.18,
+                789.91,
+                393.18
+              ]
+            },
+            {
+              "text": "transverse process)",
+              "bbox": [
+                48.55,
+                301.84,
+                189.42,
+                319.84
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                88.75,
+                410.56,
+                232.1,
+                428.56
+              ]
+            },
+            {
+              "text": "Vertebral body",
+              "bbox": [
+                410.11,
+                471.71,
+                518.27,
+                489.71
+              ]
+            },
+            {
+              "text": "C6",
+              "bbox": [
+                29.78,
+                18.04,
+                85.72,
+                72.04
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part4_page13.png",
+          "figure_sha256": "6de359d5dc54fa3b314fed63b5f512e8053f69fddb59976c584ed482212e58fa",
+          "figure_rect": [
+            25.78,
+            14.04,
+            793.91,
+            493.71
+          ]
+        }
+      ]
+    },
+    {
+      "part": "5",
+      "source": "علوم تشریح سر و گردن/جلسه 13 - اناتومی سر و گردن عملی/Practical anatomy اصلاحیه 5 .pdf",
+      "sha256": "77cb5fc7c2bc98f7848b265d95578757d9f5e6a3a320d5718d43997d334545e0",
+      "page_count": 21,
+      "pages": [
+        {
+          "page": 1,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Fourth session of practical anatomy",
+              "bbox": [
+                59.95,
+                45.57,
+                531.32,
+                77.61
+              ]
+            },
+            {
+              "text": "➢",
+              "bbox": [
+                110.47,
+                244.91,
+                145.46,
+                293.55
+              ]
+            },
+            {
+              "text": "Neck muscles",
+              "bbox": [
+                155.47,
+                251.47,
+                398.04,
+                295.54
+              ]
+            },
+            {
+              "text": "➢",
+              "bbox": [
+                121.37,
+                162.08,
+                156.34,
+                210.7
+              ]
+            },
+            {
+              "text": "Neck vertebrae",
+              "bbox": [
+                166.37,
+                168.64,
+                444.79,
+                212.68
+              ]
+            },
+            {
+              "text": "➢",
+              "bbox": [
+                110.47,
+                350.05,
+                145.46,
+                398.69
+              ]
+            },
+            {
+              "text": "Neck trigonometry",
+              "bbox": [
+                155.47,
+                356.61,
+                492.3,
+                400.68
+              ]
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                402.0,
+                46.28,
+                527.33,
+                64.28
+              ]
+            },
+            {
+              "text": "Posterior tubercle",
+              "bbox": [
+                383.33,
+                475.67,
+                514.06,
+                493.67
+              ]
+            },
+            {
+              "text": "Posterior arch",
+              "bbox": [
+                637.42,
+                410.51,
+                739.25,
+                428.51
+              ]
+            },
+            {
+              "text": "Anterior arch",
+              "bbox": [
+                581.02,
+                92.82,
+                677.47,
+                110.85
+              ]
+            },
+            {
+              "text": "Superior articular surface of",
+              "bbox": [
+                50.98,
+                107.37,
+                258.95,
+                125.4
+              ]
+            },
+            {
+              "text": "lateral mass for occipital condyle",
+              "bbox": [
+                50.98,
+                129.01,
+                289.42,
+                147.01
+              ]
+            },
+            {
+              "text": "Posterior arch",
+              "bbox": [
+                227.54,
+                422.63,
+                329.37,
+                440.63
+              ]
+            },
+            {
+              "text": "Transverse process",
+              "bbox": [
+                783.14,
+                266.72,
+                920.12,
+                284.72
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                776.16,
+                202.86,
+                919.51,
+                220.86
+              ]
+            },
+            {
+              "text": "C1 superior view",
+              "bbox": [
+                31.99,
+                20.62,
+                281.29,
+                56.62
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page03.png",
+          "figure_sha256": "d10505417a27578f6a7bdf00508ffc886146feb1605b56eb83d65f42e78aa426",
+          "figure_rect": [
+            27.99,
+            16.62,
+            924.12,
+            497.67
+          ]
+        },
+        {
+          "page": 4,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                435.46,
+                84.85,
+                561.05,
+                102.85
+              ]
+            },
+            {
+              "text": "Articular facet for dens",
+              "bbox": [
+                560.33,
+                115.74,
+                727.73,
+                133.74
+              ]
+            },
+            {
+              "text": "Tubercle for transverse ligament of atlas",
+              "bbox": [
+                629.81,
+                155.25,
+                922.21,
+                173.28
+              ]
+            },
+            {
+              "text": "Transverse process",
+              "bbox": [
+                84.94,
+                213.13,
+                222.19,
+                231.13
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                70.94,
+                243.73,
+                214.3,
+                261.73
+              ]
+            },
+            {
+              "text": "Posterior tubercle",
+              "bbox": [
+                416.52,
+                458.83,
+                547.27,
+                476.85
+              ]
+            },
+            {
+              "text": "Groove for vertebral artery",
+              "bbox": [
+                57.36,
+                316.96,
+                254.14,
+                334.96
+              ]
+            },
+            {
+              "text": "Posterior arch",
+              "bbox": [
+                656.4,
+                384.37,
+                758.23,
+                402.37
+              ]
+            },
+            {
+              "text": "Anterior arch",
+              "bbox": [
+                287.76,
+                125.87,
+                384.19,
+                143.87
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                165.07,
+                386.8,
+                298.68,
+                404.8
+              ]
+            },
+            {
+              "text": "Inferior articular",
+              "bbox": [
+                718.99,
+                188.73,
+                838.2,
+                206.76
+              ]
+            },
+            {
+              "text": "surface of lateral",
+              "bbox": [
+                718.99,
+                210.37,
+                841.39,
+                228.37
+              ]
+            },
+            {
+              "text": "mass for axis",
+              "bbox": [
+                718.99,
+                231.97,
+                812.52,
+                249.97
+              ]
+            },
+            {
+              "text": "C1 inferior view",
+              "bbox": [
+                21.36,
+                10.3,
+                250.4,
+                46.33
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page04.png",
+          "figure_sha256": "501892eae648f6c2f5e87e17309e5d7481c3891a507f4c51ce55deb14f452ae4",
+          "figure_rect": [
+            17.36,
+            6.3,
+            926.21,
+            480.85
+          ]
+        },
+        {
+          "page": 5,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Articular facet for dens",
+              "bbox": [
+                514.13,
+                101.2,
+                681.53,
+                119.2
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                399.79,
+                75.08,
+                525.12,
+                93.08
+              ]
+            },
+            {
+              "text": "Transverse process",
+              "bbox": [
+                43.01,
+                284.0,
+                179.99,
+                302.0
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                43.01,
+                178.21,
+                186.36,
+                196.21
+              ]
+            },
+            {
+              "text": "Superior articular surface of",
+              "bbox": [
+                656.09,
+                147.8,
+                864.04,
+                165.8
+              ]
+            },
+            {
+              "text": "lateral mass for occipital condyle",
+              "bbox": [
+                656.09,
+                169.38,
+                894.58,
+                187.41
+              ]
+            },
+            {
+              "text": "Tubercle for transverse ligament of atlas",
+              "bbox": [
+                82.82,
+                90.25,
+                375.25,
+                108.25
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                143.47,
+                389.53,
+                277.08,
+                407.53
+              ]
+            },
+            {
+              "text": "Posterior tubercle",
+              "bbox": [
+                384.94,
+                492.08,
+                515.67,
+                510.08
+              ]
+            },
+            {
+              "text": "Posterior arch",
+              "bbox": [
+                656.09,
+                398.92,
+                757.92,
+                416.92
+              ]
+            },
+            {
+              "text": "C1 superior view",
+              "bbox": [
+                31.99,
+                20.62,
+                281.29,
+                56.62
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page05.png",
+          "figure_sha256": "1b09d6800c22190a9cb478392bbc68085ac0874f4fdfe58bd0307f0a9c0196ca",
+          "figure_rect": [
+            27.99,
+            16.62,
+            898.58,
+            514.08
+          ]
+        },
+        {
+          "page": 6,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Dens",
+              "bbox": [
+                403.9,
+                42.68,
+                440.42,
+                60.68
+              ]
+            },
+            {
+              "text": "Posterior articular facet",
+              "bbox": [
+                607.97,
+                71.77,
+                783.76,
+                89.77
+              ]
+            },
+            {
+              "text": "(for transverse ligament of atlas)",
+              "bbox": [
+                607.97,
+                93.37,
+                844.96,
+                111.37
+              ]
+            },
+            {
+              "text": "Superior articular facet",
+              "bbox": [
+                702.07,
+                131.51,
+                870.05,
+                149.51
+              ]
+            },
+            {
+              "text": "for atlas",
+              "bbox": [
+                702.07,
+                153.11,
+                765.48,
+                171.11
+              ]
+            },
+            {
+              "text": "Spinous process",
+              "bbox": [
+                444.05,
+                481.6,
+                561.1,
+                499.6
+              ]
+            },
+            {
+              "text": "Inferior articular process",
+              "bbox": [
+                83.47,
+                334.12,
+                262.54,
+                352.12
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                342.58,
+                91.12,
+                394.62,
+                109.12
+              ]
+            },
+            {
+              "text": "C 2",
+              "bbox": [
+                57.14,
+                54.91,
+                102.58,
+                90.91
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page06.png",
+          "figure_sha256": "0ae4c8097472501578fe95a3a871219da0a2bdb33b29d2d19b5ca4f39b42c15c",
+          "figure_rect": [
+            53.14,
+            38.68,
+            874.05,
+            503.6
+          ]
+        },
+        {
+          "page": 7,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Transverse process",
+              "bbox": [
+                98.83,
+                303.28,
+                235.81,
+                321.28
+              ]
+            },
+            {
+              "text": "Inferior articular process",
+              "bbox": [
+                176.09,
+                448.19,
+                355.14,
+                466.22
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                81.79,
+                348.11,
+                225.14,
+                366.11
+              ]
+            },
+            {
+              "text": "Dens",
+              "bbox": [
+                299.23,
+                76.58,
+                335.8,
+                94.61
+              ]
+            },
+            {
+              "text": "Superior articular facet",
+              "bbox": [
+                114.96,
+                184.76,
+                282.94,
+                202.76
+              ]
+            },
+            {
+              "text": "for atlas",
+              "bbox": [
+                114.96,
+                206.36,
+                178.37,
+                224.36
+              ]
+            },
+            {
+              "text": "Spinous process",
+              "bbox": [
+                707.64,
+                358.36,
+                824.69,
+                376.36
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                675.24,
+                288.73,
+                808.85,
+                306.73
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                214.75,
+                131.24,
+                266.79,
+                149.24
+              ]
+            },
+            {
+              "text": "C 2",
+              "bbox": [
+                57.14,
+                54.91,
+                102.58,
+                90.91
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page07.png",
+          "figure_sha256": "8718074a795c367fd1a533c35f108f5f84ebcd1a6efe523ae2dd6e6c0bd79109",
+          "figure_rect": [
+            53.14,
+            50.91,
+            828.69,
+            470.22
+          ]
+        },
+        {
+          "page": 8,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Bifid spinous process",
+              "bbox": [
+                545.62,
+                133.93,
+                698.53,
+                151.93
+              ]
+            },
+            {
+              "text": "uncinate process",
+              "bbox": [
+                685.66,
+                310.79,
+                808.96,
+                328.82
+              ]
+            },
+            {
+              "text": "Superior articular process and facet",
+              "bbox": [
+                31.99,
+                208.16,
+                291.34,
+                226.16
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                64.3,
+                423.5,
+                189.65,
+                441.53
+              ]
+            },
+            {
+              "text": "Posterior tubercle",
+              "bbox": [
+                46.94,
+                316.67,
+                177.68,
+                334.67
+              ]
+            },
+            {
+              "text": "Lamina",
+              "bbox": [
+                255.38,
+                137.63,
+                308.16,
+                155.63
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                693.58,
+                236.92,
+                745.62,
+                254.92
+              ]
+            },
+            {
+              "text": "Vertebral body",
+              "bbox": [
+                377.4,
+                455.8,
+                485.56,
+                473.8
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                575.76,
+                184.88,
+                709.37,
+                202.88
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                685.66,
+                371.46,
+                829.01,
+                389.46
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page08.png",
+          "figure_sha256": "0608fdf0552d7fa5c361f0250455f43879add76de78da0215c3d33bb64822e81",
+          "figure_rect": [
+            27.99,
+            52.36,
+            833.01,
+            477.8
+          ]
+        },
+        {
+          "page": 9,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                736.13,
+                245.05,
+                788.17,
+                263.05
+              ]
+            },
+            {
+              "text": "Superior articular process and facet",
+              "bbox": [
+                24.58,
+                191.03,
+                283.92,
+                209.03
+              ]
+            },
+            {
+              "text": "Lamina",
+              "bbox": [
+                255.38,
+                137.63,
+                308.16,
+                155.63
+              ]
+            },
+            {
+              "text": "Bifid spinous process",
+              "bbox": [
+                565.82,
+                108.54,
+                718.73,
+                126.54
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                596.9,
+                153.37,
+                730.51,
+                171.37
+              ]
+            },
+            {
+              "text": "uncinate process",
+              "bbox": [
+                683.09,
+                371.53,
+                806.35,
+                389.53
+              ]
+            },
+            {
+              "text": "Vertebral body",
+              "bbox": [
+                377.4,
+                455.8,
+                485.56,
+                473.8
+              ]
+            },
+            {
+              "text": "Anterior tubercle",
+              "bbox": [
+                76.32,
+                398.24,
+                201.65,
+                416.24
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                33.79,
+                331.26,
+                177.14,
+                349.26
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page09.png",
+          "figure_sha256": "0aa7c45cf98a490e93615ace6761622ec60dafd0ab688844607a67e92f0deeb3",
+          "figure_rect": [
+            20.58,
+            50.49,
+            810.35,
+            477.8
+          ]
+        },
+        {
+          "page": 10,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Pedicle",
+              "bbox": [
+                691.8,
+                231.3,
+                743.84,
+                249.3
+              ]
+            },
+            {
+              "text": "Spinous process",
+              "bbox": [
+                526.42,
+                44.96,
+                643.47,
+                62.96
+              ]
+            },
+            {
+              "text": "Vertebral foramen",
+              "bbox": [
+                256.1,
+                168.8,
+                389.71,
+                186.8
+              ]
+            },
+            {
+              "text": "Lamina",
+              "bbox": [
+                580.49,
+                172.09,
+                633.27,
+                190.09
+              ]
+            },
+            {
+              "text": "uncinate process",
+              "bbox": [
+                666.65,
+                375.18,
+                789.91,
+                393.18
+              ]
+            },
+            {
+              "text": "transverse process)",
+              "bbox": [
+                48.55,
+                301.84,
+                189.42,
+                319.84
+              ]
+            },
+            {
+              "text": "Transverse foramen",
+              "bbox": [
+                88.75,
+                410.56,
+                232.1,
+                428.56
+              ]
+            },
+            {
+              "text": "Vertebral body",
+              "bbox": [
+                410.11,
+                471.71,
+                518.27,
+                489.71
+              ]
+            },
+            {
+              "text": "C7",
+              "bbox": [
+                57.14,
+                54.91,
+                94.5,
+                90.91
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page10.png",
+          "figure_sha256": "59ee0e74ad98b046ec6edbbb8f2d8383ba5769b0c96625f7fc3d70e877ce8b4f",
+          "figure_rect": [
+            44.55,
+            31.85,
+            793.91,
+            493.71
+          ]
+        },
+        {
+          "page": 11,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Mylohyoid muscle",
+              "bbox": [
+                686.81,
+                121.19,
+                819.85,
+                139.22
+              ]
+            },
+            {
+              "text": "Digastric muscle (anterior belly)",
+              "bbox": [
+                695.06,
+                158.96,
+                926.5,
+                176.96
+              ]
+            },
+            {
+              "text": "Digastric muscle (posterior belly)",
+              "bbox": [
+                601.37,
+                32.7,
+                841.02,
+                50.7
+              ]
+            },
+            {
+              "text": "Stylohyoid muscle",
+              "bbox": [
+                662.11,
+                81.16,
+                793.91,
+                99.16
+              ]
+            },
+            {
+              "text": "Clavicular head of sternocleidomastoid m.",
+              "bbox": [
+                635.04,
+                459.25,
+                941.9,
+                477.25
+              ]
+            },
+            {
+              "text": "Sternal head of sternocleidomastoid m.",
+              "bbox": [
+                638.38,
+                407.84,
+                926.4,
+                425.84
+              ]
+            },
+            {
+              "text": "Omohyoid muscle (superior belly)",
+              "bbox": [
+                686.81,
+                284.36,
+                933.59,
+                302.36
+              ]
+            },
+            {
+              "text": "Sternohyoid muscle",
+              "bbox": [
+                704.14,
+                364.4,
+                848.32,
+                382.4
+              ]
+            },
+            {
+              "text": "Omohyoid muscle (inferior belly)",
+              "bbox": [
+                43.18,
+                476.77,
+                282.54,
+                494.77
+              ]
+            },
+            {
+              "text": "Trapezius muscle",
+              "bbox": [
+                116.09,
+                418.5,
+                239.98,
+                436.5
+              ]
+            },
+            {
+              "text": "Anterior scalene muscle",
+              "bbox": [
+                630.77,
+                506.94,
+                805.87,
+                524.94
+              ]
+            },
+            {
+              "text": "Middle scalene muscle",
+              "bbox": [
+                107.26,
+                370.24,
+                273.39,
+                388.27
+              ]
+            },
+            {
+              "text": "Posterior scalene muscle",
+              "bbox": [
+                103.39,
+                331.26,
+                284.0,
+                349.26
+              ]
+            },
+            {
+              "text": "Levator scapulae muscle",
+              "bbox": [
+                87.24,
+                275.63,
+                265.24,
+                293.63
+              ]
+            },
+            {
+              "text": "Splenius capitis muscle",
+              "bbox": [
+                77.64,
+                242.27,
+                245.23,
+                260.3
+              ]
+            },
+            {
+              "text": "Semispinalis capitis muscle",
+              "bbox": [
+                68.52,
+                207.06,
+                264.85,
+                225.06
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page11.png",
+          "figure_sha256": "3d1aa55bf8cc06229b4b99efe475c93dacd5a5405f0d9e45541e5f94505aac3c",
+          "figure_rect": [
+            39.18,
+            28.7,
+            945.9,
+            528.94
+          ]
+        },
+        {
+          "page": 12,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                517.61,
+                310.62,
+                531.65
+              ]
+            },
+            {
+              "text": "Semispinalis capitis muscle",
+              "bbox": [
+                698.88,
+                137.63,
+                895.21,
+                155.63
+              ]
+            },
+            {
+              "text": "Splenius capitis muscle",
+              "bbox": [
+                694.34,
+                195.59,
+                861.93,
+                213.62
+              ]
+            },
+            {
+              "text": "Levator scapulae muscle",
+              "bbox": [
+                684.94,
+                265.38,
+                862.94,
+                283.38
+              ]
+            },
+            {
+              "text": "Posterior scalene muscle",
+              "bbox": [
+                681.14,
+                323.84,
+                861.75,
+                341.84
+              ]
+            },
+            {
+              "text": "Middle scalene muscle",
+              "bbox": [
+                193.75,
+                468.78,
+                359.84,
+                486.78
+              ]
+            },
+            {
+              "text": "Anterior scalene muscle",
+              "bbox": [
+                127.03,
+                421.62,
+                302.13,
+                439.62
+              ]
+            },
+            {
+              "text": "Serratus anterior muscle",
+              "bbox": [
+                694.01,
+                407.82,
+                872.97,
+                425.82
+              ]
+            },
+            {
+              "text": "Sternothyroid muscle",
+              "bbox": [
+                71.3,
+                356.9,
+                227.91,
+                374.93
+              ]
+            },
+            {
+              "text": "Sternohyoid muscle",
+              "bbox": [
+                87.98,
+                285.06,
+                232.18,
+                303.09
+              ]
+            },
+            {
+              "text": "Omohyoid muscle (superior belly)",
+              "bbox": [
+                38.78,
+                239.82,
+                285.56,
+                257.82
+              ]
+            },
+            {
+              "text": "Hyoglossus muscle",
+              "bbox": [
+                685.54,
+                104.97,
+                822.52,
+                123.0
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page12.png",
+          "figure_sha256": "fae05f530daba4049910c8abeef0a180476e7579845ea6a5473d291eb087b359",
+          "figure_rect": [
+            34.78,
+            0.0,
+            899.21,
+            490.78
+          ]
+        },
+        {
+          "page": 13,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Trapezius muscle",
+              "bbox": [
+                731.28,
+                423.66,
+                855.17,
+                441.66
+              ]
+            },
+            {
+              "text": "Sternocleidomastoid muscle",
+              "bbox": [
+                684.58,
+                237.42,
+                895.23,
+                255.42
+              ]
+            },
+            {
+              "text": "Semispinalis capitis muscle",
+              "bbox": [
+                80.5,
+                208.33,
+                276.82,
+                226.33
+              ]
+            },
+            {
+              "text": "Splenius capitis muscle",
+              "bbox": [
+                88.39,
+                269.7,
+                255.92,
+                287.7
+              ]
+            },
+            {
+              "text": "Levator scapulae muscle",
+              "bbox": [
+                74.3,
+                379.4,
+                252.31,
+                397.4
+              ]
+            },
+            {
+              "text": "Serratus anterior muscle",
+              "bbox": [
+                57.36,
+                474.55,
+                236.37,
+                492.57
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page13.png",
+          "figure_sha256": "d4e5f43b7fea2136d6186a13426ef0c6472896c98163de1d2bed0fead923ebab",
+          "figure_rect": [
+            53.36,
+            0.0,
+            899.23,
+            540.0
+          ]
+        },
+        {
+          "page": 14,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Carotid triangle",
+              "bbox": [
+                159.19,
+                153.9,
+                272.66,
+                171.9
+              ]
+            },
+            {
+              "text": "Submandibular (digastric) triangle",
+              "bbox": [
+                644.4,
+                108.97,
+                892.19,
+                126.97
+              ]
+            },
+            {
+              "text": "Occipital triangle",
+              "bbox": [
+                124.73,
+                245.65,
+                248.26,
+                263.65
+              ]
+            },
+            {
+              "text": "Omoclavicular (subclavian) triangle",
+              "bbox": [
+                592.46,
+                489.09,
+                848.33,
+                507.11
+              ]
+            },
+            {
+              "text": "Muscular triangle",
+              "bbox": [
+                665.59,
+                259.67,
+                793.68,
+                277.67
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page14.png",
+          "figure_sha256": "b62e6f10350961df81a995cf5534bf15fa8643ae5d90723d398b10b211fee377",
+          "figure_rect": [
+            120.73,
+            14.7,
+            896.19,
+            525.3
+          ]
+        },
+        {
+          "page": 15,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                7.1,
+                519.85,
+                301.48,
+                533.89
+              ]
+            },
+            {
+              "text": "Muscular triangle",
+              "bbox": [
+                98.74,
+                310.89,
+                226.81,
+                328.92
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page15.png",
+          "figure_sha256": "1723adb39066cf22c9e02f5b989e9f333dc87ab5c08f80badb4002adc43b2dbe",
+          "figure_rect": [
+            94.74,
+            13.37,
+            635.83,
+            540.0
+          ]
+        },
+        {
+          "page": 16,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                515.19,
+                310.62,
+                529.23
+              ]
+            },
+            {
+              "text": "Digastric muscle (anterior belly)",
+              "bbox": [
+                82.34,
+                142.52,
+                313.79,
+                160.52
+              ]
+            },
+            {
+              "text": "Geniohyoid",
+              "bbox": [
+                629.64,
+                79.24,
+                713.11,
+                97.24
+              ]
+            },
+            {
+              "text": "Hyoglossus muscle",
+              "bbox": [
+                657.7,
+                146.0,
+                794.66,
+                164.0
+              ]
+            },
+            {
+              "text": "Thyrohyoid muscle",
+              "bbox": [
+                703.39,
+                250.12,
+                840.71,
+                268.12
+              ]
+            },
+            {
+              "text": "Omohyoid muscle (superior belly)",
+              "bbox": [
+                73.32,
+                233.24,
+                320.1,
+                251.24
+              ]
+            },
+            {
+              "text": "Sternohyoid muscle",
+              "bbox": [
+                134.78,
+                286.91,
+                278.96,
+                304.91
+              ]
+            },
+            {
+              "text": "sternocleidomastoid muscle",
+              "bbox": [
+                73.32,
+                353.03,
+                278.47,
+                371.03
+              ]
+            },
+            {
+              "text": "Mylohyoid muscle",
+              "bbox": [
+                157.39,
+                185.61,
+                290.43,
+                203.64
+              ]
+            },
+            {
+              "text": "Sternothyroid muscle",
+              "bbox": [
+                664.75,
+                337.81,
+                821.04,
+                355.81
+              ]
+            },
+            {
+              "text": "Anterior scalene muscle",
+              "bbox": [
+                682.06,
+                376.0,
+                857.16,
+                394.0
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page16.png",
+          "figure_sha256": "5121306e5120b41435908626c12a9ba3f711d4b084427f664225ee4db3e18e17",
+          "figure_rect": [
+            69.32,
+            32.72,
+            861.16,
+            515.2
+          ]
+        },
+        {
+          "page": 17,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Omohyoid muscle (superior belly)",
+              "bbox": [
+                706.06,
+                295.57,
+                952.84,
+                313.57
+              ]
+            },
+            {
+              "text": "sternocleidomastoid muscle",
+              "bbox": [
+                632.47,
+                385.07,
+                837.62,
+                403.07
+              ]
+            },
+            {
+              "text": "Sternohyoid muscle",
+              "bbox": [
+                706.06,
+                333.06,
+                850.24,
+                351.06
+              ]
+            },
+            {
+              "text": "Digastric muscle (posterior belly)",
+              "bbox": [
+                606.91,
+                18.61,
+                846.15,
+                36.61
+              ]
+            },
+            {
+              "text": "Stylohyoid muscle",
+              "bbox": [
+                677.06,
+                71.34,
+                808.86,
+                89.34
+              ]
+            },
+            {
+              "text": "Mylohyoid muscle",
+              "bbox": [
+                697.99,
+                125.22,
+                831.24,
+                143.22
+              ]
+            },
+            {
+              "text": "Omohyoid muscle (inferior belly)",
+              "bbox": [
+                58.51,
+                401.41,
+                297.88,
+                419.41
+              ]
+            },
+            {
+              "text": "Trapezius muscle",
+              "bbox": [
+                115.97,
+                367.96,
+                239.86,
+                385.96
+              ]
+            },
+            {
+              "text": "Splenius capitis muscle",
+              "bbox": [
+                92.4,
+                161.94,
+                259.93,
+                179.94
+              ]
+            },
+            {
+              "text": "Levator scapulae muscle",
+              "bbox": [
+                80.11,
+                207.64,
+                258.11,
+                225.64
+              ]
+            },
+            {
+              "text": "Posterior scalene muscle",
+              "bbox": [
+                74.9,
+                249.59,
+                255.52,
+                267.59
+              ]
+            },
+            {
+              "text": "Middle scalene muscle",
+              "bbox": [
+                80.11,
+                295.0,
+                246.2,
+                313.0
+              ]
+            },
+            {
+              "text": "Anterior scalene muscle",
+              "bbox": [
+                79.18,
+                330.76,
+                254.28,
+                348.76
+              ]
+            },
+            {
+              "text": "Digastric muscle (anterior belly)",
+              "bbox": [
+                689.95,
+                190.21,
+                921.79,
+                208.21
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page17.png",
+          "figure_sha256": "8ce386b93d32fab5c0481246f9e69ae316cfeaac5ae3e858ef54f6e4c3c69d33",
+          "figure_rect": [
+            54.51,
+            9.25,
+            956.84,
+            515.2
+          ]
+        },
+        {
+          "page": 18,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Splenius capitis muscle",
+              "bbox": [
+                694.34,
+                195.59,
+                861.93,
+                213.62
+              ]
+            },
+            {
+              "text": "Levator scapulae muscle",
+              "bbox": [
+                684.94,
+                265.38,
+                862.94,
+                283.38
+              ]
+            },
+            {
+              "text": "Anterior scalene muscle",
+              "bbox": [
+                127.03,
+                421.62,
+                302.13,
+                439.62
+              ]
+            },
+            {
+              "text": "Middle scalene muscle",
+              "bbox": [
+                193.75,
+                468.78,
+                359.84,
+                486.78
+              ]
+            },
+            {
+              "text": "Thyrohyoid muscle",
+              "bbox": [
+                127.18,
+                359.22,
+                264.5,
+                377.22
+              ]
+            },
+            {
+              "text": "Hyoglossus muscle",
+              "bbox": [
+                99.24,
+                160.57,
+                236.2,
+                178.57
+              ]
+            },
+            {
+              "text": "Digastric muscle (anterior belly)",
+              "bbox": [
+                37.27,
+                288.25,
+                268.72,
+                306.25
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page18.png",
+          "figure_sha256": "b6094539bdda305994cba9f1a0c2d36133a0556af76e5c263a4418eb4cece2b6",
+          "figure_rect": [
+            33.27,
+            12.19,
+            916.35,
+            527.8
+          ]
+        },
+        {
+          "page": 19,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                518.21,
+                310.62,
+                532.25
+              ]
+            },
+            {
+              "text": "Trapezius muscle",
+              "bbox": [
+                700.1,
+                382.43,
+                824.01,
+                400.46
+              ]
+            },
+            {
+              "text": "Levator scapulae muscle",
+              "bbox": [
+                74.3,
+                379.4,
+                252.31,
+                397.4
+              ]
+            },
+            {
+              "text": "Semispinalis capitis muscle",
+              "bbox": [
+                75.79,
+                236.15,
+                272.2,
+                254.18
+              ]
+            },
+            {
+              "text": "Splenius capitis muscle",
+              "bbox": [
+                85.2,
+                286.76,
+                252.73,
+                304.76
+              ]
+            },
+            {
+              "text": "Serratus anterior muscle",
+              "bbox": [
+                79.25,
+                452.97,
+                258.26,
+                470.99
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page19.png",
+          "figure_sha256": "a7953da1b5ff5cb23024b6c4c9dac44664dee4890ddeb68b454511c13f652f2c",
+          "figure_rect": [
+            70.3,
+            0.0,
+            828.01,
+            540.0
+          ]
+        },
+        {
+          "page": 20,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                16.25,
+                519.85,
+                310.62,
+                533.89
+              ]
+            },
+            {
+              "text": "Occipital triangle",
+              "bbox": [
+                183.22,
+                235.19,
+                306.75,
+                253.19
+              ]
+            },
+            {
+              "text": "Omoclavicular (subclavian) triangle",
+              "bbox": [
+                636.96,
+                461.94,
+                892.87,
+                479.94
+              ]
+            },
+            {
+              "text": "Submandibular (digastric) triangle",
+              "bbox": [
+                690.65,
+                168.64,
+                938.44,
+                186.64
+              ]
+            },
+            {
+              "text": "Carotid triangle",
+              "bbox": [
+                159.19,
+                153.9,
+                272.66,
+                171.9
+              ]
+            },
+            {
+              "text": "Muscular triangle",
+              "bbox": [
+                676.66,
+                305.05,
+                804.75,
+                323.05
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page20.png",
+          "figure_sha256": "f9b1350e811ec41055bf45771d16467b38c2280ce6adf067a6c2e23d7b959f69",
+          "figure_rect": [
+            155.19,
+            0.0,
+            942.44,
+            540.0
+          ]
+        },
+        {
+          "page": 21,
+          "width": 960.0,
+          "height": 540.0,
+          "spans": [
+            {
+              "text": "Dr Mirzaei   Hormozgan medical science university",
+              "bbox": [
+                334.3,
+                519.85,
+                628.68,
+                533.89
+              ]
+            },
+            {
+              "text": "Submental triangle",
+              "bbox": [
+                223.15,
+                66.21,
+                361.68,
+                84.24
+              ]
+            },
+            {
+              "text": "Carotid triangle",
+              "bbox": [
+                223.15,
+                252.11,
+                336.62,
+                270.11
+              ]
+            },
+            {
+              "text": "Submandibular (digastric) triangle",
+              "bbox": [
+                93.7,
+                137.89,
+                341.48,
+                155.89
+              ]
+            },
+            {
+              "text": "Muscular triangle",
+              "bbox": [
+                651.94,
+                286.48,
+                780.03,
+                304.48
+              ]
+            }
+          ],
+          "figure": ".cache/hn13/candidates/part5_page21.png",
+          "figure_sha256": "eb8606bf1bc0a58488098ce0161f8f4bd00c0b93aaaa0af1fa2533d8a40e2ab9",
+          "figure_rect": [
+            89.7,
+            28.59,
+            784.03,
+            511.07
+          ]
+        }
+      ]
+    }
+  ]
+}
