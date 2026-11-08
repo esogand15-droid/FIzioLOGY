@@ -1,0 +1,30 @@
+{
+  "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+  "source_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd",
+  "references": [
+    {
+      "plate": 35,
+      "file_page": 87,
+      "asset": "headneck/images/hn12_refs/netter_87.png",
+      "sha256": "b29891c7de101b3b6897185b666fcff17d58aafe7071659b2117c53a693fce7a"
+    },
+    {
+      "plate": 72,
+      "file_page": 124,
+      "asset": "headneck/images/hn12_refs/netter_124.png",
+      "sha256": "d5367322925dcbdb9e14b7add1e670e60fa53c3d939417c7f2dce52acaaf1419"
+    },
+    {
+      "plate": 150,
+      "file_page": 202,
+      "asset": "headneck/images/hn12_refs/netter_202.png",
+      "sha256": "bfc7f9f3d0b86a0b1a8152d3048760a03bb9360ab8d8b0b8e445a6dd93a87ef4"
+    },
+    {
+      "plate": 161,
+      "file_page": 213,
+      "asset": "headneck/images/hn12_refs/netter_213.png",
+      "sha256": "a786de5e6b06ab27cad780ccaef72fcb562ca553498956d1746b24d14990d456"
+    }
+  ]
+}

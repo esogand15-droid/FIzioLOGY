@@ -1,0 +1,316 @@
+{
+  "topics": {
+    "hn12-T01": {
+      "page": 5,
+      "title": "منشأ دستگاه اسکلتی و سومیت‌ها"
+    },
+    "hn12-T02": {
+      "page": 9,
+      "title": "نوروکرانیوم غشایی و جمجمهٔ نوزاد"
+    },
+    "hn12-T03": {
+      "page": 15,
+      "title": "کندروکرانیوم و ویسروکرانیوم"
+    },
+    "hn12-T04": {
+      "page": 18,
+      "title": "صورت و ساختمان قوس‌های حلقی"
+    },
+    "hn12-T05": {
+      "page": 23,
+      "title": "قوس‌های حلقی و مشتقات آن‌ها"
+    },
+    "hn12-T06": {
+      "page": 29,
+      "title": "بن‌بست حلقی اول"
+    },
+    "hn12-T07": {
+      "page": 34,
+      "title": "بن‌بست‌های دوم، سوم و چهارم"
+    },
+    "hn12-T08": {
+      "page": 38,
+      "title": "شکاف‌های حلقی و نکات بالینی"
+    }
+  },
+  "figures": [
+    {
+      "asset": "headneck/images/hn12_candidates/p01_fig1_somite.png",
+      "sha256": "6bf68b9cb8365e7a0ae3c19f70d08083590d327d5f9e758de83163291bffddae",
+      "topic": "hn12-T01",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 1، شکل ۱"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p01_fig2_somite_development.png",
+      "sha256": "d9b53f9e946dc7f66753bd7836f3d8b200bfd94625a46e60f3ad201a2f0caa45",
+      "topic": "hn12-T01",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 1، شکل ۲"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p01_fig3_embryo_somites.png",
+      "sha256": "339223a287b43f8550f2b414871c2590280a68673461f0f9b16df9be819d7fd2",
+      "topic": "hn12-T01",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 1، شکل ۳"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p02_fig4_skeletal_origins.png",
+      "sha256": "4334798b8f15228538538edeabe7fb177a0756c58032d0049e55f1852a852615",
+      "topic": "hn12-T02",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 2، شکل ۴"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p02_fig5_skull_ossification.png",
+      "sha256": "8d0405734a249cbcd3eaa3a42238926b70dbac3d52014c393033c40cd7abee17",
+      "topic": "hn12-T02",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 2، شکل ۵"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p03_fig6_anterior_posterior_fontanelles.png",
+      "sha256": "fa7c76352eb4d0bf1abd5ce69a40d62c574fda2547a2251192fc2238ec10761e",
+      "topic": "hn12-T02",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 3، شکل ۶"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p03_fig7_sphenoid_mastoid_fontanelles.png",
+      "sha256": "aa06190d348d76200cac32d2a0843cd500e20c4309ad63468bb00513e5e56b93",
+      "topic": "hn12-T02",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 3، شکل ۷"
+    },
+    {
+      "asset": "headneck/images/hn12_refs/netter_87.png",
+      "sha256": "b29891c7de101b3b6897185b666fcff17d58aafe7071659b2117c53a693fce7a",
+      "topic": "hn12-T02",
+      "source": "نتر، ویراست ۸، پلیت ۳۵، صفحهٔ فایل ۸۷"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p04_fig8_chondrocranium.png",
+      "sha256": "8b218ce7931773d50d85812e1f39441b247921a784e062f1e8ca6950824e5aae",
+      "topic": "hn12-T03",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 4، شکل ۸"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p04_fig9_arches_pouches_vessels.png",
+      "sha256": "d6f7fc18e129935efe50b0c3bce09b473e28c6ae4f1b2433cd9fb7ce85ce34c6",
+      "topic": "hn12-T03",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 4، شکل ۹"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p05_fig10_stomodeum.png",
+      "sha256": "0e3e5ed1f4ebc0b0f99f582f0ef041bf7b25fc2582012564e22373ddbfee9b90",
+      "topic": "hn12-T04",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 5، شکل ۱۰"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p05_fig11_facial_prominences.png",
+      "sha256": "cab329038ff7e3fc66dcf76f9b59b74ae242125225875b8a693083fa1707461d",
+      "topic": "hn12-T04",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 5، شکل ۱۱"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p06_fig12_arch_components.png",
+      "sha256": "c2460a67d2dd1902fc77eb965c3725313e5b216e91b280a63af5beea98c1fac5",
+      "topic": "hn12-T04",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 6، شکل ۱۲"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p06_fig13_arch_innervation.png",
+      "sha256": "6b9353ce02a080df921db0dc7d60fd539898fce995af0e9cd7f75122682c05a6",
+      "topic": "hn12-T04",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 6، شکل ۱۳"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p07_fig13_arch_cartilages.png",
+      "sha256": "9608bf2718682ddb30243287e8a5f7fad62c464db2b3d24f147edd6b414d151c",
+      "topic": "hn12-T05",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 7، شکل ۱۳"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p07_fig14_embryonic_arch_cartilages.png",
+      "sha256": "b469fcf0e94514066d2bad9948f80382db192e764bdd0960f835ae51227fe4df",
+      "topic": "hn12-T05",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 7، شکل ۱۴"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p07_fig15_arch_derivatives.png",
+      "sha256": "ba75420936f5f6f8cd986b3cbbafbe7b8018f33fc48363f35b68f306e353454d",
+      "topic": "hn12-T05",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 7، شکل ۱۵"
+    },
+    {
+      "asset": "headneck/images/hn12_refs/netter_124.png",
+      "sha256": "d5367322925dcbdb9e14b7add1e670e60fa53c3d939417c7f2dce52acaaf1419",
+      "topic": "hn12-T05",
+      "source": "نتر، ویراست ۸، پلیت ۷۲، صفحهٔ فایل ۱۲۴"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p09_fig16_pharyngeal_pouches.png",
+      "sha256": "dc75ba5bbf6afdb530dc4c0aa4a08f9a80b67e077ac8a7add461a5ec1e5cc437",
+      "topic": "hn12-T06",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 9، شکل ۱۶"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p09_fig17_pouches_anterior_view.png",
+      "sha256": "cebc76e2f5880d5393451f57f5f5edb16837ee8d9528ef2931ceb5d2ba996169",
+      "topic": "hn12-T06",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 9، شکل ۱۷"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p09_fig18_pouches_5_6_weeks.png",
+      "sha256": "83b137f20fe61b70fb4878f720a1da15cc820737f09258c555661468d64e64f2",
+      "topic": "hn12-T06",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 9، شکل ۱۸"
+    },
+    {
+      "asset": "headneck/images/hn12_refs/netter_202.png",
+      "sha256": "bfc7f9f3d0b86a0b1a8152d3048760a03bb9360ab8d8b0b8e445a6dd93a87ef4",
+      "topic": "hn12-T06",
+      "source": "نتر، ویراست ۸، پلیت ۱۵۰، صفحهٔ فایل ۲۰۲"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p10_fig19_pouch_development.png",
+      "sha256": "6d6d70c66d29cb2be2962930471b118b3fed6792b37ed68a4dc3e59b762e0aea",
+      "topic": "hn12-T07",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 10، شکل ۱۹"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p11_fig20_pouches_median_section.png",
+      "sha256": "fd5e6da060f65f769b14fb53eadb4928070c4c26f54459172d5a648846093431",
+      "topic": "hn12-T07",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 11، شکل ۲۰"
+    },
+    {
+      "asset": "headneck/images/hn12_refs/netter_213.png",
+      "sha256": "a786de5e6b06ab27cad780ccaef72fcb562ca553498956d1746b24d14990d456",
+      "topic": "hn12-T07",
+      "source": "نتر، ویراست ۸، پلیت ۱۶۱، صفحهٔ فایل ۲۱۳"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p12_fig21_grooves_6_7_weeks_a.png",
+      "sha256": "83792adacdcc399db42dfff9f135eb3456a13f237a86b25d3b4ea598bfad98c2",
+      "topic": "hn12-T08",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 12، شکل ۲۱"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p12_fig22_grooves_6_7_weeks_b.png",
+      "sha256": "e2cdd15208c5cc604ced627cfb396bca831c0ef35a666a44a9872c92c7a6cc9b",
+      "topic": "hn12-T08",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 12، شکل ۲۲"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p13_fig23_pouch_groove_anomalies.png",
+      "sha256": "e1cdb0f26caac9f66172961b3643cbf5cca1bb4531aa3fcd9f093c529d07af91",
+      "topic": "hn12-T08",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 13، شکل ۲۳"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p14_fig24_cervical_cyst_diagram.png",
+      "sha256": "94a9174d2af6e55b7cb290fee2c1326bade058a5cc3d26999b7e8e60d458a870",
+      "topic": "hn12-T08",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 14، شکل ۲۴"
+    },
+    {
+      "asset": "headneck/images/hn12_candidates/p14_fig25_cervical_cyst_photo.png",
+      "sha256": "0e4575f84b1761f8de399b64e6cdc94e7c563fbb3bc7bc07cf61a48aff00056c",
+      "topic": "hn12-T08",
+      "source": "جزوهٔ جلسهٔ ۱۲، صفحهٔ فایل 14، شکل ۲۵"
+    }
+  ],
+  "source_paragraphs": {
+    "1": 7,
+    "2": 12,
+    "3": 9,
+    "4": 8,
+    "5": 5,
+    "6": 3,
+    "7": 5,
+    "8": 7,
+    "9": 7,
+    "10": 6,
+    "11": 4,
+    "12": 3,
+    "13": 4,
+    "14": 8
+  },
+  "pages": 46,
+  "bookmarks": [
+    [
+      1,
+      "ساختار این جزوه و قاعدهٔ خواندن آن",
+      2
+    ],
+    [
+      2,
+      "قاعدهٔ ارجاع و علامت‌گذاری",
+      2
+    ],
+    [
+      1,
+      "فهرست مطالب",
+      3
+    ],
+    [
+      1,
+      "جنین‌شناسی جمجمه",
+      5
+    ],
+    [
+      2,
+      "منشأ دستگاه اسکلتی و سومیت‌ها",
+      5
+    ],
+    [
+      2,
+      "نوروکرانیوم غشایی و جمجمهٔ نوزاد",
+      9
+    ],
+    [
+      2,
+      "کندروکرانیوم و ویسروکرانیوم",
+      15
+    ],
+    [
+      2,
+      "صورت و ساختمان قوس‌های حلقی",
+      18
+    ],
+    [
+      2,
+      "قوس‌های حلقی و مشتقات آن‌ها",
+      23
+    ],
+    [
+      2,
+      "بن‌بست حلقی اول",
+      29
+    ],
+    [
+      2,
+      "بن‌بست‌های دوم، سوم و چهارم",
+      34
+    ],
+    [
+      2,
+      "شکاف‌های حلقی و نکات بالینی",
+      38
+    ],
+    [
+      1,
+      "جمع‌بندی و چک‌لیست",
+      45
+    ],
+    [
+      1,
+      "قدم بعدی: چه چیزی در جلسهٔ بعد می‌آید",
+      45
+    ]
+  ],
+  "file": "pdf/HumsYar_HeadNeck_Jalase12_WRITER_FINAL.pdf",
+  "sha256": "72fd030cd0d4fcbf44a0659ad217ae88b8d0686b8e5f6ce48b7c13558e34f783",
+  "bytes": 14635586,
+  "qa": {
+    "outside_spans": [],
+    "empty_pages": [],
+    "leaks": [],
+    "body_near_footer": []
+  }
+}
