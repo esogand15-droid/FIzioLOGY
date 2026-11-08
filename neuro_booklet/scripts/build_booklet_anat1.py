@@ -19,7 +19,8 @@ from anat1_m01_m05 import MABAHES_A1_A  # noqa: E402
 from anat1_m06_m10 import MABAHES_A1_B  # noqa: E402
 from anat1_m11_m15 import MABAHES_A1_C  # noqa: E402
   # noqa: E402
-from anat1_appendix import APPENDIX_1402  # noqa: E402
+from anat1_appendix import APPENDIX_1402
+from anat1_summary import SUMMARY_1404, EXAM_1404  # noqa: E402
 from reportlab.lib.units import mm  # noqa: E402
 
 OUT_DIR = os.path.join(ROOT, "pdf")
@@ -41,7 +42,7 @@ CLUSTERS = {
     0: ("خوشهٔ ۱ — استخوان‌شناسی اوربیت", "مباحث ۱–۴"),
     4: ("خوشهٔ ۲ — محورها، سوراخ‌ها و ارتباط‌ها", "مباحث ۵–۸"),
     8: ("خوشهٔ ۳ — شکستگی، عناصر عبوری و بافت همبند", "مباحث ۹–۱۱"),
-    11: ("خوشهٔ ۴ — تنون، چربی، کرهٔ چشم و ضمائم + پیوست", "مباحث ۱۲–۱۵، پیوست و چک‌لیست"),
+    11: ("خوشهٔ ۴ — تنون، چربی، کرهٔ چشم و ضمائم + پیوست", "مباحث ۱۲–۱۵، خلاصهٔ استاد، پیوست، آزمون و چک‌لیست"),
 }
 
 
@@ -61,6 +62,40 @@ def appendix_page(k, data):
     furniture.closing_note(k, "یادداشت بازبین مقابله")
 
 
+def summary_page(k, data):
+    """خلاصهٔ استاد (ص ۱۳) در دو جدول."""
+    k.new_page("body")
+    k.h_section_band(data["kicker"], data["title"], key=data["key"], sub=data["sub"])
+    k.toc.append((1, data["title"], k.page_no, data["key"]))
+    k.para(data["intro"], size=9.2, space_after=2 * mm)
+    k.table(data["headers1"], data["rows1"], widths=data["widths1"], size=7.8,
+            caption=data["caption1"], source=data["source1"])
+    k.table(data["headers2"], data["rows2"], widths=data["widths2"], size=7.8,
+            caption=data["caption2"], source=data["source2"])
+    k.box(data["box_title"], data["box_body"], source=data["box_source"], kind="note", size=8.6, icon="")
+
+
+def exam_page(k, data):
+    """آزمون چندگزینه‌ای استاد با پاسخ‌نامه."""
+    k.new_page("body")
+    k.h_section_band(data["kicker"], data["title"], key=data["key"], sub=data["sub"])
+    k.toc.append((1, data["title"], k.page_no, data["key"]))
+    k.para(data["intro"], size=9.2, space_after=1.5 * mm)
+    k.para(data["note"], size=8.6, color="#3c4757", space_after=2.0 * mm)
+    k.box(data["amber_title"], data["amber_body"], source=data["amber_source"], kind="amber", size=8.1, icon="")
+    for q, opts, ans in data["questions"]:
+        k.para(q, size=9.0, font="sb", space_after=0.6 * mm)
+        opt_txt = "  ".join("%s) %s" % (n, o) for n, o in zip(["۱", "۲", "۳", "۴"], opts))
+        k.para(opt_txt, size=8.1, color="#3c4757", space_after=0.4 * mm)
+        k.para(ans, size=8.1, color="#0d9488", space_after=1.9 * mm)
+    ak = data["answer_key"]
+    k.gap(2 * mm)
+    k.para("پاسخ‌نامهٔ رسمی استاد", size=9.2, font="sb", space_after=1.2 * mm)
+    for i in range(0, len(ak), 5):
+        k.para("   ·   ".join(ak[i:i + 5]), size=8.6, color="#0d9488", space_after=0.8 * mm)
+    k.source_line(data["answer_note"])
+
+
 def build(entries, out_path):
     k = Kit(out_path, os.path.join(ROOT, "assets", "fonts"), META)
     furniture.cover(k, front.COVER)
@@ -71,7 +106,9 @@ def build(entries, out_path):
     for group in (MABAHES_A1_A, MABAHES_A1_B, MABAHES_A1_C):
         for blocks in group:
             render_mabhas(k, blocks)
+    summary_page(k, SUMMARY_1404)
     appendix_page(k, APPENDIX_1402)
+    exam_page(k, EXAM_1404)
     furniture.checklist_page(k, front.CHECK)
     furniture.closing_note(k, "یادداشت پایانی جلسه")
     furniture.back_cover(k, front.BACK)
