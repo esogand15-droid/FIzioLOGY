@@ -146,7 +146,8 @@ def cover(k, data):
     c.drawString(M_SIDE, 11 * mm, k.shape("HumsYar · پایگاه جزوه‌های پزشکی"))
     c.setFillColor(HexColor("#7dd3c8"))
     c.setFont(k.F["sb"], 7.6)
-    c.drawRightString(PAGE_W - M_SIDE, 19 * mm, k.shape("جزوهٔ مادر · برای تیم جزوه‌نویسی · نسخهٔ ۱"))
+    c.drawRightString(PAGE_W - M_SIDE, 19 * mm,
+                      k.shape(data.get("cover_edition", "جزوهٔ مادر · برای تیم جزوه‌نویسی · نسخهٔ ۱")))
 
 
 def guide_page(k, data):
@@ -213,7 +214,8 @@ def guide_page(k, data):
           source=None, kind="clinic", size=8.4)
 
 
-def toc(k, entries, clusters=None, total_pages=0, legend=None):
+def toc(k, entries, clusters=None, total_pages=0, legend=None,
+        entry_step=8.5, cluster_step=9.4):
     """فهرست با شمارهٔ صفحهٔ واقعی؛ اگر مدخلی نباشد صفحهٔ راهنما ساخته می‌شود."""
     k.new_page("toc")
     c = k.c
@@ -252,8 +254,8 @@ def toc(k, entries, clusters=None, total_pages=0, legend=None):
             c.setFillColor(HexColor("#7dd3c8"))
             c.setFont(k.F["sb"], 8)
             c.drawString(k.left + 3.4 * mm, y0 - 5.2 * mm, k.shape(crange))
-            k.y = y0 - 9.4 * mm
-        if not k.space(10 * mm):
+            k.y = y0 - cluster_step * mm
+        if not k.space((entry_step + 1.5) * mm):
             k.new_page("toc")
             c.setFillColor(HexColor(C["ink"]))
             c.rect(0, PAGE_H - 16 * mm, PAGE_W, 16 * mm, stroke=0, fill=1)
@@ -289,7 +291,7 @@ def toc(k, entries, clusters=None, total_pages=0, legend=None):
             k.c.linkRect("", key, (k.left, y - 7.2 * mm, k.right, y + 0.4 * mm), relative=0, thickness=0)
         except Exception:
             pass
-        k.y = y - 8.5 * mm
+        k.y = y - entry_step * mm
 
     if legend and k.space(52 * mm):
         k.y -= 2 * mm

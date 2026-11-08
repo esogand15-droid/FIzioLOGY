@@ -59,6 +59,26 @@ M_SIDE = 15 * mm
 ZWNJ = "\u200c"
 PH = "\uE000"  # جانگهدار نیم‌فاصله
 
+def _needs_greek(ch):
+    o = ord(ch)
+    return 0x0370 <= o <= 0x03FF or 0x1F00 <= o <= 0x1FFF or 0x2190 <= o <= 0x21FF
+
+
+def _split_greek(s):
+    """رشته را به تکه‌های (متن، یونانی‌بودن) می‌شکند."""
+    runs, cur, flag = [], "", None
+    for ch in s:
+        f = _needs_greek(ch)
+        if flag is None or f == flag:
+            cur += ch
+            flag = f
+        else:
+            runs.append((cur, flag))
+            cur, flag = ch, f
+    if cur:
+        runs.append((cur, flag))
+    return runs
+
 
 class Kit:
     def __init__(self, path, fonts_dir, meta=None):
@@ -69,6 +89,9 @@ class Kit:
             "sb": ("Vazirmatn-SemiBold.ttf", "VazirSB"),
             "b": ("Vazirmatn-Bold.ttf", "VazirB"),
             "l": ("Vazirmatn-Light.ttf", "VazirL"),
+            # پشتیبان برای حروف یونانی (β، δ، Δ، γ) و فلش‌ها که Vazirmatn ندارد
+            "gk": ("DejaVuSans.ttf", "DejaVu"),
+            "gkb": ("DejaVuSans-Bold.ttf", "DejaVuB"),
         }
         for key, (fname, alias) in self.fonts.items():
             ttf = os.path.join(fonts_dir, fname)
@@ -77,6 +100,7 @@ class Kit:
         self.F = {k: v[1] for k, v in self.fonts.items()}
         self.meta = meta or {}
         self.c = canvas.Canvas(path, pagesize=A4, pageCompression=1)
+        self._install_greek_fallback()
         self.c.setTitle(self.meta.get("pdf_title", ""))
         self.c.setAuthor(self.meta.get("author", "HumsYar"))
         self.c.setSubject(self.meta.get("subject", ""))
@@ -177,6 +201,53 @@ class Kit:
     def glow(self, path, cx, cy, size):
         """هالهٔ نرم از تصویر PNG با کانال آلفا."""
         self.c.drawImage(path, cx - size / 2, cy - size / 2, width=size, height=size, mask="auto")
+
+    # -------------------------------------------------- فالبک حروف یونانی
+    def _install_greek_fallback(self):
+        """هر حرف یونانی/فلش را با فونت پشتیبان می‌کشد؛ بقیهٔ متن با Vazirmatn می‌ماند."""
+        c = self.c
+        self._cur_font = self.F["r"]
+        self._cur_size = 10
+        _orig_set_font = c.setFont
+        _orig_right = c.drawRightString
+        _orig_left = c.drawString
+        _orig_center = c.drawCentredString
+
+        def set_font(psname, size, leading=None):
+            self._cur_font = psname
+            self._cur_size = size
+            try:
+                return _orig_set_font(psname, size, leading)
+            except TypeError:
+                return _orig_set_font(psname, size)
+
+        def gk_font():
+            return self.F["gkb"] if self._cur_font in (self.F["b"], self.F["sb"]) else self.F["gk"]
+
+        def draw_mixed(x, y, text, mode):
+            txt = text if isinstance(text, str) else str(text)
+            if not any(_needs_greek(ch) for ch in txt):
+                if mode == "right":
+                    return _orig_right(x, y, txt)
+                if mode == "center":
+                    return _orig_center(x, y, txt)
+                return _orig_left(x, y, txt)
+            size = self._cur_size
+            main, alt = self._cur_font, gk_font()
+            runs = _split_greek(txt)
+            widths = [stringWidth(t, alt if g else main, size) for t, g in runs]
+            total = sum(widths)
+            xx = x - total if mode == "right" else (x - total / 2 if mode == "center" else x)
+            for (t, g), w in zip(runs, widths):
+                _orig_set_font(alt if g else main, size)
+                _orig_left(xx, y, t)
+                xx += w
+            _orig_set_font(main, size)
+
+        c.setFont = set_font
+        c.drawRightString = lambda x, y, text, *a, **k: draw_mixed(x, y, text, "right")
+        c.drawString = lambda x, y, text, *a, **k: draw_mixed(x, y, text, "left")
+        c.drawCentredString = lambda x, y, text, *a, **k: draw_mixed(x, y, text, "center")
 
     # ------------------------------------------------------------ فضای صفحه
     def space(self, need):

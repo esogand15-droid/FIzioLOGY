@@ -18,6 +18,8 @@ import s3_front as front  # noqa: E402
 from s3_m01_m08 import MABAHES_S3_A  # noqa: E402
 from s3_m09_m15 import MABAHES_S3_B
 from s3_m16_m22 import MABAHES_S3_C  # noqa: E402
+from s3_appendix import APPENDIX_1402  # noqa: E402
+from reportlab.lib.units import mm  # noqa: E402
 
 OUT_DIR = os.path.join(ROOT, "pdf")
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -38,23 +40,40 @@ CLUSTERS = {
     0: ("خوشهٔ ۱ — گیرنده: چیست و چند نوع", "مباحث ۱–۵"),
     5: ("خوشهٔ ۲ — پوست، اختصاصیت و پتانسیل گیرنده", "مباحث ۶–۱۱"),
     11: ("خوشهٔ ۳ — کدگذاری شدت و سازش‌پذیری", "مباحث ۱۲–۱۶"),
-    16: ("خوشهٔ ۴ — حواس پوستی و مسیرهای صعودی", "مباحث ۱۷–۲۲"),
+    16: ("خوشهٔ ۴ — حواس پوستی و مسیرهای صعودی + پیوست", "مباحث ۱۷–۲۲، پیوست و چک‌لیست"),
 }
+
+
+def appendix_page(k, data):
+    """پیوست: نقشهٔ مقابلهٔ بندبه‌بند با جزوهٔ ۱۴۰۲."""
+    k.new_page("body")
+    k.h_section_band(data["kicker"], data["title"], key=data["key"], sub=data["sub"])
+    k.toc.append((1, "پیوست — " + data["title"], k.page_no, data["key"]))
+    k.para(data["intro"], size=9.2, space_after=2 * mm)
+    k.para(data["legend"], size=8.6, color="#3c4757", space_after=2.4 * mm)
+    k.table(data["headers"], data["rows"], widths=data["widths"], size=7.7,
+            caption=data["table_caption"], source=data["table_source"])
+    k.box(data["added_title"], data["added_body"], source=data["added_source"],
+          kind="note", size=8.6, icon="")
+    k.box(data["verdict_title"], data["verdict_body"], source=data["verdict_source"],
+          kind="amber", size=8.6, icon="")
+    furniture.closing_note(k, "یادداشت بازبین مقابله")
 
 
 def build(entries, out_path):
     k = Kit(out_path, os.path.join(ROOT, "assets", "fonts"), META)
     furniture.cover(k, front.COVER)
     furniture.guide_page(k, front.GUIDE)
-    furniture.toc(k, entries, CLUSTERS)
+    furniture.toc(k, entries, CLUSTERS, entry_step=8.2, cluster_step=8.9)
     furniture.session_opener(k, front.OPENER)
-    furniture.closing_note(k, "یادداشت برنامه‌ریزی: تقسیم کار تیم روی ۱۴ مبحث")
+    furniture.closing_note(k, "یادداشت برنامه‌ریزی: تقسیم کار تیم روی ۲۲ مبحث")
     for blocks in MABAHES_S3_A:
         render_mabhas(k, blocks)
     for blocks in MABAHES_S3_B:
         render_mabhas(k, blocks)
     for blocks in MABAHES_S3_C:
         render_mabhas(k, blocks)
+    appendix_page(k, APPENDIX_1402)
     furniture.checklist_page(k, front.CHECK)
     furniture.closing_note(k, "یادداشت پایانی جلسه")
     furniture.back_cover(k, front.BACK)
