@@ -213,7 +213,7 @@ def guide_page(k, data):
           source=None, kind="clinic", size=8.4)
 
 
-def toc(k, entries, clusters=None, total_pages=0):
+def toc(k, entries, clusters=None, total_pages=0, legend=None):
     """فهرست با شمارهٔ صفحهٔ واقعی؛ اگر مدخلی نباشد صفحهٔ راهنما ساخته می‌شود."""
     k.new_page("toc")
     c = k.c
@@ -291,6 +291,11 @@ def toc(k, entries, clusters=None, total_pages=0):
             pass
         k.y = y - 8.5 * mm
 
+    if legend and k.space(52 * mm):
+        k.y -= 2 * mm
+        k.box(legend.get("title", "چگونه از فهرست استفاده کنیم"), legend.get("body", ""),
+              source=legend.get("source"), kind="note", bullet_items=legend.get("items"))
+
 
 def session_opener(k, data):
     k.new_page("opener")
@@ -319,6 +324,14 @@ def session_opener(k, data):
             data["sources_rows"],
             widths=[0.16, 0.34, 0.24, 0.26], size=7.8,
             source=data["sources_note"])
+
+    for it in data.get("opener_extra") or []:
+        if it[0] == "box":
+            _, kind, title, body, src = it[:5]
+            items = it[5] if len(it) > 5 else None
+            k.box(title, body, source=src, kind=kind, bullet_items=items)
+        elif it[0] == "para":
+            k.para(it[1], size=9.0, space_after=2.2 * mm)
 
     k.h2("نقشهٔ راه مباحث و پیشنهاد تقسیم کار")
     k.para(data["opener_map_intro"], size=9.2, space_after=2.4 * mm)

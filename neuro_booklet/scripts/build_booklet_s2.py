@@ -16,7 +16,7 @@ import furniture  # noqa: E402
 from content_render import render_mabhas  # noqa: E402
 import s2_front as front  # noqa: E402
 from s2_m01_m07 import MABAHES_S2_A  # noqa: E402
-from s2_m08_m14 import MABAHES_S2_B  # noqa: E402
+from s2_m08_m17 import MABAHES_S2_B  # noqa: E402
 
 OUT_DIR = os.path.join(ROOT, "pdf")
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -36,7 +36,8 @@ META = dict(
 CLUSTERS = {
     0: ("خوشهٔ ۱ — سیناپس: الکتریکی، شیمیایی، گیرنده و پتانسیل‌های موضعی", "مباحث ۱–۵"),
     5: ("خوشهٔ ۲ — یکپارچگی سیناپسی و دندریت", "مباحث ۶–۱۰"),
-    10: ("خوشهٔ ۳ — تنظیم آزادسازی و مدارهای نورونی", "مباحث ۱۱–۱۴"),
+    10: ("خوشهٔ ۳ — آکسون و تنظیم آزادسازی", "مباحث ۱۱–۱۴"),
+    14: ("خوشهٔ ۴ — مدارهای نورونی و پویایی آن‌ها", "مباحث ۱۵–۱۷"),
 }
 
 
