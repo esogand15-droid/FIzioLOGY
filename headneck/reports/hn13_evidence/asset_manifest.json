@@ -1,0 +1,703 @@
+{
+  "figures": [
+    {
+      "part": "1",
+      "page": 3,
+      "asset": ".cache/hn13/final_assets/part1_page03.jpg",
+      "sha256": "9587d63cf83407d3a910e47a45b29977e46e08716fd1dd1390c44e54de941dcc",
+      "clip": [
+        8.380000114440918,
+        0.11999988555908203,
+        903.6699829101562,
+        539.8699951171875
+      ]
+    },
+    {
+      "part": "1",
+      "page": 4,
+      "asset": ".cache/hn13/final_assets/part1_page04.jpg",
+      "sha256": "4c04122aef45947789fb609ddc83c5442fd46d50e0cdad949620c3bc60b7db08",
+      "clip": [
+        22.149999618530273,
+        3.9699997901916504,
+        915.0,
+        487.6000061035156
+      ]
+    },
+    {
+      "part": "1",
+      "page": 5,
+      "asset": ".cache/hn13/final_assets/part1_page05.jpg",
+      "sha256": "fd508f2967647c8f45888d2fd15659776db97b56a12d621b588c3af2327ff6f0",
+      "clip": [
+        24.260000228881836,
+        20.0,
+        948.0999755859375,
+        522.469970703125
+      ]
+    },
+    {
+      "part": "1",
+      "page": 6,
+      "asset": ".cache/hn13/final_assets/part1_page06.jpg",
+      "sha256": "cdaeea3a8a3932f531d500c4fd9bfa85c5b0410a6d02b201555fb51aa91ddce5",
+      "clip": [
+        26.65999984741211,
+        12.180000305175781,
+        825.260009765625,
+        487.760009765625
+      ]
+    },
+    {
+      "part": "1",
+      "page": 7,
+      "asset": ".cache/hn13/final_assets/part1_page07.jpg",
+      "sha256": "f0fb163c83eb16e2d2cd0caab457f305d098b1db3462a3b1b2fa44f8d449dbe4",
+      "clip": [
+        88.68000030517578,
+        13.270000457763672,
+        867.5900268554688,
+        514.5700073242188
+      ]
+    },
+    {
+      "part": "1",
+      "page": 8,
+      "asset": ".cache/hn13/final_assets/part1_page08.jpg",
+      "sha256": "4718a29fb0d3b1b9f51e6d8c69552213167fb2b899976c5de68c746ab0b8ba8f",
+      "clip": [
+        17.780000686645508,
+        0.9000000953674316,
+        785.510009765625,
+        520.52001953125
+      ]
+    },
+    {
+      "part": "1",
+      "page": 9,
+      "asset": ".cache/hn13/final_assets/part1_page09.jpg",
+      "sha256": "4c081748ecfc2543b384ef8c4663ed9aef8c09b35707bde1fcfc581889a1f242",
+      "clip": [
+        96.29000091552734,
+        29.68000030517578,
+        863.8599853515625,
+        540.0
+      ]
+    },
+    {
+      "part": "1",
+      "page": 10,
+      "asset": ".cache/hn13/final_assets/part1_page10.jpg",
+      "sha256": "d663f07f447be30ed2531c6d82ef11030fd2aafa024aeb721d90c69046283314",
+      "clip": [
+        36.88999938964844,
+        3.4000000953674316,
+        936.9099731445312,
+        538.1599731445312
+      ]
+    },
+    {
+      "part": "1",
+      "page": 11,
+      "asset": ".cache/hn13/final_assets/part1_page11.jpg",
+      "sha256": "33fb348a79835361e8cd14ecee587c25cd992c288a82f9bee0695930fc288c42",
+      "clip": [
+        32.810001373291016,
+        5.75,
+        891.1400146484375,
+        535.6199951171875
+      ]
+    },
+    {
+      "part": "1",
+      "page": 12,
+      "asset": ".cache/hn13/final_assets/part1_page12.jpg",
+      "sha256": "610bf040ca6915049da6befa6295d9a17810d2b64e0de60d28b7eaebdba30882",
+      "clip": [
+        51.099998474121094,
+        6.039999961853027,
+        900.1699829101562,
+        535.6199951171875
+      ]
+    },
+    {
+      "part": "1",
+      "page": 13,
+      "asset": ".cache/hn13/final_assets/part1_page13.jpg",
+      "sha256": "370ffa4dc362faa29ba76949df5b57e1818b8d8244afe89d34f706d453264d7b",
+      "clip": [
+        95.05999755859375,
+        1.5799999237060547,
+        913.0599975585938,
+        538.4199829101562
+      ]
+    },
+    {
+      "part": "1",
+      "page": 14,
+      "asset": ".cache/hn13/final_assets/part1_page14.jpg",
+      "sha256": "5c7a029f626d05e332c5a6935188f27072ee8627c3e7a85eca0e1463db5d78ab",
+      "clip": [
+        31.729999542236328,
+        8.319999694824219,
+        821.760009765625,
+        506.1000061035156
+      ]
+    },
+    {
+      "part": "1",
+      "page": 15,
+      "asset": ".cache/hn13/final_assets/part1_page15.jpg",
+      "sha256": "489f0409262d770916059963e073f886ebf45f2d7aa6a3e8a987d7791f5f1564",
+      "clip": [
+        41.7400016784668,
+        14.360000610351562,
+        797.4000244140625,
+        471.4200134277344
+      ]
+    },
+    {
+      "part": "1",
+      "page": 16,
+      "asset": ".cache/hn13/final_assets/part1_page16.jpg",
+      "sha256": "0493fc576742e8b59761deccfc8da49d35181e08b6bcf5a16acd440b91a30770",
+      "clip": [
+        102.94000244140625,
+        8.529999732971191,
+        787.0700073242188,
+        523.9199829101562
+      ]
+    },
+    {
+      "part": "1",
+      "page": 17,
+      "asset": ".cache/hn13/final_assets/part1_page17.jpg",
+      "sha256": "02ec5c6b0d39c8fbfcc76f2eae6d3f80ba49bdc2da278ec97b67660324eba12f",
+      "clip": [
+        64.68000030517578,
+        16.760000228881836,
+        923.6400146484375,
+        528.6699829101562
+      ]
+    },
+    {
+      "part": "3",
+      "page": 3,
+      "asset": ".cache/hn13/final_assets/part3_page03.jpg",
+      "sha256": "5cf5dc2a2fc2f4dc54e734ec32e0085290eb294ce3b1f7359e9ce31c1f40b0a1",
+      "clip": [
+        32.5,
+        17.8700008392334,
+        934.969970703125,
+        535.75
+      ]
+    },
+    {
+      "part": "3",
+      "page": 4,
+      "asset": ".cache/hn13/final_assets/part3_page04.jpg",
+      "sha256": "d739be04cfe3f0d19db6579bd9b57dfa8fe227e9f95a4048a7a0821cd408ad51",
+      "clip": [
+        21.790000915527344,
+        18.780000686645508,
+        930.6300048828125,
+        540.0
+      ]
+    },
+    {
+      "part": "3",
+      "page": 5,
+      "asset": ".cache/hn13/final_assets/part3_page05.jpg",
+      "sha256": "2d5f2448cef01b1d1d5dea94ba615169095d2866974b22cdcd7d6b37f8261d9d",
+      "clip": [
+        16.079999923706055,
+        27.709999084472656,
+        929.6699829101562,
+        512.6799926757812
+      ]
+    },
+    {
+      "part": "4",
+      "page": 3,
+      "asset": ".cache/hn13/final_assets/part4_page03.jpg",
+      "sha256": "2e30a8622d31b4a80972f25a22b0ad0856af9ccc8aec637e7cba5bbc228421c7",
+      "clip": [
+        74.08999633789062,
+        0.0,
+        881.510009765625,
+        539.5999755859375
+      ]
+    },
+    {
+      "part": "4",
+      "page": 4,
+      "asset": ".cache/hn13/final_assets/part4_page04.jpg",
+      "sha256": "89652e2cd22325a7df12704ead4726c79b08064d9c685947fb01b03b3f2507c7",
+      "clip": [
+        10.279999732971191,
+        0.0,
+        960.0,
+        540.0
+      ]
+    },
+    {
+      "part": "4",
+      "page": 5,
+      "asset": ".cache/hn13/final_assets/part4_page05.jpg",
+      "sha256": "31724486eaa1bbdf8a432de9bc36c96e04a836c2c5c86acbaa836110906a976c",
+      "clip": [
+        79.54000091552734,
+        0.0,
+        856.4099731445312,
+        528.969970703125
+      ]
+    },
+    {
+      "part": "4",
+      "page": 6,
+      "asset": ".cache/hn13/final_assets/part4_page06.jpg",
+      "sha256": "b062cff69adc23f632733d0316bf118a4e1e7ffd94ab286ca74fc307cb0dd8d0",
+      "clip": [
+        25.610000610351562,
+        10.619999885559082,
+        926.1199951171875,
+        499.6700134277344
+      ]
+    },
+    {
+      "part": "4",
+      "page": 7,
+      "asset": ".cache/hn13/final_assets/part4_page07.jpg",
+      "sha256": "9c0af99c30d0c8f8ac3b89fa11ad6cc467433216c0e7c8b679414e8b845bfe54",
+      "clip": [
+        25.610000610351562,
+        10.619999885559082,
+        928.2100219726562,
+        482.8500061035156
+      ]
+    },
+    {
+      "part": "4",
+      "page": 8,
+      "asset": ".cache/hn13/final_assets/part4_page08.jpg",
+      "sha256": "cbed3a99cb79b71ecda9839ba38193e65dfa2f6622e265e79cf0f61e5876c992",
+      "clip": [
+        25.610000610351562,
+        10.619999885559082,
+        900.5800170898438,
+        516.0800170898438
+      ]
+    },
+    {
+      "part": "4",
+      "page": 9,
+      "asset": ".cache/hn13/final_assets/part4_page09.jpg",
+      "sha256": "7ceb34c6d4b99a30aa1f2e385822ac0d83dbdb9233489cd485ea4aa31d5a46f9",
+      "clip": [
+        25.610000610351562,
+        10.619999885559082,
+        876.0499877929688,
+        505.6000061035156
+      ]
+    },
+    {
+      "part": "4",
+      "page": 10,
+      "asset": ".cache/hn13/final_assets/part4_page10.jpg",
+      "sha256": "7f3d91aaa719b240b42dc4965f43e443f26ae32aa39d8cfef44c010c392dd14b",
+      "clip": [
+        25.610000610351562,
+        10.619999885559082,
+        830.6900024414062,
+        472.2200012207031
+      ]
+    },
+    {
+      "part": "4",
+      "page": 11,
+      "asset": ".cache/hn13/final_assets/part4_page11.jpg",
+      "sha256": "bc127c5af85338676da2282a80a5ba86c37be37cd3d2efae79cce36f0db9e17c",
+      "clip": [
+        23.780000686645508,
+        12.039999961853027,
+        835.010009765625,
+        479.79998779296875
+      ]
+    },
+    {
+      "part": "4",
+      "page": 12,
+      "asset": ".cache/hn13/final_assets/part4_page12.jpg",
+      "sha256": "168301869d1319b0b0b0b770bbf3fd1b5e6c0d7089155de1ea7650884de8f73e",
+      "clip": [
+        18.579999923706055,
+        12.039999961853027,
+        812.3499755859375,
+        479.79998779296875
+      ]
+    },
+    {
+      "part": "4",
+      "page": 13,
+      "asset": ".cache/hn13/final_assets/part4_page13.jpg",
+      "sha256": "efbda2c97797c6b192fc8f3870d0725c5ee29b6bb3d8203c8e637bd521906014",
+      "clip": [
+        23.780000686645508,
+        12.039999961853027,
+        852.6699829101562,
+        495.7099914550781
+      ]
+    },
+    {
+      "part": "5",
+      "page": 3,
+      "asset": ".cache/hn13/final_assets/part5_page03.jpg",
+      "sha256": "0cd6666cd546df51e25f027c6228be9ba13a29533d1415dd7d8d43554a3a81b0",
+      "clip": [
+        25.989999771118164,
+        14.620000839233398,
+        926.1199951171875,
+        499.6700134277344
+      ]
+    },
+    {
+      "part": "5",
+      "page": 4,
+      "asset": ".cache/hn13/final_assets/part5_page04.jpg",
+      "sha256": "394070cad3bfd0a6de520641a28dc38e1b1bacf50ac83e316aeb4ce5a6265950",
+      "clip": [
+        15.360000610351562,
+        4.300000190734863,
+        928.2100219726562,
+        482.8500061035156
+      ]
+    },
+    {
+      "part": "5",
+      "page": 5,
+      "asset": ".cache/hn13/final_assets/part5_page05.jpg",
+      "sha256": "11c8df7d702a4bb402fa117bcf1c6f8fab32cdf43c370c79aafca2911fa6cdeb",
+      "clip": [
+        25.989999771118164,
+        14.620000839233398,
+        900.5800170898438,
+        516.0800170898438
+      ]
+    },
+    {
+      "part": "5",
+      "page": 6,
+      "asset": ".cache/hn13/final_assets/part5_page06.jpg",
+      "sha256": "e2909f80e99f7441cc0d5832c985f8a574e523e66b3272cf23a050c4bf216030",
+      "clip": [
+        51.13999938964844,
+        36.68000030517578,
+        876.0499877929688,
+        505.6000061035156
+      ]
+    },
+    {
+      "part": "5",
+      "page": 7,
+      "asset": ".cache/hn13/final_assets/part5_page07.jpg",
+      "sha256": "636a2613f95eae6f13aab467f1bcf3d79942047cdb1d2d28745436303e77a9b7",
+      "clip": [
+        51.13999938964844,
+        48.90999984741211,
+        830.6900024414062,
+        472.2200012207031
+      ]
+    },
+    {
+      "part": "5",
+      "page": 8,
+      "asset": ".cache/hn13/final_assets/part5_page08.jpg",
+      "sha256": "9f8f487cfd6d6793c9aaf58135e48bd4fdbeba5aa408956184ba54237a20b185",
+      "clip": [
+        25.989999771118164,
+        50.36000061035156,
+        835.010009765625,
+        479.79998779296875
+      ]
+    },
+    {
+      "part": "5",
+      "page": 9,
+      "asset": ".cache/hn13/final_assets/part5_page09.jpg",
+      "sha256": "5907145ecba4db9cce629570731090450206903f908783bdaa6c2a1162f0f85e",
+      "clip": [
+        18.579999923706055,
+        48.4900016784668,
+        812.3499755859375,
+        479.79998779296875
+      ]
+    },
+    {
+      "part": "5",
+      "page": 10,
+      "asset": ".cache/hn13/final_assets/part5_page10.jpg",
+      "sha256": "b367e4ea7da5a697fd39bc781542546290f1b927ed9d32b0ebbeec1f0919a227",
+      "clip": [
+        42.54999923706055,
+        29.850000381469727,
+        795.9099731445312,
+        495.7099914550781
+      ]
+    },
+    {
+      "part": "5",
+      "page": 11,
+      "asset": ".cache/hn13/final_assets/part5_page11.jpg",
+      "sha256": "592ec28bba3a6c27a61cbb1dcbb37a9587d385ddc8fc93d3c48d6edfcd457290",
+      "clip": [
+        37.18000030517578,
+        26.700000762939453,
+        947.9000244140625,
+        530.9400024414062
+      ]
+    },
+    {
+      "part": "5",
+      "page": 12,
+      "asset": ".cache/hn13/final_assets/part5_page12.jpg",
+      "sha256": "b44fcc6b82f040dbf0512ae251ad8924f774d3f2b69dd6f6769396bf6b0b8809",
+      "clip": [
+        32.779998779296875,
+        0.0,
+        901.2100219726562,
+        492.7799987792969
+      ]
+    },
+    {
+      "part": "5",
+      "page": 13,
+      "asset": ".cache/hn13/final_assets/part5_page13.jpg",
+      "sha256": "121de064f60889d667f8c1c1824a43a2f51b183bbdc9034afabafce91827a803",
+      "clip": [
+        51.36000061035156,
+        0.0,
+        901.22998046875,
+        540.0
+      ]
+    },
+    {
+      "part": "5",
+      "page": 14,
+      "asset": ".cache/hn13/final_assets/part5_page14.jpg",
+      "sha256": "c548f311923048dbe24250db98139f1d731af5da17fd264b0200d1ae30fd9ebb",
+      "clip": [
+        118.7300033569336,
+        12.699999809265137,
+        898.1900024414062,
+        527.2999877929688
+      ]
+    },
+    {
+      "part": "5",
+      "page": 15,
+      "asset": ".cache/hn13/final_assets/part5_page15.jpg",
+      "sha256": "80d500fb29e2928a0181ba41f8128ac24ef1d49d2891a49d53d6ecc0162d0182",
+      "clip": [
+        92.73999786376953,
+        11.369999885559082,
+        637.8300170898438,
+        540.0
+      ]
+    },
+    {
+      "part": "5",
+      "page": 16,
+      "asset": ".cache/hn13/final_assets/part5_page16.jpg",
+      "sha256": "4029f6391c60fd1a934faa7dd582cfe91383fc7b4ecddb2ccff427300245116f",
+      "clip": [
+        67.31999969482422,
+        30.720001220703125,
+        863.1599731445312,
+        517.2000122070312
+      ]
+    },
+    {
+      "part": "5",
+      "page": 17,
+      "asset": ".cache/hn13/final_assets/part5_page17.jpg",
+      "sha256": "c1e5c78f588454e2c3d82be40013495efa4e02a57e6ff8aed18f908a3735d2b3",
+      "clip": [
+        52.5099983215332,
+        7.25,
+        958.8400268554688,
+        517.2000122070312
+      ]
+    },
+    {
+      "part": "5",
+      "page": 18,
+      "asset": ".cache/hn13/final_assets/part5_page18.jpg",
+      "sha256": "4f3f7ef8ea6f30b4abfda941a0b8b8b0099c16db325f5775e3b1e368e9ceca8d",
+      "clip": [
+        31.270000457763672,
+        10.1899995803833,
+        918.3499755859375,
+        529.7999877929688
+      ]
+    },
+    {
+      "part": "5",
+      "page": 19,
+      "asset": ".cache/hn13/final_assets/part5_page19.jpg",
+      "sha256": "60718f31b3f56d434364f639401f7000eb87e4880e15cc099e7610aca496e8fe",
+      "clip": [
+        68.30000305175781,
+        0.0,
+        830.010009765625,
+        540.0
+      ]
+    },
+    {
+      "part": "5",
+      "page": 20,
+      "asset": ".cache/hn13/final_assets/part5_page20.jpg",
+      "sha256": "f3799c7218562c8155faf091ab2475f4b59ec9e7abbc2d5924c4a92733203d07",
+      "clip": [
+        153.19000244140625,
+        0.0,
+        944.4400024414062,
+        540.0
+      ]
+    },
+    {
+      "part": "5",
+      "page": 21,
+      "asset": ".cache/hn13/final_assets/part5_page21.jpg",
+      "sha256": "50e3af4e18ff39338b5e82fa3ef24669142e37277939d1959e634cd01b192434",
+      "clip": [
+        87.69999694824219,
+        26.59000015258789,
+        786.030029296875,
+        513.0700073242188
+      ]
+    }
+  ],
+  "references": [
+    {
+      "page": 77,
+      "plate": 25,
+      "asset": ".cache/hn13/final_assets/netter_77.jpg",
+      "sha256": "9aa43a8e5e81b7b367c7805049fd7a688c573dfc99d0b22207f08a680b0e21e6",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 91,
+      "plate": 39,
+      "asset": ".cache/hn13/final_assets/netter_91.jpg",
+      "sha256": "c997416bd97b9f6d85f697a0392983e829c155b2cbd002ca06fb4917b8d984ca",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 79,
+      "plate": 27,
+      "asset": ".cache/hn13/final_assets/netter_79.jpg",
+      "sha256": "fee387ee17498b08a2fcbde703e77f89e82009c8dee3f066b5f56340501a5a06",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 90,
+      "plate": 38,
+      "asset": ".cache/hn13/final_assets/netter_90.jpg",
+      "sha256": "771877b8e550b69549865e8efbb0b8051fbb076a5a0f8b0a1999f9651de9d627",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 84,
+      "plate": 32,
+      "asset": ".cache/hn13/final_assets/netter_84.jpg",
+      "sha256": "832ad0bce7d6d7e6974369cd5ca1e130caa8acfee0f16df9270334195bf88161",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 83,
+      "plate": 31,
+      "asset": ".cache/hn13/final_assets/netter_83.jpg",
+      "sha256": "bd0ee0c0e5f5995b8d355f1994e9897ff7a130058edcd449c271b3423bcd3bf3",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 95,
+      "plate": 43,
+      "asset": ".cache/hn13/final_assets/netter_95.jpg",
+      "sha256": "696bc205b100406686a7d259eb7a21b18458f48846b563f1871a80ea2ae9d5b2",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 96,
+      "plate": 44,
+      "asset": ".cache/hn13/final_assets/netter_96.jpg",
+      "sha256": "becc1ca94928ca9bc4c24c469251a8ee8140609fd14938d79f87da3be985a345",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 105,
+      "plate": 53,
+      "asset": ".cache/hn13/final_assets/netter_105.jpg",
+      "sha256": "b0d45ef9ea704048b3041cc75910e91b9ace973505221810db86c42882dafabc",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    },
+    {
+      "page": 106,
+      "plate": 54,
+      "asset": ".cache/hn13/final_assets/netter_106.jpg",
+      "sha256": "d45fd9fdddd9d21e2ea50fa02c24cbfd00f1dcb31b941d05959b5987533b8ac4",
+      "clip": [
+        0.0,
+        60.75,
+        630.0,
+        761.4
+      ]
+    }
+  ],
+  "netter_sha256": "e0764bbd767923eb8c20cd8c1ff53a6e5ff5ed24768a3511cfc38efc319390bd"
+}

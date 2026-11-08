@@ -1,0 +1,1241 @@
+{
+  "topics": {
+    "hn13-T01": {
+      "page": 5,
+      "title": "نمای قدامی جمجمه و اربیت"
+    },
+    "hn13-T02": {
+      "page": 10,
+      "title": "فک پایین: نماهای خارجی و داخلی"
+    },
+    "hn13-T03": {
+      "page": 16,
+      "title": "نمای طرفی جمجمه و پتریون"
+    },
+    "hn13-T04": {
+      "page": 21,
+      "title": "نمای خلفی و سقف جمجمه"
+    },
+    "hn13-T05": {
+      "page": 28,
+      "title": "قاعدهٔ جمجمه از داخل"
+    },
+    "hn13-T06": {
+      "page": 33,
+      "title": "قاعدهٔ جمجمه از خارج"
+    },
+    "hn13-T07": {
+      "page": 38,
+      "title": "مهره‌های گردنی و اطلس و آکسیس"
+    },
+    "hn13-T08": {
+      "page": 57,
+      "title": "عضلات گردن در نماهای عملی"
+    },
+    "hn13-T09": {
+      "page": 66,
+      "title": "مثلث‌های گردن در نماهای عملی"
+    }
+  },
+  "figures": [
+    {
+      "asset": ".cache/hn13/final_assets/part1_page03.jpg",
+      "sha256": "9587d63cf83407d3a910e47a45b29977e46e08716fd1dd1390c44e54de941dcc",
+      "topic": "hn13-T01",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 3"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page04.jpg",
+      "sha256": "4c04122aef45947789fb609ddc83c5442fd46d50e0cdad949620c3bc60b7db08",
+      "topic": "hn13-T01",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 4"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page05.jpg",
+      "sha256": "fd508f2967647c8f45888d2fd15659776db97b56a12d621b588c3af2327ff6f0",
+      "topic": "hn13-T01",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 5"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_77.jpg",
+      "sha256": "9aa43a8e5e81b7b367c7805049fd7a688c573dfc99d0b22207f08a680b0e21e6",
+      "topic": "hn13-T01",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 25، صفحهٔ فایل 77"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page06.jpg",
+      "sha256": "cdaeea3a8a3932f531d500c4fd9bfa85c5b0410a6d02b201555fb51aa91ddce5",
+      "topic": "hn13-T02",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 6"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page07.jpg",
+      "sha256": "f0fb163c83eb16e2d2cd0caab457f305d098b1db3462a3b1b2fa44f8d449dbe4",
+      "topic": "hn13-T02",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 7"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page08.jpg",
+      "sha256": "4718a29fb0d3b1b9f51e6d8c69552213167fb2b899976c5de68c746ab0b8ba8f",
+      "topic": "hn13-T02",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 8"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page09.jpg",
+      "sha256": "4c081748ecfc2543b384ef8c4663ed9aef8c09b35707bde1fcfc581889a1f242",
+      "topic": "hn13-T02",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 9"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_91.jpg",
+      "sha256": "c997416bd97b9f6d85f697a0392983e829c155b2cbd002ca06fb4917b8d984ca",
+      "topic": "hn13-T02",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 39، صفحهٔ فایل 91"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page10.jpg",
+      "sha256": "d663f07f447be30ed2531c6d82ef11030fd2aafa024aeb721d90c69046283314",
+      "topic": "hn13-T03",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 10"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page11.jpg",
+      "sha256": "33fb348a79835361e8cd14ecee587c25cd992c288a82f9bee0695930fc288c42",
+      "topic": "hn13-T03",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 11"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page12.jpg",
+      "sha256": "610bf040ca6915049da6befa6295d9a17810d2b64e0de60d28b7eaebdba30882",
+      "topic": "hn13-T03",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 12"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_79.jpg",
+      "sha256": "fee387ee17498b08a2fcbde703e77f89e82009c8dee3f066b5f56340501a5a06",
+      "topic": "hn13-T03",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 27، صفحهٔ فایل 79"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page13.jpg",
+      "sha256": "370ffa4dc362faa29ba76949df5b57e1818b8d8244afe89d34f706d453264d7b",
+      "topic": "hn13-T04",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 13"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page14.jpg",
+      "sha256": "5c7a029f626d05e332c5a6935188f27072ee8627c3e7a85eca0e1463db5d78ab",
+      "topic": "hn13-T04",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 14"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page15.jpg",
+      "sha256": "489f0409262d770916059963e073f886ebf45f2d7aa6a3e8a987d7791f5f1564",
+      "topic": "hn13-T04",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 15"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page16.jpg",
+      "sha256": "0493fc576742e8b59761deccfc8da49d35181e08b6bcf5a16acd440b91a30770",
+      "topic": "hn13-T04",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 16"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part1_page17.jpg",
+      "sha256": "02ec5c6b0d39c8fbfcc76f2eae6d3f80ba49bdc2da278ec97b67660324eba12f",
+      "topic": "hn13-T04",
+      "source": "اسلاید عملی «Practical anatomy 1.pdf»، صفحهٔ فایل 17"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_90.jpg",
+      "sha256": "771877b8e550b69549865e8efbb0b8051fbb076a5a0f8b0a1999f9651de9d627",
+      "topic": "hn13-T04",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 38، صفحهٔ فایل 90"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part3_page03.jpg",
+      "sha256": "5cf5dc2a2fc2f4dc54e734ec32e0085290eb294ce3b1f7359e9ce31c1f40b0a1",
+      "topic": "hn13-T05",
+      "source": "اسلاید عملی «Practical anatomy 3 .pdf»، صفحهٔ فایل 3"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part3_page04.jpg",
+      "sha256": "d739be04cfe3f0d19db6579bd9b57dfa8fe227e9f95a4048a7a0821cd408ad51",
+      "topic": "hn13-T05",
+      "source": "اسلاید عملی «Practical anatomy 3 .pdf»، صفحهٔ فایل 4"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part3_page05.jpg",
+      "sha256": "2d5f2448cef01b1d1d5dea94ba615169095d2866974b22cdcd7d6b37f8261d9d",
+      "topic": "hn13-T05",
+      "source": "اسلاید عملی «Practical anatomy 3 .pdf»، صفحهٔ فایل 5"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_84.jpg",
+      "sha256": "832ad0bce7d6d7e6974369cd5ca1e130caa8acfee0f16df9270334195bf88161",
+      "topic": "hn13-T05",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 32، صفحهٔ فایل 84"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page03.jpg",
+      "sha256": "2e30a8622d31b4a80972f25a22b0ad0856af9ccc8aec637e7cba5bbc228421c7",
+      "topic": "hn13-T06",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 3"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page04.jpg",
+      "sha256": "89652e2cd22325a7df12704ead4726c79b08064d9c685947fb01b03b3f2507c7",
+      "topic": "hn13-T06",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 4"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page05.jpg",
+      "sha256": "31724486eaa1bbdf8a432de9bc36c96e04a836c2c5c86acbaa836110906a976c",
+      "topic": "hn13-T06",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 5"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_83.jpg",
+      "sha256": "bd0ee0c0e5f5995b8d355f1994e9897ff7a130058edcd449c271b3423bcd3bf3",
+      "topic": "hn13-T06",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 31، صفحهٔ فایل 83"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page06.jpg",
+      "sha256": "b062cff69adc23f632733d0316bf118a4e1e7ffd94ab286ca74fc307cb0dd8d0",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 6"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page07.jpg",
+      "sha256": "9c0af99c30d0c8f8ac3b89fa11ad6cc467433216c0e7c8b679414e8b845bfe54",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 7"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page08.jpg",
+      "sha256": "cbed3a99cb79b71ecda9839ba38193e65dfa2f6622e265e79cf0f61e5876c992",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 8"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page09.jpg",
+      "sha256": "7ceb34c6d4b99a30aa1f2e385822ac0d83dbdb9233489cd485ea4aa31d5a46f9",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 9"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page10.jpg",
+      "sha256": "7f3d91aaa719b240b42dc4965f43e443f26ae32aa39d8cfef44c010c392dd14b",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 10"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page11.jpg",
+      "sha256": "bc127c5af85338676da2282a80a5ba86c37be37cd3d2efae79cce36f0db9e17c",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 11"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page12.jpg",
+      "sha256": "168301869d1319b0b0b0b770bbf3fd1b5e6c0d7089155de1ea7650884de8f73e",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 12"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part4_page13.jpg",
+      "sha256": "efbda2c97797c6b192fc8f3870d0725c5ee29b6bb3d8203c8e637bd521906014",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy 4.pdf»، صفحهٔ فایل 13"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page03.jpg",
+      "sha256": "0cd6666cd546df51e25f027c6228be9ba13a29533d1415dd7d8d43554a3a81b0",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 3"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page04.jpg",
+      "sha256": "394070cad3bfd0a6de520641a28dc38e1b1bacf50ac83e316aeb4ce5a6265950",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 4"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page05.jpg",
+      "sha256": "11c8df7d702a4bb402fa117bcf1c6f8fab32cdf43c370c79aafca2911fa6cdeb",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 5"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page06.jpg",
+      "sha256": "e2909f80e99f7441cc0d5832c985f8a574e523e66b3272cf23a050c4bf216030",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 6"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page07.jpg",
+      "sha256": "636a2613f95eae6f13aab467f1bcf3d79942047cdb1d2d28745436303e77a9b7",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 7"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page08.jpg",
+      "sha256": "9f8f487cfd6d6793c9aaf58135e48bd4fdbeba5aa408956184ba54237a20b185",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 8"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page09.jpg",
+      "sha256": "5907145ecba4db9cce629570731090450206903f908783bdaa6c2a1162f0f85e",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 9"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page10.jpg",
+      "sha256": "b367e4ea7da5a697fd39bc781542546290f1b927ed9d32b0ebbeec1f0919a227",
+      "topic": "hn13-T07",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 10"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_95.jpg",
+      "sha256": "696bc205b100406686a7d259eb7a21b18458f48846b563f1871a80ea2ae9d5b2",
+      "topic": "hn13-T07",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 43، صفحهٔ فایل 95"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_96.jpg",
+      "sha256": "becc1ca94928ca9bc4c24c469251a8ee8140609fd14938d79f87da3be985a345",
+      "topic": "hn13-T07",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 44، صفحهٔ فایل 96"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page11.jpg",
+      "sha256": "592ec28bba3a6c27a61cbb1dcbb37a9587d385ddc8fc93d3c48d6edfcd457290",
+      "topic": "hn13-T08",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 11"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page12.jpg",
+      "sha256": "b44fcc6b82f040dbf0512ae251ad8924f774d3f2b69dd6f6769396bf6b0b8809",
+      "topic": "hn13-T08",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 12"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page13.jpg",
+      "sha256": "121de064f60889d667f8c1c1824a43a2f51b183bbdc9034afabafce91827a803",
+      "topic": "hn13-T08",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 13"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page16.jpg",
+      "sha256": "4029f6391c60fd1a934faa7dd582cfe91383fc7b4ecddb2ccff427300245116f",
+      "topic": "hn13-T08",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 16"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page17.jpg",
+      "sha256": "c1e5c78f588454e2c3d82be40013495efa4e02a57e6ff8aed18f908a3735d2b3",
+      "topic": "hn13-T08",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 17"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page18.jpg",
+      "sha256": "4f3f7ef8ea6f30b4abfda941a0b8b8b0099c16db325f5775e3b1e368e9ceca8d",
+      "topic": "hn13-T08",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 18"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page19.jpg",
+      "sha256": "60718f31b3f56d434364f639401f7000eb87e4880e15cc099e7610aca496e8fe",
+      "topic": "hn13-T08",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 19"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_105.jpg",
+      "sha256": "b0d45ef9ea704048b3041cc75910e91b9ace973505221810db86c42882dafabc",
+      "topic": "hn13-T08",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 53، صفحهٔ فایل 105"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page14.jpg",
+      "sha256": "c548f311923048dbe24250db98139f1d731af5da17fd264b0200d1ae30fd9ebb",
+      "topic": "hn13-T09",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 14"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page15.jpg",
+      "sha256": "80d500fb29e2928a0181ba41f8128ac24ef1d49d2891a49d53d6ecc0162d0182",
+      "topic": "hn13-T09",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 15"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page20.jpg",
+      "sha256": "f3799c7218562c8155faf091ab2475f4b59ec9e7abbc2d5924c4a92733203d07",
+      "topic": "hn13-T09",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 20"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/part5_page21.jpg",
+      "sha256": "50e3af4e18ff39338b5e82fa3ef24669142e37277939d1959e634cd01b192434",
+      "topic": "hn13-T09",
+      "source": "اسلاید عملی «Practical anatomy اصلاحیه 5 .pdf»، صفحهٔ فایل 21"
+    },
+    {
+      "asset": ".cache/hn13/final_assets/netter_106.jpg",
+      "sha256": "d45fd9fdddd9d21e2ea50fa02c24cbfd00f1dcb31b941d05959b5987533b8ac4",
+      "topic": "hn13-T09",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت 54، صفحهٔ فایل 106"
+    }
+  ],
+  "typed_spans": {
+    "1:3": [
+      "Glabella",
+      "Supra-orbital notch (foramen)",
+      "Lacrimal bone",
+      "Greater wing of sphenoidal bone",
+      "Lesser wing of sphenoidal bone",
+      "Zygomatic bone",
+      "Zygomaticofacial foramen",
+      "Infra-orbital foramen",
+      "Frontal process of maxillary bone",
+      "Alveolar process of maxillary bone",
+      "Canine fossa",
+      "Zygomatic process of maxillary bone",
+      "Anterior nasal spine",
+      "Frontal tuber / prominence",
+      "Superciliary arch",
+      "Frontal bone",
+      "Middle nasal concha",
+      "Inferior nasal concha",
+      "Nasal bones",
+      "Nasion",
+      "Inferior orbital fissure",
+      "Superior orbital fissure"
+    ],
+    "1:4": [
+      "Superciliary arch",
+      "Frontal bone",
+      "Nasion",
+      "Superior orbital fissure",
+      "Middle nasal concha",
+      "Inferior nasal concha",
+      "Infra-orbital foramen",
+      "Canine fossa",
+      "Alveolar process of maxillary bone",
+      "Anterior nasal spine",
+      "Frontal process of maxillary bone",
+      "Zygomatic process of maxillary bone",
+      "Zygomatic bone",
+      "Zygomaticofacial foramen",
+      "Lacrimal bone",
+      "Inferior orbital fissure",
+      "Greater wing of sphenoidal bone",
+      "Lesser wing of sphenoidal bone",
+      "Supra-orbital notch (foramen)",
+      "Glabella"
+    ],
+    "1:5": [
+      "Nasion",
+      "Frontal bone",
+      "Superciliary arch",
+      "Superior orbital fissure",
+      "Middle nasal concha",
+      "Inferior nasal concha",
+      "Infra-orbital foramen",
+      "Canine fossa",
+      "Alveolar process of maxillary bone",
+      "Anterior nasal spine",
+      "Frontal process of maxillary bone",
+      "Zygomatic process of maxillary bone",
+      "Zygomatic bone",
+      "Zygomaticofacial foramen",
+      "Inferior orbital fissure",
+      "Lacrimal bone",
+      "Greater wing of sphenoidal bone",
+      "Lesser wing of sphenoidal bone",
+      "Supra-orbital notch (foramen)",
+      "Glabella"
+    ],
+    "1:6": [
+      "Mental tubercle",
+      "Mental protuberance",
+      "Mental foramen",
+      "Oblique line",
+      "Condylar process",
+      "Pterygoid fovea",
+      "Coronoid process",
+      "Angle of mandible",
+      "Alveolar part"
+    ],
+    "1:7": [
+      "Mental protuberance",
+      "Mental foramen",
+      "Oblique line",
+      "Angle of mandible",
+      "Ramus",
+      "Coronoid process",
+      "Alveolar part"
+    ],
+    "1:8": [
+      "Oblique line",
+      "Mental foramen",
+      "Mental tubercle",
+      "Mental protuberance",
+      "Coronoid process",
+      "Condylar process",
+      "Pterygoid fovea",
+      "Mandibular notch",
+      "Angle",
+      "Mylohyoid groove",
+      "Mylohyoid line",
+      "Alveolar part"
+    ],
+    "1:9": [
+      "Mandibular foramen",
+      "Coronoid process",
+      "Coronoid process",
+      "Mylohyoid groove",
+      "Mylohyoid line",
+      "Angle",
+      "Mandibular notch",
+      "Submandibular fossa",
+      "Sublingual fossa",
+      "Digastric fossa",
+      "Superior and inferior mental spines (genial tubercles)",
+      "Lingula",
+      "Head",
+      "Neck"
+    ],
+    "1:10": [
+      "Zygomatic bone, frontal process",
+      "Coronal suture",
+      "Pterion",
+      "Zygomatic process",
+      "Nasal bone",
+      "Anterior nasal spine",
+      "Mastoidforamen",
+      "External acoustic meatus",
+      "Styloid process",
+      "Mastoid process",
+      "Lambdoid suture",
+      "Postglenoid tubercle",
+      "Asterion",
+      "Articular tubercle",
+      "Parietal tuber",
+      "Supra meatal triangle",
+      "Tympanic plate of temporal bone",
+      "Zygomaticofacial foramen",
+      "Alveolar process of maxillary bone",
+      "Parietal bone"
+    ],
+    "1:11": [
+      "Pterion",
+      "Superior temporal line",
+      "Coronal suture",
+      "Inferior temporal line",
+      "Anterior nasal spine",
+      "Parietal tuber",
+      "Mastoid process",
+      "Asterion",
+      "Lambdoid suture",
+      "Styloid process",
+      "External acoustic meatus",
+      "Supra meatal triangle",
+      "Tympanic plate of temporal bone",
+      "Zygomaticofacial foramen",
+      "Zygomatic process",
+      "Articular tubercle",
+      "Nasal bone",
+      "Alveolar process of maxillary bone",
+      "Mastoid foramen",
+      "Supra mastoid crest",
+      "Postglenoid tubercle",
+      "Parietal bone"
+    ],
+    "1:12": [
+      "Coronal suture",
+      "Pterion",
+      "Nasal bone",
+      "Articular tubercle",
+      "Zygomaticofacial foramen",
+      "Anterior nasal spine",
+      "Alveolar process of maxillary bone",
+      "External acoustic meatus",
+      "Postglenoid tubercle",
+      "Tympanic plate of temporal bone",
+      "Supra meatal triangle",
+      "Supra mastoid crest",
+      "Lambdoid suture",
+      "Asterion",
+      "Mastoid foramen",
+      "Mastoid process",
+      "Parietal bone",
+      "Sutural bone",
+      "Zygomatic bone, frontal process"
+    ],
+    "1:13": [
+      "External occipital Protuberance (inion)",
+      "Superior nuchal line",
+      "Inferior nuchal line",
+      "Lambda",
+      "Lambdoid suture",
+      "External occipital crest",
+      "Mastoid process",
+      "Parietal bone",
+      "Parietal foramen (for emissary vein)",
+      "Occipital bone"
+    ],
+    "1:14": [
+      "Lambda",
+      "Interparietal bone",
+      "Sutural bone",
+      "External occipital Protuberance (inion)",
+      "Choanae",
+      "Lambdoid suture",
+      "Superior nuchal line",
+      "Inferior nuchal line",
+      "External occipital crest",
+      "Mastoid process",
+      "Occipital bone",
+      "Parietal bone"
+    ],
+    "1:15": [
+      "Lambda",
+      "Parietal bone",
+      "Occipital bone",
+      "Superior nuchal line",
+      "Inferior nuchal line",
+      "External occipital crest",
+      "External occipital Protuberance (inion)",
+      "Mastoid foramen",
+      "Mastoid process",
+      "Lambdoid suture"
+    ],
+    "1:16": [
+      "Bregma",
+      "Frontal bone",
+      "Coronal suture",
+      "Parietal bone",
+      "Sagittal suture",
+      "Occipital bone",
+      "Parietal foramen (for emissary vein)",
+      "Lambda",
+      "Lambdoid suture"
+    ],
+    "1:17": [
+      "Parietal bone",
+      "Groove for superior sagittal sinus",
+      "Sagittal suture",
+      "Coronal suture",
+      "Frontal bone",
+      "Frontal crest",
+      "Granular foveolae (for arachnoid granulations)",
+      "Lambdoid suture",
+      "Occipital bone",
+      "Grooves for branches of middle meningeal vessels"
+    ],
+    "3:3": [
+      "Frontal crest",
+      "Foramen cecum",
+      "Superior surface of orbital part",
+      "Crista galli",
+      "Cribriform plate",
+      "Greater wing of Sphenoid bone",
+      "Prechiasmatic groove",
+      "Optic canal",
+      "Tuberculum sellae",
+      "Hypophysial fossa",
+      "Anterior clinoidprocess",
+      "Foramen rotundum",
+      "Foramen ovale",
+      "Foramen spinosum",
+      "Greater petrosal groove",
+      "Lesser petrosal groove",
+      "Arcuate eminence",
+      "Tegmen tympany",
+      "groove of inferior petrosal sinus",
+      "groove of superior petrosal sinus",
+      "Internal acoustic meatus",
+      "Opening of vestibular aqueduct",
+      "Jugular foramen",
+      "Groove of transverse sinus",
+      "Foramen magnum",
+      "Internal occipital crest",
+      "Internal occipital protuberance",
+      "Clivus",
+      "Hypoglossal canal",
+      "(Groove for) superior sagittal sinus"
+    ],
+    "3:4": [
+      "Frontal crest",
+      "Foramen cecum",
+      "Superior surface of orbital part",
+      "Crista galli",
+      "Cribriform plate",
+      "lesser wing of Sphenoid bone",
+      "Ethmoidal spine of sphenoid bone",
+      "Greater wing of Sphenoid bone",
+      "Prechiasmatic groove",
+      "Tuberculum sellae",
+      "Hypophysial fossa",
+      "Foramen rotundum",
+      "Foramen ovale",
+      "Foramen spinosum",
+      "Anterior clinoidprocess",
+      "Lesser petrosal groove",
+      "Greater petrosal groove",
+      "Foramen lacerum",
+      "Arcuate eminence",
+      "Tegmen tympany",
+      "groove of superior petrosal sinus",
+      "groove of inferior petrosal sinus",
+      "Internal acoustic meatus",
+      "Opening of vestibular aqueduct",
+      "Jugular foramen",
+      "Groove of transverse sinus",
+      "Foramen magnum",
+      "Internal occipital protuberance",
+      "Groove of transverse sinus",
+      "Internal occipital crest",
+      "Hypoglossal canal",
+      "Jugular tubercle",
+      "Groove of superior sagittal sinus"
+    ],
+    "3:5": [
+      "Frontal crest",
+      "Foramen cecum",
+      "Superior surface of orbital part",
+      "Crista galli",
+      "Cribriform plate",
+      "lesser wing of Sphenoid bone",
+      "Greater wing of Sphenoid bone",
+      "Prechiasmatic groove",
+      "Tuberculum sellae",
+      "Hypophysial fossa",
+      "Anterior clinoidprocess",
+      "Optic canal",
+      "Foramen ovale",
+      "Lesser petrosal groove",
+      "Arcuate eminence",
+      "Tegmen tympany",
+      "Foramen lacerum",
+      "Foramen spinosum",
+      "groove of superior petrosal sinus",
+      "groove of inferior petrosal sinus",
+      "Grater petrosal groove",
+      "Jugular foramen",
+      "Groove of sigmoid sinus",
+      "Groove of transverse sinus",
+      "Foramen magnum",
+      "Internal occipital crest",
+      "Internal occipital protuberance",
+      "Groove for superior sagittal sinus",
+      "Internal acoustic meatus",
+      "Clivus",
+      "Hypoglossal canal"
+    ],
+    "4:3": [
+      "Incisive fossa",
+      "Greater palatine foramen",
+      "Maxillary tuberosity",
+      "Lesser palatine foramen",
+      "Infratemporal crest",
+      "Mandibular fossa",
+      "Articular tubercle",
+      "Petrotympanic fissure",
+      "Carotid canal",
+      "Foramen spinosum",
+      "Stylomastoid foramen",
+      "pterygoid canal",
+      "Mastoid process",
+      "Mastoid notch (for digastric belly)",
+      "Mastoid groove",
+      "Occipital condyle",
+      "Condylar canal",
+      "Posterior nasal spine",
+      "Scaphoid fossa",
+      "Hamulus",
+      "Choana",
+      "Pterygoid fossa",
+      "External occipital protuberance (inion)",
+      "External occipital crest",
+      "Inferior nuchal line",
+      "Jugular foramen",
+      "Mastoid foramen",
+      "Pharyngeal tubercle"
+    ],
+    "4:4": [
+      "Incisive fossa",
+      "Greater palatine foramen",
+      "Maxillary tuberosity",
+      "Lesser palatine foramen",
+      "Infratemporal crest",
+      "Stylomastoid foramen",
+      "Pterygoid fossa",
+      "Choana",
+      "Palatine process of maxilla",
+      "Horizontal plate of palatine bone",
+      "Posterior nasal spine",
+      "Scaphoid fossa",
+      "Foramen ovale",
+      "Stylomastoid foramen",
+      "Foramen spinosum",
+      "Carotid canal",
+      "Pharyngeal tubercle",
+      "Hamulus",
+      "Petrotympanic fissure",
+      "Jugular foramen",
+      "Mastoid notch(for digastric belly)",
+      "Mastoid groove",
+      "Condylar canal",
+      "Occipital condyle",
+      "External occipital crest",
+      "External occipital protuberance (inion)",
+      "Inferior nuchal line",
+      "Superior nuchal line"
+    ],
+    "4:5": [
+      "Incisive fossa",
+      "Greater palatine foramen",
+      "Lesser palatine foramen",
+      "Maxillary tuberosity",
+      "Infratemporal crest",
+      "Pterygoid fossa",
+      "Choana",
+      "Palatine process of maxilla",
+      "Horizontal plate of palatine bone",
+      "Petrotympanic fissure",
+      "Mandibular fossa",
+      "Articular tubercle",
+      "Palatovaginal canal",
+      "Vomerovaginal canal",
+      "Scaphoid fossa",
+      "Mastoid notch (for digastric belly)",
+      "Mastoid groove",
+      "Occipital condyle",
+      "Condylar canal",
+      "External occipital protuberance (inion)",
+      "External occipital crest",
+      "Superior nuchal line",
+      "Inferior nuchal line",
+      "Carotid canal",
+      "Jugular foramen",
+      "Pharyngeal tubercle",
+      "Hamulus",
+      "Foramen lacerum",
+      "Mastoid foramen"
+    ],
+    "4:6": [
+      "Anterior tubercle",
+      "Posterior tubercle",
+      "Posterior arch",
+      "Anterior arch",
+      "Superior articular surface of lateral mass for occipital condyle",
+      "Posterior arch",
+      "Transverse process",
+      "Transverse foramen",
+      "C1,",
+      "superior view"
+    ],
+    "4:7": [
+      "Anterior tubercle",
+      "Articular facet for dens",
+      "Tubercle for transverse ligament of atlas",
+      "Transverse process",
+      "Transverse foramen",
+      "Posterior tubercle",
+      "Groove for vertebral artery",
+      "Posterior arch",
+      "Anterior arch",
+      "Vertebral foramen",
+      "Inferior articular surface of lateral mass for axis",
+      "C1,",
+      "inferior view"
+    ],
+    "4:8": [
+      "Articular facet for dens",
+      "Anterior tubercle",
+      "Transverse process",
+      "Transverse foramen",
+      "Superior articular surface of lateral mass for occipital condyle",
+      "Tubercle for transverse ligament of atlas",
+      "Vertebral foramen",
+      "Posterior tubercle",
+      "Posterior arch",
+      "C1,",
+      "superior view"
+    ],
+    "4:9": [
+      "Dens",
+      "Posterior articular facet (for transverse ligament of atlas)",
+      "Superior articular facet for atlas",
+      "Spinous process",
+      "Inferior articular process",
+      "Pedicle",
+      "C2"
+    ],
+    "4:10": [
+      "Transverse process",
+      "Inferior articular process",
+      "Transverse foramen",
+      "Dens",
+      "Superior articular facet for atlas",
+      "Spinous process",
+      "Vertebral foramen",
+      "Pedicle",
+      "C2"
+    ],
+    "4:11": [
+      "Bifid spinous process",
+      "uncinate process",
+      "Superior articular process and facet",
+      "Anterior tubercle",
+      "Posterior tubercle",
+      "Lamina",
+      "Pedicle",
+      "Vertebral body",
+      "Vertebral foramen",
+      "Transverse foramen",
+      "C4"
+    ],
+    "4:12": [
+      "Pedicle",
+      "Superior articular process and facet",
+      "Lamina",
+      "Bifid spinous process",
+      "Vertebral foramen",
+      "uncinate process",
+      "Vertebral body",
+      "Anterior tubercle",
+      "Transverse foramen",
+      "C4"
+    ],
+    "4:13": [
+      "Pedicle",
+      "Spinous process",
+      "Vertebral foramen",
+      "Lamina",
+      "uncinate process",
+      "transverse process)",
+      "Transverse foramen",
+      "Vertebral body",
+      "C6"
+    ],
+    "5:3": [
+      "Anterior tubercle",
+      "Posterior tubercle",
+      "Posterior arch",
+      "Anterior arch",
+      "Superior articular surface of lateral mass for occipital condyle",
+      "Posterior arch",
+      "Transverse process",
+      "Transverse foramen",
+      "C1 superior view"
+    ],
+    "5:4": [
+      "Anterior tubercle",
+      "Articular facet for dens",
+      "Tubercle for transverse ligament of atlas",
+      "Transverse process",
+      "Transverse foramen",
+      "Posterior tubercle",
+      "Groove for vertebral artery",
+      "Posterior arch",
+      "Anterior arch",
+      "Vertebral foramen",
+      "Inferior articular surface of lateral mass for axis",
+      "C1 inferior view"
+    ],
+    "5:5": [
+      "Articular facet for dens",
+      "Anterior tubercle",
+      "Transverse process",
+      "Transverse foramen",
+      "Superior articular surface of lateral mass for occipital condyle",
+      "Tubercle for transverse ligament of atlas",
+      "Vertebral foramen",
+      "Posterior tubercle",
+      "Posterior arch",
+      "C1 superior view"
+    ],
+    "5:6": [
+      "Dens",
+      "Posterior articular facet (for transverse ligament of atlas)",
+      "Superior articular facet for atlas",
+      "Spinous process",
+      "Inferior articular process",
+      "Pedicle",
+      "C 2"
+    ],
+    "5:7": [
+      "Transverse process",
+      "Inferior articular process",
+      "Transverse foramen",
+      "Dens",
+      "Superior articular facet for atlas",
+      "Spinous process",
+      "Vertebral foramen",
+      "Pedicle",
+      "C 2"
+    ],
+    "5:8": [
+      "Bifid spinous process",
+      "uncinate process",
+      "Superior articular process and facet",
+      "Anterior tubercle",
+      "Posterior tubercle",
+      "Lamina",
+      "Pedicle",
+      "Vertebral body",
+      "Vertebral foramen",
+      "Transverse foramen"
+    ],
+    "5:9": [
+      "Pedicle",
+      "Superior articular process and facet",
+      "Lamina",
+      "Bifid spinous process",
+      "Vertebral foramen",
+      "uncinate process",
+      "Vertebral body",
+      "Anterior tubercle",
+      "Transverse foramen"
+    ],
+    "5:10": [
+      "Pedicle",
+      "Spinous process",
+      "Vertebral foramen",
+      "Lamina",
+      "uncinate process",
+      "transverse process)",
+      "Transverse foramen",
+      "Vertebral body",
+      "C7"
+    ],
+    "5:11": [
+      "Mylohyoid muscle",
+      "Digastric muscle (anterior belly)",
+      "Digastric muscle (posterior belly)",
+      "Stylohyoid muscle",
+      "Clavicular head of sternocleidomastoid m.",
+      "Sternal head of sternocleidomastoid m.",
+      "Omohyoid muscle (superior belly)",
+      "Sternohyoid muscle",
+      "Omohyoid muscle (inferior belly)",
+      "Trapezius muscle",
+      "Anterior scalene muscle",
+      "Middle scalene muscle",
+      "Posterior scalene muscle",
+      "Levator scapulae muscle",
+      "Splenius capitis muscle",
+      "Semispinalis capitis muscle"
+    ],
+    "5:12": [
+      "Semispinalis capitis muscle",
+      "Splenius capitis muscle",
+      "Levator scapulae muscle",
+      "Posterior scalene muscle",
+      "Middle scalene muscle",
+      "Anterior scalene muscle",
+      "Serratus anterior muscle",
+      "Sternothyroid muscle",
+      "Sternohyoid muscle",
+      "Omohyoid muscle (superior belly)",
+      "Hyoglossus muscle"
+    ],
+    "5:13": [
+      "Trapezius muscle",
+      "Sternocleidomastoid muscle",
+      "Semispinalis capitis muscle",
+      "Splenius capitis muscle",
+      "Levator scapulae muscle",
+      "Serratus anterior muscle"
+    ],
+    "5:16": [
+      "Digastric muscle (anterior belly)",
+      "Geniohyoid",
+      "Hyoglossus muscle",
+      "Thyrohyoid muscle",
+      "Omohyoid muscle (superior belly)",
+      "Sternohyoid muscle",
+      "sternocleidomastoid muscle",
+      "Mylohyoid muscle",
+      "Sternothyroid muscle",
+      "Anterior scalene muscle"
+    ],
+    "5:17": [
+      "Omohyoid muscle (superior belly)",
+      "sternocleidomastoid muscle",
+      "Sternohyoid muscle",
+      "Digastric muscle (posterior belly)",
+      "Stylohyoid muscle",
+      "Mylohyoid muscle",
+      "Omohyoid muscle (inferior belly)",
+      "Trapezius muscle",
+      "Splenius capitis muscle",
+      "Levator scapulae muscle",
+      "Posterior scalene muscle",
+      "Middle scalene muscle",
+      "Anterior scalene muscle",
+      "Digastric muscle (anterior belly)"
+    ],
+    "5:18": [
+      "Splenius capitis muscle",
+      "Levator scapulae muscle",
+      "Anterior scalene muscle",
+      "Middle scalene muscle",
+      "Thyrohyoid muscle",
+      "Hyoglossus muscle",
+      "Digastric muscle (anterior belly)"
+    ],
+    "5:19": [
+      "Trapezius muscle",
+      "Levator scapulae muscle",
+      "Semispinalis capitis muscle",
+      "Splenius capitis muscle",
+      "Serratus anterior muscle"
+    ],
+    "5:14": [
+      "Carotid triangle",
+      "Submandibular (digastric) triangle",
+      "Occipital triangle",
+      "Omoclavicular (subclavian) triangle",
+      "Muscular triangle"
+    ],
+    "5:15": [
+      "Muscular triangle"
+    ],
+    "5:20": [
+      "Occipital triangle",
+      "Omoclavicular (subclavian) triangle",
+      "Submandibular (digastric) triangle",
+      "Carotid triangle",
+      "Muscular triangle"
+    ],
+    "5:21": [
+      "Submental triangle",
+      "Carotid triangle",
+      "Submandibular (digastric) triangle",
+      "Muscular triangle"
+    ]
+  },
+  "header_spans": {
+    "1": [
+      "✓",
+      "Anterior view or norma frontalis",
+      "✓",
+      "lateral view or norma temporalis",
+      "✓",
+      "Posterior view or norma occipitalis",
+      "✓",
+      "Superior view or norma parietalis",
+      "First session of practical anatomy"
+    ],
+    "3": [
+      "Third session of practical anatomy",
+      "➢",
+      "External view of the base of the skull",
+      "➢",
+      "Internal view of the skull base"
+    ],
+    "4": [
+      "Fourth session of practical anatomy",
+      "➢",
+      "Neck vertebrae",
+      "➢",
+      "External (inferior) view of the base of the",
+      "skull"
+    ],
+    "5": [
+      "Fourth session of practical anatomy",
+      "➢",
+      "Neck muscles",
+      "➢",
+      "Neck vertebrae",
+      "➢",
+      "Neck trigonometry"
+    ]
+  },
+  "pages": 75,
+  "bookmarks": [
+    [
+      1,
+      "ساختار این جزوه و قاعدهٔ خواندن آن",
+      2
+    ],
+    [
+      2,
+      "قاعدهٔ ارجاع و علامت‌گذاری",
+      2
+    ],
+    [
+      1,
+      "فهرست مطالب",
+      3
+    ],
+    [
+      1,
+      "آناتومی عملی سر و گردن",
+      5
+    ],
+    [
+      2,
+      "نمای قدامی جمجمه و اربیت",
+      5
+    ],
+    [
+      2,
+      "فک پایین: نماهای خارجی و داخلی",
+      10
+    ],
+    [
+      2,
+      "نمای طرفی جمجمه و پتریون",
+      16
+    ],
+    [
+      2,
+      "نمای خلفی و سقف جمجمه",
+      21
+    ],
+    [
+      2,
+      "قاعدهٔ جمجمه از داخل",
+      28
+    ],
+    [
+      2,
+      "قاعدهٔ جمجمه از خارج",
+      33
+    ],
+    [
+      2,
+      "مهره‌های گردنی و اطلس و آکسیس",
+      38
+    ],
+    [
+      2,
+      "عضلات گردن در نماهای عملی",
+      57
+    ],
+    [
+      2,
+      "مثلث‌های گردن در نماهای عملی",
+      66
+    ],
+    [
+      1,
+      "جمع‌بندی و چک‌لیست",
+      74
+    ]
+  ],
+  "file": "pdf/HumsYar_HeadNeck_Jalase13_WRITER_FINAL.pdf",
+  "sha256": "f13b46763904add61cefab4a2d597c62f3bc6bdb6748ff934227df6137084c7b",
+  "bytes": 16697853,
+  "qa": {
+    "outside_spans": [],
+    "empty_pages": [],
+    "leaks": [],
+    "body_near_footer": []
+  }
+}
