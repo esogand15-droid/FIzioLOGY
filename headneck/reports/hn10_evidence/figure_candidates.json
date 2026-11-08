@@ -1,0 +1,124 @@
+{
+  "source": "علوم تشریح سر و گردن/جلسه 10 - اسکالپ و ناحیه تمپورال/Scalp &Temporal region.pdf",
+  "source_sha256": "22454afd66386faea0e1c182bb203ac0b90c936576fa00950c020c94f7ad0e5d",
+  "source_pages": 8,
+  "figures": [
+    {
+      "id": "01",
+      "source_label": "1",
+      "pdf_page": 1,
+      "asset": "headneck/images/hn10_candidates/lecture_01_p01.png",
+      "rect_overview_918x1188": [
+        40,
+        200,
+        865,
+        710
+      ],
+      "sha256": "132597ddefa5710f11a93b30ac7ddb67ee2876e478078d18b33d9f062c631d4d"
+    },
+    {
+      "id": "02",
+      "source_label": "2",
+      "pdf_page": 2,
+      "asset": "headneck/images/hn10_candidates/lecture_02_p02.png",
+      "rect_overview_918x1188": [
+        95,
+        585,
+        425,
+        860
+      ],
+      "sha256": "2e4f57dee14d58e7235f8bbef5243fd0f30d41b2e10be908ff172216055960d9"
+    },
+    {
+      "id": "03",
+      "source_label": "3",
+      "pdf_page": 3,
+      "asset": "headneck/images/hn10_candidates/lecture_03_p03.png",
+      "rect_overview_918x1188": [
+        50,
+        125,
+        423,
+        290
+      ],
+      "sha256": "970ec6fcd57d6887f8a51f3dcd135156a6be882f93db3efc6557797fb54e5abc"
+    },
+    {
+      "id": "04_temporal_upper",
+      "source_label": "4",
+      "pdf_page": 3,
+      "asset": "headneck/images/hn10_candidates/lecture_04_temporal_upper_p03.png",
+      "rect_overview_918x1188": [
+        85,
+        430,
+        400,
+        800
+      ],
+      "sha256": "479ad6c22c0b7a6eaa159c88ee8b4cd74f5a33eb485bda0f6776845d0f07eb7a"
+    },
+    {
+      "id": "04_temporal_lower",
+      "source_label": "4",
+      "pdf_page": 3,
+      "asset": "headneck/images/hn10_candidates/lecture_04_temporal_lower_p03.png",
+      "rect_overview_918x1188": [
+        95,
+        817,
+        400,
+        1045
+      ],
+      "sha256": "5c411bc8cf8aeac26e1f3ae0a0beaed1f6e6452340bc15d54d175fc8d0071b74"
+    },
+    {
+      "id": "04_vessels_nerves",
+      "source_label": "4",
+      "pdf_page": 4,
+      "asset": "headneck/images/hn10_candidates/lecture_04_vessels_nerves_p04.png",
+      "rect_overview_918x1188": [
+        50,
+        205,
+        810,
+        560
+      ],
+      "sha256": "24581b96b0998d83b0e06ff40a8a37007fd4a5f350c1300954231f66553e433b"
+    },
+    {
+      "id": "05_veins",
+      "source_label": "5",
+      "pdf_page": 5,
+      "asset": "headneck/images/hn10_candidates/lecture_05_veins_p05.png",
+      "rect_overview_918x1188": [
+        110,
+        170,
+        815,
+        570
+      ],
+      "sha256": "2ea5bf770ec5b087de1cd732e5d1592666f19183eca9460076e67a8c10f4dbda"
+    },
+    {
+      "id": "05_clinical",
+      "source_label": "5",
+      "pdf_page": 7,
+      "asset": "headneck/images/hn10_candidates/lecture_05_clinical_p07.png",
+      "rect_overview_918x1188": [
+        490,
+        300,
+        810,
+        575
+      ],
+      "sha256": "41ef1ebc92f9e97e938a24dd22792a92ba571f073de40e7d6ce67aaf4847284e"
+    },
+    {
+      "id": "06_clinical",
+      "source_label": "6",
+      "pdf_page": 7,
+      "asset": "headneck/images/hn10_candidates/lecture_06_clinical_p07.png",
+      "rect_overview_918x1188": [
+        115,
+        475,
+        425,
+        720
+      ],
+      "sha256": "fedae85e77b6e2969587f5870fb022554b35c59cc81ed8411d95ecd0b97d1e64"
+    }
+  ]
+}
