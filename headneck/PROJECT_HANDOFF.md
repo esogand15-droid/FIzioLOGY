@@ -290,3 +290,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## جلسهٔ ۱۰ — تکمیل تصاویر مرجع
 
 جدیدترین خروجی `pdf/HumsYar_HeadNeck_Jalase10_REFERENCE_AUDITED.pdf`، ۴۲ صفحه و ۲۵ قاب (۹ اصل درس، ۷ نتر، ۹ گری) و SHA-256 `d963c3ce870ace38203c21a68a1e543be16635b7c3d7f4aaa86dae4436abcc5f` است. هر هفت مبحث تصویر مرجع دارد؛ محدودهٔ جست‌وجو، تصمیم‌های حذف تکرار و حدود بررسی در `headneck/reports/HN_S10_REFERENCE_IMAGE_AUDIT.md` ثبت شده است. نسخهٔ پیشین محفوظ است.
+
+## جلسهٔ ۱۱ — صورت و ناحیهٔ پاروتید
+
+`pdf/HumsYar_HeadNeck_Jalase11_WRITER_FINAL.pdf`، ۶۳ صفحه، ۱۲ مبحث، ۳۸ قاب و دو نمودار؛ SHA-256 `c24f4aec85ac9745c817df18bb3b5f935c0d66ca31cf861dd0129e61e800ea73`. گزارش منابع، کنترل‌ها و حدود آن در `headneck/reports/HN_S11_WRITER_FINAL_REPORT.md` است. جلسهٔ ۷ همچنان به اصل صحیح نیاز دارد. جلسهٔ بعد طبق پوشه‌ها جلسهٔ ۱۲ جنین‌شناسی است.

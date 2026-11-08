@@ -1,0 +1,406 @@
+{
+  "topics": {
+    "hn11-T01": {
+      "page": 5,
+      "title": "حدود صورت و عضلات سطحی"
+    },
+    "hn11-T02": {
+      "page": 9,
+      "title": "عضلات عمقی و گروه‌های سطحی"
+    },
+    "hn11-T03": {
+      "page": 12,
+      "title": "عضلات چشم و بینی"
+    },
+    "hn11-T04": {
+      "page": 15,
+      "title": "عضلات دهان: بخش اول"
+    },
+    "hn11-T05": {
+      "page": 18,
+      "title": "عضلات دهان و گوشی"
+    },
+    "hn11-T06": {
+      "page": 23,
+      "title": "عضلات گوشی و شریان فاسیال"
+    },
+    "hn11-T07": {
+      "page": 26,
+      "title": "شاخه‌های صورتی و شریان گیجگاهی سطحی"
+    },
+    "hn11-T08": {
+      "page": 31,
+      "title": "شریان اینفرااوربیتال و آغاز وریدها"
+    },
+    "hn11-T09": {
+      "page": 36,
+      "title": "وریدهای صورت"
+    },
+    "hn11-T10": {
+      "page": 42,
+      "title": "عصب فاسیال و شاخه‌های آن"
+    },
+    "hn11-T11": {
+      "page": 50,
+      "title": "عصب حسی سه‌قلو در صورت"
+    },
+    "hn11-T12": {
+      "page": 56,
+      "title": "ناحیه و غدهٔ پاروتید"
+    }
+  },
+  "figures": [
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_01_p01.png",
+      "sha256": "c5df15d1e89494b36e2ab7bdafa5612fa824d80bab6a91ca3aae0a56625827ad",
+      "topic": "hn11-T01",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 1، شکل ۱"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_853.png",
+      "sha256": "72408bfcce767693e131b0166aa0bf2e89577974895f3bb3742e279f5e772ebc",
+      "topic": "hn11-T01",
+      "source": "گری، ویراست ۳، فصل ۸، صفحهٔ فایل ۱۳۲ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۰۴، شکل ۸.۵۳"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_100.png",
+      "sha256": "8a8694dc1efaa7171afee19ee2c7fec43ff90b2688239fb0e3c795d1979eb991",
+      "topic": "hn11-T01",
+      "source": "نتر، ویراست ۸، پلیت ۴۸، صفحهٔ فایل ۱۰۰"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_02_p02.png",
+      "sha256": "a1d91414bf66cb46c3eed2890eba30dac837af5acd7e39b7279e058aa83ed75a",
+      "topic": "hn11-T02",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 2، شکل ۲"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_124.png",
+      "sha256": "d5367322925dcbdb9e14b7add1e670e60fa53c3d939417c7f2dce52acaaf1419",
+      "topic": "hn11-T02",
+      "source": "نتر، پلیت ۷۲، صفحهٔ فایل ۱۲۴"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_854.png",
+      "sha256": "9c70146c72f29270799619ff96a9346eb2788d0938122dc0b9a372604606cece",
+      "topic": "hn11-T03",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۳۵ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۰۷، شکل ۸.۵۴"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_855.png",
+      "sha256": "11af2712170fe8231cc13852be1f1a4ee68aa4ce955d562cb1d35067efa8f6d6",
+      "topic": "hn11-T03",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۳۵ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۰۷، شکل ۸.۵۵"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_856.png",
+      "sha256": "e1687634bb603db509ac008fab96ccd7fb6450526f3d041768e42a22a6030d7f",
+      "topic": "hn11-T04",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۳۶ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۰۸، شکل ۸.۵۶"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_03_p05.png",
+      "sha256": "9ea80f3351d87807be0539d939f1b9b5fa8e40ee5ef67b878d7cd47ef0d47920",
+      "topic": "hn11-T05",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 5، شکل ۳"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_04_p06.png",
+      "sha256": "244f016ba8bf71b32234f1e9e2f211aae76d8db8807cf6195d767c1e1bf44fd1",
+      "topic": "hn11-T05",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 6، شکل ۴"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_857.png",
+      "sha256": "d9140291eed7515e77a0cba976c1966a9f07c3a76dcb1d7fb42d06ccf1b89c3b",
+      "topic": "hn11-T05",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۳۷ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۰۹، شکل ۸.۵۷"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_858.png",
+      "sha256": "4b9d441d2a99a0af901c353dee91f7fc4e3c059c715c0bf0e413c3749942cd46",
+      "topic": "hn11-T05",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۳۸ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۱۰، شکل ۸.۵۸"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_05_p08.png",
+      "sha256": "f0a99caea6f2d71973c44b53b1699b4e427c6e5a16fbb9d15f633b8ab8b84d6a",
+      "topic": "hn11-T06",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 8، شکل ۵"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_151.png",
+      "sha256": "d5eed10041dc36b0730dffb71aa8aecb52d464a6e348429fab79f20d3d449666",
+      "topic": "hn11-T06",
+      "source": "نتر، پلیت ۹۹، صفحهٔ فایل ۱۵۱"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_06_p09.png",
+      "sha256": "1c426039910f03ce3c9d954b92134492bdd09625611e0fdf955166ba10475c97",
+      "topic": "hn11-T07",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 9، شکل ۶"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_112.png",
+      "sha256": "478ff2ac9ef3e6365612469492136cf6060a0e5e45269cbfb7d4fb02164418e0",
+      "topic": "hn11-T07",
+      "source": "نتر، پلیت ۶۰، صفحهٔ فایل ۱۱۲"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_864.png",
+      "sha256": "2b26e5f6bfd83bc9f3458429c7d41d491f23bbad4281539174f51c1d40ec90b1",
+      "topic": "hn11-T07",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۴۶ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۱۸، شکل ۸.۶۴"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_07_p11.png",
+      "sha256": "13941573005184b528aa9d4bd107a0020605c0e3e9fffd06d33173012c4a3632",
+      "topic": "hn11-T08",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 11، شکل ۷"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_08_p11.png",
+      "sha256": "9432a4aab71fc1b10db9faca1ed66ae20b5064966cd9660948e162ca2ec4cc7d",
+      "topic": "hn11-T08",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 11، شکل ۸"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_09_p12.png",
+      "sha256": "4d0d4c2d33ea13632b17af70b1cbfc9311a8e42403e1e31ff887b01d9395434c",
+      "topic": "hn11-T08",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 12، شکل ۹"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_167.png",
+      "sha256": "c78ceb67a0d55fbc91b0299811f432a577e15f9a8336c21152f9bca6579009b6",
+      "topic": "hn11-T08",
+      "source": "نتر، پلیت ۱۱۵، صفحهٔ فایل ۱۶۷"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_10_p13.png",
+      "sha256": "14c39295b4eb45a492694612df7e3cc2b741d9c9e7f44d6aa68e3eacbc9adbf5",
+      "topic": "hn11-T09",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 13، شکل ۱۰"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_152.png",
+      "sha256": "67bb62ead5cbebdef972b139be9e2264a2d1517c54ab3a636b40d6297a8da841",
+      "topic": "hn11-T09",
+      "source": "نتر، پلیت ۱۰۰، صفحهٔ فایل ۱۵۲"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_865.png",
+      "sha256": "eb3440e251087484a4db9be4e38f885ec823072894f69c2a61f580f9b9f86034",
+      "topic": "hn11-T09",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۴۸ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۲۰، شکل ۸.۶۵"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_866.png",
+      "sha256": "8cc59652ec32dbdedf7184e81d8c8702a2b637ccd0343d3dda19eb14a0f90ca4",
+      "topic": "hn11-T09",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۴۸ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۲۰، شکل ۸.۶۶"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_11_p15.png",
+      "sha256": "774629abd937351f77e7ad5135b7cd9f8faeafb8c44fc18d6f77ea8f24297d6d",
+      "topic": "hn11-T10",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 15، شکل ۱۱"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_202.png",
+      "sha256": "bfc7f9f3d0b86a0b1a8152d3048760a03bb9360ab8d8b0b8e445a6dd93a87ef4",
+      "topic": "hn11-T10",
+      "source": "نتر، پلیت ۱۵۰، صفحهٔ فایل ۲۰۲"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_213.png",
+      "sha256": "a786de5e6b06ab27cad780ccaef72fcb562ca553498956d1746b24d14990d456",
+      "topic": "hn11-T10",
+      "source": "نتر، پلیت ۱۶۱، صفحهٔ فایل ۲۱۳"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_863.png",
+      "sha256": "e29a0326e1002dab2f2f579e702b1962785fc31ba0e4eda03974839823248762",
+      "topic": "hn11-T10",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۴۵ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۱۷، شکل ۸.۶۳"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_12_p17.png",
+      "sha256": "7484741ea55055651e199726ae49ec51bae99ae892bb206dbac251fb82bb1e10",
+      "topic": "hn11-T11",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 17، شکل ۱۲"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_13_p18.png",
+      "sha256": "47368a983e0c76f7ee5b2d1f257553fff7bca5c06770542797bd9aa204e4f2c2",
+      "topic": "hn11-T11",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 18، شکل ۱۳"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_131.png",
+      "sha256": "2e4072945de5535dda133b6d7fed6790fea45821b2ebb2f5915409a00a047681",
+      "topic": "hn11-T11",
+      "source": "نتر، پلیت ۷۹، صفحهٔ فایل ۱۳۱"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_861.png",
+      "sha256": "22527a36841b23e69a935f07c6cd1ed0a74484ae5dd377ba789933654debf847",
+      "topic": "hn11-T11",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۴۲ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۱۴، شکل ۸.۶۱"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_862.png",
+      "sha256": "29acb3f66901072f5bea9f0739e55cd0543361f83ce0f761b09790bfca83f451",
+      "topic": "hn11-T11",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۴۳ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۱۵، شکل ۸.۶۲"
+    },
+    {
+      "asset": "headneck/images/hn11_candidates/lecture_figure_14_p19.png",
+      "sha256": "a2e92a909f70a544f9351b46c046dfd09086772c7df7bbbfdac0598eb7e3cb40",
+      "topic": "hn11-T12",
+      "source": "جزوهٔ جلسهٔ ۱۱، صفحهٔ فایل 19، شکل ۱۴"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_860.png",
+      "sha256": "8fdc6972bf1f1e5f9bcfd44f8e37af36cbd89717122653027b19c3c7196b4040",
+      "topic": "hn11-T12",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۴۱ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۱۳، شکل ۸.۶۰"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/netter_122.png",
+      "sha256": "17dba9dd63867bb638fac9d11d58ee15ded9af02d7908a01d950ffd6aa0b7a71",
+      "topic": "hn11-T12",
+      "source": "نتر، پلیت ۷۰، صفحهٔ فایل ۱۲۲"
+    },
+    {
+      "asset": "headneck/images/hn11_refs/gray_859.png",
+      "sha256": "7110cddbf5b46371f5d4f1187c7c254c9931ffb14b436a8cef95cd30c1829e11",
+      "topic": "hn11-T12",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۳۹ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۱۱، شکل ۸.۵۹"
+    }
+  ],
+  "source_paragraphs": {
+    "1": 7,
+    "2": 7,
+    "3": 16,
+    "4": 11,
+    "5": 10,
+    "6": 3,
+    "7": 6,
+    "8": 1,
+    "9": 5,
+    "10": 10,
+    "11": 3,
+    "12": 5,
+    "13": 6,
+    "14": 12,
+    "15": 7,
+    "16": 7,
+    "17": 5,
+    "18": 3,
+    "19": 4,
+    "20": 3
+  },
+  "pages": 63,
+  "bookmarks": [
+    [
+      1,
+      "ساختار این جزوه و قاعدهٔ خواندن آن",
+      2
+    ],
+    [
+      2,
+      "قاعدهٔ ارجاع و علامت‌گذاری",
+      2
+    ],
+    [
+      1,
+      "فهرست مطالب",
+      3
+    ],
+    [
+      1,
+      "صورت و ناحیهٔ پاروتید",
+      5
+    ],
+    [
+      2,
+      "حدود صورت و عضلات سطحی",
+      5
+    ],
+    [
+      2,
+      "عضلات عمقی و گروه‌های سطحی",
+      9
+    ],
+    [
+      2,
+      "عضلات چشم و بینی",
+      12
+    ],
+    [
+      2,
+      "عضلات دهان: بخش اول",
+      15
+    ],
+    [
+      2,
+      "عضلات دهان و گوشی",
+      18
+    ],
+    [
+      2,
+      "عضلات گوشی و شریان فاسیال",
+      23
+    ],
+    [
+      2,
+      "شاخه‌های صورتی و شریان گیجگاهی سطحی",
+      26
+    ],
+    [
+      2,
+      "شریان اینفرااوربیتال و آغاز وریدها",
+      31
+    ],
+    [
+      2,
+      "وریدهای صورت",
+      36
+    ],
+    [
+      2,
+      "عصب فاسیال و شاخه‌های آن",
+      42
+    ],
+    [
+      2,
+      "عصب حسی سه‌قلو در صورت",
+      50
+    ],
+    [
+      2,
+      "ناحیه و غدهٔ پاروتید",
+      56
+    ],
+    [
+      1,
+      "جمع‌بندی و چک‌لیست",
+      62
+    ],
+    [
+      1,
+      "قدم بعدی: چه چیزی در جلسهٔ بعد می‌آید",
+      62
+    ]
+  ],
+  "file": "pdf/HumsYar_HeadNeck_Jalase11_WRITER_FINAL.pdf",
+  "sha256": "c24f4aec85ac9745c817df18bb3b5f935c0d66ca31cf861dd0129e61e800ea73",
+  "bytes": 55084821,
+  "qa": {
+    "outside_spans": [],
+    "empty_pages": [],
+    "leaks": [],
+    "body_near_footer": []
+  }
+}
