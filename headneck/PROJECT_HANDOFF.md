@@ -294,3 +294,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## جلسهٔ ۱۱ — صورت و ناحیهٔ پاروتید
 
 `pdf/HumsYar_HeadNeck_Jalase11_WRITER_FINAL.pdf`، ۶۳ صفحه، ۱۲ مبحث، ۳۸ قاب و دو نمودار؛ SHA-256 `c24f4aec85ac9745c817df18bb3b5f935c0d66ca31cf861dd0129e61e800ea73`. گزارش منابع، کنترل‌ها و حدود آن در `headneck/reports/HN_S11_WRITER_FINAL_REPORT.md` است. جلسهٔ ۷ همچنان به اصل صحیح نیاز دارد. جلسهٔ بعد طبق پوشه‌ها جلسهٔ ۱۲ جنین‌شناسی است.
+
+## جلسهٔ ۱۲ — شروع کار
+
+اصل ۱۵صفحه‌ای جنین‌شناسی با SHA `5d56f0aad7f93be2a42b4de41d6fb7793c31dd3af6c171a9fcc0b7f8dea021a4` شناسایی و همهٔ صفحات رندر و مشاهده شدند. ۲۶ قاب اصل، شامل دو تصویر شمارهٔ ۱۳، جداگانه برش داده شده است. رونوشت اولیهٔ صفحهٔ ۱ شروع شده و نیازمند مقابله است؛ صفحات ۲–۱۴، بررسی منابع، ساخت و آزمون PDF مادر باقی است. جزئیات و نقشهٔ صفحات در `headneck/reports/HN_S12_SOURCE_INVENTORY.md`.

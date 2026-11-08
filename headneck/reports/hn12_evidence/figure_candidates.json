@@ -1,0 +1,345 @@
+{
+  "source": "علوم تشریح سر و گردن/جلسه 12 - جنین شناسی/Skull embryology .pdf",
+  "source_sha256": "5d56f0aad7f93be2a42b4de41d6fb7793c31dd3af6c171a9fcc0b7f8dea021a4",
+  "figure_count": 26,
+  "figures": [
+    {
+      "source_page": 1,
+      "printed_figure": "1",
+      "name": "somite",
+      "rect_normalized": [
+        0.06,
+        0.1,
+        0.4,
+        0.29
+      ],
+      "file": "headneck/images/hn12_candidates/p01_fig1_somite.png",
+      "sha256": "6bf68b9cb8365e7a0ae3c19f70d08083590d327d5f9e758de83163291bffddae"
+    },
+    {
+      "source_page": 1,
+      "printed_figure": "2",
+      "name": "somite_development",
+      "rect_normalized": [
+        0.05,
+        0.36,
+        0.39,
+        0.58
+      ],
+      "file": "headneck/images/hn12_candidates/p01_fig2_somite_development.png",
+      "sha256": "d9b53f9e946dc7f66753bd7836f3d8b200bfd94625a46e60f3ad201a2f0caa45"
+    },
+    {
+      "source_page": 1,
+      "printed_figure": "3",
+      "name": "embryo_somites",
+      "rect_normalized": [
+        0.06,
+        0.65,
+        0.4,
+        0.86
+      ],
+      "file": "headneck/images/hn12_candidates/p01_fig3_embryo_somites.png",
+      "sha256": "339223a287b43f8550f2b414871c2590280a68673461f0f9b16df9be819d7fd2"
+    },
+    {
+      "source_page": 2,
+      "printed_figure": "4",
+      "name": "skeletal_origins",
+      "rect_normalized": [
+        0.53,
+        0.48,
+        0.96,
+        0.68
+      ],
+      "file": "headneck/images/hn12_candidates/p02_fig4_skeletal_origins.png",
+      "sha256": "4334798b8f15228538538edeabe7fb177a0756c58032d0049e55f1852a852615"
+    },
+    {
+      "source_page": 2,
+      "printed_figure": "5",
+      "name": "skull_ossification",
+      "rect_normalized": [
+        0.03,
+        0.39,
+        0.46,
+        0.57
+      ],
+      "file": "headneck/images/hn12_candidates/p02_fig5_skull_ossification.png",
+      "sha256": "8d0405734a249cbcd3eaa3a42238926b70dbac3d52014c393033c40cd7abee17"
+    },
+    {
+      "source_page": 3,
+      "printed_figure": "6",
+      "name": "anterior_posterior_fontanelles",
+      "rect_normalized": [
+        0.06,
+        0.09,
+        0.39,
+        0.36
+      ],
+      "file": "headneck/images/hn12_candidates/p03_fig6_anterior_posterior_fontanelles.png",
+      "sha256": "fa7c76352eb4d0bf1abd5ce69a40d62c574fda2547a2251192fc2238ec10761e"
+    },
+    {
+      "source_page": 3,
+      "printed_figure": "7",
+      "name": "sphenoid_mastoid_fontanelles",
+      "rect_normalized": [
+        0.06,
+        0.43,
+        0.39,
+        0.66
+      ],
+      "file": "headneck/images/hn12_candidates/p03_fig7_sphenoid_mastoid_fontanelles.png",
+      "sha256": "aa06190d348d76200cac32d2a0843cd500e20c4309ad63468bb00513e5e56b93"
+    },
+    {
+      "source_page": 4,
+      "printed_figure": "8",
+      "name": "chondrocranium",
+      "rect_normalized": [
+        0.06,
+        0.08,
+        0.39,
+        0.35
+      ],
+      "file": "headneck/images/hn12_candidates/p04_fig8_chondrocranium.png",
+      "sha256": "8b218ce7931773d50d85812e1f39441b247921a784e062f1e8ca6950824e5aae"
+    },
+    {
+      "source_page": 4,
+      "printed_figure": "9",
+      "name": "arches_pouches_vessels",
+      "rect_normalized": [
+        0.04,
+        0.69,
+        0.42,
+        0.87
+      ],
+      "file": "headneck/images/hn12_candidates/p04_fig9_arches_pouches_vessels.png",
+      "sha256": "d6f7fc18e129935efe50b0c3bce09b473e28c6ae4f1b2433cd9fb7ce85ce34c6"
+    },
+    {
+      "source_page": 5,
+      "printed_figure": "10",
+      "name": "stomodeum",
+      "rect_normalized": [
+        0.05,
+        0.1,
+        0.41,
+        0.37
+      ],
+      "file": "headneck/images/hn12_candidates/p05_fig10_stomodeum.png",
+      "sha256": "0e3e5ed1f4ebc0b0f99f582f0ef041bf7b25fc2582012564e22373ddbfee9b90"
+    },
+    {
+      "source_page": 5,
+      "printed_figure": "11",
+      "name": "facial_prominences",
+      "rect_normalized": [
+        0.05,
+        0.41,
+        0.41,
+        0.7
+      ],
+      "file": "headneck/images/hn12_candidates/p05_fig11_facial_prominences.png",
+      "sha256": "cab329038ff7e3fc66dcf76f9b59b74ae242125225875b8a693083fa1707461d"
+    },
+    {
+      "source_page": 6,
+      "printed_figure": "12",
+      "name": "arch_components",
+      "rect_normalized": [
+        0.06,
+        0.09,
+        0.4,
+        0.34
+      ],
+      "file": "headneck/images/hn12_candidates/p06_fig12_arch_components.png",
+      "sha256": "c2460a67d2dd1902fc77eb965c3725313e5b216e91b280a63af5beea98c1fac5"
+    },
+    {
+      "source_page": 6,
+      "printed_figure": "13",
+      "name": "arch_innervation",
+      "rect_normalized": [
+        0.05,
+        0.42,
+        0.41,
+        0.59
+      ],
+      "file": "headneck/images/hn12_candidates/p06_fig13_arch_innervation.png",
+      "sha256": "6b9353ce02a080df921db0dc7d60fd539898fce995af0e9cd7f75122682c05a6"
+    },
+    {
+      "source_page": 7,
+      "printed_figure": "13",
+      "name": "arch_cartilages",
+      "rect_normalized": [
+        0.08,
+        0.08,
+        0.48,
+        0.38
+      ],
+      "file": "headneck/images/hn12_candidates/p07_fig13_arch_cartilages.png",
+      "sha256": "9608bf2718682ddb30243287e8a5f7fad62c464db2b3d24f147edd6b414d151c"
+    },
+    {
+      "source_page": 7,
+      "printed_figure": "14",
+      "name": "embryonic_arch_cartilages",
+      "rect_normalized": [
+        0.52,
+        0.45,
+        0.91,
+        0.72
+      ],
+      "file": "headneck/images/hn12_candidates/p07_fig14_embryonic_arch_cartilages.png",
+      "sha256": "b469fcf0e94514066d2bad9948f80382db192e764bdd0960f835ae51227fe4df"
+    },
+    {
+      "source_page": 7,
+      "printed_figure": "15",
+      "name": "arch_derivatives",
+      "rect_normalized": [
+        0.06,
+        0.47,
+        0.47,
+        0.74
+      ],
+      "file": "headneck/images/hn12_candidates/p07_fig15_arch_derivatives.png",
+      "sha256": "ba75420936f5f6f8cd986b3cbbafbe7b8018f33fc48363f35b68f306e353454d"
+    },
+    {
+      "source_page": 9,
+      "printed_figure": "16",
+      "name": "pharyngeal_pouches",
+      "rect_normalized": [
+        0.05,
+        0.09,
+        0.42,
+        0.29
+      ],
+      "file": "headneck/images/hn12_candidates/p09_fig16_pharyngeal_pouches.png",
+      "sha256": "dc75ba5bbf6afdb530dc4c0aa4a08f9a80b67e077ac8a7add461a5ec1e5cc437"
+    },
+    {
+      "source_page": 9,
+      "printed_figure": "17",
+      "name": "pouches_anterior_view",
+      "rect_normalized": [
+        0.03,
+        0.34,
+        0.45,
+        0.57
+      ],
+      "file": "headneck/images/hn12_candidates/p09_fig17_pouches_anterior_view.png",
+      "sha256": "cebc76e2f5880d5393451f57f5f5edb16837ee8d9528ef2931ceb5d2ba996169"
+    },
+    {
+      "source_page": 9,
+      "printed_figure": "18",
+      "name": "pouches_5_6_weeks",
+      "rect_normalized": [
+        0.03,
+        0.63,
+        0.45,
+        0.83
+      ],
+      "file": "headneck/images/hn12_candidates/p09_fig18_pouches_5_6_weeks.png",
+      "sha256": "83b137f20fe61b70fb4878f720a1da15cc820737f09258c555661468d64e64f2"
+    },
+    {
+      "source_page": 10,
+      "printed_figure": "19",
+      "name": "pouch_development",
+      "rect_normalized": [
+        0.12,
+        0.09,
+        0.85,
+        0.54
+      ],
+      "file": "headneck/images/hn12_candidates/p10_fig19_pouch_development.png",
+      "sha256": "6d6d70c66d29cb2be2962930471b118b3fed6792b37ed68a4dc3e59b762e0aea"
+    },
+    {
+      "source_page": 11,
+      "printed_figure": "20",
+      "name": "pouches_median_section",
+      "rect_normalized": [
+        0.15,
+        0.48,
+        0.85,
+        0.83
+      ],
+      "file": "headneck/images/hn12_candidates/p11_fig20_pouches_median_section.png",
+      "sha256": "fd5e6da060f65f769b14fb53eadb4928070c4c26f54459172d5a648846093431"
+    },
+    {
+      "source_page": 12,
+      "printed_figure": "21",
+      "name": "grooves_6_7_weeks_a",
+      "rect_normalized": [
+        0.2,
+        0.14,
+        0.91,
+        0.48
+      ],
+      "file": "headneck/images/hn12_candidates/p12_fig21_grooves_6_7_weeks_a.png",
+      "sha256": "83792adacdcc399db42dfff9f135eb3456a13f237a86b25d3b4ea598bfad98c2"
+    },
+    {
+      "source_page": 12,
+      "printed_figure": "22",
+      "name": "grooves_6_7_weeks_b",
+      "rect_normalized": [
+        0.23,
+        0.55,
+        0.91,
+        0.87
+      ],
+      "file": "headneck/images/hn12_candidates/p12_fig22_grooves_6_7_weeks_b.png",
+      "sha256": "e2cdd15208c5cc604ced627cfb396bca831c0ef35a666a44a9872c92c7a6cc9b"
+    },
+    {
+      "source_page": 13,
+      "printed_figure": "23",
+      "name": "pouch_groove_anomalies",
+      "rect_normalized": [
+        0.14,
+        0.37,
+        0.89,
+        0.83
+      ],
+      "file": "headneck/images/hn12_candidates/p13_fig23_pouch_groove_anomalies.png",
+      "sha256": "e1cdb0f26caac9f66172961b3643cbf5cca1bb4531aa3fcd9f093c529d07af91"
+    },
+    {
+      "source_page": 14,
+      "printed_figure": "24",
+      "name": "cervical_cyst_diagram",
+      "rect_normalized": [
+        0.36,
+        0.59,
+        0.95,
+        0.84
+      ],
+      "file": "headneck/images/hn12_candidates/p14_fig24_cervical_cyst_diagram.png",
+      "sha256": "94a9174d2af6e55b7cb290fee2c1326bade058a5cc3d26999b7e8e60d458a870"
+    },
+    {
+      "source_page": 14,
+      "printed_figure": "25",
+      "name": "cervical_cyst_photo",
+      "rect_normalized": [
+        0.05,
+        0.59,
+        0.36,
+        0.84
+      ],
+      "file": "headneck/images/hn12_candidates/p14_fig25_cervical_cyst_photo.png",
+      "sha256": "0e4575f84b1761f8de399b64e6cdc94e7c563fbb3bc7bc07cf61a48aff00056c"
+    }
+  ]
+}
