@@ -368,7 +368,12 @@ def checklist_page(k, data):
     k.h2("ب) خودآزمایی")
     k.para(data["selftest_intro"], size=9, space_after=2 * mm)
     k.numbered(data["selftest"], size=9)
-    k.box("پاسخ‌ها", data["selftest_answers"], kind="note", size=8.2)
+    ans = data["selftest_answers"]
+    chunks = list(ans) if isinstance(ans, (list, tuple)) else [ans]
+    for i, ch in enumerate(chunks):
+        if i:
+            k.new_page("body")
+        k.box("پاسخ‌ها" if i == 0 else "پاسخ‌ها (ادامه)", ch, kind="note", size=8.2)
 
 
 def closing_note(k, title="یادداشت پایانی جلسه"):
