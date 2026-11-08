@@ -65,7 +65,7 @@ def build(entries, out_path):
     k = Kit(out_path, os.path.join(ROOT, "assets", "fonts"), META)
     furniture.cover(k, front.COVER)
     furniture.guide_page(k, front.GUIDE)
-    furniture.toc(k, entries, CLUSTERS, entry_step=8.2, cluster_step=8.9)
+    furniture.toc(k, entries, CLUSTERS, entry_step=7.0, cluster_step=7.8)
     furniture.session_opener(k, front.OPENER)
     furniture.closing_note(k, "یادداشت برنامه‌ریزی: تقسیم کار تیم روی ۲۶ مبحث")
     for blocks in MABAHES_S4_A:
