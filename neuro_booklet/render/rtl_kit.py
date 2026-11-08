@@ -400,27 +400,26 @@ class Kit:
             h = max(hs) * lh + 2 * pad
             body_rows.append((r, h))
 
-        # اگر جدول در یک صفحه جا می‌شود، تکه‌تکه نشود
-        need = hh + sum(h for _, h in body_rows) + 4 * mm + (7 * mm if caption else 0)
-        page_room = PAGE_H - M_TOP - (M_BOT + 4 * mm)
-        if need <= page_room and not self.space(need):
-            self.new_page(self.cur_kind)
+        # تصمیم یک‌باره برای شکستن جدول (بدون سرصفحهٔ یتیم)
+        cap_extra = 7 * mm if caption else 0
+        avail_now = self.y - (M_BOT + 4 * mm) - cap_extra
+        fit_h, n_fit = hh, 0
+        for _, rh in body_rows:
+            if fit_h + rh + 2 * mm > avail_now:
+                break
+            fit_h += rh
+            n_fit += 1
+        if n_fit < len(body_rows):
+            if n_fit < 4 or (len(body_rows) - n_fit) < 3:
+                self.new_page(self.cur_kind)
 
-        if caption:
-            self.ensure(12 * mm)
-            self.c.setFillColor(HexColor(C["ink2"]))
-            self.c.setFont(self.F["sb"], 9)
-            self.c.drawRightString(self.right, self.y - 3.4 * mm, self.shape(caption))
-            self.y -= 6.2 * mm
-
-        # شروع جدول؛ در صورت نیاز شکستن بین صفحات
         def draw_header(top):
             x = self.right
             self.c.setFillColor(HexColor(C["ink"]))
             self.c.rect(self.left, top - hh, self.maxw, hh, stroke=0, fill=1)
-            for i, h in enumerate(headers):
+            for i, htxt in enumerate(headers):
                 w = ws[i]
-                lines = hdr_lines(h, i, w)
+                lines = hdr_lines(htxt, i, w)
                 yy = top - pad - size * 0.95
                 self.c.setFillColor(HexColor("#ffffff"))
                 self.c.setFont(self.F["sb"], header_size)
@@ -430,9 +429,13 @@ class Kit:
                 x -= w
             return top - hh
 
-        if not self.space(hh + (body_rows[0][1] if body_rows else 0) + 6 * mm):
-            self.new_page(self.cur_kind)
-        self.ensure(18 * mm)
+        if caption:
+            self.ensure(12 * mm)
+            self.c.setFillColor(HexColor(C["ink2"]))
+            self.c.setFont(self.F["sb"], 9)
+            self.c.drawRightString(self.right, self.y - 3.4 * mm, self.shape(caption))
+            self.y -= 6.2 * mm
+
         top = self.y
         y = draw_header(top)
         alt = False
@@ -574,15 +577,40 @@ class Kit:
         iw, ih = Image.open(img).size
         boxw = self.maxw * width_ratio
         boxh = (max_h or 92 * mm)
-        r = min(boxw / iw, boxh / ih)
-        w, h = iw * r, ih * r
-        cap_lines = [v for (_, v, _) in self.wrap(caption, "r", 8.4, self.maxw - 4 * mm)]
-        cap_h = len(cap_lines) * 8.4 * 1.62 + 2 * mm
+
+        label = f"شکل {fa(self.fig_no + 1)} — "
+        lab_w = self.tw(label, "sb", 8.4)
+
+        limit = self.maxw - lab_w - 4 * mm
+        words = str(caption).split()
+        cur, taken = "", 0
+        for wd in words:
+            trial = (cur + " " + wd).strip()
+            if self.tw(trial, "r", 8.4) <= limit:
+                cur, taken = trial, taken + 1
+            else:
+                break
+        first_line, rest = cur, " ".join(words[taken:])
+        rest_lines = [v for (_, v, _) in self.wrap(rest, "r", 8.4, self.maxw - 4 * mm)] if rest else []
+        cap_h = (1 + len(rest_lines)) * 8.4 * 1.62 + 2 * mm
         src_lines = [v for (_, v, _) in self.wrap(source, "r", 7.2, self.maxw - 4 * mm)]
         src_h = len(src_lines) * 7.2 * 1.55 + 1 * mm
+
+        r = min(boxw / iw, boxh / ih)
+        w, h = iw * r, ih * r
         total = h + cap_h + src_h + 6 * mm
         if not self.space(total):
-            self.new_page(self.cur_kind)
+            # اگر با کوچک‌کردن شکل در همین صفحه جا می‌شود، صفحه را نشکن
+            avail = self.y - (M_BOT + 4 * mm)
+            need_min = 46 * mm + cap_h + src_h + 6 * mm
+            if avail >= need_min:
+                boxh = avail - cap_h - src_h - 6 * mm
+                r = min(boxw / iw, boxh / ih)
+                w, h = iw * r, ih * r
+                total = h + cap_h + src_h + 6 * mm
+            else:
+                self.new_page(self.cur_kind)
+
         self.fig_no += 1
         top = self.y
         x0 = self.right - self.maxw + (self.maxw - w) / 2
@@ -596,11 +624,13 @@ class Kit:
         yy = top - h - 2 * mm - 4.2 * mm
         self.c.setFillColor(HexColor(C["ink2"]))
         self.c.setFont(self.F["sb"], 8.4)
-        label = f"شکل {fa(self.fig_no)} — "
-        self.c.drawRightString(self.right, yy, self.shape(label) + cap_lines[0] if cap_lines else label)
-        yy -= 8.4 * 1.62
+        self.c.drawRightString(self.right, yy, self.shape(label))
+        if first_line:
+            self.c.setFont(self.F["r"], 8.4)
+            self.c.drawRightString(self.right - lab_w - 0.8 * mm, yy, self.shape(first_line))
         self.c.setFont(self.F["r"], 8.4)
-        for ln in cap_lines[1:]:
+        yy -= 8.4 * 1.62
+        for ln in rest_lines:
             self.c.drawRightString(self.right, yy, ln)
             yy -= 8.4 * 1.62
         self.c.setFillColor(HexColor(C["gray"]))

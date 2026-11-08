@@ -356,6 +356,14 @@ def checklist_page(k, data):
     k.box("پاسخ‌ها", data["selftest_answers"], kind="note", size=8.2)
 
 
+def closing_note(k, title="یادداشت پایانی جلسه"):
+    """پرکردن فضای باقی‌ماندهٔ صفحهٔ پایانی با کادر خط‌دار."""
+    from reportlab.lib.units import mm as _mm
+    avail = k.y - (19 * _mm + 4 * _mm)
+    if avail >= 40 * _mm:
+        k.note_area(title, lines=max(3, int((avail - 18 * _mm) / 7.6 / _mm)), height=avail - 4 * _mm)
+
+
 def back_cover(k, data):
     k.new_page("back")
     c = k.c

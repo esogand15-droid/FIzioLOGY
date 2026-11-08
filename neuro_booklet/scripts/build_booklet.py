@@ -17,6 +17,9 @@ from content_render import render_mabhas  # noqa: E402
 import front  # noqa: E402
 from m01_m10 import MABAHES_A  # noqa: E402
 from m11_m23 import MABAHES_B  # noqa: E402
+import fig_patch  # noqa: E402
+
+fig_patch.apply_extra([MABAHES_A, MABAHES_B])
 
 OUT_DIR = os.path.join(ROOT, "pdf")
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -47,11 +50,13 @@ def build(entries, out_path):
     furniture.guide_page(k, front.GUIDE)
     furniture.toc(k, entries, CLUSTERS)
     furniture.session_opener(k, front.OPENER)
+    furniture.closing_note(k, "یادداشت برنامه‌ریزی: تقسیم کار تیم روی ۲۳ مبحث")
     for blocks in MABAHES_A:
         render_mabhas(k, blocks)
     for blocks in MABAHES_B:
         render_mabhas(k, blocks)
     furniture.checklist_page(k, front.CHECK)
+    furniture.closing_note(k, "یادداشت پایانی جلسه")
     furniture.back_cover(k, front.BACK)
     k.save()
     return k

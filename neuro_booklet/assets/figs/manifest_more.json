@@ -1,0 +1,282 @@
+[
+ {
+  "key": "g05_ganong_fig7_3",
+  "source": "ganong",
+  "page": 341,
+  "fig": "Fig 7-3 fate of monoamines",
+  "px": [
+   1144,
+   987
+  ],
+  "rect": [
+   120.2,
+   72.0,
+   491.8,
+   392.4
+  ],
+  "src_px": [
+   516,
+   445
+  ]
+ },
+ {
+  "key": "g06_ganong_fig7_2",
+  "source": "ganong",
+  "page": 337,
+  "fig": "Fig 7-2 four diffuse systems",
+  "px": [
+   1438,
+   1327
+  ],
+  "rect": [
+   72.0,
+   185.8,
+   540.0,
+   617.0
+  ],
+  "src_px": [
+   1008,
+   929
+  ]
+ },
+ {
+  "key": "g07_ganong_tab7_1",
+  "source": "ganong",
+  "page": 339,
+  "fig": "Table 7-1 transmembrane signaling",
+  "px": [
+   1438,
+   1253
+  ],
+  "rect": [
+   72.0,
+   240.5,
+   540.0,
+   648.0
+  ],
+  "src_px": [
+   1063,
+   926
+  ]
+ },
+ {
+  "key": "g08_ganong_fig7_4",
+  "source": "ganong",
+  "page": 343,
+  "fig": "Fig 7-4 glutamatergic synapse",
+  "px": [
+   1438,
+   1843
+  ],
+  "rect": [
+   72.0,
+   72.0,
+   540.0,
+   672.5
+  ],
+  "src_px": [
+   660,
+   847
+  ]
+ },
+ {
+  "key": "g09_ganong_fig7_5",
+  "source": "ganong",
+  "page": 345,
+  "fig": "Fig 7-5 NMDA receptor",
+  "px": [
+   994,
+   752
+  ],
+  "rect": [
+   144.7,
+   72.0,
+   467.3,
+   315.4
+  ],
+  "src_px": [
+   448,
+   338
+  ]
+ },
+ {
+  "key": "g10_ganong_fig7_8",
+  "source": "ganong",
+  "page": 353,
+  "fig": "Fig 7-8 nicotinic ACh receptor",
+  "px": [
+   1438,
+   804
+  ],
+  "rect": [
+   72.0,
+   370.1,
+   540.0,
+   630.7
+  ],
+  "src_px": [
+   800,
+   446
+  ]
+ },
+ {
+  "key": "g11_ganong_fig7_10",
+  "source": "ganong",
+  "page": 362,
+  "fig": "Fig 7-10 serotonin synapse",
+  "px": [
+   1418,
+   1689
+  ],
+  "rect": [
+   75.6,
+   152.6,
+   537.1,
+   702.7
+  ],
+  "src_px": [
+   641,
+   764
+  ]
+ },
+ {
+  "key": "g12_ganong_opioid",
+  "source": "ganong",
+  "page": 368,
+  "fig": "opioid receptor table",
+  "px": [
+   1137,
+   1183
+  ],
+  "rect": [
+   72.0,
+   72.0,
+   441.4,
+   456.5
+  ],
+  "src_px": [
+   513,
+   534
+  ]
+ },
+ {
+  "key": "s01_snell_fig2_1",
+  "source": "snell",
+  "page": 91,
+  "fig": "Fig 2-1 neuron",
+  "px": [
+   848,
+   1587
+  ],
+  "rect": [
+   168.8,
+   72.0,
+   443.2,
+   588.8
+  ],
+  "src_px": [
+   572,
+   1077
+  ]
+ },
+ {
+  "key": "s02_snell_fig2_3",
+  "source": "snell",
+  "page": 93,
+  "fig": "Fig 2-3 classification by neurites",
+  "px": [
+   990,
+   982
+  ],
+  "rect": [
+   145.5,
+   126.0,
+   466.5,
+   444.7
+  ],
+  "src_px": [
+   669,
+   664
+  ]
+ },
+ {
+  "key": "s03_snell_fig2_28",
+  "source": "snell",
+  "page": 134,
+  "fig": "Fig 2-28 neuroglial cells",
+  "px": [
+   990,
+   1255
+  ],
+  "rect": [
+   145.5,
+   72.0,
+   466.5,
+   480.0
+  ],
+  "src_px": [
+   669,
+   850
+  ]
+ },
+ {
+  "key": "s04_snell_fig3_12",
+  "source": "snell",
+  "page": 193,
+  "fig": "Fig 3-12 peripheral nerve",
+  "px": [
+   711,
+   1271
+  ],
+  "rect": [
+   191.3,
+   162.2,
+   421.2,
+   575.4
+  ],
+  "src_px": [
+   479,
+   861
+  ]
+ },
+ {
+  "key": "s05_snell_fig3_15",
+  "source": "snell",
+  "page": 197,
+  "fig": "Fig 3-15 ganglion photomicrograph",
+  "px": [
+   711,
+   557
+  ],
+  "rect": [
+   191.3,
+   313.5,
+   421.2,
+   493.2
+  ],
+  "src_px": [
+   479,
+   374
+  ]
+ },
+ {
+  "key": "s06_snell_fig3_14",
+  "source": "snell",
+  "page": 196,
+  "fig": "Fig 3-14 sensory ganglion",
+  "px": [
+   711,
+   924
+  ],
+  "rect": [
+   191.3,
+   72.0,
+   421.2,
+   371.7
+  ],
+  "src_px": [
+   479,
+   624
+  ]
+ }
+]
