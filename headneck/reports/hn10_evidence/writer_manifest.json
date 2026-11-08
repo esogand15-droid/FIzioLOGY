@@ -1,0 +1,192 @@
+{
+  "topics": {
+    "hn10-T01": {
+      "page": 5,
+      "title": "حدود و لایه‌های اسکالپ"
+    },
+    "hn10-T02": {
+      "page": 8,
+      "title": "ساختمان لایه‌ها و عضلهٔ اکسیپیتوفرونتالیس"
+    },
+    "hn10-T03": {
+      "page": 11,
+      "title": "پری‌کرانیوم و ناحیهٔ تمپورال سطحی"
+    },
+    "hn10-T04": {
+      "page": 15,
+      "title": "خون‌رسانی اسکالپ و گیجگاه"
+    },
+    "hn10-T05": {
+      "page": 18,
+      "title": "تخلیهٔ وریدی"
+    },
+    "hn10-T06": {
+      "page": 22,
+      "title": "وریدهای رابط و عصب‌دهی"
+    },
+    "hn10-T07": {
+      "page": 25,
+      "title": "نکات بالینی اسکالپ"
+    }
+  },
+  "figures": [
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_01_p01.png",
+      "sha256": "132597ddefa5710f11a93b30ac7ddb67ee2876e478078d18b33d9f062c631d4d",
+      "topic": "hn10-T01",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 1، شکل 01"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_76.png",
+      "sha256": "3de7fa0e1b73a638125865c14616d293f5c1dfca02b63fc1716a0cab794356d9",
+      "topic": "hn10-T01",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت ۲۴، صفحهٔ فایل 76"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_02_p02.png",
+      "sha256": "2e4f57dee14d58e7235f8bbef5243fd0f30d41b2e10be908ff172216055960d9",
+      "topic": "hn10-T02",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 2، شکل 02"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_03_p03.png",
+      "sha256": "970ec6fcd57d6887f8a51f3dcd135156a6be882f93db3efc6557797fb54e5abc",
+      "topic": "hn10-T03",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 3، شکل 03"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_04_temporal_upper_p03.png",
+      "sha256": "479ad6c22c0b7a6eaa159c88ee8b4cd74f5a33eb485bda0f6776845d0f07eb7a",
+      "topic": "hn10-T03",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 3، شکل ۴"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_04_temporal_lower_p03.png",
+      "sha256": "5c411bc8cf8aeac26e1f3ae0a0beaed1f6e6452340bc15d54d175fc8d0071b74",
+      "topic": "hn10-T03",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 3، شکل ۴"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_04_vessels_nerves_p04.png",
+      "sha256": "24581b96b0998d83b0e06ff40a8a37007fd4a5f350c1300954231f66553e433b",
+      "topic": "hn10-T04",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 4، شکل ۴"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_05_veins_p05.png",
+      "sha256": "2ea5bf770ec5b087de1cd732e5d1592666f19183eca9460076e67a8c10f4dbda",
+      "topic": "hn10-T05",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 5، شکل ۵"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_152.png",
+      "sha256": "67bb62ead5cbebdef972b139be9e2264a2d1517c54ab3a636b40d6297a8da841",
+      "topic": "hn10-T05",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت ۱۰۰، صفحهٔ فایل 152"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_75.png",
+      "sha256": "e4d1408c717dfc0d39459edc6a48622e5d2726c1264bb54639f8fbac0ef4b340",
+      "topic": "hn10-T06",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت ۲۳، صفحهٔ فایل 75"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_05_clinical_p07.png",
+      "sha256": "41ef1ebc92f9e97e938a24dd22792a92ba571f073de40e7d6ce67aaf4847284e",
+      "topic": "hn10-T07",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 7، شکل ۵"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_06_clinical_p07.png",
+      "sha256": "fedae85e77b6e2969587f5870fb022554b35c59cc81ed8411d95ecd0b97d1e64",
+      "topic": "hn10-T07",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 7، شکل 06_clinical"
+    }
+  ],
+  "source_paragraphs": {
+    "1": 5,
+    "2": 13,
+    "3": 13,
+    "4": 10,
+    "5": 7,
+    "6": 15,
+    "7": 10
+  },
+  "pages": 30,
+  "bookmarks": [
+    [
+      1,
+      "ساختار این جزوه و قاعدهٔ خواندن آن",
+      2
+    ],
+    [
+      2,
+      "قاعدهٔ ارجاع و علامت‌گذاری",
+      2
+    ],
+    [
+      1,
+      "فهرست مطالب",
+      3
+    ],
+    [
+      1,
+      "اسکالپ و ناحیهٔ تمپورال",
+      5
+    ],
+    [
+      2,
+      "حدود و لایه‌های اسکالپ",
+      5
+    ],
+    [
+      2,
+      "ساختمان لایه‌ها و عضلهٔ اکسیپیتوفرونتالیس",
+      8
+    ],
+    [
+      2,
+      "پری‌کرانیوم و ناحیهٔ تمپورال سطحی",
+      11
+    ],
+    [
+      2,
+      "خون‌رسانی اسکالپ و گیجگاه",
+      15
+    ],
+    [
+      2,
+      "تخلیهٔ وریدی",
+      18
+    ],
+    [
+      2,
+      "وریدهای رابط و عصب‌دهی",
+      22
+    ],
+    [
+      2,
+      "نکات بالینی اسکالپ",
+      25
+    ],
+    [
+      1,
+      "جمع‌بندی و چک‌لیست",
+      29
+    ],
+    [
+      1,
+      "قدم بعدی: چه چیزی در جلسهٔ بعد می‌آید",
+      29
+    ]
+  ],
+  "file": "pdf/HumsYar_HeadNeck_Jalase10_WRITER_FINAL.pdf",
+  "sha256": "fe55643ad7121840e95acbe39427769e7eeb1e9b9281792b0ad9c3657a249cf3",
+  "bytes": 12034735,
+  "qa": {
+    "outside_spans": [],
+    "empty_pages": [],
+    "leaks": [],
+    "body_near_footer": []
+  }
+}

@@ -282,3 +282,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## جلسهٔ ۹ — اعصاب گردن و غدهٔ تیروئید
 
 خروجی `pdf/HumsYar_HeadNeck_Jalase9_WRITER_FINAL.pdf` شامل ۵۷ صفحه، ۱۴ مبحث، ۳۳ تصویر و دو نمودار است؛ SHA-256 `9409bb4984b1827bf02c299d076dadf2438e48f56a1a4dcbfae513d99918951b`. جزئیات منابع، آزمون‌ها، بازبینی و حدود آن در `headneck/reports/HN_S09_WRITER_FINAL_REPORT.md` است؛ مقابلهٔ لفظی کامل و بازبینی علمی مستقل انجام نشده است. فایل اصل جلسهٔ ۷ هنوز در دسترس نیست و جلسهٔ ۹ جانشین آن محسوب نمی‌شود. جلسهٔ بعد طبق پوشه‌ها جلسهٔ ۱۰ اسکالپ و ناحیهٔ تمپورال است؛ ابتدا اصل آن بررسی شود.
+
+## جلسهٔ ۱۰ — اسکالپ و ناحیهٔ تمپورال
+
+`pdf/HumsYar_HeadNeck_Jalase10_WRITER_FINAL.pdf`، ۳۰ صفحه، هفت مبحث، ۱۲ قاب و دو نمودار؛ SHA-256 `fe55643ad7121840e95acbe39427769e7eeb1e9b9281792b0ad9c3657a249cf3`. گزارش، منابع و حدود بازبینی در `headneck/reports/HN_S10_WRITER_FINAL_REPORT.md` ثبت شده‌اند. جلسهٔ ۷ همچنان در انتظار اصل درست است؛ جلسهٔ بعد، ۱۱ صورت است.
