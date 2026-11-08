@@ -20,7 +20,8 @@ from anat1_m06_m10 import MABAHES_A1_B  # noqa: E402
 from anat1_m11_m15 import MABAHES_A1_C  # noqa: E402
   # noqa: E402
 from anat1_appendix import APPENDIX_1402
-from anat1_summary import SUMMARY_1404, EXAM_1404  # noqa: E402
+from anat1_summary import SUMMARY_1404, EXAM_1404
+from anat1_refs import REF_BLOCKS  # noqa: E402
 from reportlab.lib.units import mm  # noqa: E402
 
 OUT_DIR = os.path.join(ROOT, "pdf")
@@ -105,7 +106,12 @@ def build(entries, out_path):
     furniture.closing_note(k, "یادداشت برنامه‌ریزی: تقسیم کار تیم روی ۱۵ مبحث")
     for group in (MABAHES_A1_A, MABAHES_A1_B, MABAHES_A1_C):
         for blocks in group:
-            render_mabhas(k, blocks)
+            b2 = list(blocks)
+            extra = REF_BLOCKS.get(blocks[0][1] if blocks and blocks[0][0] == "mabhas" else None)
+            if extra:
+                idx = next((i for i, x in enumerate(b2) if x[0] == "note"), len(b2))
+                b2[idx:idx] = list(extra)
+            render_mabhas(k, b2)
     summary_page(k, SUMMARY_1404)
     appendix_page(k, APPENDIX_1402)
     exam_page(k, EXAM_1404)
