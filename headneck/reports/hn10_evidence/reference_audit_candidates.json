@@ -1,0 +1,210 @@
+[
+  {
+    "asset": "headneck/images/hn10_refs/netter_100.png",
+    "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+    "page": 100,
+    "reference_render_size": [
+      630,
+      810
+    ],
+    "rect": [
+      30,
+      65,
+      600,
+      745
+    ],
+    "sha256": "0f0ec6827c006befc53d91873ce170f49c21ae74afa2d5d2a04b104ed4c9decc"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/netter_124.png",
+    "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+    "page": 124,
+    "reference_render_size": [
+      630,
+      810
+    ],
+    "rect": [
+      30,
+      65,
+      600,
+      745
+    ],
+    "sha256": "9495cdca16e5695a87c1d08cb95d48314a864c51061b5e490d1263dd199e156d"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/netter_179.png",
+    "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+    "page": 179,
+    "reference_render_size": [
+      630,
+      810
+    ],
+    "rect": [
+      30,
+      65,
+      600,
+      745
+    ],
+    "sha256": "a83b3d9128d3ace5a7873497fc82260fe15f72e832100aafaa3d0b5e93ca04ea"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/netter_181_upper.png",
+    "source": "علوم تشریح سر و گردن/جلسه 1 - سر و گردن 1/Netter Atlas of Human Anatomy Classic Regional Approach.pdf",
+    "page": 181,
+    "reference_render_size": [
+      630,
+      810
+    ],
+    "rect": [
+      40,
+      65,
+      600,
+      350
+    ],
+    "sha256": "79181921bd0ba2a5bd3d8461590f5ae776f284829aaa2ae83afa1e0a01fa4b9e"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_867.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+    "page": 150,
+    "reference_render_size": [
+      827,
+      1070
+    ],
+    "rect": [
+      75,
+      500,
+      412,
+      970
+    ],
+    "sha256": "923478a451df41d54d2a1d15f9c50065631f010b3416688511079d2debf832a8"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_868.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+    "page": 150,
+    "reference_render_size": [
+      827,
+      1070
+    ],
+    "rect": [
+      425,
+      500,
+      762,
+      733
+    ],
+    "sha256": "1e9067829133709985c7ae291d550498e580a8da9d1abb7f4694a3429011c09f"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_869.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+    "page": 151,
+    "reference_render_size": [
+      827,
+      1070
+    ],
+    "rect": [
+      240,
+      455,
+      585,
+      966
+    ],
+    "sha256": "c4f2bc8b08986677ae55a454c0f4c242c377d02216a5fd7243d6c91609becbc3"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_870.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+    "page": 152,
+    "reference_render_size": [
+      827,
+      1070
+    ],
+    "rect": [
+      78,
+      428,
+      752,
+      966
+    ],
+    "sha256": "e8b334b647628a0dd0865a984abe3498d8a5e56628a4a18eacc1ae00945dcb47"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_871.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+    "page": 153,
+    "reference_render_size": [
+      827,
+      1070
+    ],
+    "rect": [
+      75,
+      415,
+      752,
+      966
+    ],
+    "sha256": "f21a74fe14017eb02bfcfaccdaffffbeda8b131265f39c3dcc5427b120500262"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_872.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-801-1000.pdf",
+    "page": 154,
+    "reference_render_size": [
+      827,
+      1070
+    ],
+    "rect": [
+      425,
+      515,
+      752,
+      965
+    ],
+    "sha256": "e9e6f3574af5ecdb209941a44de498613abe71e4d46c694192278b9459404e9c"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_8138.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+    "page": 6,
+    "reference_render_size": [
+      674,
+      872
+    ],
+    "rect": [
+      55,
+      380,
+      625,
+      814
+    ],
+    "sha256": "03e09930b917fd7b099469be073b4eb7cfa9366bf2caf3f6dbe4a5e080bc6264"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_8139.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+    "page": 7,
+    "reference_render_size": [
+      765,
+      990
+    ],
+    "rect": [
+      88,
+      425,
+      696,
+      900
+    ],
+    "sha256": "77d9a0ad29670c45da3261abc4b75123ebd4843ecebadf12174b733192d0c286"
+  },
+  {
+    "asset": "headneck/images/hn10_refs/gray_8140.png",
+    "source": "علوم تشریح دستگاه اعصاب/user - Gray's Anatomy For Students, 3rd Edition-1001-1189.pdf",
+    "page": 8,
+    "reference_render_size": [
+      765,
+      990
+    ],
+    "rect": [
+      75,
+      440,
+      697,
+      900
+    ],
+    "sha256": "b6405cc9b8ea057443c0d47fb91ddcc0122c2fce2d7c8a9addf3c1291e184a7e"
+  }
+]

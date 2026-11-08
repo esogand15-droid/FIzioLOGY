@@ -286,3 +286,7 @@ The updated session-two deliverable is `pdf/HumsYar_HeadNeck_Jalase2_WRITER_FINA
 ## جلسهٔ ۱۰ — اسکالپ و ناحیهٔ تمپورال
 
 `pdf/HumsYar_HeadNeck_Jalase10_WRITER_FINAL.pdf`، ۳۰ صفحه، هفت مبحث، ۱۲ قاب و دو نمودار؛ SHA-256 `fe55643ad7121840e95acbe39427769e7eeb1e9b9281792b0ad9c3657a249cf3`. گزارش، منابع و حدود بازبینی در `headneck/reports/HN_S10_WRITER_FINAL_REPORT.md` ثبت شده‌اند. جلسهٔ ۷ همچنان در انتظار اصل درست است؛ جلسهٔ بعد، ۱۱ صورت است.
+
+## جلسهٔ ۱۰ — تکمیل تصاویر مرجع
+
+جدیدترین خروجی `pdf/HumsYar_HeadNeck_Jalase10_REFERENCE_AUDITED.pdf`، ۴۲ صفحه و ۲۵ قاب (۹ اصل درس، ۷ نتر، ۹ گری) و SHA-256 `d963c3ce870ace38203c21a68a1e543be16635b7c3d7f4aaa86dae4436abcc5f` است. هر هفت مبحث تصویر مرجع دارد؛ محدودهٔ جست‌وجو، تصمیم‌های حذف تکرار و حدود بررسی در `headneck/reports/HN_S10_REFERENCE_IMAGE_AUDIT.md` ثبت شده است. نسخهٔ پیشین محفوظ است.

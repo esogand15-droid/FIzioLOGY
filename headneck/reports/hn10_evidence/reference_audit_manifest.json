@@ -1,0 +1,270 @@
+{
+  "topics": {
+    "hn10-T01": {
+      "page": 5,
+      "title": "حدود و لایه‌های اسکالپ"
+    },
+    "hn10-T02": {
+      "page": 10,
+      "title": "ساختمان لایه‌ها و عضلهٔ اکسیپیتوفرونتالیس"
+    },
+    "hn10-T03": {
+      "page": 15,
+      "title": "پری‌کرانیوم و ناحیهٔ تمپورال سطحی"
+    },
+    "hn10-T04": {
+      "page": 22,
+      "title": "خون‌رسانی اسکالپ و گیجگاه"
+    },
+    "hn10-T05": {
+      "page": 26,
+      "title": "تخلیهٔ وریدی"
+    },
+    "hn10-T06": {
+      "page": 31,
+      "title": "وریدهای رابط و عصب‌دهی"
+    },
+    "hn10-T07": {
+      "page": 36,
+      "title": "نکات بالینی اسکالپ"
+    }
+  },
+  "figures": [
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_01_p01.png",
+      "sha256": "132597ddefa5710f11a93b30ac7ddb67ee2876e478078d18b33d9f062c631d4d",
+      "topic": "hn10-T01",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 1، شکل 01"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_76.png",
+      "sha256": "3de7fa0e1b73a638125865c14616d293f5c1dfca02b63fc1716a0cab794356d9",
+      "topic": "hn10-T01",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت ۲۴، صفحهٔ فایل 76"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_867.png",
+      "sha256": "923478a451df41d54d2a1d15f9c50065631f010b3416688511079d2debf832a8",
+      "topic": "hn10-T01",
+      "source": "گری، آناتومی برای دانشجویان، ویراست ۳، فصل ۸، صفحهٔ فایل ۱۵۰ از بخش ۸۰۱–۱۰۰۰، صفحهٔ چاپی ۹۲۲، شکل ۸.۶۷"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_868.png",
+      "sha256": "1e9067829133709985c7ae291d550498e580a8da9d1abb7f4694a3429011c09f",
+      "topic": "hn10-T01",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۵۰ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۲۲، شکل ۸.۶۸"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_02_p02.png",
+      "sha256": "2e4f57dee14d58e7235f8bbef5243fd0f30d41b2e10be908ff172216055960d9",
+      "topic": "hn10-T02",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 2، شکل 02"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_100.png",
+      "sha256": "0f0ec6827c006befc53d91873ce170f49c21ae74afa2d5d2a04b104ed4c9decc",
+      "topic": "hn10-T02",
+      "source": "نتر، ویراست ۸، پلیت ۴۸، صفحهٔ فایل ۱۰۰"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_869.png",
+      "sha256": "c4f2bc8b08986677ae55a454c0f4c242c377d02216a5fd7243d6c91609becbc3",
+      "topic": "hn10-T02",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۵۱ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۲۳، شکل ۸.۶۹"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_03_p03.png",
+      "sha256": "970ec6fcd57d6887f8a51f3dcd135156a6be882f93db3efc6557797fb54e5abc",
+      "topic": "hn10-T03",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 3، شکل 03"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_04_temporal_upper_p03.png",
+      "sha256": "479ad6c22c0b7a6eaa159c88ee8b4cd74f5a33eb485bda0f6776845d0f07eb7a",
+      "topic": "hn10-T03",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 3، شکل ۴"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_04_temporal_lower_p03.png",
+      "sha256": "5c411bc8cf8aeac26e1f3ae0a0beaed1f6e6452340bc15d54d175fc8d0071b74",
+      "topic": "hn10-T03",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 3، شکل ۴"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_124.png",
+      "sha256": "9495cdca16e5695a87c1d08cb95d48314a864c51061b5e490d1263dd199e156d",
+      "topic": "hn10-T03",
+      "source": "نتر، ویراست ۸، پلیت ۷۲، صفحهٔ فایل ۱۲۴"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_8138.png",
+      "sha256": "03e09930b917fd7b099469be073b4eb7cfa9366bf2caf3f6dbe4a5e080bc6264",
+      "topic": "hn10-T03",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۶ از بخش ۱۰۰۱–۱۱۸۹، چاپی ۹۷۸، شکل ۸.۱۳۸"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_8139.png",
+      "sha256": "77d9a0ad29670c45da3261abc4b75123ebd4843ecebadf12174b733192d0c286",
+      "topic": "hn10-T03",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۷ از بخش ۱۰۰۱–۱۱۸۹، چاپی ۹۷۹، شکل ۸.۱۳۹"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_04_vessels_nerves_p04.png",
+      "sha256": "24581b96b0998d83b0e06ff40a8a37007fd4a5f350c1300954231f66553e433b",
+      "topic": "hn10-T04",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 4، شکل ۴"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_871.png",
+      "sha256": "f21a74fe14017eb02bfcfaccdaffffbeda8b131265f39c3dcc5427b120500262",
+      "topic": "hn10-T04",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۵۳ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۲۵، شکل ۸.۷۱"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_8140.png",
+      "sha256": "b6405cc9b8ea057443c0d47fb91ddcc0122c2fce2d7c8a9addf3c1291e184a7e",
+      "topic": "hn10-T04",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۸ از بخش ۱۰۰۱–۱۱۸۹، چاپی ۹۸۰، شکل ۸.۱۴۰"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_05_veins_p05.png",
+      "sha256": "2ea5bf770ec5b087de1cd732e5d1592666f19183eca9460076e67a8c10f4dbda",
+      "topic": "hn10-T05",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 5، شکل ۵"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_152.png",
+      "sha256": "67bb62ead5cbebdef972b139be9e2264a2d1517c54ab3a636b40d6297a8da841",
+      "topic": "hn10-T05",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت ۱۰۰، صفحهٔ فایل 152"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_872.png",
+      "sha256": "e9e6f3574af5ecdb209941a44de498613abe71e4d46c694192278b9459404e9c",
+      "topic": "hn10-T05",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۵۴ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۲۶، شکل ۸.۷۲"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_75.png",
+      "sha256": "e4d1408c717dfc0d39459edc6a48622e5d2726c1264bb54639f8fbac0ef4b340",
+      "topic": "hn10-T06",
+      "source": "نتر، اطلس آناتومی انسان، ویراست ۸، پلیت ۲۳، صفحهٔ فایل 75"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_179.png",
+      "sha256": "a83b3d9128d3ace5a7873497fc82260fe15f72e832100aafaa3d0b5e93ca04ea",
+      "topic": "hn10-T06",
+      "source": "نتر، ویراست ۸، پلیت ۱۲۷، صفحهٔ فایل ۱۷۹"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/gray_870.png",
+      "sha256": "e8b334b647628a0dd0865a984abe3498d8a5e56628a4a18eacc1ae00945dcb47",
+      "topic": "hn10-T06",
+      "source": "گری، فصل ۸، صفحهٔ فایل ۱۵۲ از بخش ۸۰۱–۱۰۰۰، چاپی ۹۲۴، شکل ۸.۷۰"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_05_clinical_p07.png",
+      "sha256": "41ef1ebc92f9e97e938a24dd22792a92ba571f073de40e7d6ce67aaf4847284e",
+      "topic": "hn10-T07",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 7، شکل ۵"
+    },
+    {
+      "asset": "headneck/images/hn10_candidates/lecture_06_clinical_p07.png",
+      "sha256": "fedae85e77b6e2969587f5870fb022554b35c59cc81ed8411d95ecd0b97d1e64",
+      "topic": "hn10-T07",
+      "source": "جزوهٔ جلسهٔ ۱۰، صفحهٔ فایل 7، شکل 06_clinical"
+    },
+    {
+      "asset": "headneck/images/hn10_refs/netter_181_upper.png",
+      "sha256": "79181921bd0ba2a5bd3d8461590f5ae776f284829aaa2ae83afa1e0a01fa4b9e",
+      "topic": "hn10-T07",
+      "source": "نتر، ویراست ۸، پلیت ۱۲۹، صفحهٔ فایل ۱۸۱، جزئیات بالایی"
+    }
+  ],
+  "source_paragraphs": {
+    "1": 5,
+    "2": 13,
+    "3": 13,
+    "4": 10,
+    "5": 7,
+    "6": 15,
+    "7": 10
+  },
+  "pages": 42,
+  "bookmarks": [
+    [
+      1,
+      "ساختار این جزوه و قاعدهٔ خواندن آن",
+      2
+    ],
+    [
+      2,
+      "قاعدهٔ ارجاع و علامت‌گذاری",
+      2
+    ],
+    [
+      1,
+      "فهرست مطالب",
+      3
+    ],
+    [
+      1,
+      "اسکالپ و ناحیهٔ تمپورال",
+      5
+    ],
+    [
+      2,
+      "حدود و لایه‌های اسکالپ",
+      5
+    ],
+    [
+      2,
+      "ساختمان لایه‌ها و عضلهٔ اکسیپیتوفرونتالیس",
+      10
+    ],
+    [
+      2,
+      "پری‌کرانیوم و ناحیهٔ تمپورال سطحی",
+      15
+    ],
+    [
+      2,
+      "خون‌رسانی اسکالپ و گیجگاه",
+      22
+    ],
+    [
+      2,
+      "تخلیهٔ وریدی",
+      26
+    ],
+    [
+      2,
+      "وریدهای رابط و عصب‌دهی",
+      31
+    ],
+    [
+      2,
+      "نکات بالینی اسکالپ",
+      36
+    ],
+    [
+      1,
+      "جمع‌بندی و چک‌لیست",
+      41
+    ],
+    [
+      1,
+      "قدم بعدی: چه چیزی در جلسهٔ بعد می‌آید",
+      41
+    ]
+  ],
+  "file": "pdf/HumsYar_HeadNeck_Jalase10_REFERENCE_AUDITED.pdf",
+  "sha256": "d963c3ce870ace38203c21a68a1e543be16635b7c3d7f4aaa86dae4436abcc5f",
+  "bytes": 32819249,
+  "qa": {
+    "outside_spans": [],
+    "empty_pages": [],
+    "leaks": [],
+    "body_near_footer": []
+  }
+}
