@@ -23,7 +23,8 @@ from anat3_m21_m25 import MABAHES_A3_E  # noqa: E402
   # noqa: E402
 from anat3_appendix import APPENDIX_1402
 from anat3_summary import SUMMARY_1404, EXAM_1404
-from anat3_refs import REF_BLOCKS, SRC_FIGS  # noqa: E402
+from anat3_refs import REF_BLOCKS, SRC_FIGS
+from anat3_extra import EXTRA_BLOCKS  # noqa: E402
 from reportlab.lib.units import mm  # noqa: E402
 
 OUT_DIR = os.path.join(ROOT, "pdf")
@@ -119,6 +120,10 @@ def build(entries, out_path):
             if extra:
                 idx = next((i for i, x in enumerate(b2) if x[0] == "note"), len(b2))
                 b2[idx:idx] = list(extra)
+            more = EXTRA_BLOCKS.get(num)
+            if more:
+                idx = next((i for i, x in enumerate(b2) if x[0] == "note"), len(b2))
+                b2[idx:idx] = list(more)
             render_mabhas(k, b2)
     summary_page(k, SUMMARY_1404)
     appendix_page(k, APPENDIX_1402)
