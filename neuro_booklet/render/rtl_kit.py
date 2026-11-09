@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+# یادداشت مهم (رفع اشکال ۱۴۰۴/۰۸/۱۸):
+# متن فارسی پس از bidi.get_display() در «ترتیب بصری» است. اگر این رشته روی فاصله
+# شکسته و تکه‌ها از راست به چپ رسم شوند، ترتیب کلمه‌ها برعکس می‌شود. پس در
+# هم‌ترازی دوطرفه، کلمه‌های «منطقی» (خروجی wrap_words) از راست به چپ چیده می‌شوند
+# و عبارت‌های لاتین چندکلمه‌ای با _visual_chunks() یک‌جا می‌مانند.
 """
 rtl_kit — موتور صفحه‌آرایی فارسی (راست‌به‌چپ) برای جزوهٔ مادر
 ساخته‌شده با ReportLab + arabic_reshaper + python-bidi
@@ -78,6 +83,29 @@ def _split_greek(s):
     if cur:
         runs.append((cur, flag))
     return runs
+
+
+
+_LATIN_WORD = re.compile(r"^[0-9A-Za-z\u00C0-\u024F\u0370-\u03FF][0-9A-Za-z\u00C0-\u024F\u0370-\u03FF\.,\-\u2013\u2014/()'\u2019:\;%+&*\[\]]*$")
+
+
+def _is_latin_word(w):
+    return bool(_LATIN_WORD.match(w))
+
+
+def _visual_chunks(words):
+    """کلمه‌های منطقی را به «تکه‌های دوجهته» تبدیل می‌کند.
+
+    تکه‌های لاتین پشت‌سرهم (مثل Guyton and Hall) در یک تکه می‌مانند تا
+    هنگام رسم از راست به چپ، ترتیب درونی خودشان برگردانده نشود.
+    """
+    chunks = []
+    for w in words:
+        if chunks and _is_latin_word(w) and _is_latin_word(chunks[-1].split(" ")[-1]):
+            chunks[-1] = chunks[-1] + " " + w
+        else:
+            chunks.append(w)
+    return chunks
 
 
 class Kit:
@@ -261,7 +289,8 @@ class Kit:
         self.y -= h
 
     # ------------------------------------------------------------ پاراگراف
-    def wrap(self, text, font="r", size=10, width=None, rtl=True):
+    def wrap_words(self, text, font="r", size=10, width=None, rtl=True):
+        """شکست خط با حفظ «کلمه‌های منطقی» (ترتیب خواندن)، نه رشتهٔ بصری."""
         width = width or self.maxw
         words = str(text).split(" ")
         lines, cur = [], []
@@ -274,8 +303,11 @@ class Kit:
                 cur = [w]
         if cur:
             lines.append(cur)
+        return lines
+
+    def wrap(self, text, font="r", size=10, width=None, rtl=True):
         out = []
-        for ln in lines:
+        for ln in self.wrap_words(text, font, size, width, rtl):
             txt = " ".join(ln)
             vis = self.shape(txt) if rtl else txt
             out.append((txt, vis, stringWidth(vis, self.F[font], size)))
@@ -287,32 +319,40 @@ class Kit:
         """پاراگراف فارسی با شکست خط و هم‌ترازی راست/دوطرفه."""
         width = (width or self.maxw) - indent - first_indent
         xr = self.right - indent
-        lines = self.wrap(text, font, size, width, rtl)
+        word_lines = self.wrap_words(text, font, size, width, rtl)
+        lines = []
+        for _ln in word_lines:
+            _t = " ".join(_ln)
+            _v = self.shape(_t) if rtl else _t
+            lines.append((_t, _v, stringWidth(_v, self.F[font], size), _ln))
         lh = size * lead
         color = color or C["ink"]
         self.c.setFillColor(HexColor(color))
         first = True
-        for i, (txt, vis, w) in enumerate(lines):
+        for i, (txt, vis, w, words) in enumerate(lines):
             self.ensure(lh, self.cur_kind)
             if not first:
                 pass
             yy = self.y - size * 0.92
             wl = width if (i < len(lines) - 1 or align == "justify") else w
-            if align == "justify" and i < len(lines) - 1:
-                gaps = vis.count(" ")
-                if gaps > 0:
-                    segs = vis.split(" ")
-                    extra = max(0.0, (width - w)) / gaps
-                    x = xr
-                    for si, seg in enumerate(segs):
-                        sw = stringWidth(seg, self.F[font], size)
-                        x -= sw
-                        self.c.setFont(self.F[font], size)
-                        self.c.drawString(x, yy, seg)
-                        x -= (stringWidth(" ", self.F[font], size) + extra)
-                else:
-                    self.c.setFont(self.F[font], size)
-                    self.c.drawRightString(xr, yy, vis)
+            if align == "justify" and i < len(lines) - 1 and rtl and len(words) > 1:
+                # هم‌ترازی دوطرفه: کلمه‌ها به ترتیب منطقی (خواندن) از راست به چپ رسم می‌شوند
+                chunks = _visual_chunks(words)
+                chunks = [c for c in chunks if c.strip()]
+                sp = stringWidth(" ", self.F[font], size)
+                shapes = [self.shape(c) for c in chunks]
+                widths = [stringWidth(sv, self.F[font], size) for sv in shapes]
+                gaps = max(1, len(chunks) - 1)
+                slack = max(0.0, width - (sum(widths) + gaps * sp)) / gaps
+                self.c.setFont(self.F[font], size)
+                x = xr
+                for sv, sw in zip(shapes, widths):
+                    x -= sw
+                    self.c.drawString(x, yy, sv)
+                    x -= (sp + slack)
+            elif align == "justify" and i < len(lines) - 1:
+                self.c.setFont(self.F[font], size)
+                self.c.drawRightString(xr, yy, vis)
             elif align == "center":
                 self.c.setFont(self.F[font], size)
                 self.c.drawCentredString(xr - width / 2, yy, vis)
